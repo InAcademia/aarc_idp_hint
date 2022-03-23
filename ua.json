@@ -1,0 +1,12 @@
+{
+    "https://idp.chnu.edu.ua/simplesaml/saml2/idp/metadata.php": {
+        "en": "Yuriy Fedkovych Chernivtsi National University"
+    },
+    "https://idp.kubg.edu.ua/simplesaml/saml2/idp/metadata.php": {
+        "en": "Borys Grinchenko Kyiv University"
+    },
+    "https://idp.uran.ua/idp/shibboleth": {
+        "en": "URAN Association IdP",
+        "ru": "Ассоциация УРАН IdP"
+    }
+}

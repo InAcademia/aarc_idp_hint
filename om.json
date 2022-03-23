@@ -1,0 +1,221 @@
+{
+    "http://Adfs.hct.edu.om/adfs/services/trust": {
+        "en": "University of Technology and Applied Sciences (Higher College of Technology)"
+    },
+    "http://adfs.act.edu.om/adfs/services/trust": {
+        "en": "University of Technology and Applied Sciences (Al Musanna)"
+    },
+    "http://adfs.asu.edu.om/adfs/services/trust": {
+        "en": "A'SHARQIYAH UNIVERSITY"
+    },
+    "http://adfs.brm-vtc.edu.om/adfs/services/trust": {
+        "en": "Al Buraimi Vocational College"
+    },
+    "http://adfs.du.edu.om/adfs/services/trust": {
+        "en": "Dhofar University"
+    },
+    "http://adfs.ftik.edu.om/adfs/services/trust": {
+        "en": "Al Khaborah Vocational College of Marine Science"
+    },
+    "http://adfs.gutech.edu.om/adfs/services/trust": {
+        "en": "German University of Technology"
+    },
+    "http://adfs.ibrivtc.edu.om/adfs/services/trust": {
+        "en": "Ibri Vocational College"
+    },
+    "http://adfs.ict.edu.om/adfs/services/trust": {
+        "en": "University of Technology and Applied Science (Ibra)"
+    },
+    "http://adfs.imco.edu.om/adfs/services/trust": {
+        "en": "International Maritime College Oman (IMCO)"
+    },
+    "http://adfs.majancollege.edu.om/adfs/services/trust": {
+        "en": "Majan University College"
+    },
+    "http://adfs.mcbs.edu.om/adfs/services/trust": {
+        "en": "Modern College of Business & Science"
+    },
+    "http://adfs.mtc.edu.om/adfs/services/trust": {
+        "en": "Military Technological College"
+    },
+    "http://adfs.muscatcollege.edu.om/adfs/services/trust": {
+        "en": "Muscat College"
+    },
+    "http://adfs.muscatuniversity.edu.om/adfs/services/trust": {
+        "en": "Muscat University"
+    },
+    "http://adfs.nct.edu.om/adfs/services/trust": {
+        "en": "University of Technology and Applied Sciences-Nizwa"
+    },
+    "http://adfs.ndc.edu.om/adfs/services/trust": {
+        "en": "National Defense College"
+    },
+    "http://adfs.nu.edu.om/adfs/services/trust": {
+        "en": "National University of Science and Technology"
+    },
+    "http://adfs.omren.om/adfs/services/trust": {
+        "en": "OMREN"
+    },
+    "http://adfs.otc.edu.om/adfs/services/trust": {
+        "en": "Oman Tourism College"
+    },
+    "http://adfs.sahamvtc.edu.om/adfs/services/trust": {
+        "en": "Saham Vocational College"
+    },
+    "http://adfs.sct.edu.om/adfs/services/trust": {
+        "en": "University of Technology and Applied Sciences (Salalah)"
+    },
+    "http://adfs.seebvc.edu.om/adfs/services/trust": {
+        "en": "Seeb Vocational College"
+    },
+    "http://adfs.shct.edu.om/adfs/services/trust": {
+        "en": "University of Technology and Applied Science (Shinas)"
+    },
+    "http://adfs.shinasvc.edu.om/adfs/services/trust": {
+        "en": "Shinas Vocational College"
+    },
+    "http://adfs.squ.edu.om/adfs/services/trust": {
+        "en": "Sultan Qaboos University"
+    },
+    "http://adfs.suc.edu.om/adfs/services/trust": {
+        "en": "Sur University College"
+    },
+    "http://adfs.survc.edu.om/adfs/services/trust": {
+        "en": "Sur Vocational College"
+    },
+    "http://adfs.svc.edu.om/adfs/services/trust": {
+        "en": "Salalah Vocational College"
+    },
+    "http://adfs.uob.edu.om/adfs/services/trust": {
+        "en": "University of Buraimi"
+    },
+    "http://fs.css.edu.om/adfs/services/trust": {
+        "en": "College of Sharia Sciences"
+    },
+    "http://fs.su.edu.om/adfs/services/trust": {
+        "en": "Sohar University"
+    },
+    "http://fs.trc.gov.om/adfs/services/trust": {
+        "en": "Research and Innovation Center"
+    },
+    "http://fs.unizwa.edu.om/adfs/services/trust": {
+        "en": "University of Nizwa"
+    },
+    "http://lync.mec.edu.om/adfs/services/trust": {
+        "en": "Middle East College"
+    },
+    "https://IDP.majancollege.edu.om/idp/shibboleth": {
+        "en": "Majan University College (OM-KID)"
+    },
+    "https://accounts.google.com/o/saml2?idpid=C02afc2g7": {
+        "en": "University of Technology and Applied Sciences"
+    },
+    "https://act-idp.act.edu.om/idp/shibboleth": {
+        "en": "Al Musanna College of Technology (OM-KID)"
+    },
+    "https://adfs.ibrict.edu.om/adfs/services/trust": {
+        "en": "University of Technology and Applied Sciences-Ibri"
+    },
+    "https://discovery.omren.om/simplesaml/saml2/idp/metadata.php": {
+        "en": "IdP Proxy"
+    },
+    "https://idp.icem.edu.om/idp/shibboleth": {
+        "en": "International College of Engineering and Management (OM-KID)"
+    },
+    "https://idp.omancollege.edu.om/idp/shibboleth": {
+        "en": "Oman College Of Management and Technology (OM-KID)"
+    },
+    "https://idp.omren.om/idp": {
+        "en": "idp"
+    },
+    "https://idp.sarh.om/idp": {
+        "en": "Sarh"
+    },
+    "https://idp.shct.edu.om/idp/shibboleth": {
+        "en": "Shinas College of Technology (OM-KID)"
+    },
+    "https://idp01.aou.edu.om/idp/shibboleth": {
+        "en": "Arab Open University (OM-KID)"
+    },
+    "https://idp01.bayancollege.edu.om/idp/shibboleth": {
+        "en": "Bayan College (OM-KID)"
+    },
+    "https://idp01.buc.edu.om/idp/shibboleth": {
+        "en": "Buraimi University College (OM-KID)"
+    },
+    "https://idp01.cbfs.edu.om/idp/shibboleth": {
+        "en": "College of Banking and Financial Studies (OM-KID)"
+    },
+    "https://idp01.gulfcollege.edu.om/idp/shibboleth": {
+        "en": "Gulf College (OM-KID)"
+    },
+    "https://idp01.gutech.edu.om/idp/shibboleth": {
+        "en": "German University of Technology (OM-KID)"
+    },
+    "https://idp01.ibrict.edu.om/idp/shibboleth": {
+        "en": "Ibri College of Technology (OM-KID)"
+    },
+    "https://idp01.ict.edu.om/idp/shibboleth": {
+        "en": "Ibra College of Technology (OM-KID)"
+    },
+    "https://idp01.imco.edu.om/idp/shibboleth": {
+        "en": "International Maritime College Oman (OM-KID)"
+    },
+    "https://idp01.maf.gov.om/idp/shibboleth": {
+        "en": "Ministry of Agriculture and Fisheries (OM-KID)"
+    },
+    "https://idp01.mazcol.edu.om/idp/shibboleth": {
+        "en": "Mazoon College (OM-KID)"
+    },
+    "https://idp01.mcbs.edu.om/idp/shibboleth": {
+        "en": "Modern College of Business and Science (OM-KID)"
+    },
+    "https://idp01.mec.edu.om/idp/shibboleth": {
+        "en": "Middle East College (OM-KID)"
+    },
+    "https://idp01.modtrc.gov.om/idp/shibboleth": {
+        "en": "Ministry of Defense (OM-KID)"
+    },
+    "https://idp01.moh.gov.om/idp/shibboleth": {
+        "en": "Ministry of Health (OM-KID)"
+    },
+    "https://idp01.muscatcollege.edu.om/idp/shibboleth": {
+        "en": "Muscat College (OM-KID)"
+    },
+    "https://idp01.muscatuniversity.edu.om/idp/shibboleth": {
+        "en": "Muscat University (OM-KID)"
+    },
+    "https://idp01.nu.edu.om/idp/shibboleth": {
+        "en": "National University of Science and Technology (OM-KID)"
+    },
+    "https://idp01.oapgrc.gov.om/idp/shibboleth": {
+        "en": "Oman Animal and Plant Genetic Resources Center (OM-KID)"
+    },
+    "https://idp01.sct.edu.om/idp/shibboleth": {
+        "en": "Salalah College of Technology (OM-KID)"
+    },
+    "https://idp01.suc.edu.om/idp/shibboleth": {
+        "en": "Sur University College (OM-KID)"
+    },
+    "https://idp01.trc.gov.om/idp/shibboleth": {
+        "en": "The Research Council (OM-KID)"
+    },
+    "https://idp01.uob.edu.om/idp/shibboleth": {
+        "en": "University of Buraimi (OM-KID)"
+    },
+    "https://idp1.nct.edu.om/idp/shibboleth": {
+        "en": "Nizwa College of Technology (OM-KID)"
+    },
+    "https://idpsrv01.squ.edu.om/idp/shibboleth": {
+        "en": "Sultan Qaboos University (OM-KID)"
+    },
+    "https://trc.asu.edu.om/idp/shibboleth": {
+        "en": "ASharqiyah University (OM-KID)"
+    },
+    "https://trcfed.trc.gov.om/idp/shibboleth": {
+        "en": "The Research Council, Oman"
+    },
+    "https://trcidp.unizwa.edu.om/idp/shibboleth": {
+        "en": "University of Nizwa (OM-KID)"
+    }
+}

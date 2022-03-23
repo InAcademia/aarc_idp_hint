@@ -1,0 +1,57 @@
+{
+    "https://accounts.ulbsibiu.ro/myaccount-provider/saml2/idp/metadata.php": {
+        "en": "Lucian Blaga University of Sibiu IdP",
+        "ro": "Universitatea Lucian Blaga din Sibiu IdP"
+    },
+    "https://anelisplus.utcluj.ro/simplesaml/saml2/idp/metadata.php": {
+        "en": "Technical University of Cluj-Napoca",
+        "ro": "Universitatea Tehnica din Cluj-Napoca"
+    },
+    "https://auth.unitbv.ro/simplesaml/saml2/idp/metadata.php": {
+        "en": "Transilvania University of Brasov",
+        "ro": "Universitatea Transilvania din Brasov"
+    },
+    "https://bridge.login.upb.ro/saml2/idp/metadata.php": {
+        "en": "University \"Politehnica\" from Bucharest",
+        "ro": "Universitatea \"Politehnica\" din București"
+    },
+    "https://idp.roedu.net/idp/shibboleth": {
+        "en": "Agency ARNIEC RoEduNet IdP",
+        "ro": "IdP Agenția ARNIEC RoEduNet"
+    },
+    "https://idp.uaic.ro/idp/shibboleth": {
+        "en": "University \"Alexandru Ioan Cuza\" from Iasi",
+        "ro": "Universitatea \"Alexandru Ioan Cuza\" din Iasi"
+    },
+    "https://idp.ub.ro/idp/shibboleth": {
+        "en": "UBC Identity Provider"
+    },
+    "https://idp.unibuc.ro/idp/shibboleth": {
+        "en": "University of Bucharest - Shibboleth IdP",
+        "ro": "Universitatea din București - Shibboleth IdP"
+    },
+    "https://idp.upg-ploiesti.ro/simplesaml/saml2/idp/metadata.php": {
+        "en": "Petroleum Gas University of Ploiesti",
+        "ro": "Universitatea Petrol-Gaze din Ploiesti"
+    },
+    "https://idp.usv.ro/simplesaml/saml2/idp/metadata.php": {
+        "en": "Stefan cel Mare University of Suceava",
+        "ro": "Universitatea Stefan cel Mare din Suceava"
+    },
+    "https://idp.utcb.ro/idp/shibboleth": {
+        "en": "Technical University of Civil Engineering Bucharest IdP",
+        "ro": "IdP al Universitatii Tehnice de Constructii Bucuresti"
+    },
+    "https://login.e-uvt.ro/aai/saml2/idp/metadata.php": {
+        "en": "West University of Timișoara IdP",
+        "ro": "IdP al Universității de Vest din Timișoara"
+    },
+    "https://splp.snspa.ro/smplp/saml2/idp/metadata.php": {
+        "en": "National School of Political Science and Public Administration",
+        "ro": "Scoala Nationala de Studii Politice si Administrative"
+    },
+    "https://sso.tuiasi.ro/auth/realms/TUIASI": {
+        "en": "Gheorghe Asachi Technical University of Iaşi - TUIASI",
+        "ro": "Universitatea Tehnică „Gheorghe Asachi” din Iaşi - TUIASI"
+    }
+}

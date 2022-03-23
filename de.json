@@ -1,0 +1,1402 @@
+{
+    "https://IDP.ehs-dresden.de/idp/shibboleth": {
+        "de": "Evangelische Hochschule Dresden",
+        "en": "Evangelische Hochschule Dresden"
+    },
+    "https://aai-mdc1.mdc-berlin.de/idp/shibboleth": {
+        "de": "Max-Delbrück-Centrum für molekulare Medizin",
+        "en": "Max Delbrück Center for Molecular Medicine"
+    },
+    "https://aai.dhv-speyer.de/idp/shibboleth": {
+        "de": "Universität Speyer",
+        "en": "Universität Speyer"
+    },
+    "https://aai.helmholtz-muenchen.de/idp/shibboleth": {
+        "de": "Helmholtz Zentrum München GmbH (HMGU)",
+        "en": "Helmholtz Zentrum Muenchen GmbH (HMGU)"
+    },
+    "https://aai.ipk-gatersleben.de/idp/shibboleth": {
+        "de": "IPK Gatersleben",
+        "en": "IPK Gatersleben"
+    },
+    "https://aai.pik-potsdam.de/idp/shibboleth": {
+        "de": "Potsdam-Institut für Klimafolgenforschung",
+        "en": "Potsdam Institute for Climate Impact Research"
+    },
+    "https://aai.ruhr-uni-bochum.de/idp/shibboleth": {
+        "de": "Ruhr-Universität Bochum",
+        "en": "Ruhr-Universität Bochum"
+    },
+    "https://aai.rz.uni-leipzig.de/idp/shibboleth": {
+        "de": "Universität Leipzig",
+        "en": "Leipzig University"
+    },
+    "https://aai.th-wildau.de/idp/shibboleth": {
+        "de": "Technische Hochschule Wildau",
+        "en": "Technical University of Applied Sciences Wildau"
+    },
+    "https://account.fh-potsdam.de/idp/shibboleth": {
+        "de": "Fachhochschule Potsdam",
+        "en": "Fachhochschule Potsdam, University of Applied Scienes"
+    },
+    "https://auth.vifa-recht.de/idp/shibboleth": {
+        "de": "FID-Recht (VHO)",
+        "en": "FID-Recht (VHO)"
+    },
+    "https://authent.mh-freiburg.de/idp/shibboleth": {
+        "de": "Hochschule für Musik Freiburg",
+        "en": "University of Music Freiburg"
+    },
+    "https://blblogin.blb-karlsruhe.de/idp/shibboleth": {
+        "de": "Badische Landesbibliothek",
+        "en": "Badische Landesbibliothek"
+    },
+    "https://checkin.thga.de/idp/shibboleth": {
+        "de": "THGA Bochum",
+        "en": "THGA Bochum"
+    },
+    "https://crux.hrz.tu-freiberg.de/shibboleth": {
+        "de": "TU Bergakademie Freiberg",
+        "en": "TU Bergakademie Freiberg"
+    },
+    "https://dfnaai.charite.de/idp/shibboleth": {
+        "de": "Charité - Universitätsmedizin Berlin",
+        "en": "Charite - Universitaetsmedizin Berlin"
+    },
+    "https://dkfzshib.inet.dkfz-heidelberg.de/idp/shibboleth": {
+        "de": "Deutsches Krebsforschungszentrum (DKFZ)",
+        "en": "Deutsches Krebsforschungszentrum (DKFZ)"
+    },
+    "https://ephraim.tu-berlin.de/shibboleth": {
+        "de": "Technische Universität Berlin",
+        "en": "Technische Universität Berlin"
+    },
+    "https://extlogin.dfn.de/idp/shibboleth": {
+        "de": "DFN Login Extern",
+        "en": "DFN Login Extern"
+    },
+    "https://fbh-idp.fbh-berlin.de/idp/shibboleth": {
+        "de": "Ferdinand-Braun-Institut, Leibniz-Institut für Höchstfrequenztechnik",
+        "en": "Ferdinand-Braun-Institute, Leibniz-Institut fuer Hoechstfrequenztechnik"
+    },
+    "https://hertie.sso.academiccloud.de/simplesaml/saml2/idp/metadata.php": {
+        "de": "Hertie School",
+        "en": "Hertie School"
+    },
+    "https://hotaai.fbn-dummerstorf.de/idp/shibboleth": {
+        "de": "Forschungsinstitut für Nutztierbiologie (FBN)",
+        "en": "Research Institute for farm animal biology (FBN)"
+    },
+    "https://identity.fu-berlin.de/idp-fub": {
+        "de": "Freie Universität Berlin",
+        "en": "Freie Universität Berlin"
+    },
+    "https://identity.hwr-berlin.de/idp/shibboleth": {
+        "de": "Hochschule für Wirtschaft und Recht Berlin",
+        "en": "Berlin School of Economics and Law (HWR)"
+    },
+    "https://idp-dev.mhb-fontane.de/idp/shibboleth": {
+        "de": "Medizinische Hochschule Brandenburg",
+        "en": "Brandenburg Medical School"
+    },
+    "https://idp-serv.uni-magdeburg.de/idp/shibboleth": {
+        "de": "Otto-von-Guericke-Universität Magdeburg (OVGU)",
+        "en": "Otto-von-Guericke-University Magdeburg (OVGU)"
+    },
+    "https://idp-vw.hfmdd.de/idp/shibboleth": {
+        "de": "Hochschule für Musik Dresden",
+        "en": "Hochschule fuer Musik Dresden"
+    },
+    "https://idp.aiv.hfoed.de/idp/shibboleth": {
+        "de": "Hfoed - FB AIV",
+        "en": "Hfoed - FB AIV"
+    },
+    "https://idp.ba-riesa.de/idp/shibboleth": {
+        "de": "BA Riesa",
+        "en": "BA Riesa"
+    },
+    "https://idp.ba-sachsen.de/idp/shibboleth": {
+        "de": "Berufsakademie Sachsen",
+        "en": "Berufsakademie Sachsen"
+    },
+    "https://idp.bib.de/idp/shibboleth": {
+        "de": "bib International College",
+        "en": "bib International College"
+    },
+    "https://idp.biochem.mpg.de/idp/shibboleth": {
+        "de": "MPI fuer Biochemie",
+        "en": "MPI of Biochemistry"
+    },
+    "https://idp.biophys.mpg.de/idp/shibboleth": {
+        "de": "MPI für Biophysik",
+        "en": "MPI of Biophysics"
+    },
+    "https://idp.bsb-muenchen.de/shibboleth": {
+        "de": "BSB München",
+        "en": "BSB München"
+    },
+    "https://idp.bsz-bw.de/idp/shibboleth": {
+        "de": "Bibliotheksservice-Zentrum Baden-Württemberg",
+        "en": "Bibliotheksservice-Zentrum Baden-Wuerttemberg"
+    },
+    "https://idp.burg-halle.de/idp/shibboleth": {
+        "de": "Burg Giebichenstein Kunsthochschule Halle",
+        "en": "Burg Giebichenstein University of Art and Design Halle"
+    },
+    "https://idp.cas.dhbw.de/idp/shibboleth": {
+        "de": "DHBW CAS",
+        "en": "DHBW CAS"
+    },
+    "https://idp.cit.frankfurt-university.de/idp/shibboleth": {
+        "de": "Frankfurt University of Applied Sciences",
+        "en": "Frankfurt University of Applied Sciences"
+    },
+    "https://idp.de.dariah.eu/idp/shibboleth": {
+        "de": "DARIAH",
+        "en": "DARIAH"
+    },
+    "https://idp.desy.de/idp/shibboleth": {
+        "de": "Deutsches Elektronen-Synchrotron DESY",
+        "en": "Deutsches Elektronen-Synchrotron DESY"
+    },
+    "https://idp.dfn-cert.de/idp/shibboleth": {
+        "de": "DFN-CERT Services GmbH",
+        "en": "DFN-CERT Services GmbH"
+    },
+    "https://idp.dfn.de/idp/shibboleth": {
+        "de": "DFN-Verein Geschäftsstelle",
+        "en": "DFN Office"
+    },
+    "https://idp.dhbw-loerrach.de/idp/shibboleth": {
+        "de": "DHBW Lörrach",
+        "en": "DHBW Lörrach"
+    },
+    "https://idp.dhbw-mannheim.de/idp/shibboleth": {
+        "de": "DHBW Mannheim",
+        "en": "DHBW Mannheim"
+    },
+    "https://idp.dhbw-vs.de/idp/shibboleth": {
+        "de": "DHBW Villingen-Schwenningen",
+        "en": "DHBW Villingen-Schwenningen"
+    },
+    "https://idp.dhbw.de/idp/shibboleth": {
+        "de": "DHBW",
+        "en": "DHBW"
+    },
+    "https://idp.dhpol.de/idp/shibboleth": {
+        "de": "Deutsche Hochschule der Polizei",
+        "en": "German Police University"
+    },
+    "https://idp.dkrz.de/idp/shibboleth": {
+        "de": "Deutsches Klimarechenzentrum GmbH (DKRZ)",
+        "en": "Deutsches Klimarechenzentrum GmbH (DKRZ)"
+    },
+    "https://idp.dlr.de/idp/shibboleth": {
+        "de": "DLR - Deutsches Zentrum fuer Luft- und Raumfahrt e.V.",
+        "en": "DLR - Deutsches Zentrum fuer Luft- und Raumfahrt e.V."
+    },
+    "https://idp.dsm.museum/idp/shibboleth": {
+        "de": "Deutsches Schifffahrtsmuseum (DSM)",
+        "en": "Deutsches Schifffahrtsmuseum (DSM)"
+    },
+    "https://idp.eah-jena.de/idp/shibboleth": {
+        "de": "Ernst-Abbe-Hochschule Jena",
+        "en": "Ernst-Abbe-Hochschule Jena"
+    },
+    "https://idp.esmt.org/idp/shibboleth": {
+        "de": "ESMT Berlin",
+        "en": "ESMT Berlin"
+    },
+    "https://idp.eso.org/idp/shibboleth": {
+        "de": "ESO - European Southern Observatory",
+        "en": "ESO - European Southern Observatory"
+    },
+    "https://idp.europa-uni.de/idp/shibboleth": {
+        "de": "Europa-Universität Viadrina",
+        "en": "Europa-Universität Viadrina"
+    },
+    "https://idp.evhn.de/idp/shibboleth": {
+        "de": "Evangelische Hochschule Nürnberg",
+        "en": "Evangelische Hochschule Nuernberg"
+    },
+    "https://idp.fh-dortmund.de/idp/shibboleth": {
+        "de": "Fachhochschule Dortmund",
+        "en": "Dortmund University of Applied Sciences and Arts"
+    },
+    "https://idp.fh-duesseldorf.de/idp/shibboleth": {
+        "de": "Hochschule Düsseldorf (Generation 1)",
+        "en": "Hochschule Düsseldorf (Gen 1)"
+    },
+    "https://idp.fh-erfurt.de/idp/shibboleth": {
+        "de": "FH Erfurt",
+        "en": "FH Erfurt"
+    },
+    "https://idp.fh-kiel.de/idp/shibboleth": {
+        "de": "Fachhochschule Kiel",
+        "en": "Kiel University of Applied Sciences"
+    },
+    "https://idp.fh-muenster.de/idp/shibboleth": {
+        "de": "FH Münster",
+        "en": "FH Muenster"
+    },
+    "https://idp.fh-offenburg.de/idp/shibboleth": {
+        "de": "Hochschule Offenburg",
+        "en": "Offenburg University of Applied Sciences"
+    },
+    "https://idp.fh-rosenheim.de/idp/shibboleth": {
+        "de": "Technische Hochschule Rosenheim",
+        "en": "Technical University of Applied Sciences Rosenheim"
+    },
+    "https://idp.fh-swf.de/idp/shibboleth": {
+        "de": "Fachhochschule Südwestfalen",
+        "en": "South Westphalia University of Applied Sciences"
+    },
+    "https://idp.fh-trier.de/idp/shibboleth": {
+        "de": "Hochschule Trier",
+        "en": "Trier University of Applied Sciences"
+    },
+    "https://idp.fh-westkueste.de/idp/shibboleth": {
+        "de": "Fachhochschule Westküste",
+        "en": "Fachhochschule Westküste"
+    },
+    "https://idp.fhi-berlin.mpg.de/idp/shibboleth": {
+        "de": "Fritz-Haber-Institut",
+        "en": "Fritz-Haber-Institut"
+    },
+    "https://idp.fhws.de/idp/shibboleth": {
+        "de": "Hochschule Würzburg-Schweinfurt",
+        "en": "Hochschule Würzburg-Schweinfurt"
+    },
+    "https://idp.filmakademie.de/idp/shibboleth": {
+        "de": "Filmakademie Baden-Wuerttemberg (Prod)",
+        "en": "Filmakademie Baden-Wuerttemberg (Prod)"
+    },
+    "https://idp.fiz-karlsruhe.de/idp/shibboleth": {
+        "de": "FIZ Karlsruhe",
+        "en": "FIZ Karlsruhe"
+    },
+    "https://idp.fraunhofer.de/idp/shibboleth": {
+        "de": "Fraunhofer-Gesellschaft",
+        "en": "Fraunhofer-Gesellschaft"
+    },
+    "https://idp.fzi.de/idp/shibboleth": {
+        "de": "FZI Forschungszentrum Informatik",
+        "en": "FZI Forschungszentrum Informatik"
+    },
+    "https://idp.geomar.de/idp/shibboleth": {
+        "de": "GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel",
+        "en": "GEOMAR Helmholtz Centre for Ocean Research Kiel"
+    },
+    "https://idp.gesis.org/idp/shibboleth": {
+        "de": "GESIS - Leibniz-Institut für Sozialwissenschaften",
+        "en": "GESIS – Leibniz-Institute for the Social Sciences"
+    },
+    "https://idp.gfz-potsdam.de/cas/idp": {
+        "de": "Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ",
+        "en": "Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences"
+    },
+    "https://idp.gsi.de": {
+        "de": "GSI Helmholtzzentrum für Schwerionenforschung GmbH",
+        "en": "GSI Helmholtzzentrum für Schwerionenforschung GmbH"
+    },
+    "https://idp.h-brs.de/nidp/saml2/metadata": {
+        "de": "Hochschule Bonn-Rhein-Sieg IDM",
+        "en": "Bonn-Rhein-Sieg University of Applied Sciences IDM"
+    },
+    "https://idp.hab.de/simplesaml": {
+        "de": "Herzog August Bibliothek Wolfenbuettel",
+        "en": "Herzog August Bibliothek Wolfenbuettel"
+    },
+    "https://idp.haw-landshut.de/idp/shibboleth": {
+        "de": "Hochschule Landshut",
+        "en": "University of Applied Sciences Landshut"
+    },
+    "https://idp.hawk.de/idp/shibboleth": {
+        "de": "HAWK Hochschule Hildesheim/Holzminden/Göttingen",
+        "en": "HAWK University Hildesheim/Holzminden/Göttingen"
+    },
+    "https://idp.hcu-hamburg.de/idp/shibboleth": {
+        "de": "HafenCity Universität Hamburg",
+        "en": "HafenCity Universität Hamburg"
+    },
+    "https://idp.hdm-stuttgart.de/idp/shibboleth": {
+        "de": "Hochschule der Medien Stuttgart",
+        "en": "Hochschule der Medien Stuttgart"
+    },
+    "https://idp.hebis.de/uni-frankfurt": {
+        "de": "Universität Frankfurt",
+        "en": "Universität Frankfurt"
+    },
+    "https://idp.heilbronn.dhbw.de/idp/shibboleth": {
+        "de": "DHBW Heilbronn",
+        "en": "DHBW Heilbronn"
+    },
+    "https://idp.helmholtz-berlin.de/idp/shibboleth": {
+        "de": "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB)",
+        "en": "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB)"
+    },
+    "https://idp.helmholtz-hzi.de/idp/shibboleth": {
+        "de": "Helmholtz-Zentrum für Infektionsforschung GmbH [HZI]",
+        "en": "Helmholtz Center for Infection Research GmbH [HZI]"
+    },
+    "https://idp.helmholtz.de/idp/shibboleth": {
+        "de": "Helmholtz-Gemeinschaft Deutscher Forschungszentren e.V.",
+        "en": "Helmholtz Association of German Research Centres e.V."
+    },
+    "https://idp.hereon.de/auth/realms/hereon": {
+        "de": "Helmholtz-Zentrum hereon GmbH",
+        "en": "Helmholtz-Zentrum hereon GmbH"
+    },
+    "https://idp.hfbk-dresden.de/idp/shibboleth": {
+        "de": "HfBK Dresden",
+        "en": "HfBK Dresden"
+    },
+    "https://idp.hfg-gmuend.de/idp/shibboleth": {
+        "de": "HfG Hochschule für Gestaltung",
+        "en": "HfG Hochschule für Gestaltung"
+    },
+    "https://idp.hfg-offenbach.de/idp/shibboleth": {
+        "de": "IDP - Hochschule für Gestaltung Offenbach am Main",
+        "en": "IDP - University of Art and Design - Offenbach am Main"
+    },
+    "https://idp.hfmdk-frankfurt.de/idp/shibboleth": {
+        "de": "Hochschule für Musik und Darstellende Kunst (HfMDK) Frankfurt am Main",
+        "en": "University of Music and Performing Arts (HfMDK) Frankfurt/Main"
+    },
+    "https://idp.hfmsaar.de/idp/shibboleth": {
+        "de": "Hochschule für Musik des Saarlandes",
+        "en": "Hochschule für Musik des Saarlandes"
+    },
+    "https://idp.hfmt-koeln.de/idp/shibboleth": {
+        "de": "Hochschule für Musik und Tanz Köln",
+        "en": "Hochschule für Musik und Tanz Köln"
+    },
+    "https://idp.hgb-leipzig.de/idp/shibboleth": {
+        "de": "Hochschule für Grafik und Buchkunst Leipzig",
+        "en": "Academy of Fine Arts Leipzig"
+    },
+    "https://idp.hmt-leipzig.de/shibboleth": {
+        "de": "Hochschule für Musik und Theater Leipzig",
+        "en": "University for music and theatre Leipzig"
+    },
+    "https://idp.hmt-rostock.de/idp/shibboleth": {
+        "de": "Hochschule für Musik und Theater Rostock",
+        "en": "Rostock University of Music and Drama"
+    },
+    "https://idp.hmtm-hannover.de/idp/shibboleth": {
+        "de": "Hochschule für Musik, Theater und Medien Hannover",
+        "en": "Hanover University of Music, Drama and Media"
+    },
+    "https://idp.hochschule-bc.de/idp/shibboleth": {
+        "de": "Hochschule Biberach",
+        "en": "Hochschule Biberach"
+    },
+    "https://idp.hof-university.de/idp/shibboleth": {
+        "de": "Hochschule für Angewandte Wissenschaften Hof",
+        "en": "University of Applied Sciences Hof"
+    },
+    "https://idp.hrz.tu-darmstadt.de/idp/shibboleth": {
+        "de": "Technische Universität Darmstadt",
+        "en": "Technical University of Darmstadt"
+    },
+    "https://idp.hrz.uni-giessen.de/idp/shibboleth": {
+        "de": "Justus-Liebig-Universität Gießen",
+        "en": "Justus Liebig University Giessen"
+    },
+    "https://idp.hrz.uni-kassel.de/idp/shibboleth-idp": {
+        "de": "Universität Kassel",
+        "en": "Universität Kassel"
+    },
+    "https://idp.hs-anhalt.de/idp/shibboleth": {
+        "de": "Hochschule Anhalt",
+        "en": "Anhalt University of Applied Sciences"
+    },
+    "https://idp.hs-ansbach.de/idp/shibboleth": {
+        "de": "Hochschule Ansbach IDP",
+        "en": "Hochschule Ansbach IDP"
+    },
+    "https://idp.hs-bochum.de/idp/shibboleth": {
+        "de": "Hochschule Bochum",
+        "en": "Bochum University Of Applied Sciences"
+    },
+    "https://idp.hs-bremen.de/idp/shibboleth": {
+        "de": "Hochschule Bremen",
+        "en": "City University of applied sciences Bremen"
+    },
+    "https://idp.hs-bremerhaven.de/idp/shibboleth": {
+        "de": "Hochschule Bremerhaven",
+        "en": "Hochschule Bremerhaven University of Applied Sciences"
+    },
+    "https://idp.hs-coburg.de/idp/shibboleth": {
+        "de": "Hochschule Coburg",
+        "en": "Hochschule Coburg"
+    },
+    "https://idp.hs-emden-leer.de/idp/shibboleth": {
+        "de": "Hochschule Emden/Leer",
+        "en": "University of Applied Sciences Emden/Leer"
+    },
+    "https://idp.hs-esslingen.de/idp/shibboleth": {
+        "de": "Hochschule Esslingen",
+        "en": "Esslingen University of Applied Sciences"
+    },
+    "https://idp.hs-flensburg.de/idp/shibboleth": {
+        "de": "Hochschule Flensburg",
+        "en": "Flensburg University of Applied Sciences"
+    },
+    "https://idp.hs-gesundheit.de/idp/shibboleth": {
+        "de": "Hochschule für Gesundheit",
+        "en": "Hochschule für Gesundheit"
+    },
+    "https://idp.hs-hannover.de/idp/shibboleth": {
+        "de": "Hochschule Hannover",
+        "en": "Hochschule Hannover"
+    },
+    "https://idp.hs-harz.de/shibboleth": {
+        "de": "Hochschule Harz",
+        "en": "Hochschule Harz"
+    },
+    "https://idp.hs-heilbronn.de/idp/shibboleth": {
+        "de": "Hochschule Heilbronn",
+        "en": "Heilbronn University"
+    },
+    "https://idp.hs-karlsruhe.de/idp/shibboleth": {
+        "de": "Hochschule Karlsruhe",
+        "en": "University of Applied Sciences Karlsruhe"
+    },
+    "https://idp.hs-kehl.de/idp/shibboleth": {
+        "de": "Hochschule für öffentliche Verwaltung Kehl",
+        "en": "University of Applied Sciences Kehl"
+    },
+    "https://idp.hs-kempten.de/idp/shibboleth": {
+        "de": "Hochschule Kempten",
+        "en": "Kempten University of Applied Sciences"
+    },
+    "https://idp.hs-koblenz.de/idp/shibboleth": {
+        "de": "Hochschule Koblenz",
+        "en": "Hochschule Koblenz"
+    },
+    "https://idp.hs-ludwigsburg.de/idp/shibboleth": {
+        "de": "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg",
+        "en": "University of Applied Sciences Ludwigsburg"
+    },
+    "https://idp.hs-magdeburg.de/idp/shibboleth": {
+        "de": "Hochschule Magdeburg-Stendal",
+        "en": "Magdeburg-Stendal University of Applied Sciences"
+    },
+    "https://idp.hs-nb.de/idp/shibboleth": {
+        "de": "Hochschule Neubrandenburg",
+        "en": "Neubrandenburg University of Applied Sciences"
+    },
+    "https://idp.hs-pforzheim.de/idp/shibboleth": {
+        "de": "Hochschule Pforzheim IdP",
+        "en": "Hochschule Pforzheim University IdP"
+    },
+    "https://idp.hs-rm.de/idp/shibboleth": {
+        "de": "Hochschule RheinMain",
+        "en": "Hochschule RheinMain"
+    },
+    "https://idp.hs-rottenburg.de/idp/shibboleth": {
+        "de": "Hochschule für Forstwirtschaft Rottenburg (HFR)",
+        "en": "University of Applied Forest Sciences Rottenburg"
+    },
+    "https://idp.hs-ruhrwest.de/idp/shibboleth": {
+        "de": "Hochschule Ruhr West",
+        "en": "Hochschule Ruhr West"
+    },
+    "https://idp.hs-schmalkalden.de/simplesaml": {
+        "de": "Hochschule Schmalkalden",
+        "en": "Hochschule Schmalkalden"
+    },
+    "https://idp.hs-wismar.de/idp/shibboleth": {
+        "de": "Hochschule Wismar",
+        "en": "Hochschule Wismar"
+    },
+    "https://idp.hs-woe.de/idp/shibboleth": {
+        "de": "Jade Hochschule",
+        "en": "Jade Hochschule"
+    },
+    "https://idp.hshl.de/idp/shibboleth": {
+        "de": "Hochschule Hamm-Lippstadt",
+        "en": "Hochschule Hamm-Lippstadt"
+    },
+    "https://idp.hszg.de/idp/shibboleth": {
+        "de": "Hochschule Zittau/Görlitz",
+        "en": "Hochschule Zittau/Goerlitz"
+    },
+    "https://idp.htw-aalen.de/idp/shibboleth": {
+        "de": "Hochschule Aalen - Technik und Wirtschaft",
+        "en": "Hochschule Aalen - Technik und Wirtschaft"
+    },
+    "https://idp.htwg-konstanz.de/idp/shibboleth": {
+        "de": "HTWG Konstanz",
+        "en": "HTWG Konstanz"
+    },
+    "https://idp.htwsaar.de/idp/shibboleth": {
+        "de": "Hochschule für Technik und Wirtschaft des Saarlandes",
+        "en": "Hochschule für Technik und Wirtschaft des Saarlandes"
+    },
+    "https://idp.hwg-lu.de/idp/shibboleth": {
+        "de": "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
+        "en": "Ludwigshafen University of Business and Society"
+    },
+    "https://idp.hzdr.de/idp/shibboleth": {
+        "de": "Helmholtz-Zentrum Dresden-Rossendorf e.V. (HZDR)",
+        "en": "Helmholtz-Zentrum Dresden-Rossendorf e.V. (HZDR)"
+    },
+    "https://idp.iap-kborn.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Atmosphärenphysik IAP",
+        "en": "Leibniz-Institute of Atmospheric Physics IAP"
+    },
+    "https://idp.ids-mannheim.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Deutsche Sprache (IDS)",
+        "en": "Leibniz-Institut für Deutsche Sprache (IDS)"
+    },
+    "https://idp.ifw-dresden.de/idp/shibboleth": {
+        "de": "IFW Dresden",
+        "en": "IFW Dresden"
+    },
+    "https://idp.ifw-kiel.de/idp/shibboleth": {
+        "de": "Kiel Institut für Weltwirtschaft",
+        "en": "Kiel Institute for the world economy"
+    },
+    "https://idp.inp-greifswald.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Plasmaforschung und Technologie e.V.",
+        "en": "Leibniz Institute for Plasma Science and Technology"
+    },
+    "https://idp.ipb-halle.de/idp/shibboleth": {
+        "de": "IPB Halle",
+        "en": "IPB Halle"
+    },
+    "https://idp.ipu-berlin.de/idp/shibboleth": {
+        "de": "Internationale Psychoanalytische Universität Berlin (IPU)",
+        "en": "International Psychoanalytic University Berlin (IPU)"
+    },
+    "https://idp.isas.de/idp/shibboleth": {
+        "de": "Leibniz-Institut fuer Analytische Wissenschaften - ISAS - e.V.",
+        "en": "Leibniz-Institut fuer Analytische Wissenschaften - ISAS - e.V."
+    },
+    "https://idp.ism.de/idp/shibboleth": {
+        "de": "ISM International School of Management",
+        "en": "ISM International School of Management"
+    },
+    "https://idp.itmc.tu-dortmund.de/idp/shibboleth": {
+        "de": "Technische Universität Dortmund",
+        "en": "Technische Universität Dortmund"
+    },
+    "https://idp.its.fz-juelich.de/idp/shibboleth": {
+        "de": "Forschungszentrum Jülich GmbH (FZJ)",
+        "en": "Forschungszentrum Jülich GmbH (FZJ)"
+    },
+    "https://idp.iwm-tuebingen.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Wissensmedien",
+        "en": "Leibniz-Institut fuer Wissensmedien"
+    },
+    "https://idp.khm.de/idp/shibboleth": {
+        "de": "Kunsthochschule fuer Medien Koeln",
+        "en": "Academy of Media Arts Cologne"
+    },
+    "https://idp.ksfh.de/idp/shibboleth": {
+        "de": "Katholische Stiftungsfachhochschule München",
+        "en": "Katholische Stiftungsfachhochschule München."
+    },
+    "https://idp.ku.de/idp/shibboleth": {
+        "de": "Katholische Universität Eichstätt-Ingolstadt",
+        "en": "Catholic University Eichstaett-Ingolstadt"
+    },
+    "https://idp.kultus-mv.de/idp/shibboleth": {
+        "de": "Ministerium für Bildung, Wissenschaft und Kultur Mecklenburg-Vorpommern",
+        "en": "Ministry of Education, Science and Culture Mecklenburg-Vorpommern"
+    },
+    "https://idp.kunstakademie-duesseldorf.de/idp/shibboleth": {
+        "de": "Kunstakademie Düsseldorf",
+        "en": "Art Academy of Duesseldorf"
+    },
+    "https://idp.lrz.de/idp/shibboleth": {
+        "de": "Leibniz-Rechenzentrum (LRZ)",
+        "en": "Leibniz Supercomputing Centre (LRZ)"
+    },
+    "https://idp.mfo.de/idp/shibboleth": {
+        "de": "Mathematisches Forschungsinstitut Oberwolfach gGmbH",
+        "en": "Mathematisches Forschungsinstitut Oberwolfach gGmbH"
+    },
+    "https://idp.mh-trossingen.de/idp/shibboleth": {
+        "de": "Staatliche Hochschule für Musik Trossingen",
+        "en": "Trossingen University of Music"
+    },
+    "https://idp.mis.mpg.de/simplesamlphp/saml2/idp/metadata.php": {
+        "de": "Max-Planck-Institut für Mathematik in den Naturwissenschaften",
+        "en": "Max Planck Institute for Mathematics in the Sciences"
+    },
+    "https://idp.mpi-bremen.de/idp/shibboleth": {
+        "de": "Max-Planck-Institut für Marine Mikrobiologie",
+        "en": "Max Planck Institute for Marine  Microbiology"
+    },
+    "https://idp.mpi-inf.mpg.de/mpii-idp/shibboleth": {
+        "de": "Max-Planck-Institut für Informatik",
+        "en": "Max Planck Institute for Informatics"
+    },
+    "https://idp.mpi-sws.org/mpis-idp/shibboleth": {
+        "de": "Max-Planck-Institut für Softwaresysteme",
+        "en": "Max Planck Institute for Software Systems"
+    },
+    "https://idp.nordakademie.de/idp/shibboleth": {
+        "de": "NORDAKADEMIE Elmshorn",
+        "en": "NORDAKADEMIE Elmshorn"
+    },
+    "https://idp.ohm-hochschule.de/idp/shibboleth": {
+        "de": "Technische Hochschule Nürnberg Georg Simon Ohm",
+        "en": "Technische Hochschule Nürnberg Georg Simon Ohm"
+    },
+    "https://idp.oth-aw.de/idp/shibboleth": {
+        "de": "Ostbayerische Technische Hochschule Amberg-Weiden",
+        "en": "Ostbayerische Technische Hochschule Amberg-Weiden"
+    },
+    "https://idp.ph-freiburg.de/idp/shibboleth": {
+        "de": "PH Freiburg",
+        "en": "PH Freiburg"
+    },
+    "https://idp.ph-gmuend.de/idp/shibboleth": {
+        "de": "PH Schwäbisch Gmünd",
+        "en": "University of Education Gmuend"
+    },
+    "https://idp.ph-karlsruhe.de/idp/shibboleth": {
+        "de": "PH Karlsruhe",
+        "en": "University of Education Karlsruhe"
+    },
+    "https://idp.ph-ludwigsburg.de/idp/shibboleth": {
+        "de": "PH Ludwigsburg",
+        "en": "PH Ludwigsburg"
+    },
+    "https://idp.ph-weingarten.de/idp/shibboleth": {
+        "de": "PH Weingarten",
+        "en": "PH Weingarten"
+    },
+    "https://idp.reutlingen-university.de/idp/shibboleth": {
+        "de": "Reutlingen University / Hochschule Reutlingen",
+        "en": "Reutlingen University / Hochschule Reutlingen"
+    },
+    "https://idp.rrz.uni-koeln.de/idp/shibboleth": {
+        "de": "Universität zu Köln",
+        "en": "Universität zu Köln"
+    },
+    "https://idp.rz.uni-augsburg.de/simplesaml/saml2/idp/metadata.php": {
+        "de": "Universität Augsburg",
+        "en": "University of Augsburg"
+    },
+    "https://idp.rz.uni-bamberg.de/idp/shibboleth": {
+        "de": "Otto-Friedrich-Universität Bamberg",
+        "en": "University of Bamberg"
+    },
+    "https://idp.rz.uni-hohenheim.de/idp/shibboleth": {
+        "de": "Universität Hohenheim",
+        "en": "University of Hohenheim"
+    },
+    "https://idp.rz.uni-kiel.de/idp/shibboleth": {
+        "de": "Christian-Albrechts-Universität zu Kiel",
+        "en": "Christian-Albrechts-Universität zu Kiel"
+    },
+    "https://idp.rz.unibw-muenchen.de/idp/shibboleth": {
+        "de": "UniBw München",
+        "en": "UniBw Munich"
+    },
+    "https://idp.scc.kit.edu/idp/shibboleth": {
+        "de": "Karlsruher Institut für Technologie (KIT)",
+        "en": "Karlsruhe Institute of Technology (KIT)"
+    },
+    "https://idp.th-brandenburg.de/idp/shibboleth": {
+        "de": "Technische Hochschule Brandenburg",
+        "en": "Brandenburg University of Applied Sciences"
+    },
+    "https://idp.th-deg.de/idp/shibboleth": {
+        "de": "Technische Hochschule Deggendorf",
+        "en": "Deggendorf Institute of Technology"
+    },
+    "https://idp.thm.de/idp/shibboleth": {
+        "de": "Technische Hochschule Mittelhessen",
+        "en": "Technische Hochschule Mittelhessen"
+    },
+    "https://idp.tu-clausthal.de/idp/shibboleth": {
+        "de": "Technische Universität Clausthal",
+        "en": "Technische Universität Clausthal"
+    },
+    "https://idp.tu-dresden.de/idp/shibboleth": {
+        "de": "Technische Universität Dresden",
+        "en": "Technische Universität Dresden"
+    },
+    "https://idp.tu-ilmenau.de/idp/shibboleth": {
+        "de": "Technische Universität Ilmenau",
+        "en": "Technische Universität Ilmenau"
+    },
+    "https://idp.ub.hsu-hh.de/idp/shibboleth": {
+        "de": "Helmut-Schmidt-Universität Hamburg",
+        "en": "Helmut-Schmidt-Universität Hamburg"
+    },
+    "https://idp.udk-berlin.de/idp/shibboleth": {
+        "de": "Universität der Künste Berlin",
+        "en": "The Berlin University of the Arts"
+    },
+    "https://idp.uni-bayreuth.de/idp/shibboleth": {
+        "de": "Universität Bayreuth",
+        "en": "University of Bayreuth"
+    },
+    "https://idp.uni-bremen.de/idp/shibboleth": {
+        "de": "Universität Bremen",
+        "en": "Universität Bremen"
+    },
+    "https://idp.uni-duesseldorf.de/idp/shibboleth": {
+        "de": "Heinrich-Heine-Universität Düsseldorf",
+        "en": "Heinrich Heine University Duesseldorf"
+    },
+    "https://idp.uni-duisburg-essen.de/idp/shibboleth": {
+        "de": "Universität Duisburg-Essen",
+        "en": "Universität Duisburg-Essen"
+    },
+    "https://idp.uni-flensburg.de/idp/shibboleth": {
+        "de": "Europa-Universität Flensburg",
+        "en": "Europa-Universität Flensburg"
+    },
+    "https://idp.uni-greifswald.de/idp/shibboleth": {
+        "de": "Universität Greifswald",
+        "en": "University of Greifswald"
+    },
+    "https://idp.uni-heidelberg.de": {
+        "de": "Universität Heidelberg",
+        "en": "Universität Heidelberg"
+    },
+    "https://idp.uni-jena.de/idp/shibboleth": {
+        "de": "Friedrich-Schiller-Universität Jena",
+        "en": "Friedrich Schiller University Jena"
+    },
+    "https://idp.uni-kl.de/idp/shibboleth": {
+        "de": "TU Kaiserslautern",
+        "en": "TU Kaiserslautern"
+    },
+    "https://idp.uni-konstanz.de/shibboleth-idp": {
+        "de": "Universität Konstanz",
+        "en": "University of Konstanz"
+    },
+    "https://idp.uni-luebeck.de/idp/shibboleth": {
+        "de": "Universität zu Lübeck",
+        "en": "University of Luebeck"
+    },
+    "https://idp.uni-mannheim.de/idp/shibboleth": {
+        "de": "Universität Mannheim",
+        "en": "University of Mannheim"
+    },
+    "https://idp.uni-oldenburg.de/idp/shibboleth": {
+        "de": "Universität Oldenburg",
+        "en": "Universität Oldenburg"
+    },
+    "https://idp.uni-paderborn.de/idp/shibboleth": {
+        "de": "Universität Paderborn",
+        "en": "Paderborn University"
+    },
+    "https://idp.uni-potsdam.de/idp/shibboleth": {
+        "de": "Universität Potsdam",
+        "en": "University of Potsdam"
+    },
+    "https://idp.uni-rostock.de/idp/shibboleth": {
+        "de": "Universität Rostock",
+        "en": "University of Rostock"
+    },
+    "https://idp.uni-stuttgart.de/idp/shibboleth": {
+        "de": "Universität Stuttgart",
+        "en": "University of Stuttgart"
+    },
+    "https://idp.uni-tuebingen.de/shibboleth": {
+        "de": "Universität Tübingen",
+        "en": "University of Tübingen"
+    },
+    "https://idp.uni-ulm.de/idp/shibboleth": {
+        "de": "Universität Ulm",
+        "en": "Ulm University"
+    },
+    "https://idp.uni-wh.de/idp/shibboleth": {
+        "de": "Universität Witten/Herdecke",
+        "en": "Witten/Herdecke University"
+    },
+    "https://idp.uni-wuppertal.de/idp/shibboleth": {
+        "de": "Bergische Universität Wuppertal",
+        "en": "University of Wuppertal"
+    },
+    "https://idp.vhb.org/idp/shibboleth": {
+        "de": "Virtuelle Hochschule Bayern (vhb)",
+        "en": "Virtual University of Bavaria (vhb)"
+    },
+    "https://idp.wlb-stuttgart.de/idp/shibboleth": {
+        "de": "Württembergische Landesbibliothek Stuttgart",
+        "en": "Württemberg State Library Stuttgart"
+    },
+    "https://idp.zbw.eu/idp/shibboleth": {
+        "de": "ZBW - Leibniz-Informationszentrum Wirtschaft",
+        "en": "ZBW - Leibniz Information Centre for Economics"
+    },
+    "https://idp.zois-berlin.de/idp/shibboleth": {
+        "de": "Zentrum für Osteuropa- und internationale Studien (ZOiS)",
+        "en": "Centre for East European and International Studies (ZOiS)"
+    },
+    "https://idp.zu.de/idp/shibboleth": {
+        "de": "Zeppelin Universität",
+        "en": "Zeppelin University"
+    },
+    "https://idp0.cispa.de/simplesaml/saml2/idp/metadata.php": {
+        "de": "CISPA - Helmholtz-Zentrum für Informationssicherheit",
+        "en": "CISPA - Helmholtz Center for Information Security"
+    },
+    "https://idp0.uni-saarland.de/idp/shibboleth": {
+        "de": "Universität des Saarlandes",
+        "en": "Saarland University"
+    },
+    "https://idp01.leuphana.de/idp/shibboleth": {
+        "de": "Leuphana - Universitaet Lueneburg",
+        "en": "Leuphana - University Lueneburg"
+    },
+    "https://idp01.th-luebeck.de/idp/shibboleth": {
+        "de": "Technische Hochschule Lübeck",
+        "en": "Technische Hochschule Lübeck - University of Applied Sciences"
+    },
+    "https://idp1.rz.hs-fulda.de": {
+        "de": "Hochschule Fulda University of Applied Sciences",
+        "en": "Hochschule Fulda University of Applied Sciences"
+    },
+    "https://idp1.thi.de/idp/shibboleth": {
+        "de": "Technische Hochschule Ingolstadt",
+        "en": "Technische Hochschule Ingolstadt"
+    },
+    "https://idp1.ufz.de/idp/shibboleth": {
+        "de": "Helmholtz-Zentrum für Umweltforschung GmbH - UFZ IdP",
+        "en": "Helmholtz-Zentrum für Umweltforschung GmbH - UFZ IdP"
+    },
+    "https://idp2.dife.de/idp/shibboleth": {
+        "de": "DIfE - Deutsches Institut für Ernährungsforschung",
+        "en": "DIfE - German Institute of Human Nutrition"
+    },
+    "https://idp2.hs-augsburg.de/simplesaml": {
+        "de": "Hochschule Augsburg",
+        "en": "University of Applied Sciences Augsburg"
+    },
+    "https://idp2.hs-furtwangen.de/idp/shibboleth": {
+        "de": "Hochschule Furtwangen",
+        "en": "Furtwangen University"
+    },
+    "https://idp2.hswt.de/idp/shibboleth": {
+        "de": "Hochschule Weihenstephan-Triesdorf.(IDP)",
+        "en": "Weihenstephan-Triesdorf university of applied sciences. (IDP)"
+    },
+    "https://idp2.htw-dresden.de/idp/shibboleth": {
+        "de": "Hochschule für Technik und Wirtschaft Dresden",
+        "en": "University of Applied Sciences Dresden"
+    },
+    "https://idp2.jacobs-university.de/idp/shibboleth": {
+        "de": "Jacobs University Bremen gGmbH",
+        "en": "Jacobs University Bremen gGmbH"
+    },
+    "https://idp2.maxrubner.de/idp/shibboleth": {
+        "de": "Max Rubner-Institut",
+        "en": "Max Rubner-Institute"
+    },
+    "https://idp2.rfh-koeln.de/idp/shibboleth": {
+        "de": "Rheinische Fachhochschule Köln gGmbH",
+        "en": "Rheinische Fachhochschule Köln gGmbH"
+    },
+    "https://idp2.rz.ba-dresden.de/idp/shibboleth": {
+        "de": "BA Dresden",
+        "en": "BA Dresden"
+    },
+    "https://idp4.tiho-hannover.de/idp/shibboleth": {
+        "de": "Stiftung Tieraerztliche Hochschule Hannover (eduGAIN)",
+        "en": "University of Veterinary Medicine Hannover (eduGAIN)"
+    },
+    "https://idpc.th-ab.de/idp/shibboleth": {
+        "de": "Technische Hochschule Aschaffenburg",
+        "en": "Technische Hochschule Aschaffenburg"
+    },
+    "https://idpdomain.fhhrz.net/idp/shibboleth": {
+        "de": "FH HRZ Darmstadt",
+        "en": "FH HRZ Darmstadt"
+    },
+    "https://idpka.uni-muenster.de/idp/shibboleth": {
+        "de": "Kunstakademie Münster",
+        "en": "Kunstakademie Münster"
+    },
+    "https://idpsso.haw-landshut.de/idp/shibboleth": {
+        "de": "Hochschule Landshut",
+        "en": "University of Applied Sciences Landshut"
+    },
+    "https://lmuidp.lrz.de/idp/shibboleth": {
+        "de": "Universität München (LMU)",
+        "en": "University of Munich (LMU)"
+    },
+    "https://login.bbaw.de/idp/shibboleth": {
+        "de": "Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)",
+        "en": "Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)"
+    },
+    "https://login.beuth-hochschule.de/idp/shibboleth": {
+        "de": "Berliner Hochschule für Technik (BHT)",
+        "en": "Berliner Hochschule für Technik (BHT)"
+    },
+    "https://login.conf.dfn.de/idp/shibboleth": {
+        "de": "DFNconf Login",
+        "en": "DFNconf Login"
+    },
+    "https://login.crossasia.org/idp/shibboleth": {
+        "de": "CrossAsia.org (VHO)",
+        "en": "CrossAsia.org (VHO)"
+    },
+    "https://login.dhbw-heidenheim.de/idp/shibboleth": {
+        "de": "DHBW Heidenheim",
+        "en": "DHBW Heidenheim"
+    },
+    "https://login.dhbw-ravensburg.de/idp/shibboleth": {
+        "de": "DHBW Ravensburg",
+        "en": "DHBW Ravensburg"
+    },
+    "https://login.dipf.de/idp/shibboleth": {
+        "de": "DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation",
+        "en": "DIPF | Leibniz Institute for Research and Information in Education"
+    },
+    "https://login.fernuni-hagen.de/idp/shibboleth": {
+        "de": "FernUniversität in Hagen",
+        "en": "University in Hagen"
+    },
+    "https://login.fh-aachen.de/idp/shibboleth": {
+        "de": "Fachhochschule Aachen",
+        "en": "University of Applied Sciences Aachen"
+    },
+    "https://login.fh-bielefeld.de/nidp/saml2/metadata": {
+        "de": "Fachhochschule Bielefeld",
+        "en": "Fachhochschule Bielefeld"
+    },
+    "https://login.fid-lizenzen.de/idp/shibboleth": {
+        "de": "Anmeldung Fachinformationsdienste (FID VHO)",
+        "en": "Anmeldung Fachinformationsdienste (FID VHO)"
+    },
+    "https://login.folkwang-uni.de/idp/shibboleth": {
+        "de": "Folkwang Universität der Künste",
+        "en": "Folkwang University of the Arts"
+    },
+    "https://login.haw-hamburg.de/nidp/saml2/metadata": {
+        "de": "Hochschule für Angewandte Wissenschaften Hamburg",
+        "en": "Hamburg University of Applied Sciences"
+    },
+    "https://login.hfmt-hamburg.de/idp/shibboleth": {
+        "de": "Hochschule für Musik und Theater Hamburg",
+        "en": "Hochschule fuer Musik und Theater Hamburg"
+    },
+    "https://login.hfwu.de/idp/shibboleth": {
+        "de": "HfWU Nürtingen-Geislingen",
+        "en": "HfWU Nuertingen-Geislingen"
+    },
+    "https://login.hs-albsig.de/idp/shibboleth": {
+        "de": "Hochschule Albstadt-Sigmaringen",
+        "en": "Albstadt-Sigmaringen University of Applied Sciences"
+    },
+    "https://login.hs-mannheim.de/idp/shibboleth": {
+        "de": "Hochschule Mannheim",
+        "en": "University of Applied Sciences Mannheim"
+    },
+    "https://login.hs-ulm.de/shibboleth-idp": {
+        "de": "Technische Hochschule Ulm",
+        "en": "Technische Hochschule Ulm"
+    },
+    "https://login.leibniz-gemeinschaft.de/idp/shibboleth": {
+        "de": "Leibniz-Gemeinschaft - Geschäftsstelle",
+        "en": "Leibniz-Association - Headquarters"
+    },
+    "https://login.rz.rwth-aachen.de/shibboleth": {
+        "de": "RWTH Aachen University",
+        "en": "RWTH Aachen University"
+    },
+    "https://login.slub-dresden.de/idp/shibboleth": {
+        "de": "SLUB Dresden",
+        "en": "SLUB Dresden"
+    },
+    "https://login.th-bingen.de/idp/shibboleth": {
+        "de": "Technische Hochschule Bingen",
+        "en": "Technische Hochschule Bingen"
+    },
+    "https://login.th-koeln.de/nidp/saml2/metadata": {
+        "de": "TH Köln (Technische Hochschule Köln)",
+        "en": "TH Köln (University of Applied Sciences)"
+    },
+    "https://login.th-owl.de/nidp/saml2/metadata": {
+        "de": "Technische Hochschule Ostwestfalen-Lippe",
+        "en": "Technische Hochschule Ostwestfalen-Lippe"
+    },
+    "https://login.uni-hamburg.de/idp/shibboleth": {
+        "de": "Universität Hamburg (UHH)",
+        "en": "Universität Hamburg (UHH)"
+    },
+    "https://login.uni-siegen.de/idp/shibboleth": {
+        "de": "Universität Siegen",
+        "en": "University of Siegen"
+    },
+    "https://login.uniklinikum-dresden.de/idp/shibboleth": {
+        "de": "Universitätsklinikum Carl Gustav Carus Dresden",
+        "en": "University Hospital Carl Gustav Carus, Dresden"
+    },
+    "https://login.vrz-nrw.de/nidp/saml2/metadata": {
+        "de": "Hochschule für Musik Detmold",
+        "en": "Detmold University of Music"
+    },
+    "https://login.w-hs.de/idp/shibboleth": {
+        "de": "Westfälische Hochschule",
+        "en": "Westfälische Hochschule, University of Applied Sciences"
+    },
+    "https://login4.hs-mittweida.de/idp/shibboleth": {
+        "de": "Hochschule Mittweida",
+        "en": "Hochschule Mittweida"
+    },
+    "https://logon.skd.museum/idp/shibboleth": {
+        "de": "Staatliche Kunstsammlungen Dresden",
+        "en": "Staatliche Kunstsammlungen Dresden"
+    },
+    "https://my.arthistoricum.net": {
+        "de": "Arthistoricum.net - Fachinformationsdienst Kunst, Fotographie, Design",
+        "en": "Arthistoricum.net - Fachinformationsdienst Kunst, Fotographie, Design"
+    },
+    "https://my.propylaeum.de": {
+        "de": "Propylaeum -  Fachinformationsdienst Altertumswissenschaften",
+        "en": "Propylaeum - Specialized Information Service Classics"
+    },
+    "https://mylogin.uni-freiburg.de/shibboleth": {
+        "de": "Albert-Ludwigs-Universität Freiburg",
+        "en": "Albert-Ludwigs-Universität Freiburg"
+    },
+    "https://new.filmuniversitaet.de/idp/shibboleth": {
+        "de": "Filmuniversität Babelsberg KONRAD WOLF",
+        "en": "Filmuniversity Babelsberg KONRAD WOLF"
+    },
+    "https://radius.ice.mpg.de/idp/shibboleth": {
+        "de": "Max Planck Institut fuer chemische Oekologie",
+        "en": "Max Planck Institute for Chemical Ecology"
+    },
+    "https://saml.daad.de/saml2/idp/metadata.php": {
+        "de": "DAAD-ID",
+        "en": "DAAD ID"
+    },
+    "https://saml.dhbw-stuttgart.de/idp/shibboleth": {
+        "de": "DHBW Stuttgart",
+        "en": "DHBW Stuttgart"
+    },
+    "https://saml.hki-jena.de/idp/shibboleth": {
+        "de": "Leibniz Institut für Naturstoff-Forschung und Infektionsbiologie, Hans-Knöll-Institut",
+        "en": "Leibniz Institut für Naturstoff-Forschung und Infektionsbiologie, Hans-Knöll-Institut"
+    },
+    "https://shi-idp2.rz.fh-muenchen.de/idp/shibboleth": {
+        "de": "Hochschule München (HM)",
+        "en": "University of Applied Sciences Munich (HM)"
+    },
+    "https://shib-idp-srv1.hs-gm.de/idp/shibboleth": {
+        "de": "Hochschule Geisenheim University",
+        "en": "Hochschule Geisenheim University"
+    },
+    "https://shib-idp.awi.de/idp/shibboleth": {
+        "de": "Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung (AWI)",
+        "en": "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI)"
+    },
+    "https://shib-idp.cms.hu-berlin.de/idp/shibboleth": {
+        "de": "Humboldt-Universität zu Berlin",
+        "en": "Humboldt-Universität zu Berlin"
+    },
+    "https://shib-idp.hbk-bs.de/idp/shibboleth": {
+        "de": "Hochschule für Bildende Künste Braunschweig",
+        "en": "Braunschweig University of Art"
+    },
+    "https://shib-idp.hs-osnabrueck.de/idp/shibboleth": {
+        "de": "Hochschule Osnabrück",
+        "en": "Hochschule Osnabrück"
+    },
+    "https://shib-idp.ostfalia.de/idp/shibboleth": {
+        "de": "Ostfalia",
+        "en": "Ostfalia"
+    },
+    "https://shib-idp.uni-hildesheim.de/idp/shibboleth": {
+        "de": "Universität Hildesheim",
+        "en": "Universität Hildesheim"
+    },
+    "https://shib-idp.uni-osnabrueck.de/idp/shibboleth": {
+        "de": "Universität Osnabrück",
+        "en": "Universität Osnabrück"
+    },
+    "https://shib.hk24.de/idp/shibboleth": {
+        "de": "Commerzbibliothek Hamburg",
+        "en": "Commerzbibliothek Hamburg"
+    },
+    "https://shib.itz.uni-halle.de/idp/shibboleth": {
+        "de": "Martin-Luther-Universität Halle-Wittenberg",
+        "en": "Martin-Luther-University Halle-Wittenberg"
+    },
+    "https://shib.mpia-hd.mpg.de/idp/shibboleth": {
+        "de": "Max-Planck-Institut für Astronomie (MPIA)",
+        "en": "Max-Planck-Institute for Astronomy (MPIA)"
+    },
+    "https://shib.ph-heidelberg.de/idp/shibboleth": {
+        "de": "Pädagogische Hochschule Heidelberg",
+        "en": "Pädagogische Hochschule Heidelberg"
+    },
+    "https://shib.rz.tu-harburg.de/idp/shibboleth": {
+        "de": "TU Hamburg (TUHH)",
+        "en": "Hamburg University of Technology (TUHH)"
+    },
+    "https://shib.uni-mainz.de/idp/shibboleth": {
+        "de": "Universität Mainz",
+        "en": "University of Mainz"
+    },
+    "https://shib1.rz.htwk-leipzig.de/idp/shibboleth": {
+        "de": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
+        "en": "Hochschule für Technik, Wirtschaft und Kultur Leipzig"
+    },
+    "https://shibb-idp.hs-weingarten.de/idp/shibboleth": {
+        "de": "Hochschule Ravensburg-Weingarten",
+        "en": "University of Applied Sciences Ravensburg Weingarten"
+    },
+    "https://shibb.mpcdf.mpg.de/ipp/shibboleth": {
+        "de": "Max Planck Institut für Plasmaphysik (IPP)",
+        "en": "Max Planck Institute for Plasma Physics (IPP)"
+    },
+    "https://shibb.mpcdf.mpg.de/mpcdf/shibboleth": {
+        "de": "Max Planck Computing and Data Facility (MPCDF)",
+        "en": "Max Planck Computing and Data Facility (MPCDF)"
+    },
+    "https://shibb.mpcdf.mpg.de/mpq/shibboleth": {
+        "de": "Max Planck Institut für Quantenoptik (MPQ)",
+        "en": "Max Planck Institute for Quantum Optics (MPQ)"
+    },
+    "https://shibbo.hfm-weimar.de/idp/shibboleth": {
+        "de": "Hochschule für Musik Weimar",
+        "en": "Hochschule für Musik Weimar"
+    },
+    "https://shibbo.scc.uni-weimar.de/idp/shibboleth": {
+        "de": "Bauhaus-Universität Weimar",
+        "en": "Bauhaus-Universität Weimar"
+    },
+    "https://shibboleth-idp.gwdg.de/gwdg/shibboleth": {
+        "de": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen",
+        "en": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen"
+    },
+    "https://shibboleth-idp.hbz-nrw.de/idp/shibboleth": {
+        "de": "Hochschulbibliothekszentrum NRW (hbz) - Identitätserbringung  (IdP)",
+        "en": "Hochschulbibliothekszentrum NRW (hbz) - Identity Provider (IdP)"
+    },
+    "https://shibboleth-idp.katho-nrw.de/idp/shibboleth": {
+        "de": "Katholische Hochschule Nordrhein-Westfalen (katho)",
+        "en": "Catholic University of Applied Sciences of North Rhine-Westphalia"
+    },
+    "https://shibboleth-idp.mpg.de/mpg/shibboleth": {
+        "de": "Max-Planck Institute (im MetaDir der GWDG)",
+        "en": "Max-Planck Institutes (in MetaDir of GWDG)"
+    },
+    "https://shibboleth-idp.ukw.de/idp/shibboleth": {
+        "de": "Universitätsklinikum Wuerzburg",
+        "en": "Wuerzburg University Hospital"
+    },
+    "https://shibboleth-idp.uni-goettingen.de/uni/shibboleth": {
+        "de": "Georg-August Universität Göttingen",
+        "en": "Georg-August University Göttingen"
+    },
+    "https://shibboleth-idp.uni-regensburg.de/idp/shibboleth": {
+        "de": "Universität Regensburg",
+        "en": "University of Regensburg"
+    },
+    "https://shibboleth-idp.uni-wuerzburg.de/idp/shibboleth": {
+        "de": "Universität Würzburg",
+        "en": "University of Wuerzburg"
+    },
+    "https://shibboleth.dhbw-karlsruhe.de/idp/shibboleth": {
+        "de": "DHBW Karlsruhe",
+        "en": "DHBW Karlsruhe"
+    },
+    "https://shibboleth.hs-kl.de/idp/shibboleth": {
+        "de": "Hochschule Kaiserslautern",
+        "en": "University of Applied Science Kaiserslautern"
+    },
+    "https://shibboleth.mh-hannover.de/idp/shibboleth": {
+        "de": "Medizinische Hochschule Hannover",
+        "en": "Hannover Medical School"
+    },
+    "https://shibboleth.uni-bielefeld.de/idp/shibboleth": {
+        "de": "Universität Bielefeld",
+        "en": "University of Bielefeld"
+    },
+    "https://shibboleth.uni-bonn.de/idp/shibboleth": {
+        "de": "Universität Bonn",
+        "en": "Universität Bonn"
+    },
+    "https://shibboleth.uni-trier.de/idp/shibboleth": {
+        "de": "Universität Trier",
+        "en": "Trier University"
+    },
+    "https://shibboleth.uni-vechta.de/idp/shibboleth": {
+        "de": "Universität Vechta",
+        "en": "University of Vechta"
+    },
+    "https://shibboleth.whu.edu/idp/shibboleth": {
+        "de": "WHU - Otto Beisheim School of Management",
+        "en": "WHU - Otto Beisheim School of Management"
+    },
+    "https://shibboleth1.mpi-muelheim.mpg.de/idp/shibboleth": {
+        "de": "Max Planck Institut fuer Kohlenforschung",
+        "en": "Max Planck Institut fuer Kohlenforschung"
+    },
+    "https://shibboleth1.rz.hft-stuttgart.de/idp/shibboleth": {
+        "de": "Hochschule für Technik Stuttgart",
+        "en": "Hochschule für Technik Stuttgart"
+    },
+    "https://shibboleth2.uni-koblenz.de/idp/shibboleth": {
+        "de": "Universität Koblenz-Landau",
+        "en": "University Koblenz-Landau"
+    },
+    "https://shibweb1.hs-nordhausen.de/idp/shibboleth": {
+        "de": "Hochschule Nordhausen",
+        "en": "University of Applied Sciences Nordhausen"
+    },
+    "https://sinope.uni-erfurt.de/idp/shibboleth": {
+        "de": "Universität Erfurt",
+        "en": "University of Erfurt"
+    },
+    "https://sr00022762.med.uni-rostock.de/idp/shibboleth": {
+        "de": "Universitätsmedizin Rostock",
+        "en": "Rostock University Medical Center"
+    },
+    "https://srv-idp-001.fh-mainz.de/idp/shibboleth": {
+        "de": "Hochschule Mainz",
+        "en": "Hochschule Mainz"
+    },
+    "https://srv-idp.catalysis.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Katalyse e.V. (LIKAT)",
+        "en": "Leibniz Institute for Catalysis (LIKAT)"
+    },
+    "https://sso.bfarm.de:8443/auth/realms/DFNConf": {
+        "de": "Bundesinstitut für Arzneimittel und Medizinprodukte",
+        "en": "Federal Institute for Drugs and Medical Devices"
+    },
+    "https://sso.dshs-koeln.de/idp/shibboleth": {
+        "de": "Deutsche Sporthochschule Köln",
+        "en": "German Sport University Cologne"
+    },
+    "https://sso.h-da.de/idp/shibboleth": {
+        "de": "Hochschule Darmstadt, University of Applied Sciences",
+        "en": "Hochschule Darmstadt, University of Applied Sciences"
+    },
+    "https://sso.hfm-nuernberg.de/idp/shibboleth": {
+        "de": "Hochschule für Musik Nürnberg",
+        "en": "College of Music Nuremberg"
+    },
+    "https://sso.hfph.de/idp/shibboleth": {
+        "de": "Hochschule für Philosophie München",
+        "en": "Hochschule für Philosophie München"
+    },
+    "https://sso.hmtm.de/idp/shibboleth": {
+        "de": "HMTM IdP",
+        "en": "HMTM IdP"
+    },
+    "https://sso.hochschule-rhein-waal.de/idp/shibboleth": {
+        "de": "Hochschule Rhein-Waal",
+        "en": "Rhine-Waal University of Applied Sciences"
+    },
+    "https://sso.hs-neu-ulm.de/idp/shibboleth": {
+        "de": "Hochschule Neu-Ulm",
+        "en": "University of Applied Sciences Neu-Ulm"
+    },
+    "https://sso.hs-regensburg.de/idp/shibboleth": {
+        "de": "Ostbayerische Technische Hochschule Regensburg",
+        "en": "Ostbayerische Technische Hochschule Regensburg"
+    },
+    "https://sso.idm.uni-hannover.de/idp/shibboleth": {
+        "de": "Leibniz Universität Hannover",
+        "en": "Leibniz Universität Hannover"
+    },
+    "https://sso.mpic.de/auth/saml2/idp/metadata.php": {
+        "de": "Max-Planck-Institut für Chemie",
+        "en": "Max-Planck-Institute for Chemistry"
+    },
+    "https://sso.tu-bs.de": {
+        "de": "TU Braunschweig",
+        "en": "TU Braunschweig"
+    },
+    "https://sso.uni-passau.de/idp/shibboleth": {
+        "de": "Universität Passau",
+        "en": "University Of Passau"
+    },
+    "https://sso.zib.de/idp/shibboleth": {
+        "de": "Zuse Institut Berlin",
+        "en": "Zuse Institute Berlin"
+    },
+    "https://ssoserver.hs-worms.de/idp/shibboleth": {
+        "de": "Hochschule Worms",
+        "en": "Hochschule Worms"
+    },
+    "https://sts.windows.net/dad5f964-5709-42c9-8188-c5b0deac3547/": {
+        "de": "MfN - Berlin",
+        "en": "MfN - Berlin"
+    },
+    "https://themis.hs-niederrhein.de/idp/shibboleth": {
+        "de": "Hochschule Niederrhein IdP",
+        "en": "Hochschule Niederrhein IdP"
+    },
+    "https://tumidp.lrz.de/idp/shibboleth": {
+        "de": "Technische Universität München (TUM)",
+        "en": "Technical University of Munich (TUM)"
+    },
+    "https://weblogin.htw-berlin.de/idp/shibboleth": {
+        "de": "Hochschule für Technik und Wirtschaft - HTW Berlin",
+        "en": "Hochschule für Technik und Wirtschaft - HTW Berlin"
+    },
+    "https://weblogin.uni-marburg.de/idp/shibboleth": {
+        "de": "Philipps-Universität Marburg",
+        "en": "Philipps-Universität Marburg"
+    },
+    "https://whzidp.fh-zwickau.de/idp/shibboleth": {
+        "de": "Westsächsische Hochschule Zwickau",
+        "en": "Westsächsische Hochschule Zwickau"
+    },
+    "https://wtc.tu-chemnitz.de/shibboleth": {
+        "de": "TU Chemnitz",
+        "en": "TU Chemnitz"
+    },
+    "https://wwuvidp.uni-muenster.de/idp/shibboleth": {
+        "de": "Meta-Videoportal unterrichtsvideos.net",
+        "en": "Meta-Videoportal unterrichtsvideos.net"
+    },
+    "https://www.apollon-campus.de/idp/shibboleth": {
+        "de": "APOLLON Hochschule Bremen",
+        "en": "APOLLON Hochschule Bremen"
+    },
+    "https://www.b-tu.de/idp/shibboleth": {
+        "de": "BTU Cottbus - Senftenberg",
+        "en": "BTU Cottbus - Senftenberg"
+    },
+    "https://www.san-netz.de": {
+        "de": "Link and Learn (ehm. San-Netz)",
+        "en": "Link and Learn (ehm. San-Netz)"
+    },
+    "https://www.sso.uni-erlangen.de/simplesaml/saml2/idp/metadata.php": {
+        "de": "Universität Erlangen-Nürnberg (FAU)",
+        "en": "Universität Erlangen-Nürnberg (FAU)"
+    },
+    "https://www.sso.utn.de/simplesaml/saml2/idp/metadata.php": {
+        "de": "Technische Universität Nürnberg",
+        "en": "University of Technology Nuremberg"
+    },
+    "https://www.vho.de/idpnl": {
+        "de": "VHO Einzelnutzer Nationallizenzen",
+        "en": "VHO Einzelnutzer Nationallizenzen"
+    },
+    "https://www.vho.de/idpvzg": {
+        "de": "Verbundzentrale des GBV (VZG)",
+        "en": "Verbundzentrale des GBV (VZG)"
+    },
+    "https://xaai1.fmp-berlin.de/idp/shibboleth": {
+        "de": "Leibniz-Forschungsinstitut für Molekulare Pharmakologie - FMP (XAAI1 IdP)",
+        "en": "Leibniz-Forschungsinstitut für Molekulare Pharmakologie - FMP (XAAI1 IdP)"
+    },
+    "https://zividp.uni-muenster.de/idp/shibboleth": {
+        "de": "Universität Münster",
+        "en": "Universität Münster"
+    },
+    "https://zoom-sso.conf.dfn.de/idp/shibboleth": {
+        "de": "DFnconf Zoom SSO",
+        "en": "DFnconf Zoom SSO"
+    }
+}

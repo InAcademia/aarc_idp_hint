@@ -1,0 +1,62 @@
+{
+    "https://du-idp.lanet.lv": {
+        "en": "Daugavpils University"
+    },
+    "https://id.lndb.lv": {
+        "en": "LNB"
+    },
+    "https://id2.rtu.lv:443/openam": {
+        "en": "Riga Technical University"
+    },
+    "https://idp.llu.lv/idp/shibboleth": {
+        "en": "Latvia University of Agriculture"
+    },
+    "https://idp.rtu.lv/simplesaml/saml2/idp/metadata.php": {
+        "en": "Riga Technical University (Pilot)"
+    },
+    "https://lanet-idp.lanet.lv": {
+        "en": "LANET"
+    },
+    "https://liepu-idp.lanet.lv": {
+        "en": "Liepaja University"
+    },
+    "https://lka-idp.lanet.lv": {
+        "en": "Latvian Academy of Culture"
+    },
+    "https://lma-idp.lanet.lv": {
+        "en": "Art Academy of Latvia"
+    },
+    "https://lmuza-idp.lanet.lv": {
+        "en": "Latvian Academy of Music"
+    },
+    "https://lu-idp.lu.lv": {
+        "en": "University of Latvia"
+    },
+    "https://lumii-idp.lanet.lv": {
+        "en": "Institute of Mathematics and Computer Science, University of Latvia"
+    },
+    "https://overleaf-idp.lu.lv": {
+        "en": "LU OverLeaf users IdP"
+    },
+    "https://ra-idp.lanet.lv": {
+        "en": "Rezekne Academy of Technologies"
+    },
+    "https://rja-idp.lanet.lv": {
+        "en": "Riga Graduate School of Law"
+    },
+    "https://rmk-idp.lanet.lv": {
+        "en": "Riga Medical College"
+    },
+    "https://skmms-idp.lanet.lv": {
+        "en": "Riga Red Cross Medical College"
+    },
+    "https://sse-idp.lanet.lv": {
+        "en": "Stockholm School of Economics in Riga"
+    },
+    "https://va-idp.lanet.lv": {
+        "en": "Vidzeme University of Applied Sciences"
+    },
+    "https://vea-idp.lanet.lv": {
+        "en": "Ventspils University College"
+    }
+}

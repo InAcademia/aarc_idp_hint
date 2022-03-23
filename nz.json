@@ -1,0 +1,32 @@
+{
+    "http://iam.auckland.ac.nz/idp": {
+        "en": "The University of Auckland"
+    },
+    "https://hosted-login.tuakiri.ac.nz/hosting/malaghan.org.nz/idp/shibboleth": {
+        "en": "Malaghan Institute of Medical Research"
+    },
+    "https://hosted-login.tuakiri.ac.nz/hosting/reannz.co.nz/idp/shibboleth": {
+        "en": "REANNZ"
+    },
+    "https://idp.agresearch.co.nz/idp/shibboleth": {
+        "en": "AgResearch"
+    },
+    "https://idp.aut.ac.nz/idp/shibboleth": {
+        "en": "AUT University"
+    },
+    "https://idp.otago.ac.nz/idp/shibboleth": {
+        "en": "University of Otago"
+    },
+    "https://idp.plantandfood.co.nz/idp/shibboleth": {
+        "en": "Plant and Food Research"
+    },
+    "https://idp.vuw.ac.nz/idp/shibboleth": {
+        "en": "Victoria University of Wellington"
+    },
+    "https://idp.waikato.ac.nz/idp/shibboleth": {
+        "en": "The University of Waikato"
+    },
+    "https://virtualhome.tuakiri.ac.nz/idp/shibboleth": {
+        "en": "Tuakiri Virtual Home"
+    }
+}

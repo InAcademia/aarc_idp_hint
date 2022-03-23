@@ -1,0 +1,730 @@
+{
+    "https://agkm.cz/idp/shibboleth": {
+        "cs": "Arcibiskupské gymnázium v Kroměříži - Knihovna",
+        "en": "Archiepiscopal Gymnasium in Kromeriz - Library"
+    },
+    "https://aleph.svkhk.cz/idp/shibboleth": {
+        "cs": "Studijní a vědecká knihovna v Hradci Králové",
+        "en": "The Research Library in Hradec Králové"
+    },
+    "https://aleph.uzei.cz/idp/shibboleth": {
+        "cs": "Ústav zemědělské ekonomiky a informací",
+        "en": "Institute of Agricultural Economics and Information"
+    },
+    "https://aleph20.knihovna-pardubice.cz/idp/shibboleth": {
+        "cs": "Krajská knihovna v Pardubicích",
+        "en": "Regional Library in Pardubice"
+    },
+    "https://auth.nfa.cz:4443/idp/shibboleth": {
+        "cs": "Národní filmový archiv",
+        "en": "National film archive Prague"
+    },
+    "https://biblio.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Kostelec nad Orlicí",
+        "en": "Municipal Library in Kostelec nad Orlicí"
+    },
+    "https://booksy.cz/idp/shibboleth": {
+        "cs": "Městská knihovna ve Svitavách",
+        "en": "Municipal Library in Svitavy"
+    },
+    "https://cas.cuni.cz/idp/shibboleth": {
+        "cs": "Univerzita Karlova",
+        "en": "Charles University"
+    },
+    "https://cbvk.cz/idp/shibboleth": {
+        "cs": "Jihočeská vědecká knihovna v Českých Budějovicích",
+        "en": "The Research Library in Ceske Budejovice"
+    },
+    "https://chadwick.krizik.eu/idp/shibboleth": {
+        "cs": "Gymnázium Františka Křižíka a základní škola, s.r.o.",
+        "en": "Frantisek Krizik Grammar School and Primary School, s.r.o."
+    },
+    "https://chomutovskaknihovna.cz/idp/shibboleth": {
+        "cs": "Chomutovská knihovna",
+        "en": "Chomutov Library"
+    },
+    "https://dolni-bousov.cz/idp/shibboleth": {
+        "cs": "Městská knihovna a infocentrum Dolní Bousov",
+        "en": "Municipal Library and Infocentre in Dolni Bousov"
+    },
+    "https://eduid.czu.cz/idp/shibboleth": {
+        "cs": "Česká zemědělská univerzita v Praze",
+        "en": "Czech University of Life Sciences Prague"
+    },
+    "https://eduid.fno.cz/idp/shibboleth": {
+        "cs": "Fakultní nemocnice Ostrava",
+        "en": "University Hospital Ostrava"
+    },
+    "https://eduid.irsm.cas.cz/idp/shibboleth": {
+        "cs": "Ústav struktury a mechaniky hornin AV ČR",
+        "en": "Institute of Rock Structure and Mechanics of The Czech Academy of Sciences"
+    },
+    "https://eduid.jamu.cz/idp/shibboleth": {
+        "cs": "Janáčkova akademie múzických umění v Brně",
+        "en": "Janacek Academy of Music and Performing Arts in Brno"
+    },
+    "https://eduid.prigo.cz/idp/shibboleth": {
+        "cs": "Vysoká škola PRIGO",
+        "en": "The PRIGO University"
+    },
+    "https://eduid.ujak.cz/idp/shibboleth": {
+        "cs": "Univerzita Jana Amose Komenského Praha",
+        "en": "Jan Amos Komensky University Prague"
+    },
+    "https://eduid.uvn.cz/idp/shibboleth": {
+        "cs": "UVN Praha",
+        "en": "UVN Prague"
+    },
+    "https://eduid.vsers.cz/idp/shibboleth": {
+        "cs": "Vysoká škola evropských a regionálních studií",
+        "en": "The College of European and Regional Studies"
+    },
+    "https://eduid.vumop.cz/idp/shibboleth": {
+        "cs": "VÚMOP, v.v.i.",
+        "en": "VÚMOP, v.v.i."
+    },
+    "https://eris.avu.cz/idp/shibboleth": {
+        "cs": "AVU",
+        "en": "AVU"
+    },
+    "https://gryf.mlp.cz/idp/shibboleth": {
+        "cs": "Městská knihovna v Praze",
+        "en": "Municipal Library of Prague"
+    },
+    "https://helium.jcu.cz/idp/shibboleth": {
+        "cs": "Jihočeská univerzita v Českých Budějovicích",
+        "en": "University of South Bohemia in Ceske Budejovice"
+    },
+    "https://id.nm.cz/idp/shibboleth": {
+        "cs": "Národní muzeum",
+        "en": "National museum"
+    },
+    "https://id.nudz.cz/idp/shibboleth": {
+        "cs": "Národní ústav duševního zdraví",
+        "en": "National Institute of Mental Health"
+    },
+    "https://id.vse.cz/idp/shibboleth": {
+        "cs": "Vysoká škola ekonomická v Praze",
+        "en": "Prague University of Economics and Business"
+    },
+    "https://idp-cro.slu.cz/idp/shibboleth": {
+        "cs": "Slezská univerzita v Opavě",
+        "en": "Silesian University in Opava"
+    },
+    "https://idp-famo.filmovka.cz/idp/shibboleth": {
+        "cs": "Filmová akademie Miroslava Ondříčka v Písku",
+        "en": "International Film Studies Písek"
+    },
+    "https://idp.aauni.edu/idp/shibboleth": {
+        "cs": "Anglo-americká vysoká škola, z.ú.",
+        "en": "Anglo-american University"
+    },
+    "https://idp.amu.cz/idp/shibboleth": {
+        "cs": "Akademie múzických umění v Praze",
+        "en": "Academy of Performing Arts in Prague"
+    },
+    "https://idp.arub.cas.cz/idp/shibboleth": {
+        "cs": "Archeologický ústav AV ČR, Brno",
+        "en": "Institute of Archeology of the Czech Academy of Sciences, Brno"
+    },
+    "https://idp.arup.cas.cz/idp/shibboleth": {
+        "cs": "Archeologický ústav AV ČR, Praha",
+        "en": "Institute of Archaeology of the CAS, Prague"
+    },
+    "https://idp.asu.cas.cz/idp/shibboleth": {
+        "cs": "Astronomický ústav Akademie věd České Republiky",
+        "en": "Astronomical Institute of the Czech Academy of Sciences"
+    },
+    "https://idp.bbmri-eric.eu/idp/shibboleth": {
+        "cs": "BBMRI-ERIC",
+        "en": "BBMRI-ERIC"
+    },
+    "https://idp.bc.cas.cz/idp/shibboleth": {
+        "cs": "Biologické centrum AV ČR, AV ČR",
+        "en": "Biology Centre AS CR"
+    },
+    "https://idp.cs.cas.cz/idp/shibboleth": {
+        "cs": "Ústav informatiky AV ČR",
+        "en": "Institute of Computer Science AS CR"
+    },
+    "https://idp.czechglobe.cz/idp/shibboleth": {
+        "cs": "Ústav výzkumu globální změny AV ČR, v. v. i.",
+        "en": "Global Change Research Institute CAS"
+    },
+    "https://idp.eu.cas.cz/idp/shibboleth": {
+        "cs": "Etnologický ústav AV ČR, v. v. i.",
+        "en": "The Institute of Ethnology of the Czech Academy of Sciences, v. v. i."
+    },
+    "https://idp.fgu.cas.cz/idp/shibboleth": {
+        "cs": "Fyziologický ústav AV ČR",
+        "en": "Institute of Physiology AS CR"
+    },
+    "https://idp.flu.cas.cz/idp/shibboleth": {
+        "cs": "Filosofický ústav AV ČR",
+        "en": "Institute of Philosophy AS CR"
+    },
+    "https://idp.fnusa.cz/idp/shibboleth": {
+        "cs": "Fakultní nemocnice u sv.Anny v Brně",
+        "en": "St.Anne's University Hospital Brno"
+    },
+    "https://idp.fzu.cas.cz/idp/shibboleth": {
+        "cs": "Fyzikální ústav Akademie věd ČR",
+        "en": "Institute of Physics AS CR"
+    },
+    "https://idp.gli.cas.cz/idp/shibboleth": {
+        "cs": "Geologický ústav AV ČR",
+        "en": "Institute of Geology AS CR"
+    },
+    "https://idp.hiu.cas.cz/idp/shibboleth": {
+        "cs": "Historický ústav AV ČR",
+        "en": "Institute of History of the ASCR"
+    },
+    "https://idp.iapg.cas.cz/idp/shibboleth": {
+        "cs": "Ústav živočišné fyziologie a genetiky AV ČR",
+        "en": "Institute of Animal Physiology and Genetics AS CR"
+    },
+    "https://idp.ibot.cas.cz/idp/shibboleth": {
+        "cs": "Botanický ústav AV ČR",
+        "en": "Institute of Botany of the Czech Academy of Sciences"
+    },
+    "https://idp.ibp.cas.cz/idp/shibboleth": {
+        "cs": "Biofyzikální ústav AV ČR",
+        "en": "Institute of Biophysics AS CR"
+    },
+    "https://idp.ibt.cas.cz/idp/shibboleth": {
+        "cs": "Biotechnologický ústav AV ČR, v.v.i.",
+        "en": "Institute of Biotechnology CAS, v.v.i."
+    },
+    "https://idp.icpf.cas.cz/idp/shibboleth": {
+        "cs": "Ústav chemických procesů AV ČR",
+        "en": "Institute of Chemical Process Fundamentals of the AS CR"
+    },
+    "https://idp.iem.cas.cz/idp/shibboleth": {
+        "cs": "Ústav experimentální medicíny AV ČR",
+        "en": "Institute of Experimental Medicine CAS"
+    },
+    "https://idp.ig.cas.cz/idp/shibboleth": {
+        "cs": "Geofyzikální ústav AV ČR, v.v.i.",
+        "en": "Institute of Geophysics of the CAS, v.v.i."
+    },
+    "https://idp.iic.cas.cz/idp/shibboleth": {
+        "cs": "Ústav anorganické chemie AV ČR",
+        "en": "Institute of Inorganic chemistry of the Czech Academy of Sciences"
+    },
+    "https://idp.ilaw.cas.cz/idp/shibboleth": {
+        "cs": "Ústav státu a práva AV ČR",
+        "en": "Institute of State and Law of the Czech Academy of Sciences"
+    },
+    "https://idp.img.cas.cz/idp/shibboleth": {
+        "cs": "Ústav molekulární genetiky AV ČR, v. v. i.",
+        "en": "Institute of Molecular Genetics of the Czech Academy of Sciences"
+    },
+    "https://idp.ipm.cas.cz/idp/shibboleth": {
+        "cs": "Ústav fyziky materiálů AV ČR",
+        "en": "Institute of Physics of Materials of the AS CR"
+    },
+    "https://idp.ipp.cas.cz/idp/shibboleth": {
+        "cs": "Ústav fyziky plazmatu AV ČR",
+        "en": "Institute of Plasma Physics AS CR"
+    },
+    "https://idp.isibrno.cas.cz/idp/shibboleth": {
+        "cs": "Ústav přístrojové techniky AV ČR",
+        "en": "Institute of Scientific Instruments of the ASCR"
+    },
+    "https://idp.itam.cas.cz/idp/shibboleth": {
+        "cs": "Ústav teoretické a aplikované mechaniky AV ČR",
+        "en": "Institute of Theoretical and Applied Mechanics AS CR"
+    },
+    "https://idp.ivb.cas.cz/idp/shibboleth": {
+        "cs": "Ústav biologie obratlovců AV ČR",
+        "en": "Institute of Vertebrate Biology AS CR"
+    },
+    "https://idp.jh-inst.cas.cz/idp/shibboleth": {
+        "cs": "Ústav fyzikální chemie J. Heyrovského AV ČR, v.v.i.",
+        "en": "J. Heyrovský Institute of Physical Chemistry of the CAS, v.v.i"
+    },
+    "https://idp.kav.cas.cz/idp/shibboleth": {
+        "cs": "Akademie věd České republiky",
+        "en": "Czech Academy of Sciences"
+    },
+    "https://idp.lib.cas.cz/idp/shibboleth": {
+        "cs": "Knihovna AV ČR, v. v. i.",
+        "en": "Academy of Sciences Library"
+    },
+    "https://idp.math.cas.cz/idp/shibboleth": {
+        "cs": "Matematický ústav AV ČR",
+        "en": "Institute of Mathematics AS CR"
+    },
+    "https://idp.mbu.cas.cz/idp/shibboleth": {
+        "cs": "Mikrobiologický ústav AV ČR",
+        "en": "Institute of Microbiology AS CR"
+    },
+    "https://idp.mendelu.cz/idp/shibboleth": {
+        "cs": "Mendelova univerzita v Brně - IdP",
+        "en": "Mendel Univerzity in Brno - IdP"
+    },
+    "https://idp.mou.cz/idp/shibboleth": {
+        "cs": "Masarykův Onkologický Ústav (MOÚ)",
+        "en": "Masaryk Memorial Cancer Institute (MMCI)"
+    },
+    "https://idp.mua.cas.cz/idp/shibboleth": {
+        "cs": "Masarykův ústav a archiv AV ČR",
+        "en": "Masaryk Institute and Archives of the CAS"
+    },
+    "https://idp.mup.cz/idp/shibboleth": {
+        "cs": "Metropolitní univerzita Praha, o.p.s.",
+        "en": "Metropolitan university Prague"
+    },
+    "https://idp.nbu.cz/idp/shibboleth": {
+        "cs": "NBU",
+        "en": "NBU"
+    },
+    "https://idp.npu.cz/idp/shibboleth": {
+        "cs": "Národní památkový ústav",
+        "en": "The National Heritage Institute"
+    },
+    "https://idp.ntm.cz/idp/shibboleth": {
+        "cs": "Národní technické muzeum",
+        "en": "National technical museum"
+    },
+    "https://idp.orient.cas.cz/idp/shibboleth": {
+        "cs": "Orientální ústav AV ČR",
+        "en": "Oriental Institute of the Czech Academy of Sciences"
+    },
+    "https://idp.psu.cas.cz/idp/shibboleth": {
+        "cs": "Psychologický ústav Akademie věd České republiky",
+        "en": "The Institute of Psychology of Academy of Science of Czech Republic"
+    },
+    "https://idp.rkka.cz/idp/shibboleth": {
+        "cs": "Regionální knihovna Karviná",
+        "en": "Regional Library Karvina"
+    },
+    "https://idp.savs.cz/idp/shibboleth": {
+        "cs": "ŠKODA AUTO Vysoká škola",
+        "en": "ŠKODA AUTO University"
+    },
+    "https://idp.slu.cas.cz/idp/shibboleth": {
+        "cs": "Slovanský ústav AV ČR",
+        "en": "Institute of Slavonic Studies of the CAS"
+    },
+    "https://idp.soc.cas.cz/idp/shibboleth": {
+        "cs": "Sociologický ústav AV ČR",
+        "en": "Institute of Sociology AS CR"
+    },
+    "https://idp.ssc.cas.cz/idp/shibboleth": {
+        "cs": "Středisko společných činností AV ČR",
+        "en": "Centre of Administration and Operations of AS CR"
+    },
+    "https://idp.suro.cz/idp/shibboleth": {
+        "cs": "Státní ústav radiační ochrany, v.v.i.",
+        "en": "National Radiation Protection Institute"
+    },
+    "https://idp.svkpk.cz/idp/shibboleth": {
+        "cs": "Studijní a vědecká knihovna Plzeňského kraje",
+        "en": "The Education and Research Library of the Pilsener Region"
+    },
+    "https://idp.tacr.cz/idp/shibboleth": {
+        "cs": "Technologická agentura České republiky",
+        "en": "Technology Agency of the Czech Republic"
+    },
+    "https://idp.tc.cas.cz/idp/shibboleth": {
+        "cs": "Technologické centrum AV ČR",
+        "en": "Technology Centre of the CAS"
+    },
+    "https://idp.uapp.cz/idp/shibboleth": {
+        "cs": "Ústav archeologické památkové péče Brno",
+        "en": "Institute of Archaeological Heritage Brno"
+    },
+    "https://idp.udu.cas.cz/idp/shibboleth": {
+        "cs": "Ústav dějin umění Akademie věd ČR, v.v.i",
+        "en": "Institute of Art History of the Academy of Sciences of the Czech Republic"
+    },
+    "https://idp.ueb.cas.cz/idp/shibboleth": {
+        "cs": "Ústav experimentální botaniky AV ČR",
+        "en": "Institute of Experimental Botany AS CR"
+    },
+    "https://idp.ufa.cas.cz/idp/shibboleth": {
+        "cs": "Ústav fyziky atmosféry AV ČR",
+        "en": "Institute of Atmospheric Physics CAS"
+    },
+    "https://idp.ufe.cas.cz/idp/shibboleth": {
+        "cs": "Ústav fotoniky a elektroniky, Akademie věd ČR",
+        "en": "Institute of Photonics and Electronics of the AS CR"
+    },
+    "https://idp.ugn.cas.cz/idp/shibboleth": {
+        "cs": "Ústav geoniky AV ČR",
+        "en": "Institute of Geonics of the CAS"
+    },
+    "https://idp.uhk.cz/idp/shibboleth": {
+        "cs": "Univerzita Hradec Králové",
+        "en": "University of Hradec Kralove"
+    },
+    "https://idp.ujc.cas.cz/idp/shibboleth": {
+        "cs": "Ústav pro jazyk český AV ČR, v. v. i.",
+        "en": "Czech Language Institute of the Czech Academy of Sciences"
+    },
+    "https://idp.ujep.cz/idp/shibboleth": {
+        "cs": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+        "en": "Jan Evangelista Purkyne University in Usti nad Labem"
+    },
+    "https://idp.ujf.cas.cz/idp/shibboleth": {
+        "cs": "Ústav jaderné fyziky AV ČR",
+        "en": "Nuclear Physics Institute of the ASCR"
+    },
+    "https://idp.unob.cz/idp/shibboleth": {
+        "cs": "Univerzita Obrany",
+        "en": "University of defence"
+    },
+    "https://idp.unyp.cz/idp/shibboleth": {
+        "cs": "University of New York in Prague",
+        "en": "University of New York in Prague"
+    },
+    "https://idp.upce.cz/idp/shibboleth": {
+        "cs": "Univerzita Pardubice",
+        "en": "University of Pardubice"
+    },
+    "https://idp.upol.cz/idp/shibboleth": {
+        "cs": "Univerzita Palackého v Olomouci",
+        "en": "Palacky University Olomouc"
+    },
+    "https://idp.usd.cas.cz/idp/shibboleth": {
+        "cs": "Ústav pro soudobé dějiny AV ČR",
+        "en": "Institute of Contemporary History"
+    },
+    "https://idp.utia.cas.cz/idp/shibboleth": {
+        "cs": "Ústav teorie informace a automatizace AV ČR",
+        "en": "Institute of Information Theory and Automation AS CR"
+    },
+    "https://idp.vfu.cz/idp/shibboleth": {
+        "cs": "Veterinární univerzita Brno",
+        "en": "University of Veterinary Sciences Brno"
+    },
+    "https://idp.vsb.cz/idp/shibboleth": {
+        "cs": "VŠB - TU Ostrava",
+        "en": "VSB - TU Ostrava"
+    },
+    "https://idp.vupp.cz/idp/shibboleth": {
+        "cs": "Výzkumný ústav potravinářský Praha",
+        "en": "Food Research Institute Prague"
+    },
+    "https://idp2.civ.cvut.cz/idp/shibboleth": {
+        "cs": "České vysoké učení technické v Praze",
+        "en": "Czech Technical University in Prague"
+    },
+    "https://idp2.ics.muni.cz/idp/shibboleth": {
+        "cs": "Masarykova univerzita",
+        "en": "Masaryk University"
+    },
+    "https://idptoo.osu.cz/simplesaml/saml2/idp/metadata.php": {
+        "cs": "Ostravská univerzita",
+        "en": "University of Ostrava"
+    },
+    "https://iir.cz/idp/shibboleth": {
+        "cs": "Ústav mezinárodních vztahů",
+        "en": "Institute of International Relations"
+    },
+    "https://k3bohumin.cz/idp/shibboleth": {
+        "cs": "K3 Bohumín, p.o. - středisko KNIHOVNA",
+        "en": "K3 Bohumin - LIBRARY"
+    },
+    "https://katalog.cnb.cz/auth/saml2-idp": {
+        "cs": "Česká národní banka",
+        "en": "Czech National Bank"
+    },
+    "https://katalog.svkos.cz/idp/shibboleth": {
+        "cs": "Moravskoslezská vědecká knihovna v Ostravě",
+        "en": "Moravian-Silesian Research Library in Ostrava"
+    },
+    "https://kfbz.cz/idp/shibboleth": {
+        "cs": "Krajská knihovna Františka Bartoše ve Zlíně",
+        "en": "Regional Library Zlín"
+    },
+    "https://kjd.pb.cz/idp/shibboleth": {
+        "cs": "Knihovna Jana Drdy",
+        "en": "Jan Drda´s Library"
+    },
+    "https://kjm.cz/idp/shibboleth": {
+        "cs": "Knihovna Jiřího Mahena v Brně",
+        "en": "Jiří Mahen Library in Brno"
+    },
+    "https://kkdvyskov.cz/idp/shibboleth": {
+        "cs": "Knihovna Karla Dvořáčka",
+        "en": "Karel Dvoracek Library"
+    },
+    "https://kkvysociny.cz/idp/shibboleth": {
+        "cs": "Krajská knihovna Vysočiny",
+        "en": "Regional Library Vysočina"
+    },
+    "https://kmol.cz/idp/shibboleth": {
+        "cs": "Knihovna města Olomouce",
+        "en": "The Library of the City Olomouc"
+    },
+    "https://knih-ck.cz/idp/shibboleth": {
+        "cs": "Městská knihovna v Českém Krumlově",
+        "en": "Municipal Library in Cesky Krumlov"
+    },
+    "https://knih-havirov.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Havířov",
+        "en": "Municipal Library in Havirov"
+    },
+    "https://knih-kt.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Klatovy",
+        "en": "Municipal Library Klatovy"
+    },
+    "https://knih-pe.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Pelhřimov",
+        "en": "Municipal Library Pelhrimov"
+    },
+    "https://knih-pi.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Písek",
+        "en": "Municipal Library Pisek"
+    },
+    "https://knihjh.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Jindřichův Hradec",
+        "en": "Municipal Library Jindřichův Hradec"
+    },
+    "https://knihkm.cz/idp/shibboleth": {
+        "cs": "Knihovna Kroměřížska",
+        "en": "Kromeriz Public Library"
+    },
+    "https://knihmil.cz/idp/shibboleth": {
+        "cs": "Městská knihovna v Milevsku",
+        "en": "Municipal Library in Milevsko"
+    },
+    "https://knihovna-cl.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Česká Lípa",
+        "en": "Municipal Library Česká Lípa"
+    },
+    "https://knihovna-cr.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Chrudim",
+        "en": "Municipal Library Chrudim"
+    },
+    "https://knihovna-kh.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Kutná Hora",
+        "en": "Municipal Library Kutná Hora"
+    },
+    "https://knihovna-litvinov.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Litvínov",
+        "en": "Municipal Library in Litvinov"
+    },
+    "https://knihovna-orlova.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Orlová",
+        "en": "Municipal Library in Orlova"
+    },
+    "https://knihovna-vm.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Vysoké Mýto",
+        "en": "Municipal library Vysoke Myto"
+    },
+    "https://knihovna.brandysnl.cz/idp/shibboleth": {
+        "cs": "Knihovna Eduarda Petišky",
+        "en": "Eduard Petiska Library"
+    },
+    "https://knihovna.holesov.info/idp/shibboleth": {
+        "cs": "Městská knihovna Holešov",
+        "en": "Municipal Library Holešov"
+    },
+    "https://knihovna.mesto-milovice.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Milovice",
+        "en": "Municipal Library Milovice"
+    },
+    "https://knihovna.plzen.eu/idp/shibboleth": {
+        "cs": "Knihovna města Plzně",
+        "en": "Pilsen City Library"
+    },
+    "https://knihovna.ricany.cz/idp/shibboleth": {
+        "cs": "Husova knihovna Říčany",
+        "en": "Huss' Library Ricany"
+    },
+    "https://knihovnaberoun.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Beroun",
+        "en": "Municipal Library in Beroun"
+    },
+    "https://knihovnabreclav.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Břeclav",
+        "en": "Municipal library in Breclav"
+    },
+    "https://knihovnachocen.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Choceň",
+        "en": "Municipal Library Choceň"
+    },
+    "https://knihovnachodov.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Chodov",
+        "en": "Municipal Library Chodov"
+    },
+    "https://knihovnafrenstat.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Frenštát pod Radhoštěm",
+        "en": "Municipal Library Frenštát pod Radhoštěm"
+    },
+    "https://knihovnahk.cz/idp/shibboleth": {
+        "cs": "Knihovna města Hradce Králové",
+        "en": "Municipal Library of Hradec Kralove"
+    },
+    "https://knihovnahod.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Hodonín",
+        "en": "Municipal Library in Hodonin"
+    },
+    "https://knihovnahradec.cz/idp/shibboleth": {
+        "cs": "Městská knihovna a informační centrum Hradec nad Moravicí",
+        "en": "Municipal Library and Information centre of Hradec nad Moravicí"
+    },
+    "https://knihovnajaromer.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Jaroměř",
+        "en": "Municipal Library Jaroměr"
+    },
+    "https://knihovnakolin.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Kolín",
+        "en": "Municipal Library Kolín"
+    },
+    "https://knihovnakv.cz/idp/shibboleth": {
+        "cs": "Krajská knihovna Karlovy Vary",
+        "en": "Regional Library Karlovy Vary"
+    },
+    "https://knihovnaml.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Mariánské Lázně",
+        "en": "Municipal Library Marianske Lazne"
+    },
+    "https://knihovnamost.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Most",
+        "en": "Municipal Library in Most"
+    },
+    "https://knihovnaprerov.cz/idp/shibboleth": {
+        "cs": "Městská knihovna v Přerově",
+        "en": "Municipal Library Přerov"
+    },
+    "https://knihovnatabor.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Tábor",
+        "en": "Municipal Library Tábor"
+    },
+    "https://knihovnatr.cz/idp/shibboleth": {
+        "cs": "Městská knihovna v Třebíči",
+        "en": "Municipal Library in Třebíč"
+    },
+    "https://knihovnatrinec.cz/idp/shibboleth": {
+        "cs": "Knihovna Třinec",
+        "en": "Library in Třinec"
+    },
+    "https://knihovnazn.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Znojmo",
+        "en": "Municipal library in Znojmo"
+    },
+    "https://knir.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Rožnov pod Radhoštěm",
+        "en": "Municipal Library in Roznov pod Radhostem"
+    },
+    "https://kpbo.cz/idp/shibboleth": {
+        "cs": "Knihovna Petra Bezruče v Opavě",
+        "en": "District Library of Petr Bezruč in Opava"
+    },
+    "https://kulturaboskovice.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Boskovice",
+        "en": "Municipal Library in Boskovice"
+    },
+    "https://kvkli.cz/idp/shibboleth": {
+        "cs": "Krajská vědecká knihovna v Liberci",
+        "en": "Regional Research Library in Liberec"
+    },
+    "https://marisa.uochb.cas.cz/simplesaml/saml2/idp/metadata.php": {
+        "cs": "Ústav organické chemie a biochemie AV ČR",
+        "en": "Institute of Organic Chemistry and Biochemistry AS CR"
+    },
+    "https://mkkl.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Kladno",
+        "en": "Municipal Library in Kladno"
+    },
+    "https://mkmt.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Ladislava z Boskovic v Moravské Třebové",
+        "en": "Municipal Library in Moravska Trebova"
+    },
+    "https://mkostrov.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Ostrov",
+        "en": "Municipal Library Ostrov"
+    },
+    "https://mktrutnov.cz/idp/shibboleth": {
+        "cs": "Městská knihovna s regionálními funkcemi Trutnov",
+        "en": "Municipal library with regional services in Trutnov"
+    },
+    "https://mojeid.cz/saml/idp.xml": {
+        "cs": "mojeID",
+        "en": "mojeID"
+    },
+    "https://pceidp01.nempk.cz/idp/shibboleth": {
+        "cs": "Nemocnice Pardubického kraje, a.s.",
+        "en": "Nemocnice Pardubického kraje, a.s."
+    },
+    "https://queerknihovna.cz/idp/shibboleth": {
+        "cs": "Queer knihovna",
+        "en": "Queer library"
+    },
+    "https://remote.palestra.cz/idp/shibboleth": {
+        "cs": "Vysoká škola tělesné výchovy a sportu PALESTRA, spol. s r. o.",
+        "en": "VSTVS PALESTRA, s.r.o."
+    },
+    "https://sb.nem-tr.cz/idp/shibboleth": {
+        "cs": "Nemocnice Třebíč, p.o.",
+        "en": "Třebíč Hospital"
+    },
+    "https://shib.medvik.cz/idp/shibboleth": {
+        "cs": "Národní lékařská knihovna - Medvik",
+        "en": "National Medical Library, Prague - Medvik"
+    },
+    "https://shib.zcu.cz/idp/shibboleth": {
+        "cs": "Západočeská univerzita v Plzni",
+        "en": "University of West Bohemia"
+    },
+    "https://shibbo.tul.cz/idp/shibboleth": {
+        "cs": "Technická univerzita v Liberci",
+        "en": "Technical University of Liberec"
+    },
+    "https://shibboleth.mzk.cz/simplesaml/metadata.xml": {
+        "cs": "Moravská zemská knihovna",
+        "en": "Moravian Library"
+    },
+    "https://shibboleth.nkp.cz/idp/shibboleth": {
+        "cs": "Národní knihovna České republiky",
+        "en": "The National Library of the Czech Republic"
+    },
+    "https://shibboleth.techlib.cz/idp/shibboleth": {
+        "cs": "Národní technická knihovna",
+        "en": "National Library of Technology"
+    },
+    "https://shibboleth.utb.cz/idp/shibboleth": {
+        "cs": "Univerzita Tomáše Bati ve Zlíně",
+        "en": "Tomas Bata University in Zlín"
+    },
+    "https://shibboleth.vsup.cz/idp/shibboleth": {
+        "cs": "Vysoká škola uměleckoprůmyslová v Praze",
+        "en": "Academy of Arts, Architecture and Design in Prague"
+    },
+    "https://shibo.vkol.cz/idp/shibboleth": {
+        "cs": "Vědecká knihovna v Olomouci",
+        "en": "Research Library in Olomouc"
+    },
+    "https://slavoj.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Slavoj ve Dvoře Králové nad Labem",
+        "en": "Municipal Library Slavoj in Dvur Kralove nad Labem"
+    },
+    "https://sts.windows.net/c38e8f6c-0577-4e93-89d6-5aebb07d4538/": {
+        "cs": "Nemocnice Jihlava, p.o.",
+        "en": "Hospital Jihlava"
+    },
+    "https://svkkl.cz/idp/shibboleth": {
+        "cs": "Středočeská vědecká knihovna v Kladně",
+        "en": "Central Bohemian Research Library"
+    },
+    "https://svkul.cz/idp/shibboleth": {
+        "cs": "Severočeská vědecká knihovna v Ústí nad Labem",
+        "en": "The North Bohemian Research Library"
+    },
+    "https://whoami.cesnet.cz/idp/shibboleth": {
+        "cs": "CESNET",
+        "en": "CESNET"
+    },
+    "https://wsso.vscht.cz/idp/shibboleth": {
+        "cs": "Vysoká škola chemicko-technologická Praze",
+        "en": "University of Chemistry and Technology, Prague"
+    },
+    "https://www.vutbr.cz/SSO/saml2/idp": {
+        "cs": "Vysoké učení technické v Brně",
+        "en": "Brno University of Technology"
+    }
+}

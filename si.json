@@ -1,0 +1,82 @@
+{
+    "https://adfs.gskamnik.si/saml": {
+        "en": "Glasbena šola Kamnik",
+        "sl": "Glasbena šola Kamnik"
+    },
+    "https://adfs.kgbl.si/saml": {
+        "en": "Konservatorij za glasbo in balet Ljubljana",
+        "sl": "Konservatorij za glasbo in balet Ljubljana"
+    },
+    "https://edi.izum.si/idp/20100722": {
+        "en": "IZUM",
+        "sl": "IZUM"
+    },
+    "https://gimb-idp-1.gimb.org/idp/20130521": {
+        "en": "Gimnazija Bežigrad high school",
+        "sl": "Gimnazija Bežigrad"
+    },
+    "https://idp.aai.arnes.si/idp/20090116": {
+        "en": "ARNES",
+        "sl": "Arnes"
+    },
+    "https://idp.aai.um.si/idp": {
+        "en": "University of Maribor",
+        "sl": "Univerza v Mariboru"
+    },
+    "https://idp.almamater.si/idp/20110921": {
+        "en": "Alma Mater Europaea ECM",
+        "sl": "Alma Mater Europaea ECM"
+    },
+    "https://idp.doba.si/idp/20110921": {
+        "en": "DOBA",
+        "sl": "DOBA"
+    },
+    "https://idp.geo-zs.si/idp/20110325": {
+        "en": "Geological Survey of Slovenia",
+        "sl": "Geološki zavod Slovenije"
+    },
+    "https://idp.ijs.si/simplesaml/saml2/idp/metadata.php": {
+        "en": "Jožef Stefan Institute",
+        "sl": "Institut \"Jožef Stefan\""
+    },
+    "https://idp.ki.si/idp/20101110": {
+        "en": "National Institute of Chemistry Slovenia",
+        "sl": "Kemijski inštitut"
+    },
+    "https://idp.mf.uni-lj.si/idp/20111101": {
+        "en": "University of Ljubljana, Faculty of Medicine",
+        "sl": "Univerza v Ljubljani, Medicinska fakulteta"
+    },
+    "https://idp.nms.si/idp/20121010": {
+        "en": "NMS & PMS",
+        "sl": "NMS & PMS"
+    },
+    "https://idp.sc-nm.si/idp/20150127": {
+        "en": "School center Novo mesto",
+        "sl": "Šolski center Novo mesto"
+    },
+    "https://idp.scptuj.si/idp/20111102": {
+        "en": "ŠC Ptuj",
+        "sl": "ŠC Ptuj"
+    },
+    "https://idp.ung.si/idp/20111102": {
+        "en": "University of Nova Gorica",
+        "sl": "Univerza v Novi Gorici"
+    },
+    "https://idp.uni-lj.si/idp/20100525": {
+        "en": "University of Ljubljana",
+        "sl": "Univerza v Ljubljani"
+    },
+    "https://idp.upr.si/idp/201005XX": {
+        "en": "University of Primorska",
+        "sl": "Univerza na Primorskem"
+    },
+    "https://ldap.academia.si/simplesaml/saml2/idp/metadata.php": {
+        "en": "ACADEMIA d.o.o.",
+        "sl": "ACADEMIA d.o.o."
+    },
+    "https://radius.nib.si/idp/2013090600": {
+        "en": "NIB",
+        "sl": "NIB"
+    }
+}

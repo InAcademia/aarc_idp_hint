@@ -1,0 +1,1166 @@
+{
+    "http://fs.unilasalle.fr/adfs/services/trust": {
+        "en": "UniLaSalle Institute",
+        "fr": "Institut Polytechnique UniLaSalle"
+    },
+    "http://i-idd.silab.cea.fr/adfs/services/trust": {
+        "en": "CEA {SILAB}",
+        "fr": "CEA {SILAB}"
+    },
+    "http://sso.inrs.fr/adfs/services/trust": {
+        "en": "National Research and Safety Institute (INRS - French)",
+        "fr": "Institut National de Recherche et de Sécurité (INRS - France)"
+    },
+    "https://access-check.edugain.org/simplesaml/saml2/idp/metadata.php": {
+        "en": "eduGAIN Access Check",
+        "fr": "eduGAIN Access Check"
+    },
+    "https://ambre.vetagro-sup.fr/idp/shibboleth": {
+        "en": "Vetagro Sup",
+        "fr": "Vetagro Sup"
+    },
+    "https://antimoine.insa-strasbourg.fr/idp/shibboleth": {
+        "en": "INSA Strasbourg",
+        "fr": "INSA Strasbourg"
+    },
+    "https://apps.univ-lr.fr/idp/shibboleth": {
+        "en": "La Rochelle University",
+        "fr": "La Rochelle Université"
+    },
+    "https://ashibi.agropolis.fr/idp/shibboleth": {
+        "en": "Agropolis International",
+        "fr": "Agropolis International"
+    },
+    "https://atlas.sciencespo-lille.eu/idp/shibboleth": {
+        "en": "Sciences Po Lille",
+        "fr": "Sciences Po Lille"
+    },
+    "https://auth.agrosupdijon.fr/idp/shibboleth": {
+        "en": "Agrosup DIJON INSSAAE",
+        "fr": "Agrosup DIJON INSSAAE"
+    },
+    "https://auth.centrale-marseille.fr/idp/shibboleth": {
+        "en": "Ecole Centrale de Marseille",
+        "fr": "Ecole Centrale de Marseille"
+    },
+    "https://auth.chimie-paristech.fr/idp/saml2/metadata": {
+        "en": "Ecole Nationale Supérieure de Chimie Paris",
+        "fr": "Ecole Nationale Supérieure de Chimie Paris"
+    },
+    "https://auth.cnous.fr/idp/shibboleth": {
+        "en": "Cnous IDP",
+        "fr": "CNOUS - Personnel"
+    },
+    "https://auth.crous-caen.fr/idp/shibboleth": {
+        "en": "CROUS Caen-Personnels V3",
+        "fr": "CROUS Caen-Personnels V3"
+    },
+    "https://auth.crous-clermont.fr/idp/shibboleth": {
+        "en": "CROUS Clermont Auvergne V3",
+        "fr": "CROUS Clermont Auvergne V3"
+    },
+    "https://auth.crous-lyon.fr/idp/shibboleth": {
+        "en": "CROUS Lyon-Personnels",
+        "fr": "CROUS Lyon-Personnels"
+    },
+    "https://auth.crous-nice.fr/idp/shibboleth": {
+        "en": "CROUS Nice-Personnels V3",
+        "fr": "CROUS Nice-Personnels V3"
+    },
+    "https://auth.crous-poitiers.fr/idp/shibboleth": {
+        "en": "CROUS Poitiers-Personnels V3",
+        "fr": "CROUS Poitiers-Personnels V3"
+    },
+    "https://auth.crous-rennes.fr/idp/shibboleth": {
+        "en": "CROUS Rennes V3",
+        "fr": "CROUS Rennes V3"
+    },
+    "https://auth.crous-strasbourg.fr/idp/shibboleth": {
+        "en": "CROUS Strasbourg V3",
+        "fr": "CROUS Strasbourg V3"
+    },
+    "https://auth.id.sorbonne-universite.fr/saml/metadata": {
+        "en": "Sorbonne University",
+        "fr": "Sorbonne Université"
+    },
+    "https://auth.u-paris.fr/idp/shibboleth": {
+        "en": "Université de Paris",
+        "fr": "Université de Paris"
+    },
+    "https://auth.u-pec.fr/idp/shibboleth": {
+        "en": "University Paris-Est créteil",
+        "fr": "Université de Paris Est Créteil - UPEC"
+    },
+    "https://auth.univ-paris-diderot.fr/idp/shibboleth": {
+        "en": "Université de Paris 7 - Denis Diderot",
+        "fr": "Université de Paris 7 - Denis Diderot"
+    },
+    "https://authentification.prive.ineris.fr/nidp/saml2/metadata": {
+        "en": "INERIS - Institut National de l'Environnement Industriel et des Risques",
+        "fr": "INERIS - Institut National de l'Environnement Industriel et des Risques"
+    },
+    "https://baragwin.brest-bs.com/idp/shibboleth": {
+        "en": "Brest Business School",
+        "fr": "Brest Business School"
+    },
+    "https://boulle-idps.hesam.eu/idp/shibboleth": {
+        "en": "École Boulle",
+        "fr": "École Boulle"
+    },
+    "https://cas.ac-martinique.fr/idp/shibboleth": {
+        "en": "Rectorat de la Martinique",
+        "fr": "Rectorat de la Martinique"
+    },
+    "https://cas.st-cyr.terre.defense.gouv.fr/idp/shibboleth": {
+        "en": "Académie militaire de Saint-Cyr Coëtquidan",
+        "fr": "Académie militaire de Saint-Cyr Coëtquidan"
+    },
+    "https://cas.universite-lyon.fr/idp": {
+        "en": "Université de Lyon - UDL",
+        "fr": "Université de Lyon - UDL"
+    },
+    "https://ciboulette.abes.fr/idp/shibboleth": {
+        "en": "ABES - French Bibliographic Agency for Higher Education",
+        "fr": "ABES - Agence Bibliographique de l'Enseignement Supérieur"
+    },
+    "https://connect.paris-belleville.archi.fr/saml/metadata": {
+        "en": "National school of architecture Paris-Belleville",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Paris-Belleville"
+    },
+    "https://e-idp-prod.extra.cea.fr/idp/shibboleth": {
+        "en": "CEA-Extra",
+        "fr": "CEA-Extra"
+    },
+    "https://eliot.isae.fr/idp/shibboleth": {
+        "en": "ISAE",
+        "fr": "ISAE Institut Supérieur de l'Aéronautique et de l'Espace"
+    },
+    "https://ensaama-idps.hesam.eu/idp/shibboleth": {
+        "en": "ENSAAMA - School of Art & Design",
+        "fr": "ENSAAMA - École nationale supérieure des arts appliqués et des métiers d’art"
+    },
+    "https://ensci-idps.hesam.eu/idp/shibboleth": {
+        "en": "ENSCI - French national institute for advanced studies in industrial design",
+        "fr": "ENSCI - ÉCOLE NATIONALE SUPÉRIEURE DE CRÉATION INDUSTRIELLE"
+    },
+    "https://federation-identite.univ-paris13.fr/idp/shibboleth": {
+        "en": "University Paris 13",
+        "fr": "Université Paris 13"
+    },
+    "https://federation.ac-strasbourg.fr/idp/shibboleth": {
+        "en": "Rectorat de Strasbourg",
+        "fr": "Rectorat de Strasbourg"
+    },
+    "https://federation.bretagne.iufm.fr/idp/shibboleth": {
+        "en": "ESPE de Bretagne",
+        "fr": "ESPE de Bretagne"
+    },
+    "https://federation.ens.psl.eu/idp/shibboleth": {
+        "en": "Ecole Normale Supérieure - PSL",
+        "fr": "Ecole Normale Supérieure - PSL"
+    },
+    "https://federation.ined.fr/idp/shibboleth": {
+        "en": "INED - Institut National d'Etudes Démographiques",
+        "fr": "INED - Institut National d'Etudes Démographiques"
+    },
+    "https://federation.sciences-po.fr/idp/shibboleth": {
+        "en": "Sciences Po Paris",
+        "fr": "Sciences Po Paris"
+    },
+    "https://federation.umontpellier.fr/idp/shibboleth": {
+        "en": "Montpellier University",
+        "fr": "Université de Montpellier"
+    },
+    "https://federation.unimes.fr/idp/shibboleth": {
+        "en": "Université de Nimes",
+        "fr": "Université de Nimes"
+    },
+    "https://federation.upf.pf/idp/shibboleth": {
+        "en": "University of French Polynesia",
+        "fr": "Université de Polynésie française"
+    },
+    "https://federation.utbm.fr/idp/shibboleth": {
+        "en": "Université de Technologie de Belfort-Montbéliard",
+        "fr": "Université de Technologie de Belfort-Montbéliard"
+    },
+    "https://federation2.univ-perp.fr/idp/shibboleth": {
+        "en": "Université de Perpignan Via Domitia",
+        "fr": "Université de Perpignan Via Domitia"
+    },
+    "https://federation3.univ-brest.fr/idp/shibboleth": {
+        "en": "Université de Bretagne Occidentale - UBO/IDP3",
+        "fr": "Université de Bretagne Occidentale - UBO/IDP3"
+    },
+    "https://i-id.cea.fr/fed": {
+        "en": "CEA French Alternative Energies and Atomic Energy Commission",
+        "fr": "CEA Commissariat à l´énergie atomique et aux énergies alternatives"
+    },
+    "https://id.auf.org/idp/saml2/metadata": {
+        "en": "Agence Universitaire de la Francophonie (AUF)",
+        "fr": "Agence universitaire de la Francophonie (AUF)"
+    },
+    "https://id.ecoledulouvre.com/simplesaml/saml2/idp/metadata.php": {
+        "en": "École du Louvre (Users)",
+        "fr": "École du Louvre (Usagers)"
+    },
+    "https://id.ucly.fr/idp/shibboleth": {
+        "en": "Université Catholique de Lyon",
+        "fr": "Université Catholique de Lyon"
+    },
+    "https://ident-shib.ensc-rennes.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure de Chimie de Rennes",
+        "fr": "Ecole Nationale Supérieure de Chimie de Rennes"
+    },
+    "https://ident-shib.sciencespo-rennes.fr/idp/shibboleth": {
+        "en": "Sciences Po Rennes",
+        "fr": "Sciences Po Rennes"
+    },
+    "https://ident.groupe-esa.fr/idp/shibboleth": {
+        "en": "Ecole Supérieure d'Agriculture d'Angers",
+        "fr": "Ecole Supérieure d'Agriculture d'Angers"
+    },
+    "https://identification.univ-toulouse.fr": {
+        "en": "COMUE Université Fédérale Toulouse Midi-Pyrénées",
+        "fr": "COMUE Université Fédérale Toulouse Midi-Pyrénées"
+    },
+    "https://identite.ensta-bretagne.fr/idp/shibboleth": {
+        "en": "ENSTA Bretagne",
+        "fr": "ENSTA Bretagne"
+    },
+    "https://identites.ec-lyon.fr/idp/shibboleth": {
+        "en": "Ecole Centrale de Lyon",
+        "fr": "Ecole Centrale de Lyon"
+    },
+    "https://identites.ensea.fr/idp/shibboleth": {
+        "en": "ENSEA",
+        "fr": "ENSEA"
+    },
+    "https://identities.univ-jfc.fr/idp/prod": {
+        "en": "INUC - Institut national universitaire Jean-François Champollion",
+        "fr": "INUC - Institut national universitaire Jean-François Champollion"
+    },
+    "https://idp-agrocampus-ouest.renater.fr/idp/shibboleth": {
+        "en": "AGROCAMPUS OUEST",
+        "fr": "AGROCAMPUS OUEST"
+    },
+    "https://idp-connect.renater.fr/idp/shibboleth": {
+        "en": "Identitas : RENATER Connect",
+        "fr": "Identitas : RENATER Connect"
+    },
+    "https://idp-couperin.renater.fr/idp/shibboleth": {
+        "en": "COUPERIN",
+        "fr": "COUPERIN"
+    },
+    "https://idp-ensad.renater.fr/idp/shibboleth": {
+        "en": "EnsAD - École nationale supérieure des Arts Décoratifs",
+        "fr": "EnsAD - École nationale supérieure des Arts Décoratifs"
+    },
+    "https://idp-feder.pleiade.education.fr/idp/shibboleth": {
+        "en": "Head office of french Ministries of Education, Higher Education, Research and Sports",
+        "fr": "Administration centrale MENJ/MESRI/MS"
+    },
+    "https://idp-ihes.renater.fr/idp/shibboleth": {
+        "en": "IHES - Institut des Hautes Études Scientifiques",
+        "fr": "IHES - Institut des Hautes Études Scientifiques"
+    },
+    "https://idp-insa-cvl.renater.fr/idp/shibboleth": {
+        "en": "INSA Centre Val de Loire",
+        "fr": "INSA Centre Val de Loire"
+    },
+    "https://idp-ng.univ-st-etienne.fr/idp/shibboleth": {
+        "en": "University of Saint-Etienne - Jean Monnet",
+        "fr": "Université de Saint-Etienne - Jean Monnet"
+    },
+    "https://idp-renater.pulsalys.fr/idp/shibboleth": {
+        "en": "PULSALYS - SATT Lyon Saint-Etienne",
+        "fr": "PULSALYS - SATT Lyon Saint-Etienne"
+    },
+    "https://idp-sciencespo-grenoble.renater.fr/idp/shibboleth": {
+        "en": "Sciences Po Grenoble",
+        "fr": "Sciences Po Grenoble"
+    },
+    "https://idp-septa.onisep.fr/idp/shibboleth": {
+        "en": "O.N.I.S.E.P - Office National d'Information sur les Enseignements et les Professions (ONISEP)",
+        "fr": "O.N.I.S.E.P - Office National d'Information sur les Enseignements et les Professions  (ONISEP)"
+    },
+    "https://idp-ubx.u-bordeaux.fr/idp/shibboleth": {
+        "en": "Université de Bordeaux",
+        "fr": "Université de Bordeaux"
+    },
+    "https://idp-univ-guyane.renater.fr/idp/shibboleth": {
+        "en": "Université de Guyane",
+        "fr": "Université de Guyane"
+    },
+    "https://idp.beauxartsnantes.fr/idp/shibboleth": {
+        "en": "Ecole des beaux-arts de Nantes Saint-Nazaire",
+        "fr": "Ecole des beaux-arts de Nantes Saint-Nazaire"
+    },
+    "https://idp.bnu.fr/idp/shibboleth": {
+        "en": "Bibliothèque Nationale Universitaire - Strasbourg",
+        "fr": "Bibliothèque Nationale et Universitaire - Strasbourg"
+    },
+    "https://idp.centralelille.fr/idp/shibboleth": {
+        "en": "Centrale Lille",
+        "fr": "Centrale Lille"
+    },
+    "https://idp.cirad.fr/idp/shibboleth": {
+        "en": "CIRAD",
+        "fr": "CIRAD"
+    },
+    "https://idp.college-de-france.fr/idp/shibboleth": {
+        "en": "IdP - College de France",
+        "fr": "IdP - Collège de France"
+    },
+    "https://idp.cpe.fr/idp/shibboleth": {
+        "en": "CPE Lyon",
+        "fr": "CPE Lyon"
+    },
+    "https://idp.criann.fr/saml2/idp/metadata.php": {
+        "en": "CRIANN",
+        "fr": "CRIANN"
+    },
+    "https://idp.crihan.fr/saml2/idp/metadata.php": {
+        "en": "CRIHAN",
+        "fr": "CRIHAN"
+    },
+    "https://idp.crous-antillesguyane.fr/idp/shibboleth": {
+        "en": "CROUS Antilles-Guyane",
+        "fr": "CROUS Antilles-Guyane"
+    },
+    "https://idp.crous-bfc.fr/idp/shibboleth": {
+        "en": "CROUS BFC",
+        "fr": "CROUS BFC"
+    },
+    "https://idp.crous-bordeaux.fr/idp/shibboleth": {
+        "en": "CROUS Bordeaux",
+        "fr": "CROUS Bordeaux"
+    },
+    "https://idp.crous-grenoble.fr/idp/shibboleth": {
+        "en": "CROUS Grenoble - Personnels",
+        "fr": "CROUS Grenoble - Personnels"
+    },
+    "https://idp.crous-lille.fr/idp/shibboleth": {
+        "en": "CROUS Lille",
+        "fr": "CROUS Lille"
+    },
+    "https://idp.crous-nancy-metz.fr/idp/shibboleth": {
+        "en": "CROUS Lorraine",
+        "fr": "CROUS Lorraine"
+    },
+    "https://idp.crous-normandie.fr/idp/shibboleth": {
+        "en": "CROUS Normandie - Employees v3",
+        "fr": "CROUS Normandie - Personnels v3"
+    },
+    "https://idp.crous-paris.fr/idp/shibboleth": {
+        "en": "CROUS Paris",
+        "fr": "CROUS Paris"
+    },
+    "https://idp.cue-lillenorddefrance.fr/shibboleth": {
+        "en": "Communauté d'Universités et d'Etablissements - Lille Nord de France",
+        "fr": "Communauté d'Universités et d'Etablissements - Lille Nord de France"
+    },
+    "https://idp.curie.fr/idp/saml2/metadata": {
+        "en": "Institut Curie - Research center",
+        "fr": "Institut Curie - Centre de recherche"
+    },
+    "https://idp.ecole-navale.fr/idp/shibboleth": {
+        "en": "Ecole navale",
+        "fr": "Ecole navale"
+    },
+    "https://idp.ehesp.fr/idp/shibboleth": {
+        "en": "EHESP - Ecole des hautes études en santé publique",
+        "fr": "EHESP - Ecole des hautes études en santé publique"
+    },
+    "https://idp.em-normandie.fr/idp/shibboleth": {
+        "en": "Ecole de Management de Normandie",
+        "fr": "Ecole de Management de Normandie"
+    },
+    "https://idp.enac.fr/idp/shibboleth": {
+        "en": "ENAC - Ecole Nationale de l'Aviation Civile",
+        "fr": "ENAC - Ecole Nationale de l'Aviation Civile"
+    },
+    "https://idp.enib.fr/idp/shibboleth": {
+        "en": "ENIB - Ecole Nationale d'Ingénieurs de Brest",
+        "fr": "ENIB - Ecole Nationale d'Ingénieurs de Brest"
+    },
+    "https://idp.enit.fr/idp/shibboleth": {
+        "en": "ENIT Ecole Nationale Ingénieurs Tarbes",
+        "fr": "ENIT Ecole Nationale Ingénieurs Tarbes"
+    },
+    "https://idp.enitab.fr/idp/shibboleth": {
+        "en": "Bordeaux Sciences Agro",
+        "fr": "Bordeaux Sciences Agro"
+    },
+    "https://idp.enpc.fr/saml/metadata": {
+        "en": "Ecole des Ponts ParisTech",
+        "fr": "École des Ponts ParisTech"
+    },
+    "https://idp.ens-lyon.fr/idp/shibboleth": {
+        "en": "ENS de Lyon",
+        "fr": "ENS de Lyon"
+    },
+    "https://idp.ens-rennes.fr/idp/shibboleth": {
+        "en": "ENS Rennes",
+        "fr": "ENS Rennes"
+    },
+    "https://idp.ensae.fr/saml2/idp/metadata.php": {
+        "en": "ENSAE - École Nationale de la Statistique et de l'Administration Économique",
+        "fr": "ENSAE - École Nationale de la Statistique et de l'Administration Économique"
+    },
+    "https://idp.ensam.eu/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Arts et Métiers - MFA",
+        "fr": "Ecole Nationale Supérieure d'Arts et Métiers - MFA"
+    },
+    "https://idp.enscm.fr/idp/shibboleth": {
+        "en": "ENSCM - Ecole Nationale Supérieure de Chimie de Montpellier",
+        "fr": "ENSCM - Ecole Nationale Supérieure de Chimie de Montpellier"
+    },
+    "https://idp.ensfea.fr/idp/shibboleth": {
+        "en": "ENSFEA",
+        "fr": "ENSFEA"
+    },
+    "https://idp.ensma.fr/idp/shibboleth": {
+        "en": "ENSMA - Ecole Nationale Supérieure de Mécanique et d'Aérotechnique",
+        "fr": "ENSMA - Ecole Nationale Supérieure de Mécanique et d'Aérotechnique"
+    },
+    "https://idp.ent.dauphine.fr/idp/shibboleth": {
+        "en": "Université de Paris 9 - Dauphine",
+        "fr": "Université de Paris 9 - Dauphine"
+    },
+    "https://idp.epita.fr/idp/shibboleth": {
+        "en": "The school of engineers in computer intelligence (EPITA)",
+        "fr": "L' École pour l’informatique et les techniques avancées ( EPITA)"
+    },
+    "https://idp.esc-pau.fr/idp/shibboleth": {
+        "en": "ESC PAU Business School",
+        "fr": "ESC PAU Business School"
+    },
+    "https://idp.esigelec.fr/idp/shibboleth": {
+        "en": "Esigelec",
+        "fr": "Esigelec"
+    },
+    "https://idp.esme.fr/idp/shibboleth": {
+        "en": "ESME - ENGINEERING SCHOOL OF ENERGY AND DIGITAL TECHNOLOGIES",
+        "fr": "ESME - L' École spéciale de mécanique et d'électricité"
+    },
+    "https://idp.eurecom.fr/idp/shibboleth": {
+        "en": "EURECOM",
+        "fr": "EURECOM"
+    },
+    "https://idp.icm-institute.org/idp/shibboleth": {
+        "en": "University Hospitals Institute - ICM",
+        "fr": "Institut Hospitalo Universitaire - ICM"
+    },
+    "https://idp.ifremer.fr/idp/shibboleth": {
+        "en": "French Research Institute for Exploitation of the Sea",
+        "fr": "IFREMER"
+    },
+    "https://idp.ill.fr/idp/shibboleth": {
+        "en": "Institut Laue-Langevin",
+        "fr": "Institut Laue-Langevin"
+    },
+    "https://idp.imt-atlantique.fr/idp/shibboleth": {
+        "en": "IMT Atlantique",
+        "fr": "IMT Atlantique"
+    },
+    "https://idp.inalco.fr/idp/shibboleth": {
+        "en": "INALCO - Institut National des Langues et Civilisations Orientales",
+        "fr": "INALCO - Institut National des Langues et Civilisations Orientales"
+    },
+    "https://idp.inha.fr/idp/shibboleth": {
+        "en": "INHA - Institut National de l'Histoire de l'Art",
+        "fr": "INHA - Institut National de l'Histoire de l'Art"
+    },
+    "https://idp.inp-toulouse.fr/idp/shibboleth": {
+        "en": "INPT - Institut National Polytechnique de Toulouse",
+        "fr": "INPT - Institut National Polytechnique de Toulouse"
+    },
+    "https://idp.inra.fr/idp/shibboleth": {
+        "en": "INRA - Institut National de la Recherche Agronomique",
+        "fr": "INRA - Institut National de la Recherche Agronomique"
+    },
+    "https://idp.insa-rennes.fr/idp/shibboleth": {
+        "en": "INSA Rennes",
+        "fr": "INSA Rennes"
+    },
+    "https://idp.inserm-transfert.fr/idp/shibboleth": {
+        "en": "INSERM-Transfert",
+        "fr": "INSERM-Transfert"
+    },
+    "https://idp.inserm.fr/idp/shibboleth": {
+        "en": "INSERM",
+        "fr": "INSERM"
+    },
+    "https://idp.inshea.fr/idp/shibboleth": {
+        "en": "INSHEA - Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés",
+        "fr": "INSHEA - Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés"
+    },
+    "https://idp.ipb.fr/idp/shibboleth": {
+        "en": "Bordeaux INP",
+        "fr": "Bordeaux INP"
+    },
+    "https://idp.ipsa.fr/idp/shibboleth": {
+        "en": "IPSA, Institute of Polytechnic Science and Aeronautics",
+        "fr": "IPSA - Ecole d'ingénieurs aéronautique et spatiale"
+    },
+    "https://idp.irstea.fr/idp/shibboleth": {
+        "en": "IRSTEA - National Research Institute of Science and Technology for Environment and Agriculture",
+        "fr": "IRSTEA - Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture"
+    },
+    "https://idp.isara.fr/idp/shibboleth": {
+        "en": "ISARA",
+        "fr": "ISARA"
+    },
+    "https://idp.lille.archi.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Architecture et de Paysage de Lille",
+        "fr": "Ecole Nationale Supérieure d'Architecture et de Paysage de Lille"
+    },
+    "https://idp.lyon.archi.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Architecture de Lyon",
+        "fr": "ENSAL - Ecole Nationale Supérieure d'Architecture de Lyon"
+    },
+    "https://idp.marseille.archi.fr/idp/shibboleth": {
+        "en": "National School of Architecture of Marseille",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Marseille"
+    },
+    "https://idp.mines-paristech.fr/idp/shibboleth": {
+        "en": "MINES ParisTech",
+        "fr": "MINES ParisTech"
+    },
+    "https://idp.nancy.archi.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Architecture de Nancy",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Nancy"
+    },
+    "https://idp.nantes.archi.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Architecture de Nantes (ENSA Nantes)",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Nantes (ENSA Nantes)"
+    },
+    "https://idp.normandie-univ.fr/idp/shibboleth": {
+        "en": "Normandie Université",
+        "fr": "Normandie Université"
+    },
+    "https://idp.oniris-nantes.fr/idp/shibboleth": {
+        "en": "ONIRIS",
+        "fr": "ONIRIS"
+    },
+    "https://idp.paris-lavillette.archi.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Architecture de Paris - La Villette",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Paris - La Villette"
+    },
+    "https://idp.paris-malaquais.archi.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Architecture de Paris - Malaquais",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Paris - Malaquais"
+    },
+    "https://idp.paris-valdeseine.archi.fr/idp/shibboleth": {
+        "en": "ENSAPVS - Ecole Nationale Supérieure d'Architecture Paris Val de Seine",
+        "fr": "ENSAPVS - Ecole Nationale Supérieure d'Architecture Paris Val de Seine"
+    },
+    "https://idp.parisdescartes.fr/idp/shibboleth": {
+        "en": "Université de Paris 5 - Paris Descartes",
+        "fr": "Université de Paris 5 - Paris Descartes"
+    },
+    "https://idp.pasteur.fr/idp/shibboleth": {
+        "en": "Institut Pasteur",
+        "fr": "Institut Pasteur"
+    },
+    "https://idp.polytechnique.fr/idp/shibboleth": {
+        "en": "Ecole Polytechnique - Palaiseau",
+        "fr": "Ecole Polytechnique - Palaiseau"
+    },
+    "https://idp.psl.eu/idp/saml2/metadata": {
+        "en": "PSL - Research University",
+        "fr": "PSL - Université de Recherche Paris Sciences & Lettres"
+    },
+    "https://idp.renater.fr/idp/shibboleth": {
+        "en": "GIP RENATER",
+        "fr": "GIP RENATER"
+    },
+    "https://idp.rennes.archi.fr/idp/shibboleth": {
+        "en": "ENSAB - Ecole Nationale Supérieure d'Architecture de Bretagne",
+        "fr": "ENSAB - Ecole Nationale Supérieure d'Architecture de Bretagne"
+    },
+    "https://idp.rouen.archi.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Architecture de Normandie",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Normandie"
+    },
+    "https://idp.sciencespo-lyon.fr/idp/shibboleth": {
+        "en": "Sciences Po Lyon",
+        "fr": "Sciences Po Lyon"
+    },
+    "https://idp.sciencespobordeaux.fr/idp/shibboleth": {
+        "en": "Sciences Po Bordeaux",
+        "fr": "Sciences Po Bordeaux"
+    },
+    "https://idp.shom.fr/idp/shibboleth": {
+        "en": "Shom",
+        "fr": "Shom"
+    },
+    "https://idp.sigma-clermont.fr/idp/shibboleth": {
+        "en": "SIGMA CLERMONT",
+        "fr": "SIGMA Clermont"
+    },
+    "https://idp.srv.hesam.eu/idp/shibboleth": {
+        "en": "HESAM",
+        "fr": "HESAM"
+    },
+    "https://idp.st-etienne.archi.fr/idp/shibboleth": {
+        "en": "ENSASE - Ecole nationale supérieure d'architecture de Saint-Étienne",
+        "fr": "ENSASE - École nationale supérieure d'architecture de Saint-Étienne"
+    },
+    "https://idp.strasbourg.archi.fr/idp/shibboleth": {
+        "en": "ENSA Strasbourg",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Strasbourg"
+    },
+    "https://idp.supagro.fr/idp": {
+        "en": "Montpellier SupAgro",
+        "fr": "Montpellier SupAgro"
+    },
+    "https://idp.supbiotech.fr/idp/shibboleth": {
+        "en": "SUPBIOTECH The School of Biotechnology Engineers",
+        "fr": "SUPBIOTECH - L'école des ingénieur·e·s en Biotechnologies"
+    },
+    "https://idp.synchrotron-soleil.fr/idp/shibboleth": {
+        "en": "Synchrotron SOLEIL",
+        "fr": "Synchrotron SOLEIL"
+    },
+    "https://idp.telecom-bretagne.eu/idp/shibboleth": {
+        "en": "Télécom Bretagne",
+        "fr": "Télécom Bretagne"
+    },
+    "https://idp.telecom-paristech.fr/idp/shibboleth": {
+        "en": "Télécom Paris",
+        "fr": "Télécom Paris"
+    },
+    "https://idp.toulouse.archi.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Architecture de Toulouse",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Toulouse"
+    },
+    "https://idp.u-bordeaux-montaigne.fr/idp/shibboleth": {
+        "en": "Bordeaux Montaigne University",
+        "fr": "Université Bordeaux Montaigne"
+    },
+    "https://idp.u-cergy.fr/idp/shibboleth": {
+        "en": "CY Cergy Paris Université",
+        "fr": "CY Cergy Paris Université"
+    },
+    "https://idp.u-paris2.fr/idp/shibboleth": {
+        "en": "Université de Paris 2 - Panthéon Assas",
+        "fr": "Université de Paris 2 - Panthéon Assas"
+    },
+    "https://idp.u-picardie.fr/idp/shibboleth": {
+        "en": "Université de Picardie Jules Verne",
+        "fr": "Université de Picardie Jules Verne"
+    },
+    "https://idp.u-psud.fr/idp": {
+        "en": "Paris-Sud University",
+        "fr": "Université Paris-Sud"
+    },
+    "https://idp.uca.fr/idp/shibboleth": {
+        "en": "Université Clermont Auvergne",
+        "fr": "Université Clermont Auvergne"
+    },
+    "https://idp.uha.fr/idp/shibboleth": {
+        "en": "Université de Haute Alsace",
+        "fr": "Université de Haute Alsace"
+    },
+    "https://idp.unistra.fr/idp/shibboleth": {
+        "en": "University of Strasbourg",
+        "fr": "Université de Strasbourg"
+    },
+    "https://idp.univ-antilles.fr/idp/shibboleth": {
+        "en": "Université des Antilles",
+        "fr": "Université des Antilles"
+    },
+    "https://idp.univ-artois.fr/idp/shibboleth": {
+        "en": "Université d'Artois",
+        "fr": "Université d'Artois"
+    },
+    "https://idp.univ-lemans.fr/idp/shibboleth": {
+        "en": "LMU - Le Mans University",
+        "fr": "LMU - Le Mans Université"
+    },
+    "https://idp.univ-lille.fr/idp/shibboleth": {
+        "en": "University of Lille",
+        "fr": "Université de Lille"
+    },
+    "https://idp.univ-lyon2.fr/idp/shibboleth": {
+        "en": "University of  Lyon 2 - Lumiere",
+        "fr": "Université de Lyon 2 - Lumière"
+    },
+    "https://idp.univ-lyon3.fr/idp/shibboleth": {
+        "en": "Université de Lyon 3 - Jean Moulin",
+        "fr": "Université de Lyon 3 - Jean Moulin"
+    },
+    "https://idp.univ-orleans.fr/idp/shibboleth": {
+        "en": "University of Orleans",
+        "fr": "Université d'Orléans"
+    },
+    "https://idp.univ-paris13.fr/idp/shibboleth": {
+        "en": "University Sorbonne Paris Nord",
+        "fr": "Université Sorbonne Paris Nord"
+    },
+    "https://idp.univ-paris3.fr/idp/shibboleth": {
+        "en": "University Paris 3 - Sorbonne Nouvelle",
+        "fr": "Université de Paris 3 - Sorbonne Nouvelle"
+    },
+    "https://idp.univ-pau.fr/idp/shibboleth": {
+        "en": "Université de Pau et des Pays de l'Adour",
+        "fr": "Université de Pau et des Pays de l'Adour"
+    },
+    "https://idp.univ-tln.fr/idp/shibboleth": {
+        "en": "Université de Toulon",
+        "fr": "Université de Toulon"
+    },
+    "https://idp.univ-tlse3.fr/idp/shibboleth": {
+        "en": "Universite Toulouse III - Paul Sabatier",
+        "fr": "Université Toulouse III - Paul Sabatier"
+    },
+    "https://idp.univ-tours.fr/idp/shibboleth": {
+        "en": "University of Tours",
+        "fr": "Université de Tours"
+    },
+    "https://idp.universcience.fr/idp": {
+        "en": "Universcience-EPPDCSI",
+        "fr": "Universcience-EPPDCSI"
+    },
+    "https://idp.universite-paris-saclay.fr/idp": {
+        "en": "Paris-Saclay University",
+        "fr": "Université Paris-Saclay"
+    },
+    "https://idp.uphf.fr/idp/shibboleth": {
+        "en": "Université Polytechnique Hauts-de-France",
+        "fr": "Université Polytechnique Hauts-de-France"
+    },
+    "https://idp.upmc.fr/idp/shibboleth": {
+        "en": "Université de Paris 6 - Pierre et Marie Curie",
+        "fr": "Université de Paris 6 - Pierre et Marie Curie"
+    },
+    "https://idp.versailles.archi.fr/idp/shibboleth": {
+        "en": "ENSAV - Ecole Nationale Supérieure d'Architecture de Versailles",
+        "fr": "ENSAV - Ecole Nationale Supérieure d'Architecture de Versailles"
+    },
+    "https://idp.vet-alfort.fr/idp/shibboleth": {
+        "en": "National Veterinary School of Alfort",
+        "fr": "Ecole Nationale Vétérinaire d'ALFORT"
+    },
+    "https://idp1.agroparistech.fr/idp/shibboleth": {
+        "en": "AgroParisTech Institut des sciences et des industries du vivant et de l'environnement",
+        "fr": "AgroParisTech Institut des sciences et des industries du vivant et de l'environnement"
+    },
+    "https://idp1.ens-paris-saclay.fr/idp/shibboleth": {
+        "en": "Ecole Normale Supérieure Paris-Saclay (2)",
+        "fr": "Ecole Normale Supérieure Paris-Saclay (2)"
+    },
+    "https://idp1.inria.fr/idp/shibboleth": {
+        "en": "INRIA - Institut National de Recherche en Informatique et Automatique",
+        "fr": "INRIA - Institut National de Recherche en Informatique et Automatique"
+    },
+    "https://idp1.univ-fcomte.fr/idp/shibboleth": {
+        "en": "University of Franche-Comte",
+        "fr": "Université de Franche-Comté"
+    },
+    "https://idp2.amue.fr/idp/shibboleth": {
+        "en": "AMUE - Agence de Mutualisation des Universités et Etablissements",
+        "fr": "AMUE - Agence de Mutualisation des Universités et Etablissements"
+    },
+    "https://idp2.crous-aix-marseille.fr/idp/shibboleth": {
+        "en": "CROUS Aix-Marseille",
+        "fr": "CROUS Aix-Marseille"
+    },
+    "https://idp2.crous-limoges.fr/idp/shibboleth": {
+        "en": "CROUS Limoges V3",
+        "fr": "CROUS Limoges V3"
+    },
+    "https://idp2.crous-toulouse.fr/idp/shibboleth": {
+        "en": "CROUS Toulouse - Personnels",
+        "fr": "CROUS Toulouse - Personnels"
+    },
+    "https://idp2.emse.fr/idp/shibboleth": {
+        "en": "Mines Saint-Étienne - EMSE - IMT",
+        "fr": "Mines Saint-Étienne - EMSE - IMT"
+    },
+    "https://idp2.ensai.fr/idp/shibboleth": {
+        "en": "ENSAI - Ecole Nationale de la Statistique et de l'Analyse de l'Information",
+        "fr": "ENSAI - Ecole Nationale de la Statistique et de l'Analyse de l'Information"
+    },
+    "https://idp2.enssib.fr/idp/shibboleth": {
+        "en": "ENSSIB",
+        "fr": "ENSSIB"
+    },
+    "https://idp2.univ-paris8.fr/idp/shibboleth": {
+        "en": "Université Paris 8 - Vincennes",
+        "fr": "Université Paris 8 - Vincennes"
+    },
+    "https://idp3.cereq.fr/idp/shibboleth": {
+        "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications",
+        "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications"
+    },
+    "https://idp3.cyceron.fr/idp/shibboleth": {
+        "en": "Cyceron",
+        "fr": "Cyceron"
+    },
+    "https://idp3.hec.fr/idp/shibboleth": {
+        "en": "HEC Paris",
+        "fr": "HEC Paris"
+    },
+    "https://idp3.marnelavallee.archi.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Architecture de Paris-est",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Paris-est"
+    },
+    "https://idp3.mnhn.fr/idp/shibboleth": {
+        "en": "Muséum National d'Histoire Naturelle (MNHN)",
+        "fr": "Muséum National d'Histoire Naturelle (MNHN)"
+    },
+    "https://idp3.unicaen.fr/idp/shibboleth": {
+        "en": "University of Caen Normandie",
+        "fr": "Université de Caen Normandie"
+    },
+    "https://idp3.univ-avignon.fr/idp/shibboleth": {
+        "en": "Université d'Avignon",
+        "fr": "Université d'Avignon"
+    },
+    "https://idp3.univ-lorraine.fr/idp/shibboleth": {
+        "en": "Université de Lorraine",
+        "fr": "Université de Lorraine"
+    },
+    "https://idp3.ut-capitole.fr/idp/shibboleth": {
+        "en": "Université Toulouse Capitole",
+        "fr": "Université Toulouse Capitole"
+    },
+    "https://idp4.bordeaux-inp.fr/idp/shibboleth": {
+        "en": "Test Bordeaux INP",
+        "fr": "Test Bordeaux INP"
+    },
+    "https://idpprod.ciep.fr/idp/shibboleth": {
+        "en": "CIEP / France Education International",
+        "fr": "CIEP / France Education International"
+    },
+    "https://idpr3.tem-tsp.eu/idp/shibboleth": {
+        "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis",
+        "fr": "Institut Mines Telecom Business School & Telecom SudParis"
+    },
+    "https://idpr4.imtbs-tsp.eu/idp/shibboleth": {
+        "en": "Institut Mines Telecom Business School and Telecom SudParis (v4)",
+        "fr": "Institut Mines Telecom Business School et Telecom SudParis (v4)"
+    },
+    "https://idpv3.crous-reims.fr/idp/shibboleth": {
+        "en": "CROUS Reims",
+        "fr": "CROUS Reims"
+    },
+    "https://idpv3.crous-versailles.fr/idp/shibboleth": {
+        "en": "CROUS Versailles V3",
+        "fr": "CROUS Versailles V3"
+    },
+    "https://idpv3.ecole-paysage.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure de Paysage Versailles-Marseille",
+        "fr": "Ecole Nationale Supérieure de Paysage Versailles-Marseille"
+    },
+    "https://idpv3.ehess.fr/idp/shibboleth": {
+        "en": "EHESS idp V3",
+        "fr": "EHESS idp V3"
+    },
+    "https://idpv3.univ-amu.fr/idp/shibboleth": {
+        "en": "Aix Marseille Université",
+        "fr": "Aix Marseille Université"
+    },
+    "https://idpv4.crous-reims.fr/idp/shibboleth": {
+        "en": "CROUS de REIMS IDPV4",
+        "fr": "CROUS de REIMS IDPV4"
+    },
+    "https://janus.cnrs.fr/idp": {
+        "en": "CNRS - Units staff",
+        "fr": "CNRS - Personnels des unités"
+    },
+    "https://karma.cines.fr/idp/shibboleth": {
+        "en": "CINES",
+        "fr": "CINES"
+    },
+    "https://login.essec.fr/idp/shibboleth": {
+        "en": "ESSEC BUSINESS SCHOOL",
+        "fr": "ESSEC BUSINESS SCHOOL"
+    },
+    "https://login.insa-lyon.fr/idp/shibboleth": {
+        "en": "INSA Lyon",
+        "fr": "INSA Lyon"
+    },
+    "https://papangue.vetagro-sup.fr/idp/shibboleth": {
+        "en": "IDP vetagro sup PROD",
+        "fr": "IDP vetagro sup PROD"
+    },
+    "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": {
+        "en": "CAMPUS CONDORCET",
+        "fr": "CAMPUS CONDORCET"
+    },
+    "https://ruhnu.univ-tlse2.fr/idp/shibboleth": {
+        "en": "University of Toulouse Jean Jaurès",
+        "fr": "Université Toulouse Jean Jaurès"
+    },
+    "https://sac.ecam.fr/idp/shibboleth": {
+        "en": "Ecam LaSalle",
+        "fr": "Ecam LaSalle"
+    },
+    "https://sesame.ifsttar.fr/idp/shibboleth": {
+        "en": "IFSTTAR",
+        "fr": "IFSTTAR"
+    },
+    "https://shib-pp.unicaen.fr/idp/shibboleth": {
+        "en": "Université de Caen Normandie - preprod",
+        "fr": "Université de Caen Normandie - preprod"
+    },
+    "https://shib.mines-albi.fr/idp/shibboleth": {
+        "en": "IMT Mines Albi",
+        "fr": "IMT Mines Albi"
+    },
+    "https://shib.univ-lehavre.fr/idp/shibboleth": {
+        "en": "Université Le Havre Normandie",
+        "fr": "Université Le Havre Normandie"
+    },
+    "https://shib.univ-reims.fr/idp/shibboleth": {
+        "en": "Université de Reims Champagne-Ardenne",
+        "fr": "Université de Reims Champagne-Ardenne"
+    },
+    "https://shib2.unc.nc/idp/shibboleth": {
+        "en": "University of New-Caledonia (UNC)",
+        "fr": "Université de la Nouvelle-Calédonie (UNC)"
+    },
+    "https://shib3.mines-ales.fr/idp/shibboleth": {
+        "en": "IMT Mines Alès - Ecole Mines-Télécom",
+        "fr": "IMT Mines Alès - Ecole Mines-Télécom"
+    },
+    "https://shibb01.ensait.fr/idp/shibboleth": {
+        "en": "ENSAIT - Roubaix",
+        "fr": "ENSAIT - Roubaix"
+    },
+    "https://shibbo3.enise.fr/idp/shibboleth": {
+        "en": "ENISE",
+        "fr": "ENISE"
+    },
+    "https://shibboleth.clermont-fd.archi.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Architecture de Clermont-Ferrand",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Clermont-Ferrand"
+    },
+    "https://shibboleth.csi.uvsq.fr/idp/shibboleth": {
+        "en": "Université de Versailles St. Quentin en Yvelines",
+        "fr": "Université de Versailles St. Quentin en Yvelines"
+    },
+    "https://shibboleth.ens2m.fr/idp/shibboleth": {
+        "en": "ENSMM - National School of Mechanical and Microtechnology of Besançon",
+        "fr": "ENSMM - Ecole Nationale Supérieure de Mécanique et des Microtechniques de Besançon"
+    },
+    "https://shibboleth.ensicaen.fr/idp/shibboleth": {
+        "en": "ENSICAEN",
+        "fr": "ENSICAEN"
+    },
+    "https://shibboleth.ensiie.fr/idp/shibboleth": {
+        "en": "ENSIIE",
+        "fr": "ENSIIE"
+    },
+    "https://shibboleth.ensta.fr/idp/shibboleth": {
+        "en": "ENSTA Paris - Ecole Nationale Supérieure de Techniques Avancées",
+        "fr": "ENSTA Paris - Ecole Nationale Supérieure de Techniques Avancées"
+    },
+    "https://shibboleth.grenoble-inp.fr/idp/shibboleth": {
+        "en": "Grenoble INP - Institut polytechnique de Grenoble",
+        "fr": "Grenoble INP - Institut polytechnique de Grenoble"
+    },
+    "https://shibboleth.grenoble.archi.fr/idp": {
+        "en": "Grenoble National School of Architecture",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Grenoble"
+    },
+    "https://shibboleth.ict-toulouse.fr/idp/shibboleth": {
+        "en": "Institut Catholique de Toulouse - IdP Shibboleth",
+        "fr": "Institut Catholique de Toulouse - ICT"
+    },
+    "https://shibboleth.insa-rouen.fr/idp/shibboleth": {
+        "en": "INSA de Rouen",
+        "fr": "INSA de Rouen"
+    },
+    "https://shibboleth.reseau-canope.fr/idp/shibboleth": {
+        "en": "Réseau Canopé",
+        "fr": "Réseau Canopé"
+    },
+    "https://shibboleth.u-bourgogne.fr/idp/shibboleth": {
+        "en": "Université de Bourgogne",
+        "fr": "Université de Bourgogne"
+    },
+    "https://shibboleth.univ-corse.fr/idp/shibboleth": {
+        "en": "University of Corsica",
+        "fr": "Université de Corse"
+    },
+    "https://shibboleth.univ-grenoble-alpes.fr/idp/shibboleth": {
+        "en": "University Grenoble Alpes - UGA",
+        "fr": "Université Grenoble Alpes - UGA"
+    },
+    "https://shibboleth.univ-savoie.fr/idp/shibboleth": {
+        "en": "Université Savoie Mont Blanc",
+        "fr": "Université Savoie Mont Blanc"
+    },
+    "https://shibboleth03.chartes.psl.eu/idp/shibboleth": {
+        "en": "Ecole Nationale des Chartes",
+        "fr": "Ecole Nationale des Chartes"
+    },
+    "https://shibboleth3.envt.fr/idp/shibboleth": {
+        "en": "Ecole Nationale Vétérinaire de Toulouse (ENVT)",
+        "fr": "Ecole Nationale Vétérinaire de Toulouse (ENVT)"
+    },
+    "https://shibboleth3.obspm.fr/idp/shibboleth": {
+        "en": "Observatoire de Paris",
+        "fr": "Observatoire de Paris"
+    },
+    "https://shibboleth3.utt.fr/idp/shibboleth": {
+        "en": "Université de Technologie de Troyes - UTT",
+        "fr": "Université de Technologie de Troyes - UTT"
+    },
+    "https://shibbolethv3.univ-evry.fr/idp/shibboleth": {
+        "en": "Université d'Evry Val d'Essonne V3",
+        "fr": "Université d'Evry Val d'Essonne V3"
+    },
+    "https://shibbov3-vm.ec-nantes.fr/idp/shibboleth": {
+        "en": "Centrale Nantes",
+        "fr": "Centrale Nantes"
+    },
+    "https://shibbov3.ephe.fr/idp/shibboleth": {
+        "en": "EPHE - Ecole Pratique des Hautes Etudes",
+        "fr": "EPHE - Ecole Pratique des Hautes Etudes"
+    },
+    "https://shibbov3b-vm.ec-nantes.fr/idp/shibboleth": {
+        "en": "EC-NANT3b",
+        "fr": "EC-NANT3b"
+    },
+    "https://shibidp.oca.eu/idp/shibboleth": {
+        "en": "Observatoire de la Côte d'Azur",
+        "fr": "Observatoire de la Côte d'Azur"
+    },
+    "https://shibone.univ-catholille.fr/idp/shibboleth": {
+        "en": "Catholic University of Lille-",
+        "fr": "Université Catholique de Lille-"
+    },
+    "https://si-idp.entpe.fr/idp/shibboleth": {
+        "en": "ENTPE",
+        "fr": "ENTPE"
+    },
+    "https://srv-fii.insa-toulouse.fr/idp/shibboleth": {
+        "en": "INSA Toulouse",
+        "fr": "INSA Toulouse"
+    },
+    "https://sso-ciation-metz.centralesupelec.fr/idp/shibboleth": {
+        "en": "CentraleSupelec (2)",
+        "fr": "CentraleSupelec (2)"
+    },
+    "https://sso-ciation-rennes.centralesupelec.fr/idp/shibboleth": {
+        "en": "CentraleSupelec (3)",
+        "fr": "CentraleSupelec (3)"
+    },
+    "https://sso-ciation-saclay.centralesupelec.fr/idp/shibboleth": {
+        "en": "CentraleSupelec (1)",
+        "fr": "CentraleSupelec (1)"
+    },
+    "https://sso.cnes.fr": {
+        "en": "CNES",
+        "fr": "CNES"
+    },
+    "https://sso.edhec.edu/idp/shibboleth": {
+        "en": "EDHEC Business School",
+        "fr": "EDHEC Business School"
+    },
+    "https://sso.institutoptique.fr/idp/shibboleth": {
+        "en": "Institut Optique Graduate School",
+        "fr": "Institut Optique Graduate School"
+    },
+    "https://sts.windows.net/538dc00c-d9ba-4814-ab23-584b8a2baac7/": {
+        "en": "Burgundy School Of Business",
+        "fr": "Burgundy School Of Business"
+    },
+    "https://sts.windows.net/b78d03e6-f6a2-4cff-83be-847d1a6453f9/": {
+        "en": "SKEMA Business School",
+        "fr": "SKEMA Business School"
+    },
+    "https://tamana.msh-paris.fr/idp/shibboleth": {
+        "en": "FMSH Fondation Maison des Sciences de l'Homme",
+        "fr": "FMSH Fondation Maison des Sciences de l'Homme"
+    },
+    "https://ucoshib.uco.fr/idp/shibboleth": {
+        "en": "Université Catholique de l'Ouest",
+        "fr": "Université Catholique de l'Ouest"
+    },
+    "https://upnidp2.parisnanterre.fr/idp/shibboleth": {
+        "en": "University Paris Nanterre",
+        "fr": "Université Paris Nanterre"
+    },
+    "https://vip.espci.fr/saml2/idp/metadata.php": {
+        "en": "ESPCI Paris",
+        "fr": "ESPCI Paris"
+    },
+    "https://vm-idp.paris-sorbonne.fr/idp/shibboleth": {
+        "en": "Paris-Sorbonne Universite",
+        "fr": "Paris-Sorbonne Universite"
+    },
+    "https://websso.esrf.fr/auth/realms/ESRF": {
+        "en": "ESRF - European Synchrotron Radiation Facility",
+        "fr": "ESRF - European Synchrotron Radiation Facility"
+    },
+    "urn:mace:cru.fr:federation:uhb.fr": {
+        "en": "Université Rennes 2",
+        "fr": "Université Rennes 2"
+    },
+    "urn:mace:cru.fr:federation:unice.fr": {
+        "en": "Université Nice Sophia Antipolis - Université Côte d'Azur",
+        "fr": "Université Nice Sophia Antipolis - Université Côte d'Azur"
+    },
+    "urn:mace:cru.fr:federation:unilim.fr": {
+        "en": "Université de Limoges",
+        "fr": "Université de Limoges"
+    },
+    "urn:mace:cru.fr:federation:univ-angers.fr": {
+        "en": "University of Angers",
+        "fr": "Université d'Angers"
+    },
+    "urn:mace:cru.fr:federation:univ-littoral.fr": {
+        "en": "Universite du Littoral Cote d'Opale",
+        "fr": "Université du Littoral Côte d'Opale"
+    },
+    "urn:mace:cru.fr:federation:univ-lyon1.fr": {
+        "en": "Université Claude Bernard Lyon 1",
+        "fr": "Université Claude Bernard Lyon 1"
+    },
+    "urn:mace:cru.fr:federation:univ-montp3.fr": {
+        "en": "Université de Montpellier 3",
+        "fr": "Université de Montpellier 3"
+    },
+    "urn:mace:cru.fr:federation:univ-nantes.fr": {
+        "en": "Nantes University (FRANCE)",
+        "fr": "Nantes Université"
+    },
+    "urn:mace:cru.fr:federation:univ-paris1.fr": {
+        "en": "Paris 1 Panthéon-Sorbonne University",
+        "fr": "Université Paris 1 Panthéon-Sorbonne"
+    },
+    "urn:mace:cru.fr:federation:univ-poitiers.fr": {
+        "en": "Université de Poitiers",
+        "fr": "Université de Poitiers"
+    },
+    "urn:mace:cru.fr:federation:univ-rennes1.fr": {
+        "en": "University of Rennes 1",
+        "fr": "Université de Rennes 1"
+    },
+    "urn:mace:cru.fr:federation:univ-reunion.fr": {
+        "en": "University of Reunion Island",
+        "fr": "Université de la Réunion"
+    },
+    "urn:mace:cru.fr:federation:univ-rouen.fr": {
+        "en": "University of Rouen Normandy",
+        "fr": "Université de Rouen Normandie"
+    },
+    "urn:mace:cru.fr:federation:univ-ubs.fr": {
+        "en": "Université Bretagne Sud",
+        "fr": "Université Bretagne Sud"
+    },
+    "urn:mace:cru.fr:federation:univ-valenciennes.fr": {
+        "en": "University of Valenciennes (obsolete)",
+        "fr": "Université de Valenciennes (obsolete)"
+    },
+    "urn:mace:cru.fr:federation:utc.fr": {
+        "en": "UTC - Université de Technologie de Compiègne",
+        "fr": "UTC - Université de Technologie de Compiègne"
+    }
+}

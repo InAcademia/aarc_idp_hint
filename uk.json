@@ -1,0 +1,1820 @@
+{
+    "http://adfs.regents.ac.uk/adfs/services/trust": {
+        "en": "Regent's University London ADFS Do Not Use"
+    },
+    "http://idp.northampton.ac.uk/oala/metadata": {
+        "en": "University of Northampton (IDP)"
+    },
+    "http://idp.rhul.ac.uk/oala": {
+        "en": "Royal Holloway, University of London"
+    },
+    "http://sso.sunderland.ac.uk/auth/metadata": {
+        "en": "University of Sunderland"
+    },
+    "http://stsr4l.who.int/adfs/services/trust": {
+        "en": "Research4Life"
+    },
+    "https://abcidp.askham-bryan.ac.uk/shibboleth": {
+        "en": "Askham Bryan College"
+    },
+    "https://access.lcb.ac.uk/idp/shibboleth": {
+        "en": "Leeds College of Building"
+    },
+    "https://activatelearning.ac.uk/idp": {
+        "en": "Activate Learning"
+    },
+    "https://afbi-shib.ads.qub.ac.uk/idp/shibboleth": {
+        "en": "AFBI: Agri-Food Biosciences Institute"
+    },
+    "https://athens.londonexternal.ac.uk/OpenAthens": {
+        "en": "University of London: External System (ATHENS)"
+    },
+    "https://athens.petroc.ac.uk/oala/metadata": {
+        "en": "Petroc"
+    },
+    "https://athensla.uwe.ac.uk/oala/metadata": {
+        "en": "University of the West of England (UWE)"
+    },
+    "https://auth.aspirationtraining.com/idp/shibboleth": {
+        "en": "Aspiration Training"
+    },
+    "https://auth.buckingham.ac.uk/shibboleth": {
+        "en": "University of Buckingham"
+    },
+    "https://bacoll.ac.uk/idp": {
+        "en": "Bishop Auckland College"
+    },
+    "https://bathspa.ac.uk/oala/metadata": {
+        "en": "Bath Spa University"
+    },
+    "https://beaumontcollege.org/oala/metadata": {
+        "en": "Beaumont College - A Scope College"
+    },
+    "https://beta.shib.manchester.ac.uk/shibboleth": {
+        "en": "The University of Manchester (Beta)"
+    },
+    "https://boleth.chi.ac.uk/idp/shibboleth": {
+        "en": "University of Chichester"
+    },
+    "https://brad.ac.uk/oala/metadata": {
+        "en": "University of Bradford"
+    },
+    "https://camford-university-demo-idp.jisc.ac.uk/idp": {
+        "en": "Camford University"
+    },
+    "https://carmel.ac.uk/idp": {
+        "en": "Carmel College"
+    },
+    "https://cavle.org/shibboleth": {
+        "en": "UniServity: CAVLE"
+    },
+    "https://chelmsford.ac.uk/idp": {
+        "en": "Chelmsford College"
+    },
+    "https://comet.esher.ac.uk/shibboleth": {
+        "en": "Esher College"
+    },
+    "https://coventry.ac.uk/idp": {
+        "en": "Coventry University"
+    },
+    "https://dev.mafoo.org.uk/idp-20201022": {
+        "en": "mafoo.org.uk"
+    },
+    "https://dev2.webauth.soton.ac.uk/shibboleth": {
+        "en": "University of Southampton (Dev 3.x)"
+    },
+    "https://dh.gov.uk/shibboleth": {
+        "en": "Department of Health (England)"
+    },
+    "https://dialect.liv-coll.ac.uk/idp/shibboleth": {
+        "en": "The City of Liverpool College"
+    },
+    "https://dmz-shib-dg-01.dmz.roehampton.ac.uk/idp/shibboleth": {
+        "en": "University of Roehampton"
+    },
+    "https://edinaidp.edina.ac.uk/idp/shibboleth": {
+        "en": "EDINA IdP (staff and trial accounts)"
+    },
+    "https://edulidp01.hants.gov.uk/idp/shibboleth": {
+        "en": "Hampshire County Council"
+    },
+    "https://el-shib.redbridge-college.ac.uk/idp/shibboleth": {
+        "en": "Redbridge College"
+    },
+    "https://elibrary.exeter.ac.uk/idp/shibboleth": {
+        "en": "University of Exeter"
+    },
+    "https://eresources.city.ac.uk/oala/metadata": {
+        "en": "City, University of London"
+    },
+    "https://fam.salford.ac.uk/oala/metadata": {
+        "en": "University of Salford (Email Address)"
+    },
+    "https://fedauth.london.edu/oala/metadata": {
+        "en": "London Business School"
+    },
+    "https://federation.citylit.ac.uk/shibboleth": {
+        "en": "City Lit"
+    },
+    "https://federation.napier.ac.uk/idp/pingfederate": {
+        "en": "Edinburgh Napier University"
+    },
+    "https://fircroft.ac.uk/idp": {
+        "en": "Fircroft College of Adult Education"
+    },
+    "https://fr-shib02.franklin.ac.uk/idp/shibboleth": {
+        "en": "Franklin College"
+    },
+    "https://gateway.ncl.ac.uk/idp/shibboleth": {
+        "en": "Newcastle University"
+    },
+    "https://gcidp.gloscol.ac.uk/shibboleth": {
+        "en": "Gloucestershire College"
+    },
+    "https://harlow-college.ac.uk/idp": {
+        "en": "Harlow College"
+    },
+    "https://harper-adams.ac.uk/oala/metadata": {
+        "en": "Harper Adams University"
+    },
+    "https://hefce-shib.hefce.ac.uk/idp/shibboleth": {
+        "en": "Office For Students"
+    },
+    "https://hereford.ac.uk/oala/metadata": {
+        "en": "Hereford Sixth Form College"
+    },
+    "https://hermes.kendal.ac.uk/shibboleth": {
+        "en": "Kendal College"
+    },
+    "https://hopwood.ac.uk/idp": {
+        "en": "Hopwood Hall College"
+    },
+    "https://hrsfc.ac.uk/idp/shibboleth": {
+        "en": "Hills Road Sixth Form College"
+    },
+    "https://hscshib1.qub.ac.uk/idp/shibboleth": {
+        "en": "Healthcare Library of Northern Ireland"
+    },
+    "https://identityfor.co.uk/r4c": {
+        "en": "SIMS ID (Staging)"
+    },
+    "https://idp-dev.jisc.ac.uk/idp/shibboleth": {
+        "en": "Jisc (Dev IdP)"
+    },
+    "https://idp-qa.shef.ac.uk/shibboleth": {
+        "en": "University of Sheffield QA IdP"
+    },
+    "https://idp-staging.shibboleth.ox.ac.uk/shibboleth-idp": {
+        "en": "University of Oxford, Staging IdP"
+    },
+    "https://idp.abingdon-witney.ac.uk/idp/shibboleth": {
+        "en": "Abingdon and Witney College"
+    },
+    "https://idp.acs-schools.com/openathens": {
+        "en": "ACS Schools"
+    },
+    "https://idp.altoncollege.ac.uk/idp/shibboleth": {
+        "en": "Alton College"
+    },
+    "https://idp.amersham.ac.uk/idp/shibboleth": {
+        "en": "Amersham & Wycombe College"
+    },
+    "https://idp.anglia.ac.uk/openathens": {
+        "en": "Anglia Ruskin University"
+    },
+    "https://idp.aquinas.ac.uk/shibboleth": {
+        "en": "Aquinas College"
+    },
+    "https://idp.arts.ac.uk/entity": {
+        "en": "University of the Arts London"
+    },
+    "https://idp.atomwide.com/idp/shibboleth": {
+        "en": "AdEPT Education: USO"
+    },
+    "https://idp.aub.ac.uk/openathens": {
+        "en": "Arts University Bournemouth"
+    },
+    "https://idp.bangor.ac.uk/shibboleth": {
+        "en": "Bangor University"
+    },
+    "https://idp.barkingcollege.ac.uk/shibbolethidp": {
+        "en": "Barking & Dagenham College"
+    },
+    "https://idp.barnetsouthgate.ac.uk/idp/shibboleth": {
+        "en": "Barnet and Southgate College"
+    },
+    "https://idp.barnfield.ac.uk/idp/shibboleth": {
+        "en": "Barnfield College"
+    },
+    "https://idp.barnsley.ac.uk/openathens": {
+        "en": "Barnsley College"
+    },
+    "https://idp.barton.ac.uk/shibboleth": {
+        "en": "Barton Peveril College"
+    },
+    "https://idp.bath.ac.uk/shibboleth": {
+        "en": "University of Bath"
+    },
+    "https://idp.bbk.ac.uk/openathens": {
+        "en": "Birkbeck College"
+    },
+    "https://idp.bbsrc.ac.uk/babraham": {
+        "en": "Babraham Institute"
+    },
+    "https://idp.bbsrc.ac.uk/macaulay": {
+        "en": "Hutton Institute (Aberdeen)"
+    },
+    "https://idp.bbsrc.ac.uk/moredun": {
+        "en": "Moredun Research Institute"
+    },
+    "https://idp.bbsrc.ac.uk/pirbright": {
+        "en": "IAH Pirbright"
+    },
+    "https://idp.bbsrc.ac.uk/rothamsted": {
+        "en": "Rothamsted Research"
+    },
+    "https://idp.bbsrc.ac.uk/scri": {
+        "en": "Hutton Institute (Dundee)"
+    },
+    "https://idp.bbsrc.ac.uk/shibboleth": {
+        "en": "BBSRC"
+    },
+    "https://idp.bbsrc.ac.uk/swindon": {
+        "en": "BBSRC Swindon Office"
+    },
+    "https://idp.bedford.ac.uk/idp/shibboleth": {
+        "en": "Bedford College"
+    },
+    "https://idp.beds.ac.uk/entity": {
+        "en": "University of Bedfordshire"
+    },
+    "https://idp.bham.ac.uk/shibboleth": {
+        "en": "University of Birmingham"
+    },
+    "https://idp.bhasvic.ac.uk/entity": {
+        "en": "Brighton Hove & Sussex 6th Form College"
+    },
+    "https://idp.bil.ac.uk/idp/shibboleth": {
+        "en": "Bloomsbury Institute"
+    },
+    "https://idp.bilborough.ac.uk/openathens": {
+        "en": "Bilborough College"
+    },
+    "https://idp.bishopb-college.ac.uk/shibboleth": {
+        "en": "Bishop Burton College"
+    },
+    "https://idp.bishopg.ac.uk/shibboleth": {
+        "en": "Bishop Grosseteste University"
+    },
+    "https://idp.blackburn.ac.uk/entity": {
+        "en": "Blackburn College"
+    },
+    "https://idp.blackpoolsixth.ac.uk/idp": {
+        "en": "The Blackpool Sixth Form College"
+    },
+    "https://idp.bmetc.ac.uk/idp/shibboleth": {
+        "en": "Birmingham Metropolitan College"
+    },
+    "https://idp.bolton.ac.uk/idp/shibboleth": {
+        "en": "University of Bolton"
+    },
+    "https://idp.boltoncc.ac.uk/shibboleth": {
+        "en": "Bolton College"
+    },
+    "https://idp.borderscollege.ac.uk/idp/shibboleth": {
+        "en": "Borders College"
+    },
+    "https://idp.boston.ac.uk/openathens": {
+        "en": "Boston College UK"
+    },
+    "https://idp.bournemouth.ac.uk/oala/metadata": {
+        "en": "Bournemouth University"
+    },
+    "https://idp.bpc.ac.uk/idp/shibboleth": {
+        "en": "Bournemouth and Poole College"
+    },
+    "https://idp.bppls.com/openathens": {
+        "en": "BPP University"
+    },
+    "https://idp.bridgend.ac.uk/shibboleth": {
+        "en": "Bridgend College"
+    },
+    "https://idp.brighton.ac.uk/shibboleth": {
+        "en": "University of Brighton"
+    },
+    "https://idp.bris.ac.uk/shibboleth": {
+        "en": "University of Bristol"
+    },
+    "https://idp.brock.ac.uk/entity": {
+        "en": "Brockenhurst College"
+    },
+    "https://idp.brookehouse.ac.uk/openathens": {
+        "en": "Bsix Brooke House Sixth Form College"
+    },
+    "https://idp.brookes.ac.uk/idp/shibboleth": {
+        "en": "Oxford Brookes University"
+    },
+    "https://idp.brooklands.ac.uk/idp/shibboleth": {
+        "en": "Brooklands College"
+    },
+    "https://idp.brooksbymelton.ac.uk/openathens": {
+        "en": "Brooksby Melton College"
+    },
+    "https://idp.bruford.ac.uk/shibboleth": {
+        "en": "Rose Bruford College"
+    },
+    "https://idp.brunel.ac.uk/entity": {
+        "en": "Brunel University"
+    },
+    "https://idp.bsms.ac.uk/shibboleth": {
+        "en": "Brighton and Sussex Medical School"
+    },
+    "https://idp.bucks.ac.uk/entity": {
+        "en": "Buckinghamshire New University"
+    },
+    "https://idp.bufvc.ac.uk/shibboleth": {
+        "en": "British Universities Film & Video Council"
+    },
+    "https://idp.cadcol.ac.uk/idp/shibboleth": {
+        "en": "Cadbury Sixth Form College"
+    },
+    "https://idp.calderdale.ac.uk/shibboleth": {
+        "en": "Calderdale College"
+    },
+    "https://idp.cambria.ac.uk/openathens": {
+        "en": "Coleg Cambria"
+    },
+    "https://idp.cambridgeimaging.co.uk/entity": {
+        "en": "Imagen IdP"
+    },
+    "https://idp.camre.ac.uk/idp/shibboleth": {
+        "en": "Cambridge Regional College"
+    },
+    "https://idp.canterbury.ac.uk/shibboleth": {
+        "en": "Canterbury Christ Church University"
+    },
+    "https://idp.capitalccg.ac.uk/idp/shibboleth": {
+        "en": "Capital City College Group"
+    },
+    "https://idp.cardiff.ac.uk/shibboleth": {
+        "cy": "Prifysgol Caerdydd",
+        "en": "Cardiff University"
+    },
+    "https://idp.cardiffmet.ac.uk/idp/shibboleth": {
+        "cy": "Prifysgol Metropolitan Caerdydd",
+        "en": "Cardiff Metropolitan University"
+    },
+    "https://idp.cardinalnewman.ac.uk/idp/shibboleth": {
+        "en": "Cardinal Newman College"
+    },
+    "https://idp.cat.org.uk/idp/shibboleth": {
+        "en": "Centre for Alternative Technology Charity Limited"
+    },
+    "https://idp.ccad.ac.uk/shibboleth": {
+        "en": "The Northern School of Art"
+    },
+    "https://idp.ccn.ac.uk/shibboleth": {
+        "en": "City College Norwich"
+    },
+    "https://idp.cdd.ac.uk/shibboleth": {
+        "en": "Conservatoire for Dance and Drama"
+    },
+    "https://idp.ceredigion.ac.uk/shibboleth": {
+        "en": "Coleg Ceredigion"
+    },
+    "https://idp.chester.ac.uk/shibboleth": {
+        "en": "University of Chester"
+    },
+    "https://idp.chesterfield.ac.uk/shibboleth": {
+        "en": "Chesterfield College"
+    },
+    "https://idp.chichester.ac.uk/idp/shibboleth": {
+        "en": "Chichester College Group"
+    },
+    "https://idp.cirencester.ac.uk/idp": {
+        "en": "Cirencester College"
+    },
+    "https://idp.citybathcoll.ac.uk/oala/metadata": {
+        "en": "Bath College"
+    },
+    "https://idp.cityofbristol.ac.uk/shibboleth": {
+        "en": "City of Bristol College"
+    },
+    "https://idp.cityofglasgowcollege.ac.uk/idp/shibboleth": {
+        "en": "City of Glasgow College"
+    },
+    "https://idp.citysun.ac.uk/shibboleth": {
+        "en": "Education Partnership North East"
+    },
+    "https://idp.cnwl.ac.uk/idp/shibboleth": {
+        "en": "College North West London"
+    },
+    "https://idp.col-westanglia.ac.uk/openathens": {
+        "en": "The College of West Anglia"
+    },
+    "https://idp.colchester.ac.uk/shibboleth": {
+        "en": "Colchester Institute"
+    },
+    "https://idp.colchsfc.ac.uk/shibboleth": {
+        "en": "The Sixth Form College, Colchester"
+    },
+    "https://idp.coleggwent.ac.uk/idp/shibboleth": {
+        "en": "Coleg Gwent"
+    },
+    "https://idp.colegsirgar.ac.uk/shibboleth": {
+        "en": "Coleg Sir Gar"
+    },
+    "https://idp.collyers.ac.uk/openathens": {
+        "en": "The College of Richard Collyer"
+    },
+    "https://idp.cornwall.ac.uk/shibboleth-idp": {
+        "en": "Cornwall College"
+    },
+    "https://idp.coulsdon.ac.uk/shibboleth": {
+        "en": "Coulsdon College"
+    },
+    "https://idp.courtauld.ac.uk/shibboleth": {
+        "en": "Courtauld Institute of Art"
+    },
+    "https://idp.craven-college.ac.uk/shibboleth": {
+        "en": "Craven College"
+    },
+    "https://idp.crick.ac.uk/openathens": {
+        "en": "Francis Crick Institute"
+    },
+    "https://idp.croydon.ac.uk/shibboleth": {
+        "en": "Croydon College"
+    },
+    "https://idp.cssd.ac.uk/shibboleth": {
+        "en": "Royal Central School of Speech and Drama"
+    },
+    "https://idp.ctksfc.ac.uk/shibboleth": {
+        "en": "Christ the King VI Form College"
+    },
+    "https://idp.cumbria.ac.uk/idp/shibboleth": {
+        "en": "University of Cumbria"
+    },
+    "https://idp.cwc.ac.uk/idp/shibboleth": {
+        "en": "City of Westminster College"
+    },
+    "https://idp.darlington.ac.uk/openathens": {
+        "en": "Darlington College"
+    },
+    "https://idp.derby-college.ac.uk/idp/shibboleth": {
+        "en": "Derby College"
+    },
+    "https://idp.dghe.ac.uk/idp/shibboleth": {
+        "en": "David Game College: DGHE"
+    },
+    "https://idp.dudleycol.ac.uk/openathens": {
+        "en": "Dudley College"
+    },
+    "https://idp.dundee.ac.uk/shibboleth": {
+        "en": "University of Dundee"
+    },
+    "https://idp.dunstable.ac.uk/openathens": {
+        "en": "Central Bedfordshire College"
+    },
+    "https://idp.eastberks.ac.uk/idp/shibboleth": {
+        "en": "East Berkshire College"
+    },
+    "https://idp.eastdurham.ac.uk/openathens": {
+        "en": "East Durham College"
+    },
+    "https://idp.eastleigh.ac.uk": {
+        "en": "Eastleigh College"
+    },
+    "https://idp.eastridingcollege.ac.uk/shibboleth": {
+        "en": "East Riding College"
+    },
+    "https://idp.ebi.ac.uk/idp/shibboleth": {
+        "en": "European Molecular Biology Laboratory - EMBL-EBI"
+    },
+    "https://idp.ed.ac.uk/shibboleth": {
+        "en": "University of Edinburgh"
+    },
+    "https://idp.edina.ac.uk/shibboleth": {
+        "en": "EDINA DEPRECATED IdP (staff and trial accounts)"
+    },
+    "https://idp.edinburghcollege.ac.uk/idp/shibboleth": {
+        "en": "Edinburgh College"
+    },
+    "https://idp.efc.ac.uk/idp/shibboleth": {
+        "en": "Epping Forest College"
+    },
+    "https://idp.enorf.ac.uk/shibboleth": {
+        "en": "East Norfolk Sixth Form College"
+    },
+    "https://idp.esrc.ac.uk/openathens": {
+        "en": "Economic & Social Research Council"
+    },
+    "https://idp.exe-coll.ac.uk/idp/shibboleth": {
+        "en": "Exeter College"
+    },
+    "https://idp.fareham.ac.uk/shibboleth": {
+        "en": "Fareham College"
+    },
+    "https://idp.farn-ct.ac.uk/idp/shibboleth": {
+        "en": "Farnborough College of Technology"
+    },
+    "https://idp.farnborough.ac.uk/shibboleth": {
+        "en": "The Sixth Form College, Farnborough"
+    },
+    "https://idp.fie.org.uk/openathens": {
+        "en": "Foundation for International Education"
+    },
+    "https://idp.fife.ac.uk/idp/shibboleth": {
+        "en": "Fife College"
+    },
+    "https://idp.forthvalley.ac.uk/shibboleth": {
+        "en": "Forth Valley College of Further and Higher Education"
+    },
+    "https://idp.gateshead.ac.uk/shibboleth": {
+        "en": "Gateshead College"
+    },
+    "https://idp.gla.ac.uk/shibboleth": {
+        "en": "University of Glasgow"
+    },
+    "https://idp.glasgowclyde.ac.uk/idp/shibboleth": {
+        "en": "Glasgow Clyde College"
+    },
+    "https://idp.glasgowkelvin.ac.uk/openathens": {
+        "en": "Glasgow Kelvin College"
+    },
+    "https://idp.godalming.ac.uk/shibboleth": {
+        "en": "Godalming College"
+    },
+    "https://idp.goldsmiths.ac.uk/idp/shibboleth": {
+        "en": "Goldsmiths, University of London"
+    },
+    "https://idp.gowercollegeswansea.ac.uk/idp/shibboleth": {
+        "en": "Gower College Swansea"
+    },
+    "https://idp.grantham.ac.uk/shibboleth": {
+        "en": "Grantham College"
+    },
+    "https://idp.gre.ac.uk/oala/metadata": {
+        "en": "University of Greenwich"
+    },
+    "https://idp.grimsby.ac.uk/oala/metadata": {
+        "en": "Grimsby Institute of Further and Higher Education (Athens)"
+    },
+    "https://idp.gsmd.ac.uk/openathens": {
+        "en": "Guildhall School of Music & Drama"
+    },
+    "https://idp.guildford.ac.uk/shibboleth": {
+        "en": "Guildford College of Further & Higher Education"
+    },
+    "https://idp.gyc.ac.uk/openathens": {
+        "en": "Great Yarmouth College"
+    },
+    "https://idp.hackney.ac.uk/shibboleth": {
+        "en": "Hackney Community College"
+    },
+    "https://idp.hadlow.ac.uk/idp/shibboleth": {
+        "en": "Hadlow College"
+    },
+    "https://idp.harrow.ac.uk/idp/shibboleth": {
+        "en": "Harrow College"
+    },
+    "https://idp.hartlepoolfe.ac.uk/openathens": {
+        "en": "Hartlepool College of FE"
+    },
+    "https://idp.havant.ac.uk/shibboleth": {
+        "en": "Havant College"
+    },
+    "https://idp.havering-college.ac.uk/openathens": {
+        "en": "Havering College of Further & Higher Education"
+    },
+    "https://idp.havering-sfc.ac.uk/shibboleth": {
+        "en": "Havering Sixth Form College"
+    },
+    "https://idp.haywardsheath.ac.uk/idp/shibboleth": {
+        "en": "Haywards Heath College"
+    },
+    "https://idp.hca.ac.uk/shibboleth": {
+        "en": "Hereford College of Arts"
+    },
+    "https://idp.hereford.ac.uk/shibboleth": {
+        "en": "Hereford Sixth Form College MD (no longer in use)"
+    },
+    "https://idp.herts.ac.uk/shibboleth": {
+        "en": "University of Hertfordshire"
+    },
+    "https://idp.highbury.ac.uk/entity": {
+        "en": "Highbury College"
+    },
+    "https://idp.holycross.ac.uk/shibboleth": {
+        "en": "Holy Cross College"
+    },
+    "https://idp.howcollege.ac.uk/idp/shibboleth": {
+        "en": "Heart of Worcestershire College"
+    },
+    "https://idp.hsdc.ac.uk/shibboleth": {
+        "en": "Havant & South Downs College"
+    },
+    "https://idp.hud.ac.uk/shibboleth": {
+        "en": "University of Huddersfield Library"
+    },
+    "https://idp.hughbaird.ac.uk/shibboleth": {
+        "en": "Hugh Baird College"
+    },
+    "https://idp.ifs.org.uk/openathens": {
+        "en": "Institute for Fiscal Studies"
+    },
+    "https://idp.istructe.org/idp/shibboleth": {
+        "en": "The Institution of Structural Engineers"
+    },
+    "https://idp.itchen.ac.uk/idp/shibboleth": {
+        "en": "Itchen College"
+    },
+    "https://idp.jisc.ac.uk/idp/shibboleth": {
+        "en": "Jisc"
+    },
+    "https://idp.johnruskin.ac.uk/shibboleth": {
+        "en": "John Ruskin College"
+    },
+    "https://idp.kidderminster.ac.uk/idp/shibboleth": {
+        "en": "Kidderminster College"
+    },
+    "https://idp.kingston-college.ac.uk/idp/shibboleth": {
+        "en": "South Thames Colleges Group"
+    },
+    "https://idp.kingston.ac.uk/shibboleth": {
+        "en": "Kingston University London"
+    },
+    "https://idp.kirkleescollege.ac.uk/entity": {
+        "en": "Kirklees College"
+    },
+    "https://idp.kmc.ac.uk/shibboleth": {
+        "en": "Kingston Maurward College"
+    },
+    "https://idp.knowsleycollege.ac.uk/idp/shibboleth": {
+        "en": "Knowsley College"
+    },
+    "https://idp.lambeth.ac.uk/idp/shibboleth": {
+        "en": "Lambeth College"
+    },
+    "https://idp.lancs.ac.uk/idp/shibboleth": {
+        "en": "Lancaster University"
+    },
+    "https://idp.law.ac.uk/openathens": {
+        "en": "The University of Law"
+    },
+    "https://idp.lboro.ac.uk/simplesaml/saml2/idp/metadata.php": {
+        "en": "Loughborough University"
+    },
+    "https://idp.lcwc.ac.uk/shibboleth": {
+        "en": "Lakes College West Cumbria"
+    },
+    "https://idp.le.ac.uk/shibboleth": {
+        "en": "University of Leicester"
+    },
+    "https://idp.lec.ac.uk/idp/shibboleth": {
+        "en": "Leicester College"
+    },
+    "https://idp.leeds-art.ac.uk/openathens": {
+        "en": "Leeds Arts University"
+    },
+    "https://idp.leedscitycollege.ac.uk/idp/shibboleth": {
+        "en": "Leeds City College"
+    },
+    "https://idp.leedsmet.ac.uk/shibboleth": {
+        "en": "Leeds Beckett University"
+    },
+    "https://idp.leedstrinity.ac.uk/shibboleth": {
+        "en": "Leeds Trinity University"
+    },
+    "https://idp.leyton.ac.uk/shibboleth": {
+        "en": "Leyton Sixth Form College"
+    },
+    "https://idp.lincoln.ac.uk/oala/metadata": {
+        "en": "University of Lincoln"
+    },
+    "https://idp.lipa.ac.uk/shibboleth": {
+        "en": "LIPA Learning Services"
+    },
+    "https://idp.lis.ac.uk/idp/shibboleth": {
+        "en": "London Interdisciplinary School"
+    },
+    "https://idp.ljmu.ac.uk/shibboleth": {
+        "en": "Liverpool John Moores University"
+    },
+    "https://idp.llandrillo.ac.uk/shibboleth": {
+        "en": "Grwp Llandrillo Menai"
+    },
+    "https://idp.llgc.org.uk/idp/shibboleth": {
+        "cy": "Llyfrgell Genedlaethol Cymru",
+        "en": "National Library of Wales"
+    },
+    "https://idp.lmc.ac.uk/idp/shibboleth": {
+        "en": "Lancaster and Morecambe College"
+    },
+    "https://idp.london.ac.uk/shibboleth": {
+        "en": "University of London"
+    },
+    "https://idp.london.edu/openathens": {
+        "en": "London Business School - OpenAthens"
+    },
+    "https://idp.londonmet.ac.uk/entity": {
+        "en": "London Metropolitan University"
+    },
+    "https://idp.longleypark.ac.uk/shibboleth": {
+        "en": "Longley Park Sixth Form College"
+    },
+    "https://idp.longroad.ac.uk/idp/shibboleth": {
+        "en": "Long Road Sixth Form College"
+    },
+    "https://idp.loreto.ac.uk/idp/shibboleth": {
+        "en": "Loreto Sixth Form College"
+    },
+    "https://idp.lsec.ac.uk/openathens": {
+        "en": "London South East Colleges (LSEC)"
+    },
+    "https://idp.lshtm.ac.uk/shibboleth": {
+        "en": "London School of Hygiene & Tropical Medicine"
+    },
+    "https://idp.lstmed.ac.uk/idp/shibboleth": {
+        "en": "Liverpool School of Tropical Medicine"
+    },
+    "https://idp.lutonsfc.ac.uk/openathens": {
+        "en": "Luton Sixth Form College"
+    },
+    "https://idp.macclesfield.ac.uk/shibboleth": {
+        "en": "Macclesfield College"
+    },
+    "https://idp.marjon.ac.uk/idp/shibboleth": {
+        "en": "University of St Mark & St John"
+    },
+    "https://idp.mba.ac.uk/idp/shibboleth": {
+        "en": "Marine Biological Association of the UK"
+    },
+    "https://idp.mbro.ac.uk/metadata": {
+        "en": "Middlesbrough College"
+    },
+    "https://idp.mdx.ac.uk/shibboleth": {
+        "en": "Middlesex University"
+    },
+    "https://idp.meap.org.uk/idp/shibboleth": {
+        "en": "MaCTRI (MEaP Academy Community Training & Research Institute)"
+    },
+    "https://idp.merthyr.ac.uk/idp/shibboleth": {
+        "en": "Merthyr Tydfil College"
+    },
+    "https://idp.metfilmschool.ac.uk/idp": {
+        "en": "MetFilm School"
+    },
+    "https://idp.midchesh.ac.uk/idp/shibboleth": {
+        "en": "Mid Cheshire College"
+    },
+    "https://idp.mimas.ac.uk/idp/shibboleth": {
+        "en": "Jisc: Digital Resources (Mimas IdP)"
+    },
+    "https://idp.mkcollege.ac.uk/openathens": {
+        "en": "Milton Keynes College"
+    },
+    "https://idp.mmu.ac.uk/shibboleth": {
+        "en": "Manchester Metropolitan University"
+    },
+    "https://idp.morleycollege.ac.uk/shibboleth": {
+        "en": "Morley College"
+    },
+    "https://idp.motherwell.co.uk/shibboleth": {
+        "en": "New College Lanarkshire"
+    },
+    "https://idp.moulton.ac.uk/idp/shibboleth": {
+        "en": "Moulton College"
+    },
+    "https://idp.mrc.ac.uk/shibboleth": {
+        "en": "Medical Research Council"
+    },
+    "https://idp.natcen.ac.uk/openathens": {
+        "en": "National Centre for Social Research"
+    },
+    "https://idp.nationalarchives.gov.uk/openathens": {
+        "en": "The National Archives"
+    },
+    "https://idp.nbi.ac.uk/idp/shibboleth": {
+        "en": "Norwich Bioscience Institutes"
+    },
+    "https://idp.nelsongroup.ac.uk/idp/shibboleth": {
+        "en": "Nelson Group"
+    },
+    "https://idp.nescol.ac.uk/idp/shibboleth": {
+        "en": "North East Scotland College"
+    },
+    "https://idp.nescot.ac.uk/shibboleth": {
+        "en": "NESCOT (North East Surrey College of Technology)"
+    },
+    "https://idp.newbold.ac.uk/shibboleth": {
+        "en": "Newbold College"
+    },
+    "https://idp.newcollege.ac.uk/athensla": {
+        "en": "New College Swindon"
+    },
+    "https://idp.newdur.ac.uk/shibboleth": {
+        "en": "New College Durham"
+    },
+    "https://idp.neweraed.co.uk/idp/shibboleth": {
+        "en": "New Era Education"
+    },
+    "https://idp.newman.ac.uk/metadata": {
+        "en": "Newman University"
+    },
+    "https://idp.newvic.ac.uk/idp/shibboleth": {
+        "en": "Newham Sixth Form College (Shibboleth)"
+    },
+    "https://idp.nfts.co.uk/openathens": {
+        "en": "National Film and Television School"
+    },
+    "https://idp.nhc.ac.uk/shibboleth": {
+        "en": "North Hertfordshire College"
+    },
+    "https://idp.niesr.ac.uk/shibboleth": {
+        "en": "The National Institute of Economic and Social Research"
+    },
+    "https://idp.nms.ac.uk/openathens": {
+        "en": "National Museums Scotland"
+    },
+    "https://idp.northern.ac.uk/shibboleth": {
+        "en": "Northern College"
+    },
+    "https://idp.northland.ac.uk/shibboleth": {
+        "en": "Northumberland College"
+    },
+    "https://idp.northlindsey.ac.uk/openathens": {
+        "en": "North Lindsey College"
+    },
+    "https://idp.nottingham.ac.uk/shibboleth": {
+        "en": "University of Nottingham"
+    },
+    "https://idp.nottingham.edu.cn/idp/shibboleth": {
+        "en": "University of Nottingham Ningbo, China"
+    },
+    "https://idp.nottingham.edu.my/idp/shibboleth": {
+        "en": "University of Nottingham Malaysia Campus"
+    },
+    "https://idp.nottinghamcollege.ac.uk/idp": {
+        "en": "Nottingham College"
+    },
+    "https://idp.nrc.ac.uk/shibboleth": {
+        "en": "Northern Regional College"
+    },
+    "https://idp.nscd.ac.uk/entity": {
+        "en": "Northern School of Contemporary Dance"
+    },
+    "https://idp.nuca.ac.uk/shibboleth": {
+        "en": "Norwich University of the Arts"
+    },
+    "https://idp.nulc.ac.uk/openathens": {
+        "en": "Newcastle-under-Lyme College"
+    },
+    "https://idp.nwhc.ac.uk/idp/shibboleth": {
+        "en": "North Warwickshire & South Leicestershire College"
+    },
+    "https://idp.nwkcollege.ac.uk/idp/shibboleth": {
+        "en": "North Kent College"
+    },
+    "https://idp.nwrc.ac.uk/shibboleth": {
+        "en": "North West Regional College"
+    },
+    "https://idp.oaklands.ac.uk/shibboleth": {
+        "en": "Oaklands College"
+    },
+    "https://idp.open.ac.uk/openathens": {
+        "en": "The Open University (UK)"
+    },
+    "https://idp.osfc.ac.uk/idp/shibboleth": {
+        "en": "Oldham Sixth Form College"
+    },
+    "https://idp.overtsoftware.com/idp/shibboleth": {
+        "en": "Overt Software Solutions Ltd"
+    },
+    "https://idp.palmers.ac.uk/shibboleth": {
+        "en": "Palmer's College"
+    },
+    "https://idp.parliament.uk/openaccess": {
+        "en": "UK Parliament"
+    },
+    "https://idp.pearsoncollege.com/openathens": {
+        "en": "Pearson College London"
+    },
+    "https://idp.pembrokeshire.ac.uk/idp/shibboleth": {
+        "en": "Pembrokeshire College"
+    },
+    "https://idp.plymouthart.ac.uk/shibboleth": {
+        "en": "Plymouth College of Art"
+    },
+    "https://idp.psc.ac.uk/shibboleth": {
+        "en": "Peter Symonds College"
+    },
+    "https://idp.qmc.ac.uk/shibboleth": {
+        "en": "Queen Mary's College, Basingstoke"
+    },
+    "https://idp.rac.ac.uk/oala/metadata": {
+        "en": "Royal Agricultural University"
+    },
+    "https://idp.racc.ac.uk/idp/shibboleth": {
+        "en": "Richmond and Hillcroft Adult and Community College"
+    },
+    "https://idp.rad.org.uk/openathens": {
+        "en": "Royal Academy of Dance"
+    },
+    "https://idp.ram.ac.uk/shibboleth": {
+        "en": "Royal Academy of Music"
+    },
+    "https://idp.rca.ac.uk/oala/metadata": {
+        "en": "Royal College of Art"
+    },
+    "https://idp.rcm.ac.uk/shibboleth": {
+        "en": "Royal College of Music"
+    },
+    "https://idp.rcpch.ac.uk/idp/shibboleth": {
+        "en": "Royal College of Paediatrics and Child Health"
+    },
+    "https://idp.rcplondon.ac.uk/openathens": {
+        "en": "Royal College of Physicians of London"
+    },
+    "https://idp.reaseheath.ac.uk/openathens": {
+        "en": "Reaseheath College"
+    },
+    "https://idp.reigate.ac.uk/idp/shibboleth": {
+        "en": "Reigate College"
+    },
+    "https://idp.richardtaunton.ac.uk/oala/metadata": {
+        "en": "Richard Taunton Sixth Form College"
+    },
+    "https://idp.richuish.ac.uk/idp/shibboleth": {
+        "en": "Richard Huish College"
+    },
+    "https://idp.rncm.ac.uk/shibboleth": {
+        "en": "Royal Northern College Of Music"
+    },
+    "https://idp.roehampton.ac.uk/shibboleth": {
+        "en": "University of Roehampton (OpenAthens)"
+    },
+    "https://idp.rsceng.ac.uk/openathens": {
+        "en": "Royal College of Surgeons of England"
+    },
+    "https://idp.rsmith.org.uk/idp/shibboleth": {
+        "en": "Rhys Smith"
+    },
+    "https://idp.rsu.edu.ng/idp/shibboleth": {
+        "en": "Rivers State University"
+    },
+    "https://idp.ruskin.ac.uk/shibboleth": {
+        "en": "Ruskin College"
+    },
+    "https://idp.rutc.ac.uk/idp/shibboleth": {
+        "en": "Richmond upon Thames College"
+    },
+    "https://idp.rvc.ac.uk/oala/metadata": {
+        "en": "Royal Veterinary College"
+    },
+    "https://idp.s-cheshire.ac.uk/shibboleth": {
+        "en": "Cheshire College South & West"
+    },
+    "https://idp.sanger.ac.uk/idp/shibboleth": {
+        "en": "Wellcome Trust Sanger Institute"
+    },
+    "https://idp.sccb.ac.uk/idp/shibboleth": {
+        "en": "South and City College Birmingham and Bournville College"
+    },
+    "https://idp.sftwales.com/idp/shibboleth": {
+        "en": "Jon Agland (sftwales)"
+    },
+    "https://idp.sgscol.ac.uk/idp/shibboleth": {
+        "en": "South Gloucestershire and Stroud College"
+    },
+    "https://idp.shef.ac.uk/shibboleth": {
+        "en": "University of Sheffield"
+    },
+    "https://idp.sheffcol.ac.uk/idp/shibboleth": {
+        "en": "The Sheffield College"
+    },
+    "https://idp.sherwood.institute/idp/shibboleth": {
+        "en": "Sherwood Psychotherapy Training Institute (SPTI)"
+    },
+    "https://idp.shibboleth.qmul.ac.uk/idp/shibboleth": {
+        "en": "Queen Mary University of London"
+    },
+    "https://idp.shibboleth.stir.ac.uk/shibboleth": {
+        "en": "University of Stirling"
+    },
+    "https://idp.shibboleth.yorksj.ac.uk/idp/shibboleth": {
+        "en": "York St John University"
+    },
+    "https://idp.shu.ac.uk/shibboleth": {
+        "en": "Sheffield Hallam University"
+    },
+    "https://idp.slcollege.ac.uk/idp/shibboleth": {
+        "en": "South Leicestershire College (Shibboleth)"
+    },
+    "https://idp.smu.ac.uk/openathens": {
+        "en": "University of Wales Trinity Saint David"
+    },
+    "https://idp.soas.ac.uk/entity": {
+        "en": "SOAS, University of London"
+    },
+    "https://idp.solihull.ac.uk/idp/shibboleth": {
+        "en": "Solihull College & University Centre"
+    },
+    "https://idp.solihullsfc.ac.uk/shibboleth": {
+        "en": "Sixth Form College, Solihull"
+    },
+    "https://idp.southampton-city.ac.uk/idp/shibboleth": {
+        "en": "Southampton City College"
+    },
+    "https://idp.southdevon.ac.uk/shibboleth": {
+        "en": "South Devon College"
+    },
+    "https://idp.southdowns.ac.uk/idp/shibboleth": {
+        "en": "South Downs College"
+    },
+    "https://idp.southend.ac.uk/shibboleth": {
+        "en": "South Essex College of Further and Higher Education"
+    },
+    "https://idp.southport-college.ac.uk/shibboleth": {
+        "en": "Southport College"
+    },
+    "https://idp.southstaffs.ac.uk/entity": {
+        "en": "South Staffordshire College"
+    },
+    "https://idp.sparsholt.ac.uk/shibboleth": {
+        "en": "Sparsholt College"
+    },
+    "https://idp.src.ac.uk/shibboleth": {
+        "en": "Southern Regional College"
+    },
+    "https://idp.sruc.ac.uk/idp/shibboleth": {
+        "en": "SRUC"
+    },
+    "https://idp.st-andrews.ac.uk/shibboleth": {
+        "en": "University of St Andrews"
+    },
+    "https://idp.st-davids-coll.ac.uk/idp/shibboleth": {
+        "en": "St David's Catholic College"
+    },
+    "https://idp.staffordcoll.ac.uk/shibboleth": {
+        "en": "Stafford College (Shibboleth)"
+    },
+    "https://idp.statistics.gov.uk/openathens": {
+        "en": "Office for National Statistics"
+    },
+    "https://idp.stbrn.ac.uk/idp/shibboleth": {
+        "en": "St Brendan's Sixth Form College"
+    },
+    "https://idp.stcharles.ac.uk/shibboleth": {
+        "en": "St Charles Catholic Sixth Form College"
+    },
+    "https://idp.stephensoncoll.ac.uk/oala/metadata": {
+        "en": "Stephenson College"
+    },
+    "https://idp.stephensoncoll.ac.uk/shibboleth": {
+        "en": "Stephenson College (Athens)"
+    },
+    "https://idp.sthelens.ac.uk/idp/shibboleth": {
+        "en": "St Helens College"
+    },
+    "https://idp.stmarysblackburn.ac.uk/idp/shibboleth": {
+        "en": "St Mary's Blackburn College"
+    },
+    "https://idp.stockton.ac.uk/shibboleth": {
+        "en": "Stockton Riverside College"
+    },
+    "https://idp.stokecoll.ac.uk/idp/shibboleth": {
+        "en": "Stoke-on-Trent College"
+    },
+    "https://idp.stokesfc.ac.uk/idp/shibboleth": {
+        "en": "Stoke Sixth Form College"
+    },
+    "https://idp.stourbridge.ac.uk/idp/shibboleth": {
+        "en": "Stourbridge College"
+    },
+    "https://idp.stran.ac.uk/idp/shibboleth": {
+        "en": "Stranmillis University College"
+    },
+    "https://idp.stratford.ac.uk/idp/shibboleth": {
+        "en": "Stratford-upon-Avon College"
+    },
+    "https://idp.strodes.ac.uk/shibboleth": {
+        "en": "Strode's College"
+    },
+    "https://idp.sussex.ac.uk/shibboleth": {
+        "en": "University of Sussex"
+    },
+    "https://idp.sussexcoast.ac.uk/idp/shibboleth": {
+        "en": "Sussex Coast College Hastings"
+    },
+    "https://idp.sussexdowns.ac.uk/idp/shibboleth": {
+        "en": "Sussex Downs College"
+    },
+    "https://idp.swc.ac.uk/shibboleth": {
+        "en": "South West College"
+    },
+    "https://idp.swindon-college.ac.uk/idp/shibboleth": {
+        "en": "Swindon College"
+    },
+    "https://idp.tavistockandportman.ac.uk/idp/shibboleth": {
+        "en": "Tavistock and Portman NHS Foundation Trust"
+    },
+    "https://idp.tcat.ac.uk/oala/metadata": {
+        "en": "Telford College of Arts & Technology"
+    },
+    "https://idp.thomroth.ac.uk/idp/shibboleth": {
+        "en": "Thomas Rotherham College"
+    },
+    "https://idp.tower.ac.uk/openathens": {
+        "en": "New City College"
+    },
+    "https://idp.treloar.org.uk/idp/shibboleth": {
+        "en": "Treloar's"
+    },
+    "https://idp.tresham.ac.uk/idp/shibboleth": {
+        "en": "Tresham College"
+    },
+    "https://idp.ucb.ac.uk/shibboleth": {
+        "en": "University College Birmingham"
+    },
+    "https://idp.ucreative.ac.uk/shibboleth": {
+        "en": "University for the Creative Arts"
+    },
+    "https://idp.uel.ac.uk/shibboleth": {
+        "en": "University of East London"
+    },
+    "https://idp.ulster.ac.uk/shibboleth": {
+        "en": "Ulster University"
+    },
+    "https://idp.unigib.edu.gi/entity": {
+        "en": "University of Gibraltar"
+    },
+    "https://idp.uolia.london.ac.uk/shibboleth": {
+        "en": "University of London: Online Library"
+    },
+    "https://idp.uwl.ac.uk/idp/shibboleth": {
+        "en": "University of West London"
+    },
+    "https://idp.uws.ac.uk/oala/metadata": {
+        "en": "University of the West of Scotland"
+    },
+    "https://idp.uxbridge.ac.uk/idp/shibboleth": {
+        "en": "Uxbridge College"
+    },
+    "https://idp.waltham.ac.uk/openathens": {
+        "en": "Waltham Forest College"
+    },
+    "https://idp.warkscol.ac.uk/shibboleth": {
+        "en": "Warwickshire College"
+    },
+    "https://idp.warrington.ac.uk/idp/shibboleth": {
+        "en": "Warrington & Vale Royal College"
+    },
+    "https://idp.warwick.ac.uk/idp/shibboleth": {
+        "en": "University of Warwick"
+    },
+    "https://idp.wellcome.ac.uk/idp/shibboleth": {
+        "en": "Wellcome Trust (Old)"
+    },
+    "https://idp.wellcome.org/entity": {
+        "en": "Wellcome Trust"
+    },
+    "https://idp.west-lothian.ac.uk/shibboleth": {
+        "en": "West Lothian College"
+    },
+    "https://idp.west-thames.ac.uk/metadata": {
+        "en": "West Thames College"
+    },
+    "https://idp.westcollegescotland.ac.uk/openathens": {
+        "en": "West College Scotland"
+    },
+    "https://idp.westherts.ac.uk/idp/shibboleth": {
+        "en": "West Herts College"
+    },
+    "https://idp.westkentandashford.ac.uk/idp/shibboleth": {
+        "en": "West Kent and Ashford College"
+    },
+    "https://idp.weston.ac.uk/idp/shibboleth": {
+        "en": "Weston College"
+    },
+    "https://idp.weymouth.ac.uk/idp/shibboleth": {
+        "en": "Weymouth College"
+    },
+    "https://idp.wiltshire.ac.uk/idp/shibboleth": {
+        "en": "Wiltshire College"
+    },
+    "https://idp.winchester.ac.uk/shibboleth": {
+        "en": "University of Winchester"
+    },
+    "https://idp.windsor-forest.ac.uk/idp/shibboleth": {
+        "en": "Windsor Forest Colleges Group"
+    },
+    "https://idp.wlc.ac.uk/shibboleth": {
+        "en": "Ealing, Hammersmith & West London College"
+    },
+    "https://idp.wmcollege.ac.uk/idp/shibboleth": {
+        "en": "Working Men's College, Camden"
+    },
+    "https://idp.wmin.ac.uk/entity": {
+        "en": "University of Westminster"
+    },
+    "https://idp.wnsc.ac.uk/idp/shibboleth": {
+        "en": "North Shropshire College"
+    },
+    "https://idp.woking.ac.uk/shibboleth": {
+        "en": "Woking College"
+    },
+    "https://idp.worc.ac.uk/oala/metadata": {
+        "en": "University of Worcester"
+    },
+    "https://idp.writtle.ac.uk/shibboleth": {
+        "en": "Writtle University College"
+    },
+    "https://idp.wsc.ac.uk/oala/metadata": {
+        "en": "West Suffolk College"
+    },
+    "https://idp.www.bimm.co.uk/openathens": {
+        "en": "BIMM Institute"
+    },
+    "https://idp.yeovil.ac.uk/idp/shibboleth": {
+        "en": "Yeovil College"
+    },
+    "https://idp.yorkcollege.ac.uk/entity": {
+        "en": "York College"
+    },
+    "https://idp0.abertay.ac.uk/shibboleth": {
+        "en": "Abertay University"
+    },
+    "https://idp0.essex.ac.uk/shibboleth": {
+        "en": "University of Essex"
+    },
+    "https://idp01.stfc.ac.uk/shibboleth": {
+        "en": "Science and Technology Facilities Council"
+    },
+    "https://idp1.bcot.ac.uk/idp/shibboleth": {
+        "en": "Basingstoke College of Technology"
+    },
+    "https://idp1.glos.ac.uk/entity": {
+        "en": "University of Gloucestershire"
+    },
+    "https://idp1.ioe.ac.uk/shibboleth": {
+        "en": "Institute of Education, University of London"
+    },
+    "https://idp1.rnngroup.ac.uk/idp": {
+        "en": "RNN Group IDP"
+    },
+    "https://idp1.smuc.ac.uk/idp/shibboleth": {
+        "en": "St Mary's University Twickenham"
+    },
+    "https://idp1.solent.ac.uk/idp/shibboleth": {
+        "en": "Solent University"
+    },
+    "https://idp1.tees.ac.uk/entity": {
+        "en": "Teesside University"
+    },
+    "https://idp1.themanchestercollege.ac.uk/idp/shibboleth": {
+        "en": "The Manchester College"
+    },
+    "https://idp2.iay.org.uk/idp/shibboleth": {
+        "en": "Ian A. Young"
+    },
+    "https://idp2.port.ac.uk/entity": {
+        "en": "University of Portsmouth"
+    },
+    "https://idp4.halesowen.ac.uk/idp/shibboleth": {
+        "en": "Halesowen College"
+    },
+    "https://idp4.londonlibrary.co.uk/idp/shibboleth": {
+        "en": "London Library"
+    },
+    "https://idpcove.trafford.ac.uk/shibboleth": {
+        "en": "Trafford College"
+    },
+    "https://idpglyndwr.ac.uk/shibboleth": {
+        "en": "Glyndwr University"
+    },
+    "https://idpv3.btc.ac.uk/idp/shibboleth": {
+        "en": "Bridgwater & Taunton College"
+    },
+    "https://idpv3.essingtoncc.co.uk/idp/shibboleth": {
+        "en": "Essington Computer Consultancy Ltd"
+    },
+    "https://idpv3.ntyneside.ac.uk/idp/shibboleth": {
+        "en": "Tyne Metropolitan College"
+    },
+    "https://idpv3.sandwell.ac.uk/idp/shibboleth": {
+        "en": "Sandwell College"
+    },
+    "https://idpv3.stc.ac.uk/idp/shibboleth": {
+        "en": "Tyne Coast College"
+    },
+    "https://indiid.net/idp/shibboleth": {
+        "en": "Indiid"
+    },
+    "https://iss-openathensla-runtime.swan.ac.uk/oala/metadata": {
+        "en": "Swansea University"
+    },
+    "https://jcc.ac.uk/idp": {
+        "en": "Joseph Chamberlain Sixth Form College"
+    },
+    "https://jisc.geostore.com/idp/shibboleth": {
+        "en": "Geostore IDP"
+    },
+    "https://kanturk.wigan-leigh.ac.uk/idp/shibboleth": {
+        "en": "Wigan & Leigh College"
+    },
+    "https://kclidp.kcl.ac.uk/idp/shibboleth": {
+        "en": "King's College London"
+    },
+    "https://krad.cityplym.ac.uk/shibboleth": {
+        "en": "City College Plymouth"
+    },
+    "https://lc-idp.lincolncollege.ac.uk/shibboleth": {
+        "en": "Lincoln College UK"
+    },
+    "https://lcmshibboleth.lcm.ac.uk/shibboleth": {
+        "en": "Leeds College of Music"
+    },
+    "https://ldp.esc.ac.uk/idp/shibboleth": {
+        "en": "East Surrey College"
+    },
+    "https://login.library.dmu.ac.uk/oala/metadata": {
+        "en": "De Montfort University"
+    },
+    "https://login.lstonline.ac.uk/idp/pingfederate": {
+        "en": "London School of Theology"
+    },
+    "https://login.northumbria.ac.uk/idp/shibboleth": {
+        "en": "Northumbria University"
+    },
+    "https://login.ucs.ac.uk/saml2/idp/metadata.php": {
+        "en": "University of Suffolk (Legacy)"
+    },
+    "https://login.uea.ac.uk/entity": {
+        "en": "University of East Anglia (UEA)"
+    },
+    "https://login.uos.ac.uk/saml2/idp/metadata.php": {
+        "en": "University of Suffolk"
+    },
+    "https://lse.ac.uk/idp": {
+        "en": "LSE - London School of Economics and Political Science"
+    },
+    "https://moodle.londonmetropolitan.college/idp/shibboleth": {
+        "en": "London Metropolitan College"
+    },
+    "https://nbcol.ac.uk/openathens": {
+        "en": "Northbrook College Sussex"
+    },
+    "https://nchlondon.ac.uk/idp": {
+        "en": "New College of the Humanities"
+    },
+    "https://ncidp.northamptoncollege.ac.uk/entity": {
+        "en": "Northampton College IdP"
+    },
+    "https://nerckwshibba.nerc.ac.uk/idp/shibboleth": {
+        "en": "NERC"
+    },
+    "https://netlogin.strath.ac.uk/shibboleth": {
+        "en": "University of Strathclyde"
+    },
+    "https://nevada.varndean.ac.uk/idp/shibboleth": {
+        "en": "Varndean College"
+    },
+    "https://oa-idp.wlv.ac.uk/oala/metadata": {
+        "en": "University of Wolverhampton"
+    },
+    "https://oala-runtime.eastleigh.ac.uk/oala/metadata": {
+        "en": "Eastleigh College (Legacy)"
+    },
+    "https://oala.aaschool.ac.uk/oala/metadata": {
+        "en": "Architectural Association"
+    },
+    "https://oala.surrey.ac.uk/oala/metadata": {
+        "en": "University of Surrey"
+    },
+    "https://oala.trinitylaban.ac.uk/oala/metadata": {
+        "en": "Trinity Laban Conservatoire of Music and Dance"
+    },
+    "https://openathens.aston.ac.uk/oala/metadata": {
+        "en": "Aston University OpenAthens"
+    },
+    "https://openathens.keele.ac.uk/oala/metadata": {
+        "en": "Keele University"
+    },
+    "https://openathens.rave.ac.uk/oala/metadata": {
+        "en": "Ravensbourne"
+    },
+    "https://openathensr.guildford.ac.uk/oala/metadata": {
+        "en": "Guildford College Open Athens Service"
+    },
+    "https://passport01.leeds.ac.uk/idp/shibboleth": {
+        "en": "University of Leeds"
+    },
+    "https://peterborough.ac.uk/oala/metadata": {
+        "en": "IEG Peterborough College"
+    },
+    "https://pleiades.lscollege.ac.uk/idp/shibboleth": {
+        "en": "Lewisham Southwark College"
+    },
+    "https://proxy.eduteams.org/proxy": {
+        "en": "eduTEAMS"
+    },
+    "https://qub.ac.uk/shibboleth": {
+        "en": "Queen's University Belfast"
+    },
+    "https://rcis.regents.ac.uk/openathens": {
+        "en": "Regent's University London"
+    },
+    "https://reading.ac.uk/oala/metadata": {
+        "en": "University of Reading"
+    },
+    "https://registry.shibboleth.ox.ac.uk/idp": {
+        "en": "University of Oxford"
+    },
+    "https://sa1.nimr.mrc.ac.uk/idp/shibboleth": {
+        "en": "National Institute for Medical Research"
+    },
+    "https://safari.data-archive.ac.uk/idp/shibboleth": {
+        "en": "UK Data Archive IdP Proxy"
+    },
+    "https://scgidp.shrewsbury.ac.uk/idp/shibboleth": {
+        "en": "Shrewsbury Colleges Group"
+    },
+    "https://school.c2kni.net/shibboleth": {
+        "en": "C2k (Western Education Library Board)"
+    },
+    "https://sfx.ac.uk/idp": {
+        "en": "Saint Francis Xavier Catholic Sixth Form College, London"
+    },
+    "https://shib-dev-idp.ucl.ac.uk/shibboleth": {
+        "en": "University College London (Shib Dev)"
+    },
+    "https://shib-idp.arden.ac.uk/idp/shibboleth": {
+        "en": "Arden University"
+    },
+    "https://shib-idp.crawley.ac.uk/idp/shibboleth": {
+        "en": "Crawley College"
+    },
+    "https://shib-idp.ucl.ac.uk/shibboleth": {
+        "en": "UCL (University College London)"
+    },
+    "https://shib-uat-idp.ucl.ac.uk/shibboleth": {
+        "en": "University College London (Shib UAT)"
+    },
+    "https://shib.aylesbury.ac.uk/idp/shibboleth": {
+        "en": "Aylesbury College"
+    },
+    "https://shib.blackpool.ac.uk/shibboleth": {
+        "en": "Blackpool and The Fylde College"
+    },
+    "https://shib.bsdc.ac.uk/idp/shibboleth": {
+        "en": "Burton and South Derbyshire College"
+    },
+    "https://shib.data-archive.ac.uk/shibboleth-idp": {
+        "en": "UK Data Archive"
+    },
+    "https://shib.fra.ac.uk/idp/shibboleth": {
+        "en": "Fashion Retail Academy"
+    },
+    "https://shib.gcu.ac.uk/idp/shibboleth": {
+        "en": "Glasgow Caledonian University"
+    },
+    "https://shib.highlands.ac.uk/idp": {
+        "en": "Highlands College"
+    },
+    "https://shib.hope.ac.uk/idp/shibboleth": {
+        "en": "Liverpool Hope University"
+    },
+    "https://shib.lythamsixth.ac.uk/shibboleth": {
+        "en": "Lytham Sixth Form College"
+    },
+    "https://shib.manchester.ac.uk/shibboleth": {
+        "en": "University of Manchester"
+    },
+    "https://shib.newbury-college.ac.uk/idp/shibboleth": {
+        "en": "Newbury College"
+    },
+    "https://shib.raven.cam.ac.uk/shibboleth": {
+        "en": "University of Cambridge"
+    },
+    "https://shib.rcs.ac.uk/shibboleth": {
+        "en": "Royal Conservatoire of Scotland"
+    },
+    "https://shib.ulster.ac.uk/idp/shibboleth": {
+        "en": "Ulster University - Shibboleth"
+    },
+    "https://shib.westdean.org.uk/idp/shibboleth": {
+        "en": "West Dean College"
+    },
+    "https://shib.york.ac.uk/shibboleth": {
+        "en": "University of York"
+    },
+    "https://shib1.hw.ac.uk/shibboleth": {
+        "en": "Heriot-Watt University"
+    },
+    "https://shib1snc.suffolk.ac.uk/idp/shibboleth": {
+        "en": "Suffolk New College"
+    },
+    "https://shib2.qmu.ac.uk/idp/shibboleth": {
+        "en": "Queen Margaret University, Edinburgh"
+    },
+    "https://shib2idp.ntu.ac.uk/idp/shibboleth": {
+        "en": "Nottingham Trent University"
+    },
+    "https://shib2idp.rgu.ac.uk/idp/shibboleth": {
+        "en": "Robert Gordon University"
+    },
+    "https://shibb-idp.cymoedd.ac.uk/idp/shibboleth": {
+        "en": "Coleg y Cymoedd"
+    },
+    "https://shibb.hull-college.ac.uk/idp/shibboleth": {
+        "en": "Hull College Group"
+    },
+    "https://shibb.stockport.ac.uk/idp/shibboleth": {
+        "en": "Stockport College"
+    },
+    "https://shibboleth-idp.admin.furness.ac.uk/idp/shibboleth": {
+        "en": "Furness College"
+    },
+    "https://shibboleth-idp.don.ac.uk/shibboleth": {
+        "en": "Doncaster College"
+    },
+    "https://shibboleth.aber.ac.uk/shibboleth": {
+        "en": "Aberystwyth University"
+    },
+    "https://shibboleth.ayrshire.ac.uk/idp/shibboleth": {
+        "en": "Ayrshire College (Shibboleth)"
+    },
+    "https://shibboleth.bca.ac.uk/idp/shibboleth": {
+        "en": "Berkshire College of Agriculture"
+    },
+    "https://shibboleth.bexhillcollege.ac.uk/idp/shibboleth": {
+        "en": "Bexhill 6th Form College"
+    },
+    "https://shibboleth.bolton-sfc.ac.uk/idp/shibboleth": {
+        "en": "Bolton Sixth Form College"
+    },
+    "https://shibboleth.bradfordcollege.ac.uk/idp/shibboleth": {
+        "en": "Bradford College"
+    },
+    "https://shibboleth.burnley.ac.uk/idp/shibboleth": {
+        "en": "Burnley College"
+    },
+    "https://shibboleth.burycollege.ac.uk/shibboleth": {
+        "en": "Bury College"
+    },
+    "https://shibboleth.camsfc.ac.uk/shibboleth": {
+        "en": "Cheadle and Marple College Network"
+    },
+    "https://shibboleth.cavc.ac.uk/idp/shibboleth": {
+        "en": "Cardiff and Vale College"
+    },
+    "https://shibboleth.coventrycollege.ac.uk/idp": {
+        "en": "Coventry College"
+    },
+    "https://shibboleth.cranfield.ac.uk/idp/shibboleth": {
+        "en": "Cranfield University"
+    },
+    "https://shibboleth.derby.ac.uk/idp/shibboleth": {
+        "en": "University of Derby"
+    },
+    "https://shibboleth.dundeeandangus.ac.uk/idp/shibboleth": {
+        "en": "Dundee and Angus College"
+    },
+    "https://shibboleth.eastkent.ac.uk/idp/shibboleth": {
+        "en": "EKC Group"
+    },
+    "https://shibboleth.edgehill.ac.uk/shibboleth": {
+        "en": "Edge Hill University"
+    },
+    "https://shibboleth.falmouth.ac.uk/idp/shibboleth": {
+        "en": "Falmouth University"
+    },
+    "https://shibboleth.grimsby.ac.uk/idp/shibboleth": {
+        "en": "Grimsby Institute of Further and Higher Education"
+    },
+    "https://shibboleth.hartpury.ac.uk/shibboleth": {
+        "en": "Hartpury College"
+    },
+    "https://shibboleth.hct.ac.uk/idp/shibboleth": {
+        "en": "Herefordshire and Ludlow College"
+    },
+    "https://shibboleth.hillcroft.ac.uk/idp/shibboleth": {
+        "en": "Hillcroft College"
+    },
+    "https://shibboleth.hrc.ac.uk/idp": {
+        "en": "Hertford Regional College"
+    },
+    "https://shibboleth.huddnewcoll.ac.uk/idp/shibboleth": {
+        "en": "Huddersfield New College"
+    },
+    "https://shibboleth.ieg.ac.uk/idp/shibboleth": {
+        "en": "Inspire Education Group"
+    },
+    "https://shibboleth.imperial.ac.uk/shibboleth": {
+        "en": "Imperial College London"
+    },
+    "https://shibboleth.lsbu.ac.uk/shibboleth": {
+        "en": "London South Bank University"
+    },
+    "https://shibboleth.lst.ac.uk/idp/shibboleth": {
+        "en": "London School of Theology (Shibboleth)"
+    },
+    "https://shibboleth.midkent.ac.uk/shibboleth": {
+        "en": "Mid-Kent College of Higher and Further Education"
+    },
+    "https://shibboleth.ncgrp.ac.uk/idp/shibboleth": {
+        "en": "Newcastle College Group"
+    },
+    "https://shibboleth.ncl-coll.ac.uk/idp/shibboleth": {
+        "en": "Newcastle College"
+    },
+    "https://shibboleth.nptc.ac.uk/idp/shibboleth": {
+        "en": "NPTC Group"
+    },
+    "https://shibboleth.oldham.ac.uk/shibboleth": {
+        "en": "Oldham College"
+    },
+    "https://shibboleth.plumpton.ac.uk/idp/shibboleth": {
+        "en": "Plumpton College"
+    },
+    "https://shibboleth.plymouth.ac.uk/idp/shibboleth": {
+        "en": "University of Plymouth"
+    },
+    "https://shibboleth.rcn.org.uk/idp/shibboleth": {
+        "en": "Royal College of Nursing"
+    },
+    "https://shibboleth.riversidecollege.ac.uk/idp/shibboleth": {
+        "en": "Riverside College Cheshire"
+    },
+    "https://shibboleth.royalmarsdenschool.ac.uk/idp/shibboleth": {
+        "en": "The Royal Marsden NHS Foundation Trust"
+    },
+    "https://shibboleth.runshaw.ac.uk/idp/shibboleth": {
+        "en": "Runshaw College"
+    },
+    "https://shibboleth.salfordcc.ac.uk/idp/shibboleth": {
+        "en": "Salford City College"
+    },
+    "https://shibboleth.selby.ac.uk/idp/shibboleth": {
+        "en": "Selby College"
+    },
+    "https://shibboleth.serc.ac.uk/shibboleth": {
+        "en": "South Eastern Regional College"
+    },
+    "https://shibboleth.shipley.ac.uk/idp/shibboleth": {
+        "en": "Shipley College (Shibboleth)"
+    },
+    "https://shibboleth.staffs.ac.uk/idp/shibboleth": {
+        "en": "Staffordshire University (Login)"
+    },
+    "https://shibboleth.stamford.ac.uk/idp/shibboleth": {
+        "en": "IEG Stamford College"
+    },
+    "https://shibboleth.strode-college.ac.uk/idp/shibboleth": {
+        "en": "Strode College"
+    },
+    "https://shibboleth.stvincent.ac.uk/idp/shibboleth": {
+        "en": "St Vincent College: Computing Services"
+    },
+    "https://shibboleth.truro-penwith.ac.uk/idp/shibboleth": {
+        "en": "Truro and Penwith College"
+    },
+    "https://shibboleth.ucs.org.uk/idp/shibboleth": {
+        "en": "University College School"
+    },
+    "https://shibboleth.wolvcoll.ac.uk/idp/shibboleth": {
+        "en": "City of Wolverhampton College"
+    },
+    "https://shibboleth2.rwcmd.ac.uk/idp/shibboleth": {
+        "en": "Royal Welsh College of Music and Drama"
+    },
+    "https://shibbserver.preston.ac.uk/shibboleth": {
+        "en": "Preston College"
+    },
+    "https://shibbsrv1.gsa.ac.uk/idp/shibboleth": {
+        "en": "Glasgow School of Art (MyGSA)"
+    },
+    "https://shibby.wmc.ac.uk/shibboleth-idp": {
+        "en": "Wirral Metropolitan College"
+    },
+    "https://shibidp.kgv.ac.uk/idp/shibboleth": {
+        "en": "KGV College - Latest"
+    },
+    "https://shibidp.tameside.ac.uk/idp/shibboleth": {
+        "en": "Tameside College"
+    },
+    "https://shibidp.uclan.ac.uk/idp/shibboleth": {
+        "en": "University of Central Lancashire"
+    },
+    "https://shibidp.wnc.ac.uk/idp/shibboleth": {
+        "en": "West Nottinghamshire College"
+    },
+    "https://shibidp.wqeic.ac.uk/shibboleth": {
+        "en": "Wyggeston & QEI College"
+    },
+    "https://shiblogin.hull.ac.uk/idp/shibboleth": {
+        "en": "University of Hull"
+    },
+    "https://shibprod.hw.ac.uk/idp/shibboleth": {
+        "en": "Heriot-Watt University (prod)"
+    },
+    "https://shibserv.abdn.ac.uk/shibboleth": {
+        "en": "University of Aberdeen"
+    },
+    "https://shidp.glam.ac.uk/shibboleth": {
+        "en": "University of South Wales"
+    },
+    "https://sid.kent.ac.uk/shibboleth": {
+        "en": "University of Kent"
+    },
+    "https://sids.somerset.ac.uk/metadata": {
+        "en": "Somerset College"
+    },
+    "https://slateford.support.ukfederation.org.uk/idp/shibboleth": {
+        "en": "Slateford support IdP for UK federation"
+    },
+    "https://sp2.kcc.ac.uk/idp/shibboleth": {
+        "en": "Kensington and Chelsea College"
+    },
+    "https://srvshibboleth.asfc.ac.uk/shibboleth": {
+        "en": "Ashton Sixth Form College"
+    },
+    "https://sso-demo.proofidcloud.co.uk/idp/pingfederate": {
+        "en": "ProofID PingFederate IdP"
+    },
+    "https://sso.bsfc.ac.uk/idp/shibboleth": {
+        "en": "Birkenhead Sixth Form College"
+    },
+    "https://sso.kgv.ac.uk/idp/shibboleth": {
+        "en": "King George V College, Southport"
+    },
+    "https://sso.loucoll.ac.uk/shibboleth": {
+        "en": "Loughborough College"
+    },
+    "https://sso.lowestoft.ac.uk/idp/shibboleth": {
+        "en": "Lowestoft College"
+    },
+    "https://sso.uos.ac.uk": {
+        "en": "University of Suffolk: Global"
+    },
+    "https://ssoa.bl.uk/idp/shibboleth": {
+        "en": "British Library"
+    },
+    "https://ucq.ac.uk/idp": {
+        "en": "University Centre Quayside"
+    },
+    "https://ukamf.belfastmet.ac.uk/shibboleth": {
+        "en": "Belfast Metropolitan College"
+    },
+    "https://ukfederation.ecu.ac.uk/idp/shibboleth": {
+        "en": "Equality Challenge Unit"
+    },
+    "https://umbrellaid.org/idp/shibboleth": {
+        "de": "Umbrella ID",
+        "en": "https://umbrellaid.org/idp/shibboleth",
+        "fr": "Umbrella ID"
+    },
+    "https://wakshib1.wakefield.ac.uk/shibboleth": {
+        "en": "Wakefield College"
+    },
+    "https://wccidp.west-cheshire.ac.uk/shibboleth": {
+        "en": "West Cheshire College (WCC)"
+    },
+    "https://webauth.soton.ac.uk/shibboleth": {
+        "en": "University of Southampton"
+    },
+    "https://www.justis.com/shibboleth": {
+        "en": "Justis Publishing Limited"
+    },
+    "https://www.kedst.ac.uk/shibboleth": {
+        "en": "King Edward VI College, Stourbridge"
+    },
+    "https://www.login.dumgal.ac.uk/oala/metadata": {
+        "en": "Dumfries and Galloway College"
+    },
+    "https://www.wmsf.ac.uk": {
+        "en": "William Morris Sixth Form"
+    },
+    "https://wyke.ac.uk/idp": {
+        "en": "Wyke Sixth Form College"
+    },
+    "https://youidlite.youid.net/idp/shibboleth": {
+        "en": "YouID-E2BN Integration"
+    },
+    "https://zed.bcu.ac.uk/entity": {
+        "en": "Birmingham City University"
+    },
+    "urn:mace:ac.uk:sdss.ac.uk:provider:identity:dur.ac.uk": {
+        "en": "University of Durham"
+    },
+    "urn:mace:ac.uk:sdss.ac.uk:provider:identity:shibboleth-i.sgul.ac.uk": {
+        "en": "St George's, University of London"
+    },
+    "urn:mace:ac.uk:sdss.ac.uk:provider:identity:uhi.ac.uk": {
+        "en": "University of the Highlands and Islands",
+        "gd": "Oilthigh na Gàidhealtachd agus nan Eilean"
+    },
+    "urn:mace:eduserv.org.uk:athens:provider:liv.ac.uk": {
+        "en": "University of Liverpool"
+    }
+}

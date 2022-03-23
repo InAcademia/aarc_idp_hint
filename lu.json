@@ -1,0 +1,24 @@
+{
+    "https://accounts.google.com/o/saml2?idpid=C02ws9ruj": {
+        "en": "Luxembourg School of Business"
+    },
+    "https://clueless.restena.lu/simplesamlphp/saml2/idp/metadata.php": {
+        "en": "Restena Staff",
+        "fr": "Restena Employees"
+    },
+    "https://eduID.uni.lu/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Luxembourg - Production"
+    },
+    "https://login.restena.lu/simplesamlphp/saml2/idp/metadata.php": {
+        "en": "Restena Users",
+        "fr": "Restena Utilisateurs"
+    },
+    "https://ssl.education.lu/saml/saml2/idp/metadata.php": {
+        "en": "MENJE - CGIE IAM Users",
+        "fr": "MENJE - CGIE IAM Utilisateurs"
+    },
+    "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/": {
+        "en": "Restena Staff",
+        "fr": "Restena Employees"
+    }
+}

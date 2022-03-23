@@ -1,0 +1,32 @@
+{
+    "https://idp-live.intercollege.ac.cy/idp/shibboleth": {
+        "en": "Intercollege"
+    },
+    "https://idp-live.unic.ac.cy/idp/shibboleth": {
+        "en": "University of Nicosia"
+    },
+    "https://idp.cing.ac.cy/idp/shibboleth": {
+        "en": "The Cyprus Institute of Neurology and Genetics"
+    },
+    "https://idp.cut.ac.cy/idp/shibboleth": {
+        "en": "Cyprus University of Technology"
+    },
+    "https://idp.cynet.ac.cy/idp/shibboleth": {
+        "el": "ΚΕΑΔ",
+        "en": "CYNET"
+    },
+    "https://idp.frederick.ac.cy/idp/shibboleth": {
+        "en": "Frederick University"
+    },
+    "https://idp.ucy.ac.cy/idp/shibboleth": {
+        "el": "Πανεπιστήμιο Κύπρου",
+        "en": "University of Cyprus"
+    },
+    "https://nup-edgnstd.nup.ac.cy/idp/shibboleth": {
+        "en": "Neapolis University Pafos"
+    },
+    "https://shib.euc.ac.cy/idp/shibboleth": {
+        "el": "Ευρωπαϊκό Πανεπιστήμιο Κύπρου",
+        "en": "European University Cyprus"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "https://idp.grid.arn.dz/idp/shibboleth": {
+        "en": "DZ e-Science GRID IDP"
+    },
+    "https://med-idp.arn.dz/idp/shibboleth": {
+        "en": "DZ e-Science MEDECINE IDP"
+    }
+}

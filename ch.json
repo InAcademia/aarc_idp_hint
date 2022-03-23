@@ -1,0 +1,232 @@
+{
+    "http://adfs3.fmi.ch/adfs/services/trust": {
+        "en": "FMI - Friedrich Miescher Institute"
+    },
+    "https://aai-idp.unibe.ch/idp/shibboleth": {
+        "de": "Universität Bern",
+        "en": "Universität Bern"
+    },
+    "https://aai-idp.uzh.ch/idp/shibboleth": {
+        "de": "Universität Zürich",
+        "en": "University of Zurich"
+    },
+    "https://aai-login.balgrist.ch/idp/shibboleth": {
+        "de": "Universitätsklinik Balgrist",
+        "en": "Universitätsklinik Balgrist"
+    },
+    "https://aai-login.careum-bz.ch/idp/shibboleth": {
+        "de": "Careum Bildungszentrum",
+        "en": "Careum Bildungszentrum"
+    },
+    "https://aai-login.careum.ch/idp/shibboleth": {
+        "de": "Careum",
+        "en": "Careum"
+    },
+    "https://aai-login.ehb-schweiz.ch/idp/shibboleth": {
+        "de": "EHB / HEFP / SUFFP - Die eidgenössische Hochschule für Berufsbildung",
+        "en": "SFUVET - Swiss Federal University for Vocational Education and Training"
+    },
+    "https://aai-login.euresearch.ch/idp/shibboleth": {
+        "en": "Euresearch Head Office"
+    },
+    "https://aai-login.fhgr.ch/idp/shibboleth": {
+        "de": "FHGR - Fachhochschule Graubünden",
+        "en": "FHGR - Fachhochschule Graubünden"
+    },
+    "https://aai-login.hep-bejune.ch/idp/shibboleth": {
+        "de": "HEP-BEJUNE – Pädagogische Hochschule - BEJUNE",
+        "en": "HEP-BEJUNE - Haute Ecole Pédagogique BEJUNE"
+    },
+    "https://aai-login.hepl.ch/idp/shibboleth": {
+        "en": "HEP Vaud - Haute école pédagogique du canton de Vaud",
+        "fr": "HEP Vaud - Haute école pédagogique du canton de Vaud"
+    },
+    "https://aai-login.hfh.ch/idp/shibboleth": {
+        "de": "HfH - Interkantonale Hochschule für Heilpädagogik",
+        "en": "HfH - Interkantonale Hochschule für Heilpädagogik"
+    },
+    "https://aai-login.ph-gr.ch/idp/shibboleth": {
+        "de": "PHGR - Pädagogische Hochschule Graubünden",
+        "en": "PHGR - University of Teacher Education Graubünden"
+    },
+    "https://aai-login.phbern.ch/idp/shibboleth": {
+        "de": "PHBern - Pädagogische Hochschule Bern",
+        "en": "PHBern - Pädagogische Hochschule Bern"
+    },
+    "https://aai-login.phsg.ch/idp/shibboleth": {
+        "de": "PHSG - Pädagogische Hochschule St.Gallen",
+        "en": "PHSG - Pädagogische Hochschule St.Gallen"
+    },
+    "https://aai-login.pmodwrc.ch/idp/shibboleth": {
+        "de": "PMOD/WRC - Observatorium Davos",
+        "en": "PMOD/WRC - Observatory Davos"
+    },
+    "https://aai-login.snf.ch/idp/shibboleth": {
+        "de": "SNF - Schweizerischer Nationalfonds",
+        "en": "SNSF - Swiss National Science Foundation"
+    },
+    "https://aai-login.swissuniversities.ch/idp/shibboleth": {
+        "en": "swissuniversities"
+    },
+    "https://aai-login.unine.ch/idp/shibboleth": {
+        "en": "Université de Neuchâtel",
+        "fr": "Université de Neuchâtel"
+    },
+    "https://aai-loginhep.edufr.ch/idp/shibboleth": {
+        "de": "HEP-PH FR - Pädagogische Hochschule Freiburg",
+        "en": "HEP-PH FR - University of Teacher Education Fribourg"
+    },
+    "https://aai-logon.bfh.ch/idp/shibboleth": {
+        "de": "BFH - Berner Fachhochschule",
+        "en": "BFH - Berner Fachhochschule"
+    },
+    "https://aai-logon.ethz.ch/idp/shibboleth": {
+        "de": "ETH Zürich",
+        "en": "ETH Zurich"
+    },
+    "https://aai-logon.fhnw.ch/idp/shibboleth": {
+        "de": "FHNW - Fachhochschule Nordwestschweiz",
+        "en": "FHNW - Fachhochschule Nordwestschweiz"
+    },
+    "https://aai-logon.hepvs.ch/idp/shibboleth": {
+        "de": "PH-VS - Pädagogische Hochschule Wallis",
+        "en": "HEP-VS - Haute école pédagogique du Valais"
+    },
+    "https://aai-logon.hes-so.ch/idp/shibboleth": {
+        "de": "HES-SO -  Fachhochschule Westschweiz",
+        "en": "HES-SO - University of Applied Sciences Western Switzerland"
+    },
+    "https://aai-logon.ost.ch/idp/shibboleth": {
+        "de": "OST - Ostschweizer Fachhochschule",
+        "en": "OST - Ostschweizer Fachhochschule"
+    },
+    "https://aai-logon.phtg.ch/idp/shibboleth": {
+        "de": "PHTG - Pädagogische Hochschule Thurgau",
+        "en": "PHTG - Pädagogische Hochschule Thurgau"
+    },
+    "https://aai-logon.psi.ch/idp/shibboleth": {
+        "de": "PSI - Paul Scherrer Institut",
+        "en": "PSI - Paul Scherrer Institut"
+    },
+    "https://aai-logon.switch.ch/idp/shibboleth": {
+        "de": "SWITCH Mitarbeitende",
+        "en": "SWITCH Staff"
+    },
+    "https://aai-logon.uni.li/idp/shibboleth": {
+        "de": "Universität Liechtenstein",
+        "en": "Universität Liechtenstein"
+    },
+    "https://aai-logon.unibas.ch/idp/shibboleth": {
+        "de": "Universität Basel",
+        "en": "Universität Basel"
+    },
+    "https://aai-logon.unilu.ch/idp/shibboleth": {
+        "de": "Universität Luzern",
+        "en": "Universität Luzern"
+    },
+    "https://aai-logon.unispital.ch/idp/shibboleth": {
+        "de": "Universitätsspital Zürich",
+        "en": "Universitätsspital Zürich"
+    },
+    "https://aai-logon.wsl.ch/idp/shibboleth": {
+        "de": "WSL - Eidg. Forschungsanstalt für Wald, Schnee und Landschaft",
+        "en": "WSL - Eidg. Forschungsanstalt für Wald, Schnee und Landschaft"
+    },
+    "https://aai-logon.zhbluzern.ch/idp/shibboleth": {
+        "de": "Zentral- und Hochschulbibliothek Luzern",
+        "en": "Zentral- und Hochschulbibliothek Luzern"
+    },
+    "https://aai-logon.zhdk.ch/idp/shibboleth": {
+        "de": "ZHdK - Zürcher Hochschule der Künste",
+        "en": "ZHdK - Zürcher Hochschule der Künste"
+    },
+    "https://aai.eawag.ch/idp/shibboleth": {
+        "en": "Eawag"
+    },
+    "https://aai.empa.ch/idp/shibboleth": {
+        "de": "Empa",
+        "en": "Empa"
+    },
+    "https://aai.idiap.ch/idp/shibboleth": {
+        "en": "Idiap Research Institute"
+    },
+    "https://aai.insel.ch/idp/shibboleth": {
+        "de": "Insel Gruppe",
+        "en": "Insel Gruppe"
+    },
+    "https://aai.phzg.ch/idp/shibboleth": {
+        "de": "PH Zug - Pädagogische Hochschule Zug",
+        "en": "PH Zug - Pädagogische Hochschule Zug"
+    },
+    "https://aai.unifr.ch/idp/shibboleth": {
+        "de": "Universität Freiburg",
+        "en": "University of Fribourg"
+    },
+    "https://aai.unil.ch/idp/shibboleth": {
+        "en": "Universite de Lausanne",
+        "fr": "Université de Lausanne"
+    },
+    "https://aai.unisg.ch/idp/shibboleth": {
+        "de": "Universität St. Gallen",
+        "en": "Universität St. Gallen"
+    },
+    "https://aai.zhaw.ch/idp/shibboleth": {
+        "de": "ZHAW - Zürcher Hochschule für Angewandte Wissenschaften",
+        "en": "ZHAW - Zürcher Hochschule für Angewandte Wissenschaften"
+    },
+    "https://aai01.phzh.ch/idp/shibboleth": {
+        "de": "PH Zürich - Pädagogische Hochschule Zürich",
+        "en": "PH Zürich - Pädagogische Hochschule Zürich"
+    },
+    "https://cern.ch/login": {
+        "en": "CERN"
+    },
+    "https://idp.chuv.ch/idp/shibboleth": {
+        "en": "CHUV - Centre hospitalier universitaire vaudois",
+        "fr": "CHUV - Centre hospitalier universitaire vaudois"
+    },
+    "https://idp.epfl.ch/idp/shibboleth": {
+        "de": "EPFL - EPF Lausanne",
+        "en": "EPFL - EPF Lausanne"
+    },
+    "https://idp.fernuni.ch/idp/shibboleth": {
+        "de": "FernUni Schweiz",
+        "en": "UniDistance Suisse"
+    },
+    "https://idp.ffhs.ch/idp/shibboleth": {
+        "de": "FFHS - Fernfachhochschule Schweiz",
+        "en": "FFHS - Fernfachhochschule Schweiz"
+    },
+    "https://idp.hslu.ch/idp/shibboleth": {
+        "de": "HSLU - Hochschule Luzern",
+        "en": "HSLU - Lucerne University of Applied Sciences and Arts"
+    },
+    "https://idp.phlu.ch/idp/shibboleth": {
+        "de": "PHLU - Pädagogische Hochschule Luzern",
+        "en": "PHLU - University of Teacher Education Lucerne"
+    },
+    "https://idp.phsz.ch/idp/shibboleth": {
+        "de": "PHSZ - Pädagogische Hochschule Schwyz",
+        "en": "PHSZ - Pädagogische Hochschule Schwyz"
+    },
+    "https://idp.unige.ch/idp/shibboleth": {
+        "de": "Universität Genf",
+        "en": "Université de Genève"
+    },
+    "https://login-idp.libraries.ch/idp/shibboleth": {
+        "de": "libraries.ch",
+        "en": "libraries.ch"
+    },
+    "https://login.teologialugano.ch/idp/shibboleth": {
+        "en": "FTL - Facoltà di Teologia di Lugano",
+        "it": "FTL - Facoltà di Teologia di Lugano"
+    },
+    "https://login2.supsi.ch/idp/shibboleth": {
+        "en": "SUPSI - Scuola Universitaria Professionale della Svizzera Italiana",
+        "it": "SUPSI - Scuola Universitaria Professionale della Svizzera Italiana"
+    },
+    "https://login2.usi.ch/idp/shibboleth": {
+        "en": "Università della Svizzera italiana",
+        "it": "Università della Svizzera italiana"
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "http://adfs.hv.se/adfs/services/trust": {
+        "en": "University West",
+        "sv": "Högskolan Väst"
+    },
+    "http://adfs.ju.se/adfs/services/trust": {
+        "en": "Jönköping University",
+        "sv": "Jönköping University"
+    },
+    "http://adfs.kb.se/adfs/services/trust": {
+        "en": "National Library of Sweden",
+        "sv": "Kungliga biblioteket"
+    },
+    "http://adfs.rkh.se/adfs/services/trust": {
+        "en": "Swedish Red Cross University College",
+        "sv": "Röda Korsets Högskola"
+    },
+    "http://adfs.sp.se/adfs/services/trust": {
+        "en": "RISE Research Institutes of Sweden",
+        "sv": "RISE Research Institutes of Sweden"
+    },
+    "http://adfs.umu.se/adfs/services/trust": {
+        "en": "Umea University",
+        "sv": "Umeå universitet"
+    },
+    "http://fs.bth.se/adfs/services/trust": {
+        "en": "Blekinge Institute of Technology",
+        "sv": "Blekinge Tekniska Högskola"
+    },
+    "http://fs.liu.se/adfs/services/trust": {
+        "en": "Linköping University",
+        "sv": "Linköpings universitet"
+    },
+    "http://fs.nrm.se/adfs/services/trust": {
+        "en": "Swedish Museum of Natural History",
+        "sv": "Naturhistoriska riksmuseet"
+    },
+    "http://idp.chalmers.se/adfs/services/trust": {
+        "en": "Chalmers",
+        "sv": "Chalmers"
+    },
+    "http://idp.vr.se/adfs/services/trust": {
+        "en": "The Swedish Research Council",
+        "sv": "Vetenskapsrådet"
+    },
+    "http://login1.fhs.se/adfs/services/trust": {
+        "en": "Swedish Defence University - OLD",
+        "sv": "Försvarshögskolan - OLD"
+    },
+    "http://login2.fhs.se/adfs/services/trust": {
+        "en": "Swedish Defence University",
+        "sv": "Försvarshögskolan"
+    },
+    "http://webproxysrv.uniarts.se/adfs/services/trust": {
+        "en": "Stockholm University of the Arts",
+        "sv": "Stockholms konstnärliga högskola"
+    },
+    "https://idp-shib.slu.se/idp": {
+        "en": "Swedish University of Agricultural Sciences",
+        "sv": "Sveriges Lantbruksuniversitet"
+    },
+    "https://idp-v2.konstfack.se/adfs/services/trust": {
+        "en": "Konstfack",
+        "sv": "Konstfack"
+    },
+    "https://idp-v2.suni.se/adfs/services/trust": {
+        "en": "Södertörn University",
+        "sv": "Södertörns högskola"
+    },
+    "https://idp.esh.se/idp/shibboleth": {
+        "en": "Marie Cederschiöld University College",
+        "sv": "Marie Cederschiöld högskola"
+    },
+    "https://idp.hb.se/idp/shibboleth": {
+        "en": "University of Borås",
+        "sv": "Högskolan i Borås"
+    },
+    "https://idp.hh.se/idp/shibboleth": {
+        "en": "Halmstad University",
+        "sv": "Högskolan i Halmstad"
+    },
+    "https://idp.his.se/idp/shibboleth": {
+        "en": "University of Skövde",
+        "sv": "Högskolan i Skövde"
+    },
+    "https://idp.hj.se/idp/shibboleth": {
+        "en": "Jönköping University - OLD",
+        "sv": "Jönköping University - OLD"
+    },
+    "https://idp.hkr.se/idp/shibboleth": {
+        "en": "Kristianstad University Sweden",
+        "sv": "Högskolan Kristianstad"
+    },
+    "https://idp.hv.se/idp/shibboleth": {
+        "en": "University West - OLD",
+        "sv": "Högskolan Väst - OLD"
+    },
+    "https://idp.it.su.se/idp/shibboleth": {
+        "en": "Stockholm University",
+        "sv": "Stockholms universitet"
+    },
+    "https://idp.kmh.se/idp/shibboleth": {
+        "en": "Royal College of Music in Stockholm",
+        "sv": "Kungliga Musikhögskolan i Stockholm"
+    },
+    "https://idp.kva.se/idp/shibboleth": {
+        "en": "The Royal Swedish Academy of Sciences",
+        "sv": "Kungliga Vetenskapsakademien"
+    },
+    "https://idp.lnu.se/idp/shibboleth": {
+        "en": "Linnaeus University",
+        "sv": "Linnéuniversitetet"
+    },
+    "https://idp.ltu.se/idp/shibboleth": {
+        "en": "Lulea University of Technology",
+        "sv": "Luleå tekniska universitet"
+    },
+    "https://idp.mah.se/idp/shibboleth": {
+        "en": "Malmö University",
+        "sv": "Malmö universitet"
+    },
+    "https://idp.mdh.se/idp/shibboleth": {
+        "en": "Mälardalen University",
+        "sv": "Mälardalens universitet"
+    },
+    "https://idp.nordu.net/idp/shibboleth": {
+        "en": "NORDUnet",
+        "sv": "NORDUnet"
+    },
+    "https://idp.oru.se/idp/shibboleth": {
+        "en": "Örebro University",
+        "sv": "Örebro universitet"
+    },
+    "https://idp.sunet.se/idp": {
+        "en": "SUNET",
+        "sv": "SUNET"
+    },
+    "https://idp.ths.se/idp/shibboleth": {
+        "en": "University College Stockholm",
+        "sv": "Enskilda Högskolan Stockholm"
+    },
+    "https://idp01.gih.se/idp/shibboleth": {
+        "en": "The Swedish School of Sport and Health Sciences",
+        "sv": "Gymnastik- och idrottshögskolan"
+    },
+    "https://idp2.bth.se/idp/shibboleth": {
+        "en": "Blekinge Institute of Technology - OLD",
+        "sv": "Blekinge Tekniska Högskola - OLD"
+    },
+    "https://idp2.kkh.se/idp/shibboleth": {
+        "en": "Royal Institute of Art",
+        "sv": "Kungl. Konsthögskolan"
+    },
+    "https://idp3.hig.se/idp/shibboleth": {
+        "en": "University of Gävle",
+        "sv": "Högskolan i Gävle"
+    },
+    "https://idp3.it.gu.se/idp/shibboleth": {
+        "en": "University of Gothenburg",
+        "sv": "Göteborgs Universitet"
+    },
+    "https://idpshibboleth.irf.se/idp/shibboleth": {
+        "en": "Swedish Institute of Space Physics",
+        "sv": "Institutet för rymdfysik"
+    },
+    "https://idpv4.lu.se/idp/shibboleth": {
+        "en": "Lund University",
+        "sv": "Lunds universitet"
+    },
+    "https://login.du.se/idp/shibboleth": {
+        "en": "Dalarna University",
+        "sv": "Högskolan Dalarna"
+    },
+    "https://login.idp.eduid.se/idp.xml": {
+        "en": "eduID Sweden",
+        "sv": "eduID Sverige"
+    },
+    "https://login.idp.hhs.se/idp/shibboleth": {
+        "en": "Stockholm School of Economics IdP",
+        "sv": "Handelshögskolan i Stockholm IdP"
+    },
+    "https://login.ki.se/idp/shibboleth": {
+        "en": "Karolinska Institutet",
+        "sv": "Karolinska Institutet"
+    },
+    "https://miunidp.miun.se/idp/shibboleth": {
+        "en": "Mid Sweden University",
+        "sv": "Mittuniversitetet"
+    },
+    "https://saml.sys.kth.se/idp/shibboleth": {
+        "en": "KTH Royal Institute of Technology",
+        "sv": "Kungliga Tekniska högskolan (KTH)"
+    },
+    "https://swamid2.shh.se/idp/shibboleth": {
+        "en": "Sophiahemmet University",
+        "sv": "Sophiahemmet Högskola"
+    },
+    "https://weblogin.kau.se/idp/shibboleth": {
+        "en": "Karlstad University",
+        "sv": "Karlstads universitet"
+    },
+    "https://weblogin.smhi.se/idp/shibboleth": {
+        "en": "SMHI",
+        "sv": "SMHI"
+    },
+    "https://weblogin.uu.se/idp/shibboleth": {
+        "en": "Uppsala University",
+        "sv": "Uppsala universitet"
+    }
+}

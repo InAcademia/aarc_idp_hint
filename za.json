@@ -1,0 +1,88 @@
+{
+    "http://proxy.safire.ac.za/birk.php/federate.sun.ac.za/adfs/services/trust": {
+        "en": "Stellenbosch University",
+        "xh": "iYunivesithi Stellenbosch"
+    },
+    "http://proxy.safire.ac.za/birk.php/federate.ufh.ac.za/adfs/services/trust": {
+        "en": "University of Fort Hare"
+    },
+    "http://proxy.safire.ac.za/birk.php/federation.ukzn.ac.za/adfs/services/trust": {
+        "en": "University of KwaZulu-Natal",
+        "zu": "inYuvesi yaKwaZulu-Natali"
+    },
+    "http://proxy.safire.ac.za/birk.php/logmein.vut.ac.za/adfs/services/trust": {
+        "en": "Vaal University of Technology - Students (VUT)"
+    },
+    "http://proxy.safire.ac.za/birk.php/logon.cut.ac.za/adfs/services/trust": {
+        "en": "Central University of Technology, Free State"
+    },
+    "http://proxy.safire.ac.za/birk.php/safire.ufs.ac.za/adfs/services/trust": {
+        "en": "University of the Free State"
+    },
+    "http://proxy.safire.ac.za/birk.php/sso.vut.ac.za/adfs/services/trust": {
+        "en": "Vaal University of Technology - Staff (VUT)"
+    },
+    "http://proxy.safire.ac.za/birk.php/tutfs.tut.ac.za/adfs/services/trust": {
+        "en": "Tshwane University of Technology"
+    },
+    "https://proxy.safire.ac.za/birk.php/googleidp.sanren.ac.za/simplesaml/saml2/idp/metadata.php": {
+        "en": "SANReN Competency Area"
+    },
+    "https://proxy.safire.ac.za/birk.php/idp-01.tenet.ac.za/idp/shibboleth": {
+        "af": "TENET Suid-Afrika",
+        "en": "TENET South Africa"
+    },
+    "https://proxy.safire.ac.za/birk.php/idp.csir.co.za/simplesamlphp/saml2/idp/metadata.php": {
+        "af": "WNNR",
+        "en": "CSIR"
+    },
+    "https://proxy.safire.ac.za/birk.php/idp.wits.ac.za/safss/saml2/idp/metadata.php": {
+        "af": "Wits Universiteit",
+        "en": "Wits University"
+    },
+    "https://proxy.safire.ac.za/birk.php/idp.wsu.ac.za/simplesaml/saml2/idp/metadata.php": {
+        "af": "Walter Sisulu Universiteit",
+        "en": "Walter Sisulu University"
+    },
+    "https://proxy.safire.ac.za/birk.php/login.ru.ac.za/idp/shibboleth": {
+        "en": "Rhodes University",
+        "xh": "IYunivesiti iRhodes"
+    },
+    "https://proxy.safire.ac.za/birk.php/nmmusaml-sc1.nmmu.ac.za/simplesaml/saml2/idp/metadata.php": {
+        "en": "Nelson Mandela University"
+    },
+    "https://proxy.safire.ac.za/birk.php/saml.uwc.ac.za/simplesaml/saml2/idp/metadata.php": {
+        "af": "Universiteit van Wes-Kaapland",
+        "en": "University of the Western Cape"
+    },
+    "https://proxy.safire.ac.za/birk.php/shib.nwu.ac.za/idp/shibboleth": {
+        "en": "North-West University",
+        "tn": "Yunibesiti Ya Bokone-Bophirima"
+    },
+    "https://proxy.safire.ac.za/birk.php/srvslsfed001.uct.ac.za/simplesaml/saml2/idp/metadata.php": {
+        "af": "Universiteit Kaapstad",
+        "en": "University of Cape Town"
+    },
+    "https://proxy.safire.ac.za/birk.php/sso.sats.edu.za/": {
+        "af": "Suid-Afrikaanse Teologiese Seminarium",
+        "en": "South African Theological Seminary"
+    },
+    "https://proxy.safire.ac.za/birk.php/sts.windows.net/90bb22db-a73a-4971-b7d6-7ca3ef90cf06/": {
+        "af": "Kaapse Skiereiland Universiteit van Tegnologie - Personeel",
+        "en": "Cape Peninsula University of Technology - Staff"
+    },
+    "https://proxy.safire.ac.za/birk.php/sts.windows.net/acbcaed8-7adc-460c-ba57-028bdc80d84a/": {
+        "en": "Sol Plaatje University"
+    },
+    "https://proxy.safire.ac.za/birk.php/sts.windows.net/cc6148eb-d356-4f38-900f-3a4d62b954c8/": {
+        "af": "Kaapse Skiereiland Universiteit van Tegnologie - Studente",
+        "en": "Cape Peninsula University of Technology - Students"
+    },
+    "https://proxy.safire.ac.za/birk.php/sts.windows.net/f38ba9d8-554c-48a2-ae42-13b1e7f3c797/": {
+        "en": "University of Venda"
+    },
+    "https://proxy.safire.ac.za/birk.php/www1.up.ac.za:443/oam/fed": {
+        "af": "Universiteit van Pretoria",
+        "en": "University of Pretoria"
+    }
+}

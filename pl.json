@@ -1,0 +1,189 @@
+{
+    "http://adfs.san.edu.pl/adfs/services/trust": {
+        "en": "University of Social Sciences",
+        "pl": "Społeczna Akademia Nauk"
+    },
+    "http://adfs1.uwr.edu.pl/adfs/services/trust": {
+        "en": "University of Wroclaw",
+        "pl": "Uniwersytet Wrocławski"
+    },
+    "http://sts.admin.pk.edu.pl/adfs/services/trust/": {
+        "en": "Cracow University of Technology",
+        "pl": "Politechnika Krakowska im. Tadeusza Kościuszki"
+    },
+    "http://sts.uj.edu.pl/adfs/services/trust": {
+        "en": "Jagiellonian University in Kraków",
+        "pl": "Uniwersytet Jagielloński w Krakowie"
+    },
+    "http://sts.umg.edu.pl/adfs/services/trust": {
+        "en": "Gdynia Maritime University",
+        "pl": "Uniwersytet Morski w Gdyni"
+    },
+    "http://sts.wsiz.rzeszow.pl/adfs/services/trust": {
+        "en": "University of Information Technology and Management in Rzeszow",
+        "pl": "Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie"
+    },
+    "https://cas.kul.pl:8443/cas/idp/metadata": {
+        "en": "John Paul II Catholic University of Lublin",
+        "pl": "Katolicki Uniwersytet Lubelski Jana Pawła II"
+    },
+    "https://cas.sgsp.edu.pl/cas/idp": {
+        "en": "Main School of Fire Service",
+        "pl": "Szkoła Główna Służby Pożarniczej"
+    },
+    "https://cas.uwb.edu.pl/cas/idp/metadata": {
+        "en": "University of Bialystok",
+        "pl": "Uniwersytet w Białymstoku"
+    },
+    "https://edugain.umed.pl/idp/shibboleth": {
+        "en": "Medical University of Lodz",
+        "pl": "Uniwersytet Medyczny w Łodzi"
+    },
+    "https://edugain.wum.edu.pl/idp/shibboleth": {
+        "en": "Medical University of Warsaw",
+        "pl": "Warszawski Uniwersytet Medyczny"
+    },
+    "https://elogin.put.poznan.pl/saml20": {
+        "en": "Poznan University of Technology",
+        "pl": "Politechnika Poznańska"
+    },
+    "https://fed.p.lodz.pl/idp/shibboleth": {
+        "en": "Lodz University of Technology",
+        "pl": "Politechnika Łódzka"
+    },
+    "https://idp.prz.edu.pl/idp/shibboleth": {
+        "en": "Rzeszow University of Technology",
+        "pl": "Politechnika Rzeszowska"
+    },
+    "https://idp.task.gda.pl/idp/shibboleth": {
+        "en": "TASK Gdansk",
+        "pl": "TASK Gdańsk"
+    },
+    "https://idp.ug.edu.pl/idp/shibboleth": {
+        "en": "University of Gdańsk",
+        "pl": "Uniwersytet Gdański"
+    },
+    "https://idp.zut.edu.pl/idp/shibboleth": {
+        "en": "West Pomeranian University of Technology in Szczecin",
+        "pl": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie"
+    },
+    "https://idpe.sum.edu.pl/idp/shibboleth": {
+        "en": "Medical University of Silesia",
+        "pl": "Śląski Uniwersytet Medyczny w Katowicach"
+    },
+    "https://login.aai.pionier.net.pl/IdP/saml2/idp/metadata.php": {
+        "en": "PIONIER Consortium"
+    },
+    "https://login.nwsp.pl/idp/shibboleth": {
+        "en": "Non-state Higher Pedagogical School In Bialystok",
+        "pl": "Niepaństwowa Wyższa Szkoła Pedagogiczna w Białymstoku"
+    },
+    "https://login.pb.edu.pl/idp/shibboleth": {
+        "en": "Bialystok University of Technology",
+        "pl": "Politechnika Bialostocka"
+    },
+    "https://login.polsl.pl/idp": {
+        "en": "Silesian University of Technology",
+        "pl": "Politechnika Śląska"
+    },
+    "https://login.tu.kielce.pl/idp/shibboleth": {
+        "en": "Kielce University of Technology",
+        "pl": "Politechnika Świętokrzyska w Kielcach"
+    },
+    "https://login.umcs.pl/idp/metadata": {
+        "en": "Maria Curie-Sklodowska University",
+        "pl": "Uniwersytet Marii Curie-Skłodowskiej"
+    },
+    "https://login.uni.lodz.pl/cas/idp/metadata": {
+        "en": "University of Lodz",
+        "pl": "Uniwersytet Łódzki"
+    },
+    "https://login.uph.edu.pl/idp/metadata": {
+        "en": "Siedlce University of Natural Sciences and Humanities",
+        "pl": "Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach"
+    },
+    "https://login.utp.edu.pl/idp/shibboleth": {
+        "en": "University of Science and Technology in Bydgoszcz",
+        "pl": "Uniwersytet Technologiczno-Przyrodniczy w Bydgoszczy"
+    },
+    "https://login.uw.edu.pl/idp": {
+        "en": "University of Warsaw",
+        "pl": "Uniwersytet Warszawski"
+    },
+    "https://logowanie.man.pcz.pl/idp/shibboleth": {
+        "en": "Czestochowa University of Technology",
+        "pl": "Politechnika Częstochowska"
+    },
+    "https://logowanie.pg.edu.pl/idp": {
+        "en": "Gdańsk University of Technology",
+        "pl": "Politechnika Gdańska"
+    },
+    "https://logowanie.us.edu.pl/idp/saml2/idp/metadata.php": {
+        "en": "University of Silesia",
+        "pl": "Uniwersytet Śląski"
+    },
+    "https://pioneerid.ump.edu.pl/idp/shibboleth": {
+        "en": "Poznan University of Medical Sciences",
+        "pl": "Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu"
+    },
+    "https://saml.sggw.edu.pl/idp/shibboleth": {
+        "en": "The Warsaw University of Life Sciences",
+        "pl": "Szkoła Główna Gospodarstwa Wiejskiego w Warszawie"
+    },
+    "https://shib.awf.wroc.pl/idp/shibboleth": {
+        "en": "University School of Physical Education in Wroclaw",
+        "pl": "Akademia Wychowania Fizycznego we Wrocławiu"
+    },
+    "https://shib.dsw.edu.pl/idp/shibboleth": {
+        "en": "University of Lower Silesia",
+        "pl": "Dolnośląska Szkoła Wyższa"
+    },
+    "https://shib.e-science.pl/idp/shibboleth": {
+        "en": "E-SCIENCE.PL",
+        "pl": "Platforma E-SCIENCE.PL"
+    },
+    "https://shib.kpswjg.pl/idp/shibboleth": {
+        "en": "The Karkonosze State University of Applied Sciences",
+        "pl": "Karkonoska Państwowa Szkoła Wyższa w Jeleniej Górze"
+    },
+    "https://shib.pwr.edu.pl/idp/shibboleth": {
+        "en": "Wroclaw University of Science and Technology",
+        "pl": "Politechnika Wrocławska"
+    },
+    "https://shib.umw.edu.pl/idp/shibboleth": {
+        "en": "Wroclaw Medical University",
+        "pl": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu"
+    },
+    "https://shib.upwr.edu.pl/idp/shibboleth": {
+        "en": "Wrocław University of Environmental and Life Sciences",
+        "pl": "Uniwersytet Przyrodniczy we Wrocławiu"
+    },
+    "https://shibboleth.uni.opole.pl/idp/shibboleth": {
+        "en": "Opole University",
+        "pl": "Uniwersytet Opolski"
+    },
+    "https://sso.agh.edu.pl/saml/metadata": {
+        "en": "AGH University of Science and Technology",
+        "pl": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie"
+    },
+    "https://sso.amu.edu.pl/simplesaml/saml2/idp/metadata.php": {
+        "en": "Adam Mickiewicz University",
+        "pl": "Uniwersytet im. Adama Mickiewicza w Poznaniu"
+    },
+    "https://sso.gumed.pl/saml2/idp/metadata.php": {
+        "en": "Medical University of Gdańsk",
+        "pl": "Gdański Uniwersytet Medyczny"
+    },
+    "https://sso.man.poznan.pl/idp/shibboleth": {
+        "en": "PSNC - Poznan Supercomputing and Networking Center",
+        "pl": "PCSS - Poznańskie Centrum Superkomputerowo-Sieciowe"
+    },
+    "https://sso.umk.pl/idp/shibboleth": {
+        "en": "Nicolaus Copernicus University in Torun",
+        "pl": "Uniwersytet Mikołaja Kopernika w Toruniu"
+    },
+    "https://sso.usz.edu.pl/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Szczecin",
+        "pl": "Uniwersytet Szczeciński"
+    }
+}

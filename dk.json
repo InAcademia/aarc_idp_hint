@@ -1,0 +1,259 @@
+{
+    "http://adfs.college360.dk/adfs/services/trust": {
+        "da": "College360",
+        "en": "College360"
+    },
+    "http://adfs.cphbusiness.dk/adfs/services/trust": {
+        "da": "Cphbusiness",
+        "en": "Cphbusiness"
+    },
+    "http://adfs.eaaa.dk/adfs/services/trust": {
+        "da": "Erhvervsakademi Aarhus",
+        "en": "Business Academy Aarhus"
+    },
+    "http://adfs.easv.dk/adfs/services/trust": {
+        "da": "Erhvervsakademi SydVest",
+        "en": "Business Academy SouthWest (EASV)"
+    },
+    "http://adfs.glasir.fo/adfs/services/trust": {
+        "da": "Glasir",
+        "en": "Glasir Tórshavn College"
+    },
+    "http://adfs.hrs.dk/adfs/services/trust": {
+        "da": "Hotel- og Restaurantskolen",
+        "en": "Copenhagen Hospitality College"
+    },
+    "http://adfs.kea.dk/adfs/services/trust": {
+        "da": "KEA – Københavns Erhvervsakademi",
+        "en": "Copenhagen School of Design and Technology (KEA)"
+    },
+    "http://adfs.learnmark.dk/adfs/services/trust": {
+        "da": "Learnmark Horsens",
+        "en": "Learnmark Horsens"
+    },
+    "http://adfs.marnav.dk/adfs/services/trust": {
+        "da": "Marstal Navigationsskole",
+        "en": "Marstal School of Navigation"
+    },
+    "http://adfs.musikkons.dk/adfs/services/trust": {
+        "da": "Det Jyske Musikkonservatorium",
+        "en": "Royal Academy of Music, Aarhus/Aalborg"
+    },
+    "http://adfs.setur.fo/adfs/services/trust": {
+        "da": "Fróðskaparsetur Føroya",
+        "en": "University of the Faroe Islands"
+    },
+    "http://adfs.tec.dk/adfs/services/trust": {
+        "da": "TEC",
+        "en": "TEC"
+    },
+    "http://adfs.uni.gl/adfs/services/trust": {
+        "da": "Ilisimatusarfik",
+        "en": "http://adfs.uni.gl/adfs/services/trust",
+        "gl": "Ilisimatusarfik"
+    },
+    "http://adfs.vordingborg-gym.dk/adfs/services/trust": {
+        "da": "Vordingborg Gymnasium & HF",
+        "en": "Vordingborg Gymnasium & HF"
+    },
+    "http://adfs.zbc.dk/adfs/services/trust": {
+        "da": "ZBC – Zealand Business College",
+        "en": "ZBC – Zealand Business College"
+    },
+    "http://auth.msk.dk/adfs/services/trust": {
+        "da": "Maskinmesterskolen København",
+        "en": "Copenhagen School of Marine Engineering and Technology Management"
+    },
+    "http://fg.ucsyd.dk/adfs/services/trust": {
+        "da": "UC SYD",
+        "en": "University College South Denmark"
+    },
+    "http://fs.basyd.dk/adfs/services/trust": {
+        "da": "IBA Erhvervsakademi Kolding",
+        "en": "IBA International Business Academy"
+    },
+    "http://fs.dmjx.dk/adfs/services/trust": {
+        "da": "Danmarks Medie- og Journalisthøjskole",
+        "en": "Danish School of Media and Journalism"
+    },
+    "http://fs.eamv.dk/adfs/services/trust": {
+        "da": "Erhvervsakademi MidtVest",
+        "en": "Erhvervsakademi MidtVest"
+    },
+    "http://fs.edu.simac.dk/adfs/services/trust": {
+        "da": "SIMAC",
+        "en": "SIMAC"
+    },
+    "http://fs.ibc.dk/adfs/services/trust": {
+        "da": "International Business College",
+        "en": "International Business College"
+    },
+    "http://fs.martec.dk/adfs/services/trust": {
+        "da": "MARTEC",
+        "en": "MARTEC Maritime and Polytechnic University College"
+    },
+    "http://fs.regionh.dk/adfs/services/trust": {
+        "da": "Region Hovedstaden",
+        "en": "Capital Region of Denmark"
+    },
+    "http://fs.ru.is/adfs/services/trust": {
+        "da": "Háskólinn í Reykjavík",
+        "en": "Reykjavík University"
+    },
+    "http://fs.via.dk/adfs/services/trust": {
+        "da": "VIA University College",
+        "en": "VIA University College"
+    },
+    "http://fs.zea.dk/adfs/services/trust": {
+        "da": "Zealand – Sjællands Erhvervsakademi",
+        "en": "Zealand"
+    },
+    "http://fs4.grenaa-gym.dk/adfs/services/trust": {
+        "da": "Grenaa Gymnasium",
+        "en": "Grenaa Gymnasium"
+    },
+    "http://fs4.paderup-gym.dk/adfs/services/trust": {
+        "da": "Paderup Gymnasium",
+        "en": "Paderup Gymnasium"
+    },
+    "http://fs4.sosuoj.dk/adfs/services/trust": {
+        "da": "SOSU Østjylland",
+        "en": "Basic Health Care College Eastern Jutland"
+    },
+    "http://idp.dsn.dk/adfs/services/trust": {
+        "da": "Dansk Sprognævn",
+        "en": "Danish Language Council"
+    },
+    "http://idp.fms.dk/adfs/services/trust": {
+        "da": "Fredericia Maskinmesterskole",
+        "en": "Fredericia Maskinmesterskole"
+    },
+    "http://sts.aarch.dk/adfs/services/trust": {
+        "da": "Arkitektskolen Aarhus",
+        "en": "Aarhus School of Architecture"
+    },
+    "http://sts.ait.dtu.dk/adfs/services/trust": {
+        "da": "Danmarks Tekniske Universitet",
+        "en": "Technical University of Denmark (DTU)"
+    },
+    "http://sts.kadk.dk/adfs/services/trust": {
+        "da": "Det Kongelige Akademi – Arkitektur, Design, Konservering",
+        "en": "Royal Danish Academy – Architecture, Design, Conservation"
+    },
+    "http://sts.statsbiblioteket.dk/adfs/services/trust": {
+        "da": "Statsbiblioteket – ansatte",
+        "en": "State and University Library – employees"
+    },
+    "http://wayf.regionsjaelland.dk/adfs/services/trust": {
+        "da": "Region Sjælland",
+        "en": "Region Zealand"
+    },
+    "https://adfs.smk.dk/adfs/services/trust": {
+        "da": "Statens Museum for Kunst – SMK",
+        "en": "National Gallery of Denmark – SMK"
+    },
+    "https://athome.ucl.dk/nidp/saml2/metadata": {
+        "da": "UCL Erhvervsakademi og Professionshøjskole",
+        "en": "UCL"
+    },
+    "https://auth.fak.dk/saml2/idp/metadata.php": {
+        "da": "Forsvarets Bibliotekscenter",
+        "en": "Danish Defence Library Center"
+    },
+    "https://cas.cbs.dk/saml/saml2/idp/metadata.php": {
+        "da": "Copenhagen Business School",
+        "en": "Copenhagen Business School"
+    },
+    "https://id.ku.dk/nidp/saml2/metadata": {
+        "da": "Københavns Universitet",
+        "en": "University of Copenhagen"
+    },
+    "https://idp.deic.dk": {
+        "da": "DeiC – Danish e-Infrastructure Cooperation [PILOT]",
+        "en": "DeiC – Danish e-Infrastructure Cooperation [PILOT]"
+    },
+    "https://idp.umit.dk": {
+        "da": "Uddannelsesministeriets It",
+        "en": "IT Department of the Ministry of Higher Education and Science"
+    },
+    "https://login.kp.dk/adfs/services/trust": {
+        "da": "Københavns Professionshøjskole",
+        "en": "University College Copenhagen"
+    },
+    "https://saml.signon.ruc.dk/idp": {
+        "da": "Roskilde Universitet (RUC)",
+        "en": "Roskilde University (RUC)"
+    },
+    "https://sso.sdu.dk/wayf": {
+        "da": "Syddansk Universitet",
+        "en": "University of Southern Denmark (SDU)"
+    },
+    "https://staff-idp-saml.kb.dk/saml2/idp/metadata.php": {
+        "da": "Det Kgl. Bibliotek",
+        "en": "Royal Danish Library"
+    },
+    "https://sts.pha.dk/adfs/services/trust": {
+        "da": "Professionshøjskolen Absalon",
+        "en": "Absalon University College"
+    },
+    "https://sts.windows.net/09fa5f0e-2118-4656-8529-677ed8fdbe78/": {
+        "da": "Háskóli Íslands",
+        "en": "University of Iceland"
+    },
+    "https://sts.windows.net/30be3e72-3ef8-4594-bfa3-6423b003e88c/": {
+        "da": "Det Kongelige Danske Musikkonservatorium",
+        "en": "Royal Danish Academy of Music"
+    },
+    "https://sts.windows.net/46f7cafd-ebfa-40a6-98de-bb0ab0df227a/": {
+        "da": "Energimuseet",
+        "en": "Danish Museum of Energy"
+    },
+    "https://sts.windows.net/47e8e196-114a-4de2-a58d-570138763c3e/": {
+        "da": "Designskolen Kolding",
+        "en": "Design School Kolding"
+    },
+    "https://sts.windows.net/4bda23cd-4a87-419b-a47d-7673130b2884/": {
+        "da": "Alexandra Instituttet",
+        "en": "Alexandra Institute"
+    },
+    "https://sts.windows.net/9ffd9551-461b-4f09-8b17-b822440a6649/": {
+        "da": "Kræftens Bekæmpelse",
+        "en": "Danish Cancer Society"
+    },
+    "https://sts.windows.net/d6338997-214a-4f92-ba75-0397f10a84cc/": {
+        "da": "Professionshøjskolen UCN",
+        "en": "UCN"
+    },
+    "https://sts.windows.net/d7aa303f-a31f-410a-b10f-26ee41af9e93/": {
+        "da": "Rytmisk Musikkonservatorium (RMC)",
+        "en": "Rhythmic Music Conservatory"
+    },
+    "https://wayf.aams.dk/simplesaml/saml2/idp/metadata.php": {
+        "da": "Aarhus Maskinmesterskole",
+        "en": "Aarhus School of Marine and Technical Engineering"
+    },
+    "https://wayf.aau.dk": {
+        "da": "Aalborg Universitet",
+        "en": "Aalborg University"
+    },
+    "https://wayf.au.dk": {
+        "da": "Aarhus Universitet",
+        "en": "Aarhus University"
+    },
+    "https://wayf.drcmr.dk/auth": {
+        "da": "MR-Forskningssektionen (DRCMR)",
+        "en": "Danish Research Centre for Magnetic Resonance"
+    },
+    "https://wayf.dsl.dk/saml2/idp/metadata.php": {
+        "da": "Det Danske Sprog- og Litteraturselskab",
+        "en": "Society for Danish Language and Literature"
+    },
+    "https://wayf.itu.dk/saml2/idp/metadata.php": {
+        "da": "IT-Universitetet i København",
+        "en": "IT University of Copenhagen"
+    },
+    "https://wayfeadania.itcn.dk/simplesaml/saml2/idp/metadata.php": {
+        "da": "Erhvervsakademi Dania",
+        "en": "Dania Academy"
+    }
+}

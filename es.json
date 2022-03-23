@@ -1,0 +1,533 @@
+{
+    "https://www.rediris.es/sir/anecaidp": {
+        "en": "National Agency for Quality Assessment and Accreditation of Spain",
+        "es": "Agencia Nacional de Evaluación de la Calidad y Acreditación"
+    },
+    "https://www.rediris.es/sir/bcblidp": {
+        "en": "Basque Center on Cognition, Brain and Language",
+        "es": "Basque Center on Cognition, Brain and Language"
+    },
+    "https://www.rediris.es/sir/bcmaterialsidp": {
+        "en": "Fundacon BCMaterials - Basque Center for Materials, Applicationsand Nanostructures",
+        "es": "Fundación BCMaterials - Basque Center for Materials, Applicationsand Nanostructures"
+    },
+    "https://www.rediris.es/sir/bneidp": {
+        "en": "Biblioteca Nacional de Espagna",
+        "es": "Biblioteca Nacional de España"
+    },
+    "https://www.rediris.es/sir/bscidp": {
+        "en": "Barcelona Supercomputing Center",
+        "es": "Centro Nacional de Supercoputación"
+    },
+    "https://www.rediris.es/sir/cartifidp": {
+        "en": "CARTIF Researcn Centre",
+        "es": "Centro Tecnológico CARTIF"
+    },
+    "https://www.rediris.es/sir/cbugidp": {
+        "en": "Consorcio de Bibliotecas Universitarias de Galicia",
+        "es": "Consorcio de Bibliotecas Universitarias de Galicia"
+    },
+    "https://www.rediris.es/sir/ccnidp": {
+        "en": "Centro Criptologico Nacional",
+        "es": "Centro Criptológico Nacional"
+    },
+    "https://www.rediris.es/sir/cdidp": {
+        "en": "Congreso de los Diputados",
+        "es": "Congreso de los Diputados"
+    },
+    "https://www.rediris.es/sir/cellsidp": {
+        "en": "ALBA Synchrotron Light facility",
+        "es": "Sincrotrón ALBA"
+    },
+    "https://www.rediris.es/sir/cemfiidp": {
+        "en": "Centro de Estudios Monetarios y Financieros",
+        "es": "Centro de Estudios Monetarios y Financieros"
+    },
+    "https://www.rediris.es/sir/ceniehidp": {
+        "en": "CENIEH Research Centre",
+        "es": "Centro Nacional de Investigación sobre la Evolución Humana"
+    },
+    "https://www.rediris.es/sir/cesgaidp": {
+        "en": "Centro de Supercomputacion de Galicia",
+        "es": "Centro de Supercomputacion de Galicia"
+    },
+    "https://www.rediris.es/sir/cicaidp": {
+        "en": "Centro Informático Científico de Andalucía",
+        "es": "Centro Informático Científico de Andalucía"
+    },
+    "https://www.rediris.es/sir/cicbioguneidp": {
+        "en": "CIC bioGune",
+        "es": "CIC bioGune"
+    },
+    "https://www.rediris.es/sir/cicbiomaguneidp": {
+        "en": "Centro de Investigacion Cooperativa en Biomateriales",
+        "es": "Centro de Investigación Cooperativa en Biomateriales"
+    },
+    "https://www.rediris.es/sir/ciematidp": {
+        "en": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas",
+        "es": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas"
+    },
+    "https://www.rediris.es/sir/citaidp": {
+        "en": "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
+        "es": "Centro de Investigación y Tecnología Agroalimentaria de Aragón"
+    },
+    "https://www.rediris.es/sir/clpuidp": {
+        "en": "Spanish Center for Pulsed Lasers",
+        "es": "Centro de Láseres Pulsados"
+    },
+    "https://www.rediris.es/sir/cnh2idp": {
+        "en": "Centro Nacional del Hidrogeno",
+        "es": "Centro Nacional del Hidrógeno"
+    },
+    "https://www.rediris.es/sir/cnicidp": {
+        "en": "Centro Nacional de Investigaciones Cardiovasculares",
+        "es": "Centro Nacional de Investigaciones Cardiovasculares"
+    },
+    "https://www.rediris.es/sir/cnioidp": {
+        "en": "Centro Nacional de Investigaciones Oncologicas",
+        "es": "Centro Nacional de Investigaciones Oncológicas"
+    },
+    "https://www.rediris.es/sir/crgidp": {
+        "en": "Centre for Genomic Regulation",
+        "es": "Centre for Genomic Regulation"
+    },
+    "https://www.rediris.es/sir/csicidp": {
+        "en": "CSIC - Consejo Superior de Investigaciones Cientificas",
+        "es": "CSIC - Consejo Superior de Investigaciones Cientificas"
+    },
+    "https://www.rediris.es/sir/csucidp": {
+        "ca": "Consorci de Serveis Universitaris de Catalunya",
+        "en": "Consorcio de Servicios Universitarios de Catalunya"
+    },
+    "https://www.rediris.es/sir/cttcidp": {
+        "ca": "Centre Tecnològic de Telecomunicacions de Catalunya",
+        "en": "Centre Tecnologic de Telecomunicacions de Catalunya"
+    },
+    "https://www.rediris.es/sir/cunefidp": {
+        "en": "Colegio Universitario de Estudios Financieros",
+        "es": "Colegio Universitario de Estudios Financieros"
+    },
+    "https://www.rediris.es/sir/demoidp": {
+        "en": "Entorno de Demo IdPnube"
+    },
+    "https://www.rediris.es/sir/deustoidp": {
+        "en": "Universidad de Deusto",
+        "eu": "Universidad de Deusto"
+    },
+    "https://www.rediris.es/sir/dipcidp": {
+        "en": "Donostia International Physics Center",
+        "es": "Donostia International Physics Center"
+    },
+    "https://www.rediris.es/sir/educacionidp": {
+        "en": "Ministerio de Educacion y Formacion Profesional",
+        "es": "Ministerio de Educación y Formación Profesional"
+    },
+    "https://www.rediris.es/sir/edunavidp": {
+        "en": "Educación de Navarra",
+        "eu": "Educación de Navarra"
+    },
+    "https://www.rediris.es/sir/ehuidp": {
+        "en": "University of the Basque Country",
+        "es": "Universidad del País Vasco"
+    },
+    "https://www.rediris.es/sir/esadeidp": {
+        "en": "Escuela Superior de Administración y Dirección de Empresas",
+        "es": "Escuela Superior de Administración y Dirección de Empresas"
+    },
+    "https://www.rediris.es/sir/esicidp": {
+        "en": "ESIC Business and Marketing School",
+        "es": "ESIC Business and Marketing School"
+    },
+    "https://www.rediris.es/sir/essidp": {
+        "en": "E.S.S. Bilbao",
+        "eu": "E.S.S. Bilbao"
+    },
+    "https://www.rediris.es/sir/eussidp": {
+        "en": "Escola Universitaria Salesiana de Sarria",
+        "es": "Escola Universitària Salesiana de Sarrià"
+    },
+    "https://www.rediris.es/sir/fcsclidp": {
+        "en": "SCAYLE: Supercomputación Castilla y León",
+        "es": "SCAYLE: Supercomputación Castilla y León"
+    },
+    "https://www.rediris.es/sir/friatidp": {
+        "en": "Fundacion Renal Inigo Alvarez de Toledo",
+        "es": "Fundación Renal Iñigo Álvarez de Toledo"
+    },
+    "https://www.rediris.es/sir/funepidp": {
+        "en": "Fundacion SEPI",
+        "es": "Fundación SEPI"
+    },
+    "https://www.rediris.es/sir/gtcidp": {
+        "en": "Gran Telescopio de Canarias",
+        "es": "Gran Telescopio de Canarias"
+    },
+    "https://www.rediris.es/sir/i2basqueidp": {
+        "en": "i2basque",
+        "eu": "i2basque"
+    },
+    "https://www.rediris.es/sir/i2catidp": {
+        "ca": "Fundació i2CAT, Internet i Innovació Digital a Catalunya",
+        "en": "Fundació i2CAT, Internet i Innovació Digital a Catalunya"
+    },
+    "https://www.rediris.es/sir/iacidp": {
+        "en": "IAC - Instituto Astrofí­sico de Canarias",
+        "es": "IAC - Instituto Astrofí­sico de Canarias"
+    },
+    "https://www.rediris.es/sir/icfoidp": {
+        "en": "ICFO – The Institute of Photonic Sciences",
+        "es": "ICFO – The Institute of Photonic Sciences"
+    },
+    "https://www.rediris.es/sir/ieecidp": {
+        "ca": "Institut d'Estudis Espacials de Catalunya",
+        "en": "Institut d'Estudis Espacials de Catalunya"
+    },
+    "https://www.rediris.es/sir/ieuidp": {
+        "en": "IE University",
+        "es": "IE University"
+    },
+    "https://www.rediris.es/sir/ifaeidp": {
+        "en": "Institute for High Energy Physics",
+        "es": "Instituto de Fisica de Altas Energias"
+    },
+    "https://www.rediris.es/sir/imdeamaterialesidp": {
+        "en": "Instituto IMDEA Materiales",
+        "es": "Instituto IMDEA Materiales"
+    },
+    "https://www.rediris.es/sir/imdeanetworkidp": {
+        "en": "IMDEA Network",
+        "es": "IMDEA Network"
+    },
+    "https://www.rediris.es/sir/iniaidp": {
+        "en": "Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria",
+        "es": "Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria"
+    },
+    "https://www.rediris.es/sir/intaidp": {
+        "en": "Instituto Nacional de Tecnica Aeroespacial",
+        "es": "Instituto Nacional de Técnica Aeroespacial"
+    },
+    "https://www.rediris.es/sir/iramidp": {
+        "en": "IRAM - Institut de Radioastronomie Millimétrique",
+        "es": "IRAM - Instituto de Radioastronomía Milimétrica"
+    },
+    "https://www.rediris.es/sir/irtaidp": {
+        "ca": "Instituto de Investigacion y Tecnologia Agroalimentarias",
+        "en": "Instituto de Investigacion y Tecnologia Agroalimentarias"
+    },
+    "https://www.rediris.es/sir/isciiiidp": {
+        "en": "Instituto de Salud Carlos III",
+        "es": "Instituto de Salud Carlos III"
+    },
+    "https://www.rediris.es/sir/itacylidp": {
+        "en": "Instituto Tecnológico Agrario de Castilla y León",
+        "es": "Instituto Tecnológico Agrario de Castilla y León"
+    },
+    "https://www.rediris.es/sir/ivieidp": {
+        "en": "Instituto Valenciano de Investigaciones Economicas",
+        "es": "Instituto Valenciano de Investigaciones Económicas"
+    },
+    "https://www.rediris.es/sir/muniidp": {
+        "en": "Mondragon Unibertsitatea",
+        "eu": "Mondragon Unibertsitatea"
+    },
+    "https://www.rediris.es/sir/musikeneidp": {
+        "en": "Musikene",
+        "eu": "Musikene"
+    },
+    "https://www.rediris.es/sir/nebrijaidp": {
+        "en": "Universidad Nebrija",
+        "es": "Universidad Nebrija"
+    },
+    "https://www.rediris.es/sir/oanyidp": {
+        "en": "Observatorio de Yebes",
+        "es": "Observatorio de Yebes"
+    },
+    "https://www.rediris.es/sir/picidp": {
+        "ca": "Port d'Informació Científica",
+        "en": "Port d'Informació Científica"
+    },
+    "https://www.rediris.es/sir/plocanidp": {
+        "en": "Plataforma Oceanica de Canarias",
+        "es": "Plataforma Oceánica de Canarias"
+    },
+    "https://www.rediris.es/sir/raeidp": {
+        "en": "RAE - Real Academia Española",
+        "es": "RAE - Real Academia Española"
+    },
+    "https://www.rediris.es/sir/redirisidp": {
+        "en": "RedIRIS - Spanish Research and Academic Network",
+        "es": "RedIRIS - Red académica y de investigación española"
+    },
+    "https://www.rediris.es/sir/socibidp": {
+        "ca": "Consorcio para el disenyo, construccion y explotacion del Sistemade Observacion Costero de las Illes Balears",
+        "en": "Consorcio para el disenyo, construccion y explotacion del Sistemade Observacion Costero de las Illes Balears"
+    },
+    "https://www.rediris.es/sir/uabidp": {
+        "en": "Universitat Autónoma de Barcelona",
+        "es": "Universitat Autónoma de Barcelona"
+    },
+    "https://www.rediris.es/sir/uahidp": {
+        "en": "Universidad de Alcalá de Henares",
+        "es": "Universidad de Alcalá de Henares"
+    },
+    "https://www.rediris.es/sir/uaidp": {
+        "ca": "Universidad de Alicante",
+        "en": "Universidad de Alicante"
+    },
+    "https://www.rediris.es/sir/ualidp": {
+        "en": "University of Almeria",
+        "es": "Universidad de Almería"
+    },
+    "https://www.rediris.es/sir/uamidp": {
+        "en": "Universidad Autónoma de Madrid",
+        "es": "Universidad Autónoma de Madrid"
+    },
+    "https://www.rediris.es/sir/uaoceuidp": {
+        "ca": "Universitat Abat Oliba CEU",
+        "en": "Universitat Abat Oliba CEU"
+    },
+    "https://www.rediris.es/sir/uaxidp": {
+        "en": "Universidad Alfonso X El Sabio",
+        "es": "Universidad Alfonso X El Sabio"
+    },
+    "https://www.rediris.es/sir/ubidp": {
+        "en": "Universitat de Barcelona",
+        "es": "Universitat de Barcelona"
+    },
+    "https://www.rediris.es/sir/ubuidp": {
+        "en": "University of Burgos",
+        "es": "Universidad de Burgos"
+    },
+    "https://www.rediris.es/sir/uc3midp": {
+        "en": "University Carlos III of Madrid",
+        "es": "Universidad Carlos III de Madrid"
+    },
+    "https://www.rediris.es/sir/ucaidp": {
+        "en": "Universidad de Cádiz",
+        "es": "Universidad de Cádiz"
+    },
+    "https://www.rediris.es/sir/ucamidp": {
+        "en": "Universidad Catolica San Antonio de Murcia",
+        "es": "Universidad Católica San Antonio de Murcia"
+    },
+    "https://www.rediris.es/sir/ucavilaidp": {
+        "en": "Universidad Catolica de Avila",
+        "es": "Universidad Católica de Ávila"
+    },
+    "https://www.rediris.es/sir/uchceuidp": {
+        "en": "Universidad CEU Cardenal Herrera",
+        "es": "Universidad CEU Cardenal Herrera"
+    },
+    "https://www.rediris.es/sir/ucjcidp": {
+        "en": "Universidad Camilo Jose Cela",
+        "es": "Universidad Camilo José Cela"
+    },
+    "https://www.rediris.es/sir/uclmidp": {
+        "en": "Universidad de Castilla-La Mancha",
+        "es": "Universidad de Castilla-La Mancha"
+    },
+    "https://www.rediris.es/sir/ucmidp": {
+        "en": "Complutense University of Madrid",
+        "es": "Universidad Complutense de Madrid"
+    },
+    "https://www.rediris.es/sir/ucoidp": {
+        "en": "Universidad de Córdoba",
+        "es": "Universidad de Córdoba"
+    },
+    "https://www.rediris.es/sir/ucvidp": {
+        "en": "Universidad Catolica de Valencia",
+        "es": "Universidad Católica de Valencia"
+    },
+    "https://www.rediris.es/sir/udcidp": {
+        "en": "Universidade da Coruña",
+        "es": "Universidade da Coruña"
+    },
+    "https://www.rediris.es/sir/udgidp": {
+        "ca": "Universitat de Girona",
+        "en": "Universitat de Girona"
+    },
+    "https://www.rediris.es/sir/udimaidp": {
+        "en": "Universidad a Distancia de Madrid",
+        "es": "Universidad a Distancia de Madrid"
+    },
+    "https://www.rediris.es/sir/udlidp": {
+        "ca": "Universitat de Lleida",
+        "en": "Universitat de Lleida"
+    },
+    "https://www.rediris.es/sir/uemcidp": {
+        "en": "Universidad Europea Miguel de Cervantes",
+        "es": "Universidad Europea Miguel de Cervantes"
+    },
+    "https://www.rediris.es/sir/ugridp": {
+        "en": "Universidad de Granada",
+        "es": "Universidad de Granada"
+    },
+    "https://www.rediris.es/sir/uhuidp": {
+        "en": "Universidad de Huelva",
+        "es": "Universidad de Huelva"
+    },
+    "https://www.rediris.es/sir/uibidp": {
+        "en": "Universitat de les Illes Balears",
+        "es": "Universitat de les Illes Balears"
+    },
+    "https://www.rediris.es/sir/uicidp": {
+        "ca": "Universidad Internacional de Cataluña",
+        "en": "Universidad Internacional de Catalunya"
+    },
+    "https://www.rediris.es/sir/ujaenidp": {
+        "en": "Universidad de Jaén",
+        "es": "Universidad de Jaén"
+    },
+    "https://www.rediris.es/sir/ujiidp": {
+        "ca": "Universitat Jaume I",
+        "en": "Universitat Jaume I"
+    },
+    "https://www.rediris.es/sir/ullidp": {
+        "en": "Universidad de la Laguna",
+        "es": "Universidad de la Laguna"
+    },
+    "https://www.rediris.es/sir/uloyolaidp": {
+        "en": "Universidad Loyola de Andalucí­a",
+        "es": "Universidad Loyola de Andalucí­a"
+    },
+    "https://www.rediris.es/sir/ulpgcidp": {
+        "en": "Universidad de Las Palmas de Gran Canaria",
+        "es": "Universidad de Las Palmas de Gran Canaria"
+    },
+    "https://www.rediris.es/sir/umaidp": {
+        "en": "University of Malaga",
+        "es": "Universidad de Málaga"
+    },
+    "https://www.rediris.es/sir/umhidp": {
+        "ca": "Universidad Miguel Hernández de Elche",
+        "en": "Universidad Miguel Hernández de Elche"
+    },
+    "https://www.rediris.es/sir/umidp": {
+        "en": "UM - University of Murcia",
+        "es": "UM - Universidad de Murcia"
+    },
+    "https://www.rediris.es/sir/unavidp": {
+        "en": "Universidad de Navarra",
+        "es": "Universidad de Navarra"
+    },
+    "https://www.rediris.es/sir/unedidp": {
+        "en": "National Distance Education University",
+        "es": "Universidad Nacional de Educación a Distancia"
+    },
+    "https://www.rediris.es/sir/uniaidp": {
+        "en": "Universidad Internacional de Andalucia",
+        "es": "Universidad Internacional de Andalucia"
+    },
+    "https://www.rediris.es/sir/unicanidp": {
+        "en": "University of Cantabria",
+        "es": "Universidad de Cantabria"
+    },
+    "https://www.rediris.es/sir/unileonidp": {
+        "en": "Universidad de León",
+        "es": "Universidad de León"
+    },
+    "https://www.rediris.es/sir/unioviidp": {
+        "en": "University of Oviedo",
+        "es": "Universidad de Oviedo"
+    },
+    "https://www.rediris.es/sir/uniridp": {
+        "en": "International University of La Rioja",
+        "es": "Universidad Internacional de La Rioja"
+    },
+    "https://www.rediris.es/sir/uniriojaidp": {
+        "en": "Universidad de la Rioja",
+        "es": "Universidad de la Rioja"
+    },
+    "https://www.rediris.es/sir/unizaridp": {
+        "en": "University of Zaragoza",
+        "es": "Universidad de Zaragoza"
+    },
+    "https://www.rediris.es/sir/uocidp": {
+        "en": "Universitat Oberta de Catalunya",
+        "es": "Universitat Oberta de Catalunya"
+    },
+    "https://www.rediris.es/sir/upcidp": {
+        "en": "Universitat Politecnica de Catalunya",
+        "es": "Universitat Politecnica de Catalunya"
+    },
+    "https://www.rediris.es/sir/upcomillasidp": {
+        "en": "Universidad Pontificia Comillas",
+        "es": "Universidad Pontificia Comillas"
+    },
+    "https://www.rediris.es/sir/upctidp": {
+        "en": "Universidad Politecnica de Cartagena",
+        "es": "Universidad Politécnica de Cartagena"
+    },
+    "https://www.rediris.es/sir/upfidp": {
+        "ca": "Universitat Pompeu Fabra",
+        "en": "Universitat Pompeu Fabra"
+    },
+    "https://www.rediris.es/sir/upmidp": {
+        "en": "Universidad Politécnica de Madrid",
+        "es": "Universidad Politécnica de Madrid"
+    },
+    "https://www.rediris.es/sir/upnaidp": {
+        "en": "Public University of Navarra",
+        "es": "Universidad Pública de Navarra"
+    },
+    "https://www.rediris.es/sir/upoidp": {
+        "en": "Universidad Pablo de Olavide",
+        "es": "Universidad Pablo de Olavide"
+    },
+    "https://www.rediris.es/sir/upvidp": {
+        "en": "UPV - Universitat Politècnica de València",
+        "es": "UPV - Universitat Politècnica de València"
+    },
+    "https://www.rediris.es/sir/urjcidp": {
+        "en": "Universidad Rey Juan Carlos",
+        "es": "Universidad Rey Juan Carlos"
+    },
+    "https://www.rediris.es/sir/urlidp": {
+        "en": "Universitat Ramon Llull",
+        "es": "Universidad Ramon Llull"
+    },
+    "https://www.rediris.es/sir/urvidp": {
+        "en": "Rovira i Virgili University",
+        "es": "Universidad Rovira i Virgili"
+    },
+    "https://www.rediris.es/sir/usalidp": {
+        "en": "Universidad de Salamanca",
+        "es": "Universidad de Salamanca"
+    },
+    "https://www.rediris.es/sir/uscidp": {
+        "en": "Universidade de Santiago de Compostela",
+        "es": "Universidade de Santiago de Compostela"
+    },
+    "https://www.rediris.es/sir/usidp": {
+        "en": "Universidad de Sevilla",
+        "es": "Universidad de Sevilla"
+    },
+    "https://www.rediris.es/sir/usjidp": {
+        "en": "Universidad San Jorge",
+        "es": "Universidad San Jorge"
+    },
+    "https://www.rediris.es/sir/uspceuidp": {
+        "en": "Universidad CEU San Pablo",
+        "es": "Universidad CEU San Pablo"
+    },
+    "https://www.rediris.es/sir/uvaidp": {
+        "en": "Universidad de Valladolid",
+        "es": "Universidad de Valladolid"
+    },
+    "https://www.rediris.es/sir/uvicidp": {
+        "en": "Universitat de Vic - Universitat Central de Catalunya",
+        "es": "Universitat de Vic - Universitat Central de Catalunya"
+    },
+    "https://www.rediris.es/sir/uvidp": {
+        "en": "Universitat de Valencia",
+        "es": "Universitat de Valencia"
+    },
+    "https://www.rediris.es/sir/uvigoidp": {
+        "en": "Universidade de Vigo",
+        "es": "Universidade de Vigo"
+    },
+    "https://www.rediris.es/sir/zlcidp": {
+        "en": "Zaragoza Logistics Center",
+        "es": "Zaragoza Logistics Center"
+    }
+}

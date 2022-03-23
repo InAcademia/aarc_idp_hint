@@ -1,0 +1,92 @@
+{
+    "http://ADFS.KAAUH.EDU.SA/adfs/services/trust": {
+        "en": "King Abdullah bin Abdulaziz University Hospital"
+    },
+    "http://ADFS.kfu.edu.sa/adfs/services/trust": {
+        "en": "King Faisal University"
+    },
+    "http://ADFS.qu.edu.sa/adfs/services/trust": {
+        "en": "Qassim University"
+    },
+    "http://Adfs.tu.edu.sa/adfs/services/trust": {
+        "en": "Taif University"
+    },
+    "http://SSO.ksu.edu.sa/adfs/services/trust": {
+        "en": "King Saud University"
+    },
+    "http://adfs.bu.edu.sa/adfs/services/trust": {
+        "en": "Albaha University"
+    },
+    "http://adfs.dah.edu.sa/adfs/services/trust": {
+        "en": "Dar Al-Hekma University"
+    },
+    "http://adfs.jazanu.edu.sa/adfs/services/trust": {
+        "en": "Jazan University"
+    },
+    "http://adfs.kfmc.med.sa/adfs/services/trust": {
+        "en": "King Fahad Medical City"
+    },
+    "http://adfs.nauss.edu.sa/adfs/services/trust": {
+        "en": "Naif Arab University for Security Sciences"
+    },
+    "http://adfs.psu.edu.sa/adfs/services/trust": {
+        "en": "Prince Sultan University"
+    },
+    "http://adfs.sfda.gov.sa/adfs/services/trust": {
+        "en": "Saudi Food and Drug Authority"
+    },
+    "http://cloud.imamu.edu.sa/adfs/services/trust": {
+        "en": "Imam Mohammad Ibn Saud Islamic University - Cloud"
+    },
+    "http://eisadfs.seu.edu.sa/adfs/services/trust": {
+        "en": "Saudi Electronic University"
+    },
+    "http://fs.kacst.edu.sa/adfs/services/trust": {
+        "en": "King Abdulaziz City for Science and Technology (KACST)"
+    },
+    "http://fs.ut.edu.sa/adfs/services/trust": {
+        "en": "University of Tabuk"
+    },
+    "http://idm.sr.edu.sa/adfs/services/trust": {
+        "en": "Sulaiman Alrajhi University"
+    },
+    "http://services.uom.edu.sa/adfs/services/trust": {
+        "en": "Mustaqbal University"
+    },
+    "http://sm.imamu.edu.sa/adfs/services/trust": {
+        "en": "Imam Mohammad Ibn Saud Islamic University - SM"
+    },
+    "http://sso.effatuniversity.edu.sa/adfs/services/trust": {
+        "en": "Effat University"
+    },
+    "http://sts.nbu.edu.sa/adfs/services/trust": {
+        "en": "Northern Border University (NBU)"
+    },
+    "http://sts.nu.edu.sa/adfs/services/trust": {
+        "en": "Najran University"
+    },
+    "http://sts1.ksau-hs.edu.sa/adfs/services/trust": {
+        "en": "King Saud Bin Abdulaziz University for Health Sciences"
+    },
+    "http://uohsts.uoh.edu.sa/adfs/services/trust": {
+        "en": "University Of Hail"
+    },
+    "https://aai.lab.maeen.sa/idp/shibboleth": {
+        "en": "aai.lab.maeen.sa"
+    },
+    "https://idp.maeen.sa/idp/shibboleth": {
+        "en": "Maeen IdP"
+    },
+    "https://idp.riyadh.edu.sa/simplesaml": {
+        "en": "Riyadh Elm University"
+    },
+    "https://login.psau.edu.sa/idp": {
+        "en": "Prince Sattam bin Abdulaziz University"
+    },
+    "https://mysso.kku.edu.sa/idp": {
+        "en": "King Khalid University"
+    },
+    "https://udsts.ud.edu.sa/adfs/services/trust": {
+        "en": "Imam Abdulrahman Bin Faisal University"
+    }
+}

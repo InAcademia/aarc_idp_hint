@@ -1,0 +1,33 @@
+{
+    "https://idp.bfu.bg/idp/saml2/idp/metadata.php": {
+        "bg": "Бургаски свободен университет",
+        "en": "Burgas Free University"
+    },
+    "https://idp.naval-acad.bg/idp/shibboleth": {
+        "bg": "Висше военноморско училище \"Н. Й. Вапцаров\"",
+        "en": "Nikola Vaptsarov Naval Academy"
+    },
+    "https://idp.nbu.bg/idp/shibboleth": {
+        "bg": "Нов български университет",
+        "en": "New Bulgarian University"
+    },
+    "https://idp.tu-sofia.bg/idp/shibboleth": {
+        "bg": "Технически Университет - София",
+        "en": "Technical University of Sofia"
+    },
+    "https://idp.uctm.edu/idp/saml2/idp/metadata.php": {
+        "bg": "Химикотехнологичен и металургичен университет (ХТМУ)",
+        "en": "University of Chemical Technology and Metallurgy (UCTM)"
+    },
+    "https://idp.uni-ruse.bg/idp/shibboleth": {
+        "bg": "Русенски университет Ангел Кънчев",
+        "en": "Angel Kunchev University of Ruse"
+    },
+    "https://sso.uni-sofia.bg/idp/shibboleth": {
+        "en": "Sofia University \"St. Kliment Ohridski\""
+    },
+    "https://vnshibo.vfu.bg/idp/shibboleth": {
+        "bg": "Варненски свободен университет Черноризец Храбър",
+        "en": "Varna Free University Chernorizets Hrabar"
+    }
+}

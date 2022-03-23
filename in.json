@@ -1,0 +1,437 @@
+{
+    "https://dl.crescent.education/idp/shibboleth": {
+        "en": "B.S.Abdur Rahman Crescent Institute of Science and Technology"
+    },
+    "https://dl.tumkuruniversity.ac.in/idp/shibboleth": {
+        "en": "Tumkur University"
+    },
+    "https://elms.cuh.ac.in/idp/shibboleth": {
+        "en": "Central University of Haryana"
+    },
+    "https://eresource.nirmauni.ac.in/idp/shibboleth": {
+        "en": "Nirma University"
+    },
+    "https://id.sbvu.ac.in/idp/shibboleth": {
+        "en": "Sri Balaji Vidyapeeth"
+    },
+    "https://idb.bbau.ac.in/idp/shibboleth": {
+        "en": "Babasaheb Bhimrao Ambedkar University"
+    },
+    "https://identity.iith.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Technology Hyderabad (IITH)"
+    },
+    "https://idp.aiktclibrary.org/idp/shibboleth": {
+        "en": "Anjuman-I-Islams Kalsekar Technical Campus"
+    },
+    "https://idp.alagappauniversity.ac.in/idp/shibboleth": {
+        "en": "Alagappa University, Tamil Nadu"
+    },
+    "https://idp.allduniv.ac.in/idp/shibboleth": {
+        "en": "University of Allahabad"
+    },
+    "https://idp.alliance.edu.in/idp/shibboleth": {
+        "en": "Alliance University"
+    },
+    "https://idp.ametuniv.ac.in/idp/shibboleth": {
+        "en": "AMET University"
+    },
+    "https://idp.annauniv.edu/idp/shibboleth": {
+        "en": "Anna University"
+    },
+    "https://idp.aud.ac.in/idp/shibboleth": {
+        "en": "Ambedkar University Delhi"
+    },
+    "https://idp.aus.ac.in/idp/shibboleth": {
+        "en": "Assam University, Silchar"
+    },
+    "https://idp.avinuty.ac.in/idp/shibboleth": {
+        "en": "Avinashilingam University, Tamil Nadu"
+    },
+    "https://idp.bdu.ac.in/idp/shibboleth": {
+        "en": "Bharathidasan University"
+    },
+    "https://idp.bhu.edu.in/idp/shibboleth": {
+        "en": "Banaras Hindu University"
+    },
+    "https://idp.bits-goa.ac.in/idp/shibboleth": {
+        "en": "BITS Pilani, Goa Campus"
+    },
+    "https://idp.bits-hyderabad.ac.in/idp/shibboleth": {
+        "en": "Birla Institute of Technology and Science, Pilani  Hyderabad"
+    },
+    "https://idp.bmu.edu.in/idp/shibboleth": {
+        "en": "BML Munjal University"
+    },
+    "https://idp.bvmengineering.ac.in/idp/shibboleth": {
+        "en": "Birla Vishvakarma Mahavidyalaya (BVM) Engineering College"
+    },
+    "https://idp.bvuict.in/idp/shibboleth": {
+        "en": "Bharati Vidyapeeth University,Pune"
+    },
+    "https://idp.cept.ac.in/idp/shibboleth": {
+        "en": "CEPT University"
+    },
+    "https://idp.cit.edu.in/idp/shibboleth": {
+        "en": "Coimbatore Institute of Technology"
+    },
+    "https://idp.cujammu.ac.in/idp/shibboleth": {
+        "en": "Central University of Jammu"
+    },
+    "https://idp.cukerala.ac.in/idp/shibboleth": {
+        "en": "central university of kerala"
+    },
+    "https://idp.cumminscollege.org/idp/shibboleth": {
+        "en": "MKSSS's Cummins College of Engineering For Women, Pune"
+    },
+    "https://idp.cuo.ac.in/idp/shibboleth": {
+        "en": "Central University of Odisha"
+    },
+    "https://idp.cup.edu.in/idp/shibboleth": {
+        "en": "Central University of Punjab"
+    },
+    "https://idp.cus.ac.in/idp/shibboleth": {
+        "en": "Sikkim University"
+    },
+    "https://idp.cusat.ac.in/idp/shibboleth": {
+        "en": "Cochin University of Science and Technolgy - CUSAT"
+    },
+    "https://idp.cusb.ac.in/idp/shibboleth": {
+        "en": "Central University of South Bihar"
+    },
+    "https://idp.cutn.ac.in/idp/shibboleth": {
+        "en": "Central University of Tamilnadu"
+    },
+    "https://idp.dhsgsu.edu.in/idp/shibboleth": {
+        "en": "Dr. Harisingh Gour Vishwavidyalaya"
+    },
+    "https://idp.du.ac.in/idp/shibboleth": {
+        "en": "University of Delhi"
+    },
+    "https://idp.gbu.ac.in/idp/shibboleth": {
+        "en": "Gautam Buddha University (Delhi NCR)"
+    },
+    "https://idp.guglibrary.net/idp/shibboleth": {
+        "en": "Gulbarga University"
+    },
+    "https://idp.ignou.ac.in/idp/shibboleth": {
+        "en": "Indira Gandhi National Open University (IGNOU)"
+    },
+    "https://idp.iiitb.ac.in/idp/shibboleth": {
+        "en": "International Institute of Information Technology Bangalore"
+    },
+    "https://idp.iiitd.edu.in/idp/shibboleth": {
+        "en": "Indraprastha Institute of Information Technology Delhi (IIIT-Delhi)"
+    },
+    "https://idp.iiitdmj.ac.in/idp/shibboleth": {
+        "en": "IIITDM Jabalpur"
+    },
+    "https://idp.iiitn.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Information Technology, Nagpur"
+    },
+    "https://idp.iima.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Management, Ahmedabad"
+    },
+    "https://idp.iimsirmaur.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Management Sirmaur"
+    },
+    "https://idp.iipe.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Petroleum and Energy (IIPE)"
+    },
+    "https://idp.iiserbpr.ac.in/idp/shibboleth": {
+        "en": "IISER Berhampur"
+    },
+    "https://idp.iitbbs.ac.in/idp/shibboleth": {
+        "en": "IIT Bhubaneswar"
+    },
+    "https://idp.iitbhilai.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Technology Bhilai"
+    },
+    "https://idp.iitd.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Technology Delhi"
+    },
+    "https://idp.iitgoa.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Technology, Goa"
+    },
+    "https://idp.iitism.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Technology (ISM) Dhanbad"
+    },
+    "https://idp.iitjammu.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Technology Jammu"
+    },
+    "https://idp.iitm.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Technology Madras"
+    },
+    "https://idp.iitpkd.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Technology Palakkad"
+    },
+    "https://idp.iitram.ac.in/idp/shibboleth": {
+        "en": "Institute of Infrastructure Technology Research and Management"
+    },
+    "https://idp.indiraedu.com/idp/shibboleth": {
+        "en": "Indira Group Of Institute, Pune"
+    },
+    "https://idp.inflibnet.ac.in/idp/shibboleth": {
+        "en": "INFLIBNET Staff [Parichay Identity Service]"
+    },
+    "https://idp.irma.ac.in/idp/shibboleth": {
+        "en": "Institute of Rural Management Anand"
+    },
+    "https://idp.isec.ac.in/idp/shibboleth": {
+        "en": "Institute for Social and Economic Change"
+    },
+    "https://idp.iucaa.in/idp/shibboleth": {
+        "en": "Inter-University Centre for Astronomy and Astrophysics"
+    },
+    "https://idp.jaipur.manipal.edu/idp/shibboleth": {
+        "en": "Manipal University Jaipur"
+    },
+    "https://idp.jgu.edu.in/idp/shibboleth": {
+        "en": "O.P. Jindal Global University"
+    },
+    "https://idp.jit.ac.in/idp/shibboleth": {
+        "en": "Jansons Institute of Technology, Coimbatore"
+    },
+    "https://idp.jklu.edu.in/idp/shibboleth": {
+        "en": "JK Lakshmipat University"
+    },
+    "https://idp.jssuni.edu.in/idp/shibboleth": {
+        "en": "JSS Academy of Higher Education and Research"
+    },
+    "https://idp.kalasalingam.ac.in/idp/shibboleth": {
+        "en": "Kalasalingam Academy of Research and Education"
+    },
+    "https://idp.karunya.edu/idp/shibboleth": {
+        "en": "Karunya Institute of Technology and Sciences (Deemed University)"
+    },
+    "https://idp.kct.ac.in/idp/shibboleth": {
+        "en": "Kumaraguru College of Technology"
+    },
+    "https://idp.keralauniversity.ac.in/idp/shibboleth": {
+        "en": "University of Kerala"
+    },
+    "https://idp.kongu.edu/idp/shibboleth": {
+        "en": "Kongu Engineering College"
+    },
+    "https://idp.kuk.ac.in/idp/shibboleth": {
+        "en": "Kurukshetra University"
+    },
+    "https://idp.ligo-india.in/idp/shibboleth": {
+        "en": "LIGO-India Scientific Collaboration"
+    },
+    "https://idp.lnmiit.ac.in/idp/shibboleth": {
+        "en": "The LNM Institute of Information Technology"
+    },
+    "https://idp.mahindrauniversity.edu.in/idp/shibboleth": {
+        "en": "Mahindra University"
+    },
+    "https://idp.manipuruniv.ac.in/idp/shibboleth": {
+        "en": "Manipur University"
+    },
+    "https://idp.mgu.ac.in/idp/shibboleth": {
+        "en": "Mahatma Gandhi University, Kerala"
+    },
+    "https://idp.mkuniversity.org/idp/shibboleth": {
+        "en": "Madurai Kamaraj University"
+    },
+    "https://idp.mnnit.ac.in/idp/shibboleth": {
+        "en": "Motilal Nehru National Institute of Technology, Allahabad"
+    },
+    "https://idp.nagalanduniversity.ac.in/idp/shibboleth": {
+        "en": "Nagaland University"
+    },
+    "https://idp.nec.edu.in/idp/shibboleth": {
+        "en": "National Engineering College"
+    },
+    "https://idp.nid.edu/idp/shibboleth": {
+        "en": "National Institute of Design"
+    },
+    "https://idp.nift.ac.in/idp/shibboleth": {
+        "en": "National Institute Of Fashion Technology"
+    },
+    "https://idp.niituniversity.in/idp/shibboleth": {
+        "en": "NIIT University"
+    },
+    "https://idp.nitdelhi.ac.in/idp/shibboleth": {
+        "en": "National Institute of Technology Delhi"
+    },
+    "https://idp.nitdgp.ac.in/idp/shibboleth": {
+        "en": "National Institute of Technology Durgapur"
+    },
+    "https://idp.nitgoa.ac.in/idp/shibboleth": {
+        "en": "National Institute of Technology Goa"
+    },
+    "https://idp.nith.ac.in/idp/shibboleth": {
+        "en": "National Institute of Technology, Hamirpur"
+    },
+    "https://idp.nitj.ac.in/idp/shibboleth": {
+        "en": "Dr B R Ambedkar National Institute of Technology Jalandhar"
+    },
+    "https://idp.nitrkl.ac.in/idp/shibboleth": {
+        "en": "National Institute of Technology, Rourkela"
+    },
+    "https://idp.nitt.edu/idp/shibboleth": {
+        "en": "National Institute of Technology Tiruchirappalli"
+    },
+    "https://idp.nitttrchd.ac.in/idp/shibboleth": {
+        "en": "NITTTR Chandigarh"
+    },
+    "https://idp.nluo.ac.in/idp/shibboleth": {
+        "en": "National Law University Odisha"
+    },
+    "https://idp.pes.edu/idp/shibboleth": {
+        "en": "PES University"
+    },
+    "https://idp.pmulibrary.org/idp/shibboleth": {
+        "en": "Periyar Maniammai Institute of Science and Technology"
+    },
+    "https://idp.psgitech.ac.in/idp/shibboleth": {
+        "en": "PSG Institute of Technology and Applied Research (PSG iTech)"
+    },
+    "https://idp.psgtech.ac.in/idp/shibboleth": {
+        "en": "PSG College Of Technology"
+    },
+    "https://idp.rcb.ac.in/idp/shibboleth": {
+        "en": "Regional Centre for Biotechnology"
+    },
+    "https://idp.ruralunivlibrary.ac.in/idp/shibboleth": {
+        "en": "Gandhigram Rural Institute, Tamil Nadu"
+    },
+    "https://idp.satiengg.in/idp/shibboleth": {
+        "en": "Samrat Ashok Technological Institute"
+    },
+    "https://idp.sau.int/idp/shibboleth": {
+        "en": "SAU Identity Service"
+    },
+    "https://idp.sjec.ac.in/idp/shibboleth": {
+        "en": "St Joseph Engineering College, Mangalore"
+    },
+    "https://idp.skcet.ac.in/idp/shibboleth": {
+        "en": "Sri Krishna College of Engineering and Technology"
+    },
+    "https://idp.sliet.ac.in/idp/shibboleth": {
+        "en": "Sant Longowal Institute of Engineering and Technology"
+    },
+    "https://idp.snu.edu.in/idp/shibboleth": {
+        "en": "Shiv Nadar University"
+    },
+    "https://idp.spav.ac.in/idp/shibboleth": {
+        "en": "School of Planning and Architecture, Vijayawada"
+    },
+    "https://idp.srec.ac.in/idp/shibboleth": {
+        "en": "Sri Ramakrishna Engineering College"
+    },
+    "https://idp.sriet.ac.in/idp/shibboleth": {
+        "en": "Sri Ranganathar Institute of Engineering and Technology (SRIET)"
+    },
+    "https://idp.srmap.edu.in/idp/shibboleth": {
+        "en": "SRM University AP Amravati"
+    },
+    "https://idp.srtmun.ac.in/idp/shibboleth": {
+        "en": "SWAMI RAMANAND TEERTH MARATHWADA UNIVERSITY"
+    },
+    "https://idp.ssn.edu.in/idp/shibboleth": {
+        "en": "Sri Sivasubramaniya Nadar College of Engineering"
+    },
+    "https://idp.sssihl.edu.in/idp/shibboleth": {
+        "en": "Sri Sathya Sai Institute of Higher Learning, Anantapur."
+    },
+    "https://idp.ssus.ac.in/idp/shibboleth": {
+        "en": "Sree Sankaracharya University of Sanskrit"
+    },
+    "https://idp.svnit.ac.in/idp/shibboleth": {
+        "en": "Sardar Vallabhbhai National Institute of Technology"
+    },
+    "https://idp.sxuk.edu.in/idp/shibboleth": {
+        "en": "St. Xavier's University, Kolkata"
+    },
+    "https://idp.tanuvas.ac.in/idp/shibboleth": {
+        "en": "Tamil Nadu Veterinary and Animal Sciences University"
+    },
+    "https://idp.technoindiauniversity.ac.in/idp/shibboleth": {
+        "en": "Techno India University"
+    },
+    "https://idp.thapar.edu/idp/shibboleth": {
+        "en": "Thapar Institute of Engineering and Technology"
+    },
+    "https://idp.thsti.in/idp/shibboleth": {
+        "en": "Translational Health Science And Technology Institute (THSTI)"
+    },
+    "https://idp.tkmce.ac.in/idp/shibboleth": {
+        "en": "TKM College of Engineering"
+    },
+    "https://idp.tnpesu.org/idp/shibboleth": {
+        "en": "Tamil Nadu Physical Education and Sports University"
+    },
+    "https://idp.unigoa.ac.in/idp/shibboleth": {
+        "en": "Goa University"
+    },
+    "https://idp.unishivaji.ac.in/idp/shibboleth": {
+        "en": "Shivaji University"
+    },
+    "https://idp.unom.ac.in/idp/shibboleth": {
+        "en": "University of Madras"
+    },
+    "https://idp.uoc.ac.in/idp/shibboleth": {
+        "en": "University of Calicut"
+    },
+    "https://idp.vcw.ac.in/idp/shibboleth": {
+        "en": "Vellalar College For Women"
+    },
+    "https://idp.velsuniv.ac.in/idp/shibboleth": {
+        "en": "Vels Institute of Science, Technology and Advanced Studies (VISTAS)"
+    },
+    "https://idp.vidyasagar.ac.in/idp/shibboleth": {
+        "en": "Vidyasagar University"
+    },
+    "https://idp.vignan.ac.in/idp/shibboleth": {
+        "en": "Vignan University"
+    },
+    "https://idp.vinayakamission.com/idp/shibboleth": {
+        "en": "Vinayaka Mission's Research - DU"
+    },
+    "https://idp.vmkvec.ac.in/idp/shibboleth": {
+        "en": "Vinayaka Mission's Kirupananda Variyar Engineering College"
+    },
+    "https://idp.zcoer.in/idp/shibboleth": {
+        "en": "Zeal College of Engineering and Research"
+    },
+    "https://idpb.bits-pilani.ac.in/idp/shibboleth": {
+        "en": "Birla Institute of Technology and Science, Pilani"
+    },
+    "https://idpvesasc.ves.ac.in/idp/shibboleth": {
+        "en": "Vivekanand Education Society"
+    },
+    "https://inproxy.inflibnet.ac.in/idp/shibboleth": {
+        "en": "Inproxy-INFLIBNET Centre"
+    },
+    "https://ldp.iiests.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Engineering Science and Technology, Shibpur"
+    },
+    "https://libkey.iitg.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Technology Guwahati"
+    },
+    "https://libraryidp.iisc.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Science, Bengaluru"
+    },
+    "https://login.nirt.res.in/idp/shibboleth": {
+        "en": "National Institute for Research in Tuberculosis"
+    },
+    "https://nlistidp.inflibnet.ac.in/idp/shibboleth": {
+        "en": "NLIST - INFLIBNET"
+    },
+    "https://parichay.inflibnet.ac.in/idp/shibboleth": {
+        "en": "NLIST Users [Parichay Identity Service]"
+    },
+    "https://www.idp.gecbj.cteguj.in/idp/shibboleth": {
+        "en": "Government Engineering College, Bhuj"
+    },
+    "https://www.idp.gecdahod.ac.in/idp/shibboleth": {
+        "en": "Government Engineering College, Dahod"
+    },
+    "https://www.idp.gecvl.cteguj.in/idp/shibboleth": {
+        "en": "Government Engineering College, Valsad"
+    },
+    "https://www.idp.lecm.cteguj.in/idp/shibboleth": {
+        "en": "L.E. College Morbi"
+    }
+}

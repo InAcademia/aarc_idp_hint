@@ -1,0 +1,29 @@
+{
+    "https://idp.bahria.edu.pk/idp/shibboleth": {
+        "en": "Bahria University Pakistan"
+    },
+    "https://idp.bbsul.edu.pk/idp/shibboleth": {
+        "en": "Benazir Bhutto Shaheed University Lyari"
+    },
+    "https://idp.cpsp.edu.pk/idp/shibboleth": {
+        "en": "College of Physicians and Surgeons Pakistan"
+    },
+    "https://idp.hec.gov.pk/idp/shibboleth": {
+        "en": "HEC Pakistan"
+    },
+    "https://idp.iub.edu.pk/idp/shibboleth": {
+        "en": "The Islamia University of Bahawalpur, Pakistan"
+    },
+    "https://idp.neduet.edu.pk/idp/shibboleth": {
+        "en": "NED University of Engineering and Technology Pakistan"
+    },
+    "https://idp.pern.edu.pk/idp/shibboleth": {
+        "en": "Pakistan Education & Research Network"
+    },
+    "https://idp.uos.edu.pk/idp/shibboleth": {
+        "en": "University of Sargodha Pakistan"
+    },
+    "https://idp2.pern.edu.pk/idp/shibboleth": {
+        "en": "PERN IdP Pakistan"
+    }
+}

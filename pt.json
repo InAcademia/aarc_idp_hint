@@ -1,0 +1,329 @@
+{
+    "https://aai.uevora.pt/idp/shibboleth": {
+        "en": "University of Évora",
+        "pt": "Universidade de Évora"
+    },
+    "https://aai.ulusofona.pt/idp/shibboleth": {
+        "en": "Universidade Lusófona de Humanidades e Tecnologias",
+        "pt": "Universidade Lusófona de Humanidades e Tecnologias"
+    },
+    "https://conferencia.exercito.pt/idp/shibboleth": {
+        "en": "Academia Militar",
+        "pt": "Academia Militar"
+    },
+    "https://esel-idp02.esel.pt/idp/shibboleth": {
+        "en": "Lisbon Nursing High School",
+        "pt": "Escola Superior de Enfermagem de Lisboa"
+    },
+    "https://id.inesc-id.pt/saml": {
+        "en": "Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento",
+        "pt": "Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento"
+    },
+    "https://id.tecnico.ulisboa.pt/saml": {
+        "en": "ULisboa - Instituto Superior Técnico",
+        "pt": "ULisboa - Instituto Superior Técnico"
+    },
+    "https://idp.acad-ciencias.pt/idp/shibboleth": {
+        "en": "Academia das Ciências de Lisboa",
+        "pt": "Academia das Ciências de Lisboa"
+    },
+    "https://idp.apambiente.pt/idp/shibboleth": {
+        "en": "Agência Portuguesa do Ambiente",
+        "pt": "Agência Portuguesa do Ambiente"
+    },
+    "https://idp.cespu.pt/idp/shibboleth": {
+        "en": "CESPU - Cooperativa de Ensino Superior Politécnico e Universitário",
+        "pt": "CESPU - Cooperativa de Ensino Superior Politécnico e Universitário"
+    },
+    "https://idp.cienciaviva.pt/idp/shibboleth": {
+        "en": "Ciência Viva",
+        "pt": "Ciência Viva"
+    },
+    "https://idp.ciimar.up.pt/idp/shibboleth": {
+        "en": "CIIMAR",
+        "pt": "CIIMAR"
+    },
+    "https://idp.dges.gov.pt/idp/shibboleth": {
+        "en": "Direção Geral do Ensino Superior",
+        "pt": "Direção Geral do Ensino Superior"
+    },
+    "https://idp.dgterritorio.pt/idp/shibboleth": {
+        "en": "Direção-Geral do Território",
+        "pt": "Direção-Geral do Território"
+    },
+    "https://idp.enautica.pt/idp/shibboleth": {
+        "en": "Escola Náutica Infante Dom Henrique",
+        "pt": "Escola Náutica Infante Dom Henrique"
+    },
+    "https://idp.ensp.unl.pt/idp/shibboleth": {
+        "en": "UNL - Escola Nacional de Saúde Pública",
+        "pt": "UNL - Escola Nacional de Saúde Pública"
+    },
+    "https://idp.esav.ipv.pt/idp/shibboleth": {
+        "en": "Escola Superior Agrária de Viseu",
+        "pt": "Escola Superior Agrária de Viseu"
+    },
+    "https://idp.escolanaval.pt/idp/shibboleth": {
+        "en": "Escola Naval - Marinha Portuguesa",
+        "pt": "Escola Naval - Marinha Portuguesa"
+    },
+    "https://idp.esenf.pt/idp/shibboleth": {
+        "en": "Escola Superior de Enfermagem do Porto",
+        "pt": "Escola Superior de Enfermagem do Porto"
+    },
+    "https://idp.esev.ipv.pt/idp/shibboleth": {
+        "en": "Escola Superior de Educação de Viseu",
+        "pt": "Escola Superior de Educação de Viseu"
+    },
+    "https://idp.eshte.pt/idp/shibboleth": {
+        "en": "Escola Superior de Hotelaria e Turismo do Estoril",
+        "pt": "Escola Superior de Hotelaria e Turismo do Estoril"
+    },
+    "https://idp.essv.ipv.pt/idp/shibboleth": {
+        "en": "Escola Superior de Saude de Viseu",
+        "pt": "Escola Superior de Saude de Viseu"
+    },
+    "https://idp.estgl.ipv.pt/idp/shibboleth": {
+        "en": "Escola Superior de Tecnologia e Gestão de Lamego",
+        "pt": "Escola Superior de Tecnologia e Gestão de Lamego"
+    },
+    "https://idp.estgv.ipv.pt/idp/shibboleth": {
+        "en": "Escola Superior de Tecnologia e Gestão de Viseu",
+        "pt": "Escola Superior de Tecnologia e Gestão de Viseu"
+    },
+    "https://idp.fccn.pt/idp/shibboleth": {
+        "en": "FCT|FCCN",
+        "pt": "FCT|FCCN"
+    },
+    "https://idp.fcsh.unl.pt/idp/shibboleth": {
+        "en": "UNL - Faculdade de Ciências Sociais e Humanas",
+        "pt": "UNL - Faculdade de Ciências Sociais e Humanas"
+    },
+    "https://idp.fct.pt/idp/shibboleth": {
+        "en": "FCT - Fundação para a Ciência e a Tecnologia",
+        "pt": "FCT - Fundação para a Ciência e a Tecnologia"
+    },
+    "https://idp.fct.unl.pt/idp/shibboleth": {
+        "en": "UNL - Faculty of Sciences and Technology",
+        "pt": "UNL - Faculdade de Ciências e Tecnologia"
+    },
+    "https://idp.fe.unl.pt/idp/shibboleth": {
+        "en": "UNL - Faculdade de Economia",
+        "pt": "UNL - Faculdade de Economia"
+    },
+    "https://idp.hidrografico.pt/idp/shibboleth": {
+        "en": "Instituto Hidrográfico",
+        "pt": "Instituto Hidrográfico"
+    },
+    "https://idp.ibet.pt/idp/shibboleth": {
+        "en": "Instituto da Biologia Experimental e Tecnológica",
+        "pt": "Instituto da Biologia Experimental e Tecnológica"
+    },
+    "https://idp.igc.gulbenkian.pt/idp/shibboleth": {
+        "en": "Fundação Calouste Gulbenkian",
+        "pt": "Fundação Calouste Gulbenkian"
+    },
+    "https://idp.ihmt.unl.pt/idp/shibboleth": {
+        "en": "UNL - Instituto de Higiene e Medicina Tropical",
+        "pt": "UNL - Instituto de Higiene e Medicina Tropical"
+    },
+    "https://idp.inesctec.pt/idp/shibboleth": {
+        "en": "Institute for Systems and Computer Engineering, Technology and Science - INESC TEC",
+        "pt": "Instituto de Engenharia de Sistemas e Computadores Tecnologia e Ciência - INESC TEC"
+    },
+    "https://idp.ipb.pt/idp/shibboleth": {
+        "en": "Instituto Politécnico de Bragança",
+        "pt": "Instituto Politécnico de Bragança"
+    },
+    "https://idp.ipbeja.pt/idp/shibboleth": {
+        "en": "Polytechnic Institute of Beja",
+        "pt": "Instituto Politécnico de Beja"
+    },
+    "https://idp.ipca.pt/idp/shibboleth": {
+        "en": "Polytechnic Institute of Cavado and Ave",
+        "pt": "Instituto Politécnico Cavado e Ave"
+    },
+    "https://idp.ipdj.gov.pt/idp/shibboleth": {
+        "en": "Instituto Português do Desporto e da Juventude",
+        "pt": "Instituto Português do Desporto e da Juventude"
+    },
+    "https://idp.ipg.pt/idp/shibboleth": {
+        "en": "Instituto Politécnico da Guarda",
+        "pt": "Instituto Politécnico da Guarda"
+    },
+    "https://idp.ipluso.pt/idp/shibboleth": {
+        "en": "Instituto Politécnico da Lusofonia",
+        "pt": "Instituto Politécnico da Lusofonia"
+    },
+    "https://idp.ipma.pt/idp/shibboleth": {
+        "en": "IPMA",
+        "pt": "IPMA"
+    },
+    "https://idp.ipportalegre.pt/idp/shibboleth": {
+        "en": "Instituto Politecnico de Portalegre",
+        "pt": "Instituto Politecnico de Portalegre"
+    },
+    "https://idp.ips.pt/idp/shibboleth": {
+        "en": "Polytechnic Institute of Setubal",
+        "pt": "Instituto Politécnico de Setúbal"
+    },
+    "https://idp.ipt.pt/idp/shibboleth": {
+        "en": "Instituto Politécnico de Tomar",
+        "pt": "Instituto Politécnico de Tomar"
+    },
+    "https://idp.ipvc.pt/idp/shibboleth": {
+        "en": "Instituto Politécnico de Viana do Castelo",
+        "pt": "Instituto Politécnico de Viana do Castelo"
+    },
+    "https://idp.iscac.pt/idp/shibboleth": {
+        "en": "IPC - Instituto Superior de Contabilidade e Administração de Coimbra",
+        "pt": "IPC - Instituto Superior de Contabilidade e Administração de Coimbra"
+    },
+    "https://idp.iscte-iul.pt/idp/shibboleth": {
+        "en": "ISCTE - Instituto Universitario de Lisboa",
+        "pt": "ISCTE - Instituto Universitario de Lisboa"
+    },
+    "https://idp.iseclisboa.pt/idp/shibboleth": {
+        "en": "ISEC Lisboa",
+        "pt": "ISEC Lisboa"
+    },
+    "https://idp.isegi.unl.pt/idp/shibboleth": {
+        "en": "UNL - Instituto Superior de Estatísticas e Gestão Informação",
+        "pt": "UNL - Instituto Superior de Estatísticas e Gestão Informação"
+    },
+    "https://idp.ispa.pt/idp/shibboleth": {
+        "en": "ISPA - Instituto Universitário de Ciências Psicológicas",
+        "pt": "ISPA - Instituto Universitário de Ciências Psicológicas"
+    },
+    "https://idp.itqb.unl.pt/idp/shibboleth": {
+        "en": "UNL - Instituto de Tecnologia Química e Biológica",
+        "pt": "UNL - Instituto de Tecnologia Química e Biológica"
+    },
+    "https://idp.ium.pt/idp/shibboleth": {
+        "en": "Instituto Universitário Militar",
+        "pt": "Instituto Universitário Militar"
+    },
+    "https://idp.lip.pt/idp/shibboleth": {
+        "en": "Laboratório de Instrumentação e Física Experimental de Partículas",
+        "pt": "Laboratório de Instrumentação e Física Experimental de Partículas"
+    },
+    "https://idp.lis.ulusiada.pt/idp/shibboleth": {
+        "en": "Universidade Lusíada",
+        "pt": "Universidade Lusíada"
+    },
+    "https://idp.lnec.pt/idp/shibboleth": {
+        "en": "Laboratório Nacional de Engenharia Civil",
+        "pt": "Laboratório Nacional de Engenharia Civil"
+    },
+    "https://idp.net.ipl.pt/simplesaml/saml2/idp/metadata.php": {
+        "en": "Instituto Politécnico de Lisboa",
+        "pt": "Instituto Politécnico de Lisboa"
+    },
+    "https://idp.pres.ipv.pt/idp/shibboleth": {
+        "en": "IPV - Serviços da Presidência",
+        "pt": "IPV - Serviços da Presidência"
+    },
+    "https://idp.sec-geral.mec.pt/idp/shibboleth": {
+        "en": "Secretaria Geral da Educação e Ciência",
+        "pt": "Secretaria Geral da Educação e Ciência"
+    },
+    "https://idp.ua.pt/idp/shibboleth": {
+        "en": "University of Aveiro",
+        "pt": "Universidade de Aveiro"
+    },
+    "https://idp.uatlantica.pt/idp/shibboleth": {
+        "en": "Atlântica - Instituto Universitário",
+        "pt": "Atlântica - Instituto Universitário"
+    },
+    "https://idp.ubi.pt/idp/shibboleth": {
+        "en": "University of Beira Interior",
+        "pt": "Universidade da Beira Interior"
+    },
+    "https://idp.uc.pt/idp/shibboleth": {
+        "en": "University of Coimbra",
+        "pt": "Universidade de Coimbra"
+    },
+    "https://idp.ufp.pt/idp/shibboleth": {
+        "en": "University Fernando Pessoa",
+        "pt": "Universidade Fernando Pessoa"
+    },
+    "https://idp.ulp.pt/idp/shibboleth": {
+        "en": "Universidade Lusófona do Porto",
+        "pt": "Universidade Lusófona do Porto"
+    },
+    "https://idp.uminho.pt/idp/shibboleth": {
+        "en": "University of Minho",
+        "pt": "Universidade do Minho"
+    },
+    "https://idp.universidadeeuropeia.pt/idp/shibboleth": {
+        "en": "Universidade Europeia",
+        "pt": "Universidade Europeia"
+    },
+    "https://idp.unl.pt/idp/shibboleth": {
+        "en": "UNL - Reitoria",
+        "pt": "UNL - Reitoria"
+    },
+    "https://idp.uportu.pt/idp/shibboleth": {
+        "en": "Universidade Portucalense Infante D. Henrique",
+        "pt": "Universidade Portucalense Infante D. Henrique"
+    },
+    "https://idp.utad.pt/idp/shibboleth": {
+        "en": "Universidade de Trás os Montes e Alto Douro",
+        "pt": "Universidade de Trás os Montes e Alto Douro"
+    },
+    "https://idp00.ipcb.pt/simplesaml/saml2/idp/metadata.php": {
+        "en": "https://idp00.ipcb.pt/simplesaml/saml2/idp/metadata.php"
+    },
+    "https://idp01.net.ipp.pt/idp/shibboleth": {
+        "en": "Polytechnic Institute of Porto",
+        "pt": "Instituto Politécnico do Porto"
+    },
+    "https://idp2.uma.pt/idp/shibboleth": {
+        "en": "Universidade da Madeira",
+        "pt": "Universidade da Madeira"
+    },
+    "https://idpesenfc.esenfc.pt/idp/shibboleth": {
+        "en": "Nursing School of Coimbra",
+        "pt": "Escola Superior de Enfermagem de Coimbra"
+    },
+    "https://idprov.ipc.pt/idp/shibboleth": {
+        "en": "IPC - Serviços da Presidência",
+        "pt": "IPC - Serviços da Presidência"
+    },
+    "https://idprovider.uab.pt/idp/shibboleth": {
+        "en": "Universidade Aberta",
+        "pt": "Universidade Aberta"
+    },
+    "https://lnegrctsaai.lneg.pt/idp/shibboleth": {
+        "en": "Laboratório Nacional de Energia e Geologia",
+        "pt": "Laboratório Nacional de Energia e Geologia"
+    },
+    "https://login.uac.pt/idp/shibboleth": {
+        "en": "Universidade dos Açores",
+        "pt": "Universidade dos Açores"
+    },
+    "https://si-saai.ualg.pt/idp/shibboleth": {
+        "en": "University of Algarve",
+        "pt": "Universidade do Algarve"
+    },
+    "https://srvidm01.cccm.pt/idp/shibboleth": {
+        "en": "Centro Científico e Cultural de Macau",
+        "pt": "Centro Científico e Cultural de Macau"
+    },
+    "https://srvidp.fd.unl.pt/idp/shibboleth": {
+        "en": "UNL - Faculdade de Direito",
+        "pt": "UNL - Faculdade de Direito"
+    },
+    "https://sso.fcm.unl.pt/idp/shibboleth": {
+        "en": "UNL - Faculdade de Ciências Médicas",
+        "pt": "UNL - Faculdade de Ciências Médicas"
+    },
+    "https://vrctsaai.ipsantarem.pt/idp/shibboleth": {
+        "en": "Polytechnic Institute of Santarém",
+        "pt": "Instituto Politécnico de Santarém"
+    },
+    "https://wayf.up.pt/idp/shibboleth": {
+        "en": "University of Porto",
+        "pt": "Universidade do Porto"
+    }
+}

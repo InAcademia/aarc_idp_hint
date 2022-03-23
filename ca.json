@@ -1,0 +1,315 @@
+{
+    "http://CAF.AD.UMANITOBA.CA/adfs/services/trust": {
+        "en": "University of Manitoba"
+    },
+    "http://adfs-bci.ubishops.ca/adfs/services/trust": {
+        "en": "Bishops University",
+        "fr": "Université Bishops"
+    },
+    "http://adfs.brocku.ca/adfs/services/trust": {
+        "en": "Brock University"
+    },
+    "http://adfs.confederationcollege.ca/adfs/services/trust": {
+        "en": "Confederation College of Applied Arts and Technology"
+    },
+    "http://adfs.its.dal.ca/adfs/services/trust": {
+        "en": "Dalhousie University"
+    },
+    "http://adfs.lacitec.on.ca/adfs/services/trust": {
+        "en": "La Cité",
+        "fr": "La Cité"
+    },
+    "http://adfs.okanagan.bc.ca/adfs/services/trust": {
+        "en": "Okanagan College"
+    },
+    "http://adfs.uqar.ca/adfs/services/trust": {
+        "en": "Université du Québec à Rimouski (UQAR)",
+        "fr": "Université du Québec à Rimouski (UQAR)"
+    },
+    "http://adfs.uqat.ca/adfs/services/trust": {
+        "en": "Université du Québec en Abitibi-Témiscamingue",
+        "fr": "Université du Québec en Abitibi-Témiscamingue"
+    },
+    "http://adfs2019.caftest.canarie.ca/adfs/services/trust": {
+        "en": "Z- ADFSToolkit IdP - adfs2019"
+    },
+    "http://adfsarrayfe1.mohawkcollege.ca/adfs/services/trust": {
+        "en": "Mohawk College of Applied Arts and Technology"
+    },
+    "http://cufed.carleton.ca/adfs/services/trust": {
+        "en": "Carleton University"
+    },
+    "http://fas.concordia.ca/adfs/services/trust": {
+        "en": "Concordia University",
+        "fr": "Université Concordia"
+    },
+    "http://federation.langara.ca/adfs/services/trust": {
+        "en": "Langara College"
+    },
+    "http://fs.capilanou.ca/adfs/services/trust": {
+        "en": "Capilano University"
+    },
+    "http://fs.cotr.bc.ca/adfs/services/trust": {
+        "en": "College of the Rockies"
+    },
+    "http://fs.etsmtl.ca/adfs/services/trust": {
+        "en": "École de technologie supérieure",
+        "fr": "École de technologie supérieure"
+    },
+    "http://fs.nic.bc.ca/adfs/services/trust": {
+        "en": "North Island College"
+    },
+    "http://fs.nlc.bc.ca/adfs/services/trust": {
+        "en": "Northern Lights College"
+    },
+    "http://fs.uqac.ca/adfs/services/trust": {
+        "en": "Université du Québec à Chicoutimi",
+        "fr": "Université du Québec à Chicoutimi"
+    },
+    "http://fs.vcc.ca/adfs/services/trust": {
+        "en": "Vancouver Community College"
+    },
+    "http://login.collegeboreal.ca": {
+        "en": "Collège Boréal",
+        "fr": "Collège Boréal"
+    },
+    "http://login.sheridanc.on.ca": {
+        "en": "Sheridan College"
+    },
+    "http://ssl.crkn.ca/adfs/services/trust": {
+        "en": "Canadian Research Knowledge Network"
+    },
+    "http://sts.algomau.ca/adfs/services/trust": {
+        "en": "Algoma University"
+    },
+    "http://sts.dc-uoit.ca/adfs/services/trust": {
+        "en": "Durham College and Ontario Tech University"
+    },
+    "http://ufvfimab.ufv.ca/adfs/services/trust": {
+        "en": "University of Fraser Valley"
+    },
+    "http://uw-adfs2.uwinnipeg.ca/adfs/services/trust": {
+        "en": "University of Winnipeg"
+    },
+    "https://auth.enap.ca/cas/idp": {
+        "en": "École nationale d'administration publique",
+        "fr": "École nationale d'administration publique"
+    },
+    "https://auth.kpu.ca/idp/shibboleth": {
+        "en": "Kwantlen Polytechnic University"
+    },
+    "https://authenticate.royalroads.ca/idp/shibboleth": {
+        "en": "Royal Roads University"
+    },
+    "https://authentication.ubc.ca": {
+        "en": "University of British Columbia"
+    },
+    "https://authentification.uqo.ca/cas/idp": {
+        "en": "Université du Québec en Outaouais",
+        "fr": "Université du Québec en Outaouais"
+    },
+    "https://caf-fsso.smu.ca/idp/shibboleth": {
+        "en": "Saint Mary's University Federated Single Sign-On(SSO)"
+    },
+    "https://cas.hec.ca/idp/metadata": {
+        "en": "HEC Montreal",
+        "fr": "HEC Montreal"
+    },
+    "https://cas.uqtr.ca/uqtr/idp": {
+        "en": "University of Quebec at Trois-Rivieres",
+        "fr": "Université du Québec à Trois-Rivières"
+    },
+    "https://cas5.polymtl.ca/cas/idp": {
+        "en": "Polytechnique Montréal - CAS",
+        "fr": "Polytechnique Montréal - CAS"
+    },
+    "https://connect.laurentian.ca/idp": {
+        "en": "Laurentian University"
+    },
+    "https://fca-caf.uottawa.ca/idp": {
+        "en": "University of Ottawa"
+    },
+    "https://identity.concordia.ab.ca/idp/shibboleth": {
+        "en": "Concordia University of Edmonton"
+    },
+    "https://idp.bc.net/idp/shibboleth": {
+        "en": "BCNET"
+    },
+    "https://idp.camosun.ca/idp/shibboleth": {
+        "en": "Camosun College"
+    },
+    "https://idp.canarie.ca/idp/shibboleth": {
+        "en": "CANARIE"
+    },
+    "https://idp.ccs.ryerson.ca/idp/shibboleth": {
+        "en": "Ryerson University"
+    },
+    "https://idp.cegeptr.qc.ca/idp": {
+        "en": "Cegep de Trois-Rivieres",
+        "fr": "Cégep de Trois-Rivières"
+    },
+    "https://idp.computecanada.ca/idp/shibboleth": {
+        "en": "Compute Canada",
+        "fr": "Calcul Canada"
+    },
+    "https://idp.cybera.ca/simplesaml/saml2/idp/metadata.php": {
+        "en": "Cybera",
+        "fr": "Cybera"
+    },
+    "https://idp.ecuad.ca/idp/shibboleth": {
+        "en": "Emily Carr University of Art and Design"
+    },
+    "https://idp.identity.uoguelph.ca/idp/shibboleth": {
+        "en": "University of Guelph"
+    },
+    "https://idp.jibc.ca/idp": {
+        "en": "Justice Institute of British Columbia"
+    },
+    "https://idp.lakeheadu.ca/idp/shibboleth": {
+        "en": "Lakehead University"
+    },
+    "https://idp.mcft.ca/idp/shibboleth": {
+        "en": "Maritime College of Forest Technology",
+        "fr": "College de Technologie Forestiere des Maritimes"
+    },
+    "https://idp.mta.ca/idp/shibboleth": {
+        "en": "Mount Allison University"
+    },
+    "https://idp.niagaracollege.ca/idp/shibboleth": {
+        "en": "Niagara College Canada"
+    },
+    "https://idp.selkirk.ca/idp/shibboleth": {
+        "en": "Selkirk College"
+    },
+    "https://idp.senecacollege.ca/idp/shibboleth": {
+        "en": "Seneca College"
+    },
+    "https://idp.sfu.ca/entity": {
+        "en": "Simon Fraser University"
+    },
+    "https://idp.stfx.ca/idp/shibboleth": {
+        "en": "St. Francis Xavier University"
+    },
+    "https://idp.teluq.ca/saml-idp/saml2/idp/metadata.php": {
+        "en": "TELUQ University",
+        "fr": "Université TELUQ"
+    },
+    "https://idp.tru.ca/idp/shibboleth": {
+        "en": "Thompson Rivers University"
+    },
+    "https://idp.uleth.ca/idp/shibboleth": {
+        "en": "University of Lethbridge"
+    },
+    "https://idp.umoncton.ca/idp/shibboleth": {
+        "en": "Université de Moncton",
+        "fr": "Université de Moncton"
+    },
+    "https://idp.unb.ca/idp/shibboleth": {
+        "en": "University of New Brunswick"
+    },
+    "https://idp.unbc.ca/idp/shibboleth": {
+        "en": "University of Northern British Columbia"
+    },
+    "https://idp.upei.ca/idp/shibboleth": {
+        "en": "University of Prince Edward Island"
+    },
+    "https://idp.uqam.ca/idp/shibboleth": {
+        "en": "UQAM | Université du Québec à Montréal",
+        "fr": "UQAM | Université du Québec à Montréal"
+    },
+    "https://idp.uregina.ca/idp/shibboleth": {
+        "en": "University of Regina"
+    },
+    "https://idp.usask.ca/idp/shibboleth": {
+        "en": "University of Saskatchewan"
+    },
+    "https://idp.uvic.ca/idp/shibboleth": {
+        "en": "University of Victoria"
+    },
+    "https://idp.uwaterloo.ca/idp/shibboleth": {
+        "en": "University of Waterloo"
+    },
+    "https://idp.wlu.ca/idp/shibboleth": {
+        "en": "Wilfrid Laurier University"
+    },
+    "https://idpp.bcit.ca/idp/shibboleth": {
+        "en": "British Columbia Institute of Technology"
+    },
+    "https://idpz.utorauth.utoronto.ca/shibboleth": {
+        "en": "University of Toronto"
+    },
+    "https://login.fanshawec.ca/idp/shibboleth": {
+        "en": "Fanshawe College",
+        "fr": "Fanshawe College"
+    },
+    "https://login.mun.ca/cas/idp": {
+        "en": "Memorial University of Newfoundland"
+    },
+    "https://login.ocadu.ca/idp/shibboleth": {
+        "en": "OCAD University"
+    },
+    "https://login.queensu.ca/idp/shibboleth": {
+        "en": "Queen's University"
+    },
+    "https://login.ualberta.ca/saml2/idp/metadata.php": {
+        "en": "University of Alberta"
+    },
+    "https://prdshib.macewan.ca/idp/shibboleth": {
+        "en": "MacEwan University"
+    },
+    "https://saul.inrs.ca/cas/idp": {
+        "en": "Institut national de la recherche scientifique (INRS - Universite du Quebec)"
+    },
+    "https://shib-idp.humber.ca/idp/shibboleth": {
+        "en": "Humber College"
+    },
+    "https://shib.cmaisonneuve.qc.ca/idp/shibboleth": {
+        "en": "Collège de Maisonneuve",
+        "fr": "Collège de Maisonneuve"
+    },
+    "https://shib.svc.ulaval.ca/idp/shibboleth": {
+        "en": "Université Laval",
+        "fr": "Université Laval"
+    },
+    "https://shib.trentu.ca/idp/shibboleth": {
+        "en": "Trent University"
+    },
+    "https://shib.yorku.ca/idp/shibboleth": {
+        "en": "YORKU",
+        "fr": "YORKU"
+    },
+    "https://shibboleth.mcgill.ca/idp/shibboleth": {
+        "en": "McGill University",
+        "fr": "Université McGill"
+    },
+    "https://shibboleth.stu.ca/idp/shibboleth": {
+        "en": "St. Thomas University"
+    },
+    "https://shibboleth.ucalgary.ca/idp/shibboleth": {
+        "en": "University of Calgary"
+    },
+    "https://shibboleth.umontreal.ca/idp/shibboleth": {
+        "en": "Université de Montréal",
+        "fr": "Université de Montréal"
+    },
+    "https://shibboleth.usherbrooke.ca/idp/shibboleth": {
+        "en": "Université de Sherbrooke",
+        "fr": "Université de Sherbrooke"
+    },
+    "https://shibboleth2.polymtl.ca/idp/shibboleth": {
+        "en": "Polytechnique Montréal",
+        "fr": "Polytechnique Montréal"
+    },
+    "https://shibidp.uwo.ca/idp/shibboleth": {
+        "en": "University of Western Ontario"
+    },
+    "https://sso.mcmaster.ca/idp/shibboleth": {
+        "en": "McMaster University"
+    },
+    "https://utility.acorn-ns.ca/idp/shibboleth": {
+        "en": "ACORN NS"
+    },
+    "https://uwinid.uwindsor.ca/idp/shibboleth": {
+        "en": "University of Windsor"
+    }
+}

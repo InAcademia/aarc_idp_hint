@@ -1,0 +1,38 @@
+{
+    "https://afidp.eduhk.hk/idp/shibboleth": {
+        "en": "The Education University of Hong Kong"
+    },
+    "https://buidp01.hkbu.edu.hk/idp/shibboleth": {
+        "en": "Hong Kong Baptist University"
+    },
+    "https://hkafidp.hku.hk/idp/shibboleth": {
+        "en": "The University of Hong Kong"
+    },
+    "https://idp.cuhk.edu.hk/idp/shibboleth": {
+        "en": "The Chinese University of Hong Kong"
+    },
+    "https://idp.polyu.edu.hk/idp/shibboleth": {
+        "en": "The Hong Kong Polytechnic University"
+    },
+    "https://idp.twc.edu.hk/idp/shibboleth": {
+        "en": "Tung Wah College"
+    },
+    "https://idp.ust.hk/idp/shibboleth": {
+        "en": "The Hong Kong University of Science and Technology"
+    },
+    "https://idp1.cityu.edu.hk/idp/shibboleth": {
+        "en": "City University of Hong Kong"
+    },
+    "https://luidp01.ln.edu.hk/idp/shibboleth": {
+        "en": "Lingnan University"
+    },
+    "https://sts.windows.net/200624f1-c33b-4e8c-b53f-8c7d55e7522f/": {
+        "en": "Vocational Training Council (Alumni)"
+    },
+    "https://sts.windows.net/7edb05ab-42e9-4348-b893-2ba625a350c6/": {
+        "en": "Vocational Training Council (Staff)"
+    },
+    "https://vh.hkaf.edu.hk/idp/shibboleth": {
+        "en": "HKAF Virtual Home"
+    }
+}

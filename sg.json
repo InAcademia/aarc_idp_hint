@@ -1,0 +1,29 @@
+{
+    "https://a-star.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+        "en": "A*STAR - Agency for Science, Technology and Research"
+    },
+    "https://ntu.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+        "en": "NTU - Nanyang Technological University"
+    },
+    "https://nus.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+        "en": "NUS - National University of Singapore"
+    },
+    "https://sit.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+        "en": "SIT - Singapore Institute Of Technology"
+    },
+    "https://smu.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+        "en": "SMU - Singapore Management University"
+    },
+    "https://sp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+        "en": "SP - Singapore Polytechnic"
+    },
+    "https://sutd.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+        "en": "SUTD - Singapore University of Technology and Design"
+    },
+    "https://tp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+        "en": "TP - Temasek Polytechnic"
+    },
+    "https://vho.sgaf.singaren.net.sg/idp/shibboleth": {
+        "en": "SingAREN"
+    }
+}

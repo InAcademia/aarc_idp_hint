@@ -1,0 +1,90 @@
+{
+    "https://ak.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "Alytus University of Applied Sciences",
+        "lt": "Alytaus kolegija"
+    },
+    "https://auth.svako.lt/sso/saml2/idp/metadata.php": {
+        "en": "Siauliai State College",
+        "lt": "Šiaulių valstybinė kolegija"
+    },
+    "https://ehu.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "European Humanities University",
+        "lt": "Europos humanitarinis universitetas"
+    },
+    "https://fedi.ku.lt/idp/shibboleth": {
+        "en": "Klaipeda University",
+        "lt": "Klaipėdos universitetas"
+    },
+    "https://id.viko.lt/auth/saml2/idp/metadata.php": {
+        "en": "Vilnius University of Applied Sciences",
+        "lt": "Vilniaus kolegija"
+    },
+    "https://ism.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "ISM University of Management and Economics",
+        "lt": "ISM Vadybos ir ekonomikos universitetas"
+    },
+    "https://kauko.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "Kaunas University of Applied Sciences",
+        "lt": "Kauno kolegija"
+    },
+    "https://lammc.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "Lithuanian Research Centre for Agriculture and Forestry",
+        "lt": "Lietuvos agrarinių ir miškų mokslų centras"
+    },
+    "https://lka.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "General Jonas Žemaitis Military Academy of Lithuania",
+        "lt": "Generolo Jono Žemaičio Lietuvos karo akademija"
+    },
+    "https://lki.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "Institute of the Lithuanian Language",
+        "lt": "Lietuvių kalbos institutas"
+    },
+    "https://login.ktu.lt/simplesaml/saml2/idp/metadata.php": {
+        "en": "Kaunas University of Technology",
+        "lt": "Kauno technologijos universitetas"
+    },
+    "https://login.kvk.lt/simplesaml/saml2/idp/metadata.php": {
+        "en": "Klaipeda State University of Applied Sciences",
+        "lt": "Klaipėdos valstybinė kolegija"
+    },
+    "https://login.lmta.lt/saml2/idp/metadata.php": {
+        "en": "Lithuanian Academy of Music and Theatre",
+        "lt": "Lietuvos muzikos ir teatro akademija"
+    },
+    "https://login.mruni.eu/sso/saml2/idp/metadata.php": {
+        "en": "Mykolas Romeris University",
+        "lt": "Mykolo Romerio universitetas"
+    },
+    "https://login.utenos-kolegija.lt/SAML/IdP": {
+        "en": "Utena University of Applied Sciences",
+        "lt": "Utenos kolegija"
+    },
+    "https://lsmu.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "Lithuanian University of Health Sciences",
+        "lt": "Lietuvos sveikatos mokslų universitetas"
+    },
+    "https://lsu.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "Lithuanian Sports University",
+        "lt": "Lietuvos sporto universitetas"
+    },
+    "https://marko.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "Marijampole College",
+        "lt": "Marijampolės kolegija"
+    },
+    "https://sso.ftmc.lt/auth/saml2/idp/metadata.php": {
+        "en": "State research institute Center for Physical Sciences and Technology",
+        "lt": "Valstybinis mokslinių tyrimų institutas Fizinių ir technologijos mokslų centras"
+    },
+    "https://sso.vgtu.lt/saml2/idp/metadata.php": {
+        "en": "Vilnius Gediminas Technical University",
+        "lt": "Vilniaus Gedimino technikos universitetas"
+    },
+    "https://sso.vu.lt/SSO/saml2/idp/metadata.php": {
+        "en": "Vilnius University",
+        "lt": "Vilniaus universitetas"
+    },
+    "https://vdu.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "Vytautas Magnus University",
+        "lt": "Vytauto Didžiojo universitetas"
+    }
+}

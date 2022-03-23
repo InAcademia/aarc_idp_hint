@@ -1,0 +1,274 @@
+{
+    "http://adfs.noc-science.at/adfs/services/trust": {
+        "de": "Bundesministerium für Bildung, Wissenschaft, Forschung",
+        "en": "Austrian Federal Ministry of Education, Science and Research"
+    },
+    "https://aai-01.internet.ufg.ac.at/idp/shibboleth": {
+        "de": "Universität für künstlerische und industrielle Gestaltung Linz",
+        "en": "University for Art and Design Linz"
+    },
+    "https://auth.fh-kufstein.ac.at/idp/shibboleth": {
+        "de": "FH Kufstein",
+        "en": "University of Applied Science Kufstein"
+    },
+    "https://auth.ph-noe.ac.at/idp/shibboleth": {
+        "de": "Pädagogische Hochschule Niederösterreich",
+        "en": "University College of Teacher Education in Lower Austria"
+    },
+    "https://david.technikum-wien.at/idp/shibboleth": {
+        "de": "FH Technikum Wien",
+        "en": "University of Applied Sciences Technikum Wien"
+    },
+    "https://eduid.campus02.at/idp/shibboleth": {
+        "de": "FH CAMPUS 02",
+        "en": "FH CAMPUS 02"
+    },
+    "https://idp.aco.net/idp/shibboleth": {
+        "de": "ACOnet Team",
+        "en": "ACOnet staff"
+    },
+    "https://idp.boku.ac.at/idp/shibboleth": {
+        "de": "Universität für Bodenkultur Wien",
+        "en": "University of Natural Resources and Life Sciences, Vienna"
+    },
+    "https://idp.donau-uni.ac.at/idp/shibboleth": {
+        "de": "Donau-Universität Krems",
+        "en": "Danube University Krems"
+    },
+    "https://idp.fernfh.ac.at/idp/shibboleth": {
+        "de": "Ferdinand Porsche FernFH",
+        "en": "Ferdinand Porsche FernFH"
+    },
+    "https://idp.fh-burgenland.at/idp/shibboleth": {
+        "de": "FH Burgenland",
+        "en": "University of Applied Sciences Burgenland"
+    },
+    "https://idp.fh-joanneum.at/idp/shibboleth": {
+        "de": "FH Joanneum",
+        "en": "FH Joanneum"
+    },
+    "https://idp.fh-kaernten.at/idp/shibboleth": {
+        "de": "FH Kärnten",
+        "en": "Carinthia University of Applied Sciences"
+    },
+    "https://idp.haydnkons.at/idp/shibboleth": {
+        "de": "Joseph Haydn Konservatorium",
+        "en": "Joseph Haydn Conservatory"
+    },
+    "https://idp.iiasa.ac.at/idp/shibboleth": {
+        "de": "International Institute for Applied Systems Analysis (IIASA)",
+        "en": "International Institute for Applied Systems Analysis (IIASA)"
+    },
+    "https://idp.ist.ac.at/idp/shibboleth": {
+        "de": "Institute of Science and Technology Austria (IST Austria)",
+        "en": "Institute of Science and Technology Austria (IST Austria)"
+    },
+    "https://idp.kl.ac.at/idp/shibboleth": {
+        "de": "Karl Landsteiner Privatuniversität für Gesundheitswissenschaften",
+        "en": "Karl Landsteiner University of Health Sciences"
+    },
+    "https://idp.kphvie.ac.at/idp/shibboleth": {
+        "de": "Kirchliche Pädagogische Hochschule Wien/Krems (KPH)",
+        "en": "University College of Teacher Education Vienna/Krems (KPH)"
+    },
+    "https://idp.mci4me.at/idp/shibboleth": {
+        "de": "Management Center Innsbruck",
+        "en": "Management Center Innsbruck"
+    },
+    "https://idp.meduni-graz.at/idp/shibboleth": {
+        "de": "Medizinische Universität Graz",
+        "en": "Medical University of Graz"
+    },
+    "https://idp.meduniwien.ac.at/idp/shibboleth": {
+        "de": "Medizinische Universität Wien",
+        "en": "Medical University of Vienna"
+    },
+    "https://idp.ph-burgenland.at/idp/shibboleth": {
+        "de": "Private Pädagogische Hochschule Burgenland",
+        "en": "University College for Teacher Education Burgenland"
+    },
+    "https://idp.ph-tirol.ac.at/idp/shibboleth": {
+        "de": "Pädagogische Hochschule Tirol",
+        "en": "University College of Teacher Education Tyrol"
+    },
+    "https://idp.phsalzburg.at/idp/shibboleth": {
+        "de": "Pädagogische Hochschule Salzburg Stefan Zweig",
+        "en": "Salzburg University of Education Stefan Zweig"
+    },
+    "https://idp.phst.at/idp/shibboleth": {
+        "de": "Pädagogische Hochschule Steiermark",
+        "en": "University College of Teacher Education Styria"
+    },
+    "https://idp.phwien.ac.at/idp": {
+        "de": "Pädagogische Hochschule Wien",
+        "en": "University College of Teacher Education Vienna"
+    },
+    "https://idp.tirol-kliniken.at/idp/shibboleth": {
+        "de": "Tirol Kliniken | fh gesundheit",
+        "en": "Tirol Kliniken | Health University of Applied Sciences Tyrol"
+    },
+    "https://idp.uibk.ac.at/idp/shibboleth": {
+        "de": "Universität Innsbruck",
+        "en": "University of Innsbruck"
+    },
+    "https://idp.umit-tirol.at/idp/shibboleth": {
+        "de": "UMIT Tirol - Die Tiroler Privatuniversität",
+        "en": "UMIT Tirol - The Tyrolean Private University"
+    },
+    "https://idp.vu-wien.ac.at/idp/shibboleth": {
+        "de": "Veterinärmedizinische Universität Wien",
+        "en": "University of Veterinary Medicine, Vienna"
+    },
+    "https://idp.wu.ac.at/idp/shibboleth": {
+        "de": "Wirtschaftsuniversität Wien",
+        "en": "Vienna University of Economics and Business"
+    },
+    "https://idp.zid.tuwien.ac.at/saml2": {
+        "de": "Technische Universität Wien",
+        "en": "Vienna University of Technology"
+    },
+    "https://login.bruckneruni.at/idp/shibboleth": {
+        "de": "Anton Bruckner Privatuniversität",
+        "en": "Anton Bruckner Private University"
+    },
+    "https://login.fh-campuswien.ac.at/idp/shibboleth": {
+        "de": "FH Campus Wien",
+        "en": "FH Campus Wien - University of Applied Sciences"
+    },
+    "https://login.fhv.at/shibboleth": {
+        "de": "FH Vorarlberg",
+        "en": "Vorarlberg University of Applied Sciences"
+    },
+    "https://login.kug.ac.at/idp/shibboleth": {
+        "de": "Universität für Musik und darstellende Kunst Graz",
+        "en": "University of Music and Performing Arts Graz"
+    },
+    "https://nhm-eduid.nhm-wien.ac.at/idp/shibboleth": {
+        "de": "Naturhistorisches Museum Wien (NHM)",
+        "en": "Natural History Museum Vienna (NHM)"
+    },
+    "https://sblt.fh-krems.ac.at/idp/shibboleth": {
+        "de": "IMC FH Krems",
+        "en": "IMC University of Applied Sciences Krems/Austria"
+    },
+    "https://secure.salzburgresearch.at/idp/shibboleth": {
+        "de": "Salzburg Research",
+        "en": "Salzburg Research"
+    },
+    "https://shib.ihs.ac.at/idp/shibboleth": {
+        "de": "Institut für Höhere Studien (IHS)",
+        "en": "Institute for Advanced Studies (IHS)"
+    },
+    "https://shib.mdw.ac.at/idp/shibboleth": {
+        "de": "Universität für Musik und darstellende Kunst Wien",
+        "en": "University of Music and Performing Arts Vienna"
+    },
+    "https://shib.uni-klu.ac.at/idp/shibboleth": {
+        "de": "Universität Klagenfurt",
+        "en": "University of Klagenfurt"
+    },
+    "https://shibboleth.fh-vie.ac.at/idp/shibboleth": {
+        "de": "FH des BFI Wien",
+        "en": "University of Applied Sciences BFI Vienna"
+    },
+    "https://shibboleth.fhwn.ac.at/idp/shibboleth": {
+        "de": "FH Wiener Neustadt",
+        "en": "University of Applied Sciences Wiener Neustadt"
+    },
+    "https://shibboleth.i-med.ac.at/idp/shibboleth": {
+        "de": "Medizinische Universität Innsbruck",
+        "en": "Medical University of Innsbruck"
+    },
+    "https://shibboleth.im.jku.at/idp/shibboleth": {
+        "de": "Johannes Kepler Universität Linz",
+        "en": "Johannes Kepler University Linz"
+    },
+    "https://shibboleth.khm.at/idp/shibboleth": {
+        "de": "KHM-Museumsverband",
+        "en": "KHM-Museumsverband"
+    },
+    "https://shibboleth.moz.ac.at/idp/shibboleth": {
+        "de": "Universität Mozarteum Salzburg",
+        "en": "Mozarteum University Salzburg"
+    },
+    "https://shibboleth.uni-ak.ac.at/idp/shibboleth": {
+        "de": "Universität für angewandte Kunst Wien",
+        "en": "University of Applied Arts Vienna"
+    },
+    "https://shibboleth.vbc.ac.at/idp/shibboleth": {
+        "de": "Campus Vienna Biocenter (GMI, IMBA, IMP, VBCF)",
+        "en": "Campus Vienna Biocenter (GMI, IMBA, IMP, VBCF)"
+    },
+    "https://sso.fh-salzburg.ac.at/idp/shibboleth": {
+        "de": "FH Salzburg",
+        "en": "Salzburg University of Applied Sciences"
+    },
+    "https://sso.fhgooe.ac.at/idp/shibboleth": {
+        "de": "FH Gesundheitsberufe OÖ",
+        "en": "University of Applied Sciences for Health Professions Upper Austria"
+    },
+    "https://sso.fhstp.ac.at/idp/shibboleth": {
+        "de": "FH St. Pölten",
+        "en": "St. Pölten University of Applied Sciences"
+    },
+    "https://sso.kph-es.at/idp/shibboleth": {
+        "de": "Kirchliche Pädagogische Hochschule Edith Stein",
+        "en": "KPH Edith Stein"
+    },
+    "https://sso.kphgraz.at/idp/shibboleth": {
+        "de": "KPH Graz Augustinum",
+        "en": "KPH Graz Augustinum"
+    },
+    "https://sso.ku-linz.at/idp/shibboleth": {
+        "de": "Katholische Privatuniversität Linz",
+        "en": "Catholic Private University Linz"
+    },
+    "https://sso.lbs.ac.at/idp/shibboleth": {
+        "de": "Lauder Business School",
+        "en": "Lauder Business School"
+    },
+    "https://sso.ndu.ac.at/idp/shibboleth": {
+        "de": "New Design University",
+        "en": "New Design University"
+    },
+    "https://sso.ph-linz.at/idp/shibboleth": {
+        "de": "Private Pädagogische Hochschule der Diözese Linz",
+        "en": "Private University of Education, Diocese of Linz"
+    },
+    "https://sso.ph-ooe.at/idp/shibboleth": {
+        "de": "Pädagogische Hochschule Oberösterreich",
+        "en": "University of Teacher Education Upper Austria"
+    },
+    "https://sso.ph-vorarlberg.ac.at/idp/shibboleth": {
+        "de": "Pädagogische Hochschule Vorarlberg",
+        "en": "University College of Teacher Education Vorarlberg"
+    },
+    "https://sso.sbg.ac.at/idp/shibboleth": {
+        "de": "Universität Salzburg",
+        "en": "University of Salzburg"
+    },
+    "https://sso.tugraz.at/idp/shibboleth": {
+        "de": "Technische Universität Graz",
+        "en": "Graz University of Technology"
+    },
+    "https://weblogin.fh-ooe.at/idp/shibboleth": {
+        "de": "FH Oberösterreich",
+        "en": "University of Applied Sciences Upper Austria"
+    },
+    "https://weblogin.oeaw.ac.at/idp/shibboleth": {
+        "de": "Österreichische Akademie der Wissenschaften",
+        "en": "Austrian Academy of Sciences"
+    },
+    "https://weblogin.unileoben.ac.at/idp/shibboleth": {
+        "de": "Montanuniversität Leoben",
+        "en": "Montanuniversitaet Leoben"
+    },
+    "https://weblogin.univie.ac.at/shibboleth": {
+        "de": "Universität Wien",
+        "en": "University of Vienna"
+    },
+    "https://zididp.uni-graz.at/idp/shibboleth": {
+        "de": "Universität Graz",
+        "en": "University of Graz"
+    }
+}

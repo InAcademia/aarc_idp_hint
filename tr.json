@@ -1,0 +1,446 @@
+{
+    "https://edugain.dpu.edu.tr/idp/shibboleth": {
+        "en": "Kutahya Dumlupinar University",
+        "tr": "Kütahya Dumlupınar Üniversitesi"
+    },
+    "https://hesabim-yetkim.bandirma.edu.tr/saml2/idp/metadata.php": {
+        "en": "Bandirma Onyedi Eylul Universty",
+        "tr": "Bandırma Onyedi Eylül Üniversitesi"
+    },
+    "https://id.cbu.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Manisa Celal Bayar University",
+        "tr": "Manisa Celal Bayar Üniversitesi"
+    },
+    "https://idp.adiyaman.edu.tr/idp/shibboleth": {
+        "en": "Adiyaman University",
+        "tr": "Adıyaman Üniversitesi"
+    },
+    "https://idp.agri.edu.tr/idp/shibboleth": {
+        "en": "Agri Ibrahim Cecen University",
+        "tr": "Ağrı İbrahim Çeçen Üniversitesi"
+    },
+    "https://idp.aksaray.edu.tr/idp/shibboleth": {
+        "en": "Aksaray University",
+        "tr": "Aksaray Üniversitesi"
+    },
+    "https://idp.atu.edu.tr/idp/shibboleth": {
+        "en": "Adana Alparslan Türkeş Science and Technology University",
+        "tr": "Adana Alparslan Türkeş Bilim veTeknoloji Üniversitesi"
+    },
+    "https://idp.baskent.edu.tr/idp/shibboleth": {
+        "en": "Baskent University",
+        "tr": "Başkent Üniversitesi"
+    },
+    "https://idp.bezmialem.edu.tr/idp/shibboleth": {
+        "en": "Bezmialem Vakif University",
+        "tr": "Bezmiâlem Vakıf Üniversitesi"
+    },
+    "https://idp.bilkent.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Ihsan Dogramaci Bilkent University",
+        "tr": "İhsan Doğramacı Bilkent Üniversitesi"
+    },
+    "https://idp.esenyurt.edu.tr/idp/shibboleth": {
+        "en": "Istanbul Esenyurt University",
+        "tr": "İstanbul Esenyurt Üniversitesi"
+    },
+    "https://idp.firat.edu.tr/idp/shibboleth": {
+        "en": "Fırat University",
+        "tr": "Fırat Üniversitesi"
+    },
+    "https://idp.gelisim.edu.tr/idp/shibboleth": {
+        "en": "Istanbul Gelisim University",
+        "tr": "İstanbul Gelişim Üniversitesi"
+    },
+    "https://idp.giresun.edu.tr/idp/shibboleth": {
+        "en": "Giresun University",
+        "tr": "Giresun Üniversitesi"
+    },
+    "https://idp.gsu.edu.tr/idp/shibboleth": {
+        "en": "Galatasaray University",
+        "tr": "Galatasaray Üniversitesi"
+    },
+    "https://idp.harran.edu.tr/idp/shibboleth": {
+        "en": "Harran University",
+        "tr": "Harran Üniversitesi"
+    },
+    "https://idp.idu.edu.tr/idp/shibboleth": {
+        "en": "Izmir Democracy University",
+        "tr": "İzmir Demokrasi Üniversitesi"
+    },
+    "https://idp.iyte.edu.tr/idp/shibboleth": {
+        "en": "Izmir Institute of High Technology",
+        "tr": "İzmir Yüksek Teknoloji Enstitüsü"
+    },
+    "https://idp.izmirekonomi.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Izmir University of Economics",
+        "tr": "İzmir Ekonomi Üniversitesi"
+    },
+    "https://idp.izu.edu.tr/idp/shibboleth": {
+        "en": "Istanbul Sabahattin Zaim University",
+        "tr": "İstanbul Sabahattin Zaim Üniversitesi"
+    },
+    "https://idp.kimlik.erzurum.edu.tr/yetkim/metadata.xml": {
+        "en": "Erzurum Technical University",
+        "tr": "Erzurum Teknik Üniversitesi"
+    },
+    "https://idp.kku.edu.tr/idp/shibboleth": {
+        "en": "Kirikkale University",
+        "tr": "Kırıkkale Üniversitesi"
+    },
+    "https://idp.kmu.edu.tr/idp/shibboleth": {
+        "en": "Karamanoglu Mehmetbey University",
+        "tr": "Karamanoğlu Mehmetbey Üniversitesi"
+    },
+    "https://idp.ksbu.edu.tr/idp/shibboleth": {
+        "en": "Kütahya Health Sciences University",
+        "tr": "Kütahya Sağlık Bilimleri Üniversitesi"
+    },
+    "https://idp.ksu.edu.tr/idp/shibboleth": {
+        "en": "Kahramanmaras Sutcu Imam University",
+        "tr": "Kahramanmaraş Sütçü İmam Üniversitesi"
+    },
+    "https://idp.medipol.edu.tr/idp/shibboleth": {
+        "en": "Istanbul Medipol University",
+        "tr": "İstanbul Medipol Üniversitesi"
+    },
+    "https://idp.metu.edu.tr/idp/shibboleth": {
+        "en": "Middle East Technical University",
+        "tr": "Orta Doğu Teknik Üniversitesi"
+    },
+    "https://idp.ogu.edu.tr/idp/shibboleth": {
+        "en": "Eskisehir Osmangazi University",
+        "tr": "Eskişehir Osmangazi Üniversitesi"
+    },
+    "https://idp.pa.edu.tr/idp/shibboleth": {
+        "en": "Presidency of the Police Academy",
+        "tr": "Polis Akademisi Başkanlığı"
+    },
+    "https://idp.samsun.edu.tr/idp/shibboleth": {
+        "en": "Samsun University",
+        "tr": "Samsun Üniversitesi"
+    },
+    "https://idp.sbu.edu.tr/idp/shibboleth": {
+        "en": "Sağlık Bilimleri University",
+        "tr": "Sağlık Bilimleri Üniversitesi"
+    },
+    "https://idp.sirnak.edu.tr/idp/shibboleth": {
+        "en": "Sirnak University",
+        "tr": "Şırnak  Üniversitesi"
+    },
+    "https://idp.sivas.edu.tr/idp/shibboleth": {
+        "en": "Sivas University Of Science And Technology",
+        "tr": "Sivas Bilim ve Teknoloji Üniversitesi"
+    },
+    "https://idp.tedu.edu.tr/idp/shibboleth": {
+        "en": "TED University",
+        "tr": "TED Üniversitesi"
+    },
+    "https://idp.thk.edu.tr/idp/shibboleth": {
+        "en": "University of Turkish Aeronautical Association",
+        "tr": "Türk Hava Kurumu Üniversitesi"
+    },
+    "https://idp.usak.edu.tr/idp/shibboleth": {
+        "en": "Usak University",
+        "tr": "Uşak Üniversitesi"
+    },
+    "https://idp.yasar.edu.tr/idp/shibboleth": {
+        "en": "Yasar University",
+        "tr": "Yaşar Üniversitesi"
+    },
+    "https://kimlik.29mayis.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "29 Mayis University",
+        "tr": "29 Mayıs Üniversitesi"
+    },
+    "https://kimlik.adu.edu.tr/idp/shibboleth": {
+        "en": "Aydin Adnan Menderes University",
+        "tr": "Aydın Adnan Menderes Üniversitesi"
+    },
+    "https://kimlik.afsu.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Afyonkarahisar Health Sciences University",
+        "tr": "Afyonkarahisar Sağlık Bilimleri Üniversitesi"
+    },
+    "https://kimlik.aku.edu.tr/idp/shibboleth": {
+        "en": "Afyon Kocatepe University",
+        "tr": "Afyon Kocatepe Üniversitesi"
+    },
+    "https://kimlik.alparslan.edu.tr/idp/shibboleth": {
+        "en": "Mus Alparslan University",
+        "tr": "Mus Alparslan Üniversitesi"
+    },
+    "https://kimlik.amasya.edu.tr/idp/shibboleth": {
+        "en": "Amasya University",
+        "tr": "Amasya Üniversitesi"
+    },
+    "https://kimlik.anadolu.edu.tr/idp/shibboleth": {
+        "en": "Anadolu University",
+        "tr": "Anadolu Üniversitesi"
+    },
+    "https://kimlik.ardahan.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Ardahan University",
+        "tr": "Ardahan Üniversitesi"
+    },
+    "https://kimlik.artvin.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Artvin Coruh University",
+        "tr": "Artvin Çoruh Üniversitesi"
+    },
+    "https://kimlik.asbu.edu.tr/idp/shibboleth": {
+        "en": "Social Sciences University of Ankara",
+        "tr": "Ankara Sosyal Bilimler Üniversitesi"
+    },
+    "https://kimlik.aydin.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Istanbul Aydin University",
+        "tr": "İstanbul Aydın Üniversitesi"
+    },
+    "https://kimlik.bakircay.edu.tr/idp/shibboleth": {
+        "en": "İzmir Bakırçay University",
+        "tr": "İzmir Bakırçay Üniversitesi"
+    },
+    "https://kimlik.bartin.edu.tr/idp/shibboleth": {
+        "en": "Bartın University",
+        "tr": "Bartın Üniversitesi"
+    },
+    "https://kimlik.bayburt.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Bayburt University",
+        "tr": "Bayburt Üniversitesi"
+    },
+    "https://kimlik.beykent.edu.tr/idp/shibboleth": {
+        "en": "Beykent University",
+        "tr": "Beykent Üniversitesi"
+    },
+    "https://kimlik.bilecik.edu.tr/idp/shibboleth": {
+        "en": "Bilecik Şeyh Edebali University",
+        "tr": "Bilecik Şeyh Edebali Üniversitesi"
+    },
+    "https://kimlik.bingol.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Bingöl University",
+        "tr": "Bingöl Üniversitesi"
+    },
+    "https://kimlik.btu.edu.tr/idp/shibboleth": {
+        "en": "Bursa Technical University",
+        "tr": "Bursa Teknik Üniversitesi"
+    },
+    "https://kimlik.comu.edu.tr/idp/shibboleth": {
+        "en": "Canakkale Onsekiz Mart University",
+        "tr": "Çanakkale Onsekiz Mart Üniversitesi"
+    },
+    "https://kimlik.cumhuriyet.edu.tr/idp/shibboleth": {
+        "en": "Sivas Cumhuriyet University",
+        "tr": "Sivas Cumhuriyet Üniversitesi"
+    },
+    "https://kimlik.deu.edu.tr/idp/shibboleth": {
+        "en": "Dokuz Eylul University",
+        "tr": "Dokuz Eylül Üniversitesi"
+    },
+    "https://kimlik.duzce.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Duzce University",
+        "tr": "Duzce Universitesi"
+    },
+    "https://kimlik.ege.edu.tr/egesso/saml2/idp/metadata.php": {
+        "en": "Ege University",
+        "tr": "Ege Üniversitesi"
+    },
+    "https://kimlik.fsm.edu.tr/idp/shibboleth": {
+        "en": "Fatih Sultan Mehmet Vakif University",
+        "tr": "Fatih Sultan Mehmet Vakıf Üniversitesi"
+    },
+    "https://kimlik.hacettepe.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Hacettepe University",
+        "tr": "Hacettepe Üniversitesi"
+    },
+    "https://kimlik.hitit.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Hitit University",
+        "tr": "Hitit Üniversitesi"
+    },
+    "https://kimlik.ihu.edu.tr/idp/shibboleth": {
+        "en": "Ibn Haldun University",
+        "tr": "İbn Haldun Üniversitesi"
+    },
+    "https://kimlik.iste.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Iskenderun Technical University",
+        "tr": "İskenderun Teknik Üniversitesi"
+    },
+    "https://kimlik.istiklal.edu.tr/idp/shibboleth": {
+        "en": "Kahramanmaras Istiklal University",
+        "tr": "Kahramanmaraş İstiklal Üniversitesi"
+    },
+    "https://kimlik.karabuk.edu.tr/idp/shibboleth": {
+        "en": "Karabuk University",
+        "tr": "Karabük Üniversitesi"
+    },
+    "https://kimlik.karatay.edu.tr/idp/shibboleth": {
+        "en": "KTO Karatay University",
+        "tr": "KTO Karatay Üniversitesi"
+    },
+    "https://kimlik.kilis.edu.tr/idp/shibboleth": {
+        "en": "Kilis 7 Aralik University",
+        "tr": "Kilis 7 Aralik Üniversitesi"
+    },
+    "https://kimlik.korkutata.edu.tr/idp/shibboleth": {
+        "en": "Osmaniye Korkut Ata University",
+        "tr": "Osmaniye Korkut Ata Üniversitesi"
+    },
+    "https://kimlik.mehmetakif.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Burdur Mehmet Akif Ersoy University",
+        "tr": "Burdur Mehmet Akif Ersoy Üniversitesi"
+    },
+    "https://kimlik.munzur.edu.tr/idp/shibboleth": {
+        "en": "Munzur University",
+        "tr": "Munzur Üniversitesi"
+    },
+    "https://kimlik.nevsehir.edu.tr/idp/shibboleth": {
+        "en": "Nevsehir Haci Bektas Veli University",
+        "tr": "Nevşehir Hacı Bektaş Veli Üniversitesi"
+    },
+    "https://kimlik.nku.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Tekirdag Namik Kemal University",
+        "tr": "Tekirdağ Namık Kemal Üniversitesi"
+    },
+    "https://kimlik.omu.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Ondokuz Mayıs University",
+        "tr": "Ondokuz Mayıs Üniversitesi"
+    },
+    "https://kimlik.pau.edu.tr/idp/shibboleth": {
+        "en": "Pamukkale University",
+        "tr": "Pamukkale Üniversitesi"
+    },
+    "https://kimlik.rumeli.edu.tr/idp/shibboleth": {
+        "en": "Istanbul Rumeli University",
+        "tr": "İstanbul Rumeli Üniversitesi"
+    },
+    "https://kimlik.sakarya.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Sakarya University",
+        "tr": "Sakarya Üniversitesi"
+    },
+    "https://kimlik.sanko.edu.tr/idp/shibboleth": {
+        "en": "SANKO University",
+        "tr": "SANKO Üniversitesi"
+    },
+    "https://kimlik.selcuk.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Selcuk University",
+        "tr": "Selçuk Üniversitesi"
+    },
+    "https://kimlik.sisli.edu.tr/idp/shibboleth": {
+        "en": "Şişli Vocational School",
+        "tr": "Şişli Meslek Yüksekokulu"
+    },
+    "https://kimlik.trakya.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Trakya University",
+        "tr": "Trakya Üniversitesi"
+    },
+    "https://kimlik.ulakbim.gov.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "ULAKBIM",
+        "tr": "ULAKBİM"
+    },
+    "https://kimlik.uludag.edu.tr/idp/shibboleth": {
+        "en": "Bursa Uludag University",
+        "tr": "Bursa Uludağ Üniversitesi"
+    },
+    "https://kimlik.uskudar.edu.tr/idp/shibboleth": {
+        "en": "Uskudar University",
+        "tr": "Üsküdar Üniversitesi"
+    },
+    "https://kimlik.yeditepe.edu.tr/idp/shibboleth": {
+        "en": "Yeditepe University",
+        "tr": "Yeditepe Üniversitesi"
+    },
+    "https://myacademicid.istanbul.edu.tr/idp/shibboleth": {
+        "en": "Istanbul University",
+        "tr": "İstanbul Üniversitesi"
+    },
+    "https://saml.cankaya.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Cankaya University",
+        "tr": "Çankaya Üniversitesi"
+    },
+    "https://saml.gedik.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Istanbul Gedik University",
+        "tr": "İstanbul Gedik Üniversitesi"
+    },
+    "https://samlid.bilgi.edu.tr/idp/shibboleth": {
+        "en": "Istanbul Bilgi University",
+        "tr": "İstanbul Bilgi Üniversitesi"
+    },
+    "https://sso.sabanciuniv.edu/idp/shibboleth": {
+        "en": "Sabanci University",
+        "tr": "Sabancı Üniversitesi"
+    },
+    "https://yetkim.acibadem.edu.tr/idp/shibboleth": {
+        "en": "Acibadem University",
+        "tr": "Acıbadem Üniversitesi"
+    },
+    "https://yetkim.akdeniz.edu.tr/idp/shibboleth": {
+        "en": "Akdeniz University",
+        "tr": "Akdeniz Üniversitesi"
+    },
+    "https://yetkim.antalya.edu.tr/idp/shibboleth": {
+        "en": "Antalya Bilim University",
+        "tr": "Antalya Bilim Üniversitesi"
+    },
+    "https://yetkim.balikesir.edu.tr/idp/shibboleth": {
+        "en": "Balikesir University",
+        "tr": "Balıkesir Üniversitesi"
+    },
+    "https://yetkim.erciyes.edu.tr/idp/shibboleth": {
+        "en": "Erciyes University",
+        "tr": "Erciyes Üniversitesi"
+    },
+    "https://yetkim.etu.edu.tr/idp/saml2/idp/metadata.php": {
+        "en": "TOBB University of Economics & Technology",
+        "tr": "TOBB Ekonomi ve Teknoloji Üniversitesi"
+    },
+    "https://yetkim.gumushane.edu.tr/idp/shibboleth": {
+        "en": "Gumushane University",
+        "tr": "Gumushane Universitesi"
+    },
+    "https://yetkim.iku.edu.tr/idp/shibboleth": {
+        "en": "İstanbul Kültür University",
+        "tr": "İstanbul Kültür Üniversitesi"
+    },
+    "https://yetkim.inonu.edu.tr/idp/shibboleth": {
+        "en": "Inonu University",
+        "tr": "İnönü Üniversitesi"
+    },
+    "https://yetkim.itu.edu.tr/idp/shibboleth": {
+        "en": "Istanbul Technical University",
+        "tr": "İstanbul Teknik Üniversitesi"
+    },
+    "https://yetkim.kastamonu.edu.tr/idp/shibboleth": {
+        "en": "Kastamonu University",
+        "tr": "Kastamonu Üniversitesi"
+    },
+    "https://yetkim.maltepe.edu.tr/idp/shibboleth": {
+        "en": "Maltepe University",
+        "tr": "T.C. Maltepe Üniversitesi"
+    },
+    "https://yetkim.mku.edu.tr/idp/shibboleth": {
+        "en": "Hatay Mustafa Kemal University",
+        "tr": "Hatay Mustafa Kemal Üniversitesi"
+    },
+    "https://yetkim.msgsu.edu.tr/idp/shibboleth": {
+        "en": "Mimar Sinan Fine Arts University",
+        "tr": "Mimar Sinan Güzel Sanatlar Üniversitesi"
+    },
+    "https://yetkim.mu.edu.tr/idp/shibboleth": {
+        "en": "Mugla Sitki Kocman University",
+        "tr": "Muğla Sıtkı Koçman Üniversitesi"
+    },
+    "https://yetkim.ohu.edu.tr/idp/shibboleth": {
+        "en": "Niğde Ömer Halisdemir University",
+        "tr": "Niğde Ömer Halisdemir Üniversitesi"
+    },
+    "https://yetkim.okan.edu.tr/idp/shibboleth": {
+        "en": "Istanbul Okan University",
+        "tr": "İstanbul Okan Üniversitesi"
+    },
+    "https://yetkim.ozyegin.edu.tr/idp/shibboleth": {
+        "en": "Ozyegin University",
+        "tr": "Özyegin Üniversitesi"
+    },
+    "https://yetkim.sinop.edu.tr/idp/shibboleth": {
+        "en": "Sinop University",
+        "tr": "Sinop Üniversitesi"
+    },
+    "https://yetkimidp.ku.edu.tr/idp/shibboleth": {
+        "en": "Koc University",
+        "tr": "Koç Üniversitesi"
+    }
+}

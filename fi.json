@@ -1,0 +1,158 @@
+{
+    "http://fs.valtori.fi/adfs/services/trust": {
+        "en": "Government ICT Centre Valtori",
+        "sv": "Statens center för informations- och kommunikationsteknik"
+    },
+    "http://fs.ymparisto.fi/adfs/services/trust": {
+        "en": "Finnish Environment Institute",
+        "sv": "Finlands miljöcentral"
+    },
+    "http://tunnistus.laurea.fi/adfs/services/trust": {
+        "en": "Laurea University of Applied Sciences",
+        "sv": "Laurea yrkehögskola"
+    },
+    "https://idp.aalto.fi/idp/shibboleth": {
+        "en": "Aalto University",
+        "sv": "Aalto-universitetet"
+    },
+    "https://idp.abo.fi/idp/shibboleth": {
+        "en": "Åbo Akademi University",
+        "sv": "Åbo Akademi"
+    },
+    "https://idp.cou.fi/idp/shibboleth": {
+        "en": "Centria University of Applied Sciences",
+        "sv": "Centria yrkeshögskola"
+    },
+    "https://idp.csc.fi/idp/shibboleth": {
+        "en": "CSC - IT Center for Science Ltd.",
+        "sv": "CSC - Tieteen tietotekniikan keskus Oy"
+    },
+    "https://idp.diak.fi/idp/shibboleth": {
+        "en": "Diaconia University of Applied Sciences",
+        "sv": "Diakonia-ammattikorkeakoulu"
+    },
+    "https://idp.ha.ax/idp/shibboleth": {
+        "en": "Åland University of Applied Sciences",
+        "sv": "Högskolan på Åland"
+    },
+    "https://idp.haaga-helia.fi/idp/shibboleth": {
+        "en": "HAAGA-HELIA University of Applied Sciences",
+        "sv": "HAAGA-HELIA  yrkeshögskola"
+    },
+    "https://idp.lab.fi/idp/shibboleth": {
+        "en": "LAB University of Applied Sciences",
+        "sv": "Yrkeshögskolan Lab"
+    },
+    "https://idp.lapinamk.fi/idp/shibboleth": {
+        "en": "Lapland University of Applied Sciences",
+        "sv": "Lapplands Yrkeshögskola"
+    },
+    "https://idp.lut.fi": {
+        "en": "LUT University",
+        "sv": "LUT-universitetet"
+    },
+    "https://idp.metropolia.fi/idp": {
+        "en": "Metropolia University of Applied Sciences",
+        "sv": "Metropolia yrkeshögskola"
+    },
+    "https://idp.oamk.fi/idp/shibboleth": {
+        "en": "Oulu University of Applied Sciences",
+        "sv": "Yrkeshögskolan i Uleåborg"
+    },
+    "https://idp.pkamk.fi/idp/shibboleth": {
+        "en": "Karelia University of Applied Sciences",
+        "sv": "Karelia yrkehögskola"
+    },
+    "https://idp.samk.fi/idp/shibboleth": {
+        "en": "Satakunta University of Applied Sciences",
+        "sv": "Satakunnan ammattikorkeakoulu"
+    },
+    "https://idp.savonia.fi/idp/shibboleth": {
+        "en": "Savonia University of Applied Sciences",
+        "sv": "Savonia Yrkeshögskola"
+    },
+    "https://idp.seamk.fi/idp/shibboleth": {
+        "en": "Seinäjoki University of Applied Sciences",
+        "sv": "Seinäjoki yrkeshögskola"
+    },
+    "https://idp.shh.fi/idp/shibboleth": {
+        "en": "Hanken School of Economics",
+        "sv": "Hanken Svenska handelshögskolan"
+    },
+    "https://idp.tuni.fi/idp/shibboleth": {
+        "en": "Tampere Universities",
+        "sv": "Tampere Universities"
+    },
+    "https://idp.uef.fi/idp/shibboleth": {
+        "en": "University of Eastern Finland",
+        "sv": "Östra Finlands universitet"
+    },
+    "https://idp.ulapland.fi/idp/shibboleth": {
+        "en": "University of Lapland",
+        "sv": "Lapplands universitet"
+    },
+    "https://idp.uniarts.fi/shibboleth": {
+        "en": "University of the Arts Helsinki",
+        "sv": "Konstuniversitetet"
+    },
+    "https://idp.vamk.fi/saml2/idp/metadata.php": {
+        "en": "Vaasa University of Applied Sciences",
+        "sv": "Vasa yrkeshögskola"
+    },
+    "https://idp1.novia.fi/idp/shibboleth": {
+        "en": "Novia University of Applied Sciences",
+        "sv": "Yrkeshögskolan Novia"
+    },
+    "https://idp1.turkuamk.fi/idp/shibboleth": {
+        "en": "Turku University of Applied Sciences",
+        "sv": "Åbo yrkeshögskola"
+    },
+    "https://idp2.jamk.fi/idp/shibboleth": {
+        "en": "Jyväskylä University of Applied Sciences",
+        "sv": "JAMK"
+    },
+    "https://kamidp01.kamit.fi/idp/shibboleth": {
+        "en": "Kajaani University of Applied Sciences",
+        "sv": "Kajaanin ammattikorkeakoulu Oy"
+    },
+    "https://login.helsinki.fi/shibboleth": {
+        "en": "University of Helsinki",
+        "sv": "Helsingfors universitet"
+    },
+    "https://login.jyu.fi/idp/shibboleth": {
+        "en": "University of Jyväskylä",
+        "sv": "Jyväskylä universitet"
+    },
+    "https://login.oulu.fi/idp/shibboleth": {
+        "en": "University of Oulu",
+        "sv": "Uleåborgs universitet"
+    },
+    "https://login.uwasa.fi/idp/shibboleth": {
+        "en": "University of Vaasa",
+        "sv": "Vasa Universitet"
+    },
+    "https://shibbo.hamk.fi/shibboleth": {
+        "en": "Häme University of Applied Sciences",
+        "sv": "HAMK Yrkeshögskola"
+    },
+    "https://sipuli.fmi.fi/idp/shibboleth": {
+        "en": "Finnish Meteorological Institute",
+        "sv": "Meteorologiska institutet"
+    },
+    "https://sso.utu.fi/sso-idp": {
+        "en": "University of Turku",
+        "sv": "Åbo universitet"
+    },
+    "https://tullbommen.arcada.fi/simplesaml/": {
+        "en": "Arcada",
+        "sv": "Arcada"
+    },
+    "https://tunnistus.thl.fi/idp": {
+        "en": "Finnish Institute for Health and Welfare",
+        "sv": "Institutet för hälsa och välfärd"
+    },
+    "https://xidp.xamk.fi/idp/shibboleth": {
+        "en": "South-Eastern Finland University of Applied Sciences",
+        "sv": "Kaakkois-Suomen ammattikorkeakoulu"
+    }
+}

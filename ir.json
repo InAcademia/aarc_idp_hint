@@ -1,0 +1,8 @@
+{
+    "https://idp.ut.ac.ir:8443/idp/shibboleth": {
+        "en": "University of Tehran"
+    },
+    "https://shibidp.ipm.ir/idp/shibboleth": {
+        "en": "Institute for Research in Fundamental Sciences (IPM)"
+    }
+}

@@ -1,0 +1,532 @@
+{
+    "http://sts.univaq.it/adfs/services/trust": {
+        "en": "University of L'Aquila",
+        "it": "Università degli Studi dell'Aquila"
+    },
+    "https://aap.univr.it/oam/fed": {
+        "en": "University of Verona",
+        "it": "Università di Verona"
+    },
+    "https://auth.conspv.it/saml2/idp/metadata.php": {
+        "en": "Istituto Superiore di Studi Musicali Franco Vittadini",
+        "it": "Istituto Superiore di Studi Musicali Franco Vittadini"
+    },
+    "https://auth.unisa.it/idp/shibboleth": {
+        "en": "University of Salerno",
+        "it": "Università degli Studi di Salerno"
+    },
+    "https://eduid-indire.aai.garr.it/idp/shibboleth": {
+        "en": "eduID-INDIRE",
+        "it": "eduID-INDIRE"
+    },
+    "https://garr-idp-prod.irccs.garr.it/idp/shibboleth": {
+        "en": "PROD - IDP in the Cloud Project (GARR)",
+        "it": "PROD - IDP in the Cloud Project (GARR)"
+    },
+    "https://giasso.univr.it/idp/idem": {
+        "en": "University of Verona",
+        "it": "Università di Verona"
+    },
+    "https://id.istat.it/idp/shibboleth": {
+        "en": "ISTAT - Italian National Institute of Statistics",
+        "it": "ISTAT - Istituto Nazionale di Statistica"
+    },
+    "https://idea.ifc.cnr.it/idp/shibboleth": {
+        "en": "CNR Institute of Clinical Physiology",
+        "it": "CNR Istituto di Fisiologia Clinica"
+    },
+    "https://idem-idp.ilc.cnr.it/idp/shibboleth": {
+        "en": "CNR Institute for Computational Linguistics \"Antonio Zampolli\"",
+        "it": "CNR Istituto di Linguistica Computazionale \"Antonio Zampolli\""
+    },
+    "https://idem-idp.imtlucca.it/idp/shibboleth": {
+        "en": "IMT School for Advanced Studies Lucca - IDP",
+        "it": "IMT School for Advanced Studies Lucca - IDP"
+    },
+    "https://idem-idp.uniud.it/idp/shibboleth": {
+        "en": "University of Udine",
+        "it": "Università degli Studi di Udine"
+    },
+    "https://idem.ced.inaf.it/idp/shibboleth": {
+        "en": "National Institute for Astrophysics - INAF",
+        "it": "Istituto Nazionale di Astrofisica - INAF"
+    },
+    "https://idem.iss.it/idp/shibboleth": {
+        "en": "ISS - National Health Institute",
+        "it": "ISS - Istituto Superiore di Sanità"
+    },
+    "https://idem.polito.it/idp/shibboleth": {
+        "en": "Politecnico of Torino",
+        "it": "Politecnico di Torino"
+    },
+    "https://idem.unikore.it/idp/shibboleth": {
+        "en": "Enna Kore University",
+        "it": "Università degli Studi di Enna Kore"
+    },
+    "https://idem.unina2.it/idp/shibboleth": {
+        "en": "Vanvitelli University",
+        "it": "Università degli Studi della Campania Luigi Vanvitelli"
+    },
+    "https://idem.uniroma2.eu/idp/shibboleth": {
+        "en": "University of Rome Tor Vergata",
+        "it": "Università degli Studi di Roma Tor Vergata"
+    },
+    "https://idem.unisalento.it/idp/shibboleth": {
+        "en": "University of Salento",
+        "it": "Università del Salento"
+    },
+    "https://idemfero.units.it/idp/shibboleth": {
+        "en": "University of Trieste",
+        "it": "Università di Trieste"
+    },
+    "https://idemidp.unipmn.it/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Piemonte Orientale",
+        "it": "Università degli studi del Piemonte Orientale"
+    },
+    "https://idemshibb.unina.it/idp/shibboleth": {
+        "en": "University of Naples Federico II",
+        "it": "Università degli Studi di Napoli Federico II"
+    },
+    "https://identity.unife.it/idp/shibboleth": {
+        "en": "University of Ferrara",
+        "it": "Università di Ferrara"
+    },
+    "https://idp-acs.beniculturali.garr.it/idp/shibboleth": {
+        "en": "Central State Archives",
+        "it": "Archivio Centrale dello Stato"
+    },
+    "https://idp-aux.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Auxologico - Milano",
+        "it": "IRCCS Auxologico - Milano"
+    },
+    "https://idp-burlog.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Burlo Garofolo - Trieste",
+        "it": "IRCCS Burlo Garofolo - Trieste"
+    },
+    "https://idp-ccmonz.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Centro Cardiologico Monzino - Milano",
+        "it": "IRCCS Centro Cardiologico Monzino - Milano"
+    },
+    "https://idp-cro.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS CRO di Aviano",
+        "it": "IRCCS CRO di Aviano"
+    },
+    "https://idp-crob.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS CROB - Rionero in Vulture (PZ)",
+        "it": "IRCCS CROB - Rionero in Vulture (PZ)"
+    },
+    "https://idp-css.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Casa Sollievo della Sofferenza",
+        "it": "IRCCS Casa Sollievo della Sofferenza"
+    },
+    "https://idp-debellis.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS \"S. de Bellis\" - Castellana Grotte (BARI)",
+        "it": "IRCCS \"S. de Bellis\" - Castellana Grotte (BARI)"
+    },
+    "https://idp-dgnocchi.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Fondazione Don Carlo Gnocchi Onlus",
+        "it": "IRCCS Fondazione Don Carlo Gnocchi Onlus"
+    },
+    "https://idp-emedea.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Eugenio Medea",
+        "it": "IRCCS Eugenio Medea"
+    },
+    "https://idp-fbf.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS FBF - Brescia",
+        "it": "IRCCS FBF - Brescia"
+    },
+    "https://idp-iccu.beniculturali.garr.it/idp/shibboleth": {
+        "en": "ICCU - Central Institute for the Union Catalogue",
+        "it": "ICCU - Istituto Centrale per il Catalogo Unico"
+    },
+    "https://idp-idm.unibg.it/idp/shibboleth": {
+        "en": "University of Bergamo",
+        "it": "Universita' degli studi di Bergamo"
+    },
+    "https://idp-idm.unimib.it/idp/shibboleth": {
+        "en": "University of Milano-Bicocca",
+        "it": "Università di Milano-Bicocca"
+    },
+    "https://idp-ieo.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS IEO - Milano",
+        "it": "IRCCS IEO - Milano"
+    },
+    "https://idp-ifo.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS IFO - Rome",
+        "it": "IRCCS IFO - Roma"
+    },
+    "https://idp-inmi.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS INMI Spallanzani - Roma",
+        "it": "IRCCS INMI Spallanzani - Roma"
+    },
+    "https://idp-inrca.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS INRCA - Ancona",
+        "it": "IRCCS INRCA - Ancona"
+    },
+    "https://idp-intna.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Pascale - Napoli",
+        "it": "IRCCS Istituto Nazionale Tumori \"Fondazione G. Pascale\" Napoli"
+    },
+    "https://idp-iov.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS IOV Istituto Oncologico Veneto",
+        "it": "IRCCS IOV Istituto Oncologico Veneto"
+    },
+    "https://idp-ismett.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS ISMETT - Palermo",
+        "it": "IRCCS ISMETT - Palermo"
+    },
+    "https://idp-isnb.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Istituto delle Scienze Neurologiche - Bologna",
+        "it": "IRCCS Istituto delle Scienze Neurologiche - Bologna"
+    },
+    "https://idp-istba.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Istituto Tumori \"Giovanni Paolo II\" - Bari",
+        "it": "IRCCS Istituto Tumori \"Giovanni Paolo II\" - Bari"
+    },
+    "https://idp-maugeri.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS ICS Maugeri - Pavia",
+        "it": "IRCCS ICS Maugeri - Pavia"
+    },
+    "https://idp-multimedica.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS MultiMedica - Milano",
+        "it": "IRCCS MultiMedica - Milano"
+    },
+    "https://idp-neuromed.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Neuromed Pozzilli (IS)",
+        "it": "IRCCS Neuromed Pozzilli (IS)"
+    },
+    "https://idp-oasi.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Associazione Oasi Maria SS. Onlus",
+        "it": "IRCCS Associazione Oasi Maria SS. Onlus"
+    },
+    "https://idp-omp-mi.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS OMP Ca' Granda - Milano",
+        "it": "IRCCS OMP Ca' Granda - Milano"
+    },
+    "https://idp-ospedalesanmartino.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS San Martino University Hospital",
+        "it": "IRCCS Ospedale Policlinico San Martino"
+    },
+    "https://idp-portici.izs.garr.it/idp/shibboleth": {
+        "en": "IZS del Mezzogiorno",
+        "it": "IZS del Mezzogiorno"
+    },
+    "https://idp-sanmatteo.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS San Matteo - Pavia",
+        "it": "IRCCS San Matteo - Pavia"
+    },
+    "https://idp-scamillo.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS San Camillo - Venice",
+        "it": "IRCCS San Camillo - Venezia"
+    },
+    "https://idp-sdn.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS SDN - Napoli",
+        "it": "IRCCS SDN - Napoli"
+    },
+    "https://idp-sh.cisiaonline.it/idp/shibboleth": {
+        "en": "CISIA Consorzio Interuniversitario Sistemi Integrati per l'Accesso",
+        "it": "CISIA Consorzio Interuniversitario Sistemi Integrati per l'Accesso"
+    },
+    "https://idp-sicilia.izs.garr.it/idp/shibboleth": {
+        "en": "IZS Sicilia",
+        "it": "IZS Sicilia"
+    },
+    "https://idp-slucia.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Santa Lucia - Roma",
+        "it": "IRCCS Santa Lucia - Roma"
+    },
+    "https://idp-srpisana.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS San Raffaele Pisana - Rome",
+        "it": "IRCCS San Raffaele Pisana - Roma"
+    },
+    "https://idp-ssbar.beniculturali.garr.it/idp/shibboleth": {
+        "en": "SSABAP RM - Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma",
+        "it": "SSABAP RM - Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma"
+    },
+    "https://idp-staf-prod.cineca.it/idp/shibboleth": {
+        "en": "CINECA",
+        "it": "CINECA"
+    },
+    "https://idp-stellamaris.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Fondazione Stella Maris",
+        "it": "IRCCS Fondazione Stella Maris"
+    },
+    "https://idp-unibs-prod.unibs.it/idp/shibboleth": {
+        "en": "University of Brescia",
+        "it": "Università degli Studi di Brescia"
+    },
+    "https://idp-unich-prod.cineca.it/idp/shibboleth": {
+        "en": "University of Chieti-Pescara",
+        "it": "Università degli Studi G. D'Annunzio Chieti-Pescara"
+    },
+    "https://idp-unito-prod.cineca.it/idp/shibboleth": {
+        "en": "University of Turin",
+        "it": "Università di Torino"
+    },
+    "https://idp-unitus-prod.cineca.it/idp/shibboleth": {
+        "en": "University of Tuscia",
+        "it": "Università degli Studi della Tuscia"
+    },
+    "https://idp.cnr.it/idp/shibboleth": {
+        "en": "National Research Council (CNR)",
+        "it": "Consiglio Nazionale delle Ricerche (CNR)"
+    },
+    "https://idp.dir.garr.it/idp/shibboleth": {
+        "en": "GARR",
+        "it": "GARR"
+    },
+    "https://idp.ego-gw.it/idp/shibboleth": {
+        "en": "European Gravitational Observatory",
+        "it": "European Gravitational Observatory"
+    },
+    "https://idp.eurac.edu/idp/shibboleth": {
+        "de": "EURAC",
+        "en": "https://idp.eurac.edu/idp/shibboleth",
+        "it": "EURAC"
+    },
+    "https://idp.ictp.it/simplesaml/saml2/idp/metadata.php": {
+        "en": "The Abdus Salam International Centre for Theoretical Physics (ICTP)",
+        "it": "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+    },
+    "https://idp.iit.cnr.it/idp/shibboleth": {
+        "en": "CNR Institute of Informatics and Telematics",
+        "it": "CNR Istituto di Informatica e Telematica"
+    },
+    "https://idp.iit.it/idp/shibboleth": {
+        "en": "IIT - Istituto Italiano di Tecnologia",
+        "it": "IIT - Istituto Italiano di Tecnologia"
+    },
+    "https://idp.infn.it/saml2/idp/metadata.php": {
+        "en": "INFN - National Institute for Nuclear Physics",
+        "it": "INFN - Istituto Nazionale di Fisica Nucleare"
+    },
+    "https://idp.inrim.it/idp/shibboleth": {
+        "en": "INRiM - Istituto Nazionale di Ricerca Metrologica",
+        "it": "INRiM - Istituto Nazionale di Ricerca Metrologica"
+    },
+    "https://idp.isprambiente.it/idp/shibboleth": {
+        "en": "ISPRA Italian Institute for Environmental Protection and Research",
+        "it": "ISPRA Istituto Superiore per la Protezione e Ricerca Ambientale"
+    },
+    "https://idp.iuav.it/idp/shibboleth": {
+        "en": "University IUAV Venezia",
+        "it": "Università IUAV di Venezia"
+    },
+    "https://idp.iulm.it/simplesaml/saml2/idp/metadata.php": {
+        "en": "International University of Languages and Media",
+        "it": "Libera Università di Lingue e Comunicazione IULM"
+    },
+    "https://idp.iusspavia.it/idp/shibboleth": {
+        "en": "IUSS - University School for Advanced Studies Pavia",
+        "it": "IUSS - Scuola Universitaria Superiore Pavia"
+    },
+    "https://idp.izs.it/idp/shibboleth": {
+        "en": "Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise \"G. Caporale\"",
+        "it": "Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise \"G. Caporale\""
+    },
+    "https://idp.luiss.it/idp/shibboleth": {
+        "en": "LUISS",
+        "it": "LUISS"
+    },
+    "https://idp.museogalileo.it/idp/shibboleth": {
+        "en": "Museo Galileo - Istituto e Museo di Storia della Scienza",
+        "it": "Museo Galileo - Istituto e Museo di Storia della Scienza"
+    },
+    "https://idp.sissa.it/idp/shibboleth": {
+        "en": "SISSA",
+        "it": "SISSA"
+    },
+    "https://idp.sssup.it/idp/shibboleth": {
+        "en": "Sant'Anna School of Advanced Studies - Pisa",
+        "it": "Sant'Anna Scuola Universitaria Superiore - Pisa"
+    },
+    "https://idp.szn.it/idp/shibboleth": {
+        "en": "Anton Dohrn Zoological Station",
+        "it": "Stazione Zoologica Anton Dohrn"
+    },
+    "https://idp.tigem.it/idp/shibboleth": {
+        "en": "Fondazione Telethon - TIGEM",
+        "it": "Fondazione Telethon - TIGEM"
+    },
+    "https://idp.unibas.it/idp/shibboleth": {
+        "en": "University of Basilicata",
+        "it": "Università degli Studi della Basilicata"
+    },
+    "https://idp.unibocconi-prod.it/idp/shibboleth": {
+        "en": "Bocconi University",
+        "it": "Università Bocconi"
+    },
+    "https://idp.unibz.it/idp/shibboleth": {
+        "de": "Freie Universität Bozen",
+        "en": "https://idp.unibz.it/idp/shibboleth",
+        "it": "Libera Università di Bolzano"
+    },
+    "https://idp.unica.it/idp/shibboleth": {
+        "en": "Cagliari State University",
+        "it": "Università degli Studi di Cagliari"
+    },
+    "https://idp.unical.it/idp/shibboleth": {
+        "en": "University of Calabria",
+        "it": "Università della Calabria"
+    },
+    "https://idp.unicam.it/idp/shibboleth": {
+        "en": "University of Camerino",
+        "it": "Università di Camerino"
+    },
+    "https://idp.unicas.it/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Cassino - IDP",
+        "it": "Università degli Studi di Cassino e del Lazio Meridionale"
+    },
+    "https://idp.unicatt.it/idp/shibboleth": {
+        "en": "Università Cattolica del Sacro Cuore",
+        "it": "Università Cattolica del Sacro Cuore"
+    },
+    "https://idp.unifg.it/idp/shibboleth": {
+        "en": "University of Foggia",
+        "it": "Università di Foggia"
+    },
+    "https://idp.unimc.it/idp/shibboleth": {
+        "en": "University of Macerata",
+        "it": "Università degli Studi di Macerata"
+    },
+    "https://idp.unimi.it/idp/shibboleth": {
+        "en": "Universita' degli Studi di Milano",
+        "it": "Universita' degli Studi di Milano"
+    },
+    "https://idp.unimore.it/idp/shibboleth": {
+        "en": "University of Modena e Reggio Emilia",
+        "it": "Università degli Studi di Modena e Reggio Emilia"
+    },
+    "https://idp.uninettunouniversity.net/idp/shibboleth": {
+        "en": "International Telematic University UNINETTUNO",
+        "it": "Università Telematica Internazionale UNINETTUNO"
+    },
+    "https://idp.unint.eu/idp/shibboleth": {
+        "en": "Università degli Studi Internazionali di Roma - UNINT",
+        "it": "Università degli Studi Internazionali di Roma - UNINT"
+    },
+    "https://idp.unipa.it/idp/shibboleth": {
+        "en": "University of Palermo",
+        "it": "Università degli Studi di Palermo"
+    },
+    "https://idp.uniparthenope.it/idp/shibboleth": {
+        "en": "Università di Napoli Parthenope",
+        "it": "Università di Napoli Parthenope"
+    },
+    "https://idp.unipg.it/idp/shibboleth": {
+        "en": "University of Perugia",
+        "it": "Università degli studi di Perugia"
+    },
+    "https://idp.unipi.it/idp/shibboleth": {
+        "en": "University of Pisa",
+        "it": "Università degli Studi di Pisa"
+    },
+    "https://idp.unipv.it/idp/shibboleth": {
+        "en": "University of Pavia",
+        "it": "Università degli Studi di Pavia"
+    },
+    "https://idp.uniroma1.it/idp/shibboleth": {
+        "en": "Sapienza University of Rome",
+        "it": "Sapienza Università di Roma"
+    },
+    "https://idp.uniroma3.it/idp/shibboleth": {
+        "en": "Roma Tre University IdP",
+        "it": "Università Roma Tre IdP"
+    },
+    "https://idp.unisannio.it/idp/shibboleth": {
+        "en": "University of Sannio",
+        "it": "Università degli Studi del Sannio"
+    },
+    "https://idp.unistrapg.it/idp/shibboleth": {
+        "en": "University for Foreigners Perugia",
+        "it": "Università per Stranieri di Perugia"
+    },
+    "https://idp.unite.it/idp/shibboleth": {
+        "en": "University of Teramo",
+        "it": "Università degli Studi di Teramo"
+    },
+    "https://idp.unitn.it/idp/shibboleth": {
+        "en": "University of Trento",
+        "it": "Università di Trento"
+    },
+    "https://idp.uniurb.it/idp/shibboleth": {
+        "en": "Urbino University",
+        "it": "Università di Urbino"
+    },
+    "https://idp.unive.it/idp/shibboleth": {
+        "en": "Ca' Foscari University of Venice",
+        "it": "Università Ca Foscari di Venezia"
+    },
+    "https://idp.univpm.it/idp/shibboleth": {
+        "en": "University of Politecnica delle Marche",
+        "it": "Università Politecnica delle Marche"
+    },
+    "https://idp01.ogs.trieste.it/idp/shibboleth": {
+        "en": "National Institute of Oceanography and Experimental Geophysics",
+        "it": "OGS (Istituto Nazionale di Oceanografia e di Geofisica Sperimentale)"
+    },
+    "https://idpi.unirc.it/idp/shibboleth": {
+        "en": "Mediterranea University of Reggio Calabria",
+        "it": "Università degli Studi Mediterranea di Reggio Calabria"
+    },
+    "https://idpuniba.uniba.it/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Bari Aldo Moro",
+        "it": "Università degli Studi di Bari Aldo Moro"
+    },
+    "https://idpunict.unict.it/idp/shibboleth": {
+        "en": "University of Catania",
+        "it": "Università degli Studi di Catania"
+    },
+    "https://login.fmach.eu/idp/shibboleth": {
+        "en": "Edmund Mach Foundation - Istituto Agrario di San Michele all'Adige",
+        "it": "Fondazione Edmund Mach - Istituto Agrario di San Michele all'Adige"
+    },
+    "https://minosse.unime.it/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Messina",
+        "it": "Università degli Studi di Messina"
+    },
+    "https://my.poliba.it/idp/shibboleth": {
+        "en": "Politecnico of Bari",
+        "it": "Politecnico di Bari"
+    },
+    "https://shib.unibo.it/idp/shibboleth": {
+        "en": "University of Bologna",
+        "it": "Università di Bologna"
+    },
+    "https://shibboleth.unifi.it/idp/shibboleth": {
+        "en": "University of Florence",
+        "it": "Università di Firenze"
+    },
+    "https://shibboleth.unisi.it/idp/shibboleth": {
+        "en": "University of Siena",
+        "it": "Università degli Studi di Siena"
+    },
+    "https://shibidp.cca.unipd.it/idp/shibboleth": {
+        "en": "University of Padova",
+        "it": "Università degli Studi di Padova"
+    },
+    "https://shibidp.polimi.it/idp/shibboleth": {
+        "en": "Politecnico di Milano",
+        "it": "Politecnico di Milano"
+    },
+    "https://shibidp.unipr.it/idp/shibboleth": {
+        "en": "University of Parma",
+        "it": "Università degli Studi di Parma"
+    },
+    "https://sns.idp.cineca.it/idp/shibboleth": {
+        "en": "Scuola Normale Superiore",
+        "it": "Scuola Normale Superiore"
+    },
+    "https://unigepass.unige.it/idp": {
+        "en": "University of Genoa",
+        "it": "Università di Genova"
+    },
+    "https://uniss.idp.cineca.it/idp/shibboleth": {
+        "en": "Universita' degli studi di Sassari",
+        "it": "Universita' degli studi di Sassari"
+    },
+    "https://univda.idp.cineca.it/idp/shibboleth": {
+        "en": "University of Aosta Valley",
+        "it": "Università della Valle d'Aosta"
+    }
+}

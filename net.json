@@ -1,0 +1,38 @@
+{
+    "http://websso1.um.edu.mo/adfs/services/trust": {
+        "en": "University of Macau",
+        "zh": "澳門大學"
+    },
+    "https://aai.cstcloud.net/saml/idp": {
+        "en": "CSTCloud Identity Federation IDP",
+        "zh": "中国科技云身份认证联盟IDP"
+    },
+    "https://idp.baafs.net.cn/idp/shibboleth": {
+        "en": "Beijing Academy of Agriculture and Forestry Sciences",
+        "zh": "北京市农林科学院"
+    },
+    "https://idp.hnskxy.cn/idp/shibboleth": {
+        "en": "Henan Academy of Sciences",
+        "zh": "河南省科学院"
+    },
+    "https://idp.jxas.ac.cn/idp/shibboleth": {
+        "en": "JiangXi Academy of Sciences",
+        "zh": "江西省科学院"
+    },
+    "https://idp.scholarin.cn/idp/shibboleth": {
+        "en": "Scholarin ID",
+        "zh": "慧科研通行证"
+    },
+    "https://idp.stlib.cn/idp/shibboleth": {
+        "en": "Guangdong Science and Technology Library",
+        "zh": "广东省科技图书馆"
+    },
+    "https://login.imicams.ac.cn/idp/shibboleth": {
+        "en": "PUMC ID",
+        "zh": "协和统一身份认证"
+    },
+    "https://passport.escience.cn/idp/shibboleth": {
+        "en": "CSTCloud ID",
+        "zh": "中国科技云通行证(CSTCloud ID)"
+    }
+}

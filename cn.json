@@ -1,0 +1,2018 @@
+{
+    "https://carsi-idp.bipt.edu.cn/idp/shibboleth": {
+        "en": "Beijing Institute of Petrochemical Technology",
+        "zh": "北京石油化工学院(Beijing Institute of Petrochemical Technology )"
+    },
+    "https://carsi-idp.zqu.edu.cn/idp/shibboleth": {
+        "en": "Zhaoqing University",
+        "zh": "肇庆学院(Zhaoqing University)"
+    },
+    "https://carsiidp.swu.edu.cn/idp/shibboleth": {
+        "en": "Southwest University",
+        "zh": "西南大学(Southwest University)"
+    },
+    "https://idp-carsi.shnu.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Normal University",
+        "zh": "上海师范大学(Shanghai Normal University)"
+    },
+    "https://idp-carsi.shou.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Ocean University",
+        "zh": "上海海洋大学(Shanghai Ocean University)"
+    },
+    "https://idp-carsi.suibe.edu.cn/idp/shibboleth": {
+        "en": "SUIBE",
+        "zh": "上海对外经贸大学(SUIBE )"
+    },
+    "https://idp-cas.sues.edu.cn/idp/shibboleth": {
+        "en": "Shanghai University of Engineering Science",
+        "zh": "上海工程技术大学(Shanghai University of Engineering Science)"
+    },
+    "https://idp-lib.abtu.edu.cn/idp/shibboleth": {
+        "en": "Aba Teachers University",
+        "zh": "阿坝师范学院(Aba Teachers University)"
+    },
+    "https://idp-lib.bjut.edu.cn/idp/shibboleth": {
+        "en": "Beijing University of Technology",
+        "zh": "北京工业大学(Beijing University of Technology)"
+    },
+    "https://idp-lib.cau.edu.cn/idp/shibboleth": {
+        "en": "China Agricultural University",
+        "zh": "中国农业大学(China Agricultural University)"
+    },
+    "https://idp-lib.cqnu.edu.cn/idp/shibboleth": {
+        "en": "Chongqing Normal university",
+        "zh": "重庆师范大学(Chongqing Normal university)"
+    },
+    "https://idp-lib.cslg.edu.cn/idp/shibboleth": {
+        "en": "Changshu Institute of Technology",
+        "zh": "常熟理工学院(Changshu Institute of Technology)"
+    },
+    "https://idp-lib.cwnu.edu.cn/idp/shibboleth": {
+        "en": "China West Normal University",
+        "zh": "西华师范大学(China West Normal University)"
+    },
+    "https://idp-lib.gxmu.edu.cn/idp/shibboleth": {
+        "en": "Guangxi Medical University",
+        "zh": "广西医科大学(Guangxi Medical University)"
+    },
+    "https://idp-lib.gzhu.edu.cn/idp/shibboleth": {
+        "en": "Guangzhou University",
+        "zh": "广州大学(Guangzhou University)"
+    },
+    "https://idp-lib.hlju.edu.cn/idp/shibboleth": {
+        "en": "Heilongjiang University",
+        "zh": "黑龙江大学(Heilongjiang University)"
+    },
+    "https://idp-lib.hrbust.edu.cn/idp/shibboleth": {
+        "en": "Harbin University of Science and Technology",
+        "zh": "哈尔滨理工大学(Harbin University of Science and Technology)"
+    },
+    "https://idp-lib.huh.edu.cn/idp/shibboleth": {
+        "en": "He University",
+        "zh": "辽宁何氏医学院(He University)"
+    },
+    "https://idp-lib.imau.edu.cn/idp/shibboleth": {
+        "en": "Inner Mongolia Agricultural University",
+        "zh": "内蒙古农业大学(Inner Mongolia Agricultural University)"
+    },
+    "https://idp-lib.jlu.edu.cn/idp/shibboleth": {
+        "en": "Jilin University",
+        "zh": "吉林大学(Jilin University)"
+    },
+    "https://idp-lib.jmsu.edu.cn/idp/shibboleth": {
+        "en": "Jiamusi University",
+        "zh": "佳木斯大学(Jiamusi University)"
+    },
+    "https://idp-lib.just.edu.cn/idp/shibboleth": {
+        "en": "Jiangsu University of Science and Technology",
+        "zh": "江苏科技大学(Jiangsu University of Science and Technology)"
+    },
+    "https://idp-lib.mnnu.edu.cn/idp/shibboleth": {
+        "en": "Minnan Normal University",
+        "zh": "闽南师范大学(Minnan Normal University)"
+    },
+    "https://idp-lib.muc.edu.cn/idp/shibboleth": {
+        "en": "MINZU UNIVERSITY OF CHINA",
+        "zh": "中央民族大学(MINZU UNIVERSITY OF CHINA )"
+    },
+    "https://idp-lib.nefu.edu.cn/idp/shibboleth": {
+        "en": "Northeast Forestry University",
+        "zh": "东北林业大学(Northeast Forestry University)"
+    },
+    "https://idp-lib.nenu.edu.cn/idp/shibboleth": {
+        "en": "Northeast Normal University",
+        "zh": "东北师范大学(Northeast Normal University)"
+    },
+    "https://idp-lib.njfu.edu.cn/idp/shibboleth": {
+        "en": "Nanjing Forestry University",
+        "zh": "南京林业大学(Nanjing Forestry University)"
+    },
+    "https://idp-lib.njmu.edu.cn/idp/shibboleth": {
+        "en": "Nanjing  Medical University",
+        "zh": "南京医科大学(Nanjing  Medical University)"
+    },
+    "https://idp-lib.njnu.edu.cn/idp/shibboleth": {
+        "en": "Nanjing Normal University",
+        "zh": "南京师范大学(Nanjing Normal University)"
+    },
+    "https://idp-lib.nmu.edu.cn/idp/shibboleth": {
+        "en": "North Minzu University",
+        "zh": "北方民族大学(North Minzu University)"
+    },
+    "https://idp-lib.nuist.edu.cn/idp/shibboleth": {
+        "en": "Nanjing University of information Science & Technology",
+        "zh": "南京信息工程大学(Nanjing University of information Science & Technology)"
+    },
+    "https://idp-lib.nwafu.edu.cn/idp/shibboleth": {
+        "en": "Northwest A and F University",
+        "zh": "西北农林科技大学(Northwest A and F University)"
+    },
+    "https://idp-lib.sdnu.edu.cn/idp/shibboleth": {
+        "en": "Shandong Normal University",
+        "zh": "山东师范大学(Shandong Normal University)"
+    },
+    "https://idp-lib.shcc.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Customs College",
+        "zh": "上海海关学院(Shanghai Customs College)"
+    },
+    "https://idp-lib.shzu.edu.cn/idp/shibboleth": {
+        "en": "Shihezi University",
+        "zh": "石河子大学(Shihezi University)"
+    },
+    "https://idp-lib.smbu.edu.cn/idp/shibboleth": {
+        "en": "Shenzhen MSU-BIT University",
+        "zh": "深圳北理莫斯科大学(Shenzhen MSU-BIT University)"
+    },
+    "https://idp-lib.stu.edu.cn/idp/shibboleth": {
+        "en": "Shantou University",
+        "zh": "汕头大学(Shantou University)"
+    },
+    "https://idp-lib.swmu.edu.cn/idp/shibboleth": {
+        "en": "Southwest Medical University",
+        "zh": "西南医科大学(Southwest Medical University)"
+    },
+    "https://idp-lib.uestc.edu.cn/idp/shibboleth": {
+        "en": "UESTC",
+        "zh": "电子科技大学(UESTC)"
+    },
+    "https://idp-lib.uibe.edu.cn/idp/shibboleth": {
+        "en": "University of International Business and Economics",
+        "zh": "对外经济贸易大学(University of International Business and Economics)"
+    },
+    "https://idp-lib.whpu.edu.cn/idp/shibboleth": {
+        "en": "Wuhan Polytechnic University",
+        "zh": "武汉轻工大学(Wuhan Polytechnic University)"
+    },
+    "https://idp-lib.zjhu.edu.cn/idp/shibboleth": {
+        "en": "Huzhou University",
+        "zh": "湖州师范学院(Huzhou University)"
+    },
+    "https://idp-tsg.buct.edu.cn/idp/shibboleth": {
+        "en": "Beijing University of Chemical Technology",
+        "zh": "北京化工大学(Beijing University of Chemical Technology)"
+    },
+    "https://idp-xxglzx.ynufe.edu.cn/idp/shibboleth": {
+        "en": "Yunnan University of Finance and Economics",
+        "zh": "云南财经大学(Yunnan University of Finance and Economics)"
+    },
+    "https://idp.5aaa.com/idp/shibboleth": {
+        "en": "University For Science & Technology Beijing",
+        "zh": "北京科技职业学院(University For Science & Technology Beijing)"
+    },
+    "https://idp.abc.edu.cn/idp/shibboleth": {
+        "en": "Anhui Business College",
+        "zh": "安徽商贸职业技术学院(Anhui Business College)"
+    },
+    "https://idp.afc.edu.cn/idp/shibboleth": {
+        "en": "Anhui Finance And Trade Vocational College",
+        "zh": "安徽财贸职业学院(Anhui Finance And Trade Vocational College )"
+    },
+    "https://idp.ahau.edu.cn/idp/shibboleth": {
+        "en": "Anhui Agriculture University",
+        "zh": "安徽农业大学(Anhui Agriculture University)"
+    },
+    "https://idp.ahbvc.edu.cn/idp/shibboleth": {
+        "en": "Anhui Business and Technology College",
+        "zh": "安徽工商职业学院(Anhui Business and Technology College)"
+    },
+    "https://idp.ahcme.edu.cn/idp/shibboleth": {
+        "en": "Anhui Technical College Of Mechanical and Electrical Engineering",
+        "zh": "安徽机电职业技术学院(Anhui Technical College Of Mechanical and Electrical Engineering)"
+    },
+    "https://idp.ahiib.edu.cn/idp/shibboleth": {
+        "en": "Anhui Institute  Of  International  Business",
+        "zh": "安徽国际商务职业学院(Anhui Institute  Of  International  Business)"
+    },
+    "https://idp.ahjzu.edu.cn/idp/shibboleth": {
+        "en": "AHHUI JIANZHU UNIVERSITY",
+        "zh": "安徽建筑大学(AHHUI JIANZHU UNIVERSITY)"
+    },
+    "https://idp.ahnu.edu.cn/idp/shibboleth": {
+        "en": "Anhui Normal University",
+        "zh": "安徽师范大学(Anhui Normal University)"
+    },
+    "https://idp.ahpu.edu.cn/idp/shibboleth": {
+        "en": "Anhui Polytechnic University",
+        "zh": "安徽工程大学(Anhui Polytechnic University)"
+    },
+    "https://idp.ahsdxy.edu.cn/idp/shibboleth": {
+        "en": "Anhui Water Conservancy Technical College",
+        "zh": "安徽水利水电职业技术学院(Anhui Water Conservancy Technical College)"
+    },
+    "https://idp.ahstu.edu.cn/idp/shibboleth": {
+        "en": "AnHui Science and Technology University",
+        "zh": "安徽科技学院(AnHui Science and Technology University)"
+    },
+    "https://idp.ahszu.edu.cn/idp/shibboleth": {
+        "en": "Suzhou University",
+        "zh": "宿州学院(Suzhou University)"
+    },
+    "https://idp.ahu.edu.cn/idp/shibboleth": {
+        "en": "Anhui University",
+        "zh": "安徽大学(Anhui University)"
+    },
+    "https://idp.ahut.edu.cn/idp/shibboleth": {
+        "en": "Anhui University of Technology",
+        "zh": "安徽工业大学(Anhui University of Technology)"
+    },
+    "https://idp.aqnu.edu.cn/idp/shibboleth": {
+        "en": "Anqing Normal University",
+        "zh": "安庆师范大学(Anqing Normal University)"
+    },
+    "https://idp.aufe.edu.cn/idp/shibboleth": {
+        "en": "Anhui University of Finance and Econonics",
+        "zh": "安徽财经大学(Anhui University of Finance and Econonics)"
+    },
+    "https://idp.aust.edu.cn/idp/shibboleth": {
+        "en": "Anhui University Of Science And Technology",
+        "zh": "安徽理工大学(Anhui University Of Science And Technology)"
+    },
+    "https://idp.axhu.edu.cn/idp/shibboleth": {
+        "en": "Anhui Xinhua University",
+        "zh": "安徽新华学院(Anhui Xinhua University)"
+    },
+    "https://idp.bbc.edu.cn/idp/shibboleth": {
+        "en": "Bengbu University",
+        "zh": "蚌埠学院(Bengbu University)"
+    },
+    "https://idp.bbmc.edu.cn/idp/shibboleth": {
+        "en": "Bengbu Medical College",
+        "zh": "蚌埠医学院(Bengbu Medical College)"
+    },
+    "https://idp.bcnu.edu.cn/idp/shibboleth": {
+        "en": "BaiCheng Normal University",
+        "zh": "白城师范学院(BaiCheng Normal University)"
+    },
+    "https://idp.bcu.edu.cn/idp/shibboleth": {
+        "en": "Beijing City University",
+        "zh": "北京城市学院(Beijing City University)"
+    },
+    "https://idp.bgy.edu.cn/idp/shibboleth": {
+        "en": "Beijing Polytechnic College",
+        "zh": "北京工业职业技术学院(Beijing Polytechnic College)"
+    },
+    "https://idp.bift.edu.cn/idp/shibboleth": {
+        "en": "Beijing  Institute  of  Fashion  Technology",
+        "zh": "北京服装学院(Beijing  Institute  of  Fashion  Technology )"
+    },
+    "https://idp.bisu.edu.cn/idp/shibboleth": {
+        "en": "Beijing International Studies University",
+        "zh": "北京第二外国语学院(Beijing International Studies University)"
+    },
+    "https://idp.bit.edu.cn/idp/shibboleth": {
+        "en": "Beijing Institute of Technology",
+        "zh": "北京理工大学(Beijing Institute of Technology)"
+    },
+    "https://idp.bjfu.edu.cn/idp/shibboleth": {
+        "en": "Beijing Forestry University",
+        "zh": "北京林业大学(Beijing Forestry University)"
+    },
+    "https://idp.bjtu.edu.cn/idp/shibboleth": {
+        "en": "BEIJING JIAOTONG UNIVERSITY",
+        "zh": "北京交通大学(BEIJING JIAOTONG UNIVERSITY)"
+    },
+    "https://idp.btmc.edu.cn/idp/shibboleth": {
+        "en": "Baotou Medical College",
+        "zh": "包头医学院(Baotou Medical College)"
+    },
+    "https://idp.bttc.edu.cn/idp/shibboleth": {
+        "en": "Baotou Teachers' College",
+        "zh": "包头师范学院(Baotou Teachers' College)"
+    },
+    "https://idp.bua.edu.cn/idp/shibboleth": {
+        "en": "Beijing University of Agriculture",
+        "zh": "北京农学院(Beijing University of Agriculture)"
+    },
+    "https://idp.buaa.edu.cn/idp/shibboleth": {
+        "en": "Beihang University",
+        "zh": "北京航空航天大学(Beihang University)"
+    },
+    "https://idp.bucea.edu.cn/idp/shibboleth": {
+        "en": "Beijing University of Civil Engineering and Architecture",
+        "zh": "北京建筑大学(Beijing University of Civil Engineering and Architecture)"
+    },
+    "https://idp.bupt.edu.cn/idp/shibboleth": {
+        "en": "Beijing University of Posts and Telecommunications",
+        "zh": "北京邮电大学(Beijing University of Posts and Telecommunications)"
+    },
+    "https://idp.cafa.edu.cn/idp/shibboleth": {
+        "en": "The Central Academy of Fine Arts",
+        "zh": "中央美术学院(The Central Academy of Fine Arts)"
+    },
+    "https://idp.caii.edu.cn/idp/shibboleth": {
+        "en": "Changchun Automobile Industry Institute",
+        "zh": "长春汽车工业高等专科学校(Changchun Automobile Industry Institute)"
+    },
+    "https://idp.cauc.edu.cn/idp/shibboleth": {
+        "en": "Civil Aviation University of China",
+        "zh": "中国民航大学(Civil Aviation University of China)"
+    },
+    "https://idp.ccit.edu.cn/idp/shibboleth": {
+        "en": "Changchun Institute of Technology",
+        "zh": "长春工程学院(Changchun Institute of Technology)"
+    },
+    "https://idp.ccmu.edu.cn/idp/shibboleth": {
+        "en": "Capital  Medical University",
+        "zh": "首都医科大学(Capital  Medical University)"
+    },
+    "https://idp.ccom.edu.cn/idp/shibboleth": {
+        "en": "Central Conservatory of Music",
+        "zh": "中央音乐学院(Central Conservatory of Music)"
+    },
+    "https://idp.ccu.edu.cn/idp/shibboleth": {
+        "en": "CHANGCHUN UNIVERSITY",
+        "zh": "长春大学(CHANGCHUN UNIVERSITY)"
+    },
+    "https://idp.ccut.edu.cn/idp/shibboleth": {
+        "en": "Changchun University of Technology",
+        "zh": "长春工业大学(Changchun University of Technology)"
+    },
+    "https://idp.cdivtc.edu.cn/idp/shibboleth": {
+        "en": "Chengdu Vocational & Technical College of Industry",
+        "zh": "成都工业职业技术学院(Chengdu Vocational & Technical College of Industry)"
+    },
+    "https://idp.cdu.edu.cn/idp/shibboleth": {
+        "en": "Chengdu University",
+        "zh": "成都大学(Chengdu University)"
+    },
+    "https://idp.cdut.edu.cn/idp/shibboleth": {
+        "en": "ChengDu University of Technology",
+        "zh": "成都理工大学(ChengDu University of Technology)"
+    },
+    "https://idp.chd.edu.cn/idp/shibboleth": {
+        "en": "Chang'an University",
+        "zh": "长安大学(Chang'an University)"
+    },
+    "https://idp.chu.edu.cn/idp/shibboleth": {
+        "en": "ChaoHu  University",
+        "zh": "巢湖学院(ChaoHu  University)"
+    },
+    "https://idp.chzu.edu.cn/idp/shibboleth": {
+        "en": "Chuzhou University",
+        "zh": "滁州学院(Chuzhou University)"
+    },
+    "https://idp.cityu.edu.mo/idp/shibboleth": {
+        "en": "City University of Macau",
+        "zh": "澳門城市大學(City University of Macau)"
+    },
+    "https://idp.cmu.edu.cn/idp/shibboleth": {
+        "en": "China Medical University",
+        "zh": "中国医科大学(China Medical University)"
+    },
+    "https://idp.cnu.edu.cn/idp/shibboleth": {
+        "en": "Capital Normal University",
+        "zh": "首都师范大学(Capital Normal University)"
+    },
+    "https://idp.cppu.edu.cn/idp/shibboleth": {
+        "en": "China People's Police University",
+        "zh": "中国人民警察大学(China People's Police University)"
+    },
+    "https://idp.cpu.edu.cn/idp/shibboleth": {
+        "en": "China Pharmaceutical University",
+        "zh": "中国药科大学(China Pharmaceutical University)"
+    },
+    "https://idp.cqjtu.edu.cn/idp/shibboleth": {
+        "en": "Chongqing Jiaotong University",
+        "zh": "重庆交通大学(Chongqing Jiaotong University)"
+    },
+    "https://idp.cqjzc.edu.cn/idp/shibboleth": {
+        "en": "CHONGQING JIANZHU COLLEGE",
+        "zh": "重庆建筑工程职业学院(CHONGQING JIANZHU COLLEGE)"
+    },
+    "https://idp.cqmu.edu.cn/idp/shibboleth": {
+        "en": "Chongqing Medical University",
+        "zh": "重庆医科大学(Chongqing Medical University)"
+    },
+    "https://idp.cqu.edu.cn/idp/shibboleth": {
+        "en": "CHONGQING UNIVERSITY",
+        "zh": "重庆大学(CHONGQING UNIVERSITY)"
+    },
+    "https://idp.cque.edu.cn/idp/shibboleth": {
+        "en": "Chongqing  University  Of Education",
+        "zh": "重庆第二师范学院(Chongqing  University  Of Education)"
+    },
+    "https://idp.cqupt.edu.cn/idp/shibboleth": {
+        "en": "Chongqing University of Posts and Telecommunications",
+        "zh": "重庆邮电大学(Chongqing University of Posts and Telecommunications)"
+    },
+    "https://idp.cqwu.edu.cn/idp/shibboleth": {
+        "en": "Chongqing University of Arts and Sciences",
+        "zh": "重庆文理学院(Chongqing University of Arts and Sciences)"
+    },
+    "https://idp.csiic.edu.cn/idp/shibboleth": {
+        "en": "Shanxi International Trade  Commerce Institute",
+        "zh": "陕西国际商贸学院(Shanxi International Trade  Commerce Institute)"
+    },
+    "https://idp.csuft.edu.cn/idp/shibboleth": {
+        "en": "Central South University of Forestry and Technology",
+        "zh": "中南林业科技大学(Central South University of Forestry and Technology)"
+    },
+    "https://idp.ctbu.edu.cn/idp/shibboleth": {
+        "en": "Chongqing Technology and Business University",
+        "zh": "重庆工商大学(Chongqing Technology and Business University)"
+    },
+    "https://idp.ctgu.edu.cn/idp/shibboleth": {
+        "en": "China Three Gorges University",
+        "zh": "三峡大学(China Three Gorges University)"
+    },
+    "https://idp.cua.edu.cn/idp/shibboleth": {
+        "en": "Anhui Vocational College of City Management",
+        "zh": "安徽城市管理职业学院(Anhui Vocational College of City Management)"
+    },
+    "https://idp.cuc.edu.cn/idp/shibboleth": {
+        "en": "Communication University of China",
+        "zh": "中国传媒大学(Communication University of China)"
+    },
+    "https://idp.cufe.edu.cn/idp/shibboleth": {
+        "en": "Central University of Finance and Economics",
+        "zh": "中央财经大学(Central University of Finance and Economics)"
+    },
+    "https://idp.cug.edu.cn/idp/shibboleth": {
+        "en": "China University of Geosciences",
+        "zh": "中国地质大学（武汉）(China University of Geosciences)"
+    },
+    "https://idp.cugb.edu.cn/idp/shibboleth": {
+        "en": "Beijing,China University of Geosciences",
+        "zh": "中国地质大学（北京）(Beijing,China University of Geosciences)"
+    },
+    "https://idp.cuhk.edu.cn/idp/shibboleth": {
+        "en": "CUHK-Shenzhen",
+        "zh": "香港中文大学（深圳）(CUHK-Shenzhen)"
+    },
+    "https://idp.cumt.edu.cn/idp/shibboleth": {
+        "en": "China University of Mining and Technology",
+        "zh": "中国矿业大学(China University of Mining and Technology)"
+    },
+    "https://idp.cup.edu.cn/idp/shibboleth": {
+        "en": "China University of Petroleum",
+        "zh": "中国石油大学（北京）(China University of Petroleum)"
+    },
+    "https://idp.cupl.edu.cn/idp/shibboleth": {
+        "en": "China University of Political Science and Law",
+        "zh": "中国政法大学(China University of Political Science and Law)"
+    },
+    "https://idp.cust.edu.cn/idp/shibboleth": {
+        "en": "Changchun University of Science and Technology",
+        "zh": "长春理工大学(Changchun University of Science and Technology)"
+    },
+    "https://idp.cuz.edu.cn/idp/shibboleth": {
+        "en": "Communication University of Zhejiang",
+        "zh": "浙江传媒学院(Communication University of Zhejiang)"
+    },
+    "https://idp.czu.edu.cn/idp/shibboleth": {
+        "en": "Chizhou University",
+        "zh": "池州学院(Chizhou University)"
+    },
+    "https://idp.czust.edu.cn/idp/shibboleth": {
+        "en": "Changzhou Institute Of Technology",
+        "zh": "常州工学院(Changzhou Institute Of Technology)"
+    },
+    "https://idp.dgut.edu.cn/idp/shibboleth": {
+        "en": "DongGuan University of Techology",
+        "zh": "东莞理工学院(DongGuan University of Techology)"
+    },
+    "https://idp.dhu.edu.cn/idp/shibboleth": {
+        "en": "Donghua University",
+        "zh": "东华大学(Donghua University)"
+    },
+    "https://idp.dlnu.edu.cn/idp/shibboleth": {
+        "en": "Dalian Minzu University",
+        "zh": "大连民族大学(Dalian Minzu University)"
+    },
+    "https://idp.dlufl.edu.cn/idp/shibboleth": {
+        "en": "Dalian University of Foreign Languages",
+        "zh": "大连外国语大学(Dalian University of Foreign Languages)"
+    },
+    "https://idp.dlut.edu.cn/idp/shibboleth": {
+        "en": "Dalian University of Technology",
+        "zh": "大连理工大学(Dalian University of Technology)"
+    },
+    "https://idp.dmu.edu.cn/idp/shibboleth": {
+        "en": "Dalian Medical University",
+        "zh": "大连医科大学(Dalian Medical University)"
+    },
+    "https://idp.dufe.edu.cn/idp/shibboleth": {
+        "en": "Dongbei University of Finance and Economics",
+        "zh": "东北财经大学(Dongbei University of Finance and Economics)"
+    },
+    "https://idp.ecjtu.edu.cn/idp/shibboleth": {
+        "en": "East China Jiaotong University",
+        "zh": "华东交通大学(East China Jiaotong University)"
+    },
+    "https://idp.ecnu.edu.cn/idp/shibboleth": {
+        "en": "EAST CHINA NORMAL UNIVERSITY",
+        "zh": "华东师范大学(EAST CHINA NORMAL UNIVERSITY)"
+    },
+    "https://idp.ecupl.edu.cn/idp/shibboleth": {
+        "en": "East China University of Political Science and Law",
+        "zh": "华东政法大学(East China University of Political Science and Law)"
+    },
+    "https://idp.ecust.edu.cn/idp/shibboleth": {
+        "en": "East China University Of Science And Technology",
+        "zh": "华东理工大学(East China University Of Science And Technology)"
+    },
+    "https://idp.ecut.edu.cn/idp/shibboleth": {
+        "en": "East China University Of Technology",
+        "zh": "东华理工大学(East China University Of Technology)"
+    },
+    "https://idp.fafu.edu.cn/idp/shibboleth": {
+        "en": "Fujian Agriculture and Forestry University",
+        "zh": "福建农林大学(Fujian Agriculture and Forestry University)"
+    },
+    "https://idp.fjjxu.edu.cn/idp/shibboleth": {
+        "en": "Fujian Jiangxia University",
+        "zh": "福建江夏学院(Fujian Jiangxia University)"
+    },
+    "https://idp.fjmu.edu.cn/idp/shibboleth": {
+        "en": "Fujian Medical University",
+        "zh": "福建医科大学(Fujian Medical University)"
+    },
+    "https://idp.fjnu.edu.cn/idp/shibboleth": {
+        "en": "Fujian Normal University",
+        "zh": "福建师范大学(Fujian Normal University)"
+    },
+    "https://idp.fjsmu.edu.cn/idp/shibboleth": {
+        "en": "Sanming University",
+        "zh": "三明学院(Sanming University)"
+    },
+    "https://idp.fjtcm.edu.cn/idp/shibboleth": {
+        "en": "Fujian University of Traditional Chinese Medicine",
+        "zh": "福建中医药大学(Fujian University of Traditional Chinese Medicine)"
+    },
+    "https://idp.fosu.edu.cn/idp/shibboleth": {
+        "en": "Foshan University",
+        "zh": "佛山科学技术学院(Foshan University)"
+    },
+    "https://idp.fynu.edu.cn/idp/shibboleth": {
+        "en": "Fuyang Normal University",
+        "zh": "阜阳师范大学(Fuyang Normal University)"
+    },
+    "https://idp.fzu.edu.cn/idp/shibboleth": {
+        "en": "Fuzhou University",
+        "zh": "福州大学(Fuzhou University)"
+    },
+    "https://idp.gcti.edu.cn/idp/shibboleth": {
+        "en": "Guangzhou Communications Technician Institute",
+        "zh": "广州市交通技师学院(Guangzhou Communications Technician Institute)"
+    },
+    "https://idp.gdfs.edu.cn/idp/shibboleth": {
+        "en": "Guangdong Women's Polytechnic College",
+        "zh": "广东女子职业技术学院(Guangdong Women's Polytechnic College)"
+    },
+    "https://idp.gdgm.edu.cn/idp/shibboleth": {
+        "en": "Guangdong Polytechnic of Industry and Commerce",
+        "zh": "广东工贸职业技术学院(Guangdong Polytechnic of Industry and Commerce)"
+    },
+    "https://idp.gdmu.edu.cn/idp/shibboleth": {
+        "en": "Guangdong Medical University",
+        "zh": "广东医科大学(Guangdong Medical University)"
+    },
+    "https://idp.gdpu.edu.cn/idp/shibboleth": {
+        "en": "Guangdong Pharmaceutical University",
+        "zh": "广东药科大学(Guangdong Pharmaceutical University)"
+    },
+    "https://idp.gdufe.edu.cn/idp/shibboleth": {
+        "en": "Guangdong University of Finance and Economics",
+        "zh": "广东财经大学(Guangdong University of Finance and Economics)"
+    },
+    "https://idp.gkd.edu.cn/idp/shibboleth": {
+        "en": "Guangzhou Vocational and Technical University of Science and Technology",
+        "zh": "广州科技职业技术大学(Guangzhou Vocational and Technical University of Science and Technology)"
+    },
+    "https://idp.glmc.edu.cn/idp/shibboleth": {
+        "en": "Guilin Medical University",
+        "zh": "桂林医学院(Guilin Medical University)"
+    },
+    "https://idp.glut.edu.cn/idp/shibboleth": {
+        "en": "Guilin University of Technology",
+        "zh": "桂林理工大学(Guilin University of Technology)"
+    },
+    "https://idp.gpnu.edu.cn/idp/shibboleth": {
+        "en": "Guangdong Polytechnic Normal University",
+        "zh": "广东技术师范大学(Guangdong Polytechnic Normal University)"
+    },
+    "https://idp.gsau.edu.cn/idp/shibboleth": {
+        "en": "Gansu Agricultural University",
+        "zh": "甘肃农业大学(Gansu Agricultural University)"
+    },
+    "https://idp.gtiit.edu.cn/idp/shibboleth": {
+        "en": "Guangdong Technion-Israel Institute of Technology",
+        "zh": "广东以色列理工学院(Guangdong Technion-Israel Institute of Technology)"
+    },
+    "https://idp.guat.edu.cn/idp/shibboleth": {
+        "en": "Guilin University of Aerospace Technology",
+        "zh": "桂林航天工业学院(Guilin University of Aerospace Technology)"
+    },
+    "https://idp.guet.edu.cn/idp/shibboleth": {
+        "en": "Guilin University of Electronic Technology",
+        "zh": "桂林电子科技大学(Guilin University of Electronic Technology)"
+    },
+    "https://idp.gufe.edu.cn/idp/shibboleth": {
+        "en": "Guizhou University of Finance and Economics",
+        "zh": "贵州财经大学(Guizhou University of Finance and Economics)"
+    },
+    "https://idp.gxau.edu.cn/idp/shibboleth": {
+        "en": "Guangxi Arts University",
+        "zh": "广西艺术学院(Guangxi Arts University)"
+    },
+    "https://idp.gxnu.edu.cn/idp/shibboleth": {
+        "en": "Guangxi Normal University",
+        "zh": "广西师范大学(Guangxi Normal University)"
+    },
+    "https://idp.gxu.edu.cn/idp/shibboleth": {
+        "en": "GuangXi University",
+        "zh": "广西大学(GuangXi University)"
+    },
+    "https://idp.gxun.edu.cn/idp/shibboleth": {
+        "en": "GuangXi University For Nationalities",
+        "zh": "广西民族大学(GuangXi University For Nationalities)"
+    },
+    "https://idp.gxust.edu.cn/idp/shibboleth": {
+        "en": "Guangxi University of Science and Technology",
+        "zh": "广西科技大学(Guangxi University of Science and Technology)"
+    },
+    "https://idp.gxyesf.edu.cn/idp/shibboleth": {
+        "en": "Guangxi College for Preschool Education",
+        "zh": "广西幼儿师范高等专科学校(Guangxi College for Preschool Education)"
+    },
+    "https://idp.gzarts.edu.cn/idp/shibboleth": {
+        "en": "Guangzhou Academy of Fine Arts",
+        "zh": "广州美术学院(Guangzhou Academy of Fine Arts)"
+    },
+    "https://idp.gznu.edu.cn/idp/shibboleth": {
+        "en": "Guizhou Normal University",
+        "zh": "贵州师范大学(Guizhou Normal University)"
+    },
+    "https://idp.gzucm.edu.cn/idp/shibboleth": {
+        "en": "Guangzhou University of Chinese Medicine",
+        "zh": "广州中医药大学(Guangzhou University of Chinese Medicine)"
+    },
+    "https://idp.gzy.edu.cn/idp/shibboleth": {
+        "en": "Guizhou University of Traditional Chinese Medicine",
+        "zh": "贵州中医药大学(Guizhou University of Traditional Chinese Medicine)"
+    },
+    "https://idp.hacz.edu.cn/idp/shibboleth": {
+        "en": "Henan Finance University",
+        "zh": "河南财政金融学院(Henan Finance University)"
+    },
+    "https://idp.hainanu.edu.cn/idp/shibboleth": {
+        "en": "Hainan University",
+        "zh": "海南大学(Hainan University)"
+    },
+    "https://idp.hainnu.edu.cn/idp/shibboleth": {
+        "en": "HAINAN NORMAL UNIVERSITY",
+        "zh": "海南师范大学(HAINAN NORMAL UNIVERSITY)"
+    },
+    "https://idp.haust.edu.cn/idp/shibboleth": {
+        "en": "Henan University of Science and Technology",
+        "zh": "河南科技大学(Henan University of Science and Technology)"
+    },
+    "https://idp.haut.edu.cn/idp/shibboleth": {
+        "en": "Henan University of Technology",
+        "zh": "河南工业大学(Henan University of Technology)"
+    },
+    "https://idp.hbmzu.edu.cn/idp/shibboleth": {
+        "en": "Hubei Minzu University",
+        "zh": "湖北民族大学(Hubei Minzu University)"
+    },
+    "https://idp.hbnu.edu.cn/idp/shibboleth": {
+        "en": "Hubei Normal University",
+        "zh": "湖北师范大学(Hubei Normal University)"
+    },
+    "https://idp.hbpa.edu.cn/idp/shibboleth": {
+        "en": "Hubei University Of Police",
+        "zh": "湖北警官学院(Hubei University Of Police)"
+    },
+    "https://idp.hbtcm.edu.cn/idp/shibboleth": {
+        "en": "Hubei Univercity of Chinese Medicine",
+        "zh": "湖北中医药大学(Hubei Univercity of Chinese Medicine)"
+    },
+    "https://idp.hbu.edu.cn/idp/shibboleth": {
+        "en": "Hebei University",
+        "zh": "河北大学(Hebei University)"
+    },
+    "https://idp.hbue.edu.cn/idp/shibboleth": {
+        "en": "Hubei University Of Economics",
+        "zh": "湖北经济学院(Hubei University Of Economics)"
+    },
+    "https://idp.hbust.edu.cn/idp/shibboleth": {
+        "en": "Hubei University of Science and Technology",
+        "zh": "湖北科技学院(Hubei University of Science and Technology)"
+    },
+    "https://idp.hbut.edu.cn/idp/shibboleth": {
+        "en": "Hubei University of Technology",
+        "zh": "湖北工业大学(Hubei University of Technology )"
+    },
+    "https://idp.hbzy.edu.cn/idp/shibboleth": {
+        "en": "Hebi Polytechnic",
+        "zh": "鹤壁职业技术学院(Hebi Polytechnic)"
+    },
+    "https://idp.hcnu.edu.cn/idp/shibboleth": {
+        "en": "Hechi University",
+        "zh": "河池学院(Hechi University)"
+    },
+    "https://idp.hdc.edu.cn/idp/shibboleth": {
+        "en": "Handan University",
+        "zh": "邯郸学院(Handan University)"
+    },
+    "https://idp.hdu.edu.cn/idp/shibboleth": {
+        "en": "HANGZHOU DIANZI UNIVERSITY",
+        "zh": "杭州电子科技大学(HANGZHOU DIANZI UNIVERSITY)"
+    },
+    "https://idp.hebau.edu.cn/idp/shibboleth": {
+        "en": "Hebei Agricultural University",
+        "zh": "河北农业大学(Hebei Agricultural University )"
+    },
+    "https://idp.hebmu.edu.cn/idp/shibboleth": {
+        "en": "Hebei Medical University",
+        "zh": "河北医科大学(Hebei Medical University)"
+    },
+    "https://idp.hebtu.edu.cn/idp/shibboleth": {
+        "en": "Hebei Normal University",
+        "zh": "河北师范大学(Hebei Normal University)"
+    },
+    "https://idp.hebuee.edu.cn/idp/shibboleth": {
+        "en": "Hebei University of Environmental Engineering",
+        "zh": "河北环境工程学院(Hebei University of Environmental Engineering)"
+    },
+    "https://idp.hebut.edu.cn/idp/shibboleth": {
+        "en": "Hebei University of Technology",
+        "zh": "河北工业大学(Hebei University of Technology)"
+    },
+    "https://idp.henu.edu.cn/idp/shibboleth": {
+        "en": "Henan University",
+        "zh": "河南大学(Henan University)"
+    },
+    "https://idp.hfnu.edu.cn/idp/shibboleth": {
+        "en": "Hefei Normal University",
+        "zh": "合肥师范学院(Hefei Normal University)"
+    },
+    "https://idp.hfu.edu.cn/idp/shibboleth": {
+        "en": "Heilongjiang University of Finance and Economics",
+        "zh": "黑龙江财经学院(Heilongjiang University of Finance and Economics)"
+    },
+    "https://idp.hfut.edu.cn/idp/shibboleth": {
+        "en": "Hefei University of Technology",
+        "zh": "合肥工业大学(Hefei University of Technology)"
+    },
+    "https://idp.hhstu.edu.cn/idp/shibboleth": {
+        "en": "Huanghe Science And Technology University",
+        "zh": "黄河科技学院(Huanghe Science And Technology University)"
+    },
+    "https://idp.hhu.edu.cn/idp/shibboleth": {
+        "en": "Hohai University",
+        "zh": "河海大学(Hohai University)"
+    },
+    "https://idp.hit.edu.cn/idp/shibboleth": {
+        "en": "Harbin Institute of Technology",
+        "zh": "哈尔滨工业大学(Harbin Institute of Technology)"
+    },
+    "https://idp.hljucm.edu.cn/idp/shibboleth": {
+        "en": "Heilongjiang University Of Chinese Medicine",
+        "zh": "黑龙江中医药大学(Heilongjiang University Of Chinese Medicine)"
+    },
+    "https://idp.hmlc.edu.cn/idp/shibboleth": {
+        "en": "Hunan Modern Logistics College",
+        "zh": "湖南现代物流职业技术学院(Hunan Modern Logistics College)"
+    },
+    "https://idp.hncj.edu.cn/idp/shibboleth": {
+        "en": "Henan University of Urban Construction",
+        "zh": "河南城建学院(Henan University of Urban Construction)"
+    },
+    "https://idp.hnit.edu.cn/idp/shibboleth": {
+        "en": "Hunan Institute of Technology",
+        "zh": "湖南工学院(Hunan Institute of Technology)"
+    },
+    "https://idp.hnnu.edu.cn/idp/shibboleth": {
+        "en": "HUAINAN NORMAL UNIVERSITY",
+        "zh": "淮南师范学院(HUAINAN NORMAL UNIVERSITY)"
+    },
+    "https://idp.hnp.edu.cn/idp/shibboleth": {
+        "en": "Henan Police College",
+        "zh": "河南警察学院(Henan Police College)"
+    },
+    "https://idp.hnu.edu.cn/idp/shibboleth": {
+        "en": "Hunan University",
+        "zh": "湖南大学(Hunan University)"
+    },
+    "https://idp.hnuahe.edu.cn/idp/shibboleth": {
+        "en": "Henan University of Animal Husbandry and Economy",
+        "zh": "河南牧业经济学院(Henan University of Animal Husbandry and Economy)"
+    },
+    "https://idp.hpu.edu.cn/idp/shibboleth": {
+        "en": "Henan Polytechnic University",
+        "zh": "河南理工大学(Henan Polytechnic University)"
+    },
+    "https://idp.hqu.edu.cn/idp/shibboleth": {
+        "en": "Huaqiao University",
+        "zh": "华侨大学(Huaqiao University)"
+    },
+    "https://idp.hrbcu.edu.cn/idp/shibboleth": {
+        "en": "Harbin University of Commerce",
+        "zh": "哈尔滨商业大学(Harbin University of Commerce)"
+    },
+    "https://idp.hrbeu.edu.cn/idp/shibboleth": {
+        "en": "Harbin Engineering University",
+        "zh": "哈尔滨工程大学(Harbin Engineering University)"
+    },
+    "https://idp.hrbfu.edu.cn/idp/shibboleth": {
+        "en": "Harbin Finance University",
+        "zh": "哈尔滨金融学院(Harbin Finance University)"
+    },
+    "https://idp.hrbmu.edu.cn/idp/shibboleth": {
+        "en": "Harbin Medical University",
+        "zh": "哈尔滨医科大学(Harbin Medical University)"
+    },
+    "https://idp.hstc.edu.cn/idp/shibboleth": {
+        "en": "hanshan normal university",
+        "zh": "韩山师范学院(hanshan normal university)"
+    },
+    "https://idp.hsu.edu.cn/idp/shibboleth": {
+        "en": "HuangShan University",
+        "zh": "黄山学院(HuangShan University)"
+    },
+    "https://idp.htc.edu.cn/idp/shibboleth": {
+        "en": "HeFei Technological College",
+        "zh": "合肥职业技术学院(HeFei Technological College)"
+    },
+    "https://idp.htu.edu.cn/idp/shibboleth": {
+        "en": "Henan Normal University",
+        "zh": "河南师范大学(Henan Normal University)"
+    },
+    "https://idp.huat.edu.cn/idp/shibboleth": {
+        "en": "Hubei University of Automotive Technology",
+        "zh": "湖北汽车工业学院(Hubei University of Automotive Technology)"
+    },
+    "https://idp.hubu.edu.cn/idp/shibboleth": {
+        "en": "Hubei University",
+        "zh": "湖北大学(Hubei University)"
+    },
+    "https://idp.hue.edu.cn/idp/shibboleth": {
+        "en": "Hubei University of Education",
+        "zh": "湖北第二师范学院(Hubei University of Education)"
+    },
+    "https://idp.hufe.edu.cn/idp/shibboleth": {
+        "en": "HUNAN UNIVERSITY OF FINANCE AND ECONOMICS",
+        "zh": "湖南财政经济学院(HUNAN UNIVERSITY OF FINANCE AND ECONOMICS)"
+    },
+    "https://idp.hunnu.edu.cn/idp/shibboleth": {
+        "en": "Hunan Normal University",
+        "zh": "湖南师范大学(Hunan Normal University)"
+    },
+    "https://idp.hust.edu.cn/idp/shibboleth": {
+        "en": "Huazhong University of Science and Technology",
+        "zh": "华中科技大学(Huazhong University of Science and Technology)"
+    },
+    "https://idp.hyit.edu.cn/idp/shibboleth": {
+        "en": "Huaiyin Institute of Technology",
+        "zh": "淮阴工学院(Huaiyin Institute of Technology)"
+    },
+    "https://idp.hytc.edu.cn/idp/shibboleth": {
+        "en": "Huaiyin Normal University",
+        "zh": "淮阴师范学院(Huaiyin Normal University)"
+    },
+    "https://idp.hzau.edu.cn/idp/shibboleth": {
+        "en": "Huazhong Agricultural University",
+        "zh": "华中农业大学(Huazhong Agricultural University)"
+    },
+    "https://idp.hznu.edu.cn/idp/shibboleth": {
+        "en": "Hangzhou Normal University",
+        "zh": "杭州师范大学(Hangzhou Normal University )"
+    },
+    "https://idp.id.edu.cn/idp/shibboleth": {
+        "en": "Beijing Engineering Research Center of NGI",
+        "zh": "下一代互联网重大应用技术北京市工程研究中心(Beijing Engineering Research Center of NGI)"
+    },
+    "https://idp.immu.edu.cn/idp/shibboleth": {
+        "en": "Inner Mongolia Medical University",
+        "zh": "内蒙古医科大学(Inner Mongolia Medical University)"
+    },
+    "https://idp.imnu.edu.cn/idp/shibboleth": {
+        "en": "Inner Mongolia Normal University",
+        "zh": "内蒙古师范大学(Inner Mongolia Normal University)"
+    },
+    "https://idp.imu.edu.cn/idp/shibboleth": {
+        "en": "Inner Mongolia University",
+        "zh": "内蒙古大学(Inner Mongolia University)"
+    },
+    "https://idp.imust.edu.cn/idp/shibboleth": {
+        "en": "Inner Mongolia University of science and technology",
+        "zh": "内蒙古科技大学(Inner Mongolia University of science and technology)"
+    },
+    "https://idp.imut.edu.cn/idp/shibboleth": {
+        "en": "Inner Mongolia University of Technology",
+        "zh": "内蒙古工业大学(Inner Mongolia University of Technology)"
+    },
+    "https://idp.ivt.edu.cn/idp/shibboleth": {
+        "en": "Suzhou Industrial Park Institute of Vocational Technology",
+        "zh": "苏州工业园区职业技术学院(Suzhou Industrial Park Institute of Vocational Technology)"
+    },
+    "https://idp.jci.edu.cn/idp/shibboleth": {
+        "en": "Jingdezhen Ceramic Institute",
+        "zh": "景德镇陶瓷大学(Jingdezhen Ceramic Institute)"
+    },
+    "https://idp.jgsu.edu.cn/idp/shibboleth": {
+        "en": "Jinggangshan University",
+        "zh": "井冈山大学(Jinggangshan University)"
+    },
+    "https://idp.jhun.edu.cn/idp/shibboleth": {
+        "en": "Jianghan University",
+        "zh": "江汉大学(Jianghan University )"
+    },
+    "https://idp.jiangnan.edu.cn/idp/shibboleth": {
+        "en": "Jiangnan University",
+        "zh": "江南大学(Jiangnan University)"
+    },
+    "https://idp.jisu.edu.cn/idp/shibboleth": {
+        "en": "Jilin International Studies University",
+        "zh": "吉林外国语大学(Jilin International Studies University)"
+    },
+    "https://idp.jit.edu.cn/idp/shibboleth": {
+        "en": "Jinling Institute of Technology",
+        "zh": "金陵科技学院(Jinling Institute of Technology)"
+    },
+    "https://idp.jlau.edu.cn/idp/shibboleth": {
+        "en": "JiLIn Agricultural University",
+        "zh": "吉林农业大学(JiLIn Agricultural University)"
+    },
+    "https://idp.jlsu.edu.cn/idp/shibboleth": {
+        "en": "JILIN sport university",
+        "zh": "吉林体育学院(JILIN sport university)"
+    },
+    "https://idp.jnmc.edu.cn/idp/shibboleth": {
+        "en": "Jining Medical University",
+        "zh": "济宁医学院(Jining Medical University)"
+    },
+    "https://idp.jnu.edu.cn/idp/shibboleth": {
+        "en": "Jinan University",
+        "zh": "暨南大学(Jinan University)"
+    },
+    "https://idp.jnxy.edu.cn/idp/shibboleth": {
+        "en": "Jining University",
+        "zh": "济宁学院(Jining University)"
+    },
+    "https://idp.jscn.edu.cn/idp/shibboleth": {
+        "en": "Jiangsu College Of Nursing",
+        "zh": "江苏护理职业学院(Jiangsu College Of Nursing)"
+    },
+    "https://idp.jsviat.edu.cn/idp/shibboleth": {
+        "en": "Jiangsu Vocational Institute of Architectural Technology",
+        "zh": "江苏建筑职业技术学院(Jiangsu Vocational Institute of Architectural Technology)"
+    },
+    "https://idp.jxufe.edu.cn/idp/shibboleth": {
+        "en": "Jiangxi University of Finance and Economics",
+        "zh": "江西财经大学(Jiangxi University of Finance and Economics)"
+    },
+    "https://idp.jxust.edu.cn/idp/shibboleth": {
+        "en": "Jiangxi University of Science and Technology",
+        "zh": "江西理工大学(Jiangxi University of Science and Technology)"
+    },
+    "https://idp.jxutcm.edu.cn/idp/shibboleth": {
+        "en": "Jiangxi University of Traditional Chinese Medicine",
+        "zh": "江西中医药大学(Jiangxi University of Traditional Chinese Medicine)"
+    },
+    "https://idp.jxvtc.edu.cn/idp/shibboleth": {
+        "en": "Jiaxing Vocational & Technical College",
+        "zh": "嘉兴职业技术学院(Jiaxing Vocational & Technical College)"
+    },
+    "https://idp.jxyy.edu.cn/idp/shibboleth": {
+        "en": "Jiangxi College Of Applied Technology",
+        "zh": "江西应用技术职业学院(Jiangxi College Of Applied Technology)"
+    },
+    "https://idp.jyu.edu.cn/idp/shibboleth": {
+        "en": "Jiaying University",
+        "zh": "嘉应学院(Jiaying University)"
+    },
+    "https://idp.jyvtc.edu.cn/idp/shibboleth": {
+        "en": "Jiyuan Vocational and Technical College",
+        "zh": "济源职业技术学院(Jiyuan Vocational and Technical College )"
+    },
+    "https://idp.jzmu.edu.cn/idp/shibboleth": {
+        "en": "Jinzhou Medical University",
+        "zh": "锦州医科大学(Jinzhou Medical University)"
+    },
+    "https://idp.lcu.edu.cn/idp/shibboleth": {
+        "en": "Liaocheng University",
+        "zh": "聊城大学(Liaocheng University)"
+    },
+    "https://idp.lib.bnu.edu.cn/idp/shibboleth": {
+        "en": "Beijing Normal University",
+        "zh": "北京师范大学(Beijing Normal University)"
+    },
+    "https://idp.lib.swjtu.edu.cn/idp/shibboleth": {
+        "en": "Southwest Jiaotong University",
+        "zh": "西南交通大学(Southwest Jiaotong University)"
+    },
+    "https://idp.lingnan.edu.cn/idp/shibboleth": {
+        "en": "Lingnan Normal University",
+        "zh": "岭南师范学院(Lingnan Normal University)"
+    },
+    "https://idp.lit.edu.cn/idp/shibboleth": {
+        "en": "Luoyang Institute of Science and Technology",
+        "zh": "洛阳理工学院(Luoyang Institute of Science and Technology)"
+    },
+    "https://idp.lixin.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Lixin University Of Accounting And Finance",
+        "zh": "上海立信会计金融学院(Shanghai Lixin University Of Accounting And Finance)"
+    },
+    "https://idp.lncc.edu.cn/idp/shibboleth": {
+        "en": "Liaoning Provincial College of Communications",
+        "zh": "辽宁省交通高等专科学校(Liaoning Provincial College of Communications)"
+    },
+    "https://idp.lnnu.edu.cn/idp/shibboleth": {
+        "en": "Liaoning Normal University",
+        "zh": "辽宁师范大学(Liaoning Normal University)"
+    },
+    "https://idp.lnpu.edu.cn/idp/shibboleth": {
+        "en": "Liaoning Petrochemical University",
+        "zh": "辽宁石油化工大学(Liaoning Petrochemical University)"
+    },
+    "https://idp.lntu.edu.cn/idp/shibboleth": {
+        "en": "Liaoning Technical University",
+        "zh": "辽宁工程技术大学(Liaoning Technical University)"
+    },
+    "https://idp.lnutcm.edu.cn/idp/shibboleth": {
+        "en": "Liaoning University of Traditional Chinese Medicine",
+        "zh": "辽宁中医药大学(Liaoning University of Traditional Chinese Medicine)"
+    },
+    "https://idp.luas.edu.cn/idp/shibboleth": {
+        "en": "Lanzhou Universiy of Art and Science",
+        "zh": "兰州文理学院(Lanzhou Universiy of Art and Science)"
+    },
+    "https://idp.lzjtu.edu.cn/idp/shibboleth": {
+        "en": "Lanzhou Jiaotong University",
+        "zh": "兰州交通大学(Lanzhou Jiaotong University)"
+    },
+    "https://idp.lzmvc.edu.cn/idp/shibboleth": {
+        "en": "Lanzhou Modern Vocational College",
+        "zh": "兰州现代职业学院(Lanzhou Modern Vocational College)"
+    },
+    "https://idp.lzu.edu.cn/idp/shibboleth": {
+        "en": "Lanzhou University",
+        "zh": "兰州大学(Lanzhou University)"
+    },
+    "https://idp.mju.edu.cn/idp/shibboleth": {
+        "en": "MinJiang University",
+        "zh": "闽江学院(MinJiang University)"
+    },
+    "https://idp.must.edu.mo/idp/shibboleth": {
+        "en": "Macau University of Science and Technology",
+        "zh": "澳门科技大学(Macau University of Science and Technology)"
+    },
+    "https://idp.mzwu.edu.cn/idp/shibboleth": {
+        "en": "Meizhouwan Vocational Technology College",
+        "zh": "湄洲湾职业技术学院(Meizhouwan Vocational Technology College)"
+    },
+    "https://idp.nankai.edu.cn/idp/shibboleth": {
+        "en": "Nankai University",
+        "zh": "南开大学(Nankai University)"
+    },
+    "https://idp.nau.edu.cn/idp/shibboleth": {
+        "en": "Nanjing Audit University",
+        "zh": "南京审计大学(Nanjing Audit University)"
+    },
+    "https://idp.nbu.edu.cn/idp/shibboleth": {
+        "en": "Ningbo University",
+        "zh": "宁波大学(Ningbo University)"
+    },
+    "https://idp.nbufe.edu.cn/idp/shibboleth": {
+        "en": "Ningbo University of Finance and Economics",
+        "zh": "宁波财经学院(Ningbo University of Finance and Economics)"
+    },
+    "https://idp.nbut.edu.cn/idp/shibboleth": {
+        "en": "Ningbo University of Technology",
+        "zh": "宁波工程学院(Ningbo University of Technology)"
+    },
+    "https://idp.ncepu.edu.cn/idp/shibboleth": {
+        "en": "North China Electric Power University",
+        "zh": "华北电力大学(North China Electric Power University)"
+    },
+    "https://idp.ncist.edu.cn/idp/shibboleth": {
+        "en": "North China Institute of Science and Technology",
+        "zh": "华北科技学院(North China Institute of Science and Technology)"
+    },
+    "https://idp.ncjti.edu.cn/idp/shibboleth": {
+        "en": "NanChang JiaoTong Institute",
+        "zh": "南昌交通学院(NanChang JiaoTong Institute)"
+    },
+    "https://idp.ncu.edu.cn/idpNCU/shibboleth": {
+        "en": "Nanchang University",
+        "zh": "南昌大学(Nanchang University)"
+    },
+    "https://idp.ncwu.edu.cn/idp/shibboleth": {
+        "en": "North China University of Water Resources and Electric Power",
+        "zh": "华北水利水电大学(North China University of Water Resources and Electric Power)"
+    },
+    "https://idp.neau.edu.cn/idp/shibboleth": {
+        "en": "Northeast Agricultural University",
+        "zh": "东北农业大学(Northeast Agricultural University)"
+    },
+    "https://idp.neu.edu.cn/idp/shibboleth": {
+        "en": "Northeastern University - China",
+        "zh": "东北大学(Northeastern University - China)"
+    },
+    "https://idp.neuq.edu.cn/idp/shibboleth": {
+        "en": "Northeastern University at Qinhuangdao",
+        "zh": "东北大学秦皇岛分校(Northeastern University at Qinhuangdao)"
+    },
+    "https://idp.neusoft.edu.cn/idp/shibboleth": {
+        "en": "Dalian Neusoft University of Information",
+        "zh": "大连东软信息学院(Dalian Neusoft University of Information)"
+    },
+    "https://idp.njau.edu.cn/idp/shibboleth": {
+        "en": "Nanjing Agriculture University",
+        "zh": "南京农业大学(Nanjing Agriculture University)"
+    },
+    "https://idp.njit.edu.cn/idp/shibboleth": {
+        "en": "Nanjing Institute of Technology",
+        "zh": "南京工程学院(Nanjing Institute of Technology)"
+    },
+    "https://idp.njtech.edu.cn/idp/shibboleth": {
+        "en": "Nanjing Tech University",
+        "zh": "南京工业大学(Nanjing Tech University)"
+    },
+    "https://idp.nju.edu.cn/idp/shibboleth": {
+        "en": "Nanjing University",
+        "zh": "南京大学(Nanjing University)"
+    },
+    "https://idp.njucm.edu.cn/idp/shibboleth": {
+        "en": "Nanjing University of Chinese Medicine",
+        "zh": "南京中医药大学(Nanjing University of Chinese Medicine)"
+    },
+    "https://idp.njupt.edu.cn/idp/shibboleth": {
+        "en": "Nanjing University of Posts and Telecommunications",
+        "zh": "南京邮电大学(Nanjing University of Posts and Telecommunications)"
+    },
+    "https://idp.njust.edu.cn/idp/shibboleth": {
+        "en": "Nanjing University of Science and Technology",
+        "zh": "南京理工大学(Nanjing University of Science and Technology)"
+    },
+    "https://idp.nnnu.edu.cn/idp/shibboleth": {
+        "en": "NANNING NORMAL UNIVERSITY",
+        "zh": "南宁师范大学(NANNING NORMAL UNIVERSITY)"
+    },
+    "https://idp.nsi.edu.cn/idp/shibboleth": {
+        "en": "Nanjing Sport Institute",
+        "zh": "南京体育学院(Nanjing Sport Institute)"
+    },
+    "https://idp.ntu.edu.cn/idp/shibboleth": {
+        "en": "Nantong University",
+        "zh": "南通大学(Nantong University)"
+    },
+    "https://idp.nuaa.edu.cn/idp/shibboleth": {
+        "en": "Nanjing University of Aeronautics and Astronautics",
+        "zh": "南京航空航天大学(Nanjing University of Aeronautics and Astronautics)"
+    },
+    "https://idp.nwpu.edu.cn/idp/shibboleth": {
+        "en": "Northwestern Polytechnical University",
+        "zh": "西北工业大学(Northwestern Polytechnical University)"
+    },
+    "https://idp.nwu.edu.cn/idp/shibboleth": {
+        "en": "Northwest University - China",
+        "zh": "西北大学(Northwest University - China)"
+    },
+    "https://idp.nxtc.edu.cn/idp/shibboleth": {
+        "en": "Ningxia  Polytechnic",
+        "zh": "宁夏职业技术学院(Ningxia  Polytechnic)"
+    },
+    "https://idp.nxu.edu.cn/idp/shibboleth": {
+        "en": "Ningxia University",
+        "zh": "宁夏大学(Ningxia University)"
+    },
+    "https://idp.nyist.edu.cn/idp/shibboleth": {
+        "en": "Nanyang Institute of Technology",
+        "zh": "南阳理工学院(Nanyang Institute of Technology)"
+    },
+    "https://idp.ouc.edu.cn/idp/shibboleth": {
+        "en": "Ocean University of China",
+        "zh": "中国海洋大学(Ocean University of China)"
+    },
+    "https://idp.pdsu.edu.cn/idp/shibboleth": {
+        "en": "Pingdingshan University",
+        "zh": "平顶山学院(Pingdingshan University)"
+    },
+    "https://idp.pku.edu.cn/idp/shibboleth": {
+        "en": "Peking University",
+        "zh": "北京大学(Peking University)"
+    },
+    "https://idp.ptu.edu.cn/idp/shibboleth": {
+        "en": "PuTian University",
+        "zh": "莆田学院(PuTian University)"
+    },
+    "https://idp.pxu.edu.cn/idp/shibboleth": {
+        "en": "Pingxiang University",
+        "zh": "萍乡学院(Pingxiang University)"
+    },
+    "https://idp.qdu.edu.cn/idp/shibboleth": {
+        "en": "Qingdao University",
+        "zh": "青岛大学(Qingdao University)"
+    },
+    "https://idp.qfnu.edu.cn/idp/shibboleth": {
+        "en": "Qufu Normal University",
+        "zh": "曲阜师范大学(Qufu Normal University)"
+    },
+    "https://idp.qhnu.edu.cn/idp/shibboleth": {
+        "en": "Qinghai Normal University",
+        "zh": "青海师范大学(Qinghai Normal University )"
+    },
+    "https://idp.qhu.edu.cn/idp/shibboleth": {
+        "en": "Qinghai University",
+        "zh": "青海大学(Qinghai University)"
+    },
+    "https://idp.qlu.edu.cn/idp/shibboleth": {
+        "en": "QILU UNIVERSITY OF TECHNOLOGY",
+        "zh": "齐鲁工业大学(QILU UNIVERSITY OF TECHNOLOGY)"
+    },
+    "https://idp.qzc.edu.cn/idp/shibboleth": {
+        "en": "Quzhou College",
+        "zh": "衢州学院(Quzhou College)"
+    },
+    "https://idp.ruc.edu.cn/idp/shibboleth": {
+        "en": "RENMIN UNIVERSITY OF CHINA",
+        "zh": "中国人民大学(RENMIN UNIVERSITY OF CHINA)"
+    },
+    "https://idp.sau.edu.cn/idp/shibboleth": {
+        "en": "SAU",
+        "zh": "沈阳航空航天大学(SAU)"
+    },
+    "https://idp.sbs.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Business School",
+        "zh": "上海商学院(Shanghai Business School)"
+    },
+    "https://idp.scau.edu.cn/idp/shibboleth": {
+        "en": "South China Agricultural University",
+        "zh": "华南农业大学(South China Agricultural University )"
+    },
+    "https://idp.scmc.edu.cn/idp/shibboleth": {
+        "en": "Sichuan  University of Media and Communications",
+        "zh": "四川传媒学院(Sichuan  University of Media and Communications)"
+    },
+    "https://idp.scnu.edu.cn/idp/shibboleth": {
+        "en": "South China Normal University",
+        "zh": "华南师范大学(South China Normal University)"
+    },
+    "https://idp.scu.edu.cn/idp/shibboleth": {
+        "en": "Sichuan University",
+        "zh": "四川大学(Sichuan University)"
+    },
+    "https://idp.scuec.edu.cn/idp/shibboleth": {
+        "en": "South-Central University for Nationalities",
+        "zh": "中南民族大学(South-Central University for Nationalities)"
+    },
+    "https://idp.scut.edu.cn/idp/shibboleth": {
+        "en": "South China University of Technology",
+        "zh": "华南理工大学(South China University of Technology)"
+    },
+    "https://idp.sdada.edu.cn/idp/shibboleth": {
+        "en": "Shandong University of Art & Design",
+        "zh": "山东工艺美术学院(Shandong University of Art & Design)"
+    },
+    "https://idp.sdaeu.edu.cn/idp/shibboleth": {
+        "en": "Shandong Agriculture And Engineering University",
+        "zh": "山东农业工程学院(Shandong Agriculture And Engineering University)"
+    },
+    "https://idp.sdau.edu.cn/idp/shibboleth": {
+        "en": "Shandong Agricultural University",
+        "zh": "山东农业大学(Shandong Agricultural University)"
+    },
+    "https://idp.sdju.edu.cn/idp/shibboleth": {
+        "en": "shanghai dianji university",
+        "zh": "上海电机学院(shanghai dianji university)"
+    },
+    "https://idp.sdmcjn.edu.cn/idp/shibboleth": {
+        "en": "Shandong Medical College Jinan",
+        "zh": "山东医学高等专科学校（济南）(Shandong Medical College Jinan)"
+    },
+    "https://idp.sdpei.edu.cn/idp/shibboleth": {
+        "en": "Shandong Sport University",
+        "zh": "山东体育学院(Shandong Sport University)"
+    },
+    "https://idp.sdpt.edu.cn/idp/shibboleth": {
+        "en": "Shunde Polytechnic",
+        "zh": "顺德职业技术学院(Shunde Polytechnic)"
+    },
+    "https://idp.sdtbu.edu.cn/idp/shibboleth": {
+        "en": "Shandong Technology and Business University",
+        "zh": "山东工商学院(Shandong Technology and Business University)"
+    },
+    "https://idp.sdu.edu.cn/idp/shibboleth": {
+        "en": "Shandong University",
+        "zh": "山东大学(Shandong University)"
+    },
+    "https://idp.sdutcm.edu.cn/idp/shibboleth": {
+        "en": "Shandong University of Traditional Chinese Medicine",
+        "zh": "山东中医药大学(Shandong University of Traditional Chinese Medicine)"
+    },
+    "https://idp.sdwu.edu.cn/idp/shibboleth": {
+        "en": "Shangdong Women's University",
+        "zh": "山东女子学院(Shangdong Women's University)"
+    },
+    "https://idp.sdycu.edu.cn/idp/shibboleth": {
+        "en": "Shandong Yingcai University",
+        "zh": "山东英才学院(Shandong Yingcai University)"
+    },
+    "https://idp.sdyu.edu.cn/idp/shibboleth": {
+        "en": "ShanDong Youth University of Ploitical Science",
+        "zh": "山东青年政治学院(ShanDong Youth University of Ploitical Science)"
+    },
+    "https://idp.seu.edu.cn/idp/shibboleth": {
+        "en": "Southeast University",
+        "zh": "东南大学(Southeast University)"
+    },
+    "https://idp.sgmart.edu.cn/idp/shibboleth": {
+        "en": "Suzhou Art  Design Technology institute",
+        "zh": "苏州工艺美术职业技术学院(Suzhou Art  Design Technology institute)"
+    },
+    "https://idp.shec.edu.cn/idp/shibboleth": {
+        "en": "Information Center of SMEC",
+        "zh": "上海市教育委员会信息中心(Information Center of SMEC)"
+    },
+    "https://idp.shengda.edu.cn/idp/shibboleth": {
+        "en": "ZhengZhouShengDaUniversity Of Economics Business Management",
+        "zh": "郑州升达经贸管理学院(ZhengZhouShengDaUniversity Of Economics Business Management)"
+    },
+    "https://idp.shisu.edu.cn/idp/shibboleth": {
+        "en": "Shanghai International Studies University",
+        "zh": "上海外国语大学(Shanghai International Studies University)"
+    },
+    "https://idp.shmtu.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Maritime University",
+        "zh": "上海海事大学(Shanghai Maritime University)"
+    },
+    "https://idp.shu.edu.cn/idp/shibboleth": {
+        "en": "Shanghai University",
+        "zh": "上海大学(Shanghai University)"
+    },
+    "https://idp.shupl.edu.cn/idp/shibboleth": {
+        "en": "Shanghai University of Political Science and Law",
+        "zh": "上海政法学院(Shanghai University of Political Science and Law)"
+    },
+    "https://idp.sias.edu.cn/idp/shibboleth": {
+        "en": "Sias University",
+        "zh": "郑州西亚斯学院(Sias University)"
+    },
+    "https://idp.sicau.edu.cn/idp/shibboleth": {
+        "en": "Sichuan Agricultural University",
+        "zh": "四川农业大学(Sichuan Agricultural University)"
+    },
+    "https://idp.sicnu.edu.cn/idp/shibboleth": {
+        "en": "Sichuan Normal University",
+        "zh": "四川师范大学(Sichuan Normal University)"
+    },
+    "https://idp.sisu.edu.cn/idp/shibboleth": {
+        "en": "Sichuan International Studies University",
+        "zh": "四川外国语大学(Sichuan International Studies University)"
+    },
+    "https://idp.situ.edu.cn/idp/shibboleth": {
+        "en": "Shenyang Institute of Technology",
+        "zh": "沈阳工学院(Shenyang Institute of Technology)"
+    },
+    "https://idp.sju.edu.cn/idp/shibboleth": {
+        "en": "SANJIANG UNIVERSITY",
+        "zh": "三江学院(SANJIANG UNIVERSITY)"
+    },
+    "https://idp.smmu.edu.cn/idp/shibboleth": {
+        "en": "The Second Military Medical University",
+        "zh": "海军军医大学(The Second Military Medical University)"
+    },
+    "https://idp.smu.edu.cn/idp/shibboleth": {
+        "en": "Southern Medical University",
+        "zh": "南方医科大学(Southern Medical University)"
+    },
+    "https://idp.snein.edu.cn/idp/shibboleth": {
+        "en": "Shaanxi Energy Institute",
+        "zh": "陕西能源职业技术学院(Shaanxi Energy Institute)"
+    },
+    "https://idp.snnu.edu.cn/idp/shibboleth": {
+        "en": "Shaanxi Normal University",
+        "zh": "陕西师范大学(Shaanxi Normal University)"
+    },
+    "https://idp.snut.edu.cn/idp/shibboleth": {
+        "en": "Shaanxi  University of  Technology",
+        "zh": "陕西理工大学(Shaanxi  University of  Technology )"
+    },
+    "https://idp.sppc.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Publishing And Printing College",
+        "zh": "上海出版印刷高等专科学校(Shanghai Publishing And Printing College)"
+    },
+    "https://idp.sspu.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Polytechnic University",
+        "zh": "上海第二工业大学(Shanghai Polytechnic University)"
+    },
+    "https://idp.stdu.edu.cn/idp/shibboleth": {
+        "en": "Shijiazhuang Tiedao University",
+        "zh": "石家庄铁道大学(Shijiazhuang Tiedao University)"
+    },
+    "https://idp.succ.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Urban Construction Vocational College",
+        "zh": "上海城建职业学院(Shanghai Urban Construction Vocational College)"
+    },
+    "https://idp.sus.edu.cn/idp/shibboleth": {
+        "en": "Shanghai University of Sport",
+        "zh": "上海体育学院(Shanghai University of Sport)"
+    },
+    "https://idp.sust.edu.cn/idp/shibboleth": {
+        "en": "Shaanxi University of Science and Technology",
+        "zh": "陕西科技大学(Shaanxi University of Science and Technology)"
+    },
+    "https://idp.sustech.edu.cn/idp/shibboleth": {
+        "en": "Southern University of Science and Technology",
+        "zh": "南方科技大学(Southern University of Science and Technology)"
+    },
+    "https://idp.sut.edu.cn/idp/shibboleth": {
+        "en": "Shenyang University of Technology",
+        "zh": "沈阳工业大学(Shenyang University of Technology )"
+    },
+    "https://idp.swufe.edu.cn/idp/shibboleth": {
+        "en": "Southwestern University of Finance and Economics",
+        "zh": "西南财经大学(Southwestern University of Finance and Economics)"
+    },
+    "https://idp.swun.edu.cn/idp/shibboleth": {
+        "en": "Southwest Minzu University",
+        "zh": "西南民族大学(Southwest Minzu University)"
+    },
+    "https://idp.swupl.edu.cn/idp/shibboleth": {
+        "en": "Southwest University Of Political Science And Law",
+        "zh": "西南政法大学(Southwest University Of Political Science And Law)"
+    },
+    "https://idp.sxmu.edu.cn/idp/shibboleth": {
+        "en": "Shanxi Medical University",
+        "zh": "山西医科大学(Shanxi Medical University)"
+    },
+    "https://idp.sxnu.edu.cn/idp/shibboleth": {
+        "en": "Shanxi Normal University",
+        "zh": "山西师范大学(Shanxi Normal University)"
+    },
+    "https://idp.sxu.edu.cn/idp/shibboleth": {
+        "en": "Shanxi University",
+        "zh": "山西大学(Shanxi University)"
+    },
+    "https://idp.syau.edu.cn/idp/shibboleth": {
+        "en": "Shenyang Agricultural University",
+        "zh": "沈阳农业大学(Shenyang Agricultural University)"
+    },
+    "https://idp.syphu.edu.cn/idp/shibboleth": {
+        "en": "Shenyang Pharmaceutical University",
+        "zh": "沈阳药科大学(Shenyang Pharmaceutical University)"
+    },
+    "https://idp.sysu.edu.cn/idp/shibboleth": {
+        "en": "Sun Yat-sen University",
+        "zh": "中山大学(Sun Yat-sen University)"
+    },
+    "https://idp.syu.edu.cn/idp/shibboleth": {
+        "en": "Shenyang University",
+        "zh": "沈阳大学(Shenyang University)"
+    },
+    "https://idp.syuct.edu.cn/idp/shibboleth": {
+        "en": "Shenyang University Of Chemical Technology",
+        "zh": "沈阳化工大学(Shenyang University Of Chemical Technology)"
+    },
+    "https://idp.szai.edu.cn/idp/shibboleth": {
+        "en": "Suzhou Polytechnic Institute of Agriculture",
+        "zh": "苏州农业职业技术学院(Suzhou Polytechnic Institute of Agriculture)"
+    },
+    "https://idp.szhct.edu.cn/idp/shibboleth": {
+        "en": "Suzhou Vocational Health College",
+        "zh": "苏州卫生职业技术学院(Suzhou Vocational Health College)"
+    },
+    "https://idp.sztu.edu.cn/idp/shibboleth": {
+        "en": "Shenzhen Technology University",
+        "zh": "深圳技术大学(Shenzhen Technology University)"
+    },
+    "https://idp.szu.edu.cn/idp/shibboleth": {
+        "en": "Shenzhen University",
+        "zh": "深圳大学(Shenzhen University)"
+    },
+    "https://idp.tcu.edu.cn/idp/shibboleth": {
+        "en": "Tianjin Chengjian University",
+        "zh": "天津城建大学(Tianjin Chengjian University)"
+    },
+    "https://idp.tiangong.edu.cn/idp/shibboleth": {
+        "en": "Tiangong University",
+        "zh": "天津工业大学(Tiangong University)"
+    },
+    "https://idp.tjau.edu.cn/idp/shibboleth": {
+        "en": "Tianjin Agricultural University",
+        "zh": "天津农学院(Tianjin Agricultural University)"
+    },
+    "https://idp.tjcu.edu.cn/idp/shibboleth": {
+        "en": "Tianjin University of Commerce",
+        "zh": "天津商业大学(Tianjin University of Commerce)"
+    },
+    "https://idp.tjnu.edu.cn/idp/shibboleth": {
+        "en": "TianJin Normal University",
+        "zh": "天津师范大学(TianJin Normal University)"
+    },
+    "https://idp.tju.edu.cn/idp/shibboleth": {
+        "en": "Tianjin University",
+        "zh": "天津大学(Tianjin University)"
+    },
+    "https://idp.tjufe.edu.cn/idp/shibboleth": {
+        "en": "Tianjin University of Finance and Economics",
+        "zh": "天津财经大学(Tianjin University of Finance and Economics)"
+    },
+    "https://idp.tjut.edu.cn/idp/shibboleth": {
+        "en": "Tianjin University of Technology",
+        "zh": "天津理工大学(Tianjin University of Technology)"
+    },
+    "https://idp.tlu.edu.cn/idp/shibboleth": {
+        "en": "Tongling University",
+        "zh": "铜陵学院(Tongling University)"
+    },
+    "https://idp.tmu.edu.cn/idp/shibboleth": {
+        "en": "Tianjin Medical University",
+        "zh": "天津医科大学(Tianjin Medical University)"
+    },
+    "https://idp.tsinghua.edu.cn/idp/shibboleth": {
+        "en": "Tsinghua University",
+        "zh": "清华大学(Tsinghua University)"
+    },
+    "https://idp.tsnu.edu.cn/idp/shibboleth": {
+        "en": "Tianshui Normal University",
+        "zh": "天水师范学院(Tianshui Normal University)"
+    },
+    "https://idp.tust.edu.cn/idp/shibboleth": {
+        "en": "Tianjin University of Science & Technology",
+        "zh": "天津科技大学(Tianjin University of Science & Technology)"
+    },
+    "https://idp.tyust.edu.cn/idp/shibboleth": {
+        "en": "Taiyuan University of Science and Technology",
+        "zh": "太原科技大学(Taiyuan University of Science and Technology)"
+    },
+    "https://idp.tyut.edu.cn/idp/shibboleth": {
+        "en": "Taiyuan University Of Technology",
+        "zh": "太原理工大学(Taiyuan University Of Technology)"
+    },
+    "https://idp.tzc.edu.cn/idp/shibboleth": {
+        "en": "Taizhou University",
+        "zh": "台州学院(Taizhou University)"
+    },
+    "https://idp.tzu.edu.cn/idp/shibboleth": {
+        "en": "Taizhou University of Jiangsu",
+        "zh": "泰州学院(Taizhou University of Jiangsu)"
+    },
+    "https://idp.ujn.edu.cn/idp/shibboleth": {
+        "en": "University of Jinan",
+        "zh": "济南大学( University of Jinan)"
+    },
+    "https://idp.ujs.edu.cn/idp/shibboleth": {
+        "en": "Jiangsu University",
+        "zh": "江苏大学(Jiangsu University)"
+    },
+    "https://idp.upc.edu.cn/idp/shibboleth": {
+        "en": "China University of Petroleum(East China)",
+        "zh": "中国石油大学（华东）(China University of Petroleum(East China))"
+    },
+    "https://idp.usc.edu.cn/idp/shibboleth": {
+        "en": "University of South China",
+        "zh": "南华大学(University of South China)"
+    },
+    "https://idp.usst.edu.cn/idp/shibboleth": {
+        "en": "University of Shanghai  for Science and Technology",
+        "zh": "上海理工大学(University of Shanghai  for Science and Technology)"
+    },
+    "https://idp.ustc.edu.cn/idp/shibboleth": {
+        "en": "University of Science and Technology of China",
+        "zh": "中国科学技术大学(University of Science and Technology of China)"
+    },
+    "https://idp.ustl.edu.cn/idp/shibboleth": {
+        "en": "University of Science and Technology Liaoning",
+        "zh": "辽宁科技大学(University of Science and Technology Liaoning)"
+    },
+    "https://idp.usts.edu.cn/idp/shibboleth": {
+        "en": "SUZHOU UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "zh": "苏州科技大学(SUZHOU UNIVERSITY OF SCIENCE AND TECHNOLOGY)"
+    },
+    "https://idp.usx.edu.cn/idp/shibboleth": {
+        "en": "Shaoxing University",
+        "zh": "绍兴文理学院(Shaoxing University)"
+    },
+    "https://idp.uta.edu.cn/idp/shibboleth": {
+        "en": "Anhui Vocational And Technical College",
+        "zh": "安徽职业技术学院(Anhui Vocational And Technical College)"
+    },
+    "https://idp.v.zzu.edu.cn/idp/shibboleth": {
+        "en": "Zhengzhou University",
+        "zh": "郑州大学(Zhengzhou University)"
+    },
+    "https://idp.wahvc.edu.cn/idp/shibboleth": {
+        "en": "West Anhui Health Vocational College",
+        "zh": "皖西卫生职业学院(West Anhui Health Vocational College)"
+    },
+    "https://idp.wbu.edu.cn/idp/shibboleth": {
+        "en": "Wuhan Business University",
+        "zh": "武汉商学院(Wuhan Business University)"
+    },
+    "https://idp.westlake.edu.cn/idp/shibboleth": {
+        "en": "Westlake Universtiy",
+        "zh": "西湖大学(Westlake Universtiy)"
+    },
+    "https://idp.wfmc.edu.cn/idp/shibboleth": {
+        "en": "Weifang Medical University",
+        "zh": "潍坊医学院(Weifang Medical University)"
+    },
+    "https://idp.whcm.edu.cn/idp/shibboleth": {
+        "en": "Wuhan Conservatory of Music",
+        "zh": "武汉音乐学院(Wuhan Conservatory of Music)"
+    },
+    "https://idp.whcp.edu.cn/idp/shibboleth": {
+        "en": "Wuhan City Polytechnic",
+        "zh": "武汉城市职业学院(Wuhan City Polytechnic)"
+    },
+    "https://idp.whit.edu.cn/idp/shibboleth": {
+        "en": "Wuhu Institute of Technology",
+        "zh": "芜湖职业技术学院(Wuhu Institute of Technology)"
+    },
+    "https://idp.whsu.edu.cn/idp/shibboleth": {
+        "en": "Wuhan Sports University",
+        "zh": "武汉体育学院(Wuhan Sports University)"
+    },
+    "https://idp.whu.edu.cn/idp/shibboleth": {
+        "en": "Wuhan University",
+        "zh": "武汉大学(Wuhan University)"
+    },
+    "https://idp.whut.edu.cn/idp/shibboleth": {
+        "en": "Wuhan University of Technology",
+        "zh": "武汉理工大学(Wuhan University of Technology)"
+    },
+    "https://idp.wit.edu.cn/idp/shibboleth": {
+        "en": "Wuhan Institute of Technology",
+        "zh": "武汉工程大学(Wuhan Institute of Technology)"
+    },
+    "https://idp.wmu.edu.cn/idp/shibboleth": {
+        "en": "Wenzhou Medical University",
+        "zh": "温州医科大学(Wenzhou Medical University)"
+    },
+    "https://idp.wnmc.edu.cn/idp/shibboleth": {
+        "en": "Wannan Medical College",
+        "zh": "皖南医学院(Wannan Medical College)"
+    },
+    "https://idp.wnu.edu.cn/idp/shibboleth": {
+        "en": "Weinan Normal University",
+        "zh": "渭南师范学院(Weinan Normal University)"
+    },
+    "https://idp.wsyu.edu.cn/idp/shibboleth": {
+        "en": "Wuchang Shouyi University",
+        "zh": "武昌首义学院(Wuchang Shouyi University)"
+    },
+    "https://idp.wtbu.edu.cn/idp/shibboleth": {
+        "en": "Wuhan Technology and Business University",
+        "zh": "武汉工商学院(Wuhan Technology and Business University)"
+    },
+    "https://idp.wtc.edu.cn/idp/shibboleth": {
+        "en": "Wuhan Polytechnic",
+        "zh": "武汉职业技术学院(Wuhan Polytechnic)"
+    },
+    "https://idp.wtu.edu.cn/idp/shibboleth": {
+        "en": "WUHAN TEXTILE UNIVERSITY",
+        "zh": "武汉纺织大学(WUHAN TEXTILE UNIVERSITY)"
+    },
+    "https://idp.wust.edu.cn/idp/shibboleth": {
+        "en": "Wuhan University of Science and Technology",
+        "zh": "武汉科技大学(Wuhan University of Science and Technology)"
+    },
+    "https://idp.wuyiu.edu.cn/idp/shibboleth": {
+        "en": "Wuyi University",
+        "zh": "武夷学院(Wuyi University)"
+    },
+    "https://idp.wxc.edu.cn/idp/shibboleth": {
+        "en": "West AnHui University",
+        "zh": "皖西学院(West AnHui University)"
+    },
+    "https://idp.wzu.edu.cn/idp/shibboleth": {
+        "en": "Wenzhou University",
+        "zh": "温州大学(Wenzhou University)"
+    },
+    "https://idp.xaau.edu.cn/idp/shibboleth": {
+        "en": "Xi'an Aeronautical University",
+        "zh": "西安航空学院(Xi'an Aeronautical University)"
+    },
+    "https://idp.xaiu.edu.cn/idp/shibboleth": {
+        "en": "Xi'an International University",
+        "zh": "西安外事学院(Xi'an International University)"
+    },
+    "https://idp.xatu.edu.cn/idp/shibboleth": {
+        "en": "XIAN TECHNOLOGICAL UNIVERSITY",
+        "zh": "西安工业大学(XIAN TECHNOLOGICAL UNIVERSITY )"
+    },
+    "https://idp.xauat.edu.cn/idp/shibboleth": {
+        "en": "Xi'an University of Architecture and Technology",
+        "zh": "西安建筑科技大学(Xi'an University of Architecture and Technology)"
+    },
+    "https://idp.xaufe.edu.cn/idp/shibboleth": {
+        "en": "Xi'an University of Finance and Economics",
+        "zh": "西安财经大学(Xi'an University of Finance and Economics)"
+    },
+    "https://idp.xaut.edu.cn/idp/shibboleth": {
+        "en": "Xi'an University of Technology",
+        "zh": "西安理工大学(Xi'an University of Technology )"
+    },
+    "https://idp.xawl.edu.cn/idp/shibboleth": {
+        "en": "Xi'an University",
+        "zh": "西安文理学院(Xi'an University)"
+    },
+    "https://idp.xbmu.edu.cn/idp/shibboleth": {
+        "en": "Northwest Minzu University",
+        "zh": "西北民族大学(Northwest Minzu University)"
+    },
+    "https://idp.xcu.edu.cn/idp/shibboleth": {
+        "en": "Xuchang University",
+        "zh": "许昌学院(Xuchang University)"
+    },
+    "https://idp.xdsisu.edu.cn/idp/shibboleth": {
+        "en": "Xianda College of Economics and Humanities Shanghai International Studies University",
+        "zh": "上海外国语大学贤达经济人文学院(Xianda College of Economics and Humanities Shanghai International Studies University)"
+    },
+    "https://idp.xidian.edu.cn/idp/shibboleth": {
+        "en": "XIDIAN UNIVERSITY",
+        "zh": "西安电子科技大学(XIDIAN UNIVERSITY)"
+    },
+    "https://idp.xijing.edu.cn/idp/shibboleth": {
+        "en": "Xijing University",
+        "zh": "西京学院(Xijing University)"
+    },
+    "https://idp.xisu.edu.cn/idp/shibboleth": {
+        "en": "Xi'an International Studies University",
+        "zh": "西安外国语大学(Xi'an International Studies University)"
+    },
+    "https://idp.xiyi.edu.cn/idp/shibboleth": {
+        "en": "Xi'an Medical University",
+        "zh": "西安医学院(Xi'an Medical University)"
+    },
+    "https://idp.xjnu.edu.cn/idp/shibboleth": {
+        "en": "Xinjiang Normal University",
+        "zh": "新疆师范大学(Xinjiang Normal University)"
+    },
+    "https://idp.xjtlu.edu.cn/idp/shibboleth": {
+        "en": "Xian Jiaotong-Liverpool University",
+        "zh": "西交利物浦大学(Xian Jiaotong-Liverpool University )"
+    },
+    "https://idp.xjtu.edu.cn/idp/shibboleth": {
+        "en": "Xi'an Jiaotong University",
+        "zh": "西安交通大学(Xi'an Jiaotong University)"
+    },
+    "https://idp.xju.edu.cn/idp/shibboleth": {
+        "en": "XinJiang University",
+        "zh": "新疆大学(XinJiang University)"
+    },
+    "https://idp.xlxy.edu.cn/idp/shibboleth": {
+        "en": "xinlian college of henan normal university",
+        "zh": "河南师范大学新联学院(xinlian college of henan normal university)"
+    },
+    "https://idp.xmmc.edu.cn/idp/shibboleth": {
+        "en": "XiaMen Medical College",
+        "zh": "厦门医学院(XiaMen Medical College)"
+    },
+    "https://idp.xmu.edu.cn/idp/shibboleth": {
+        "en": "Xiamen University",
+        "zh": "厦门大学(Xiamen University)"
+    },
+    "https://idp.xmut.edu.cn/idp/shibboleth": {
+        "en": "Xiamen University of Technology",
+        "zh": "厦门理工学院(Xiamen University of Technology)"
+    },
+    "https://idp.xnai.edu.cn/idp/shibboleth": {
+        "en": "Xiamen National Accounting Institute",
+        "zh": "厦门国家会计学院(Xiamen National Accounting Institute)"
+    },
+    "https://idp.xnvtc.edu.cn/idp/shibboleth": {
+        "en": "Xianning Vocaltional Technical College",
+        "zh": "咸宁职业技术学院(Xianning Vocaltional Technical College)"
+    },
+    "https://idp.xsyu.edu.cn/idp/shibboleth": {
+        "en": "Xi'an Shiyou University",
+        "zh": "西安石油大学(Xi'an Shiyou University)"
+    },
+    "https://idp.xupt.edu.cn/idp/shibboleth": {
+        "en": "Xi'an University of Posts and Telecommunications",
+        "zh": "西安邮电大学(Xi'an University of Posts and Telecommunications)"
+    },
+    "https://idp.xust.edu.cn/idp/shibboleth": {
+        "en": "Xi'an University of Science and Technology",
+        "zh": "西安科技大学(Xi'an University of Science and Technology)"
+    },
+    "https://idp.xxmu.edu.cn/idp/shibboleth": {
+        "en": "Xinxiang Medical University",
+        "zh": "新乡医学院(Xinxiang Medical University)"
+    },
+    "https://idp.xzhmu.edu.cn/idp/shibboleth": {
+        "en": "XuZhou Medical University",
+        "zh": "徐州医科大学(XuZhou Medical University)"
+    },
+    "https://idp.ybu.edu.cn/idp/shibboleth": {
+        "en": "Yanbian University",
+        "zh": "延边大学(Yanbian University)"
+    },
+    "https://idp.ycit.edu.cn/idp/shibboleth": {
+        "en": "Yancheng Institute of Technology",
+        "zh": "盐城工学院(Yancheng Institute of Technology )"
+    },
+    "https://idp.ynnu.edu.cn/idp/shibboleth": {
+        "en": "Yunnan Normal University",
+        "zh": "云南师范大学(Yunnan Normal University)"
+    },
+    "https://idp.ynu.edu.cn/idp/shibboleth": {
+        "en": "Yunnan University",
+        "zh": "云南大学(Yunnan University)"
+    },
+    "https://idp.yrcti.edu.cn/idp/shibboleth": {
+        "en": "Yellow River Conservancy Technical Institute",
+        "zh": "黄河水利职业技术学院(Yellow River Conservancy Technical Institute)"
+    },
+    "https://idp.ysu.edu.cn/idp/shibboleth": {
+        "en": "YanShan University",
+        "zh": "燕山大学(YanShan University)"
+    },
+    "https://idp.yulinu.edu.cn/idp/shibboleth": {
+        "en": "Yulin University",
+        "zh": "榆林学院(Yulin University)"
+    },
+    "https://idp.yznu.edu.cn/idp/shibboleth": {
+        "en": "Yangtze Normal University",
+        "zh": "长江师范学院(Yangtze Normal University)"
+    },
+    "https://idp.yzu.edu.cn/idp/shibboleth": {
+        "en": "Yangzhou University",
+        "zh": "扬州大学(Yangzhou University)"
+    },
+    "https://idp.zcmu.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Chinese Medical  University",
+        "zh": "浙江中医药大学(Zhejiang Chinese Medical  University )"
+    },
+    "https://idp.zcse.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Vocational College of Special Education",
+        "zh": "浙江特殊教育职业学院(Zhejiang Vocational College of Special Education)"
+    },
+    "https://idp.zhongxi.cn/idp/shibboleth": {
+        "en": "The Central Academy of Drama",
+        "zh": "中央戏剧学院(The Central Academy of Drama)"
+    },
+    "https://idp.zit.edu.cn/idp/shibboleth": {
+        "en": "Zhengzhou University of Science and Technology",
+        "zh": "郑州科技学院(Zhengzhou University of Science and Technology)"
+    },
+    "https://idp.zjc.edu.cn/idp/shibboleth": {
+        "en": "Zhenjiang College",
+        "zh": "镇江市高等专科学校(Zhenjiang College)"
+    },
+    "https://idp.zjgsu.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Gongshang University",
+        "zh": "浙江工商大学(Zhejiang Gongshang University)"
+    },
+    "https://idp.zjnu.edu.cn/idp/shibboleth": {
+        "en": "ZHEJIANG Normal University",
+        "zh": "浙江师范大学(ZHEJIANG Normal University)"
+    },
+    "https://idp.zjou.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Ocean University",
+        "zh": "浙江海洋大学(Zhejiang Ocean University)"
+    },
+    "https://idp.zjtie.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Technical Institute of Economics",
+        "zh": "浙江经济职业技术学院(Zhejiang Technical Institute of Economics)"
+    },
+    "https://idp.zju.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang University",
+        "zh": "浙江大学(Zhejiang University)"
+    },
+    "https://idp.zjut.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang University of Technology",
+        "zh": "浙江工业大学(Zhejiang University of Technology)"
+    },
+    "https://idp.zjvtit.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Institue Of Communications",
+        "zh": "浙江交通职业技术学院(Zhejiang Institue Of Communications)"
+    },
+    "https://idp.zknu.edu.cn/idp/shibboleth": {
+        "en": "Zhoukou Normal University",
+        "zh": "周口师范学院(Zhoukou Normal University)"
+    },
+    "https://idp.zkvtc.edu.cn/idp/shibboleth": {
+        "en": "Zhoukou Vocational And Technical College",
+        "zh": "周口职业技术学院(Zhoukou Vocational And Technical College)"
+    },
+    "https://idp.zmu.edu.cn/idp/shibboleth": {
+        "en": "Zunyi Medical University",
+        "zh": "遵义医科大学(Zunyi Medical University)"
+    },
+    "https://idp.zstu.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Sci-Tech University",
+        "zh": "浙江理工大学(Zhejiang Sci-Tech University)"
+    },
+    "https://idp.zua.edu.cn/idp/shibboleth": {
+        "en": "Zhengzhou University of Aeronautics",
+        "zh": "郑州航空工业管理学院(Zhengzhou University of Aeronautics)"
+    },
+    "https://idp.zucc.edu.cn/idp/shibboleth": {
+        "en": "zhejiang university city college",
+        "zh": "浙大城市学院(zhejiang university city college)"
+    },
+    "https://idp.zuel.edu.cn/idp/shibboleth": {
+        "en": "Zhongnan University of Economics and Law",
+        "zh": "中南财经政法大学(Zhongnan University of Economics and Law)"
+    },
+    "https://idp.zufe.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang University of Finance and Economics",
+        "zh": "浙江财经大学(Zhejiang University of Finance and Economics)"
+    },
+    "https://idp.zut.edu.cn/idp/shibboleth": {
+        "en": "Zhongyuan University of Technology",
+        "zh": "中原工学院(Zhongyuan University of Technology)"
+    },
+    "https://idp.zwu.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Wanli University",
+        "zh": "浙江万里学院(Zhejiang Wanli University)"
+    },
+    "https://idp.zyufl.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Yuexiu University",
+        "zh": "浙江越秀外国语学院(Zhejiang Yuexiu University)"
+    },
+    "https://idp.zzuli.edu.cn/idp/shibboleth": {
+        "en": "Zhengzhou University of Light Industry",
+        "zh": "郑州轻工业大学(Zhengzhou University of Light Industry)"
+    },
+    "https://idp2.tongji.edu.cn/idp/shibboleth": {
+        "en": "Tongji University",
+        "zh": "同济大学(Tongji University)"
+    },
+    "https://idp4.ihep.ac.cn/idp/shibboleth": {
+        "en": "The Institute of High Energy Physics of The Chinese Academy of Sciences",
+        "zh": "中国科学院高能物理研究所(The Institute of High Energy Physics of The Chinese Academy of Sciences)"
+    },
+    "https://idpcarsi.hebust.edu.cn/idp/shibboleth": {
+        "en": "Hebei University of Science and Technology",
+        "zh": "河北科技大学(Hebei University of Science and Technology)"
+    },
+    "https://idpcarsi.jmu.edu.cn/idp/shibboleth": {
+        "en": "Jimei University",
+        "zh": "集美大学(Jimei University)"
+    },
+    "https://idpcarsi.jsnu.edu.cn/idp/shibboleth": {
+        "en": "Jiangsu Normal University",
+        "zh": "江苏师范大学(Jiangsu Normal University)"
+    },
+    "https://idpcarsi.shufe.edu.cn/idp/shibboleth": {
+        "en": "Shanghai University of Finance and Economics",
+        "zh": "上海财经大学(Shanghai University of Finance and Economics)"
+    },
+    "https://idpfudan.fudan.edu.cn/idp/shibboleth": {
+        "en": "Fudan University",
+        "zh": "复旦大学(Fudan University)"
+    },
+    "https://idplib.bistu.edu.cn/idp/shibboleth": {
+        "en": "Beijing Information Science and Technology University",
+        "zh": "北京信息科技大学(Beijing Information Science and Technology University)"
+    },
+    "https://idplib.bucm.edu.cn/idp/shibboleth": {
+        "en": "Beijing University Of Chinese Medicine",
+        "zh": "北京中医药大学(Beijing University Of Chinese Medicine)"
+    },
+    "https://idplib.csu.edu.cn/idp/shibboleth": {
+        "en": "Central South University",
+        "zh": "中南大学(Central South University)"
+    },
+    "https://idplib.kust.edu.cn/idp/shibboleth": {
+        "en": "Kunming University of Science and Technology",
+        "zh": "昆明理工大学(Kunming University of Science and Technology )"
+    },
+    "https://idplib.xpu.edu.cn/idp/shibboleth": {
+        "en": "Xi'an Polytechnic University",
+        "zh": "西安工程大学(Xi'an Polytechnic University)"
+    },
+    "https://idplibrary.nai.edu.cn/idp/shibboleth": {
+        "en": "Beijing National Accounting Institute",
+        "zh": "北京国家会计学院(Beijing National Accounting Institute)"
+    },
+    "https://jaccount.sjtu.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Jiao Tong University",
+        "zh": "上海交通大学(Shanghai Jiao Tong University)"
+    },
+    "https://libidp.nufe.edu.cn/idp/shibboleth": {
+        "en": "Nanjing University of Finance & Economics",
+        "zh": "南京财经大学(Nanjing University of Finance & Economics)"
+    },
+    "https://zwidp.xtu.edu.cn/idp/shibboleth": {
+        "en": "Xiangtan University",
+        "zh": "湘潭大学(Xiangtan University)"
+    }
+}

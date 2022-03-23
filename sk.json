@@ -1,0 +1,102 @@
+{
+    "https://idp.aku.sk/idp/shibboleth": {
+        "en": "Academy of Arts in Banska Bystrica",
+        "sk": "Akadémia umení v Banskej Bystrici"
+    },
+    "https://idp.aos.sk/idp/shibboleth": {
+        "en": "Armed Forces Academy of General Milan Rastislav Štefánik",
+        "sk": "Akadémia ozbrojených síl generála Milana Rastislava Štefánika"
+    },
+    "https://idp.dti.sk/idp/shibboleth": {
+        "en": "DTI University",
+        "sk": "Vysoká škola DTI"
+    },
+    "https://idp.euba.sk/idp/shibboleth": {
+        "en": "University of Economics in Bratislava",
+        "sk": "Ekonomická univerzita v Bratislave"
+    },
+    "https://idp.huaja.org/idp/shibboleth": {
+        "en": "Ján Albrecht Music and Art Academy Banská Štiavnica",
+        "sk": "Hudobná a umelecká akadémia Jána Albrechta Banská Štiavnica"
+    },
+    "https://idp.ismpo.sk/idp/shibboleth": {
+        "en": "College of International Business ISM Slovakia in Prešov",
+        "sk": "Vysoká škola medzinárodného podnikania ISM Slovakia v Prešove"
+    },
+    "https://idp.stuba.sk/idp/shibboleth": {
+        "en": "Slovak University of Technology in Bratislava",
+        "sk": "Slovenská technická univerzita v Bratislave"
+    },
+    "https://idp.szu.sk/idp/shibboleth": {
+        "en": "Slovak Medical University in Bratislava",
+        "sk": "Slovenská zdravotnícka univerzita v Bratislave"
+    },
+    "https://idp.tuke.sk/idp/shibboleth": {
+        "en": "Technical University of Košice",
+        "sk": "Technická univerzita v Košiciach"
+    },
+    "https://idp.tuzvo.sk/idp/shibboleth": {
+        "en": "Technical University in Zvolen",
+        "sk": "Technická univerzita vo Zvolene"
+    },
+    "https://idp.ucm.sk/idp/shibboleth": {
+        "en": "University of Ss. Cyril and Methodius in Trnava",
+        "sk": "Univerzita sv. Cyrila a Metoda v Trnave"
+    },
+    "https://idp.ujs.sk/idp/shibboleth": {
+        "en": "J. Selye University",
+        "sk": "Univerzita J. Selyeho"
+    },
+    "https://idp.uniag.sk/idp/shibboleth": {
+        "en": "Slovak University of Agriculture in Nitra",
+        "sk": "Slovenská poľnohospodárska univerzita v Nitre"
+    },
+    "https://idp.uniba.sk/idp/shibboleth": {
+        "en": "Comenius University",
+        "sk": "Univerzita Komenského"
+    },
+    "https://idp.uniza.sk/idp/shibboleth": {
+        "en": "University of Zilina",
+        "sk": "Žilinská univerzita v Žiline"
+    },
+    "https://idp.uvlf.sk/idp/shibboleth": {
+        "en": "The University of Veterinary Medicine and Pharmacy in Košice",
+        "sk": "Univerzita veterinárskeho lekárstva a farmácie v Košiciach"
+    },
+    "https://idp.vsbm.sk/idp/shibboleth": {
+        "en": "The University of Security Management in Košice",
+        "sk": "Vysoká škola bezpečnostného manažérstva v Košiciach"
+    },
+    "https://idp.vsemba.sk/idp/shibboleth": {
+        "en": "Bratislava University of Economics and Management",
+        "sk": "Vysoká škola ekonómie a manažmentu v Bratislave"
+    },
+    "https://idp.vsvu.sk/idp/shibboleth": {
+        "en": "Academy of Fine Arts and Design in Bratislava",
+        "sk": "Vysoká škola výtvarných umení v Bratislave"
+    },
+    "https://login.umb.sk/idp/shibboleth": {
+        "en": "Matej Bel University",
+        "sk": "Univerzita Mateja Bela"
+    },
+    "https://login.upjs.sk/idp/shibboleth": {
+        "en": "Pavol Jozef Safarik University in Košice",
+        "sk": "Univerzita Pavla Jozefa Šafárika v Košiciach"
+    },
+    "https://safeid.unipo.sk/idp/shibboleth": {
+        "en": "University of Presov",
+        "sk": "Prešovská univerzita v Prešove"
+    },
+    "https://sso.ku.sk/idp/shibboleth": {
+        "en": "Catholic University in Ruzomberok",
+        "sk": "Katolícka univerzita v Ružomberku"
+    },
+    "https://sso.ukf.sk/idp/shibboleth": {
+        "en": "Constantine the Philosopher University in Nitra",
+        "sk": "Univerzita Konštantína Filozofa v Nitre"
+    },
+    "https://truniidp.truni.sk/idp/shibboleth": {
+        "en": "Trnava University in Trnava",
+        "sk": "Trnavská univerzita v Trnave"
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "http://adfs.ilvo.be/adfs/services/trust": {
+        "en": "Instituut voor Landbouw-, Visserij- en Voedingsonderzoek"
+    },
+    "http://adfsvalid.bgda.cra.wallonie.be/adfs/services/trust": {
+        "en": "CRA-W",
+        "fr": "CRA-W"
+    },
+    "https://accounts.google.com/o/saml2?idpid=C02lghgox": {
+        "en": "IAD-ARTS"
+    },
+    "https://auth.henallux.be": {
+        "en": "Hénallux"
+    },
+    "https://auth.ulb.be/idp": {
+        "en": "Universite Libre de Bruxelles (ULB)",
+        "fr": "Universite Libre de Bruxelles (ULB)"
+    },
+    "https://bertrix.usaintlouis.be/idp/shibboleth": {
+        "en": "Universite Saint-Louis - Bruxelles",
+        "fr": "Universite Saint-Louis - Bruxelles"
+    },
+    "https://fs.kbr.be/adfs/services/trust": {
+        "en": "Koninklijke Bibliotheek - BibliothÃ¨que royale"
+    },
+    "https://identity.ugent.be/simplesaml/saml2/idp/metadata.php": {
+        "en": "Ghent University",
+        "nl": "Universiteit Gent"
+    },
+    "https://identity.unamur.be/idp/shibboleth": {
+        "en": "University of Namur",
+        "fr": "Universite de Namur"
+    },
+    "https://idp-ef.provincedeliege.be/idp": {
+        "en": "Higher Education Institution of the Province of Liege (HEPL)",
+        "fr": "Haute Ecole de la Province de Liege (HEPL)"
+    },
+    "https://idp-fed.hech.be/simplesaml/saml2/idp/metadata.php": {
+        "en": "Haute Ecole Charlemagne (HECh)",
+        "fr": "Haute Ecole Charlemagne (HECh)"
+    },
+    "https://idp-fed.hers.be/simplesaml/saml2/idp/metadata.php": {
+        "en": "Haute Ecole Robert Schuman (HERS)",
+        "fr": "Haute Ecole Robert Schuman (HERS)"
+    },
+    "https://idp-fed.uliege.be/simplesaml/saml2/idp/metadata.php": {
+        "en": "Liege University - (ULiege / ULg)",
+        "fr": "Université de Liège - (ULiège / ULg)"
+    },
+    "https://idp-staff-mfa.belnet.be/shibboleth": {
+        "en": "Belnet Staff IdP with MFA"
+    },
+    "https://idp.cenaero.be/idp/shibboleth": {
+        "en": "Cenaero"
+    },
+    "https://idp.condorcet.be/idp/shibboleth": {
+        "en": "Haute Ecole Condorcet (HEPH-Condorcet)",
+        "fr": "Haute Ecole Condorcet (HEPH-Condorcet)"
+    },
+    "https://idp.eduhainaut.be/idp/shibboleth": {
+        "en": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)",
+        "fr": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)"
+    },
+    "https://idp.hainaut-promsoc.be/idp/shibboleth": {
+        "en": "Hainaut PromSoc",
+        "fr": "Hainaut PromSoc"
+    },
+    "https://idp.he2b.be/idp/shibboleth": {
+        "en": "Haute École Bruxelles-Brabant (HE2B)"
+    },
+    "https://idp.heh.be/idp/shibboleth": {
+        "en": "Haute Ecole en Hainaut"
+    },
+    "https://idp.helha.be/idp/shibboleth": {
+        "en": "HELHa"
+    },
+    "https://idp.hogent.be/idp": {
+        "en": "Hogent"
+    },
+    "https://idp.howest.be/idp/shibboleth": {
+        "en": "Hogeschool West-Vlaanderen"
+    },
+    "https://idp.kmkg-mrah.be/idp/shibboleth": {
+        "en": "Royal Museums of Art and History, Brussels",
+        "fr": "Musées royaux d'Art et d'Histoire, Bruxelles"
+    },
+    "https://idp.uclouvain.be/idp/shibboleth": {
+        "en": "Catholic University of Louvain",
+        "fr": "Universite catholique de Louvain"
+    },
+    "https://idp.uhasselt.be:443/idp/shibboleth": {
+        "en": "Hasselt University",
+        "nl": "Universiteit Hasselt"
+    },
+    "https://idp.umons.ac.be/idp/shibboleth": {
+        "en": "University of Mons (UMONS)",
+        "fr": "Universite de Mons (UMONS)"
+    },
+    "https://idp.vliz.be/idp/shibboleth": {
+        "en": "Flanders Marine Institute (VLIZ)"
+    },
+    "https://idp.vub.be/idp/sso": {
+        "en": "Vrije Universiteit Brussel"
+    },
+    "https://idpstaff-ha.belnet.be/idp/shibboleth": {
+        "en": "Belnet"
+    },
+    "https://idpx.ua.ac.be/idp/shibboleth": {
+        "en": "Universiteit Antwerpen"
+    },
+    "https://saml.aeronomie.be/saml2/idp/metadata.php": {
+        "en": "Royal Belgian Institute for Space Aeronomy",
+        "fr": "Institut royal d'Aéronomie Spatiale de Belgique"
+    },
+    "https://shibboleth.ephec.be/idp/shibboleth": {
+        "en": "EPHEC"
+    },
+    "https://sso.irc.ugent.be/auth/realms/irc": {
+        "en": "VIB-UGent IRC"
+    },
+    "https://sso.vito.be": {
+        "en": "VITO"
+    },
+    "https://sts.windows.net/2d714a65-b97f-41a9-8ff1-ec2cdf7df5cd/": {
+        "en": "VIB"
+    },
+    "urn:mace:kuleuven.be:kulassoc:kuleuven.be": {
+        "en": "KU Leuven Association",
+        "nl": "Associatie KU Leuven"
+    }
+}

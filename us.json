@@ -1,0 +1,1601 @@
+{
+    "http://adfs.ad.und.edu/adfs/services/trust": {
+        "en": "University of North Dakota"
+    },
+    "http://adfs.amnh.org/adfs/services/trust": {
+        "en": "American Museum of Natural History - Richard Gilder Graduate School"
+    },
+    "http://adfs.lsuhsc.edu/adfs/services/trust": {
+        "en": "Louisiana State University Health Sciences Center-New Orleans"
+    },
+    "http://adfs.nic.edu/adfs/services/trust": {
+        "en": "North Idaho College"
+    },
+    "http://adfs.nsf.gov/adfs/services/trust": {
+        "en": "National Science Foundation (Staff Login)"
+    },
+    "http://adfs.philau.edu/adfs/services/trust": {
+        "en": "Philadelphia University"
+    },
+    "http://adfs.ppd.com/adfs/services/trust": {
+        "en": "PPD"
+    },
+    "http://adfs.sso.passhe.edu/adfs/services/trust": {
+        "en": "PA State System of Higher Education"
+    },
+    "http://adfs.unco.edu/adfs/services/trust": {
+        "en": "University of Northern Colorado"
+    },
+    "http://adfs.uwsp.edu/adfs/services/trust": {
+        "en": "University of Wisconsin - Stevens Point"
+    },
+    "http://bcadfs.bridgewater.edu/adfs/services/trust": {
+        "en": "Bridgewater College"
+    },
+    "http://fed.lit.edu/adfs/ls": {
+        "en": "Lamar Institute of Technology"
+    },
+    "http://federate.bsu.edu/sso": {
+        "en": "Ball State  University"
+    },
+    "http://fs.albmolecular.com/adfs/services/trust": {
+        "en": "Curia Global, Inc."
+    },
+    "http://fs.carilionclinic.org/adfs/services/trust": {
+        "en": "Carilion Clinic"
+    },
+    "http://fs.uwlax.edu/adfs/services/trust": {
+        "en": "University of Wisconsin - La Crosse"
+    },
+    "http://fs.uwp.edu/adfs/services/trust": {
+        "en": "University of Wisconsin-Parkside"
+    },
+    "http://fs.wcu.edu/adfs/services/trust": {
+        "en": "Western Carolina University"
+    },
+    "http://login.mayo.edu/adfs/services/trust": {
+        "en": "Mayo Clinic"
+    },
+    "http://msauth.kent.edu/adfs/services/trust": {
+        "en": "Kent State University"
+    },
+    "http://sso.davidson.edu/adfs/services/trust": {
+        "en": "Davidson College"
+    },
+    "http://sso.oit.edu/idp": {
+        "en": "Oregon Institute of Technology"
+    },
+    "http://sso.quinnipiac.edu/adfs/services/trust": {
+        "en": "Quinnipiac University"
+    },
+    "http://ssologin.cei.edu/adfs/services/trust": {
+        "en": "College of Eastern Idaho"
+    },
+    "http://sts.clackamas.edu/adfs/services/trust": {
+        "en": "Clackamas Community College"
+    },
+    "https://aaidp.academicanalytics.com/idp/shibboleth": {
+        "en": "Academic Analytics"
+    },
+    "https://academica.aws.wayne.edu/saml2/trust": {
+        "en": "Wayne State University"
+    },
+    "https://access.research.cchmc.org/fed/idp": {
+        "en": "Cincinnati Children's Hospital Medical Center"
+    },
+    "https://account.vcccd.edu": {
+        "en": "Ventura County Comm College District"
+    },
+    "https://adfs.otc.edu/adfs/services/trust": {
+        "en": "Ozarks Technical Community College"
+    },
+    "https://alumidp.princeton.edu/idp/shibboleth": {
+        "en": "Princeton University Alumni"
+    },
+    "https://auth-incommon.siu.edu": {
+        "en": "Southern Illinois University"
+    },
+    "https://auth.chaminade.edu/idp/shibboleth": {
+        "en": "Chaminade University of Honolulu"
+    },
+    "https://auth.creighton.edu/idp/shibboleth": {
+        "en": "Creighton University"
+    },
+    "https://auth.dickinson.edu/idp/shibboleth": {
+        "en": "Dickinson College"
+    },
+    "https://auth.geneseo.edu/simplesaml/saml2/idp/metadata.php": {
+        "en": "SUNY Geneseo"
+    },
+    "https://auth.it.marist.edu/idp": {
+        "en": "Marist College"
+    },
+    "https://auth.lmu.edu/idp/shibboleth": {
+        "en": "Loyola Marymount University"
+    },
+    "https://auth.manhattan.edu/idp/shibboleth": {
+        "en": "Manhattan College"
+    },
+    "https://auth.owens.edu": {
+        "en": "Owens Community College"
+    },
+    "https://auth.unk.edu/idp/shibboleth": {
+        "en": "University of Nebraska At Kearney"
+    },
+    "https://auth.unomaha.edu/idp": {
+        "en": "University of Nebraska at Omaha"
+    },
+    "https://auth.yale.edu/idp/shibboleth": {
+        "en": "Yale University"
+    },
+    "https://authentic.txstate.edu/idp/shibboleth": {
+        "en": "Texas State University"
+    },
+    "https://authidp.shsu.edu/idp/shibboleth": {
+        "en": "Sam Houston State University"
+    },
+    "https://awsanubis.ringling.edu/idp/shibboleth": {
+        "en": "Ringling College of Art and Design"
+    },
+    "https://caneid.miami.edu/idp/shibboleth": {
+        "en": "University of Miami"
+    },
+    "https://cas.byu.edu/cas/idp/metadata": {
+        "en": "Brigham Young University"
+    },
+    "https://cas.cgcent.miami.edu/idp/shibboleth": {
+        "en": "University of Miami - Non-production"
+    },
+    "https://cas.conncoll.edu/idp/shibboleth": {
+        "en": "Connecticut College"
+    },
+    "https://cas.kumc.edu/idp/shibboleth": {
+        "en": "University of Kansas Medical Center"
+    },
+    "https://certify.skidmore.edu/idp/shibboleth": {
+        "en": "Skidmore College"
+    },
+    "https://cma-shibboleth.csum.edu/idp/shibboleth": {
+        "en": "California Maritime Academy"
+    },
+    "https://csupidp.csupueblo.edu/idp/shibboleth": {
+        "en": "Colorado State University - Pueblo"
+    },
+    "https://cumin.plu.edu/idp/shibboleth": {
+        "en": "Pacific Lutheran University"
+    },
+    "https://duo.emerson.edu/dag/saml2/idp/metadata.php": {
+        "en": "Emerson College"
+    },
+    "https://eidp.llnl.gov": {
+        "en": "Lawrence Livermore National Laboratory"
+    },
+    "https://enterprise.login.utexas.edu/idp/shibboleth": {
+        "en": "University of Texas at Austin"
+    },
+    "https://falconidp.uwrf.edu/idp/shibboleth": {
+        "en": "University of Wisconsin-River Falls"
+    },
+    "https://fed.huit.harvard.edu/idp/shibboleth": {
+        "en": "Harvard University"
+    },
+    "https://fed.nebraska.edu/idp/shibboleth": {
+        "en": "University of Nebraska"
+    },
+    "https://fedauth.colorado.edu/idp/shibboleth": {
+        "en": "University of Colorado at Boulder"
+    },
+    "https://fedidp.bcm.edu/idp/shibboleth": {
+        "en": "Baylor College of Medicine"
+    },
+    "https://fedidp.uh.edu/idp/shibboleth": {
+        "en": "University of Houston"
+    },
+    "https://fim.temple.edu/idp/shibboleth": {
+        "en": "Temple University"
+    },
+    "https://fiuidp.fiu.edu/idp/shibboleth": {
+        "en": "Florida International University"
+    },
+    "https://hancockcollege.onbio-key.com": {
+        "en": "Allan Hancock College"
+    },
+    "https://hartnell.edu/idp": {
+        "en": "Hartnell Community College District"
+    },
+    "https://icarus.sdstate.edu/idp/shibboleth": {
+        "en": "South Dakota State University"
+    },
+    "https://icidp.osrhe.edu/idp/shibboleth": {
+        "en": "Oklahoma State Regents for Higher Education/OneNet"
+    },
+    "https://id.nps.edu/idp/shibboleth": {
+        "en": "Naval Postgraduate School"
+    },
+    "https://id.uakron.edu/idp/shibboleth": {
+        "en": "University of Akron, Main Campus, The"
+    },
+    "https://idcs-6dfbdd810afa4d509f6cfc191d612acd.identity.oraclecloud.com:443/fed": {
+        "en": "University of Colorado Denver | Anschutz Medical Campus"
+    },
+    "https://identity.colgate.edu/idp/shibboleth": {
+        "en": "Colgate University"
+    },
+    "https://identity.gettysburg.edu/idp/shibboleth": {
+        "en": "Gettysburg College SSO"
+    },
+    "https://identity.hmc.edu/idp": {
+        "en": "Harvey Mudd College"
+    },
+    "https://identity.research.gov/sso": {
+        "en": "National Science Foundation (Researcher Login)"
+    },
+    "https://identityprovider.anl.gov/idp/shibboleth": {
+        "en": "Argonne National Laboratory"
+    },
+    "https://idp-co.calstate.edu/idp/shibboleth": {
+        "en": "California State University, Office of the Chancellor"
+    },
+    "https://idp-prod.cc.ucf.edu/idp/shibboleth": {
+        "en": "University of Central Florida"
+    },
+    "https://idp-samlprod3.kennesaw.edu": {
+        "en": "Kennesaw State University"
+    },
+    "https://idp-staging.fsu.edu": {
+        "en": "Florida State University - Staging"
+    },
+    "https://idp.allegheny.edu/openathens": {
+        "en": "Allegheny College"
+    },
+    "https://idp.american.edu/idp/shibboleth": {
+        "en": "American University"
+    },
+    "https://idp.ameslab.gov/idp/shibboleth": {
+        "en": "Ames Laboratory"
+    },
+    "https://idp.apu.edu/shibboleth": {
+        "en": "Azusa Pacific University"
+    },
+    "https://idp.aub.edu.lb/idp/shibboleth": {
+        "en": "American University of Beirut"
+    },
+    "https://idp.bnl.gov/idp/shibboleth": {
+        "en": "Brookhaven National Laboratory"
+    },
+    "https://idp.boisestate.edu/idp/shibboleth": {
+        "en": "Boise State University"
+    },
+    "https://idp.bridgeport.edu/idp/shibboleth": {
+        "en": "University of Bridgeport"
+    },
+    "https://idp.brynmawr.edu/idp/shibboleth": {
+        "en": "Bryn Mawr College"
+    },
+    "https://idp.calpoly.edu/idp/shibboleth": {
+        "en": "California Polytechnic State University-San Luis Obispo"
+    },
+    "https://idp.caltech.edu/idp/shibboleth": {
+        "en": "California Institute of Technology"
+    },
+    "https://idp.cc.binghamton.edu/idp/shibboleth": {
+        "en": "Binghamton University"
+    },
+    "https://idp.chapman.edu/idp": {
+        "en": "Chapman University"
+    },
+    "https://idp.chop.edu/idp/shibboleth": {
+        "en": "Children's Hospital of Philadelphia"
+    },
+    "https://idp.cirrusidentity.com/idp": {
+        "en": "Cirrus Identity, Inc."
+    },
+    "https://idp.citruscollege.edu/idp/shibboleth": {
+        "en": "Citrus Community College District"
+    },
+    "https://idp.clarion.edu/idp": {
+        "en": "Clarion University"
+    },
+    "https://idp.cloud.unizin.org/idp/shibboleth": {
+        "en": "Unizin"
+    },
+    "https://idp.cmccd.edu/idp/shibboleth": {
+        "en": "Copper Mountain Community College District"
+    },
+    "https://idp.cos.edu/": {
+        "en": "MyGiant - Sequoias Community College District"
+    },
+    "https://idp.cpp.edu/idp/shibboleth": {
+        "en": "California State Polytechnic University, Pomona"
+    },
+    "https://idp.csudh.edu/idp/shibboleth": {
+        "en": "California State University, Dominguez Hills"
+    },
+    "https://idp.csus.edu/idp/shibboleth": {
+        "en": "California State University, Sacramento"
+    },
+    "https://idp.csusb.edu/idp/shibboleth": {
+        "en": "California State University, San Bernardino"
+    },
+    "https://idp.csusm.edu/idp/shibboleth": {
+        "en": "California State University, San Marcos"
+    },
+    "https://idp.csustan.edu/idp/shibboleth": {
+        "en": "California State University,  Stanislaus"
+    },
+    "https://idp.cwu.edu/idp/shibboleth": {
+        "en": "Central Washington University"
+    },
+    "https://idp.davidsonccc.edu/idp/shibboleth": {
+        "en": "Davidson County Community College"
+    },
+    "https://idp.depauw.edu/openathens": {
+        "en": "DePauw University InCommon IDP"
+    },
+    "https://idp.du.edu/idp/shibboleth": {
+        "en": "University of Denver"
+    },
+    "https://idp.duq.edu/idp/shibboleth": {
+        "en": "Duquesne University"
+    },
+    "https://idp.educause.edu/idp/shibboleth": {
+        "en": "EDUCAUSE"
+    },
+    "https://idp.elon.edu/idp/shibboleth": {
+        "en": "Elon University"
+    },
+    "https://idp.es.net/idp/shibboleth": {
+        "en": "ESnet"
+    },
+    "https://idp.eup.edinboro.edu/idp/shibboleth": {
+        "en": "Edinboro University of Pennsylvania"
+    },
+    "https://idp.fdu.edu/idp/shibboleth": {
+        "en": "Fairleigh Dickinson University"
+    },
+    "https://idp.fnal.gov/idp/shibboleth": {
+        "en": "Fermi National Accelerator Laboratory"
+    },
+    "https://idp.fsu.edu": {
+        "en": "Florida State University"
+    },
+    "https://idp.gatech.edu/idp/shibboleth": {
+        "en": "Georgia Institute of Technology"
+    },
+    "https://idp.getty.edu/idp": {
+        "en": "J. Paul Getty Trust"
+    },
+    "https://idp.gonzaga.edu/idp": {
+        "en": "Gonzaga University"
+    },
+    "https://idp.grinnell.edu/idp/shibboleth": {
+        "en": "Grinnell College"
+    },
+    "https://idp.gsu.edu/idp/shibboleth": {
+        "en": "Georgia State University"
+    },
+    "https://idp.haverford.edu/idp/shibboleth": {
+        "en": "Haverford College"
+    },
+    "https://idp.hawaii.edu/idp/shibboleth": {
+        "en": "University of Hawaii"
+    },
+    "https://idp.huc.edu/idp/shibboleth": {
+        "en": "Hebrew Union College - Jewish Institute of Religion"
+    },
+    "https://idp.ias.edu/idp/shibboleth": {
+        "en": "Institute for Advanced Study"
+    },
+    "https://idp.iastate.edu/shibboleth": {
+        "en": "Iowa State University"
+    },
+    "https://idp.iit.edu/idp": {
+        "en": "Illinois Institute of Technology"
+    },
+    "https://idp.jefferson.edu/idp/shibboleth": {
+        "en": "Thomas Jefferson University"
+    },
+    "https://idp.kutztown.edu/idp/shibboleth": {
+        "en": "Kutztown University"
+    },
+    "https://idp.lhup.edu/idp/shibboleth": {
+        "en": "Lock Haven University"
+    },
+    "https://idp.login.iu.edu/idp/shibboleth": {
+        "en": "Indiana University"
+    },
+    "https://idp.louisville.edu/idp": {
+        "en": "University of Louisville (New)"
+    },
+    "https://idp.lsuhs.edu/idp/shibboleth": {
+        "en": "LSU Health Shreveport"
+    },
+    "https://idp.ltcc.edu/idp/shibboleth": {
+        "en": "Lake Tahoe Community College"
+    },
+    "https://idp.macalester.edu/openathens": {
+        "en": "Macalester College"
+    },
+    "https://idp.maine.edu/idp/shibboleth": {
+        "en": "University of Maine System"
+    },
+    "https://idp.malone.edu/idp/shibboleth": {
+        "en": "Malone University"
+    },
+    "https://idp.marquette.edu/idp": {
+        "en": "Marquette University"
+    },
+    "https://idp.marshall.edu/idp/shibboleth": {
+        "en": "Marshall University"
+    },
+    "https://idp.mbl.edu/idp/shibboleth": {
+        "en": "Marine Biological Laboratory"
+    },
+    "https://idp.merit.edu": {
+        "en": "Merit Network, Inc."
+    },
+    "https://idp.mica.edu/idp/shibboleth": {
+        "en": "Maryland Institute College of Art"
+    },
+    "https://idp.millersville.edu/idp/shibboleth": {
+        "en": "Millersville University of Pennsylvania"
+    },
+    "https://idp.mines.edu/idp/shibboleth": {
+        "en": "Colorado School of Mines"
+    },
+    "https://idp.miracosta.edu/idp/shibboleth": {
+        "en": "MiraCosta Community College District"
+    },
+    "https://idp.morgan.edu/idp/shibboleth": {
+        "en": "Morgan State University"
+    },
+    "https://idp.mtsac.edu/idp/shibboleth": {
+        "en": "Mt. San Antonio Community College District"
+    },
+    "https://idp.nccu.edu/idp/shibboleth": {
+        "en": "North Carolina Central University"
+    },
+    "https://idp.ncsa.illinois.edu/idp/shibboleth": {
+        "en": "National Center for Supercomputing Applications"
+    },
+    "https://idp.ndsu.edu/idp/shibboleth": {
+        "en": "North Dakota State University"
+    },
+    "https://idp.niu.edu/idp/shibboleth": {
+        "en": "Northern Illinois University"
+    },
+    "https://idp.nss.udel.edu/idp/shibboleth": {
+        "en": "University of Delaware"
+    },
+    "https://idp.oh-tech.org/idp/shibboleth": {
+        "en": "Ohio Technology Consortium (OH-TECH)"
+    },
+    "https://idp.ohsu.edu/idp/shibboleth": {
+        "en": "Oregon Health & Science University"
+    },
+    "https://idp.okstate.edu/idp/shibboleth": {
+        "en": "Oklahoma State University Main Campus"
+    },
+    "https://idp.ornl.gov/idp": {
+        "en": "Oak Ridge National Laboratory"
+    },
+    "https://idp.osc.edu/auth/realms/osc": {
+        "en": "Ohio Supercomputer Center (OSC)"
+    },
+    "https://idp.pct.edu/idp/shibboleth": {
+        "en": "Pennsylvania College of Technology"
+    },
+    "https://idp.pennkey.upenn.edu/idp/shibboleth": {
+        "en": "University of Pennsylvania"
+    },
+    "https://idp.pima.edu/idp/shibboleth": {
+        "en": "Pima County Community College District"
+    },
+    "https://idp.princeton.edu/idp/shibboleth": {
+        "en": "Princeton University"
+    },
+    "https://idp.pugetsound.edu/idp/shibboleth": {
+        "en": "University of Puget Sound"
+    },
+    "https://idp.purdue.edu/idp/shibboleth": {
+        "en": "Purdue University Main Campus"
+    },
+    "https://idp.qatar-weill.cornell.edu/idp/shibboleth": {
+        "en": "Weill Cornell Medical College in Qatar"
+    },
+    "https://idp.radford.edu/idp/shibboleth": {
+        "en": "Radford University"
+    },
+    "https://idp.reed.edu/idp/shibboleth": {
+        "en": "Reed College"
+    },
+    "https://idp.rice.edu/idp/shibboleth": {
+        "en": "Rice University"
+    },
+    "https://idp.sbcc.edu/idp/shibboleth": {
+        "en": "Santa Barbara City College"
+    },
+    "https://idp.sbccd.edu": {
+        "en": "San Bernardino Community College District"
+    },
+    "https://idp.scccd.edu/idp/shibboleth": {
+        "en": "State Center Community College District"
+    },
+    "https://idp.sdcc.bnl.gov/idp": {
+        "en": "Brookhaven National Laboratory - SDCC.BNL.GOV"
+    },
+    "https://idp.sdsu.edu/idp/shibboleth": {
+        "en": "San Diego State University"
+    },
+    "https://idp.sfsu.edu/idp/shibboleth": {
+        "en": "San Francisco State University"
+    },
+    "https://idp.shibboleth.ttu.edu/idp/shibboleth": {
+        "en": "Texas Tech University"
+    },
+    "https://idp.ship.edu/idp/shibboleth": {
+        "en": "Shippensburg University of Pennsylvania"
+    },
+    "https://idp.si.edu/idp/shibboleth": {
+        "en": "Smithsonian Institution"
+    },
+    "https://idp.simmons.edu/idp/shibboleth": {
+        "en": "Simmons University"
+    },
+    "https://idp.smu.edu/idp/shibboleth": {
+        "en": "Southern Methodist University"
+    },
+    "https://idp.srecarilionclinic.org/idp/shibboleth": {
+        "en": "SRE Carilion Clinic"
+    },
+    "https://idp.sulross.edu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Sul Ross State University"
+    },
+    "https://idp.symplicity.com/idp/shibboleth": {
+        "en": "Symplicity Corporation"
+    },
+    "https://idp.tamucc.edu/idp/shibboleth": {
+        "en": "Texas A&M University-Corpus Christi"
+    },
+    "https://idp.tamusa.edu/idp/shibboleth": {
+        "en": "Texas A&M University - San Antonio"
+    },
+    "https://idp.tcu.edu/idp": {
+        "en": "Texas Christian University"
+    },
+    "https://idp.touro.edu/idp/shibboleth": {
+        "en": "Touro College"
+    },
+    "https://idp.tulane.edu/idp/shibboleth": {
+        "en": "Tulane University"
+    },
+    "https://idp.ua.edu/idp/shibboleth": {
+        "en": "University of Alabama, The"
+    },
+    "https://idp.uark.edu/idp/shibboleth": {
+        "en": "University of Arkansas"
+    },
+    "https://idp.ubalt.edu/idp/shibboleth": {
+        "en": "University of Baltimore"
+    },
+    "https://idp.uhd.edu/idp/shibboleth": {
+        "en": "University of Houston-Downtown"
+    },
+    "https://idp.umassd.edu/idp/shibboleth": {
+        "en": "University of Massachusetts - Dartmouth"
+    },
+    "https://idp.unicon.net/idp/shibboleth": {
+        "en": "Unicon, Inc."
+    },
+    "https://idp.unmc.edu/idp/shibboleth": {
+        "en": "University of Nebraska Medical Center"
+    },
+    "https://idp.uprm.edu/saml2/idp/": {
+        "en": "University of Puerto Rico-Mayaguez"
+    },
+    "https://idp.usm.edu/idp/shibboleth": {
+        "en": "University of Southern Mississippi"
+    },
+    "https://idp.uta.edu/idp/shibboleth": {
+        "en": "University of Texas at Arlington"
+    },
+    "https://idp.utdallas.edu/idp/shibboleth": {
+        "en": "University of Texas at Dallas"
+    },
+    "https://idp.utk.edu/idp/shibboleth": {
+        "en": "University of Tennessee"
+    },
+    "https://idp.utmb.edu/idp/shibboleth": {
+        "en": "University of Texas Medical Branch At Galveston"
+    },
+    "https://idp.utsystem.edu/idp/shibboleth": {
+        "en": "University of Texas System"
+    },
+    "https://idp.uttyler.edu/idp/shibboleth": {
+        "en": "University of Texas At Tyler"
+    },
+    "https://idp.uvm.edu/idp/shibboleth": {
+        "en": "University of Vermont"
+    },
+    "https://idp.uwf.edu/idp/shibboleth": {
+        "en": "University of West Florida"
+    },
+    "https://idp.uwm.edu/idp/shibboleth": {
+        "en": "University of Wisconsin-Milwaukee"
+    },
+    "https://idp.weber.edu/idp": {
+        "en": "Weber State University"
+    },
+    "https://idp.whitman.edu/idp/shibboleth": {
+        "en": "Whitman College"
+    },
+    "https://idp.willamette.edu/idp": {
+        "en": "Willamette University"
+    },
+    "https://idp.williams.edu/idp/shibboleth": {
+        "en": "Williams College"
+    },
+    "https://idp.wm.edu/idp/shibboleth": {
+        "en": "William & Mary"
+    },
+    "https://idp.wmich.edu/idp/shibboleth": {
+        "en": "Western Michigan University"
+    },
+    "https://idp.wooster.edu/idp/shibboleth": {
+        "en": "The College of Wooster"
+    },
+    "https://idp.wpi.edu/idp/shibboleth": {
+        "en": "Worcester Polytechnic Institute"
+    },
+    "https://idp.wpunj.edu/idp/shibboleth": {
+        "en": "William Paterson University"
+    },
+    "https://idp.wvu.edu/idp/shibboleth": {
+        "en": "West Virginia University"
+    },
+    "https://idp.xsede.org/idp/shibboleth": {
+        "en": "XSEDE"
+    },
+    "https://idp01.broadinstitute.org/idp/shibboleth": {
+        "en": "Broad Institute of MIT and Harvard"
+    },
+    "https://idp01.sjsu.edu/idp/shibboleth": {
+        "en": "San Jose State University"
+    },
+    "https://idp2.unr.edu/idp/shibboleth": {
+        "en": "University of Nevada, Reno"
+    },
+    "https://idpp.calstatela.edu/idp": {
+        "en": "California State University, Los Angeles"
+    },
+    "https://incommon.coloradomesa.edu": {
+        "en": "Colorado Mesa University"
+    },
+    "https://incommon.esu.edu/idp/shibboleth": {
+        "en": "East Stroudsburg University of Pennsylvania"
+    },
+    "https://incommon.sunycnse.com/idp/shibboleth": {
+        "en": "SUNY Polytechnic Institute"
+    },
+    "https://infp-shib-01.uthct.edu/idp/shibboleth": {
+        "en": "University of Texas Health Science Center At Tyler"
+    },
+    "https://its-shib.its.csulb.edu/idp/shibboleth": {
+        "en": "California State University, Long Beach"
+    },
+    "https://its.longwood.edu/idp": {
+        "en": "Longwood University"
+    },
+    "https://jidp.jlab.org/idp/shibboleth": {
+        "en": "Thomas Jefferson National Accelerator Facility"
+    },
+    "https://junebug2.mcc.edu/idp/shibboleth": {
+        "en": "Mott Community College"
+    },
+    "https://keycloak.tacc.utexas.edu/auth/realms/tacc-ldap": {
+        "en": "TEXAS ADVANCED COMPUTING CENTER"
+    },
+    "https://login.aus.edu/idp/shibboleth": {
+        "en": "American University of Sharjah"
+    },
+    "https://login.bard.edu/idp": {
+        "en": "Bard College"
+    },
+    "https://login.bc.edu/idp/shibboleth": {
+        "en": "Boston College"
+    },
+    "https://login.brockport.edu": {
+        "en": "SUNY The College at Brockport"
+    },
+    "https://login.cmu.edu/idp/shibboleth": {
+        "en": "Carnegie Mellon University"
+    },
+    "https://login.emory.edu/idp/shibboleth": {
+        "en": "Emory University"
+    },
+    "https://login.fandm.edu/idp/shibboleth": {
+        "en": "Franklin & Marshall College"
+    },
+    "https://login.icermali.org/idp/shibboleth": {
+        "en": "ICER - Mali"
+    },
+    "https://login.iceruganda.org/idp/shibboleth": {
+        "en": "ICER - Uganda"
+    },
+    "https://login.ithaca.edu/idp/shibboleth": {
+        "en": "Ithaca College"
+    },
+    "https://login.lemoyne.edu": {
+        "en": "LeMoyne College"
+    },
+    "https://login.ligo.org/idp/shibboleth": {
+        "en": "LIGO Scientific Collaboration"
+    },
+    "https://login.montana.edu/idp/shibboleth": {
+        "en": "Montana State University - Bozeman"
+    },
+    "https://login.msjc.edu/sso/": {
+        "en": "Mt. San Jacinto Community College District"
+    },
+    "https://login.mtholyoke.edu/idp/shibboleth": {
+        "en": "Mount Holyoke College Login Service"
+    },
+    "https://login.nd.edu/idp/shibboleth": {
+        "en": "University of Notre Dame"
+    },
+    "https://login.nyumc.org/idp/shibboleth": {
+        "en": "NYU Langone Health"
+    },
+    "https://login.ohlone.edu/idp/shibboleth": {
+        "en": "Ohlone Community College District"
+    },
+    "https://login.oregonstate.edu/idp/shibboleth": {
+        "en": "Oregon State University"
+    },
+    "https://login.otis.edu/idp/shibboleth": {
+        "en": "Otis College of Art and Design"
+    },
+    "https://login.regis.edu": {
+        "en": "Regis University"
+    },
+    "https://login.rowan.edu": {
+        "en": "Rowan University"
+    },
+    "https://login.scu.edu/idp/shibboleth": {
+        "en": "Santa Clara University"
+    },
+    "https://login.smith.edu/idp/shibboleth": {
+        "en": "Smith College"
+    },
+    "https://login.sonoma.edu/shibboleth": {
+        "en": "Sonoma State University"
+    },
+    "https://login.stolaf.edu/idp/shibboleth": {
+        "en": "St. Olaf College"
+    },
+    "https://login.uc.edu/idp/shibboleth": {
+        "en": "University of Cincinnati Main Campus"
+    },
+    "https://login.ufl.edu/idp/shibboleth": {
+        "en": "University of Florida"
+    },
+    "https://login.umt.edu/idp/shibboleth": {
+        "en": "The University of Montana"
+    },
+    "https://login.unlv.edu/FIM/sps/MyShib/saml20": {
+        "en": "University of Nevada-Las Vegas"
+    },
+    "https://login.uwec.edu/idp/shibboleth": {
+        "en": "University of Wisconsin - Eau Claire"
+    },
+    "https://login.weill.cornell.edu/idp": {
+        "en": "Weill Cornell Medicine"
+    },
+    "https://login.wellesley.edu/saml2/idp/metadata.php": {
+        "en": "Wellesley College"
+    },
+    "https://login.wisc.edu/idp/shibboleth": {
+        "en": "University of Wisconsin-Madison"
+    },
+    "https://login.wustl.edu/idp/shibboleth": {
+        "en": "Washington University in St. Louis"
+    },
+    "https://loginp.fordham.edu/idp/shibboleth": {
+        "en": "Fordham University"
+    },
+    "https://mamiwata.du.edu/idp": {
+        "en": "The University of Denver"
+    },
+    "https://mckinley.csuci.edu/idp/shibboleth": {
+        "en": "California State University, Channel Islands"
+    },
+    "https://my.atsu.edu/swPublicSSO/SAML/incommon": {
+        "en": "A. T. Still University"
+    },
+    "https://mycomidp.marin.edu": {
+        "en": "Marin Community College District"
+    },
+    "https://myid.vsc.edu/idp/shibboleth": {
+        "en": "Vermont State Colleges"
+    },
+    "https://myidp.nmsu.edu": {
+        "en": "New Mexico State University"
+    },
+    "https://mylogin.unh.edu/secureauth74": {
+        "en": "University of New Hampshire"
+    },
+    "https://myqlidp.otis.edu": {
+        "en": "Otis College QuickLaunch"
+    },
+    "https://myresearchid.idp.cirrusidentity.com/idp": {
+        "en": "MyResearchID"
+    },
+    "https://namid.fairfield.edu:8443/nidp/saml2/metadata": {
+        "en": "Fairfield University"
+    },
+    "https://netid.uwosh.edu/idp/shibboleth": {
+        "en": "University of Wisconsin Oshkosh"
+    },
+    "https://neuidmsso.neu.edu/idp/shibboleth": {
+        "en": "Northeastern University"
+    },
+    "https://oneaccess.lehman.edu/CloudAccessManager/RPSTS": {
+        "en": "Lehman College of the City University of New York"
+    },
+    "https://passport.pitt.edu/idp/shibboleth": {
+        "en": "University of Pittsburgh"
+    },
+    "https://peridot.truman.edu/idp": {
+        "en": "Truman State University"
+    },
+    "https://pgsso.cccd.edu/sso": {
+        "en": "Coast Community College District"
+    },
+    "https://portal.uwsuper.edu": {
+        "en": "University of Wisconsin-Superior Login Portal"
+    },
+    "https://poseidon.springfield.edu/idp/shibboleth": {
+        "en": "Springfield College"
+    },
+    "https://prdidp.uncg.edu/idp/shibboleth": {
+        "en": "University of North Carolina at Greensboro"
+    },
+    "https://prod-sa.granite.edu/SecureAuth10/": {
+        "en": "Granite State College"
+    },
+    "https://rushib.rockefeller.edu/idp/shibboleth": {
+        "en": "Rockefeller University"
+    },
+    "https://saml-idp.wou.edu": {
+        "en": "Western Oregon University SSO"
+    },
+    "https://saml.adu.edu": {
+        "en": "AdventHealth University"
+    },
+    "https://saml.nelnet.net": {
+        "en": "Nelnet Business Solutions"
+    },
+    "https://scbhvidp1.wncc.edu/idp/shibboleth": {
+        "en": "Western Nebraska Community College"
+    },
+    "https://secure.stevenson.edu/idp/shibboleth": {
+        "en": "Stevenson University"
+    },
+    "https://secureauth.plymouth.edu/idp": {
+        "en": "Plymouth State University"
+    },
+    "https://shfed.augusta.edu/idp/shibboleth": {
+        "en": "Augusta University"
+    },
+    "https://shib-idp.its.csufresno.edu/idp/shibboleth": {
+        "en": "California State University, Fresno"
+    },
+    "https://shib-idp.rpi.edu/idp/shibboleth": {
+        "en": "Rensselaer Polytechnic Institute"
+    },
+    "https://shib-idp.tufts.edu/idp/shibboleth": {
+        "en": "Tufts University"
+    },
+    "https://shib-idp.umsystem.edu/idp/shibboleth": {
+        "en": "University of Missouri System"
+    },
+    "https://shib-idp2.uth.tmc.edu/idp/shibboleth": {
+        "en": "University of Texas Health Science Center At Houston"
+    },
+    "https://shib.auth.usf.edu/idp/shibboleth": {
+        "en": "University of South Florida"
+    },
+    "https://shib.bu.edu/idp/shibboleth": {
+        "en": "Boston University"
+    },
+    "https://shib.bucknell.edu/idp/shibboleth": {
+        "en": "Bucknell University"
+    },
+    "https://shib.calu.edu/idp/shibboleth": {
+        "en": "California University of Pennsylvania"
+    },
+    "https://shib.ccbcmd.edu/idp/shibboleth": {
+        "en": "Community College of Baltimore County"
+    },
+    "https://shib.csub.edu/idp/shibboleth": {
+        "en": "California State University, Bakersfield"
+    },
+    "https://shib.fortlewis.edu/idp/shibboleth": {
+        "en": "Fort Lewis College"
+    },
+    "https://shib.is.depaul.edu/idp/shibboleth": {
+        "en": "DePaul University"
+    },
+    "https://shib.marymount.edu/idp/shibboleth": {
+        "en": "Marymount University"
+    },
+    "https://shib.mcw.edu/idp/shibboleth": {
+        "en": "Medical College of Wisconsin"
+    },
+    "https://shib.mdanderson.org/idp/shibboleth": {
+        "en": "University of Texas MD Anderson Cancer Center"
+    },
+    "https://shib.ou.edu/idp/shibboleth": {
+        "en": "University of Oklahoma"
+    },
+    "https://shib.sou.edu/idp/shibboleth": {
+        "en": "Southern Oregon University"
+    },
+    "https://shib.towson.edu/idp/shibboleth": {
+        "en": "Towson University"
+    },
+    "https://shib.unf.edu/idp/shibboleth": {
+        "en": "UNF InCommon"
+    },
+    "https://shib.uni.edu/idp/shibboleth": {
+        "en": "University of Northern Iowa"
+    },
+    "https://shib.unl.edu/idp/shibboleth": {
+        "en": "University of Nebraska-Lincoln"
+    },
+    "https://shib.uthscsa.edu/idp/shibboleth": {
+        "en": "University of Texas Health Science Center At San Antonio"
+    },
+    "https://shib.uvu.edu/idp/shibboleth": {
+        "en": "Utah Valley University"
+    },
+    "https://shib.wichita.edu/idp/shibboleth": {
+        "en": "Wichita State University"
+    },
+    "https://shib.wit.edu/idp/shibboleth": {
+        "en": "Wentworth Institute of Technology"
+    },
+    "https://shib.wsc.edu/idp/shibboleth": {
+        "en": "Wayne State College"
+    },
+    "https://shib01.vassar.edu/idp/shibboleth": {
+        "en": "Vassar College"
+    },
+    "https://shib1.coastal.edu/idp/shibboleth": {
+        "en": "Coastal Carolina University"
+    },
+    "https://shib1.uwplatt.edu/idp/shibboleth": {
+        "en": "University of Wisconsin-Platteville"
+    },
+    "https://shib2.its.rochester.edu/idp/shibboleth": {
+        "en": "University of Rochester"
+    },
+    "https://shib2.swmed.edu/idp/shibboleth": {
+        "en": "University of Texas Southwestern Medical Center at Dallas"
+    },
+    "https://shib2.utep.edu/idp/shibboleth": {
+        "en": "University of Texas at El Paso"
+    },
+    "https://shibb-idp.georgetown.edu/idp/shibboleth": {
+        "en": "Georgetown University"
+    },
+    "https://shibb.its.appstate.edu/idp/shibboleth": {
+        "en": "Appalachian State University"
+    },
+    "https://shibb.utpb.edu/idp/shibboleth": {
+        "en": "University of Texas of the Permian Basin"
+    },
+    "https://shibboleth-2.baylor.edu/idp/shibboleth": {
+        "en": "Baylor University"
+    },
+    "https://shibboleth-idp.collegenet.com/idp/shibboleth": {
+        "en": "CollegeNET, Inc."
+    },
+    "https://shibboleth.aws.eckerd.edu/idp/shibboleth": {
+        "en": "Eckerd College"
+    },
+    "https://shibboleth.brandeis.edu/idp/shibboleth": {
+        "en": "Brandeis University"
+    },
+    "https://shibboleth.cmich.edu/idp/shibboleth": {
+        "en": "Central Michigan University"
+    },
+    "https://shibboleth.csuchico.edu/idp/shibboleth": {
+        "en": "California State University, Chico"
+    },
+    "https://shibboleth.fullerton.edu/idp/shibboleth": {
+        "en": "California State University, Fullerton"
+    },
+    "https://shibboleth.gmu.edu/idp/shibboleth": {
+        "en": "George Mason University"
+    },
+    "https://shibboleth.greatplains.net/idp/shibboleth": {
+        "en": "Great Plains Network"
+    },
+    "https://shibboleth.hamilton.edu/idp/shibboleth": {
+        "en": "Hamilton College"
+    },
+    "https://shibboleth.its.msstate.edu/idp/shibboleth": {
+        "en": "Mississippi State University"
+    },
+    "https://shibboleth.lib.uh.edu/idp/shibboleth": {
+        "en": "University of Houston Libraries"
+    },
+    "https://shibboleth.liberty.edu/idp/shibboleth": {
+        "en": "Liberty University"
+    },
+    "https://shibboleth.louisville.edu/idp": {
+        "en": "University of Louisville"
+    },
+    "https://shibboleth.main.ad.rit.edu/idp/shibboleth": {
+        "en": "Rochester Institute of Technology"
+    },
+    "https://shibboleth.pace.edu/idp/shibboleth": {
+        "en": "Pace University"
+    },
+    "https://shibboleth.rush.edu/idp/shibboleth": {
+        "en": "Rush University Medical Center"
+    },
+    "https://shibboleth.salisbury.edu/idp/shibboleth": {
+        "en": "Salisbury University"
+    },
+    "https://shibboleth.trincoll.edu/idp/shibboleth": {
+        "en": "Trinity College"
+    },
+    "https://shibboleth.twu.edu/idp/shibboleth": {
+        "en": "Texas Woman's University"
+    },
+    "https://shibboleth.uams.edu/idp/shibboleth": {
+        "en": "University of Arkansas for Medical Sciences"
+    },
+    "https://shibboleth.uchastings.edu/idp/shibboleth": {
+        "en": "University of California, Hastings College of the Law"
+    },
+    "https://shibboleth.uconn.edu/idp/shibboleth": {
+        "en": "University of Connecticut"
+    },
+    "https://shibboleth.uic.edu/shibboleth": {
+        "en": "University of Illinois Chicago"
+    },
+    "https://shibboleth.umassmed.edu/idp/shibboleth": {
+        "en": "University of Massachusetts Medical School"
+    },
+    "https://shibboleth.umich.edu/idp/shibboleth": {
+        "en": "University of Michigan"
+    },
+    "https://shibboleth.uoregon.edu/idp/shibboleth": {
+        "en": "University of Oregon"
+    },
+    "https://shibboleth.usu.edu/idp/shibboleth": {
+        "en": "Utah State University"
+    },
+    "https://shibboleth.uwyo.edu/idp/shibboleth": {
+        "en": "University of Wyoming"
+    },
+    "https://shibboleth.vcu.edu/idp/shibboleth": {
+        "en": "Virginia Commonwealth University"
+    },
+    "https://shibboleth.wesleyan.edu/idp/shibboleth": {
+        "en": "Wesleyan University"
+    },
+    "https://shibbolethidp.musc.edu/idp/shibboleth": {
+        "en": "Medical University of South Carolina"
+    },
+    "https://shibidp.amherst.edu/idp/shibboleth": {
+        "en": "Amherst College"
+    },
+    "https://shibidp.bates.edu/idp/shibboleth": {
+        "en": "Bates College"
+    },
+    "https://shibidp.bloomu.edu/idp/shibboleth": {
+        "en": "Bloomsburg University of Pennsylvania"
+    },
+    "https://shibidp.cit.cornell.edu/idp/shibboleth": {
+        "en": "Cornell University"
+    },
+    "https://shibidp.colostate.edu/idp/shibboleth": {
+        "en": "Colorado State University"
+    },
+    "https://shibidp.ku.edu/idp/shibboleth": {
+        "en": "University of Kansas"
+    },
+    "https://shibidp.llu.edu/idp": {
+        "en": "Loma Linda University"
+    },
+    "https://shibidp.luc.edu/idp/shibboleth": {
+        "en": "Loyola University of Chicago"
+    },
+    "https://shibidp.syr.edu/idp/shibboleth": {
+        "en": "Syracuse University"
+    },
+    "https://shibidp.utrgv.edu/idp/shibboleth": {
+        "en": "University of Texas Rio Grande Valley"
+    },
+    "https://shibidp.uwgb.edu/idp/shibboleth": {
+        "en": "University of Wisconsin - Green Bay"
+    },
+    "https://shibidp.wcupa.edu/idp/shibboleth": {
+        "en": "West Chester University of Pennsylvania"
+    },
+    "https://shibidp.whoi.edu/idp/shibboleth": {
+        "en": "Woods Hole Oceanographic Institution"
+    },
+    "https://shibidp.wsu.edu/idp/shibboleth": {
+        "en": "Washington State University"
+    },
+    "https://shibprodapp.loyola.edu/idp/shibboleth": {
+        "en": "Loyola University Maryland"
+    },
+    "https://shibsso.sandiego.edu/idp/shibboleth": {
+        "en": "University of San Diego"
+    },
+    "https://sid.swarthmore.edu/idp/shibboleth": {
+        "en": "Swarthmore College"
+    },
+    "https://sidp.wwu.edu/idp/shibboleth": {
+        "en": "Western Washington University"
+    },
+    "https://signin.cedarville.edu/idp": {
+        "en": "Cedarville University"
+    },
+    "https://signin.k-state.edu/idp/shibboleth": {
+        "en": "Kansas State University"
+    },
+    "https://singlesignon.gwu.edu/idp/shibboleth": {
+        "en": "The George Washington University"
+    },
+    "https://smidp.uwstout.edu/idp/shibboleth": {
+        "en": "University of Wisconsin - Stout"
+    },
+    "https://sonny.furman.edu/idp": {
+        "en": "Furman University"
+    },
+    "https://sso-login.vanderbilt.edu": {
+        "en": "Vanderbilt University (VU)"
+    },
+    "https://sso.athena-institute.net/idp": {
+        "en": "Athena Institute - Azure AD"
+    },
+    "https://sso.augsburg.edu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Augsburg University"
+    },
+    "https://sso.brown.edu/idp/shibboleth": {
+        "en": "Brown University"
+    },
+    "https://sso.cc.lehigh.edu/sso/saml2/idp/metadata.php": {
+        "en": "Lehigh University"
+    },
+    "https://sso.cc.uga.edu/cas/idp": {
+        "en": "University of Georgia SSO"
+    },
+    "https://sso.cccmypath.org/simplesaml/saml2/idp/metadata.php": {
+        "en": "California Community Colleges Chancellors Office"
+    },
+    "https://sso.csumb.edu/idp/shibboleth": {
+        "en": "California State University, Monterey Bay"
+    },
+    "https://sso.delval.edu/idp": {
+        "en": "Delaware Valley University"
+    },
+    "https://sso.ecu.edu/idp/shibboleth": {
+        "en": "East Carolina University"
+    },
+    "https://sso.ewu.edu/idp/shibboleth": {
+        "en": "Eastern Washington University"
+    },
+    "https://sso.fau.edu/idp/shibboleth": {
+        "en": "Florida Atlantic University"
+    },
+    "https://sso.gac.edu/idp/shibboleth": {
+        "en": "Gustavus Adolphus College"
+    },
+    "https://sso.gc.cuny.edu/idp/shibboleth": {
+        "en": "CUNY Graduate Center"
+    },
+    "https://sso.humboldt.edu/idp/metadata": {
+        "en": "Cal Poly Humboldt"
+    },
+    "https://sso.it.utsa.edu/idp/shibboleth": {
+        "en": "University of Texas at San Antonio"
+    },
+    "https://sso.kenyon.edu/idp/shibboleth": {
+        "en": "Kenyon College"
+    },
+    "https://sso.mansfield.edu/idp/shibboleth": {
+        "en": "Mansfield University of Pennsylvania"
+    },
+    "https://sso.memphis.edu/idp/shibboleth": {
+        "en": "The University of Memphis"
+    },
+    "https://sso.msoe.edu/idp": {
+        "en": "New - Milwaukee School of Engineering"
+    },
+    "https://sso.mssm.edu/idp": {
+        "en": "Icahn School of Medicine at Mount Sinai"
+    },
+    "https://sso.mtu.edu/idp/shibboleth": {
+        "en": "Michigan Technological University"
+    },
+    "https://sso.noirlab.edu/idp": {
+        "en": "NSF’s National Optical-Infrared Astronomy Research Laboratory (NOIRLab)"
+    },
+    "https://sso.nygenome.org/auth/realms/nygenome": {
+        "en": "New York Genome Center"
+    },
+    "https://sso.oakland.edu/idp/shibboleth": {
+        "en": "Oakland University"
+    },
+    "https://sso.oktaedu.com/idp/shibboleth": {
+        "en": "Okta, Inc"
+    },
+    "https://sso.pacificu.edu/idp/shibboleth": {
+        "en": "Pacific University"
+    },
+    "https://sso.pdx.edu/idp/shibboleth": {
+        "en": "Portland State University"
+    },
+    "https://sso.sjeccd.edu": {
+        "en": "San Jose - Evergreen Community College District"
+    },
+    "https://sso.tarleton.edu/idp/shibboleth": {
+        "en": "Tarleton State University"
+    },
+    "https://sso.trinity.edu/idp/shibboleth": {
+        "en": "Trinity University"
+    },
+    "https://sso.uah.edu/idp/shibboleth": {
+        "en": "University of Alabama in Huntsville"
+    },
+    "https://sso.udmercy.edu/idp": {
+        "en": "University of Detroit Mercy"
+    },
+    "https://sso.umes.edu/idp/shibboleth": {
+        "en": "University of Maryland Eastern Shore"
+    },
+    "https://sso.umgc.edu/gateway": {
+        "en": "University of Maryland Global Campus"
+    },
+    "https://sso.ung.edu/simplesaml2": {
+        "en": "University of North Georgia"
+    },
+    "https://sso.union.edu/idp/shibboleth": {
+        "en": "Union College"
+    },
+    "https://sso.unt.edu/idp/shibboleth": {
+        "en": "University of North Texas System"
+    },
+    "https://sso.uri.edu/idp": {
+        "en": "University of Rhode Island"
+    },
+    "https://sso.ut.edu/idp": {
+        "en": "The University of Tampa"
+    },
+    "https://sso.vai.org/idp": {
+        "en": "Van Andel Research Institute"
+    },
+    "https://sso.yc.edu/idp": {
+        "en": "Yavapai College"
+    },
+    "https://ssofed.naz.edu/idp": {
+        "en": "Nazareth College of Rochester"
+    },
+    "https://ssoportal.stsci.edu/idp/shibboleth": {
+        "en": "Space Telescope Science Institute"
+    },
+    "https://ssoshib.fhda.edu/idp/shibboleth": {
+        "en": "Foothill-De Anza Community College District"
+    },
+    "https://ssosw.losrios.edu/idp/shibboleth": {
+        "en": "Los Rios Single Sign On"
+    },
+    "https://thelonious.campusguard.com/idp/shibboleth": {
+        "en": "Merchant Preservation Services"
+    },
+    "https://ucanridp.ucanr.edu/idp/shibboleth": {
+        "en": "University of California, Agriculture and Natural Resources"
+    },
+    "https://uisshibb1.uis.edu/idp/shibboleth": {
+        "en": "University of Illinois At Springfield"
+    },
+    "https://ukidp.uky.edu/idp/shibboleth": {
+        "en": "University of Kentucky"
+    },
+    "https://umshibp.olemiss.edu/idp/shibboleth": {
+        "en": "University of Mississippi"
+    },
+    "https://unmpidp.unm.edu/idp/shibboleth": {
+        "en": "University of New Mexico"
+    },
+    "https://usd-shibboleth.usd.edu/idp/shibboleth": {
+        "en": "University of South Dakota"
+    },
+    "https://vbushib.einsteinmed.org/idp/": {
+        "en": "Albert Einstein College of Medicine"
+    },
+    "https://vince.csueastbay.edu/idp/shibboleth": {
+        "en": "California State University, East Bay"
+    },
+    "https://vm-shibboleth.umb.edu/idp/shibboleth": {
+        "en": "University of Massachusetts Boston"
+    },
+    "https://webapp.bgsu.edu/idp/shibboleth": {
+        "en": "Bowling Green State University"
+    },
+    "https://webauth.auburn.edu/idp/shibboleth": {
+        "en": "Auburn University"
+    },
+    "https://webauth.cedarcrest.edu/idp/shibboleth": {
+        "en": "Cedar Crest College"
+    },
+    "https://webauth.cgu.edu/idp/shibboleth": {
+        "en": "Claremont Graduate University"
+    },
+    "https://webauth.cmc.edu/idp/shibboleth": {
+        "en": "Claremont McKenna College"
+    },
+    "https://webauth.cuc.claremont.edu/idp/shibboleth": {
+        "en": "The Claremont Colleges Services"
+    },
+    "https://webauth.kgi.edu/idp/shibboleth": {
+        "en": "Keck Graduate Institute of Applied Life Sciences"
+    },
+    "https://webauth.meredith.edu/idp/shibboleth": {
+        "en": "Meredith College"
+    },
+    "https://webauth.njit.edu/idp/shibboleth": {
+        "en": "New Jersey Institute of Technology"
+    },
+    "https://webauth.northern.edu/idp/shibboleth": {
+        "en": "Northern State University"
+    },
+    "https://webauth.pitzer.edu/idp/shibboleth": {
+        "en": "Pitzer College"
+    },
+    "https://webauth.scrippscollege.edu/idp/shibboleth": {
+        "en": "Scripps College"
+    },
+    "https://webauth.shib.lsu.edu/idp/shibboleth": {
+        "en": "Louisiana State University"
+    },
+    "https://webauth.umaryland.edu/idp/shibboleth": {
+        "en": "University of Maryland Baltimore"
+    },
+    "https://webauth.umass.edu/idp/shibboleth": {
+        "en": "University of Massachusetts Amherst"
+    },
+    "https://webauth.uncc.edu/idp/shibboleth": {
+        "en": "University of North Carolina At Charlotte"
+    },
+    "https://webauth.wfunet.wfu.edu/saml/saml2/idp/metadata.php": {
+        "en": "Wake Forest University"
+    },
+    "https://webauth2.shib.lsu.edu/idp/shibboleth": {
+        "en": "Louisiana State University - AAD"
+    },
+    "https://weblogin.albany.edu/shibboleth/idp2": {
+        "en": "University At Albany, State University of New York"
+    },
+    "https://webso.iup.edu/idp/shibboleth": {
+        "en": "Indiana University of Pennsylvania"
+    },
+    "https://websso.pomona.edu/": {
+        "en": "Pomona College"
+    },
+    "https://wpkfl-shibidp.fullsail.com/idp/shibboleth": {
+        "en": "Full Sail University"
+    },
+    "urn:mace:incommon:alaska.edu": {
+        "en": "University of Alaska Statewide System"
+    },
+    "urn:mace:incommon:arizona.edu": {
+        "en": "The University of Arizona"
+    },
+    "urn:mace:incommon:asu.edu": {
+        "en": "Arizona State University"
+    },
+    "urn:mace:incommon:berkeley.edu": {
+        "en": "University of California, Berkeley"
+    },
+    "urn:mace:incommon:buffalo.edu": {
+        "en": "The State University of New York at Buffalo"
+    },
+    "urn:mace:incommon:carleton.edu": {
+        "en": "Carleton College"
+    },
+    "urn:mace:incommon:case.edu": {
+        "en": "Case Western Reserve University"
+    },
+    "urn:mace:incommon:clemson.edu": {
+        "en": "Clemson University"
+    },
+    "urn:mace:incommon:columbia.edu": {
+        "en": "Columbia University"
+    },
+    "urn:mace:incommon:csun.edu": {
+        "en": "California State University, Northridge"
+    },
+    "urn:mace:incommon:dartmouth.edu": {
+        "en": "Dartmouth College"
+    },
+    "urn:mace:incommon:duke.edu": {
+        "en": "Duke University"
+    },
+    "urn:mace:incommon:humboldt.edu": {
+        "en": "HSU Legacy"
+    },
+    "urn:mace:incommon:internet2.edu": {
+        "en": "Internet2"
+    },
+    "urn:mace:incommon:jmu.edu": {
+        "en": "James Madison University"
+    },
+    "urn:mace:incommon:johnshopkins.edu": {
+        "en": "Johns Hopkins"
+    },
+    "urn:mace:incommon:lafayette.edu": {
+        "en": "Lafayette College"
+    },
+    "urn:mace:incommon:lbl.gov": {
+        "en": "Lawrence Berkeley National Laboratory"
+    },
+    "urn:mace:incommon:mcnc.org": {
+        "en": "MCNC Employees"
+    },
+    "urn:mace:incommon:mit.edu": {
+        "en": "Massachusetts Institute of Technology"
+    },
+    "urn:mace:incommon:mlml.calstate.edu": {
+        "en": "Moss Landing Marine Laboratories"
+    },
+    "urn:mace:incommon:msu.edu": {
+        "en": "Michigan State University"
+    },
+    "urn:mace:incommon:muohio.edu": {
+        "en": "Miami University"
+    },
+    "urn:mace:incommon:nau.edu": {
+        "en": "Northern Arizona University"
+    },
+    "urn:mace:incommon:ncsu.edu": {
+        "en": "North Carolina State University"
+    },
+    "urn:mace:incommon:nih.gov": {
+        "en": "National Institutes of Health (NIH)"
+    },
+    "urn:mace:incommon:nmu.edu": {
+        "en": "Northern Michigan University"
+    },
+    "urn:mace:incommon:northwestern.edu": {
+        "en": "Northwestern University"
+    },
+    "urn:mace:incommon:nyu.edu": {
+        "en": "New York University"
+    },
+    "urn:mace:incommon:odu.edu": {
+        "en": "Old Dominion University"
+    },
+    "urn:mace:incommon:ohio.edu": {
+        "en": "Ohio University Main Campus"
+    },
+    "urn:mace:incommon:ohiolink.edu": {
+        "en": "OhioLink"
+    },
+    "urn:mace:incommon:osu.edu": {
+        "en": "Ohio State University"
+    },
+    "urn:mace:incommon:psu.edu": {
+        "en": "Penn State"
+    },
+    "urn:mace:incommon:ramapo.edu": {
+        "en": "Ramapo College of New Jersey"
+    },
+    "urn:mace:incommon:richmond.edu": {
+        "en": "University of Richmond"
+    },
+    "urn:mace:incommon:rutgers.edu": {
+        "en": "Rutgers, The State University of New Jersey"
+    },
+    "urn:mace:incommon:sc.edu": {
+        "en": "University of South Carolina"
+    },
+    "urn:mace:incommon:stanford.edu": {
+        "en": "Stanford University"
+    },
+    "urn:mace:incommon:starkstate.edu": {
+        "en": "Stark State College of Technology"
+    },
+    "urn:mace:incommon:stevens.edu": {
+        "en": "Stevens Institute of Technology"
+    },
+    "urn:mace:incommon:stonybrook.edu": {
+        "en": "Stony Brook University"
+    },
+    "urn:mace:incommon:tamu.edu": {
+        "en": "Texas A&M University"
+    },
+    "urn:mace:incommon:uab.edu": {
+        "en": "University of Alabama at Birmingham"
+    },
+    "urn:mace:incommon:ucdavis.edu": {
+        "en": "University of California, Davis"
+    },
+    "urn:mace:incommon:uchicago.edu": {
+        "en": "University of Chicago"
+    },
+    "urn:mace:incommon:uci.edu": {
+        "en": "University of California, Irvine"
+    },
+    "urn:mace:incommon:ucla.edu": {
+        "en": "University of California, Los Angeles"
+    },
+    "urn:mace:incommon:ucmerced.edu": {
+        "en": "University of California, Merced"
+    },
+    "urn:mace:incommon:ucop.edu": {
+        "en": "University of California, Office of the President"
+    },
+    "urn:mace:incommon:ucr.edu": {
+        "en": "University of California, Riverside"
+    },
+    "urn:mace:incommon:ucsb.edu": {
+        "en": "University of California, Santa Barbara"
+    },
+    "urn:mace:incommon:ucsc.edu": {
+        "en": "University of California, Santa Cruz"
+    },
+    "urn:mace:incommon:ucsd.edu": {
+        "en": "University of California, San Diego"
+    },
+    "urn:mace:incommon:ucsf.edu": {
+        "en": "University of California, San Francisco"
+    },
+    "urn:mace:incommon:udayton.edu": {
+        "en": "University of Dayton"
+    },
+    "urn:mace:incommon:uiowa.edu": {
+        "en": "University of Iowa"
+    },
+    "urn:mace:incommon:uiuc.edu": {
+        "en": "University of Illinois at Urbana-Champaign"
+    },
+    "urn:mace:incommon:umbc.edu": {
+        "en": "University of Maryland Baltimore County"
+    },
+    "urn:mace:incommon:umd.edu": {
+        "en": "University of Maryland College Park"
+    },
+    "urn:mace:incommon:umn.edu": {
+        "en": "University of Minnesota"
+    },
+    "urn:mace:incommon:unc.edu": {
+        "en": "University of North Carolina at Chapel Hill"
+    },
+    "urn:mace:incommon:usc.edu": {
+        "en": "University of Southern California"
+    },
+    "urn:mace:incommon:utah.edu": {
+        "en": "University of Utah"
+    },
+    "urn:mace:incommon:uww.edu": {
+        "en": "University of Wisconsin - Whitewater"
+    },
+    "urn:mace:incommon:virginia.edu": {
+        "en": "University of Virginia"
+    },
+    "urn:mace:incommon:vt.edu": {
+        "en": "Virginia Tech"
+    },
+    "urn:mace:incommon:washington.edu": {
+        "en": "University of Washington"
+    }
+}

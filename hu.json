@@ -1,0 +1,242 @@
+{
+    "https://aai.nytud.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Hungarian Research Centre for Linguistics",
+        "hu": "Nyelvtudományi Kutatóközpont"
+    },
+    "https://aai.uni-miskolc.hu/simplesamlphp/saml2/idp/metadata.php": {
+        "en": "University of Miskolc",
+        "hu": "Miskolci Egyetem"
+    },
+    "https://bismarck.nyme.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Sopron, Hungary",
+        "hu": "Soproni Egyetem"
+    },
+    "https://eduid.btk.mta.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Research Centre for the Humanities",
+        "hu": "Bölcsészettudományi Kutatóközpont"
+    },
+    "https://eduid.kodolanyi.hu/saml2/idp/metadata.php": {
+        "en": "Kodolányi János University",
+        "hu": "Kodolányi János Egyetem"
+    },
+    "https://eduid.renyi.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Alfréd Rényi Institute of Mathematics",
+        "hu": "Rényi Alfréd Matematikai Kutatóintézet"
+    },
+    "https://eduid.tk.mta.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Centre for Social Sciences",
+        "hu": "Társadalomtudományi Kutatóközpont"
+    },
+    "https://excalibur.ceu.edu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Central European University",
+        "hu": "Közép-európai Egyetem"
+    },
+    "https://hub.mta.hu/idp": {
+        "en": "MTA, Institutes of Hungarian Academy of Sciences",
+        "hu": "MTA, Magyar Tudományos Akadémiai Intézetei"
+    },
+    "https://idp-aub.etn.hu/saml2/idp/metadata.php": {
+        "en": "Andrássy University Budapest",
+        "hu": "Andrássy Gyula Budapesti Német Nyelvű Egyetem"
+    },
+    "https://idp-ehe.etn.hu/saml2/idp/metadata.php": {
+        "en": "Evangélikus Hittudományi Egyetem",
+        "hu": "Evangélikus Hittudományi Egyetem"
+    },
+    "https://idp-ptf.etn.hu/saml2/idp/metadata.php": {
+        "en": "Pentecostal Theological College",
+        "hu": "Pünkösdi Teológiai Főiskola"
+    },
+    "https://idp-srta.etn.hu/saml2/idp/metadata.php": {
+        "en": "Sárospataki Református Teológiai Akadémia",
+        "hu": "Sárospataki Református Teológiai Akadémia"
+    },
+    "https://idp.atk.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Centre for Agricultural Research",
+        "hu": "Agrártudományi Kutatóközpont"
+    },
+    "https://idp.avkf.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Apor Vilmos Catholic College",
+        "hu": "Apor Vilmos Katolikus Főiskola"
+    },
+    "https://idp.brc.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Biological Research Centre, Szeged",
+        "hu": "Szegedi Biológiai Kutatóközpont"
+    },
+    "https://idp.csfk.mta.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Research Centre for Astronomy and Earth Sciences",
+        "hu": "Csillagászati és Földtudományi Kutatóközpont"
+    },
+    "https://idp.drhe.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Debrecen Reformed Theological University",
+        "hu": "Debreceni Református Hittudományi Egyetem"
+    },
+    "https://idp.ecolres.hu/idp/shibboleth": {
+        "en": "Centre for Ecological Research",
+        "hu": "Ökológiai Kutatóközpont"
+    },
+    "https://idp.ek-cer.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Centre for Energy Research",
+        "hu": "Energiatudományi Kutatóközpont"
+    },
+    "https://idp.elte.hu/auth/saml2/idp/metadata.php": {
+        "en": "Eötvös Loránd University Budapest",
+        "hu": "Eötvös Loránd Tudományegyetem"
+    },
+    "https://idp.ibs-b.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "International Business School",
+        "hu": "IBS Nemzetközi Üzleti Főiskola"
+    },
+    "https://idp.konyvtar.mta.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Library and Information Centre of the Hungarian Academy of Sciences",
+        "hu": "Magyar Tudományos Akadémia Könyvtár és Információs Központ"
+    },
+    "https://idp.kre.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Károli Gáspár University of the Reformed Church in Hungary",
+        "hu": "Károli Gáspár Református Egyetem"
+    },
+    "https://idp.metropolitan.hu/simplesaml": {
+        "en": "Budapest Metropolitan University",
+        "hu": "Budapesti Metropolitan Egyetem"
+    },
+    "https://idp.mke.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Hungarian University of Fine Arts",
+        "hu": "Magyar Képzőművészeti Egyetem"
+    },
+    "https://idp.mome.hu/saml/saml2/idp/metadata.php": {
+        "en": "Moholy-Nagy University of Art and Design",
+        "hu": "Moholy-Nagy Művészeti Egyetem"
+    },
+    "https://idp.mta.hu/idp/saml2/idp/metadata.php": {
+        "en": "Hungarian Academy Database (AAT)",
+        "hu": "MTA Akadémiai Adattár (AAT)"
+    },
+    "https://idp.mte.eu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Magyar Táncművészeti Egyetem",
+        "hu": "Magyar Táncművészeti Egyetem"
+    },
+    "https://idp.niif.hu/shibboleth": {
+        "en": "KIFÜ",
+        "hu": "KIFÜ"
+    },
+    "https://idp.nje.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Neumann Janos Egyetem",
+        "hu": "Neumann János Egyetem"
+    },
+    "https://idp.ogyk.hu/saml2/idp/metadata.php": {
+        "en": "Library of the Hungarian Parliament",
+        "hu": "Országgyűlési Könyvtár"
+    },
+    "https://idp.oik.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "National Library of Foreign Literature",
+        "hu": "Országos Idegennyelvű Könyvtár"
+    },
+    "https://idp.olvaso.konyvtar.mta.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Library and Information Centre of MTA borrowers",
+        "hu": "MTA Könyvtár és Információs Központ olvasók"
+    },
+    "https://idp.oszk.hu/saml/saml2/idp/metadata.php": {
+        "en": "National Széchényi Library",
+        "hu": "Országos Széchényi Könyvtár"
+    },
+    "https://idp.ppke.hu/idp/shibboleth": {
+        "en": "PPKE - Pázmány Péter Catholic University",
+        "hu": "PPKE - Pázmány Péter Katolikus Egyetem"
+    },
+    "https://idp.pte.hu/saml2/idp/metadata.php": {
+        "en": "University of Pécs",
+        "hu": "Pécsi Tudományegyetem"
+    },
+    "https://idp.sapientia.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Sapientia College of Theology of Religious Orders",
+        "hu": "Sapientia Szerzetesi Hittudományi Főiskola"
+    },
+    "https://idp.sze.hu/idp/shibboleth": {
+        "en": "Széchenyi István University",
+        "hu": "Széchenyi István Egyetem"
+    },
+    "https://idp.szfe.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Theatre and Film Arts Budapest",
+        "hu": "Színház- és Filmművészeti Egyetem"
+    },
+    "https://idp.szie.hu/idp/shibboleth": {
+        "en": "Szent István University",
+        "hu": "Szent István Egyetem"
+    },
+    "https://idp.tkbf.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Dharma Gate Buddhist College",
+        "hu": "Tan Kapuja Buddhista Főiskola"
+    },
+    "https://idp.ttk.mta.hu/idp/shibboleth": {
+        "en": "Research Centre for  Natural Sciences",
+        "hu": "Természettudományi Kutatóközpont"
+    },
+    "https://idp.u-szeged.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Szeged",
+        "hu": "Szegedi Tudományegyetem"
+    },
+    "https://idp.uni-eszterhazy.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Eszterházy Károly Catholic University",
+        "hu": "Eszterházy Károly Katolikus Egyetem"
+    },
+    "https://idp.uni-nke.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Public Service",
+        "hu": "Nemzeti Közszolgálati Egyetem"
+    },
+    "https://idp.uni-obuda.hu/saml2/saml2/idp/metadata.php": {
+        "en": "Óbuda University",
+        "hu": "Óbudai Egyetem"
+    },
+    "https://idp.uni-pannon.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Pannonia",
+        "hu": "Pannon Egyetem"
+    },
+    "https://idp.unideb.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Debrecen",
+        "hu": "Debreceni Egyetem"
+    },
+    "https://idp.univet.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Veterinary Medicine Budapest",
+        "hu": "Állatorvostudományi Egyetem"
+    },
+    "https://idp2.duf.hu/idp/shibboleth": {
+        "en": "University of Dunaújváros",
+        "hu": "Dunaújvárosi Egyetem"
+    },
+    "https://l-aai.sztaki.hu/idp": {
+        "en": "SZTAKI staff",
+        "hu": "SZTAKI Munkatársak"
+    },
+    "https://login.bme.hu/idp/shibboleth": {
+        "en": "Budapest University of Technology and Economics",
+        "hu": "Budapesti Műszaki és Gazdaságtudományi Egyetem"
+    },
+    "https://papi.kfki.hu/idp/shibboleth": {
+        "en": "Wigner Research Centre for Physics",
+        "hu": "Wigner Fizikai Kutatóközpont"
+    },
+    "https://seka.semmelweis-univ.hu/idp/shibboleth": {
+        "en": "Semmelweis University Central Authentication",
+        "hu": "Semmelweis Egyetem Központi Azonosítás (SeKA)"
+    },
+    "https://srv-eduid01.ke.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Kaposvár University",
+        "hu": "Kaposvári Egyetem"
+    },
+    "https://sso.elkh.org/idp": {
+        "en": "ELKH Eötvös Loránd Research Network",
+        "hu": "ELKH Eötvös Loránd Kutatási Hálózat"
+    },
+    "https://sso.szpa.hu/sso/saml2/idp/metadata.php": {
+        "en": "Szent Pál Akadémia",
+        "hu": "Szent Pál Akadémia"
+    },
+    "https://sso.uni-corvinus.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Corvinus University of Budapest",
+        "hu": "Budapesti Corvinus Egyetem"
+    },
+    "https://vho.eduid.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "eduID.hu Virtual Home (VHO)",
+        "hu": "eduID.hu Virtual Home (VHO)"
+    }
+}

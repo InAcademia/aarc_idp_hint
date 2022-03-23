@@ -1,0 +1,83 @@
+{
+    "https://aaf.unsw.edu.au/idp/shibboleth": {
+        "en": "The University of New South Wales (UNSW)"
+    },
+    "https://aaf1-idp.its.utas.edu.au/idp/shibboleth": {
+        "en": "University of Tasmania"
+    },
+    "https://federation.sydney.edu.au/idp/shibboleth": {
+        "en": "The University of Sydney"
+    },
+    "https://idp.actorscentreaustralia.com.au/idp/shibboleth": {
+        "en": "Actors Centre Australia"
+    },
+    "https://idp.caudit.edu.au/idp/shibboleth": {
+        "en": "CAUDIT"
+    },
+    "https://idp.cc.swin.edu.au/idp/shibboleth": {
+        "en": "Swinburne University of Technology"
+    },
+    "https://idp.flinders.edu.au/idp/shibboleth": {
+        "en": "Flinders University"
+    },
+    "https://idp.monash.edu.au/idp/shibboleth": {
+        "en": "Monash University"
+    },
+    "https://idp.murdoch.edu.au/idp/shibboleth": {
+        "en": "Murdoch University"
+    },
+    "https://idp.newcastle.edu.au/idp/shibboleth": {
+        "en": "University of Newcastle"
+    },
+    "https://idp.qut.edu.au/idp/shibboleth": {
+        "en": "Queensland University of Technology"
+    },
+    "https://idp.une.edu.au/idp/shibboleth": {
+        "en": "University of New England"
+    },
+    "https://idp.unimelb.edu.au/idp/shibboleth": {
+        "en": "The University of Melbourne"
+    },
+    "https://idp.uow.edu.au/idp/shibboleth": {
+        "en": "The University of Wollongong"
+    },
+    "https://idp.uwa.edu.au/idp/shibboleth": {
+        "en": "The University of Western Australia"
+    },
+    "https://idp.wehi.edu.au/idp/shibboleth": {
+        "en": "The Walter and Eliza Hall Institute of Medical Research"
+    },
+    "https://idp1.griffith.edu.au/idp/shibboleth": {
+        "en": "Griffith University"
+    },
+    "https://idp2.anu.edu.au/idp/shibboleth": {
+        "en": "Australian National University"
+    },
+    "https://idpp1.curtin.edu.au/idp/shibboleth": {
+        "en": "Curtin University"
+    },
+    "https://idpweb1.vu.edu.au/idp/shibboleth": {
+        "en": "Victoria University"
+    },
+    "https://shibboleth.aarnet.edu.au/idp/shibboleth": {
+        "en": "AARNet"
+    },
+    "https://signon.deakin.edu.au/idp/shibboleth": {
+        "en": "Deakin University"
+    },
+    "https://unisa.edu.au/idp/shibboleth": {
+        "en": "University of South Australia"
+    },
+    "https://vho.aaf.edu.au/idp/shibboleth": {
+        "en": "AAF Virtual Home"
+    },
+    "urn:mace:federation.org.au:testfed:au-idp.adelaide.edu.au": {
+        "en": "University of Adelaide"
+    },
+    "urn:mace:federation.org.au:testfed:mq.edu.au": {
+        "en": "Macquarie University"
+    },
+    "urn:mace:federation.org.au:testfed:uq.edu.au": {
+        "en": "The University of Queensland"
+    }
+}

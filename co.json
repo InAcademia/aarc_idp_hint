@@ -1,0 +1,10 @@
+{
+    "https://idp.utp.edu.co/idp/shibboleth": {
+        "en": "UNIVERSIDAD TECNOLOGICA DE PEREIRA",
+        "es": "UNIVERSIDAD TECNOLOGICA DE PEREIRA"
+    },
+    "https://idp2.renata.edu.co/idp/shibboleth": {
+        "en": "RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA",
+        "es": "RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA"
+    }
+}

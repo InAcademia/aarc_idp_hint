@@ -1,0 +1,12 @@
+{
+    "https://febas.basnet.by/idp/shibboleth": {
+        "en": "UIIP NASB / BASNET"
+    },
+    "https://idp.bsu.by/sso/saml2/idp/metadata.php": {
+        "en": "Belarusian State University",
+        "ru": "Belarusian State University"
+    },
+    "https://idp.kolas.basnet.by/idp/saml2/idp/metadata.php": {
+        "en": "CSL NAS Belarus"
+    }
+}

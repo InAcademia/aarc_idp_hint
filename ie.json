@@ -1,0 +1,143 @@
+{
+    "http://adfs.edenireland.ie/adfs/services/trust": {
+        "en": "Environmental Protection Agency"
+    },
+    "https://edugate.itb.ie/idp/shibboleth": {
+        "en": "TU Dublin - Blanchardstown Campus",
+        "ga": "OT Baile Átha Cliath -  Campas Baile Bhlainséir"
+    },
+    "https://hidp.ucc.ie/idp/shibboleth": {
+        "en": "University College Cork",
+        "ga": "Coláiste na hOllscoile Corcaigh"
+    },
+    "https://idp.ait.ie/idp/shibboleth": {
+        "en": "Technological University of the Shannon: Midlands"
+    },
+    "https://idp.cit.ie/idp": {
+        "en": "Cork Institute of Technology",
+        "ga": "Institiúid Teicneolaíochta Chorcaí"
+    },
+    "https://idp.dias.ie/idp/shibboleth": {
+        "en": "Dublin Institute for Advanced Studies"
+    },
+    "https://idp.dit.ie/idp/shibboleth": {
+        "en": "TU Dublin - City Campus",
+        "ga": "OT Baile Átha Cliath"
+    },
+    "https://idp.dkit.ie/idp/shibboleth": {
+        "en": "Dundalk Institute of Technology",
+        "ga": "Institiúid Teicneolaíochta Dhún Dealgan"
+    },
+    "https://idp.erc.ie/idp/shibboleth": {
+        "en": "Educational Research Centre"
+    },
+    "https://idp.gcd.ie/idp/shibboleth": {
+        "en": "Griffith College"
+    },
+    "https://idp.gmit.ie/idp/shibboleth": {
+        "en": "Galway-Mayo Institute of Technology",
+        "ga": "Institúid Teicneolaíochta na Gaillimhe-Maigh Eo"
+    },
+    "https://idp.hea.ie/idp/shibboleth": {
+        "en": "Higher Education Authority"
+    },
+    "https://idp.heanet.ie/idp/shibboleth": {
+        "en": "HEAnet Staff"
+    },
+    "https://idp.hrb.ie/idp/shibboleth": {
+        "en": "Health Research Board"
+    },
+    "https://idp.iadt.ie/idp/shibboleth": {
+        "en": "Dun Laoghaire Institute of Art Design and Technology"
+    },
+    "https://idp.imi.ie/saml2/idp/metadata.php": {
+        "en": "Irish Management Institute"
+    },
+    "https://idp.ipa.ie/idp/shibboleth": {
+        "en": "Institute of Public Administration",
+        "ga": "An Foras Riarachaín"
+    },
+    "https://idp.itcarlow.ie/idp/shibboleth": {
+        "en": "Institute of Technology Carlow"
+    },
+    "https://idp.itsligo.ie/idp/shibboleth": {
+        "en": "Institute of Technology Sligo",
+        "ga": "An Institiúid Teicneolaíochta, Sligeach"
+    },
+    "https://idp.ittralee.ie/idp": {
+        "en": "Institute of Technology Tralee",
+        "ga": "Institiúid Teicneolaíochta, Trá Lí"
+    },
+    "https://idp.lit.ie/saml2": {
+        "en": "Technological University of the Shannon: Midwest"
+    },
+    "https://idp.lyit.ie/idp/shibboleth": {
+        "en": "Letterkenny Institute of Technology",
+        "ga": "Institiúid Teicneolaíochta Leitir Ceanainn"
+    },
+    "https://idp.marine.ie/idp/shibboleth": {
+        "en": "Marine Institute"
+    },
+    "https://idp.mic.ul.ie/idp/shibboleth": {
+        "en": "Mary Immaculate College",
+        "ga": "Coláiste Mhuire gan Smál"
+    },
+    "https://idp.mie.ie/idp/shibboleth": {
+        "en": "Marino Institute of Education"
+    },
+    "https://idp.ncad.ie/idp/shibboleth": {
+        "en": "National College of Art and Design"
+    },
+    "https://idp.ncirl.ie/idp/shibboleth": {
+        "en": "National College of Ireland"
+    },
+    "https://idp.ncri.ie/idp/shibboleth": {
+        "en": "The National Cancer Registry Ireland"
+    },
+    "https://idp.nuigalway.ie/shibboleth": {
+        "en": "National University of Ireland, Galway",
+        "ga": "OÉ Gaillimh"
+    },
+    "https://idp.nuim.ie/idp/shibboleth": {
+        "en": "Maynooth University"
+    },
+    "https://idp.rcpi.ie/idp/shibboleth": {
+        "en": "Royal College of Physicians of Ireland"
+    },
+    "https://idp.rcsi.ie/idp/shibboleth": {
+        "en": "Royal College of Surgeons in Ireland"
+    },
+    "https://idp.ria.ie/idp/shibboleth": {
+        "en": "Royal Irish Academy"
+    },
+    "https://idp.riam.ie/idp/shibboleth": {
+        "en": "Royal Irish Academy of Music"
+    },
+    "https://idp.tcd.ie/idp/shibboleth": {
+        "en": "Trinity College Dublin"
+    },
+    "https://idp.tudublin.ie/idp/shibboleth": {
+        "en": "TU Dublin (TU Dublin login)"
+    },
+    "https://idp.ul.ie/idp/shibboleth": {
+        "en": "University of Limerick",
+        "ga": "Ollscoil Luimnigh"
+    },
+    "https://idp.wit.ie/idp/shibboleth": {
+        "en": "Waterford Institute of Technology",
+        "ga": "Institiúid Teicneolaíochta Port Láirge"
+    },
+    "https://idp2.dcu.ie/idp/profile/Metadata/SAML": {
+        "en": "Dublin City University"
+    },
+    "https://sso.ichec.ie/idp/shibboleth": {
+        "en": "Irish Centre for High-End Computing - Staff"
+    },
+    "https://sso.ucd.ie/idp/shibboleth": {
+        "en": "University College Dublin",
+        "ga": "An Coláiste Ollscoile, Baile Átha Cliath"
+    },
+    "https://webauth.dbs.ie/idp/shibboleth": {
+        "en": "Dublin Business School"
+    }
+}

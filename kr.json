@@ -1,0 +1,65 @@
+{
+    "https://auth.ibs.re.kr/idp/simplesamlphp": {
+        "en": "Institute for Basic Science"
+    },
+    "https://coreen-idp.kreonet.net/idp/simplesamlphp": {
+        "en": "COREEN set.ID by KAFE"
+    },
+    "https://iam.kiom.re.kr/idp/simplesamlphp": {
+        "en": "Korea Institute of Oriental Medicine"
+    },
+    "https://iam.kiost.ac.kr/idp/simplesamlphp": {
+        "en": "Korea Institute of Ocean Science and Technology"
+    },
+    "https://iam.kisti.re.kr/idp/simplesamlphp": {
+        "en": "Korea Institute of Science and Technology Information"
+    },
+    "https://iam.kmu.ac.kr/idp/simplesamlphp": {
+        "en": "Keimyung University"
+    },
+    "https://iam.knou.ac.kr/idp/simplesamlphp": {
+        "en": "Korea National Open University"
+    },
+    "https://iam.kribb.re.kr/idp/simplesamlphp": {
+        "en": "Korea Research Institute of Bioscience and Biotechnology"
+    },
+    "https://iam.kriso.re.kr/idp/simplesamlphp": {
+        "en": "Korea Research Institute of Ships and Ocean Engineering"
+    },
+    "https://iam.nnfc.re.kr/idp/simplesamlphp": {
+        "en": "National NanoFab Center"
+    },
+    "https://iam.stepi.re.kr/idp/simplesamlphp": {
+        "en": "Science and Technology Policy Institute"
+    },
+    "https://idp.kigam.re.kr/idp/simplesamlphp": {
+        "en": "Korea Institute of Geoscience and Mineral resources"
+    },
+    "https://idpass.postech.ac.kr/idp/simplesamlphp": {
+        "en": "Pohang University of Science and Technology"
+    },
+    "https://ids.dgist.ac.kr/idp/simplesamlphp": {
+        "en": "Daegu Gyeongbuk Institute of Science and Technology"
+    },
+    "https://ids.gist.ac.kr/idp/simplesamlphp": {
+        "en": "Gwangju Institute of Science and Technology"
+    },
+    "https://kafe.kaist.ac.kr/idp/simplesamlphp": {
+        "en": "Korea Advanced Institute of Science and Technology"
+    },
+    "https://kafe.kasi.re.kr/idp/simplesamlphp": {
+        "en": "Korea Astronomy and Space Science Institute"
+    },
+    "https://kafe.krict.re.kr/idp/simplesamlphp": {
+        "en": "Korea Research Institute of Chemical Technology"
+    },
+    "https://kafe.unist.ac.kr/idp/simplesamlphp": {
+        "en": "Ulsan National Institute of Science and Technology"
+    },
+    "https://kafegw.snu.ac.kr/idp/simplesamlphp": {
+        "en": "Seoul National University"
+    },
+    "https://share-sso.korea.ac.kr/sso": {
+        "en": "Korea University"
+    }
+}
