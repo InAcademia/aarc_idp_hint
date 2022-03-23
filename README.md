@@ -2,7 +2,7 @@
 This repository contains a list of institutions that support InAcademia and allows a servcie to hint to InAcademia where to try validation of the users affiliation
 
 # About IdP_hinting 
-IdP_hinting is an extension to the InAcademia service that intends to assist merchants who are keen to optimise the number of clicks a student needs to make in validating academic affiliation at the point of sale or registration. By making a list of uniquely referenced IdPs available on a country-by-country basis, it is possible for the merchant to target specific institutions or subsets of institutions with specific campaigns.
+IdP_hinting is an extension to the InAcademia service that intends to assist merchants who are keen to optimise the number of clicks a user needs to make in validating academic affiliation at the point of sale or registration. By making a list of uniquely referenced IdPs available on a country-by-country basis, it is possible for the merchant to target specific institutions or subsets of institutions with specific campaigns.
 
 The IdP Hinting feature is based on a list of supported academic institutions as announced to eduGAIN. When IdP hinting is used as designed by the merchant, it will allow Academia to directly route a user to the selected institution's login page, without the need for the user to select its preferred institution from an academic discovery service.
 
