@@ -411,6 +411,10 @@
         "en": "Maltepe University",
         "tr": "T.C. Maltepe Üniversitesi"
     },
+    "https://yetkim.marmara.edu.tr/idp/shibboleth": {
+        "en": "Marmara University",
+        "tr": "Marmara Üniversitesi"
+    },
     "https://yetkim.mku.edu.tr/idp/shibboleth": {
         "en": "Hatay Mustafa Kemal University",
         "tr": "Hatay Mustafa Kemal Üniversitesi"
@@ -438,6 +442,10 @@
     "https://yetkim.sinop.edu.tr/idp/shibboleth": {
         "en": "Sinop University",
         "tr": "Sinop Üniversitesi"
+    },
+    "https://yetkim.yildiz.edu.tr/idp/shibboleth": {
+        "en": "Yildiz Technical University",
+        "tr": "Yıldız Teknik Üniversitesi"
     },
     "https://yetkimidp.ku.edu.tr/idp/shibboleth": {
         "en": "Koc University",

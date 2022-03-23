@@ -507,6 +507,10 @@
         }
     },
     "bg": {
+        "https://edugain.mu-pleven.bg/idp/shibboleth": {
+            "bg": "Медицински университет Плевен",
+            "en": "Medical University Pleven"
+        },
         "https://idp.bfu.bg/idp/saml2/idp/metadata.php": {
             "bg": "Бургаски свободен университет",
             "en": "Burgas Free University"
@@ -1160,7 +1164,7 @@
             "en": "ENAP - Escola Nacional de Administracao Publica",
             "pt-br": "ENAP - Escola Nacional de Administracao Publica"
         },
-        "https://sede-vz-idp.ebserh.gov.br/idp/shibboleth": {
+        "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
             "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
             "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
         },
@@ -2826,6 +2830,10 @@
         "https://idp.hnuahe.edu.cn/idp/shibboleth": {
             "en": "Henan University of Animal Husbandry and Economy",
             "zh": "河南牧业经济学院(Henan University of Animal Husbandry and Economy)"
+        },
+        "https://idp.hnuu.edu.cn/idp/shibboleth": {
+            "en": "Huainan Union University",
+            "zh": "淮南联合大学(Huainan Union University)"
         },
         "https://idp.hpu.edu.cn/idp/shibboleth": {
             "en": "Henan Polytechnic University",
@@ -13763,6 +13771,10 @@
             "en": "Maltepe University",
             "tr": "T.C. Maltepe Üniversitesi"
         },
+        "https://yetkim.marmara.edu.tr/idp/shibboleth": {
+            "en": "Marmara University",
+            "tr": "Marmara Üniversitesi"
+        },
         "https://yetkim.mku.edu.tr/idp/shibboleth": {
             "en": "Hatay Mustafa Kemal University",
             "tr": "Hatay Mustafa Kemal Üniversitesi"
@@ -13790,6 +13802,10 @@
         "https://yetkim.sinop.edu.tr/idp/shibboleth": {
             "en": "Sinop University",
             "tr": "Sinop Üniversitesi"
+        },
+        "https://yetkim.yildiz.edu.tr/idp/shibboleth": {
+            "en": "Yildiz Technical University",
+            "tr": "Yıldız Teknik Üniversitesi"
         },
         "https://yetkimidp.ku.edu.tr/idp/shibboleth": {
             "en": "Koc University",
