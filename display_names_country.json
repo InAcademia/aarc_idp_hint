@@ -9572,6 +9572,9 @@
         "https://idp.avinuty.ac.in/idp/shibboleth": {
             "en": "Avinashilingam University, Tamil Nadu"
         },
+        "https://idp.b-u.ac.in/idp/shibboleth": {
+            "en": "Bharathiar University"
+        },
         "https://idp.bdu.ac.in/idp/shibboleth": {
             "en": "Bharathidasan University"
         },
@@ -12208,9 +12211,6 @@
         "https://idp.neduet.edu.pk/idp/shibboleth": {
             "en": "NED University of Engineering and Technology Pakistan"
         },
-        "https://idp.pern.edu.pk/idp/shibboleth": {
-            "en": "Pakistan Education & Research Network"
-        },
         "https://idp.uos.edu.pk/idp/shibboleth": {
             "en": "University of Sargodha Pakistan"
         },
@@ -13602,6 +13602,10 @@
         "https://kimlik.ege.edu.tr/egesso/saml2/idp/metadata.php": {
             "en": "Ege University",
             "tr": "Ege Üniversitesi"
+        },
+        "https://kimlik.erdogan.edu.tr/idp/shibboleth": {
+            "en": "Recep Tayyip Erdogan University",
+            "tr": "Recep Tayyip Erdoğan Üniversitesi"
         },
         "https://kimlik.fsm.edu.tr/idp/shibboleth": {
             "en": "Fatih Sultan Mehmet Vakif University",

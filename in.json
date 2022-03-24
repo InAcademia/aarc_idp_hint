@@ -47,6 +47,9 @@
     "https://idp.avinuty.ac.in/idp/shibboleth": {
         "en": "Avinashilingam University, Tamil Nadu"
     },
+    "https://idp.b-u.ac.in/idp/shibboleth": {
+        "en": "Bharathiar University"
+    },
     "https://idp.bdu.ac.in/idp/shibboleth": {
         "en": "Bharathidasan University"
     },

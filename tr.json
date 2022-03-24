@@ -239,6 +239,10 @@
         "en": "Ege University",
         "tr": "Ege Üniversitesi"
     },
+    "https://kimlik.erdogan.edu.tr/idp/shibboleth": {
+        "en": "Recep Tayyip Erdogan University",
+        "tr": "Recep Tayyip Erdoğan Üniversitesi"
+    },
     "https://kimlik.fsm.edu.tr/idp/shibboleth": {
         "en": "Fatih Sultan Mehmet Vakif University",
         "tr": "Fatih Sultan Mehmet Vakıf Üniversitesi"
