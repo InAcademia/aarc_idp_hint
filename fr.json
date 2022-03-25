@@ -84,8 +84,8 @@
         "fr": "Sorbonne Université"
     },
     "https://auth.u-paris.fr/idp/shibboleth": {
-        "en": "Université de Paris",
-        "fr": "Université de Paris"
+        "en": "Université Paris Cité",
+        "fr": "Université Paris Cité"
     },
     "https://auth.u-pec.fr/idp/shibboleth": {
         "en": "University Paris-Est créteil",

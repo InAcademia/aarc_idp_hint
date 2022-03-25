@@ -612,10 +612,6 @@
             "en": "FUNESA - Fundacao Estadual de Saude",
             "pt-br": "FUNESA - Fundacao Estadual de Saude"
         },
-        "https://cafe.furg.br/idp/shibboleth": {
-            "en": "FURG - Universidade Federal do Rio Grande",
-            "pt-br": "FURG - Universidade Federal do Rio Grande"
-        },
         "https://cafe.idp.edu.br/idp/shibboleth": {
             "en": "IDP - Instituto Brasiliense de Direito Publico",
             "pt-br": "IDP - Instituto Brasiliense de Direito Publico"
@@ -791,6 +787,10 @@
         "https://cafe4.ufes.br/idp/shibboleth": {
             "en": "UFES - Universidade Federal do Espirito Santo",
             "pt-br": "UFES - Universidade Federal do Espirito Santo"
+        },
+        "https://cafedev.furg.br/idp/shibboleth": {
+            "en": "FURG - Universidade Federal do Rio Grande",
+            "pt-br": "FURG - Universidade Federal do Rio Grande"
         },
         "https://cafeidp.ucs.br/idp/shibboleth": {
             "en": "UCS - Universidade de Caxias do Sul",
@@ -1136,6 +1136,10 @@
             "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
             "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
         },
+        "https://onca.museu-goeldi.br/idp/shibboleth": {
+            "en": "MPEG - Museu Paraense Emilio Goeldi",
+            "pt-br": "MPEG - Museu Paraense Emilio Goeldi"
+        },
         "https://palheiro.univasf.edu.br/idp/shibboleth": {
             "en": "UNIVASF - Universidade Federal do Vale do Sao Francisco",
             "pt-br": "UNIVASF - Universidade Federal do Vale do Sao Francisco"
@@ -1175,6 +1179,10 @@
         "https://shib.esap.go.gov.br/idp/shibboleth": {
             "en": "SES-GO - Secretaria de Estado de Saude de Goias",
             "pt-br": "SES-GO - Secretaria de Estado de Saude de Goias"
+        },
+        "https://shibboleth-s1.ufersa.edu.br/idp/shibboleth": {
+            "en": "UFERSA - Universidade Federal Rural Do Semi-Arido",
+            "pt-br": "UFERSA - Universidade Federal Rural Do Semi-Arido"
         },
         "https://shibboleth.ansp.br/idp/shibboleth": {
             "en": "ANSP - an Academic Network at Sao Paulo",
@@ -1259,10 +1267,6 @@
         "https://shibboleth.ufac.br/idp/shibboleth": {
             "en": "UFAC - Universidade Federal do Acre",
             "pt-br": "UFAC - Universidade Federal do Acre"
-        },
-        "https://shibboleth.ufersa.edu.br/idp/shibboleth": {
-            "en": "UFERSA - Universidade Federal Rural do Semi-Arido",
-            "pt-br": "UFERSA - Universidade Federal Rural do Semi-Arido"
         },
         "https://shibboleth.ufg.br/idp/shibboleth": {
             "en": "UFG - Universidade Federal de Goias",
@@ -7630,8 +7634,8 @@
             "fr": "Sorbonne Université"
         },
         "https://auth.u-paris.fr/idp/shibboleth": {
-            "en": "Université de Paris",
-            "fr": "Université de Paris"
+            "en": "Université Paris Cité",
+            "fr": "Université Paris Cité"
         },
         "https://auth.u-pec.fr/idp/shibboleth": {
             "en": "University Paris-Est créteil",
@@ -15175,6 +15179,9 @@
         },
         "https://iss-openathensla-runtime.swan.ac.uk/oala/metadata": {
             "en": "Swansea University"
+        },
+        "https://iwcollege.ac.uk/idp": {
+            "en": "The Isle of Wight College"
         },
         "https://jcc.ac.uk/idp": {
             "en": "Joseph Chamberlain Sixth Form College"
