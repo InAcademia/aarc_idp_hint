@@ -587,6 +587,10 @@
         "cs": "Městská knihovna Most",
         "en": "Municipal Library in Most"
     },
+    "https://knihovnaneratovice.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Neratovice",
+        "en": "Municipal Library Neratovice"
+    },
     "https://knihovnaprerov.cz/idp/shibboleth": {
         "cs": "Městská knihovna v Přerově",
         "en": "Municipal Library Přerov"
@@ -658,6 +662,10 @@
     "https://remote.palestra.cz/idp/shibboleth": {
         "cs": "Vysoká škola tělesné výchovy a sportu PALESTRA, spol. s r. o.",
         "en": "VSTVS PALESTRA, s.r.o."
+    },
+    "https://rokyknih.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Rokycany",
+        "en": "Municipal Library Rokycany"
     },
     "https://sb.nem-tr.cz/idp/shibboleth": {
         "cs": "Nemocnice Třebíč, p.o.",
