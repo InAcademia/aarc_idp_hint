@@ -4913,6 +4913,10 @@
             "de": "Medizinische Hochschule Brandenburg",
             "en": "Brandenburg Medical School"
         },
+        "https://idp-mosbach.dhbw.de/idp/shibboleth": {
+            "de": "DHBW Mosbach",
+            "en": "DHBW Mosbach"
+        },
         "https://idp-serv.uni-magdeburg.de/idp/shibboleth": {
             "de": "Otto-von-Guericke-Universität Magdeburg (OVGU)",
             "en": "Otto-von-Guericke-University Magdeburg (OVGU)"
