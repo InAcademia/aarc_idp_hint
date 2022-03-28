@@ -51,6 +51,10 @@
         "en": "National Institute for Astrophysics - INAF",
         "it": "Istituto Nazionale di Astrofisica - INAF"
     },
+    "https://idem.eui.eu/idp/shibboleth": {
+        "en": "European University Institute",
+        "it": "Istituto Universitario Europeo"
+    },
     "https://idem.iss.it/idp/shibboleth": {
         "en": "ISS - National Health Institute",
         "it": "ISS - Istituto Superiore di Sanità"

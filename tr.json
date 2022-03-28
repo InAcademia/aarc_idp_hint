@@ -99,6 +99,10 @@
         "en": "Kahramanmaras Sutcu Imam University",
         "tr": "Kahramanmaraş Sütçü İmam Üniversitesi"
     },
+    "https://idp.lokmanhekim.edu.tr/idp/shibboleth": {
+        "en": "Lokman Hekim University",
+        "tr": "Lokman Hekim Üniversitesi"
+    },
     "https://idp.medipol.edu.tr/idp/shibboleth": {
         "en": "Istanbul Medipol University",
         "tr": "İstanbul Medipol Üniversitesi"
@@ -410,6 +414,10 @@
     "https://yetkim.kastamonu.edu.tr/idp/shibboleth": {
         "en": "Kastamonu University",
         "tr": "Kastamonu Üniversitesi"
+    },
+    "https://yetkim.klu.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Kirklareli University",
+        "tr": "Kırklareli Üversitesi"
     },
     "https://yetkim.maltepe.edu.tr/idp/shibboleth": {
         "en": "Maltepe University",

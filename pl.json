@@ -71,6 +71,10 @@
         "en": "Medical University of Silesia",
         "pl": "Śląski Uniwersytet Medyczny w Katowicach"
     },
+    "https://juno-to-jupiter.wsisiz.edu.pl/idp/shibboleth": {
+        "en": "Warsaw School of Information Technology (WIT)",
+        "pl": "Wyższa Szkoła Informatyki Stosowanej i Zarządzania (WIT)"
+    },
     "https://login.aai.pionier.net.pl/IdP/saml2/idp/metadata.php": {
         "en": "PIONIER Consortium"
     },

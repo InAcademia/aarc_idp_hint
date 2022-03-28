@@ -1124,10 +1124,6 @@
             "en": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao",
             "pt-br": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao"
         },
-        "https://login.ufrgs.br/idp/shibboleth": {
-            "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
-            "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
-        },
         "https://lrjidp02.cprm.gov.br/idp/shibboleth": {
             "en": "CPRM - Companhia de Pesquisa de Recursos Minerais",
             "pt-br": "CPRM - Companhia de Pesquisa de Recursos Minerais"
@@ -8625,6 +8621,10 @@
             "en": "Institut Optique Graduate School",
             "fr": "Institut Optique Graduate School"
         },
+        "https://sts.windows.net/517085ff-c1f1-4b90-8a7f-ed8816109cfe/": {
+            "en": "Grenoble Ecole de Management ( GEM )",
+            "fr": "Grenoble Ecole de Management ( GEM )"
+        },
         "https://sts.windows.net/538dc00c-d9ba-4814-ab23-584b8a2baac7/": {
             "en": "Burgundy School Of Business",
             "fr": "Burgundy School Of Business"
@@ -10036,6 +10036,10 @@
             "en": "National Institute for Astrophysics - INAF",
             "it": "Istituto Nazionale di Astrofisica - INAF"
         },
+        "https://idem.eui.eu/idp/shibboleth": {
+            "en": "European University Institute",
+            "it": "Istituto Universitario Europeo"
+        },
         "https://idem.iss.it/idp/shibboleth": {
             "en": "ISS - National Health Institute",
             "it": "ISS - Istituto Superiore di Sanità"
@@ -11393,10 +11397,6 @@
             "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)",
             "nl": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)"
         },
-        "http://adfs.kpz.nl/adfs/services/trust": {
-            "en": "Hogeschool KPZ (Old)",
-            "nl": "Hogeschool KPZ (Oud)"
-        },
         "http://adfs.mboamersfoort.nl/adfs/services/trust": {
             "en": "MBO Amersfoort",
             "nl": "MBO Amersfoort"
@@ -12302,6 +12302,10 @@
         "https://idpe.sum.edu.pl/idp/shibboleth": {
             "en": "Medical University of Silesia",
             "pl": "Śląski Uniwersytet Medyczny w Katowicach"
+        },
+        "https://juno-to-jupiter.wsisiz.edu.pl/idp/shibboleth": {
+            "en": "Warsaw School of Information Technology (WIT)",
+            "pl": "Wyższa Szkoła Informatyki Stosowanej i Zarządzania (WIT)"
         },
         "https://login.aai.pionier.net.pl/IdP/saml2/idp/metadata.php": {
             "en": "PIONIER Consortium"
@@ -13475,6 +13479,10 @@
             "en": "Kahramanmaras Sutcu Imam University",
             "tr": "Kahramanmaraş Sütçü İmam Üniversitesi"
         },
+        "https://idp.lokmanhekim.edu.tr/idp/shibboleth": {
+            "en": "Lokman Hekim University",
+            "tr": "Lokman Hekim Üniversitesi"
+        },
         "https://idp.medipol.edu.tr/idp/shibboleth": {
             "en": "Istanbul Medipol University",
             "tr": "İstanbul Medipol Üniversitesi"
@@ -13786,6 +13794,10 @@
         "https://yetkim.kastamonu.edu.tr/idp/shibboleth": {
             "en": "Kastamonu University",
             "tr": "Kastamonu Üniversitesi"
+        },
+        "https://yetkim.klu.edu.tr/simplesaml/saml2/idp/metadata.php": {
+            "en": "Kirklareli University",
+            "tr": "Kırklareli Üversitesi"
         },
         "https://yetkim.maltepe.edu.tr/idp/shibboleth": {
             "en": "Maltepe University",

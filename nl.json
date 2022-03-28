@@ -79,10 +79,6 @@
         "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)",
         "nl": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)"
     },
-    "http://adfs.kpz.nl/adfs/services/trust": {
-        "en": "Hogeschool KPZ (Old)",
-        "nl": "Hogeschool KPZ (Oud)"
-    },
     "http://adfs.mboamersfoort.nl/adfs/services/trust": {
         "en": "MBO Amersfoort",
         "nl": "MBO Amersfoort"
