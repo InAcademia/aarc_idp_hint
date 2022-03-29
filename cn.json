@@ -1595,6 +1595,10 @@
         "en": "University of Shanghai  for Science and Technology",
         "zh": "上海理工大学(University of Shanghai  for Science and Technology)"
     },
+    "https://idp.ustb.edu.cn/idp/shibboleth": {
+        "en": "University of Science and Technology Beijing",
+        "zh": "北京科技大学(University of Science and Technology Beijing)"
+    },
     "https://idp.ustc.edu.cn/idp/shibboleth": {
         "en": "University of Science and Technology of China",
         "zh": "中国科学技术大学(University of Science and Technology of China)"

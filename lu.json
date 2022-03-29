@@ -7,7 +7,7 @@
         "fr": "Restena Employees"
     },
     "https://eduID.uni.lu/simplesaml/saml2/idp/metadata.php": {
-        "en": "University of Luxembourg - Production"
+        "en": "University of Luxembourg"
     },
     "https://login.restena.lu/simplesamlphp/saml2/idp/metadata.php": {
         "en": "Restena Users",

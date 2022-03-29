@@ -239,6 +239,10 @@
         "en": "UFSC - Universidade Federal de Santa Catarina",
         "pt-br": "UFSC - Universidade Federal de Santa Catarina"
     },
+    "https://cafe4.ufal.br/idp/shibboleth": {
+        "en": "UFAL - Universidade Federal de Alagoas",
+        "pt-br": "UFAL - Universidade Federal de Alagoas"
+    },
     "https://cafe4.ufes.br/idp/shibboleth": {
         "en": "UFES - Universidade Federal do Espirito Santo",
         "pt-br": "UFES - Universidade Federal do Espirito Santo"

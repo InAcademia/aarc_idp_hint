@@ -35,6 +35,10 @@
             "de": "FH CAMPUS 02",
             "en": "FH CAMPUS 02"
         },
+        "https://eduid.ph-kaernten.ac.at/idp/shibboleth": {
+            "de": "Pädagogische Hochschule Kärnten",
+            "en": "University College of Teacher Education Carinthia"
+        },
         "https://idp.aco.net/idp/shibboleth": {
             "de": "ACOnet Team",
             "en": "ACOnet staff"
@@ -783,6 +787,10 @@
         "https://cafe33.setic.ufsc.br/idp/shibboleth": {
             "en": "UFSC - Universidade Federal de Santa Catarina",
             "pt-br": "UFSC - Universidade Federal de Santa Catarina"
+        },
+        "https://cafe4.ufal.br/idp/shibboleth": {
+            "en": "UFAL - Universidade Federal de Alagoas",
+            "pt-br": "UFAL - Universidade Federal de Alagoas"
         },
         "https://cafe4.ufes.br/idp/shibboleth": {
             "en": "UFES - Universidade Federal do Espirito Santo",
@@ -3602,6 +3610,10 @@
         "https://idp.usst.edu.cn/idp/shibboleth": {
             "en": "University of Shanghai  for Science and Technology",
             "zh": "上海理工大学(University of Shanghai  for Science and Technology)"
+        },
+        "https://idp.ustb.edu.cn/idp/shibboleth": {
+            "en": "University of Science and Technology Beijing",
+            "zh": "北京科技大学(University of Science and Technology Beijing)"
         },
         "https://idp.ustc.edu.cn/idp/shibboleth": {
             "en": "University of Science and Technology of China",
@@ -11051,7 +11063,7 @@
             "fr": "Restena Employees"
         },
         "https://eduID.uni.lu/simplesaml/saml2/idp/metadata.php": {
-            "en": "University of Luxembourg - Production"
+            "en": "University of Luxembourg"
         },
         "https://login.restena.lu/simplesamlphp/saml2/idp/metadata.php": {
             "en": "Restena Users",

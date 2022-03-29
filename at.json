@@ -23,6 +23,10 @@
         "de": "FH CAMPUS 02",
         "en": "FH CAMPUS 02"
     },
+    "https://eduid.ph-kaernten.ac.at/idp/shibboleth": {
+        "de": "Pädagogische Hochschule Kärnten",
+        "en": "University College of Teacher Education Carinthia"
+    },
     "https://idp.aco.net/idp/shibboleth": {
         "de": "ACOnet Team",
         "en": "ACOnet staff"
