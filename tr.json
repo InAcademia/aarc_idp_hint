@@ -23,6 +23,10 @@
         "en": "Aksaray University",
         "tr": "Aksaray Üniversitesi"
     },
+    "https://idp.arel.edu.tr/idp/shibboleth": {
+        "en": "Istanbul Arel University",
+        "tr": "İstanbul Arel Üniversitesi"
+    },
     "https://idp.atu.edu.tr/idp/shibboleth": {
         "en": "Adana Alparslan Türkeş Science and Technology University",
         "tr": "Adana Alparslan Türkeş Bilim veTeknoloji Üniversitesi"
@@ -134,6 +138,10 @@
     "https://idp.sivas.edu.tr/idp/shibboleth": {
         "en": "Sivas University Of Science And Technology",
         "tr": "Sivas Bilim ve Teknoloji Üniversitesi"
+    },
+    "https://idp.subu.edu.tr/idp/shibboleth": {
+        "en": "Sakarya University Of Applied Sciences",
+        "tr": "Sakarya Uygulamalı Bilimler Üniversitesi"
     },
     "https://idp.tedu.edu.tr/idp/shibboleth": {
         "en": "TED University",

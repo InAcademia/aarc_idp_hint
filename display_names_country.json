@@ -1132,6 +1132,10 @@
             "en": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao",
             "pt-br": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao"
         },
+        "https://login.ufrgs.br/idp/shibboleth": {
+            "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
+            "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
+        },
         "https://lrjidp02.cprm.gov.br/idp/shibboleth": {
             "en": "CPRM - Companhia de Pesquisa de Recursos Minerais",
             "pt-br": "CPRM - Companhia de Pesquisa de Recursos Minerais"
@@ -10020,10 +10024,6 @@
             "en": "PROD - IDP in the Cloud Project (GARR)",
             "it": "PROD - IDP in the Cloud Project (GARR)"
         },
-        "https://giasso.univr.it/idp/idem": {
-            "en": "University of Verona",
-            "it": "Università di Verona"
-        },
         "https://id.istat.it/idp/shibboleth": {
             "en": "ISTAT - Italian National Institute of Statistics",
             "it": "ISTAT - Istituto Nazionale di Statistica"
@@ -13415,6 +13415,10 @@
             "en": "Aksaray University",
             "tr": "Aksaray Üniversitesi"
         },
+        "https://idp.arel.edu.tr/idp/shibboleth": {
+            "en": "Istanbul Arel University",
+            "tr": "İstanbul Arel Üniversitesi"
+        },
         "https://idp.atu.edu.tr/idp/shibboleth": {
             "en": "Adana Alparslan Türkeş Science and Technology University",
             "tr": "Adana Alparslan Türkeş Bilim veTeknoloji Üniversitesi"
@@ -13526,6 +13530,10 @@
         "https://idp.sivas.edu.tr/idp/shibboleth": {
             "en": "Sivas University Of Science And Technology",
             "tr": "Sivas Bilim ve Teknoloji Üniversitesi"
+        },
+        "https://idp.subu.edu.tr/idp/shibboleth": {
+            "en": "Sakarya University Of Applied Sciences",
+            "tr": "Sakarya Uygulamalı Bilimler Üniversitesi"
         },
         "https://idp.tedu.edu.tr/idp/shibboleth": {
             "en": "TED University",

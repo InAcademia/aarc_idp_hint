@@ -23,10 +23,6 @@
         "en": "PROD - IDP in the Cloud Project (GARR)",
         "it": "PROD - IDP in the Cloud Project (GARR)"
     },
-    "https://giasso.univr.it/idp/idem": {
-        "en": "University of Verona",
-        "it": "Università di Verona"
-    },
     "https://id.istat.it/idp/shibboleth": {
         "en": "ISTAT - Italian National Institute of Statistics",
         "it": "ISTAT - Istituto Nazionale di Statistica"
