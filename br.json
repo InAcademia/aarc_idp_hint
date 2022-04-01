@@ -31,10 +31,6 @@
         "en": "UFFS - Universidade Federal da Fronteira Sul",
         "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
     },
-    "https://cafe-web.cetene.gov.br/idp/shibboleth": {
-        "en": "CETENE - Centro de Tecnologias e Estrategicas do NE",
-        "pt-br": "CETENE - Centro de Tecnologias e Estrategicas do NE"
-    },
     "https://cafe.accamargo.org.br/idp/shibboleth": {
         "en": "FAP - Fundacao Antonio Prudente",
         "pt-br": "FAP - Fundacao Antonio Prudente"
@@ -270,6 +266,10 @@
     "https://cafev2.unochapeco.edu.br/idp/shibboleth": {
         "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
         "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
+    },
+    "https://cafeweb.cetene.gov.br/idp/shibboleth": {
+        "en": "CETENE - Centro de Tecnologias e Estrategicas do Nordeste",
+        "pt-br": "CETENE - Centro de Tecnologias e Estrategicas do Nordeste"
     },
     "https://capes.fcmsantacasasp.edu.br/idp/shibboleth": {
         "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa",

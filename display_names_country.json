@@ -580,10 +580,6 @@
             "en": "UFFS - Universidade Federal da Fronteira Sul",
             "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
         },
-        "https://cafe-web.cetene.gov.br/idp/shibboleth": {
-            "en": "CETENE - Centro de Tecnologias e Estrategicas do NE",
-            "pt-br": "CETENE - Centro de Tecnologias e Estrategicas do NE"
-        },
         "https://cafe.accamargo.org.br/idp/shibboleth": {
             "en": "FAP - Fundacao Antonio Prudente",
             "pt-br": "FAP - Fundacao Antonio Prudente"
@@ -819,6 +815,10 @@
         "https://cafev2.unochapeco.edu.br/idp/shibboleth": {
             "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
             "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
+        },
+        "https://cafeweb.cetene.gov.br/idp/shibboleth": {
+            "en": "CETENE - Centro de Tecnologias e Estrategicas do Nordeste",
+            "pt-br": "CETENE - Centro de Tecnologias e Estrategicas do Nordeste"
         },
         "https://capes.fcmsantacasasp.edu.br/idp/shibboleth": {
             "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa",
@@ -8636,6 +8636,10 @@
         "https://sso.institutoptique.fr/idp/shibboleth": {
             "en": "Institut Optique Graduate School",
             "fr": "Institut Optique Graduate School"
+        },
+        "https://sts.windows.net/413600cf-bd4e-4c7c-8a61-69e73cddf731/": {
+            "en": "Efrei",
+            "fr": "Efrei"
         },
         "https://sts.windows.net/517085ff-c1f1-4b90-8a7f-ed8816109cfe/": {
             "en": "Grenoble Ecole de Management ( GEM )",
