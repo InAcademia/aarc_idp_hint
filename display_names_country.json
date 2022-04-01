@@ -5205,6 +5205,10 @@
             "de": "Hochschule für Grafik und Buchkunst Leipzig",
             "en": "Academy of Fine Arts Leipzig"
         },
+        "https://idp.hmdk-stuttgart.de/idp/shibboleth": {
+            "de": "Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart",
+            "en": "Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart"
+        },
         "https://idp.hmt-leipzig.de/shibboleth": {
             "de": "Hochschule für Musik und Theater Leipzig",
             "en": "University for music and theatre Leipzig"
