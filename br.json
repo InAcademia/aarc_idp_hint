@@ -391,6 +391,10 @@
         "en": "IFPI - Instituto Federal do Piaui",
         "pt-br": "IFPI - Instituto Federal do Piaui"
     },
+    "https://idp.ifsp.edu.br/idp/shibboleth": {
+        "en": "IFSP - Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo",
+        "pt-br": "IFSP - Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo"
+    },
     "https://idp.igesdf.org.br/idp/shibboleth": {
         "en": "IGESDF - Instituto de Gestao Estrategica de Saude do Distrito Federal",
         "pt-br": "IGESDF - Instituto de Gestao Estrategica de Saude do Distrito Federal"

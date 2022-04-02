@@ -20,8 +20,8 @@
         "zh": "上海海洋大学(Shanghai Ocean University)"
     },
     "https://idp-carsi.suibe.edu.cn/idp/shibboleth": {
-        "en": "SUIBE",
-        "zh": "上海对外经贸大学(SUIBE )"
+        "en": "Shanghai University of International Business and Economics",
+        "zh": "上海对外经贸大学(Shanghai University of International Business and Economics)"
     },
     "https://idp-cas.sues.edu.cn/idp/shibboleth": {
         "en": "Shanghai University of Engineering Science",
@@ -1055,6 +1055,10 @@
         "en": "Liaoning Technical University",
         "zh": "辽宁工程技术大学(Liaoning Technical University)"
     },
+    "https://idp.lnut.edu.cn/idp/shibboleth": {
+        "en": "Liaoning University of Technology",
+        "zh": "辽宁工业大学(Liaoning University of Technology)"
+    },
     "https://idp.lnutcm.edu.cn/idp/shibboleth": {
         "en": "Liaoning University of Traditional Chinese Medicine",
         "zh": "辽宁中医药大学(Liaoning University of Traditional Chinese Medicine)"
@@ -1186,6 +1190,10 @@
     "https://idp.nuaa.edu.cn/idp/shibboleth": {
         "en": "Nanjing University of Aeronautics and Astronautics",
         "zh": "南京航空航天大学(Nanjing University of Aeronautics and Astronautics)"
+    },
+    "https://idp.nvu.edu.cn/idp/shibboleth": {
+        "en": "Nanchang Vocational University",
+        "zh": "南昌职业大学(Nanchang Vocational University)"
     },
     "https://idp.nwpu.edu.cn/idp/shibboleth": {
         "en": "Northwestern Polytechnical University",
