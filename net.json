@@ -4,8 +4,8 @@
         "zh": "澳門大學"
     },
     "https://aai.cstcloud.net/saml/idp": {
-        "en": "CSTCloud Identity Federation IDP",
-        "zh": "中国科技云身份认证联盟IDP"
+        "en": "CSTCloud AAI",
+        "zh": "中国科技云身份认证联盟(CSTCloud AAI)"
     },
     "https://idp.baafs.net.cn/idp/shibboleth": {
         "en": "Beijing Academy of Agriculture and Forestry Sciences",
