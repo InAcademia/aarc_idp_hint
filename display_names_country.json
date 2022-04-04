@@ -8473,6 +8473,10 @@
             "en": "CAMPUS CONDORCET",
             "fr": "CAMPUS CONDORCET"
         },
+        "https://rigal.enpc.fr/idp/shibboleth": {
+            "en": "ZZ - Old server - École des Ponts ParisTech - Do not use",
+            "fr": "ZZ - Ancien serveur - École des Ponts ParisTech - Ne plus utiliser"
+        },
         "https://ruhnu.univ-tlse2.fr/idp/shibboleth": {
             "en": "University of Toulouse Jean Jaurès",
             "fr": "Université Toulouse Jean Jaurès"

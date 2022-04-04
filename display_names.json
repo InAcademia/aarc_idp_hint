@@ -3725,6 +3725,7 @@
     "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": "CAMPUS CONDORCET",
     "https://registry.shibboleth.ox.ac.uk/idp": "University of Oxford",
     "https://remote.palestra.cz/idp/shibboleth": "VSTVS PALESTRA, s.r.o.",
+    "https://rigal.enpc.fr/idp/shibboleth": "ZZ - Old server - École des Ponts ParisTech - Do not use",
     "https://rja-idp.lanet.lv": "Riga Graduate School of Law",
     "https://rmk-idp.lanet.lv": "Riga Medical College",
     "https://rokyknih.cz/idp/shibboleth": "Municipal Library Rokycany",
