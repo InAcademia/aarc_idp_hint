@@ -878,5 +878,9 @@
     "https://vmmanaus.cpqd.com.br/idp/shibboleth": {
         "en": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes",
         "pt-br": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes"
+    },
+    "https://vmshib64.ufrpe.br/idp/shibboleth": {
+        "en": "UFRPE - Universidade Federal Rural de Pernambuco",
+        "pt-br": "UFRPE - Universidade Federal Rural de Pernambuco"
     }
 }

@@ -1169,6 +1169,9 @@
     "https://sso.augsburg.edu/simplesaml/saml2/idp/metadata.php": {
         "en": "Augsburg University"
     },
+    "https://sso.bergen.edu/idp": {
+        "en": "Bergen Community College (Cirrus)"
+    },
     "https://sso.brown.edu/idp/shibboleth": {
         "en": "Brown University"
     },
