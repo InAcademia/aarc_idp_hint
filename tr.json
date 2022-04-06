@@ -199,6 +199,10 @@
         "en": "Social Sciences University of Ankara",
         "tr": "Ankara Sosyal Bilimler Üniversitesi"
     },
+    "https://kimlik.atauni.edu.tr/saml2/idp/metadata.php": {
+        "en": "Ataturk University",
+        "tr": "Atatürk Universitesi"
+    },
     "https://kimlik.aydin.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Istanbul Aydin University",
         "tr": "İstanbul Aydın Üniversitesi"

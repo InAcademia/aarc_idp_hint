@@ -431,6 +431,10 @@
         "en": "UFR - Universidade Federal de Rondonopolis",
         "pt-br": "UFR - Universidade Federal de Rondonopolis"
     },
+    "https://idp.ufrb.edu.br/idp/shibboleth": {
+        "en": "UFRB - Universidade Federal do Reconcavo da Bahia",
+        "pt-br": "UFRB - Universidade Federal do Reconcavo da Bahia"
+    },
     "https://idp.uftm.edu.br/idp/shibboleth": {
         "en": "UFTM - Universidade Federal do Triangulo Mineiro",
         "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"

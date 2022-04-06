@@ -291,6 +291,10 @@
         "cs": "Orientální ústav AV ČR",
         "en": "Oriental Institute of the Czech Academy of Sciences"
     },
+    "https://idp.polac.cz/idp/shibboleth": {
+        "cs": "Policejní akademie České republiky v Praze",
+        "en": "Police Academy of Czech Republic in Prague"
+    },
     "https://idp.psu.cas.cz/idp/shibboleth": {
         "cs": "Psychologický ústav Akademie věd České republiky",
         "en": "The Institute of Psychology of Academy of Science of Czech Republic"

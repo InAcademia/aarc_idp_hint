@@ -980,6 +980,10 @@
             "en": "UFR - Universidade Federal de Rondonopolis",
             "pt-br": "UFR - Universidade Federal de Rondonopolis"
         },
+        "https://idp.ufrb.edu.br/idp/shibboleth": {
+            "en": "UFRB - Universidade Federal do Reconcavo da Bahia",
+            "pt-br": "UFRB - Universidade Federal do Reconcavo da Bahia"
+        },
         "https://idp.uftm.edu.br/idp/shibboleth": {
             "en": "UFTM - Universidade Federal do Triangulo Mineiro",
             "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
@@ -3087,6 +3091,10 @@
             "en": "Liaoning University of Traditional Chinese Medicine",
             "zh": "辽宁中医药大学(Liaoning University of Traditional Chinese Medicine)"
         },
+        "https://idp.lsnu.edu.cn/idp/shibboleth": {
+            "en": "LeShan Normal University",
+            "zh": "乐山师范学院(LeShan Normal University)"
+        },
         "https://idp.luas.edu.cn/idp/shibboleth": {
             "en": "Lanzhou Universiy of Art and Science",
             "zh": "兰州文理学院(Lanzhou Universiy of Art and Science)"
@@ -4390,6 +4398,10 @@
         "https://idp.orient.cas.cz/idp/shibboleth": {
             "cs": "Orientální ústav AV ČR",
             "en": "Oriental Institute of the Czech Academy of Sciences"
+        },
+        "https://idp.polac.cz/idp/shibboleth": {
+            "cs": "Policejní akademie České republiky v Praze",
+            "en": "Police Academy of Czech Republic in Prague"
         },
         "https://idp.psu.cas.cz/idp/shibboleth": {
             "cs": "Psychologický ústav Akademie věd České republiky",
@@ -13614,6 +13626,10 @@
         "https://kimlik.asbu.edu.tr/idp/shibboleth": {
             "en": "Social Sciences University of Ankara",
             "tr": "Ankara Sosyal Bilimler Üniversitesi"
+        },
+        "https://kimlik.atauni.edu.tr/saml2/idp/metadata.php": {
+            "en": "Ataturk University",
+            "tr": "Atatürk Universitesi"
         },
         "https://kimlik.aydin.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Istanbul Aydin University",
