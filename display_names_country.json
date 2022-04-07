@@ -964,6 +964,10 @@
             "en": "UEPG - Universidade Estadual de Ponta Grossa",
             "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
         },
+        "https://idp.ufcat.edu.br/idp/shibboleth": {
+            "en": "UFCAT - Universidade Federal de Catalao",
+            "pt-br": "UFCAT - Universidade Federal de Catalao"
+        },
         "https://idp.ufgd.edu.br/idp/shibboleth": {
             "en": "UFGD - Universidade Federal da Grande Dourados",
             "pt-br": "UFGD - Universidade Federal da Grande Dourados"
@@ -2786,6 +2790,10 @@
         "https://idp.hebut.edu.cn/idp/shibboleth": {
             "en": "Hebei University of Technology",
             "zh": "河北工业大学(Hebei University of Technology)"
+        },
+        "https://idp.hejtxy.edu.cn/idp/shibboleth": {
+            "en": "Hebei Jiaotong Vocational and Technical College",
+            "zh": "河北交通职业技术学院(Hebei Jiaotong Vocational and Technical College)"
         },
         "https://idp.henu.edu.cn/idp/shibboleth": {
             "en": "Henan University",
@@ -12303,6 +12311,10 @@
             "en": "University of Information Technology and Management in Rzeszow",
             "pl": "Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie"
         },
+        "https://auth.wszib.edu.pl/idp/shibboleth": {
+            "en": "The School of Banking and Management in Cracow",
+            "pl": "Wyższa Szkoła Zarządzania i Bankowości w Krakowie"
+        },
         "https://cas.kul.pl:8443/cas/idp/metadata": {
             "en": "John Paul II Catholic University of Lublin",
             "pl": "Katolicki Uniwersytet Lubelski Jana Pawła II"
@@ -13835,6 +13847,10 @@
             "en": "TOBB University of Economics & Technology",
             "tr": "TOBB Ekonomi ve Teknoloji Üniversitesi"
         },
+        "https://yetkim.gtu.edu.tr/idp/shibboleth": {
+            "en": "Gebze Technical University",
+            "tr": "Gebze Teknik Üniversitesi"
+        },
         "https://yetkim.gumushane.edu.tr/idp/shibboleth": {
             "en": "Gumushane University",
             "tr": "Gumushane Universitesi"
@@ -15313,6 +15329,9 @@
         },
         "https://nbcol.ac.uk/openathens": {
             "en": "Northbrook College Sussex"
+        },
+        "https://nbi-sso.nbi.ac.uk/idp/shibboleth": {
+            "en": "Norwich Bioscience Institutes (SSO)"
         },
         "https://nchlondon.ac.uk/idp": {
             "en": "New College of the Humanities"

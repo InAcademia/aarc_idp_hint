@@ -23,6 +23,10 @@
         "en": "University of Information Technology and Management in Rzeszow",
         "pl": "Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie"
     },
+    "https://auth.wszib.edu.pl/idp/shibboleth": {
+        "en": "The School of Banking and Management in Cracow",
+        "pl": "Wyższa Szkoła Zarządzania i Bankowości w Krakowie"
+    },
     "https://cas.kul.pl:8443/cas/idp/metadata": {
         "en": "John Paul II Catholic University of Lublin",
         "pl": "Katolicki Uniwersytet Lubelski Jana Pawła II"

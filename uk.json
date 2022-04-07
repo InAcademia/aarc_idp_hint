@@ -1367,6 +1367,9 @@
     "https://nbcol.ac.uk/openathens": {
         "en": "Northbrook College Sussex"
     },
+    "https://nbi-sso.nbi.ac.uk/idp/shibboleth": {
+        "en": "Norwich Bioscience Institutes (SSO)"
+    },
     "https://nchlondon.ac.uk/idp": {
         "en": "New College of the Humanities"
     },

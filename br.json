@@ -415,6 +415,10 @@
         "en": "UEPG - Universidade Estadual de Ponta Grossa",
         "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
     },
+    "https://idp.ufcat.edu.br/idp/shibboleth": {
+        "en": "UFCAT - Universidade Federal de Catalao",
+        "pt-br": "UFCAT - Universidade Federal de Catalao"
+    },
     "https://idp.ufgd.edu.br/idp/shibboleth": {
         "en": "UFGD - Universidade Federal da Grande Dourados",
         "pt-br": "UFGD - Universidade Federal da Grande Dourados"
