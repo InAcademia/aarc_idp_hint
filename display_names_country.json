@@ -6250,8 +6250,8 @@
             "en": "Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)"
         },
         "https://www.sso.utn.de/simplesaml/saml2/idp/metadata.php": {
-            "de": "Technische Universität Nürnberg",
-            "en": "University of Technology Nuremberg"
+            "de": "Technische Universität Nürnberg (UTN)",
+            "en": "University of Technology Nuremberg (UTN)"
         },
         "https://www.vho.de/idpnl": {
             "de": "VHO Einzelnutzer Nationallizenzen",
