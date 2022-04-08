@@ -648,10 +648,6 @@
             "en": "IFRJ - Instituto Federal do Rio de Janeiro",
             "pt-br": "IFRJ - Instituto Federal do Rio de Janeiro"
         },
-        "https://cafe.ifsertao-pe.edu.br/idp/shibboleth": {
-            "en": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano",
-            "pt-br": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano"
-        },
         "https://cafe.ifto.edu.br/idp/shibboleth": {
             "en": "IFTO - Instituto Federal de Educacao do Tocantins",
             "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
@@ -855,6 +851,10 @@
         "https://idp-cafe.ifrr.edu.br/idp/shibboleth": {
             "en": "IFRR - Instituto Federal de Roraima",
             "pt-br": "IFRR - Instituto Federal de Roraima"
+        },
+        "https://idp-cafe.ifsertao-pe.edu.br/idp/shibboleth": {
+            "en": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano",
+            "pt-br": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano"
         },
         "https://idp-cafe.inma.gov.br/idp/shibboleth": {
             "en": "INMA - Instituto Nacional da Mata Atlantica",
@@ -10216,6 +10216,10 @@
             "en": "IRCCS IOV Istituto Oncologico Veneto",
             "it": "IRCCS IOV Istituto Oncologico Veneto"
         },
+        "https://idp-irst.irccs.garr.it/idp/shibboleth": {
+            "en": "IRCCS IRST Dino Amadori - Meldola",
+            "it": "IRCCS IRST Dino Amadori - Meldola"
+        },
         "https://idp-ismett.irccs.garr.it/idp/shibboleth": {
             "en": "IRCCS ISMETT - Palermo",
             "it": "IRCCS ISMETT - Palermo"
@@ -16378,9 +16382,6 @@
         },
         "https://idp.unmc.edu/idp/shibboleth": {
             "en": "University of Nebraska Medical Center"
-        },
-        "https://idp.uprm.edu/saml2/idp/": {
-            "en": "University of Puerto Rico-Mayaguez"
         },
         "https://idp.usm.edu/idp/shibboleth": {
             "en": "University of Southern Mississippi"

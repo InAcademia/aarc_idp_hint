@@ -99,10 +99,6 @@
         "en": "IFRJ - Instituto Federal do Rio de Janeiro",
         "pt-br": "IFRJ - Instituto Federal do Rio de Janeiro"
     },
-    "https://cafe.ifsertao-pe.edu.br/idp/shibboleth": {
-        "en": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano",
-        "pt-br": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano"
-    },
     "https://cafe.ifto.edu.br/idp/shibboleth": {
         "en": "IFTO - Instituto Federal de Educacao do Tocantins",
         "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
@@ -306,6 +302,10 @@
     "https://idp-cafe.ifrr.edu.br/idp/shibboleth": {
         "en": "IFRR - Instituto Federal de Roraima",
         "pt-br": "IFRR - Instituto Federal de Roraima"
+    },
+    "https://idp-cafe.ifsertao-pe.edu.br/idp/shibboleth": {
+        "en": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano",
+        "pt-br": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano"
     },
     "https://idp-cafe.inma.gov.br/idp/shibboleth": {
         "en": "INMA - Instituto Nacional da Mata Atlantica",

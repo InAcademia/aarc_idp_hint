@@ -590,9 +590,6 @@
     "https://idp.unmc.edu/idp/shibboleth": {
         "en": "University of Nebraska Medical Center"
     },
-    "https://idp.uprm.edu/saml2/idp/": {
-        "en": "University of Puerto Rico-Mayaguez"
-    },
     "https://idp.usm.edu/idp/shibboleth": {
         "en": "University of Southern Mississippi"
     },

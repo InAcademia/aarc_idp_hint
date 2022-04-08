@@ -171,6 +171,10 @@
         "en": "IRCCS IOV Istituto Oncologico Veneto",
         "it": "IRCCS IOV Istituto Oncologico Veneto"
     },
+    "https://idp-irst.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS IRST Dino Amadori - Meldola",
+        "it": "IRCCS IRST Dino Amadori - Meldola"
+    },
     "https://idp-ismett.irccs.garr.it/idp/shibboleth": {
         "en": "IRCCS ISMETT - Palermo",
         "it": "IRCCS ISMETT - Palermo"
