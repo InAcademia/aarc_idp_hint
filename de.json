@@ -1171,6 +1171,10 @@
         "de": "Max Planck Institut für Quantenoptik (MPQ)",
         "en": "Max Planck Institute for Quantum Optics (MPQ)"
     },
+    "https://shibb.zalf.de/idp/shibboleth": {
+        "de": "ZALF Müncheberg IdP",
+        "en": "ZALF Müncheberg IdP"
+    },
     "https://shibbo.hfm-weimar.de/idp/shibboleth": {
         "de": "Hochschule für Musik Weimar",
         "en": "Hochschule für Musik Weimar"
