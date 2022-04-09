@@ -333,7 +333,7 @@
         "en": "DePauw University InCommon IDP"
     },
     "https://idp.du.edu/idp/shibboleth": {
-        "en": "University of Denver"
+        "en": "The University of Denver"
     },
     "https://idp.duq.edu/idp/shibboleth": {
         "en": "Duquesne University"
@@ -707,6 +707,9 @@
     "https://login.cmu.edu/idp/shibboleth": {
         "en": "Carnegie Mellon University"
     },
+    "https://login.du.edu/idp": {
+        "en": "University of Denver"
+    },
     "https://login.emory.edu/idp/shibboleth": {
         "en": "Emory University"
     },
@@ -801,7 +804,7 @@
         "en": "Fordham University"
     },
     "https://mamiwata.du.edu/idp": {
-        "en": "The University of Denver"
+        "en": "Denver University"
     },
     "https://mckinley.csuci.edu/idp/shibboleth": {
         "en": "California State University, Channel Islands"

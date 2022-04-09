@@ -75,6 +75,10 @@
         "en": "Centre for Ecological Research",
         "hu": "Ökológiai Kutatóközpont"
     },
+    "https://idp.ejf.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Eötvös József College",
+        "hu": "Eötvös József Főiskola"
+    },
     "https://idp.ek-cer.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Centre for Energy Research",
         "hu": "Energiatudományi Kutatóközpont"

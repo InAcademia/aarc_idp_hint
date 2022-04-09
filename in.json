@@ -230,6 +230,9 @@
     "https://idp.manipuruniv.ac.in/idp/shibboleth": {
         "en": "Manipur University"
     },
+    "https://idp.mcet.in/idp/shibboleth": {
+        "en": "Dr.Mahalingam College of Engineering and Technology"
+    },
     "https://idp.mgu.ac.in/idp/shibboleth": {
         "en": "Mahatma Gandhi University, Kerala"
     },

@@ -399,6 +399,10 @@
         "en": "Balikesir University",
         "tr": "Balıkesir Üniversitesi"
     },
+    "https://yetkim.cag.edu.tr/idp/shibboleth": {
+        "en": "Cag University",
+        "tr": "Çağ Üniversitesi"
+    },
     "https://yetkim.erciyes.edu.tr/idp/shibboleth": {
         "en": "Erciyes University",
         "tr": "Erciyes Üniversitesi"
@@ -414,6 +418,10 @@
     "https://yetkim.gumushane.edu.tr/idp/shibboleth": {
         "en": "Gumushane University",
         "tr": "Gumushane Universitesi"
+    },
+    "https://yetkim.hku.edu.tr/idp/shibboleth": {
+        "en": "Hasan Kalyoncu University",
+        "tr": "Hasan Kalyoncu Üniversitesi"
     },
     "https://yetkim.iku.edu.tr/idp/shibboleth": {
         "en": "İstanbul Kültür University",

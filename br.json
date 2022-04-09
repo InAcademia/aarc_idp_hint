@@ -31,6 +31,10 @@
         "en": "UFFS - Universidade Federal da Fronteira Sul",
         "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
     },
+    "https://cafe-idp.ufrrj.br/idp/shibboleth": {
+        "en": "UFRRJ - Universidade Federal Rural do Rio de Janeiro",
+        "pt-br": "UFRRJ - Universidade Federal Rural do Rio de Janeiro"
+    },
     "https://cafe.accamargo.org.br/idp/shibboleth": {
         "en": "FAP - Fundacao Antonio Prudente",
         "pt-br": "FAP - Fundacao Antonio Prudente"
@@ -170,10 +174,6 @@
     "https://cafe.ufpi.br/idp/shibboleth": {
         "en": "UFPI - Universidade Federal do Piaui",
         "pt-br": "UFPI - Universidade Federal do Piaui"
-    },
-    "https://cafe.ufrrj.br/idp/shibboleth": {
-        "en": "UFRRJ - Universidade Federal Rural do Rio de Janeiro",
-        "pt-br": "UFRRJ - Universidade Federal Rural do Rio de Janeiro"
     },
     "https://cafe.ufsb.edu.br/idp/shibboleth": {
         "en": "UFSB - Universidade Federal do Sul da Bahia",
@@ -534,6 +534,10 @@
     "https://idpcafe.unemat.br/idp/shibboleth": {
         "en": "UNEMAT - Universidade do Estado de Mato Grosso",
         "pt-br": "UNEMAT - Universidade do Estado de Mato Grosso"
+    },
+    "https://idpcafe.unifran.br/idp/shibboleth": {
+        "en": "UNIFRAN - Universidade de Franca",
+        "pt-br": "UNIFRAN - Universidade de Franca"
     },
     "https://idpcafe.unisc.br/idp/shibboleth": {
         "en": "UNISC - Universidade de Santa Cruz do Sul",
