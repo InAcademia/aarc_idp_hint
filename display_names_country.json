@@ -2451,6 +2451,10 @@
             "en": "Chongqing University of Posts and Telecommunications",
             "zh": "重庆邮电大学(Chongqing University of Posts and Telecommunications)"
         },
+        "https://idp.cqut.edu.cn/idp/shibboleth": {
+            "en": "Chongqing University of Technology",
+            "zh": "重庆理工大学(Chongqing University of Technology)"
+        },
         "https://idp.cqwu.edu.cn/idp/shibboleth": {
             "en": "Chongqing University of Arts and Sciences",
             "zh": "重庆文理学院(Chongqing University of Arts and Sciences)"
@@ -3308,8 +3312,8 @@
             "zh": "中国人民大学(RENMIN UNIVERSITY OF CHINA)"
         },
         "https://idp.sau.edu.cn/idp/shibboleth": {
-            "en": "SAU",
-            "zh": "沈阳航空航天大学(SAU)"
+            "en": "Shenyang Aerospace University",
+            "zh": "沈阳航空航天大学(Shenyang Aerospace University)"
         },
         "https://idp.sbs.edu.cn/idp/shibboleth": {
             "en": "Shanghai Business School",
@@ -4834,6 +4838,10 @@
         "https://slavoj.cz/idp/shibboleth": {
             "cs": "Městská knihovna Slavoj ve Dvoře Králové nad Labem",
             "en": "Municipal Library Slavoj in Dvur Kralove nad Labem"
+        },
+        "https://sts.windows.net/6bccc829-c614-4366-960b-d94ff368e798/": {
+            "cs": "Revmatologický ústav",
+            "en": "Institute of Rheumatology"
         },
         "https://sts.windows.net/c38e8f6c-0577-4e93-89d6-5aebb07d4538/": {
             "cs": "Nemocnice Jihlava, p.o.",

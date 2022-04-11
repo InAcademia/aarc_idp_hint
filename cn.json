@@ -415,6 +415,10 @@
         "en": "Chongqing University of Posts and Telecommunications",
         "zh": "重庆邮电大学(Chongqing University of Posts and Telecommunications)"
     },
+    "https://idp.cqut.edu.cn/idp/shibboleth": {
+        "en": "Chongqing University of Technology",
+        "zh": "重庆理工大学(Chongqing University of Technology)"
+    },
     "https://idp.cqwu.edu.cn/idp/shibboleth": {
         "en": "Chongqing University of Arts and Sciences",
         "zh": "重庆文理学院(Chongqing University of Arts and Sciences)"
@@ -1272,8 +1276,8 @@
         "zh": "中国人民大学(RENMIN UNIVERSITY OF CHINA)"
     },
     "https://idp.sau.edu.cn/idp/shibboleth": {
-        "en": "SAU",
-        "zh": "沈阳航空航天大学(SAU)"
+        "en": "Shenyang Aerospace University",
+        "zh": "沈阳航空航天大学(Shenyang Aerospace University)"
     },
     "https://idp.sbs.edu.cn/idp/shibboleth": {
         "en": "Shanghai Business School",
