@@ -235,10 +235,6 @@
         "en": "Máxima MC",
         "nl": "Máxima MC"
     },
-    "http://login.ds.eur.nl/adfs/services/trust": {
-        "en": "Erasmus University Rotterdam (ADFS)",
-        "nl": "Erasmus Universiteit Rotterdam (ADFS)"
-    },
     "http://login.hva.nl/adfs/services/trust": {
         "en": "Hogeschool van Amsterdam",
         "nl": "Hogeschool van Amsterdam"
