@@ -5089,6 +5089,10 @@
             "de": "Ernst-Abbe-Hochschule Jena",
             "en": "Ernst-Abbe-Hochschule Jena"
         },
+        "https://idp.eh-berlin.de/idp/shibboleth": {
+            "de": "EHB - IdP",
+            "en": "EHB - IdP"
+        },
         "https://idp.esmt.org/idp/shibboleth": {
             "de": "ESMT Berlin",
             "en": "ESMT Berlin"
