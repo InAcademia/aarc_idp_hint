@@ -356,6 +356,9 @@
     "https://idp.technoindiauniversity.ac.in/idp/shibboleth": {
         "en": "Techno India University"
     },
+    "https://idp.tezu.ernet.in/idp/shibboleth": {
+        "en": "Tezpur University"
+    },
     "https://idp.thapar.edu/idp/shibboleth": {
         "en": "Thapar Institute of Engineering and Technology"
     },

@@ -1336,6 +1336,10 @@
             "en": "UNIRITTER - Sociedade de Educacao Ritter dos Reis LTDA",
             "pt-br": "UNIRITTER - Sociedade de Educacao Ritter dos Reis LTDA"
         },
+        "https://shibboleth.unisul.br/idp/shibboleth": {
+            "en": "UNISUL - Universidade do Sul de Santa Catarina",
+            "pt-br": "UNISUL - Universidade do Sul de Santa Catarina"
+        },
         "https://shibboleth.univale.br/idp/shibboleth": {
             "en": "UNIVALE - Universidade Vale do Rio Doce - UNIVALE",
             "pt-br": "UNIVALE - Universidade Vale do Rio Doce - UNIVALE"
@@ -2354,6 +2358,10 @@
         "https://idp.bupt.edu.cn/idp/shibboleth": {
             "en": "Beijing University of Posts and Telecommunications",
             "zh": "北京邮电大学(Beijing University of Posts and Telecommunications)"
+        },
+        "https://idp.buu.edu.cn/idp/shibboleth": {
+            "en": "Beijing Union University",
+            "zh": "北京联合大学(Beijing Union University)"
         },
         "https://idp.cafa.edu.cn/idp/shibboleth": {
             "en": "The Central Academy of Fine Arts",
@@ -9980,6 +9988,9 @@
         },
         "https://idp.technoindiauniversity.ac.in/idp/shibboleth": {
             "en": "Techno India University"
+        },
+        "https://idp.tezu.ernet.in/idp/shibboleth": {
+            "en": "Tezpur University"
         },
         "https://idp.thapar.edu/idp/shibboleth": {
             "en": "Thapar Institute of Engineering and Technology"
