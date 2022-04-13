@@ -863,6 +863,10 @@
         "de": "Technische Hochschule Lübeck",
         "en": "Technische Hochschule Lübeck - University of Applied Sciences"
     },
+    "https://idp1.mbi-berlin.de/idp/shibboleth": {
+        "de": "Max-Born-Institut Berlin, IDP1",
+        "en": "Max Born Institute Berlin, IDP1"
+    },
     "https://idp1.rz.hs-fulda.de": {
         "de": "Hochschule Fulda University of Applied Sciences",
         "en": "Hochschule Fulda University of Applied Sciences"
