@@ -1352,10 +1352,6 @@
             "en": "UNP - Universidade Potiguar",
             "pt-br": "UNP - Universidade Potiguar"
         },
-        "https://shibboleth.uricer.edu.br/idp/shibboleth": {
-            "en": "URI - ERECHIM - - Universidade Regional Integrada do Alto Uruguai e das Missoes",
-            "pt-br": "URI - ERECHIM - - Universidade Regional Integrada do Alto Uruguai e das Missoes"
-        },
         "https://shibboleth.utfpr.edu.br/idp/shibboleth": {
             "en": "UTFPR - Universidade Tecnologica Federal do Parana",
             "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
@@ -1439,6 +1435,10 @@
         "https://ugin.ufpe.br/idp/shibboleth": {
             "en": "UFPE - Universidade Federal de Pernambuco",
             "pt-br": "UFPE - Universidade Federal de Pernambuco"
+        },
+        "https://uricafe.uricer.edu.br/idp/shibboleth": {
+            "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
+            "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
         },
         "https://uter.ufob.edu.br/idp/shibboleth": {
             "en": "UFOB - Universidade Federal do Oeste da Bahia",
@@ -2196,8 +2196,8 @@
             "zh": "西南医科大学(Southwest Medical University)"
         },
         "https://idp-lib.uestc.edu.cn/idp/shibboleth": {
-            "en": "UESTC",
-            "zh": "电子科技大学(UESTC)"
+            "en": "University of Electronic Science and Technology of China",
+            "zh": "电子科技大学(University of Electronic Science and Technology of China)"
         },
         "https://idp-lib.uibe.edu.cn/idp/shibboleth": {
             "en": "University of International Business and Economics",
@@ -10234,6 +10234,10 @@
             "en": "ICCU - Central Institute for the Union Catalogue",
             "it": "ICCU - Istituto Centrale per il Catalogo Unico"
         },
+        "https://idp-idem.aosp.bo.it/idp/shibboleth": {
+            "en": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+            "it": "IRCCS Azienda Ospedaliero-Universitaria di Bologna"
+        },
         "https://idp-idm.unibg.it/idp/shibboleth": {
             "en": "University of Bergamo",
             "it": "Universita' degli studi di Bergamo"
@@ -13773,6 +13777,10 @@
             "en": "Kahramanmaras Istiklal University",
             "tr": "Kahramanmaraş İstiklal Üniversitesi"
         },
+        "https://kimlik.kafkas.edu.tr/idp/shibboleth": {
+            "en": "Kafkas University",
+            "tr": "Kafkas Üniversitesi"
+        },
         "https://kimlik.karabuk.edu.tr/idp/shibboleth": {
             "en": "Karabuk University",
             "tr": "Karabük Üniversitesi"
@@ -13885,6 +13893,10 @@
             "en": "Antalya Bilim University",
             "tr": "Antalya Bilim Üniversitesi"
         },
+        "https://yetkim.atlas.edu.tr/idp/shibboleth": {
+            "en": "Atlas University",
+            "tr": "Atlas Üniversitesi"
+        },
         "https://yetkim.balikesir.edu.tr/idp/shibboleth": {
             "en": "Balikesir University",
             "tr": "Balıkesir Üniversitesi"
@@ -13924,6 +13936,10 @@
         "https://yetkim.itu.edu.tr/idp/shibboleth": {
             "en": "Istanbul Technical University",
             "tr": "İstanbul Teknik Üniversitesi"
+        },
+        "https://yetkim.jsga.edu.tr/idp/shibboleth": {
+            "en": "Gendarmerie and Coast Guard Academy",
+            "tr": "Jandarma ve Sahil Güvenlik Akademisi"
         },
         "https://yetkim.kastamonu.edu.tr/idp/shibboleth": {
             "en": "Kastamonu University",

@@ -283,6 +283,10 @@
         "en": "Kahramanmaras Istiklal University",
         "tr": "Kahramanmaraş İstiklal Üniversitesi"
     },
+    "https://kimlik.kafkas.edu.tr/idp/shibboleth": {
+        "en": "Kafkas University",
+        "tr": "Kafkas Üniversitesi"
+    },
     "https://kimlik.karabuk.edu.tr/idp/shibboleth": {
         "en": "Karabuk University",
         "tr": "Karabük Üniversitesi"
@@ -395,6 +399,10 @@
         "en": "Antalya Bilim University",
         "tr": "Antalya Bilim Üniversitesi"
     },
+    "https://yetkim.atlas.edu.tr/idp/shibboleth": {
+        "en": "Atlas University",
+        "tr": "Atlas Üniversitesi"
+    },
     "https://yetkim.balikesir.edu.tr/idp/shibboleth": {
         "en": "Balikesir University",
         "tr": "Balıkesir Üniversitesi"
@@ -434,6 +442,10 @@
     "https://yetkim.itu.edu.tr/idp/shibboleth": {
         "en": "Istanbul Technical University",
         "tr": "İstanbul Teknik Üniversitesi"
+    },
+    "https://yetkim.jsga.edu.tr/idp/shibboleth": {
+        "en": "Gendarmerie and Coast Guard Academy",
+        "tr": "Jandarma ve Sahil Güvenlik Akademisi"
     },
     "https://yetkim.kastamonu.edu.tr/idp/shibboleth": {
         "en": "Kastamonu University",

@@ -139,6 +139,10 @@
         "en": "ICCU - Central Institute for the Union Catalogue",
         "it": "ICCU - Istituto Centrale per il Catalogo Unico"
     },
+    "https://idp-idem.aosp.bo.it/idp/shibboleth": {
+        "en": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
+        "it": "IRCCS Azienda Ospedaliero-Universitaria di Bologna"
+    },
     "https://idp-idm.unibg.it/idp/shibboleth": {
         "en": "University of Bergamo",
         "it": "Universita' degli studi di Bergamo"

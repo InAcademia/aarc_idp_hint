@@ -803,10 +803,6 @@
         "en": "UNP - Universidade Potiguar",
         "pt-br": "UNP - Universidade Potiguar"
     },
-    "https://shibboleth.uricer.edu.br/idp/shibboleth": {
-        "en": "URI - ERECHIM - - Universidade Regional Integrada do Alto Uruguai e das Missoes",
-        "pt-br": "URI - ERECHIM - - Universidade Regional Integrada do Alto Uruguai e das Missoes"
-    },
     "https://shibboleth.utfpr.edu.br/idp/shibboleth": {
         "en": "UTFPR - Universidade Tecnologica Federal do Parana",
         "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
@@ -890,6 +886,10 @@
     "https://ugin.ufpe.br/idp/shibboleth": {
         "en": "UFPE - Universidade Federal de Pernambuco",
         "pt-br": "UFPE - Universidade Federal de Pernambuco"
+    },
+    "https://uricafe.uricer.edu.br/idp/shibboleth": {
+        "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
+        "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
     },
     "https://uter.ufob.edu.br/idp/shibboleth": {
         "en": "UFOB - Universidade Federal do Oeste da Bahia",
