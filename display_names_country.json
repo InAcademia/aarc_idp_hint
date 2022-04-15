@@ -402,7 +402,7 @@
             "fr": "Universite Saint-Louis - Bruxelles"
         },
         "https://fs.kbr.be/adfs/services/trust": {
-            "en": "Koninklijke Bibliotheek - BibliothÃ¨que royale"
+            "en": "Koninklijke Bibliotheek - Bibliotheque royale"
         },
         "https://identity.ugent.be/simplesaml/saml2/idp/metadata.php": {
             "en": "Ghent University",
@@ -683,6 +683,10 @@
         "https://cafe.pucminas.br/idp/shibboleth": {
             "en": "PUC MINAS - pontificia Universidade Catolica de Minas Gerais",
             "pt-br": "PUC MINAS - pontificia Universidade Catolica de Minas Gerais"
+        },
+        "https://cafe.pucpr.br/idp/shibboleth": {
+            "en": "PUCPR - Pontificia Universidade Catolica do Parana",
+            "pt-br": "PUCPR - Pontificia Universidade Catolica do Parana"
         },
         "https://cafe.rn.senai.br/idp/shibboleth": {
             "en": "CTGAS-ER - Centro de Tecnologias do Gas e Energias Renovaveis",
@@ -1300,10 +1304,6 @@
             "en": "UFLA - Universidade Federal de Lavras",
             "pt-br": "UFLA - Universidade Federal de Lavras"
         },
-        "https://shibboleth.ufms.br/idp/shibboleth": {
-            "en": "UFMS - Universidade Federal de Mato Grosso do Sul",
-            "pt-br": "UFMS - Universidade Federal de Mato Grosso do Sul"
-        },
         "https://shibboleth.ufrj.br/idp/shibboleth": {
             "en": "UFRJ - Universidade Federal do Rio de Janeiro",
             "pt-br": "UFRJ - Universidade Federal do Rio de Janeiro"
@@ -1371,6 +1371,10 @@
         "https://shibboleth2.ifam.edu.br/idp/shibboleth": {
             "en": "IFAM - Instituto Federal de Ciencia e Tecnologia do Amazonas",
             "pt-br": "IFAM - Instituto Federal de Ciencia e Tecnologia do Amazonas"
+        },
+        "https://shibboleth4.ufms.br/idp/shibboleth": {
+            "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
+            "pt-br": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul"
         },
         "https://shibboleth4.ufrn.edu.br/idp/shibboleth": {
             "en": "UFRN - Universidade Federal do Rio Grande do Norte",
@@ -16212,6 +16216,9 @@
         },
         "https://idp.eup.edinboro.edu/idp/shibboleth": {
             "en": "Edinboro University of Pennsylvania"
+        },
+        "https://idp.famu.edu:443/idp/shibboleth": {
+            "en": "Florida A&M University"
         },
         "https://idp.fdu.edu/idp/shibboleth": {
             "en": "Fairleigh Dickinson University"
