@@ -840,6 +840,10 @@
             "en": "UFS - Universidade Federal de Sergipe",
             "pt-br": "UFS - Universidade Federal de Sergipe"
         },
+        "https://epamigrnp.epamig.br/idp/shibboleth": {
+            "en": "EPAMIG - Empresa de de Pesquisa Agropecuaria de Minas Gerais",
+            "pt-br": "EPAMIG - Empresa de de Pesquisa Agropecuaria de Minas Gerais"
+        },
         "https://federacao-1.hcpa.edu.br/idp/shibboleth": {
             "en": "HCPA - Hospital de Clinicas de Porto Alegre",
             "pt-br": "HCPA - Hospital de Clinicas de Porto Alegre"
@@ -927,10 +931,6 @@
         "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
             "en": "SOBERANA - Faculdade de Saude de Petrolina",
             "pt-br": "SOBERANA - Faculdade de Saude de Petrolina"
-        },
-        "https://idp.ifal.edu.br/idp/shibboleth": {
-            "en": "IFAL - Instituto Federal de Alagoas",
-            "pt-br": "IFAL - Instituto Federal de Alagoas"
         },
         "https://idp.ifg.edu.br/idp/shibboleth": {
             "en": "IFG - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DE GOIAS",
@@ -1032,13 +1032,13 @@
             "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
             "pt-br": "USCS - Universidade Municipal de Sao Caetano do Sul"
         },
-        "https://idp01.ifc.edu.br/idp/shibboleth": {
-            "en": "IFC - Instituto Federal Catarinense",
-            "pt-br": "IFC - Instituto Federal Catarinense"
-        },
         "https://idp01.ufsm.br/idp/shibboleth": {
             "en": "UFSM - Universidade Federal de Santa Maria",
             "pt-br": "UFSM - Universidade Federal de Santa Maria"
+        },
+        "https://idp02.ifc.edu.br/idp/shibboleth": {
+            "en": "IFC - Instituto Federal Catarinense",
+            "pt-br": "IFC - Instituto Federal Catarinense"
         },
         "https://idp2.ifmg.edu.br/idp/shibboleth": {
             "en": "IFMG - Instituto Federal de Minas Gerais",
@@ -1227,6 +1227,10 @@
         "https://shibboleth.cp2.g12.br/idp/shibboleth": {
             "en": "CPII - Colegio Pedro II",
             "pt-br": "CPII - Colegio Pedro II"
+        },
+        "https://shibboleth.ifal.edu.br/idp/shibboleth": {
+            "en": "IFAL - Instituto Federal de Alagoas",
+            "pt-br": "IFAL - Instituto Federal de Alagoas"
         },
         "https://shibboleth.ifmt.edu.br/idp/shibboleth": {
             "en": "IFMT - Instituto Federal de Mato Grosso",
