@@ -711,6 +711,10 @@
         "de": "UniBw München",
         "en": "UniBw Munich"
     },
+    "https://idp.sankt-georgen.de/idp/shibboleth": {
+        "de": "Philosophisch-Theologische Hochschule Sankt Georgen",
+        "en": "Philosophisch-Theologische Hochschule Sankt Georgen"
+    },
     "https://idp.scc.kit.edu/idp/shibboleth": {
         "de": "Karlsruher Institut für Technologie (KIT)",
         "en": "Karlsruhe Institute of Technology (KIT)"
