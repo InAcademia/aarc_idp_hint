@@ -326,9 +326,6 @@
     "https://idp.cwu.edu/idp/shibboleth": {
         "en": "Central Washington University"
     },
-    "https://idp.davidsonccc.edu/idp/shibboleth": {
-        "en": "Davidson County Community College"
-    },
     "https://idp.depauw.edu/openathens": {
         "en": "DePauw University InCommon IDP"
     },
