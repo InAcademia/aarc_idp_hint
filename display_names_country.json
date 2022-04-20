@@ -720,6 +720,10 @@
             "en": "UFMG - Universidade Federal de Minas Gerais",
             "pt-br": "UFMG - Universidade Federal de Minas Gerais"
         },
+        "https://cafe.ufpa.br/idp/shibboleth": {
+            "en": "UFPA - Universidade Federal do Para",
+            "pt-br": "UFPA - Universidade Federal do Para"
+        },
         "https://cafe.ufpb.br/idp/shibboleth": {
             "en": "UFPB - Universidade Federal da Paraiba",
             "pt-br": "UFPB - Universidade Federal da Paraiba"
@@ -960,6 +964,10 @@
             "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
             "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
         },
+        "https://idp.mast.br/idp/shibboleth": {
+            "en": "MAST - Museu de Astronomia e Ciencias Afins",
+            "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
+        },
         "https://idp.puc-campinas.edu.br/idp/shibboleth": {
             "en": "PUCCAMP - Pontificia Universidade Catolica de Campinas",
             "pt-br": "PUCCAMP - Pontificia Universidade Catolica de Campinas"
@@ -983,10 +991,6 @@
         "https://idp.ufmt.br/idp/shibboleth": {
             "en": "UFMT - Universidade Federal de Mato Grosso",
             "pt-br": "UFMT - Universidade Federal de Mato Grosso"
-        },
-        "https://idp.ufpa.br/idp/shibboleth": {
-            "en": "UFPA - Universidade Federal do Para",
-            "pt-br": "UFPA - Universidade Federal do Para"
         },
         "https://idp.ufr.edu.br/idp/shibboleth": {
             "en": "UFR - Universidade Federal de Rondonopolis",
@@ -3258,6 +3262,10 @@
         "https://idp.nuaa.edu.cn/idp/shibboleth": {
             "en": "Nanjing University of Aeronautics and Astronautics",
             "zh": "南京航空航天大学(Nanjing University of Aeronautics and Astronautics)"
+        },
+        "https://idp.nudt.edu.cn/idp/shibboleth": {
+            "en": "National University of Defense and Technology",
+            "zh": "国防科技大学(National University of Defense and Technology)"
         },
         "https://idp.nvu.edu.cn/idp/shibboleth": {
             "en": "Nanchang Vocational University",
@@ -6577,14 +6585,6 @@
             "en": "Dania Academy"
         }
     },
-    "dz": {
-        "https://idp.grid.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science GRID IDP"
-        },
-        "https://med-idp.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science MEDECINE IDP"
-        }
-    },
     "ec": {
         "https://login.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
@@ -6797,10 +6797,6 @@
         "https://login.ueb.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Estatal de Bolivar - ueb",
             "es": "Universidad Estatal de Bolivar - ueb"
-        },
-        "https://login.uejavier.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Javier - uejavier",
-            "es": "Unidad Educativa Javier - uejavier"
         },
         "https://login.uesmae.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Salesiana María Auxiliadora Esmeraldas - uesmae",
@@ -7706,7 +7702,7 @@
             "fr": "Ecole Nationale Supérieure de Chimie Paris"
         },
         "https://auth.cnous.fr/idp/shibboleth": {
-            "en": "Cnous IDP",
+            "en": "CNOUS - Personnel",
             "fr": "CNOUS - Personnel"
         },
         "https://auth.crous-caen.fr/idp/shibboleth": {
@@ -8543,7 +8539,7 @@
         },
         "https://papangue.vetagro-sup.fr/idp/shibboleth": {
             "en": "IDP vetagro sup PROD",
-            "fr": "IDP vetagro sup PROD"
+            "fr": "Vetagro Sup Lyon"
         },
         "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": {
             "en": "CAMPUS CONDORCET",
@@ -12940,6 +12936,10 @@
             "en": "Samara University",
             "ru": "Самарский университет"
         },
+        "https://cas.spbstu.ru/idp": {
+            "en": "Peter the Great Saint-Petersburg Polytechnic University",
+            "ru": "Санкт-Петербургский политехнический университет Петра Великого"
+        },
         "https://edugain.tpu.ru/idp/shibboleth": {
             "en": "TPU IdP",
             "ru": "ТПУ IdP"
@@ -12948,9 +12948,41 @@
             "en": "RUNNET IDP",
             "ru": "RUNNET IDP"
         },
+        "https://idp.bashedu.ru/idp/shibboleth": {
+            "en": "Bashkir State University",
+            "ru": "Башкирский государственный университет"
+        },
+        "https://idp.fedurus.ru/idp/shibboleth": {
+            "en": "FEDURUS",
+            "ru": "ФЕДУРУС"
+        },
         "https://idp.lib.sfedu.ru/idp/shibboleth": {
             "en": "Southern Federal University",
             "ru": "Южный Федеральный Университет"
+        },
+        "https://idp.spbu.ru/idp/shibboleth": {
+            "en": "Saint-Petersburg State University",
+            "ru": "Санкт-Петербургский государственный университет"
+        },
+        "https://idp.ufa-rb.ru/idp/shibboleth": {
+            "en": "Ufa State Aviation Technical University",
+            "ru": "Уфимский государственный авиационный технический университет"
+        },
+        "https://idp.utmn.ru/idp/shibboleth": {
+            "en": "Tyumen State University",
+            "ru": "Тюменский государственный университет"
+        },
+        "https://libidp.pstu.ru/idp/shibboleth": {
+            "en": "Perm National Research Polytechnic University",
+            "ru": "Пермский национальный исследовательский политехнический университет"
+        },
+        "https://services.ifmo.ru/idp/shibboleth": {
+            "en": "ITMO University",
+            "ru": "Санкт-Петербургский национальный исследовательский университет информационных технологий, механики и оптики"
+        },
+        "https://shib.kpfu.ru/idp/shibboleth": {
+            "en": "Kazan Federal University",
+            "ru": "Казанский федеральный университет"
         }
     },
     "sa": {
@@ -13773,6 +13805,10 @@
             "en": "Osmaniye Korkut Ata University",
             "tr": "Osmaniye Korkut Ata Üniversitesi"
         },
+        "https://kimlik.ktun.edu.tr/idp/shibboleth": {
+            "en": "Konya Technical University",
+            "tr": "Konya Teknik Üniversitesi"
+        },
         "https://kimlik.mehmetakif.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Burdur Mehmet Akif Ersoy University",
             "tr": "Burdur Mehmet Akif Ersoy Üniversitesi"
@@ -13900,6 +13936,10 @@
         "https://yetkim.hku.edu.tr/idp/shibboleth": {
             "en": "Hasan Kalyoncu University",
             "tr": "Hasan Kalyoncu Üniversitesi"
+        },
+        "https://yetkim.ikc.edu.tr/idp/shibboleth": {
+            "en": "Izmir Katip Celebi University  yetkim.ikc.edu.tr",
+            "tr": "İzmir Kâtip Çelebi Üniversitesi"
         },
         "https://yetkim.iku.edu.tr/idp/shibboleth": {
             "en": "İstanbul Kültür University",

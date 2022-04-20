@@ -1207,6 +1207,10 @@
         "en": "Nanjing University of Aeronautics and Astronautics",
         "zh": "南京航空航天大学(Nanjing University of Aeronautics and Astronautics)"
     },
+    "https://idp.nudt.edu.cn/idp/shibboleth": {
+        "en": "National University of Defense and Technology",
+        "zh": "国防科技大学(National University of Defense and Technology)"
+    },
     "https://idp.nvu.edu.cn/idp/shibboleth": {
         "en": "Nanchang Vocational University",
         "zh": "南昌职业大学(Nanchang Vocational University)"

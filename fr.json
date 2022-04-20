@@ -48,7 +48,7 @@
         "fr": "Ecole Nationale Supérieure de Chimie Paris"
     },
     "https://auth.cnous.fr/idp/shibboleth": {
-        "en": "Cnous IDP",
+        "en": "CNOUS - Personnel",
         "fr": "CNOUS - Personnel"
     },
     "https://auth.crous-caen.fr/idp/shibboleth": {
@@ -885,7 +885,7 @@
     },
     "https://papangue.vetagro-sup.fr/idp/shibboleth": {
         "en": "IDP vetagro sup PROD",
-        "fr": "IDP vetagro sup PROD"
+        "fr": "Vetagro Sup Lyon"
     },
     "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": {
         "en": "CAMPUS CONDORCET",

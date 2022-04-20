@@ -171,6 +171,10 @@
         "en": "UFMG - Universidade Federal de Minas Gerais",
         "pt-br": "UFMG - Universidade Federal de Minas Gerais"
     },
+    "https://cafe.ufpa.br/idp/shibboleth": {
+        "en": "UFPA - Universidade Federal do Para",
+        "pt-br": "UFPA - Universidade Federal do Para"
+    },
     "https://cafe.ufpb.br/idp/shibboleth": {
         "en": "UFPB - Universidade Federal da Paraiba",
         "pt-br": "UFPB - Universidade Federal da Paraiba"
@@ -411,6 +415,10 @@
         "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
         "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
     },
+    "https://idp.mast.br/idp/shibboleth": {
+        "en": "MAST - Museu de Astronomia e Ciencias Afins",
+        "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
+    },
     "https://idp.puc-campinas.edu.br/idp/shibboleth": {
         "en": "PUCCAMP - Pontificia Universidade Catolica de Campinas",
         "pt-br": "PUCCAMP - Pontificia Universidade Catolica de Campinas"
@@ -434,10 +442,6 @@
     "https://idp.ufmt.br/idp/shibboleth": {
         "en": "UFMT - Universidade Federal de Mato Grosso",
         "pt-br": "UFMT - Universidade Federal de Mato Grosso"
-    },
-    "https://idp.ufpa.br/idp/shibboleth": {
-        "en": "UFPA - Universidade Federal do Para",
-        "pt-br": "UFPA - Universidade Federal do Para"
     },
     "https://idp.ufr.edu.br/idp/shibboleth": {
         "en": "UFR - Universidade Federal de Rondonopolis",

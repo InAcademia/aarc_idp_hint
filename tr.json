@@ -303,6 +303,10 @@
         "en": "Osmaniye Korkut Ata University",
         "tr": "Osmaniye Korkut Ata Üniversitesi"
     },
+    "https://kimlik.ktun.edu.tr/idp/shibboleth": {
+        "en": "Konya Technical University",
+        "tr": "Konya Teknik Üniversitesi"
+    },
     "https://kimlik.mehmetakif.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Burdur Mehmet Akif Ersoy University",
         "tr": "Burdur Mehmet Akif Ersoy Üniversitesi"
@@ -430,6 +434,10 @@
     "https://yetkim.hku.edu.tr/idp/shibboleth": {
         "en": "Hasan Kalyoncu University",
         "tr": "Hasan Kalyoncu Üniversitesi"
+    },
+    "https://yetkim.ikc.edu.tr/idp/shibboleth": {
+        "en": "Izmir Katip Celebi University  yetkim.ikc.edu.tr",
+        "tr": "İzmir Kâtip Çelebi Üniversitesi"
     },
     "https://yetkim.iku.edu.tr/idp/shibboleth": {
         "en": "İstanbul Kültür University",
