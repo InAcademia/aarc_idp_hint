@@ -2375,6 +2375,10 @@
             "en": "Beijing Union University",
             "zh": "北京联合大学(Beijing Union University)"
         },
+        "https://idp.bzmc.edu.cn/idp/shibboleth": {
+            "en": "Binzhou Medical University",
+            "zh": "滨州医学院(Binzhou Medical University)"
+        },
         "https://idp.cafa.edu.cn/idp/shibboleth": {
             "en": "The Central Academy of Fine Arts",
             "zh": "中央美术学院(The Central Academy of Fine Arts)"
@@ -8484,6 +8488,10 @@
         "https://idp4.bordeaux-inp.fr/idp/shibboleth": {
             "en": "Test Bordeaux INP",
             "fr": "Test Bordeaux INP"
+        },
+        "https://idp4.cereq.fr/idp/shibboleth": {
+            "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V4",
+            "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V4"
         },
         "https://idpprod.ciep.fr/idp/shibboleth": {
             "en": "CIEP / France Education International",

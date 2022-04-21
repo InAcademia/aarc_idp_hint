@@ -831,6 +831,10 @@
         "en": "Test Bordeaux INP",
         "fr": "Test Bordeaux INP"
     },
+    "https://idp4.cereq.fr/idp/shibboleth": {
+        "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V4",
+        "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V4"
+    },
     "https://idpprod.ciep.fr/idp/shibboleth": {
         "en": "CIEP / France Education International",
         "fr": "CIEP / France Education International"
