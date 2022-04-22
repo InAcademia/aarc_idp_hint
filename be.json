@@ -102,9 +102,6 @@
     "https://idp.vub.be/idp/sso": {
         "en": "Vrije Universiteit Brussel"
     },
-    "https://idpstaff-ha.belnet.be/idp/shibboleth": {
-        "en": "Belnet"
-    },
     "https://idpx.ua.ac.be/idp/shibboleth": {
         "en": "Universiteit Antwerpen"
     },

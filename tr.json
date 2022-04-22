@@ -367,6 +367,10 @@
         "en": "Uskudar University",
         "tr": "Üsküdar Üniversitesi"
     },
+    "https://kimlik.yalova.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Yalova University",
+        "tr": "Yalova Üniversitesi"
+    },
     "https://kimlik.yeditepe.edu.tr/idp/shibboleth": {
         "en": "Yeditepe University",
         "tr": "Yeditepe Üniversitesi"

@@ -483,9 +483,6 @@
         "https://idp.vub.be/idp/sso": {
             "en": "Vrije Universiteit Brussel"
         },
-        "https://idpstaff-ha.belnet.be/idp/shibboleth": {
-            "en": "Belnet"
-        },
         "https://idpx.ua.ac.be/idp/shibboleth": {
             "en": "Universiteit Antwerpen"
         },
@@ -8006,7 +8003,7 @@
             "fr": "CROUS Lorraine"
         },
         "https://idp.crous-normandie.fr/idp/shibboleth": {
-            "en": "CROUS Normandie - Employees v3",
+            "en": "CROUS Normandie - Personnels v3",
             "fr": "CROUS Normandie - Personnels v3"
         },
         "https://idp.crous-paris.fr/idp/shibboleth": {
@@ -13876,6 +13873,10 @@
         "https://kimlik.uskudar.edu.tr/idp/shibboleth": {
             "en": "Uskudar University",
             "tr": "Üsküdar Üniversitesi"
+        },
+        "https://kimlik.yalova.edu.tr/simplesaml/saml2/idp/metadata.php": {
+            "en": "Yalova University",
+            "tr": "Yalova Üniversitesi"
         },
         "https://kimlik.yeditepe.edu.tr/idp/shibboleth": {
             "en": "Yeditepe University",
