@@ -1331,6 +1331,10 @@
         "de": "Leibniz Universität Hannover",
         "en": "Leibniz Universität Hannover"
     },
+    "https://sso.law-school.de/idp/shibboleth": {
+        "de": "Bucerius Law School gGmbH",
+        "en": "Bucerius Law School gGmbH"
+    },
     "https://sso.mpic.de/auth/saml2/idp/metadata.php": {
         "de": "Max-Planck-Institut für Chemie",
         "en": "Max-Planck-Institute for Chemistry"
