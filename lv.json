@@ -11,7 +11,7 @@
     "https://idp.llu.lv/idp/shibboleth": {
         "en": "Latvia University of Agriculture"
     },
-    "https://idp.rtu.lv/simplesaml/saml2/idp/metadata.php": {
+    "https://idp.rtu.lv": {
         "en": "Riga Technical University (Pilot)"
     },
     "https://lanet-idp.lanet.lv": {

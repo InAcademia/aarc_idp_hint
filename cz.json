@@ -275,6 +275,10 @@
         "cs": "Metropolitní univerzita Praha, o.p.s.",
         "en": "Metropolitan university Prague"
     },
+    "https://idp.mvso.cz/idp/shibboleth": {
+        "cs": "Moravská vysoká škola Olomouc, o.p.s.",
+        "en": "Moravian Business College Olomouc"
+    },
     "https://idp.nbu.cz/idp/shibboleth": {
         "cs": "NBU",
         "en": "NBU"

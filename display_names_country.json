@@ -1233,6 +1233,10 @@
             "en": "IFAL - Instituto Federal de Alagoas",
             "pt-br": "IFAL - Instituto Federal de Alagoas"
         },
+        "https://shibboleth.ifam.edu.br/idp/shibboleth": {
+            "en": "IFAM - Instituto Federal do Amazonas",
+            "pt-br": "IFAM - Instituto Federal do Amazonas"
+        },
         "https://shibboleth.ifmt.edu.br/idp/shibboleth": {
             "en": "IFMT - Instituto Federal de Mato Grosso",
             "pt-br": "IFMT - Instituto Federal de Mato Grosso"
@@ -1372,10 +1376,6 @@
         "https://shibboleth1.uesc.br/idp/shibboleth": {
             "en": "UESC - Universidade Estadual de Santa Cruz",
             "pt-br": "UESC - Universidade Estadual de Santa Cruz"
-        },
-        "https://shibboleth2.ifam.edu.br/idp/shibboleth": {
-            "en": "IFAM - Instituto Federal de Ciencia e Tecnologia do Amazonas",
-            "pt-br": "IFAM - Instituto Federal de Ciencia e Tecnologia do Amazonas"
         },
         "https://shibboleth4.ufms.br/idp/shibboleth": {
             "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
@@ -4427,6 +4427,10 @@
         "https://idp.mup.cz/idp/shibboleth": {
             "cs": "Metropolitní univerzita Praha, o.p.s.",
             "en": "Metropolitan university Prague"
+        },
+        "https://idp.mvso.cz/idp/shibboleth": {
+            "cs": "Moravská vysoká škola Olomouc, o.p.s.",
+            "en": "Moravian Business College Olomouc"
         },
         "https://idp.nbu.cz/idp/shibboleth": {
             "cs": "NBU",
@@ -11210,7 +11214,7 @@
         "https://idp.llu.lv/idp/shibboleth": {
             "en": "Latvia University of Agriculture"
         },
-        "https://idp.rtu.lv/simplesaml/saml2/idp/metadata.php": {
+        "https://idp.rtu.lv": {
             "en": "Riga Technical University (Pilot)"
         },
         "https://lanet-idp.lanet.lv": {
