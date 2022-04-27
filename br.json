@@ -487,13 +487,13 @@
         "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
         "pt-br": "USCS - Universidade Municipal de Sao Caetano do Sul"
     },
-    "https://idp01.ufsm.br/idp/shibboleth": {
-        "en": "UFSM - Universidade Federal de Santa Maria",
-        "pt-br": "UFSM - Universidade Federal de Santa Maria"
-    },
     "https://idp02.ifc.edu.br/idp/shibboleth": {
         "en": "IFC - Instituto Federal Catarinense",
         "pt-br": "IFC - Instituto Federal Catarinense"
+    },
+    "https://idp02.ufsm.br/idp/shibboleth": {
+        "en": "UFSM - Universidade Federal de Santa Maria",
+        "pt-br": "UFSM - Universidade Federal de Santa Maria"
     },
     "https://idp2.ifmg.edu.br/idp/shibboleth": {
         "en": "IFMG - Instituto Federal de Minas Gerais",
