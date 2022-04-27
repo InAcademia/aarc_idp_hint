@@ -5114,6 +5114,10 @@
             "de": "EHB - IdP",
             "en": "EHB - IdP"
         },
+        "https://idp.eh-darmstadt.de/idp/shibboleth": {
+            "de": "Evangelische Hochschule Darmstadt",
+            "en": "Evangelische Hochschule Darmstadt"
+        },
         "https://idp.esmt.org/idp/shibboleth": {
             "de": "ESMT Berlin",
             "en": "ESMT Berlin"
