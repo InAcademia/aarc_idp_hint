@@ -463,6 +463,10 @@
         "en": "Kastamonu University",
         "tr": "Kastamonu Üniversitesi"
     },
+    "https://yetkim.khas.edu.tr/idp/shibboleth": {
+        "en": "Kadir Has University",
+        "tr": "Kadir Has Üniversitesi"
+    },
     "https://yetkim.klu.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Kirklareli University",
         "tr": "Kırklareli Üversitesi"
