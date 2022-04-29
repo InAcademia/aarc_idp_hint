@@ -151,6 +151,10 @@
         "en": "University of Pécs",
         "hu": "Pécsi Tudományegyetem"
     },
+    "https://idp.rfmlib.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Ferenc II. Rákóczi County and City Library",
+        "hu": "II. Rákóczi Ferenc Megyei és Városi Könyvtár"
+    },
     "https://idp.sapientia.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Sapientia College of Theology of Religious Orders",
         "hu": "Sapientia Szerzetesi Hittudományi Főiskola"

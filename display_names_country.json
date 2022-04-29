@@ -1113,6 +1113,10 @@
             "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui",
             "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui"
         },
+        "https://idprnp.univates.br/idp/shibboleth": {
+            "en": "UNIVATES - Universidade UNIVATES",
+            "pt-br": "UNIVATES - Universidade UNIVATES"
+        },
         "https://idpsaocamilosp.saocamilo-sp.br/idp/shibboleth": {
             "en": "CUSC - Centro Universitario Sao Camilo",
             "pt-br": "CUSC - Centro Universitario Sao Camilo"
@@ -1352,10 +1356,6 @@
         "https://shibboleth.univale.br/idp/shibboleth": {
             "en": "UNIVALE - Universidade Vale do Rio Doce - UNIVALE",
             "pt-br": "UNIVALE - Universidade Vale do Rio Doce - UNIVALE"
-        },
-        "https://shibboleth.univates.br/idp/shibboleth": {
-            "en": "UNIVATES - Fundacao Vale do Taquari de Educacao e Desenvolvimento Social",
-            "pt-br": "UNIVATES - Fundacao Vale do Taquari de Educacao e Desenvolvimento Social"
         },
         "https://shibboleth.unp.br/idp/shibboleth": {
             "en": "UNP - Universidade Potiguar",
@@ -3919,6 +3919,10 @@
         "https://idp.ycit.edu.cn/idp/shibboleth": {
             "en": "Yancheng Institute of Technology",
             "zh": "盐城工学院(Yancheng Institute of Technology )"
+        },
+        "https://idp.ynftc.edu.cn/idp/shibboleth": {
+            "en": "Yunnan Forestry Technological College",
+            "zh": "云南林业职业技术学院(Yunnan Forestry Technological College)"
         },
         "https://idp.ynnu.edu.cn/idp/shibboleth": {
             "en": "Yunnan Normal University",
@@ -6592,6 +6596,14 @@
         "https://wayfeadania.itcn.dk/simplesaml/saml2/idp/metadata.php": {
             "da": "Erhvervsakademi Dania",
             "en": "Dania Academy"
+        }
+    },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
         }
     },
     "ec": {
@@ -9418,6 +9430,10 @@
         "https://idp.pte.hu/saml2/idp/metadata.php": {
             "en": "University of Pécs",
             "hu": "Pécsi Tudományegyetem"
+        },
+        "https://idp.rfmlib.hu/simplesaml/saml2/idp/metadata.php": {
+            "en": "Ferenc II. Rákóczi County and City Library",
+            "hu": "II. Rákóczi Ferenc Megyei és Városi Könyvtár"
         },
         "https://idp.sapientia.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Sapientia College of Theology of Religious Orders",

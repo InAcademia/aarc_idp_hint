@@ -567,6 +567,10 @@
         "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui",
         "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui"
     },
+    "https://idprnp.univates.br/idp/shibboleth": {
+        "en": "UNIVATES - Universidade UNIVATES",
+        "pt-br": "UNIVATES - Universidade UNIVATES"
+    },
     "https://idpsaocamilosp.saocamilo-sp.br/idp/shibboleth": {
         "en": "CUSC - Centro Universitario Sao Camilo",
         "pt-br": "CUSC - Centro Universitario Sao Camilo"
@@ -806,10 +810,6 @@
     "https://shibboleth.univale.br/idp/shibboleth": {
         "en": "UNIVALE - Universidade Vale do Rio Doce - UNIVALE",
         "pt-br": "UNIVALE - Universidade Vale do Rio Doce - UNIVALE"
-    },
-    "https://shibboleth.univates.br/idp/shibboleth": {
-        "en": "UNIVATES - Fundacao Vale do Taquari de Educacao e Desenvolvimento Social",
-        "pt-br": "UNIVATES - Fundacao Vale do Taquari de Educacao e Desenvolvimento Social"
     },
     "https://shibboleth.unp.br/idp/shibboleth": {
         "en": "UNP - Universidade Potiguar",
