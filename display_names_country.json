@@ -589,6 +589,10 @@
             "en": "FAP - Fundacao Antonio Prudente",
             "pt-br": "FAP - Fundacao Antonio Prudente"
         },
+        "https://cafe.cbpf.br/idp/shibboleth": {
+            "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
+            "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
+        },
         "https://cafe.cti.gov.br/idp/shibboleth": {
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer",
             "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
@@ -664,10 +668,6 @@
         "https://cafe.int.gov.br/idp/shibboleth": {
             "en": "INT - Instituto Nacional de Tecnologia",
             "pt-br": "INT - Instituto Nacional de Tecnologia"
-        },
-        "https://cafe.mcom.gov.br/idp/shibboleth": {
-            "en": "MCOM - Ministerio das Comunicacoes",
-            "pt-br": "MCOM - Ministerio das Comunicacoes"
         },
         "https://cafe.mcti.gov.br/idp/shibboleth": {
             "en": "MCTI - Ministerio da Ciencia Tecnologia e Inovacoes",
@@ -781,10 +781,6 @@
             "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
             "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
         },
-        "https://cafe2cbpf.cbpf.br/idp/shibboleth": {
-            "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
-            "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
-        },
         "https://cafe33.setic.ufsc.br/idp/shibboleth": {
             "en": "UFSC - Universidade Federal de Santa Catarina",
             "pt-br": "UFSC - Universidade Federal de Santa Catarina"
@@ -864,6 +860,10 @@
         "https://idp-cafe.ifrr.edu.br/idp/shibboleth": {
             "en": "IFRR - Instituto Federal de Roraima",
             "pt-br": "IFRR - Instituto Federal de Roraima"
+        },
+        "https://idp-cafe.ifs.edu.br/idp/shibboleth": {
+            "en": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe",
+            "pt-br": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe"
         },
         "https://idp-cafe.ifsertao-pe.edu.br/idp/shibboleth": {
             "en": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano",
@@ -1188,6 +1188,10 @@
         "https://pitomba.unifesspa.edu.br/idp/shibboleth": {
             "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
             "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
+        },
+        "https://plv037.mcom.gov.br/idp/shibboleth": {
+            "en": "MCOM - Ministerio das Comunicacoes",
+            "pt-br": "MCOM - Ministerio das Comunicacoes"
         },
         "https://prdidm01.mec.gov.br/idp/shibboleth": {
             "en": "MEC - Ministerio da Educacao",
@@ -13574,6 +13578,10 @@
             "en": "Ihsan Dogramaci Bilkent University",
             "tr": "İhsan Doğramacı Bilkent Üniversitesi"
         },
+        "https://idp.cu.edu.tr/saml2/idp/metadata.php": {
+            "en": "Çukurova University",
+            "tr": "Çukurova Ünivesitesi"
+        },
         "https://idp.esenyurt.edu.tr/idp/shibboleth": {
             "en": "Istanbul Esenyurt University",
             "tr": "İstanbul Esenyurt Üniversitesi"
@@ -13689,6 +13697,10 @@
         "https://idp.yasar.edu.tr/idp/shibboleth": {
             "en": "Yasar University",
             "tr": "Yaşar Üniversitesi"
+        },
+        "https://kds.ankara.edu.tr/idp/shibboleth": {
+            "en": "Ankara University",
+            "tr": "Ankara Üniversitesi"
         },
         "https://kimlik.29mayis.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "29 Mayis University",

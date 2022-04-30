@@ -43,6 +43,10 @@
         "en": "Ihsan Dogramaci Bilkent University",
         "tr": "İhsan Doğramacı Bilkent Üniversitesi"
     },
+    "https://idp.cu.edu.tr/saml2/idp/metadata.php": {
+        "en": "Çukurova University",
+        "tr": "Çukurova Ünivesitesi"
+    },
     "https://idp.esenyurt.edu.tr/idp/shibboleth": {
         "en": "Istanbul Esenyurt University",
         "tr": "İstanbul Esenyurt Üniversitesi"
@@ -158,6 +162,10 @@
     "https://idp.yasar.edu.tr/idp/shibboleth": {
         "en": "Yasar University",
         "tr": "Yaşar Üniversitesi"
+    },
+    "https://kds.ankara.edu.tr/idp/shibboleth": {
+        "en": "Ankara University",
+        "tr": "Ankara Üniversitesi"
     },
     "https://kimlik.29mayis.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "29 Mayis University",
