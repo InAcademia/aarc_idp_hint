@@ -59,6 +59,10 @@
         "en": "UNL - Escola Nacional de Saúde Pública",
         "pt": "UNL - Escola Nacional de Saúde Pública"
     },
+    "https://idp.esac.pt/idp/shibboleth": {
+        "en": "IPC - Escola Superior Agraria de Coimbra",
+        "pt": "IPC - Escola Superior Agraria de Coimbra"
+    },
     "https://idp.esav.ipv.pt/idp/shibboleth": {
         "en": "Escola Superior Agrária de Viseu",
         "pt": "Escola Superior Agrária de Viseu"
@@ -86,6 +90,10 @@
     "https://idp.estgl.ipv.pt/idp/shibboleth": {
         "en": "Escola Superior de Tecnologia e Gestão de Lamego",
         "pt": "Escola Superior de Tecnologia e Gestão de Lamego"
+    },
+    "https://idp.estgoh.ipc.pt/idp/shibboleth": {
+        "en": "IPC - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital",
+        "pt": "IPC - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital"
     },
     "https://idp.estgv.ipv.pt/idp/shibboleth": {
         "en": "Escola Superior de Tecnologia e Gestão de Viseu",
@@ -182,6 +190,10 @@
     "https://idp.iscte-iul.pt/idp/shibboleth": {
         "en": "ISCTE - Instituto Universitario de Lisboa",
         "pt": "ISCTE - Instituto Universitario de Lisboa"
+    },
+    "https://idp.isec.pt/idp/shibboleth": {
+        "en": "IPC - Instituto Superior de Engenharia de Coimbra",
+        "pt": "IPC - Instituto Superior de Engenharia de Coimbra"
     },
     "https://idp.iseclisboa.pt/idp/shibboleth": {
         "en": "ISEC Lisboa",

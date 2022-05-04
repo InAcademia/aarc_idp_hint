@@ -143,6 +143,10 @@
         "en": "ENSCI - French national institute for advanced studies in industrial design",
         "fr": "ENSCI - ÉCOLE NATIONALE SUPÉRIEURE DE CRÉATION INDUSTRIELLE"
     },
+    "https://estienne-idps.hesam.eu/idp/shibboleth": {
+        "en": "Estienne school",
+        "fr": "Ecole Estienne"
+    },
     "https://federation-identite.univ-paris13.fr/idp/shibboleth": {
         "en": "University Paris 13",
         "fr": "Université Paris 13"
@@ -792,8 +796,8 @@
         "fr": "Université Paris 8 - Vincennes"
     },
     "https://idp3.cereq.fr/idp/shibboleth": {
-        "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications",
-        "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications"
+        "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V3",
+        "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V3"
     },
     "https://idp3.cyceron.fr/idp/shibboleth": {
         "en": "Cyceron",
