@@ -383,10 +383,6 @@
         "http://adfs.ilvo.be/adfs/services/trust": {
             "en": "Instituut voor Landbouw-, Visserij- en Voedingsonderzoek"
         },
-        "http://adfsvalid.bgda.cra.wallonie.be/adfs/services/trust": {
-            "en": "CRA-W",
-            "fr": "CRA-W"
-        },
         "https://accounts.google.com/o/saml2?idpid=C02lghgox": {
             "en": "IAD-ARTS"
         },
@@ -437,6 +433,10 @@
         "https://idp.condorcet.be/idp/shibboleth": {
             "en": "Haute Ecole Condorcet (HEPH-Condorcet)",
             "fr": "Haute Ecole Condorcet (HEPH-Condorcet)"
+        },
+        "https://idp.cra.wallonie.be/idp/shibboleth": {
+            "en": "https://idp.cra.wallonie.be/idp/shibboleth",
+            "fr": "CRA-W"
         },
         "https://idp.eduhainaut.be/idp/shibboleth": {
             "en": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)",
@@ -801,7 +801,7 @@
             "en": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira",
             "pt-br": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira"
         },
-        "https://cafernp.ipt.br/idp/shibboleth": {
+        "https://cafernp1.ipt.br/idp/shibboleth": {
             "en": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo",
             "pt-br": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo"
         },
@@ -8462,10 +8462,6 @@
             "en": "Université Paris 8 - Vincennes",
             "fr": "Université Paris 8 - Vincennes"
         },
-        "https://idp3.cereq.fr/idp/shibboleth": {
-            "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V3",
-            "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V3"
-        },
         "https://idp3.cyceron.fr/idp/shibboleth": {
             "en": "Cyceron",
             "fr": "Cyceron"
@@ -8503,8 +8499,8 @@
             "fr": "Test Bordeaux INP"
         },
         "https://idp4.cereq.fr/idp/shibboleth": {
-            "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V4",
-            "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V4"
+            "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications",
+            "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications"
         },
         "https://idpprod.ciep.fr/idp/shibboleth": {
             "en": "CIEP / France Education International",
@@ -9778,6 +9774,9 @@
         "https://idp.cutn.ac.in/idp/shibboleth": {
             "en": "Central University of Tamilnadu"
         },
+        "https://idp.dcpune.ac.in/idp/shibboleth": {
+            "en": "Deccan college post-graduate and research institute"
+        },
         "https://idp.dhsgsu.edu.in/idp/shibboleth": {
             "en": "Dr. Harisingh Gour Vishwavidyalaya"
         },
@@ -9972,6 +9971,9 @@
         },
         "https://idp.rcb.ac.in/idp/shibboleth": {
             "en": "Regional Centre for Biotechnology"
+        },
+        "https://idp.rgu.ac.in/idp/shibboleth": {
+            "en": "Rajiv Gandhi University"
         },
         "https://idp.ruralunivlibrary.ac.in/idp/shibboleth": {
             "en": "Gandhigram Rural Institute, Tamil Nadu"

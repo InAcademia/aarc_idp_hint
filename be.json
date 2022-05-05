@@ -2,10 +2,6 @@
     "http://adfs.ilvo.be/adfs/services/trust": {
         "en": "Instituut voor Landbouw-, Visserij- en Voedingsonderzoek"
     },
-    "http://adfsvalid.bgda.cra.wallonie.be/adfs/services/trust": {
-        "en": "CRA-W",
-        "fr": "CRA-W"
-    },
     "https://accounts.google.com/o/saml2?idpid=C02lghgox": {
         "en": "IAD-ARTS"
     },
@@ -56,6 +52,10 @@
     "https://idp.condorcet.be/idp/shibboleth": {
         "en": "Haute Ecole Condorcet (HEPH-Condorcet)",
         "fr": "Haute Ecole Condorcet (HEPH-Condorcet)"
+    },
+    "https://idp.cra.wallonie.be/idp/shibboleth": {
+        "en": "https://idp.cra.wallonie.be/idp/shibboleth",
+        "fr": "CRA-W"
     },
     "https://idp.eduhainaut.be/idp/shibboleth": {
         "en": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)",

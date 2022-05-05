@@ -795,10 +795,6 @@
         "en": "Université Paris 8 - Vincennes",
         "fr": "Université Paris 8 - Vincennes"
     },
-    "https://idp3.cereq.fr/idp/shibboleth": {
-        "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V3",
-        "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V3"
-    },
     "https://idp3.cyceron.fr/idp/shibboleth": {
         "en": "Cyceron",
         "fr": "Cyceron"
@@ -836,8 +832,8 @@
         "fr": "Test Bordeaux INP"
     },
     "https://idp4.cereq.fr/idp/shibboleth": {
-        "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V4",
-        "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications V4"
+        "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications",
+        "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications"
     },
     "https://idpprod.ciep.fr/idp/shibboleth": {
         "en": "CIEP / France Education International",

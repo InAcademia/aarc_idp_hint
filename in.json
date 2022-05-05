@@ -104,6 +104,9 @@
     "https://idp.cutn.ac.in/idp/shibboleth": {
         "en": "Central University of Tamilnadu"
     },
+    "https://idp.dcpune.ac.in/idp/shibboleth": {
+        "en": "Deccan college post-graduate and research institute"
+    },
     "https://idp.dhsgsu.edu.in/idp/shibboleth": {
         "en": "Dr. Harisingh Gour Vishwavidyalaya"
     },
@@ -298,6 +301,9 @@
     },
     "https://idp.rcb.ac.in/idp/shibboleth": {
         "en": "Regional Centre for Biotechnology"
+    },
+    "https://idp.rgu.ac.in/idp/shibboleth": {
+        "en": "Rajiv Gandhi University"
     },
     "https://idp.ruralunivlibrary.ac.in/idp/shibboleth": {
         "en": "Gandhigram Rural Institute, Tamil Nadu"
