@@ -1,4 +1,7 @@
 {
+    "http://adfs.helb-prigogine.be/adfs/services/trust": {
+        "en": "http://adfs.helb-prigogine.be/adfs/services/trust"
+    },
     "http://adfs.ilvo.be/adfs/services/trust": {
         "en": "Instituut voor Landbouw-, Visserij- en Voedingsonderzoek"
     },

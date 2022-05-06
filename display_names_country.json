@@ -380,6 +380,9 @@
         }
     },
     "be": {
+        "http://adfs.helb-prigogine.be/adfs/services/trust": {
+            "en": "http://adfs.helb-prigogine.be/adfs/services/trust"
+        },
         "http://adfs.ilvo.be/adfs/services/trust": {
             "en": "Instituut voor Landbouw-, Visserij- en Voedingsonderzoek"
         },
@@ -2517,8 +2520,8 @@
             "zh": "中国地质大学（北京）(Beijing,China University of Geosciences)"
         },
         "https://idp.cuhk.edu.cn/idp/shibboleth": {
-            "en": "CUHK-Shenzhen",
-            "zh": "香港中文大学（深圳）(CUHK-Shenzhen)"
+            "en": "The Chinese University of Hong Kong, Shenzhen",
+            "zh": "香港中文大学（深圳）(The Chinese University of Hong Kong, Shenzhen)"
         },
         "https://idp.cumt.edu.cn/idp/shibboleth": {
             "en": "China University of Mining and Technology",
@@ -7655,10 +7658,6 @@
         "https://tullbommen.arcada.fi/simplesaml/": {
             "en": "Arcada",
             "sv": "Arcada"
-        },
-        "https://tunnistus.thl.fi/idp": {
-            "en": "Finnish Institute for Health and Welfare",
-            "sv": "Institutet för hälsa och välfärd"
         },
         "https://xidp.xamk.fi/idp/shibboleth": {
             "en": "South-Eastern Finland University of Applied Sciences",
