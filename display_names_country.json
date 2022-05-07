@@ -1264,10 +1264,6 @@
             "en": "INSA - Instituto Nacional do Semiarido",
             "pt-br": "INSA - Instituto Nacional do Semiarido"
         },
-        "https://shibboleth.ita.br/idp/shibboleth": {
-            "en": "ITA - Instituto Tecnologico de Aeronautica",
-            "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
-        },
         "https://shibboleth.on.br/idp/shibboleth": {
             "en": "ON - Observatorio Nacional",
             "pt-br": "ON - Observatorio Nacional"
@@ -6512,6 +6508,10 @@
             "da": "DeiC – Danish e-Infrastructure Cooperation [PILOT]",
             "en": "DeiC – Danish e-Infrastructure Cooperation [PILOT]"
         },
+        "https://idp.hi.is": {
+            "da": "Háskóli Íslands",
+            "en": "University of Iceland"
+        },
         "https://idp.umit.dk": {
             "da": "Uddannelsesministeriets It",
             "en": "IT Department of the Ministry of Higher Education and Science"
@@ -6535,10 +6535,6 @@
         "https://sts.pha.dk/adfs/services/trust": {
             "da": "Professionshøjskolen Absalon",
             "en": "Absalon University College"
-        },
-        "https://sts.windows.net/09fa5f0e-2118-4656-8529-677ed8fdbe78/": {
-            "da": "Háskóli Íslands",
-            "en": "University of Iceland"
         },
         "https://sts.windows.net/30be3e72-3ef8-4594-bfa3-6423b003e88c/": {
             "da": "Det Kongelige Danske Musikkonservatorium",
