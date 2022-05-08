@@ -759,10 +759,6 @@
         "en": "UFJF - Universidade Federal de Juiz de Fora",
         "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
     },
-    "https://shibboleth.ufla.br/idp/shibboleth": {
-        "en": "UFLA - Universidade Federal de Lavras",
-        "pt-br": "UFLA - Universidade Federal de Lavras"
-    },
     "https://shibboleth.ufrj.br/idp/shibboleth": {
         "en": "UFRJ - Universidade Federal do Rio de Janeiro",
         "pt-br": "UFRJ - Universidade Federal do Rio de Janeiro"
@@ -778,10 +774,6 @@
     "https://shibboleth.unespar.edu.br/idp/shibboleth": {
         "en": "UNESPAR - Universidade Estadual do Parana",
         "pt-br": "UNESPAR - Universidade Estadual do Parana"
-    },
-    "https://shibboleth.unicap.br/idp/shibboleth": {
-        "en": "UNICAP - Universidade Catolica de Pernambuco",
-        "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
     },
     "https://shibboleth.unifacs.br/idp/shibboleth": {
         "en": "UNIFACS - Universidade Salvador",

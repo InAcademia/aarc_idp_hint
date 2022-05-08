@@ -180,6 +180,11 @@
         "da": "Uddannelsesministeriets It",
         "en": "IT Department of the Ministry of Higher Education and Science"
     },
+    "https://idp.unak.is": {
+        "da": "Háskólinn á Akureyri",
+        "en": "https://idp.unak.is",
+        "is": "Háskólinn á Akureyri"
+    },
     "https://login.kp.dk/adfs/services/trust": {
         "da": "Københavns Professionshøjskole",
         "en": "University College Copenhagen"
