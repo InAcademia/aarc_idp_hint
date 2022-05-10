@@ -776,10 +776,6 @@
             "en": "IFRO - Instituto Federal de Educacao, Ciencia e Tecnologia de Rondonia",
             "pt-br": "IFRO - Instituto Federal de Educacao, Ciencia e Tecnologia de Rondonia"
         },
-        "https://cafe2.unesp.br/idp/shibboleth": {
-            "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
-            "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
-        },
         "https://cafe33.setic.ufsc.br/idp/shibboleth": {
             "en": "UFSC - Universidade Federal de Santa Catarina",
             "pt-br": "UFSC - Universidade Federal de Santa Catarina"
@@ -3635,6 +3631,10 @@
             "en": "Tianjin University of Science & Technology",
             "zh": "天津科技大学(Tianjin University of Science & Technology)"
         },
+        "https://idp.tute.edu.cn/idp/shibboleth": {
+            "en": "Tianjin University of Technology and Education",
+            "zh": "天津职业技术师范大学(Tianjin University of Technology and Education)"
+        },
         "https://idp.tyust.edu.cn/idp/shibboleth": {
             "en": "Taiyuan University of Science and Technology",
             "zh": "太原科技大学(Taiyuan University of Science and Technology)"
@@ -4414,10 +4414,6 @@
         "https://idp.mou.cz/idp/shibboleth": {
             "cs": "Masarykův Onkologický Ústav (MOÚ)",
             "en": "Masaryk Memorial Cancer Institute (MMCI)"
-        },
-        "https://idp.mua.cas.cz/idp/shibboleth": {
-            "cs": "Masarykův ústav a archiv AV ČR",
-            "en": "Masaryk Institute and Archives of the CAS"
         },
         "https://idp.mup.cz/idp/shibboleth": {
             "cs": "Metropolitní univerzita Praha, o.p.s.",
@@ -15944,6 +15940,9 @@
         "http://adfs.nsf.gov/adfs/services/trust": {
             "en": "National Science Foundation (Staff Login)"
         },
+        "http://adfs.otc.edu/adfs/services/trust": {
+            "en": "Ozarks Technical Community College"
+        },
         "http://adfs.philau.edu/adfs/services/trust": {
             "en": "Philadelphia University"
         },
@@ -16015,9 +16014,6 @@
         },
         "https://account.vcccd.edu": {
             "en": "Ventura County Comm College District"
-        },
-        "https://adfs.otc.edu/adfs/services/trust": {
-            "en": "Ozarks Technical Community College"
         },
         "https://alumidp.princeton.edu/idp/shibboleth": {
             "en": "Princeton University Alumni"

@@ -14,6 +14,9 @@
     "http://adfs.nsf.gov/adfs/services/trust": {
         "en": "National Science Foundation (Staff Login)"
     },
+    "http://adfs.otc.edu/adfs/services/trust": {
+        "en": "Ozarks Technical Community College"
+    },
     "http://adfs.philau.edu/adfs/services/trust": {
         "en": "Philadelphia University"
     },
@@ -85,9 +88,6 @@
     },
     "https://account.vcccd.edu": {
         "en": "Ventura County Comm College District"
-    },
-    "https://adfs.otc.edu/adfs/services/trust": {
-        "en": "Ozarks Technical Community College"
     },
     "https://alumidp.princeton.edu/idp/shibboleth": {
         "en": "Princeton University Alumni"
