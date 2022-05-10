@@ -822,6 +822,7 @@
     "https://idp-crob.irccs.garr.it/idp/shibboleth": "IRCCS CROB - Rionero in Vulture (PZ)",
     "https://idp-css.irccs.garr.it/idp/shibboleth": "IRCCS Casa Sollievo della Sofferenza",
     "https://idp-debellis.irccs.garr.it/idp/shibboleth": "IRCCS \"S. de Bellis\" - Castellana Grotte (BARI)",
+    "https://idp-dev.helmholtz.de/idp/shibboleth": "Helmholtz Association (Dev)",
     "https://idp-dev.jisc.ac.uk/idp/shibboleth": "Jisc (Dev IdP)",
     "https://idp-dev.mhb-fontane.de/idp/shibboleth": "Brandenburg Medical School",
     "https://idp-dgnocchi.irccs.garr.it/idp/shibboleth": "IRCCS Fondazione Don Carlo Gnocchi Onlus",
