@@ -347,7 +347,7 @@
     "https://idp.eup.edinboro.edu/idp/shibboleth": {
         "en": "Edinboro University of Pennsylvania"
     },
-    "https://idp.famu.edu/idp/shibboleth": {
+    "https://idp.famu.edu:443/idp/shibboleth": {
         "en": "Florida A&M University"
     },
     "https://idp.fdu.edu/idp/shibboleth": {

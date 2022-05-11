@@ -708,6 +708,10 @@
             "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
             "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
         },
+        "https://cafe.uerr.edu.br/idp/shibboleth": {
+            "en": "UERR - Universidade Estadual De Roraima",
+            "pt-br": "UERR - Universidade Estadual De Roraima"
+        },
         "https://cafe.ufba.br/idp/shibboleth": {
             "en": "UFBA - Universidade Federal da Bahia",
             "pt-br": "UFBA - Universidade Federal da Bahia"
@@ -767,6 +771,10 @@
         "https://cafe.univille.br/idp/shibboleth": {
             "en": "UNIVILLE - Fundacao Educacional da Regiao de Joinville",
             "pt-br": "UNIVILLE - Fundacao Educacional da Regiao de Joinville"
+        },
+        "https://cafe.unoesc.edu.br/idp/shibboleth": {
+            "en": "UNOESC - Universidade do Oeste de Santa Catarina",
+            "pt-br": "UNOESC - Universidade do Oeste de Santa Catarina"
         },
         "https://cafe.usf.edu.br/idp/shibboleth": {
             "en": "USF - Universidade Sao Francisco",
@@ -879,10 +887,6 @@
         "https://idp-cafe.unifal-mg.edu.br/idp/shibboleth": {
             "en": "UNIFAL-MG - Universidade Federal de Alfenas",
             "pt-br": "UNIFAL-MG - Universidade Federal de Alfenas"
-        },
-        "https://idp-chr.unichristus.edu.br/idp/shibboleth": {
-            "en": "UNICHRISTUS - CENTRO UNIVERSITARIO CHRISTUS",
-            "pt-br": "UNICHRISTUS - CENTRO UNIVERSITARIO CHRISTUS"
         },
         "https://idp-novo.dr.ufu.br/idp/shibboleth": {
             "en": "UFU - Universidade Federal de Uberlandia",
@@ -1003,6 +1007,10 @@
         "https://idp.unifeob.edu.br/idp/shibboleth": {
             "en": "UNIFEOB - Fundacao de Ensino Octavio Bastos",
             "pt-br": "UNIFEOB - Fundacao de Ensino Octavio Bastos"
+        },
+        "https://idp.unifesp.br/idp/shibboleth": {
+            "en": "UNIFESP - Universidade Federal de Sao Paulo",
+            "pt-br": "UNIFESP - Universidade Federal de Sao Paulo"
         },
         "https://idp.unijorge.edu.br/idp/shibboleth": {
             "en": "UNIJORGE - Centro Universitario Jorge Amado",
@@ -1132,6 +1140,10 @@
             "en": "IFSUL - Instituto Federal Sul-rio-grandense",
             "pt-br": "IFSUL - Instituto Federal Sul-rio-grandense"
         },
+        "https://ipameri.cti.gov.br/idp/shibboleth": {
+            "en": "CTI - Centro de Tecnologia da Informacao Renato Archer",
+            "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
+        },
         "https://isd-rnp.isd.org.br/idp/shibboleth": {
             "en": "ISD - Instituto Santos Dumont",
             "pt-br": "ISD - Instituto Santos Dumont"
@@ -1215,10 +1227,6 @@
         "https://shibboleth-s1.ufersa.edu.br/idp/shibboleth": {
             "en": "UFERSA - Universidade Federal Rural Do Semi-Arido",
             "pt-br": "UFERSA - Universidade Federal Rural Do Semi-Arido"
-        },
-        "https://shibboleth.ansp.br/idp/shibboleth": {
-            "en": "ANSP - an Academic Network at Sao Paulo",
-            "pt-br": "ANSP - an Academic Network at Sao Paulo"
         },
         "https://shibboleth.cefet-rj.br/idp/shibboleth": {
             "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
@@ -11251,6 +11259,9 @@
         "https://overleaf-idp.lu.lv": {
             "en": "LU OverLeaf users IdP"
         },
+        "https://psk-idp.lanet.lv": {
+            "en": "P. Stradins Medical College of the University of Latvia"
+        },
         "https://ra-idp.lanet.lv": {
             "en": "Rezekne Academy of Technologies"
         },
@@ -12041,6 +12052,10 @@
         "https://sts.windows.net/9a1651bf-58af-435b-86a8-3e9334b4b732/": {
             "en": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)",
             "nl": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)"
+        },
+        "https://sts.windows.net/9ddb2f6b-ed26-456a-8680-3b375cbad516/": {
+            "en": "Van Gogh Museum",
+            "nl": "Van Gogh Museum"
         },
         "https://sts.windows.net/aabe793f-b39c-440c-8e1a-0dcfb6215609/": {
             "en": "Codarts University of the Arts",
@@ -13794,7 +13809,7 @@
         },
         "https://kimlik.duzce.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Duzce University",
-            "tr": "Duzce Universitesi"
+            "tr": "Düzce Üniversitesi"
         },
         "https://kimlik.ege.edu.tr/egesso/saml2/idp/metadata.php": {
             "en": "Ege University",
@@ -13978,7 +13993,7 @@
         },
         "https://yetkim.gumushane.edu.tr/idp/shibboleth": {
             "en": "Gumushane University",
-            "tr": "Gumushane Universitesi"
+            "tr": "Gümüşhane Üniversitesi"
         },
         "https://yetkim.hku.edu.tr/idp/shibboleth": {
             "en": "Hasan Kalyoncu University",
@@ -16277,7 +16292,7 @@
         "https://idp.eup.edinboro.edu/idp/shibboleth": {
             "en": "Edinboro University of Pennsylvania"
         },
-        "https://idp.famu.edu/idp/shibboleth": {
+        "https://idp.famu.edu:443/idp/shibboleth": {
             "en": "Florida A&M University"
         },
         "https://idp.fdu.edu/idp/shibboleth": {

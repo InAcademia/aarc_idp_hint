@@ -257,7 +257,7 @@
     },
     "https://kimlik.duzce.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Duzce University",
-        "tr": "Duzce Universitesi"
+        "tr": "Düzce Üniversitesi"
     },
     "https://kimlik.ege.edu.tr/egesso/saml2/idp/metadata.php": {
         "en": "Ege University",
@@ -441,7 +441,7 @@
     },
     "https://yetkim.gumushane.edu.tr/idp/shibboleth": {
         "en": "Gumushane University",
-        "tr": "Gumushane Universitesi"
+        "tr": "Gümüşhane Üniversitesi"
     },
     "https://yetkim.hku.edu.tr/idp/shibboleth": {
         "en": "Hasan Kalyoncu University",
