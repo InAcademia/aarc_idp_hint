@@ -239,6 +239,10 @@
         "en": "Bingöl University",
         "tr": "Bingöl Üniversitesi"
     },
+    "https://kimlik.bozok.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Yozgat Bozok University",
+        "tr": "Yozgat Bozok Üniversitesi"
+    },
     "https://kimlik.btu.edu.tr/idp/shibboleth": {
         "en": "Bursa Technical University",
         "tr": "Bursa Teknik Üniversitesi"

@@ -699,6 +699,10 @@
         "en": "IFAM - Instituto Federal do Amazonas",
         "pt-br": "IFAM - Instituto Federal do Amazonas"
     },
+    "https://shibboleth.iffarroupilha.edu.br/idp/shibboleth": {
+        "en": "IFFAR - Instituto Federal Farroupilha",
+        "pt-br": "IFFAR - Instituto Federal Farroupilha"
+    },
     "https://shibboleth.ifmt.edu.br/idp/shibboleth": {
         "en": "IFMT - Instituto Federal de Mato Grosso",
         "pt-br": "IFMT - Instituto Federal de Mato Grosso"

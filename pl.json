@@ -67,6 +67,10 @@
         "en": "University of Gdańsk",
         "pl": "Uniwersytet Gdański"
     },
+    "https://idp.umlub.pl/simplesaml/saml2/idp/metadata.php": {
+        "en": "Medical University of Lublin",
+        "pl": "Uniwersytet Medyczny w Lublinie"
+    },
     "https://idp.zut.edu.pl/idp/shibboleth": {
         "en": "West Pomeranian University of Technology in Szczecin",
         "pl": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie"

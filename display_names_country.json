@@ -1248,6 +1248,10 @@
             "en": "IFAM - Instituto Federal do Amazonas",
             "pt-br": "IFAM - Instituto Federal do Amazonas"
         },
+        "https://shibboleth.iffarroupilha.edu.br/idp/shibboleth": {
+            "en": "IFFAR - Instituto Federal Farroupilha",
+            "pt-br": "IFFAR - Instituto Federal Farroupilha"
+        },
         "https://shibboleth.ifmt.edu.br/idp/shibboleth": {
             "en": "IFMT - Instituto Federal de Mato Grosso",
             "pt-br": "IFMT - Instituto Federal de Mato Grosso"
@@ -8566,10 +8570,6 @@
             "en": "CAMPUS CONDORCET",
             "fr": "CAMPUS CONDORCET"
         },
-        "https://rigal.enpc.fr/idp/shibboleth": {
-            "en": "ZZ - Old server - École des Ponts ParisTech - Do not use",
-            "fr": "ZZ - Ancien serveur - École des Ponts ParisTech - Ne plus utiliser"
-        },
         "https://ruhnu.univ-tlse2.fr/idp/shibboleth": {
             "en": "University of Toulouse Jean Jaurès",
             "fr": "Université Toulouse Jean Jaurès"
@@ -10717,10 +10717,6 @@
             "en": "Tokyo University of Foreign Studies",
             "ja": "東京外国語大学"
         },
-        "https://ictc-idp01.otaru-uc.ac.jp/idp/shibboleth": {
-            "en": "Otaru University of Commerce",
-            "ja": "小樽商科大学"
-        },
         "https://idp.asahi-u.ac.jp/idp/shibboleth": {
             "en": "Asahi University",
             "ja": "朝日大学"
@@ -12455,6 +12451,10 @@
             "en": "University of Gdańsk",
             "pl": "Uniwersytet Gdański"
         },
+        "https://idp.umlub.pl/simplesaml/saml2/idp/metadata.php": {
+            "en": "Medical University of Lublin",
+            "pl": "Uniwersytet Medyczny w Lublinie"
+        },
         "https://idp.zut.edu.pl/idp/shibboleth": {
             "en": "West Pomeranian University of Technology in Szczecin",
             "pl": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie"
@@ -13790,6 +13790,10 @@
         "https://kimlik.bingol.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Bingöl University",
             "tr": "Bingöl Üniversitesi"
+        },
+        "https://kimlik.bozok.edu.tr/simplesaml/saml2/idp/metadata.php": {
+            "en": "Yozgat Bozok University",
+            "tr": "Yozgat Bozok Üniversitesi"
         },
         "https://kimlik.btu.edu.tr/idp/shibboleth": {
             "en": "Bursa Technical University",
