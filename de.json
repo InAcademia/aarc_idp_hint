@@ -95,10 +95,6 @@
         "de": "Hochschule für Wirtschaft und Recht Berlin",
         "en": "Berlin School of Economics and Law (HWR)"
     },
-    "https://idp-dev.helmholtz.de/idp/shibboleth": {
-        "de": "Helmholtz Gemeinschaft (Dev)",
-        "en": "Helmholtz Association (Dev)"
-    },
     "https://idp-dev.mhb-fontane.de/idp/shibboleth": {
         "de": "Medizinische Hochschule Brandenburg",
         "en": "Brandenburg Medical School"
