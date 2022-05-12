@@ -295,6 +295,10 @@
         "de": "FZI Forschungszentrum Informatik",
         "en": "FZI Forschungszentrum Informatik"
     },
+    "https://idp.gei.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Bildungsmedien",
+        "en": "Leibniz-Institut für Bildungsmedien"
+    },
     "https://idp.geomar.de/idp/shibboleth": {
         "de": "GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel",
         "en": "GEOMAR Helmholtz Centre for Ocean Research Kiel"
