@@ -14,6 +14,9 @@
     "https://idp.aut.ac.nz/idp/shibboleth": {
         "en": "AUT University"
     },
+    "https://idp.lincoln.ac.nz/idp/shibboleth": {
+        "en": "Lincoln University"
+    },
     "https://idp.otago.ac.nz/idp/shibboleth": {
         "en": "University of Otago"
     },

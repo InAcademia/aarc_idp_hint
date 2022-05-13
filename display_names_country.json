@@ -1316,6 +1316,10 @@
             "en": "UFJF - Universidade Federal de Juiz de Fora",
             "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
         },
+        "https://shibboleth.ufla.br/idp/shibboleth": {
+            "en": "UFLA - Universidade Federal de Lavras",
+            "pt-br": "UFLA - Universidade Federal de Lavras"
+        },
         "https://shibboleth.ufrj.br/idp/shibboleth": {
             "en": "UFRJ - Universidade Federal do Rio de Janeiro",
             "pt-br": "UFRJ - Universidade Federal do Rio de Janeiro"
@@ -6714,6 +6718,10 @@
         "https://login.itb.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Tecnologico Bolivariano - itb",
             "es": "Instituto Tecnologico Bolivariano - itb"
+        },
+        "https://login.puce.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Pontificia Universidad Católica del Ecuador Quito - puce",
+            "es": "Pontificia Universidad Católica del Ecuador Quito - puce"
         },
         "https://login.pucesa.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Pontificia Universidad Católica del Ecuador Ambato - pucesa",
@@ -12119,6 +12127,9 @@
         "https://idp.aut.ac.nz/idp/shibboleth": {
             "en": "AUT University"
         },
+        "https://idp.lincoln.ac.nz/idp/shibboleth": {
+            "en": "Lincoln University"
+        },
         "https://idp.otago.ac.nz/idp/shibboleth": {
             "en": "University of Otago"
         },
@@ -13647,10 +13658,6 @@
             "en": "Kirikkale University",
             "tr": "Kırıkkale Üniversitesi"
         },
-        "https://idp.kmu.edu.tr/idp/shibboleth": {
-            "en": "Karamanoglu Mehmetbey University",
-            "tr": "Karamanoğlu Mehmetbey Üniversitesi"
-        },
         "https://idp.ksbu.edu.tr/idp/shibboleth": {
             "en": "Kütahya Health Sciences University",
             "tr": "Kütahya Sağlık Bilimleri Üniversitesi"
@@ -13715,6 +13722,10 @@
             "en": "Yasar University",
             "tr": "Yaşar Üniversitesi"
         },
+        "https://ims.hbv.edu.tr": {
+            "en": "Ankara Haci Bayram Veli University",
+            "tr": "Ankara Hacı Bayram Veli Üniversitesi"
+        },
         "https://kds.ankara.edu.tr/idp/shibboleth": {
             "en": "Ankara University",
             "tr": "Ankara Üniversitesi"
@@ -13734,10 +13745,6 @@
         "https://kimlik.aku.edu.tr/idp/shibboleth": {
             "en": "Afyon Kocatepe University",
             "tr": "Afyon Kocatepe Üniversitesi"
-        },
-        "https://kimlik.alparslan.edu.tr/idp/shibboleth": {
-            "en": "Mus Alparslan University",
-            "tr": "Mus Alparslan Üniversitesi"
         },
         "https://kimlik.amasya.edu.tr/idp/shibboleth": {
             "en": "Amasya University",
@@ -13762,6 +13769,10 @@
         "https://kimlik.atauni.edu.tr/saml2/idp/metadata.php": {
             "en": "Ataturk University",
             "tr": "Atatürk Universitesi"
+        },
+        "https://kimlik.atilim.edu.tr": {
+            "en": "Atilim University",
+            "tr": "Atılım Üniversitesi"
         },
         "https://kimlik.aydin.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Istanbul Aydin University",
@@ -13826,6 +13837,10 @@
         "https://kimlik.fsm.edu.tr/idp/shibboleth": {
             "en": "Fatih Sultan Mehmet Vakif University",
             "tr": "Fatih Sultan Mehmet Vakıf Üniversitesi"
+        },
+        "https://kimlik.galata.edu.tr/simplesaml/saml2/idp/metadata.php": {
+            "en": "Istanbul Galata University",
+            "tr": "İstanbul Galata Üniversitesi"
         },
         "https://kimlik.hacettepe.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Hacettepe University",

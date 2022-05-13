@@ -767,6 +767,10 @@
         "en": "UFJF - Universidade Federal de Juiz de Fora",
         "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
     },
+    "https://shibboleth.ufla.br/idp/shibboleth": {
+        "en": "UFLA - Universidade Federal de Lavras",
+        "pt-br": "UFLA - Universidade Federal de Lavras"
+    },
     "https://shibboleth.ufrj.br/idp/shibboleth": {
         "en": "UFRJ - Universidade Federal do Rio de Janeiro",
         "pt-br": "UFRJ - Universidade Federal do Rio de Janeiro"
