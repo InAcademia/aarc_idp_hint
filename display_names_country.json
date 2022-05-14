@@ -1000,6 +1000,10 @@
             "en": "UFTM - Universidade Federal do Triangulo Mineiro",
             "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
         },
+        "https://idp.ufvjm.edu.br/idp/shibboleth": {
+            "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
+            "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
+        },
         "https://idp.unifatea.edu.br/idp/shibboleth": {
             "en": "UNIFATEA - Centro Universitario Teresa D Avila",
             "pt-br": "UNIFATEA - Centro Universitario Teresa D Avila"
@@ -1323,10 +1327,6 @@
         "https://shibboleth.ufrj.br/idp/shibboleth": {
             "en": "UFRJ - Universidade Federal do Rio de Janeiro",
             "pt-br": "UFRJ - Universidade Federal do Rio de Janeiro"
-        },
-        "https://shibboleth.ufvjm.edu.br/idp/shibboleth": {
-            "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
-            "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
         },
         "https://shibboleth.unb.br/idp/shibboleth": {
             "en": "UNB - Universidade de Brasilia",
