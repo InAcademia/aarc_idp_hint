@@ -55,6 +55,10 @@
         "en": "Lodz University of Technology",
         "pl": "Politechnika Łódzka"
     },
+    "https://federacja.uniwersytetradom.pl/idp/shibboleth": {
+        "en": "Kazimierz Pułaski University of Technology and Humanities in Radom",
+        "pl": "Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu"
+    },
     "https://idp.prz.edu.pl/idp/shibboleth": {
         "en": "Rzeszow University of Technology",
         "pl": "Politechnika Rzeszowska"
@@ -169,6 +173,10 @@
     "https://shib.upwr.edu.pl/idp/shibboleth": {
         "en": "Wrocław University of Environmental and Life Sciences",
         "pl": "Uniwersytet Przyrodniczy we Wrocławiu"
+    },
+    "https://shib.wsb.wroclaw.pl/idp/shibboleth": {
+        "en": "WSB University in Wrocław",
+        "pl": "Wyższa Szkoła Bankowa we Wrocławiu"
     },
     "https://shibboleth.uni.opole.pl/idp/shibboleth": {
         "en": "Opole University",

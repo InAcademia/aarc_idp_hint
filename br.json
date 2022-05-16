@@ -3,10 +3,6 @@
         "en": "UP - Universidade Positivo",
         "pt-br": "UP - Universidade Positivo"
     },
-    "https://1010se17fam-v03.famerp.br/idp/shibboleth": {
-        "en": "FAMERP - Faculdade de Medicina de Rio Preto",
-        "pt-br": "FAMERP - Faculdade de Medicina de Rio Preto"
-    },
     "https://acesso.ufabc.edu.br/idp/shibboleth": {
         "en": "UFABC - Universidade Federal do ABC",
         "pt-br": "UFABC - Universidade Federal do ABC"
@@ -195,10 +191,6 @@
         "en": "UNESC - Universidade do Extremo Sul Catarinense",
         "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
     },
-    "https://cafe.unicamp.br/idp/shibboleth": {
-        "en": "UNICAMP - Universidade Estadual de Campinas",
-        "pt-br": "UNICAMP - Universidade Estadual de Campinas"
-    },
     "https://cafe.unicentro.br/idp/shibboleth": {
         "en": "UNICENTRO - Universidade Estadual do Centro-Oeste",
         "pt-br": "UNICENTRO - Universidade Estadual do Centro-Oeste"
@@ -279,6 +271,10 @@
         "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa",
         "pt-br": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa"
     },
+    "https://capuccino2.iff.edu.br/idp/shibboleth": {
+        "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
+        "pt-br": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense"
+    },
     "https://carajas.carajaseducacional.com.br/idp/shibboleth": {
         "en": "CARAJAS - Grupo Educacional Carajas",
         "pt-br": "CARAJAS - Grupo Educacional Carajas"
@@ -302,6 +298,10 @@
     "https://fjncafe.fundaj.gov.br/idp/shibboleth": {
         "en": "FUNDAJ - Fundacao Joaquim Nabuco",
         "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"
+    },
+    "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
+        "en": "IFAP - Instituto Federal do Amapa",
+        "pt-br": "IFAP - Instituto Federal do Amapa"
     },
     "https://idp-cafe.ghc.com.br/idp/shibboleth": {
         "en": "GHC - Grupo Hospitalar Conceicao",

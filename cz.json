@@ -655,6 +655,10 @@
         "cs": "mojeID",
         "en": "mojeID"
     },
+    "https://muzeumcaslav.cz/idp/shibboleth": {
+        "cs": "Městské muzeum a knihovna Čáslav",
+        "en": "Municipal Museum and Library in Caslav"
+    },
     "https://pceidp01.nempk.cz/idp/shibboleth": {
         "cs": "Nemocnice Pardubického kraje, a.s.",
         "en": "Nemocnice Pardubického kraje, a.s."

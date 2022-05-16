@@ -63,6 +63,10 @@
         "en": "Giresun University",
         "tr": "Giresun Üniversitesi"
     },
+    "https://idp.gop.edu.tr/idp/shibboleth": {
+        "en": "Tokat Gaziosmanpasa University",
+        "tr": "Tokat Gaziosmanpaşa Üniversitesi"
+    },
     "https://idp.gsu.edu.tr/idp/shibboleth": {
         "en": "Galatasaray University",
         "tr": "Galatasaray Üniversitesi"

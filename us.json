@@ -1268,6 +1268,9 @@
     "https://sso.umgc.edu/gateway": {
         "en": "University of Maryland Global Campus"
     },
+    "https://sso.unco.edu/idp": {
+        "en": "University of Northern Colorado New"
+    },
     "https://sso.ung.edu/simplesaml2": {
         "en": "University of North Georgia"
     },

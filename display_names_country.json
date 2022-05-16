@@ -552,10 +552,6 @@
             "en": "UP - Universidade Positivo",
             "pt-br": "UP - Universidade Positivo"
         },
-        "https://1010se17fam-v03.famerp.br/idp/shibboleth": {
-            "en": "FAMERP - Faculdade de Medicina de Rio Preto",
-            "pt-br": "FAMERP - Faculdade de Medicina de Rio Preto"
-        },
         "https://acesso.ufabc.edu.br/idp/shibboleth": {
             "en": "UFABC - Universidade Federal do ABC",
             "pt-br": "UFABC - Universidade Federal do ABC"
@@ -744,10 +740,6 @@
             "en": "UNESC - Universidade do Extremo Sul Catarinense",
             "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
         },
-        "https://cafe.unicamp.br/idp/shibboleth": {
-            "en": "UNICAMP - Universidade Estadual de Campinas",
-            "pt-br": "UNICAMP - Universidade Estadual de Campinas"
-        },
         "https://cafe.unicentro.br/idp/shibboleth": {
             "en": "UNICENTRO - Universidade Estadual do Centro-Oeste",
             "pt-br": "UNICENTRO - Universidade Estadual do Centro-Oeste"
@@ -828,6 +820,10 @@
             "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa",
             "pt-br": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa"
         },
+        "https://capuccino2.iff.edu.br/idp/shibboleth": {
+            "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
+            "pt-br": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense"
+        },
         "https://carajas.carajaseducacional.com.br/idp/shibboleth": {
             "en": "CARAJAS - Grupo Educacional Carajas",
             "pt-br": "CARAJAS - Grupo Educacional Carajas"
@@ -851,6 +847,10 @@
         "https://fjncafe.fundaj.gov.br/idp/shibboleth": {
             "en": "FUNDAJ - Fundacao Joaquim Nabuco",
             "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"
+        },
+        "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
+            "en": "IFAP - Instituto Federal do Amapa",
+            "pt-br": "IFAP - Instituto Federal do Amapa"
         },
         "https://idp-cafe.ghc.com.br/idp/shibboleth": {
             "en": "GHC - Grupo Hospitalar Conceicao",
@@ -1556,6 +1556,9 @@
         },
         "http://sts.algomau.ca/adfs/services/trust": {
             "en": "Algoma University"
+        },
+        "http://sts.cencol.ca/adfs/services/trust": {
+            "en": "Centennial College"
         },
         "http://sts.dc-uoit.ca/adfs/services/trust": {
             "en": "Durham College and Ontario Tech University"
@@ -4818,6 +4821,10 @@
         "https://mojeid.cz/saml/idp.xml": {
             "cs": "mojeID",
             "en": "mojeID"
+        },
+        "https://muzeumcaslav.cz/idp/shibboleth": {
+            "cs": "Městské muzeum a knihovna Čáslav",
+            "en": "Municipal Museum and Library in Caslav"
         },
         "https://pceidp01.nempk.cz/idp/shibboleth": {
             "cs": "Nemocnice Pardubického kraje, a.s.",
@@ -12450,6 +12457,10 @@
             "en": "Lodz University of Technology",
             "pl": "Politechnika Łódzka"
         },
+        "https://federacja.uniwersytetradom.pl/idp/shibboleth": {
+            "en": "Kazimierz Pułaski University of Technology and Humanities in Radom",
+            "pl": "Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu"
+        },
         "https://idp.prz.edu.pl/idp/shibboleth": {
             "en": "Rzeszow University of Technology",
             "pl": "Politechnika Rzeszowska"
@@ -12564,6 +12575,10 @@
         "https://shib.upwr.edu.pl/idp/shibboleth": {
             "en": "Wrocław University of Environmental and Life Sciences",
             "pl": "Uniwersytet Przyrodniczy we Wrocławiu"
+        },
+        "https://shib.wsb.wroclaw.pl/idp/shibboleth": {
+            "en": "WSB University in Wrocław",
+            "pl": "Wyższa Szkoła Bankowa we Wrocławiu"
         },
         "https://shibboleth.uni.opole.pl/idp/shibboleth": {
             "en": "Opole University",
@@ -13625,6 +13640,10 @@
         "https://idp.giresun.edu.tr/idp/shibboleth": {
             "en": "Giresun University",
             "tr": "Giresun Üniversitesi"
+        },
+        "https://idp.gop.edu.tr/idp/shibboleth": {
+            "en": "Tokat Gaziosmanpasa University",
+            "tr": "Tokat Gaziosmanpaşa Üniversitesi"
         },
         "https://idp.gsu.edu.tr/idp/shibboleth": {
             "en": "Galatasaray University",
@@ -17231,6 +17250,9 @@
         },
         "https://sso.umgc.edu/gateway": {
             "en": "University of Maryland Global Campus"
+        },
+        "https://sso.unco.edu/idp": {
+            "en": "University of Northern Colorado New"
         },
         "https://sso.ung.edu/simplesaml2": {
             "en": "University of North Georgia"

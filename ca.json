@@ -82,6 +82,9 @@
     "http://sts.algomau.ca/adfs/services/trust": {
         "en": "Algoma University"
     },
+    "http://sts.cencol.ca/adfs/services/trust": {
+        "en": "Centennial College"
+    },
     "http://sts.dc-uoit.ca/adfs/services/trust": {
         "en": "Durham College and Ontario Tech University"
     },
