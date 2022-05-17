@@ -15,10 +15,6 @@
         "en": "eduGAIN Access Check",
         "fr": "eduGAIN Access Check"
     },
-    "https://ambre.vetagro-sup.fr/idp/shibboleth": {
-        "en": "Vetagro Sup",
-        "fr": "Vetagro Sup"
-    },
     "https://antimoine.insa-strasbourg.fr/idp/shibboleth": {
         "en": "INSA Strasbourg",
         "fr": "INSA Strasbourg"
@@ -889,7 +885,7 @@
     },
     "https://papangue.vetagro-sup.fr/idp/shibboleth": {
         "en": "IDP vetagro sup PROD",
-        "fr": "Vetagro Sup Lyon"
+        "fr": "Vetagro Sup"
     },
     "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": {
         "en": "CAMPUS CONDORCET",

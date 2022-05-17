@@ -407,6 +407,10 @@
         "cs": "VŠB - TU Ostrava",
         "en": "VSB - TU Ostrava"
     },
+    "https://idp.vsfs.cz/idp/shibboleth": {
+        "cs": "Vysoká škola finanční a správní",
+        "en": "University of Finance and Administration"
+    },
     "https://idp.vupp.cz/idp/shibboleth": {
         "cs": "Výzkumný ústav potravinářský Praha",
         "en": "Food Research Institute Prague"
