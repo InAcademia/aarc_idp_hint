@@ -636,10 +636,6 @@
             "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
             "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
         },
-        "https://cafe.ifes.edu.br/idp/shibboleth": {
-            "en": "IFES - Instituto Federal do Espirito Santo",
-            "pt-br": "IFES - Instituto Federal do Espirito Santo"
-        },
         "https://cafe.ifms.edu.br/idp/shibboleth": {
             "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
             "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
@@ -775,6 +771,10 @@
         "https://cafe.usf.edu.br/idp/shibboleth": {
             "en": "USF - Universidade Sao Francisco",
             "pt-br": "USF - Universidade Sao Francisco"
+        },
+        "https://cafe02.ifes.edu.br/idp/shibboleth": {
+            "en": "IFES - Instituto Federal do Espirito Santo",
+            "pt-br": "IFES - Instituto Federal do Espirito Santo"
         },
         "https://cafe2.ifro.edu.br/idp/shibboleth": {
             "en": "IFRO - Instituto Federal de Educacao, Ciencia e Tecnologia de Rondonia",
@@ -10485,6 +10485,10 @@
             "en": "Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise \"G. Caporale\"",
             "it": "Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise \"G. Caporale\""
         },
+        "https://idp.liceodesio.edu.it/metadata": {
+            "en": "Liceo \"E. Majorana\" - Desio (MB)",
+            "it": "Liceo \"E. Majorana\" - Desio (MB)"
+        },
         "https://idp.luiss.it/idp/shibboleth": {
             "en": "LUISS",
             "it": "LUISS"
@@ -13745,6 +13749,10 @@
             "en": "Yasar University",
             "tr": "Yaşar Üniversitesi"
         },
+        "https://ims.ahievran.edu.tr": {
+            "en": "Kirsehir Ahi Evran University",
+            "tr": "Kırşehir Ahi Evran Üniversitesi"
+        },
         "https://ims.hbv.edu.tr": {
             "en": "Ankara Haci Bayram Veli University",
             "tr": "Ankara Hacı Bayram Veli Üniversitesi"
@@ -14028,6 +14036,10 @@
         "https://yetkim.etu.edu.tr/idp/saml2/idp/metadata.php": {
             "en": "TOBB University of Economics & Technology",
             "tr": "TOBB Ekonomi ve Teknoloji Üniversitesi"
+        },
+        "https://yetkim.fbu.edu.tr/idp/shibboleth": {
+            "en": "Fenerbahce University",
+            "tr": "Fenerbahçe Üniversitesi"
         },
         "https://yetkim.gtu.edu.tr/idp/shibboleth": {
             "en": "Gebze Technical University",

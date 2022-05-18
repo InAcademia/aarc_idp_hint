@@ -87,10 +87,6 @@
         "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
         "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
     },
-    "https://cafe.ifes.edu.br/idp/shibboleth": {
-        "en": "IFES - Instituto Federal do Espirito Santo",
-        "pt-br": "IFES - Instituto Federal do Espirito Santo"
-    },
     "https://cafe.ifms.edu.br/idp/shibboleth": {
         "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
         "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
@@ -226,6 +222,10 @@
     "https://cafe.usf.edu.br/idp/shibboleth": {
         "en": "USF - Universidade Sao Francisco",
         "pt-br": "USF - Universidade Sao Francisco"
+    },
+    "https://cafe02.ifes.edu.br/idp/shibboleth": {
+        "en": "IFES - Instituto Federal do Espirito Santo",
+        "pt-br": "IFES - Instituto Federal do Espirito Santo"
     },
     "https://cafe2.ifro.edu.br/idp/shibboleth": {
         "en": "IFRO - Instituto Federal de Educacao, Ciencia e Tecnologia de Rondonia",

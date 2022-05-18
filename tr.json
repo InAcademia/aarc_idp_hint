@@ -163,6 +163,10 @@
         "en": "Yasar University",
         "tr": "Yaşar Üniversitesi"
     },
+    "https://ims.ahievran.edu.tr": {
+        "en": "Kirsehir Ahi Evran University",
+        "tr": "Kırşehir Ahi Evran Üniversitesi"
+    },
     "https://ims.hbv.edu.tr": {
         "en": "Ankara Haci Bayram Veli University",
         "tr": "Ankara Hacı Bayram Veli Üniversitesi"
@@ -446,6 +450,10 @@
     "https://yetkim.etu.edu.tr/idp/saml2/idp/metadata.php": {
         "en": "TOBB University of Economics & Technology",
         "tr": "TOBB Ekonomi ve Teknoloji Üniversitesi"
+    },
+    "https://yetkim.fbu.edu.tr/idp/shibboleth": {
+        "en": "Fenerbahce University",
+        "tr": "Fenerbahçe Üniversitesi"
     },
     "https://yetkim.gtu.edu.tr/idp/shibboleth": {
         "en": "Gebze Technical University",
