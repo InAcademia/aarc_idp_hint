@@ -390,7 +390,7 @@
             "en": "IAD-ARTS"
         },
         "https://auth.henallux.be": {
-            "en": "Hénallux"
+            "en": "HÃ©nallux"
         },
         "https://auth.ulb.be/idp": {
             "en": "Universite Libre de Bruxelles (ULB)",
@@ -6702,6 +6702,10 @@
             "en": "Fundación Colegio Americano Quito - fcaq",
             "es": "Fundación Colegio Americano Quito - fcaq"
         },
+        "https://login.hep.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Hospital de Especialidades Portoviejo - hep",
+            "es": "Hospital de Especialidades Portoviejo - hep"
+        },
         "https://login.igepn.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn",
             "es": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn"
@@ -9603,7 +9607,7 @@
             "ga": "An Foras Riarachaín"
         },
         "https://idp.itcarlow.ie/idp/shibboleth": {
-            "en": "Institute of Technology Carlow"
+            "en": "South East Technological University"
         },
         "https://idp.itsligo.ie/idp/shibboleth": {
             "en": "Institute of Technology Sligo",
@@ -9677,6 +9681,9 @@
         },
         "https://sso.ichec.ie/idp/shibboleth": {
             "en": "Irish Centre for High-End Computing - Staff"
+        },
+        "https://sso.identity.ichec.ie/realms/ichec-staff": {
+            "en": "Irish Centre for High-End Computing - Staff MFA"
         },
         "https://sso.ucd.ie/idp/shibboleth": {
             "en": "University College Dublin",

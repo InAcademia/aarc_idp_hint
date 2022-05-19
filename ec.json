@@ -67,6 +67,10 @@
         "en": "Fundación Colegio Americano Quito - fcaq",
         "es": "Fundación Colegio Americano Quito - fcaq"
     },
+    "https://login.hep.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Hospital de Especialidades Portoviejo - hep",
+        "es": "Hospital de Especialidades Portoviejo - hep"
+    },
     "https://login.igepn.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn",
         "es": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn"

@@ -58,7 +58,7 @@
         "ga": "An Foras Riarachaín"
     },
     "https://idp.itcarlow.ie/idp/shibboleth": {
-        "en": "Institute of Technology Carlow"
+        "en": "South East Technological University"
     },
     "https://idp.itsligo.ie/idp/shibboleth": {
         "en": "Institute of Technology Sligo",
@@ -132,6 +132,9 @@
     },
     "https://sso.ichec.ie/idp/shibboleth": {
         "en": "Irish Centre for High-End Computing - Staff"
+    },
+    "https://sso.identity.ichec.ie/realms/ichec-staff": {
+        "en": "Irish Centre for High-End Computing - Staff MFA"
     },
     "https://sso.ucd.ie/idp/shibboleth": {
         "en": "University College Dublin",
