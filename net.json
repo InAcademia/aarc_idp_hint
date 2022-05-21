@@ -19,6 +19,10 @@
         "en": "JiangXi Academy of Sciences",
         "zh": "江西省科学院"
     },
+    "https://idp.redclara.net/saml2/idp/metadata.php": {
+        "en": "AAI@EduHr Single Sign-On Service",
+        "hr": "AAI@EduHr sustav jedinstvene autentikacije korisnika"
+    },
     "https://idp.scholarin.cn/idp/shibboleth": {
         "en": "Scholarin ID",
         "zh": "慧科研通行证"
@@ -34,5 +38,9 @@
     "https://passport.escience.cn/idp/shibboleth": {
         "en": "CSTCloud ID",
         "zh": "中国科技云通行证(CSTCloud ID)"
+    },
+    "https://proxy.redclara.net/idp": {
+        "en": "BEIC - ANID",
+        "es": "BEIC - ANID"
     }
 }

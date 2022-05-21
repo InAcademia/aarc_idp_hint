@@ -1547,6 +1547,10 @@
         "en": "Tianjin Chengjian University",
         "zh": "天津城建大学(Tianjin Chengjian University)"
     },
+    "https://idp.tfswufe.edu.cn/idp/shibboleth": {
+        "en": "Tianfu College of Southwest University of Finance and Economics",
+        "zh": "西南财经大学天府学院(Tianfu College of Southwest University of Finance and Economics)"
+    },
     "https://idp.tiangong.edu.cn/idp/shibboleth": {
         "en": "Tiangong University",
         "zh": "天津工业大学(Tiangong University)"
@@ -1866,6 +1870,10 @@
     "https://idp.xzhmu.edu.cn/idp/shibboleth": {
         "en": "XuZhou Medical University",
         "zh": "徐州医科大学(XuZhou Medical University)"
+    },
+    "https://idp.xzit.edu.cn/idp/shibboleth": {
+        "en": "Xuzhou University of Technology",
+        "zh": "徐州工程学院(Xuzhou University of Technology)"
     },
     "https://idp.ybu.edu.cn/idp/shibboleth": {
         "en": "Yanbian University",

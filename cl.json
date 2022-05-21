@@ -19,10 +19,6 @@
         "en": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas",
         "es": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas"
     },
-    "https://proxy.redclara.net/idp": {
-        "en": "RedCLARA Proxy IdP",
-        "es": "RedCLARA Proxy IdP"
-    },
     "https://sso.uc.cl/cas/idp": {
         "en": "Pontificia Universidad Católica de Chile",
         "es": "Pontificia Universidad Católica de Chile"

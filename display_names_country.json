@@ -390,7 +390,7 @@
             "en": "IAD-ARTS"
         },
         "https://auth.henallux.be": {
-            "en": "HÃ©nallux"
+            "en": "Henallux"
         },
         "https://auth.ulb.be/idp": {
             "en": "Universite Libre de Bruxelles (ULB)",
@@ -636,10 +636,6 @@
             "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
             "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
         },
-        "https://cafe.ifms.edu.br/idp/shibboleth": {
-            "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
-            "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
-        },
         "https://cafe.ifnmg.edu.br/idp/shibboleth": {
             "en": "IFNMG - Instituto Federal do Norte de Minas Gerais",
             "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
@@ -655,10 +651,6 @@
         "https://cafe.ime.eb.br/idp/shibboleth": {
             "en": "IME - Instituto Militar de Engenharia",
             "pt-br": "IME - Instituto Militar de Engenharia"
-        },
-        "https://cafe.int.gov.br/idp/shibboleth": {
-            "en": "INT - Instituto Nacional de Tecnologia",
-            "pt-br": "INT - Instituto Nacional de Tecnologia"
         },
         "https://cafe.mcti.gov.br/idp/shibboleth": {
             "en": "MCTI - Ministerio da Ciencia Tecnologia e Inovacoes",
@@ -783,6 +775,10 @@
         "https://cafe33.setic.ufsc.br/idp/shibboleth": {
             "en": "UFSC - Universidade Federal de Santa Catarina",
             "pt-br": "UFSC - Universidade Federal de Santa Catarina"
+        },
+        "https://cafe4.ifms.edu.br/idp/shibboleth": {
+            "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
+            "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
         },
         "https://cafe4.ufal.br/idp/shibboleth": {
             "en": "UFAL - Universidade Federal de Alagoas",
@@ -959,6 +955,10 @@
         "https://idp.incor.usp.br/idp/shibboleth": {
             "en": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo",
             "pt-br": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo"
+        },
+        "https://idp.int.gov.br/idp/shibboleth": {
+            "en": "INT - Instituto Nacional de Tecnologia",
+            "pt-br": "INT - Instituto Nacional de Tecnologia"
         },
         "https://idp.linea.gov.br/idp/shibboleth": {
             "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
@@ -2047,10 +2047,6 @@
         "https://idp3.redclara.net/idp/shibboleth": {
             "en": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas",
             "es": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas"
-        },
-        "https://proxy.redclara.net/idp": {
-            "en": "RedCLARA Proxy IdP",
-            "es": "RedCLARA Proxy IdP"
         },
         "https://sso.uc.cl/cas/idp": {
             "en": "Pontificia Universidad Católica de Chile",
@@ -3606,6 +3602,10 @@
             "en": "Tianjin Chengjian University",
             "zh": "天津城建大学(Tianjin Chengjian University)"
         },
+        "https://idp.tfswufe.edu.cn/idp/shibboleth": {
+            "en": "Tianfu College of Southwest University of Finance and Economics",
+            "zh": "西南财经大学天府学院(Tianfu College of Southwest University of Finance and Economics)"
+        },
         "https://idp.tiangong.edu.cn/idp/shibboleth": {
             "en": "Tiangong University",
             "zh": "天津工业大学(Tiangong University)"
@@ -3925,6 +3925,10 @@
         "https://idp.xzhmu.edu.cn/idp/shibboleth": {
             "en": "XuZhou Medical University",
             "zh": "徐州医科大学(XuZhou Medical University)"
+        },
+        "https://idp.xzit.edu.cn/idp/shibboleth": {
+            "en": "Xuzhou University of Technology",
+            "zh": "徐州工程学院(Xuzhou University of Technology)"
         },
         "https://idp.ybu.edu.cn/idp/shibboleth": {
             "en": "Yanbian University",
@@ -6885,10 +6889,6 @@
         "https://login.unae.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Nacional de Educadores - unae",
             "es": "Universidad Nacional de Educadores - unae"
-        },
-        "https://login.unemi.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Estatal de Milagro - unemi",
-            "es": "Universidad Estatal de Milagro - unemi"
         },
         "https://login.uniandes.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Regional Autonoma de los Andes - uniandes",
@@ -11461,6 +11461,10 @@
             "en": "JiangXi Academy of Sciences",
             "zh": "江西省科学院"
         },
+        "https://idp.redclara.net/saml2/idp/metadata.php": {
+            "en": "AAI@EduHr Single Sign-On Service",
+            "hr": "AAI@EduHr sustav jedinstvene autentikacije korisnika"
+        },
         "https://idp.scholarin.cn/idp/shibboleth": {
             "en": "Scholarin ID",
             "zh": "慧科研通行证"
@@ -11476,6 +11480,10 @@
         "https://passport.escience.cn/idp/shibboleth": {
             "en": "CSTCloud ID",
             "zh": "中国科技云通行证(CSTCloud ID)"
+        },
+        "https://proxy.redclara.net/idp": {
+            "en": "BEIC - ANID",
+            "es": "BEIC - ANID"
         }
     },
     "ng": {

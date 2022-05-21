@@ -87,10 +87,6 @@
         "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
         "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
     },
-    "https://cafe.ifms.edu.br/idp/shibboleth": {
-        "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
-        "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
-    },
     "https://cafe.ifnmg.edu.br/idp/shibboleth": {
         "en": "IFNMG - Instituto Federal do Norte de Minas Gerais",
         "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
@@ -106,10 +102,6 @@
     "https://cafe.ime.eb.br/idp/shibboleth": {
         "en": "IME - Instituto Militar de Engenharia",
         "pt-br": "IME - Instituto Militar de Engenharia"
-    },
-    "https://cafe.int.gov.br/idp/shibboleth": {
-        "en": "INT - Instituto Nacional de Tecnologia",
-        "pt-br": "INT - Instituto Nacional de Tecnologia"
     },
     "https://cafe.mcti.gov.br/idp/shibboleth": {
         "en": "MCTI - Ministerio da Ciencia Tecnologia e Inovacoes",
@@ -234,6 +226,10 @@
     "https://cafe33.setic.ufsc.br/idp/shibboleth": {
         "en": "UFSC - Universidade Federal de Santa Catarina",
         "pt-br": "UFSC - Universidade Federal de Santa Catarina"
+    },
+    "https://cafe4.ifms.edu.br/idp/shibboleth": {
+        "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
+        "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
     },
     "https://cafe4.ufal.br/idp/shibboleth": {
         "en": "UFAL - Universidade Federal de Alagoas",
@@ -410,6 +406,10 @@
     "https://idp.incor.usp.br/idp/shibboleth": {
         "en": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo",
         "pt-br": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo"
+    },
+    "https://idp.int.gov.br/idp/shibboleth": {
+        "en": "INT - Instituto Nacional de Tecnologia",
+        "pt-br": "INT - Instituto Nacional de Tecnologia"
     },
     "https://idp.linea.gov.br/idp/shibboleth": {
         "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",

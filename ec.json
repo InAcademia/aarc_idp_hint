@@ -251,10 +251,6 @@
         "en": "Universidad Nacional de Educadores - unae",
         "es": "Universidad Nacional de Educadores - unae"
     },
-    "https://login.unemi.cedia.edu.ec/saml2/idp/metadata.php": {
-        "en": "Universidad Estatal de Milagro - unemi",
-        "es": "Universidad Estatal de Milagro - unemi"
-    },
     "https://login.uniandes.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad Regional Autonoma de los Andes - uniandes",
         "es": "Universidad Regional Autonoma de los Andes - uniandes"
