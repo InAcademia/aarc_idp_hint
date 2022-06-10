@@ -77,9 +77,6 @@
     "https://coventry.ac.uk/idp": {
         "en": "Coventry University"
     },
-    "https://dev.mafoo.org.uk/idp-20201022": {
-        "en": "mafoo.org.uk"
-    },
     "https://dev2.webauth.soton.ac.uk/shibboleth": {
         "en": "University of Southampton (Dev 3.x)"
     },

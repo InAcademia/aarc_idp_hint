@@ -127,6 +127,10 @@
         "en": "Neumann Janos Egyetem",
         "hu": "Neumann János Egyetem"
     },
+    "https://idp.nye.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Nyíregyházi Egyetem",
+        "hu": "Nyíregyházi Egyetem"
+    },
     "https://idp.ogyk.hu/saml2/idp/metadata.php": {
         "en": "Library of the Hungarian Parliament",
         "hu": "Országgyűlési Könyvtár"

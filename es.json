@@ -67,6 +67,10 @@
         "en": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas",
         "es": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas"
     },
+    "https://www.rediris.es/sir/cirpidp": {
+        "en": "Centro Ramon Pinieiro para Investigacion en Humanidades",
+        "es": "Centro Ramón Piñeiro para Investigación en Humanidades"
+    },
     "https://www.rediris.es/sir/citaidp": {
         "en": "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
         "es": "Centro de Investigación y Tecnología Agroalimentaria de Aragón"
@@ -190,6 +194,10 @@
         "en": "Institute for High Energy Physics",
         "es": "Instituto de Fisica de Altas Energias"
     },
+    "https://www.rediris.es/sir/ifmif-donesidp": {
+        "en": "International Fusion Materials Irradiation Facility​ DEMO Oriented Neutron Source",
+        "es": "International Fusion Materials Irradiation Facility​ DEMO Oriented Neutron Source"
+    },
     "https://www.rediris.es/sir/imdeamaterialesidp": {
         "en": "Instituto IMDEA Materiales",
         "es": "Instituto IMDEA Materiales"
@@ -226,6 +234,10 @@
         "en": "Instituto Valenciano de Investigaciones Economicas",
         "es": "Instituto Valenciano de Investigaciones Económicas"
     },
+    "https://www.rediris.es/sir/lscidp": {
+        "en": "Consorcio para el Equipamiento y Explotación del Laboratorio Subterráneo de Canfranc",
+        "es": "Consorcio para el Equipamiento y Explotación del Laboratorio Subterráneo de Canfranc"
+    },
     "https://www.rediris.es/sir/muniidp": {
         "en": "Mondragon Unibertsitatea",
         "eu": "Mondragon Unibertsitatea"
@@ -257,6 +269,10 @@
     "https://www.rediris.es/sir/redirisidp": {
         "en": "RedIRIS - Spanish Research and Academic Network",
         "es": "RedIRIS - Red académica y de investigación española"
+    },
+    "https://www.rediris.es/sir/roaidp": {
+        "en": "Real Instituto y Observatorio de la Armada en San Fernando",
+        "es": "Real Instituto y Observatorio de la Armada en San Fernando"
     },
     "https://www.rediris.es/sir/socibidp": {
         "ca": "Consorcio para el disenyo, construccion y explotacion del Sistemade Observacion Costero de las Illes Balears",

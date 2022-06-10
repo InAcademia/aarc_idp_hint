@@ -59,6 +59,9 @@
     "https://kafegw.snu.ac.kr/idp/simplesamlphp": {
         "en": "Seoul National University"
     },
+    "https://kafeid.cnu.ac.kr/idp/simplesamlphp": {
+        "en": "Chungnam National University"
+    },
     "https://share-sso.korea.ac.kr/sso": {
         "en": "Korea University"
     }

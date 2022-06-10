@@ -31,6 +31,10 @@
         "en": "John Paul II Catholic University of Lublin",
         "pl": "Katolicki Uniwersytet Lubelski Jana Pawła II"
     },
+    "https://cas.sgh.waw.pl/cas/idp/metadata": {
+        "en": "SGH Warsaw School of Economics",
+        "pl": "Szkoła Główna Handlowa w Warszawie"
+    },
     "https://cas.sgsp.edu.pl/cas/idp": {
         "en": "Main School of Fire Service",
         "pl": "Szkoła Główna Służby Pożarniczej"
@@ -59,6 +63,10 @@
         "en": "Kazimierz Pułaski University of Technology and Humanities in Radom",
         "pl": "Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu"
     },
+    "https://idp.pollub.pl/shibboleth": {
+        "en": "Lublin University of Technology",
+        "pl": "Politechnika Lubelska"
+    },
     "https://idp.prz.edu.pl/idp/shibboleth": {
         "en": "Rzeszow University of Technology",
         "pl": "Politechnika Rzeszowska"
@@ -70,6 +78,10 @@
     "https://idp.ug.edu.pl/idp/shibboleth": {
         "en": "University of Gdańsk",
         "pl": "Uniwersytet Gdański"
+    },
+    "https://idp.ujk.edu.pl/idp/shibboleth": {
+        "en": "Jan Kochanowski University of Kielce",
+        "pl": "Uniwersytet Jana Kochanowskiego w Kielcach"
     },
     "https://idp.umlub.pl/simplesaml/saml2/idp/metadata.php": {
         "en": "Medical University of Lublin",
@@ -158,9 +170,9 @@
         "en": "E-SCIENCE.PL",
         "pl": "Platforma E-SCIENCE.PL"
     },
-    "https://shib.kpswjg.pl/idp/shibboleth": {
-        "en": "The Karkonosze State University of Applied Sciences",
-        "pl": "Karkonoska Państwowa Szkoła Wyższa w Jeleniej Górze"
+    "https://shib.kans.pl/idp/shibboleth": {
+        "en": "The Karkonosze University of Applied Sciences in Jelenia Gora",
+        "pl": "Karkonoska Akademia Nauk Stosowanych w Jeleniej Górze"
     },
     "https://shib.pwr.edu.pl/idp/shibboleth": {
         "en": "Wroclaw University of Science and Technology",

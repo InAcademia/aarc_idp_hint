@@ -116,6 +116,9 @@
     "https://idp.tcd.ie/idp/shibboleth": {
         "en": "Trinity College Dublin"
     },
+    "https://idp.thea.ie/idp/shibboleth": {
+        "en": "Technological Higher Education Association"
+    },
     "https://idp.tudublin.ie/idp/shibboleth": {
         "en": "TU Dublin (TU Dublin login)"
     },

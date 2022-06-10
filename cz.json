@@ -443,6 +443,10 @@
         "cs": "Moravskoslezská vědecká knihovna v Ostravě",
         "en": "Moravian-Silesian Research Library in Ostrava"
     },
+    "https://katalog.vcm.cz/auth/saml2-idp": {
+        "cs": "Východočeské muzeum Pardubice",
+        "en": "East Bohemia Museum in Pardubice"
+    },
     "https://kfbz.cz/idp/shibboleth": {
         "cs": "Krajská knihovna Františka Bartoše ve Zlíně",
         "en": "Regional Library Zlín"

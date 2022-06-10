@@ -7,6 +7,10 @@
         "en": "Armed Forces Academy of General Milan Rastislav Štefánik",
         "sk": "Akadémia ozbrojených síl generála Milana Rastislava Štefánika"
     },
+    "https://idp.cvtisr.sk/idp/shibboleth": {
+        "en": "Slovak Centre of Scientific and Technical Information",
+        "sk": "Centrum vedecko-technických informácií SR"
+    },
     "https://idp.dti.sk/idp/shibboleth": {
         "en": "DTI University",
         "sk": "Vysoká škola DTI"
@@ -22,6 +26,10 @@
     "https://idp.ismpo.sk/idp/shibboleth": {
         "en": "College of International Business ISM Slovakia in Prešov",
         "sk": "Vysoká škola medzinárodného podnikania ISM Slovakia v Prešove"
+    },
+    "https://idp.sav.sk/idp/shibboleth": {
+        "en": "Slovak Academy of Sciences",
+        "sk": "Slovenská akadémia vied"
     },
     "https://idp.stuba.sk/idp/shibboleth": {
         "en": "Slovak University of Technology in Bratislava",

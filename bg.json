@@ -7,6 +7,10 @@
         "bg": "Бургаски свободен университет",
         "en": "Burgas Free University"
     },
+    "https://idp.cc.bas.bg/idp/shibboleth": {
+        "bg": "Лабораторията по телематика",
+        "en": "Laboratory of Telematics"
+    },
     "https://idp.naval-acad.bg/idp/shibboleth": {
         "bg": "Висше военноморско училище \"Н. Й. Вапцаров\"",
         "en": "Nikola Vaptsarov Naval Academy"

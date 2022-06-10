@@ -167,6 +167,10 @@
         "en": "Yamanashi Gakuin University",
         "ja": "山梨学院大学"
     },
+    "https://idp01.gn.hirosaki-u.ac.jp/idp/shibboleth": {
+        "en": "Hirosaki University",
+        "ja": "弘前大学"
+    },
     "https://kidp.sasebo.ac.jp/idp/shibboleth": {
         "en": "National Institute of Technology,Sasebo College",
         "ja": "佐世保工業高等専門学校"

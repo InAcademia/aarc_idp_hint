@@ -67,6 +67,10 @@
             "de": "FH Kärnten",
             "en": "Carinthia University of Applied Sciences"
         },
+        "https://idp.fh-wien.ac.at/idp/shibboleth": {
+            "de": "FH Wien der WKW",
+            "en": "FH Wien -- University of Applied Sciences for Management & Communication"
+        },
         "https://idp.haydnkons.at/idp/shibboleth": {
             "de": "Joseph Haydn Konservatorium",
             "en": "Joseph Haydn Conservatory"
@@ -262,6 +266,10 @@
         "https://sso.sbg.ac.at/idp/shibboleth": {
             "de": "Universität Salzburg",
             "en": "University of Salzburg"
+        },
+        "https://sso.suttneruni.at/idp/shibboleth": {
+            "de": "Bertha von Suttner Privatuniversität",
+            "en": "Bertha von Suttner Private University"
         },
         "https://sso.tugraz.at/idp/shibboleth": {
             "de": "Technische Universität Graz",
@@ -519,6 +527,10 @@
             "bg": "Бургаски свободен университет",
             "en": "Burgas Free University"
         },
+        "https://idp.cc.bas.bg/idp/shibboleth": {
+            "bg": "Лабораторията по телематика",
+            "en": "Laboratory of Telematics"
+        },
         "https://idp.naval-acad.bg/idp/shibboleth": {
             "bg": "Висше военноморско училище \"Н. Й. Вапцаров\"",
             "en": "Nikola Vaptsarov Naval Academy"
@@ -556,10 +568,6 @@
             "en": "UFABC - Universidade Federal do ABC",
             "pt-br": "UFABC - Universidade Federal do ABC"
         },
-        "https://arabica.fapesp.br/idp/shibboleth": {
-            "en": "FAPESP - Fundacao de Amparo a Pesquisa",
-            "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa"
-        },
         "https://araripe.uece.br/idp/shibboleth": {
             "en": "UECE - Universidade Estadual do Ceara",
             "pt-br": "UECE - Universidade Estadual do Ceara"
@@ -580,9 +588,17 @@
             "en": "UFFS - Universidade Federal da Fronteira Sul",
             "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
         },
+        "https://cafe-idp.ifnmg.edu.br/idp/shibboleth": {
+            "en": "IFNMG - Instituto Federal do Norte de Minas Gerais",
+            "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
+        },
         "https://cafe-idp.ufrrj.br/idp/shibboleth": {
             "en": "UFRRJ - Universidade Federal Rural do Rio de Janeiro",
             "pt-br": "UFRRJ - Universidade Federal Rural do Rio de Janeiro"
+        },
+        "https://cafe-idp.unirio.br/idp/shibboleth": {
+            "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
+            "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
         },
         "https://cafe.accamargo.org.br/idp/shibboleth": {
             "en": "FAP - Fundacao Antonio Prudente",
@@ -628,21 +644,17 @@
             "en": "IEN - Instituto de Engenharia Nuclear",
             "pt-br": "IEN - Instituto de Engenharia Nuclear"
         },
-        "https://cafe.ifb.edu.br/idp/shibboleth": {
-            "en": "IFB - Instituto Federal de Brasilia",
-            "pt-br": "IFB - Instituto Federal de Brasilia"
-        },
         "https://cafe.ifbaiano.edu.br/idp/shibboleth": {
             "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
             "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
         },
-        "https://cafe.ifnmg.edu.br/idp/shibboleth": {
-            "en": "IFNMG - Instituto Federal do Norte de Minas Gerais",
-            "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
-        },
         "https://cafe.ifrj.edu.br/idp/shibboleth": {
             "en": "IFRJ - Instituto Federal do Rio de Janeiro",
             "pt-br": "IFRJ - Instituto Federal do Rio de Janeiro"
+        },
+        "https://cafe.ifro.edu.br/idp/shibboleth": {
+            "en": "IFRO - Instituto Federal de Rondonia",
+            "pt-br": "IFRO - Instituto Federal de Rondonia"
         },
         "https://cafe.ifto.edu.br/idp/shibboleth": {
             "en": "IFTO - Instituto Federal de Educacao do Tocantins",
@@ -768,13 +780,9 @@
             "en": "IFES - Instituto Federal do Espirito Santo",
             "pt-br": "IFES - Instituto Federal do Espirito Santo"
         },
-        "https://cafe2.ifro.edu.br/idp/shibboleth": {
-            "en": "IFRO - Instituto Federal de Educacao, Ciencia e Tecnologia de Rondonia",
-            "pt-br": "IFRO - Instituto Federal de Educacao, Ciencia e Tecnologia de Rondonia"
-        },
-        "https://cafe33.setic.ufsc.br/idp/shibboleth": {
-            "en": "UFSC - Universidade Federal de Santa Catarina",
-            "pt-br": "UFSC - Universidade Federal de Santa Catarina"
+        "https://cafe2.unesp.br/idp/shibboleth": {
+            "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
+            "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
         },
         "https://cafe4.ifms.edu.br/idp/shibboleth": {
             "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
@@ -788,6 +796,10 @@
             "en": "UFES - Universidade Federal do Espirito Santo",
             "pt-br": "UFES - Universidade Federal do Espirito Santo"
         },
+        "https://cafe4.ufsc.br/idp/shibboleth": {
+            "en": "UFSC - Universidade Federal de Santa Catarina",
+            "pt-br": "UFSC - Universidade Federal de Santa Catarina"
+        },
         "https://cafedev.furg.br/idp/shibboleth": {
             "en": "FURG - Universidade Federal do Rio Grande",
             "pt-br": "FURG - Universidade Federal do Rio Grande"
@@ -795,6 +807,10 @@
         "https://cafeidp.ucs.br/idp/shibboleth": {
             "en": "UCS - Universidade de Caxias do Sul",
             "pt-br": "UCS - Universidade de Caxias do Sul"
+        },
+        "https://cafeidp.unemat.br/idp/shibboleth": {
+            "en": "UNEMAT - Universidade do Estado de Mato Grosso",
+            "pt-br": "UNEMAT - Universidade do Estado de Mato Grosso"
         },
         "https://cafernp.imip.org.br/idp/shibboleth": {
             "en": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira",
@@ -860,6 +876,14 @@
             "en": "HMV - Associacao Hospitalar Moinhos de Vento",
             "pt-br": "HMV - Associacao Hospitalar Moinhos de Vento"
         },
+        "https://idp-cafe.ifb.edu.br/idp/shibboleth": {
+            "en": "IFB - Instituto Federal de Brasilia",
+            "pt-br": "IFB - Instituto Federal de Brasilia"
+        },
+        "https://idp-cafe.ifpi.edu.br/idp/shibboleth": {
+            "en": "IFPI - Instituto Federal do Piaui",
+            "pt-br": "IFPI - Instituto Federal do Piaui"
+        },
         "https://idp-cafe.ifrr.edu.br/idp/shibboleth": {
             "en": "IFRR - Instituto Federal de Roraima",
             "pt-br": "IFRR - Instituto Federal de Roraima"
@@ -891,6 +915,10 @@
         "https://idp-novo.dr.ufu.br/idp/shibboleth": {
             "en": "UFU - Universidade Federal de Uberlandia",
             "pt-br": "UFU - Universidade Federal de Uberlandia"
+        },
+        "https://idp-novo.uncisal.edu.br/idp/shibboleth": {
+            "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas",
+            "pt-br": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas"
         },
         "https://idp-shib4.uespi.br/idp/shibboleth": {
             "en": "UESPI - Universidade Estadual do Piaui",
@@ -932,6 +960,10 @@
             "en": "SOBERANA - Faculdade de Saude de Petrolina",
             "pt-br": "SOBERANA - Faculdade de Saude de Petrolina"
         },
+        "https://idp.ifac.edu.br/idp/shibboleth": {
+            "en": "IFAC - Instituto Federal do Acre",
+            "pt-br": "IFAC - Instituto Federal do Acre"
+        },
         "https://idp.ifg.edu.br/idp/shibboleth": {
             "en": "IFG - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DE GOIAS",
             "pt-br": "IFG - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DE GOIAS"
@@ -939,10 +971,6 @@
         "https://idp.ifpb.edu.br/idp/shibboleth": {
             "en": "IFPB - Instituto Federal da Paraiba",
             "pt-br": "IFPB - Instituto Federal da Paraiba"
-        },
-        "https://idp.ifpi.edu.br/idp/shibboleth": {
-            "en": "IFPI - Instituto Federal do Piaui",
-            "pt-br": "IFPI - Instituto Federal do Piaui"
         },
         "https://idp.ifsp.edu.br/idp/shibboleth": {
             "en": "IFSP - Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo",
@@ -988,6 +1016,10 @@
             "en": "UFGD - Universidade Federal da Grande Dourados",
             "pt-br": "UFGD - Universidade Federal da Grande Dourados"
         },
+        "https://idp.ufjf.br/idp/shibboleth": {
+            "en": "UFJF - Universidade Federal de Juiz de Fora",
+            "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
+        },
         "https://idp.ufmt.br/idp/shibboleth": {
             "en": "UFMT - Universidade Federal de Mato Grosso",
             "pt-br": "UFMT - Universidade Federal de Mato Grosso"
@@ -1024,6 +1056,10 @@
             "en": "UNIJORGE - Centro Universitario Jorge Amado",
             "pt-br": "UNIJORGE - Centro Universitario Jorge Amado"
         },
+        "https://idp.unir.br/idp/shibboleth": {
+            "en": "UNIR - Fundacao Universidade Federal de Rondonia",
+            "pt-br": "UNIR - Fundacao Universidade Federal de Rondonia"
+        },
         "https://idp.unirv.edu.br/idp/shibboleth": {
             "en": "UNIRV - Universidade de Rio Verde",
             "pt-br": "UNIRV - Universidade de Rio Verde"
@@ -1052,6 +1088,10 @@
             "en": "UFSM - Universidade Federal de Santa Maria",
             "pt-br": "UFSM - Universidade Federal de Santa Maria"
         },
+        "https://idp2.dmz.inpe.br/idp/shibboleth": {
+            "en": "INPE - Instituto Nacional de Pesquisas Espaciais",
+            "pt-br": "INPE - Instituto Nacional de Pesquisas Espaciais"
+        },
         "https://idp2.ifmg.edu.br/idp/shibboleth": {
             "en": "IFMG - Instituto Federal de Minas Gerais",
             "pt-br": "IFMG - Instituto Federal de Minas Gerais"
@@ -1063,10 +1103,6 @@
         "https://idp2.unijui.edu.br/idp/shibboleth": {
             "en": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
             "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul"
-        },
-        "https://idp2021.unir.br/idp/shibboleth": {
-            "en": "UNIR - Fundacao Universidade Federal de Rondonia",
-            "pt-br": "UNIR - Fundacao Universidade Federal de Rondonia"
         },
         "https://idp3.ifpe.edu.br/idp/shibboleth": {
             "en": "IFPE - Instituto Federal de Pernambuco",
@@ -1099,10 +1135,6 @@
         "https://idpcafe.ufscar.br/idp/shibboleth": {
             "en": "UFSCAR - Universidade Federal de Sao Carlos",
             "pt-br": "UFSCAR - Universidade Federal de Sao Carlos"
-        },
-        "https://idpcafe.unemat.br/idp/shibboleth": {
-            "en": "UNEMAT - Universidade do Estado de Mato Grosso",
-            "pt-br": "UNEMAT - Universidade do Estado de Mato Grosso"
         },
         "https://idpcafe.unifran.br/idp/shibboleth": {
             "en": "UNIFRAN - Universidade de Franca",
@@ -1148,6 +1180,10 @@
             "en": "IFSUL - Instituto Federal Sul-rio-grandense",
             "pt-br": "IFSUL - Instituto Federal Sul-rio-grandense"
         },
+        "https://infra031.umc.br/idp/shibboleth": {
+            "en": "UMC - Universidade de Mogi das Cruzes",
+            "pt-br": "UMC - Universidade de Mogi das Cruzes"
+        },
         "https://ipameri.cti.gov.br/idp/shibboleth": {
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer",
             "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
@@ -1192,10 +1228,6 @@
             "en": "UNIVASF - Universidade Federal do Vale do Sao Francisco",
             "pt-br": "UNIVASF - Universidade Federal do Vale do Sao Francisco"
         },
-        "https://paulica.ufma.br/idp/shibboleth": {
-            "en": "UFMA - Universidade Federal do Maranhao",
-            "pt-br": "UFMA - Universidade Federal do Maranhao"
-        },
         "https://pct-guama-idp-cafe.fundacaoguama.org.br/idp/shibboleth": {
             "en": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
             "pt-br": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
@@ -1223,10 +1255,6 @@
         "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
             "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
             "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
-        },
-        "https://servercafe.iftm.edu.br/idp/shibboleth": {
-            "en": "IFTM - Instituto Federal do Triangulo Mineiro",
-            "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
         },
         "https://shib.esap.go.gov.br/idp/shibboleth": {
             "en": "SES-GO - Secretaria de Estado de Saude de Goias",
@@ -1292,10 +1320,6 @@
             "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
             "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
         },
-        "https://shibboleth.sipam.gov.br/idp/shibboleth": {
-            "en": "CENSIPAM - Sistema de Protecao da Amazonia",
-            "pt-br": "CENSIPAM - Sistema de Protecao da Amazonia"
-        },
         "https://shibboleth.ueg.br/idp/shibboleth": {
             "en": "UEG - Universidade Estadual de Goias",
             "pt-br": "UEG - Universidade Estadual de Goias"
@@ -1320,13 +1344,13 @@
             "en": "UFJ - Universidade Federal de Jatai",
             "pt-br": "UFJ - Universidade Federal de Jatai"
         },
-        "https://shibboleth.ufjf.br/idp/shibboleth": {
-            "en": "UFJF - Universidade Federal de Juiz de Fora",
-            "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
-        },
         "https://shibboleth.ufla.br/idp/shibboleth": {
             "en": "UFLA - Universidade Federal de Lavras",
             "pt-br": "UFLA - Universidade Federal de Lavras"
+        },
+        "https://shibboleth.ufma.br/idp/shibboleth": {
+            "en": "UFMA - Universidade Federal do Maranhao",
+            "pt-br": "UFMA - Universidade Federal do Maranhao"
         },
         "https://shibboleth.ufrj.br/idp/shibboleth": {
             "en": "UFRJ - Universidade Federal do Rio de Janeiro",
@@ -1364,10 +1388,6 @@
             "en": "UNP - Universidade Potiguar",
             "pt-br": "UNP - Universidade Potiguar"
         },
-        "https://shibboleth.utfpr.edu.br/idp/shibboleth": {
-            "en": "UTFPR - Universidade Tecnologica Federal do Parana",
-            "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
-        },
         "https://shibboleth01.pucrs.br/idp/shibboleth": {
             "en": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul",
             "pt-br": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul"
@@ -1380,6 +1400,10 @@
             "en": "UESC - Universidade Estadual de Santa Cruz",
             "pt-br": "UESC - Universidade Estadual de Santa Cruz"
         },
+        "https://shibboleth1p.sipam.gov.br/idp/shibboleth": {
+            "en": "CENSIPAM - Sistema de Protecao da Amazonia",
+            "pt-br": "CENSIPAM - Sistema de Protecao da Amazonia"
+        },
         "https://shibboleth4.ufms.br/idp/shibboleth": {
             "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
             "pt-br": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul"
@@ -1388,17 +1412,13 @@
             "en": "UFRN - Universidade Federal do Rio Grande do Norte",
             "pt-br": "UFRN - Universidade Federal do Rio Grande do Norte"
         },
+        "https://shibboleth4.utfpr.edu.br/idp/shibboleth": {
+            "en": "UTFPR - Universidade Tecnologica Federal do Parana",
+            "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
+        },
         "https://shibbolethidp.ifpr.edu.br/idp/shibboleth": {
             "en": "IFPR - Instituto Federal do Parana",
             "pt-br": "IFPR - Instituto Federal do Parana"
-        },
-        "https://shibbolethserver.unirio.br/idp/shibboleth": {
-            "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
-            "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
-        },
-        "https://shibolleth.ifac.edu.br/idp/shibboleth": {
-            "en": "IFAC - Instituto Federal do Acre",
-            "pt-br": "IFAC - Instituto Federal do Acre"
         },
         "https://siaiap36.univali.br/idp/shibboleth": {
             "en": "UNIVALI - Universidade do Vale do Itajai",
@@ -1881,6 +1901,10 @@
             "de": "ETH Zürich",
             "en": "ETH Zurich"
         },
+        "https://aai-logon.fh-hwz.ch/idp/shibboleth": {
+            "de": "HWZ - Hochschule für Wirtschaft Zürich",
+            "en": "HWZ - Hochschule für Wirtschaft Zürich"
+        },
         "https://aai-logon.fhnw.ch/idp/shibboleth": {
             "de": "FHNW - Fachhochschule Nordwestschweiz",
             "en": "FHNW - Fachhochschule Nordwestschweiz"
@@ -2048,6 +2072,10 @@
             "en": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas",
             "es": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas"
         },
+        "https://proxy.redclara.net/idp": {
+            "en": "RedCLARA Proxy IdP",
+            "es": "RedCLARA Proxy IdP"
+        },
         "https://sso.uc.cl/cas/idp": {
             "en": "Pontificia Universidad Católica de Chile",
             "es": "Pontificia Universidad Católica de Chile"
@@ -2148,7 +2176,7 @@
         },
         "https://idp-lib.muc.edu.cn/idp/shibboleth": {
             "en": "MINZU UNIVERSITY OF CHINA",
-            "zh": "中央民族大学(MINZU UNIVERSITY OF CHINA )"
+            "zh": "中央民族大学(MINZU UNIVERSITY OF CHINA)"
         },
         "https://idp-lib.nefu.edu.cn/idp/shibboleth": {
             "en": "Northeast Forestry University",
@@ -2217,6 +2245,10 @@
         "https://idp-lib.whpu.edu.cn/idp/shibboleth": {
             "en": "Wuhan Polytechnic University",
             "zh": "武汉轻工大学(Wuhan Polytechnic University)"
+        },
+        "https://idp-lib.wku.edu.cn/idp/shibboleth": {
+            "en": "Wenzhou-Kean University",
+            "zh": "温州肯恩大学(Wenzhou-Kean University)"
         },
         "https://idp-lib.zjhu.edu.cn/idp/shibboleth": {
             "en": "Huzhou University",
@@ -2469,10 +2501,6 @@
         "https://idp.cqu.edu.cn/idp/shibboleth": {
             "en": "CHONGQING UNIVERSITY",
             "zh": "重庆大学(CHONGQING UNIVERSITY)"
-        },
-        "https://idp.cque.edu.cn/idp/shibboleth": {
-            "en": "Chongqing  University  Of Education",
-            "zh": "重庆第二师范学院(Chongqing  University  Of Education)"
         },
         "https://idp.cqupt.edu.cn/idp/shibboleth": {
             "en": "Chongqing University of Posts and Telecommunications",
@@ -3658,6 +3686,10 @@
             "en": "Tianjin University of Technology and Education",
             "zh": "天津职业技术师范大学(Tianjin University of Technology and Education)"
         },
+        "https://idp.tyu.edu.cn/idp/shibboleth": {
+            "en": "Taiyuan University",
+            "zh": "太原学院(Taiyuan University)"
+        },
         "https://idp.tyust.edu.cn/idp/shibboleth": {
             "en": "Taiyuan University of Science and Technology",
             "zh": "太原科技大学(Taiyuan University of Science and Technology)"
@@ -4618,6 +4650,10 @@
             "cs": "Moravskoslezská vědecká knihovna v Ostravě",
             "en": "Moravian-Silesian Research Library in Ostrava"
         },
+        "https://katalog.vcm.cz/auth/saml2-idp": {
+            "cs": "Východočeské muzeum Pardubice",
+            "en": "East Bohemia Museum in Pardubice"
+        },
         "https://kfbz.cz/idp/shibboleth": {
             "cs": "Krajská knihovna Františka Bartoše ve Zlíně",
             "en": "Regional Library Zlín"
@@ -5124,6 +5160,10 @@
             "de": "Deutsches Klimarechenzentrum GmbH (DKRZ)",
             "en": "Deutsches Klimarechenzentrum GmbH (DKRZ)"
         },
+        "https://idp.dla-marbach.de/idp/shibboleth": {
+            "de": "Deutsches Literaturarchive Marbach",
+            "en": "German Literature Archive Marbach"
+        },
         "https://idp.dlr.de/idp/shibboleth": {
             "de": "DLR - Deutsches Zentrum fuer Luft- und Raumfahrt e.V.",
             "en": "DLR - Deutsches Zentrum fuer Luft- und Raumfahrt e.V."
@@ -5295,6 +5335,10 @@
         "https://idp.hfbk-dresden.de/idp/shibboleth": {
             "de": "HfBK Dresden",
             "en": "HfBK Dresden"
+        },
+        "https://idp.hfbk.net/idp/shibboleth": {
+            "de": "IDP HFBK Hamburg",
+            "en": "IDP HFBK Hamburg"
         },
         "https://idp.hfg-gmuend.de/idp/shibboleth": {
             "de": "HfG Hochschule für Gestaltung",
@@ -5512,6 +5556,10 @@
             "de": "Leibniz-Institut für Plasmaforschung und Technologie e.V.",
             "en": "Leibniz Institute for Plasma Science and Technology"
         },
+        "https://idp.io-warnemuende.de/idp/shibboleth": {
+            "de": "Leibniz-Institut für Ostseeforschung Warnemünde",
+            "en": "Leibniz-Institut für Ostseeforschung Warnemünde"
+        },
         "https://idp.ipb-halle.de/idp/shibboleth": {
             "de": "IPB Halle",
             "en": "IPB Halle"
@@ -5539,6 +5587,10 @@
         "https://idp.iwm-tuebingen.de/idp/shibboleth": {
             "de": "Leibniz-Institut für Wissensmedien",
             "en": "Leibniz-Institut fuer Wissensmedien"
+        },
+        "https://idp.kh-freiburg.de/idp/shibboleth": {
+            "de": "Katholische Hochschule Freiburg",
+            "en": "Catholic University of Applied Sciences Freiburg"
         },
         "https://idp.khm.de/idp/shibboleth": {
             "de": "Kunsthochschule fuer Medien Koeln",
@@ -5863,6 +5915,10 @@
         "https://idp4.tiho-hannover.de/idp/shibboleth": {
             "de": "Stiftung Tieraerztliche Hochschule Hannover (eduGAIN)",
             "en": "University of Veterinary Medicine Hannover (eduGAIN)"
+        },
+        "https://idpc.th-ab.de/idp/shibboleth": {
+            "de": "Technische Hochschule Aschaffenburg",
+            "en": "Technische Hochschule Aschaffenburg"
         },
         "https://idpdomain.fhhrz.net/idp/shibboleth": {
             "de": "FH HRZ Darmstadt",
@@ -6553,8 +6609,8 @@
             "is": "Háskólinn á Akureyri"
         },
         "https://login.kp.dk/adfs/services/trust": {
-            "da": "Københavns Professionshøjskole",
-            "en": "University College Copenhagen"
+            "da": "Københavns Professionshøjskole [ADFS]",
+            "en": "University College Copenhagen [ADFS]"
         },
         "https://saml.signon.ruc.dk/idp": {
             "da": "Roskilde Universitet (RUC)",
@@ -6575,6 +6631,10 @@
         "https://sts.windows.net/30be3e72-3ef8-4594-bfa3-6423b003e88c/": {
             "da": "Det Kongelige Danske Musikkonservatorium",
             "en": "Royal Danish Academy of Music"
+        },
+        "https://sts.windows.net/3a70e0e7-446e-4496-ba84-702d31dbe830/": {
+            "da": "Københavns Professionshøjskole",
+            "en": "University College Copenhagen"
         },
         "https://sts.windows.net/46f7cafd-ebfa-40a6-98de-bb0ab0df227a/": {
             "da": "Energimuseet",
@@ -6599,6 +6659,10 @@
         "https://sts.windows.net/d7aa303f-a31f-410a-b10f-26ee41af9e93/": {
             "da": "Rytmisk Musikkonservatorium (RMC)",
             "en": "Rhythmic Music Conservatory"
+        },
+        "https://sts.windows.net/e1011e52-7210-4017-950f-458075f9f84e/": {
+            "en": "National University Hospital of Iceland",
+            "is": "Landspítali"
         },
         "https://wayf.aams.dk/simplesaml/saml2/idp/metadata.php": {
             "da": "Aarhus Maskinmesterskole",
@@ -7078,6 +7142,10 @@
             "en": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas",
             "es": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas"
         },
+        "https://www.rediris.es/sir/cirpidp": {
+            "en": "Centro Ramon Pinieiro para Investigacion en Humanidades",
+            "es": "Centro Ramón Piñeiro para Investigación en Humanidades"
+        },
         "https://www.rediris.es/sir/citaidp": {
             "en": "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
             "es": "Centro de Investigación y Tecnología Agroalimentaria de Aragón"
@@ -7201,6 +7269,10 @@
             "en": "Institute for High Energy Physics",
             "es": "Instituto de Fisica de Altas Energias"
         },
+        "https://www.rediris.es/sir/ifmif-donesidp": {
+            "en": "International Fusion Materials Irradiation Facility​ DEMO Oriented Neutron Source",
+            "es": "International Fusion Materials Irradiation Facility​ DEMO Oriented Neutron Source"
+        },
         "https://www.rediris.es/sir/imdeamaterialesidp": {
             "en": "Instituto IMDEA Materiales",
             "es": "Instituto IMDEA Materiales"
@@ -7237,6 +7309,10 @@
             "en": "Instituto Valenciano de Investigaciones Economicas",
             "es": "Instituto Valenciano de Investigaciones Económicas"
         },
+        "https://www.rediris.es/sir/lscidp": {
+            "en": "Consorcio para el Equipamiento y Explotación del Laboratorio Subterráneo de Canfranc",
+            "es": "Consorcio para el Equipamiento y Explotación del Laboratorio Subterráneo de Canfranc"
+        },
         "https://www.rediris.es/sir/muniidp": {
             "en": "Mondragon Unibertsitatea",
             "eu": "Mondragon Unibertsitatea"
@@ -7268,6 +7344,10 @@
         "https://www.rediris.es/sir/redirisidp": {
             "en": "RedIRIS - Spanish Research and Academic Network",
             "es": "RedIRIS - Red académica y de investigación española"
+        },
+        "https://www.rediris.es/sir/roaidp": {
+            "en": "Real Instituto y Observatorio de la Armada en San Fernando",
+            "es": "Real Instituto y Observatorio de la Armada en San Fernando"
         },
         "https://www.rediris.es/sir/socibidp": {
             "ca": "Consorcio para el disenyo, construccion y explotacion del Sistemade Observacion Costero de las Illes Balears",
@@ -9104,14 +9184,6 @@
             "el": "Πανεπιστήμιο Δυτικής Μακεδονίας (πρώην Τεχνολογικό Εκπαιδευτικό Ίδρυμα Δυτικής Μακεδονίας)",
             "en": "University of Western Macedonia (former Technological Educational Institute of Western Macedonia)"
         },
-        "https://idp.teiser.gr/idp/shibboleth": {
-            "el": "Διεθνές Πανεπιστήμιο της Ελλάδος-Σέρρες (μόνο Delos365)",
-            "en": "International Hellenic University-Serres (only Delos365)"
-        },
-        "https://idp.teithe.gr/idp/shibboleth": {
-            "el": "Διεθνές Πανεπιστήμιο της Ελλάδος-Σίνδος (μόνο Delos365)",
-            "en": "International Hellenic University-Sindos (only Delos365)"
-        },
         "https://idp.trikalahospital.gr/idp/shibboleth": {
             "en": "https://idp.trikalahospital.gr/idp/shibboleth"
         },
@@ -9426,6 +9498,10 @@
             "en": "Neumann Janos Egyetem",
             "hu": "Neumann János Egyetem"
         },
+        "https://idp.nye.hu/simplesaml/saml2/idp/metadata.php": {
+            "en": "Nyíregyházi Egyetem",
+            "hu": "Nyíregyházi Egyetem"
+        },
         "https://idp.ogyk.hu/saml2/idp/metadata.php": {
             "en": "Library of the Hungarian Parliament",
             "hu": "Országgyűlési Könyvtár"
@@ -9665,6 +9741,9 @@
         "https://idp.tcd.ie/idp/shibboleth": {
             "en": "Trinity College Dublin"
         },
+        "https://idp.thea.ie/idp/shibboleth": {
+            "en": "Technological Higher Education Association"
+        },
         "https://idp.tudublin.ie/idp/shibboleth": {
             "en": "TU Dublin (TU Dublin login)"
         },
@@ -9886,7 +9965,7 @@
             "en": "Institute for Social and Economic Change"
         },
         "https://idp.iucaa.in/idp/shibboleth": {
-            "en": "Inter-University Centre for Astronomy and Astrophysics"
+            "en": "IUCAA"
         },
         "https://idp.jaipur.manipal.edu/idp/shibboleth": {
             "en": "Manipal University Jaipur"
@@ -10871,6 +10950,10 @@
             "en": "Yamanashi Gakuin University",
             "ja": "山梨学院大学"
         },
+        "https://idp01.gn.hirosaki-u.ac.jp/idp/shibboleth": {
+            "en": "Hirosaki University",
+            "ja": "弘前大学"
+        },
         "https://kidp.sasebo.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Sasebo College",
             "ja": "佐世保工業高等専門学校"
@@ -11022,6 +11105,9 @@
         },
         "https://kafegw.snu.ac.kr/idp/simplesamlphp": {
             "en": "Seoul National University"
+        },
+        "https://kafeid.cnu.ac.kr/idp/simplesamlphp": {
+            "en": "Chungnam National University"
         },
         "https://share-sso.korea.ac.kr/sso": {
             "en": "Korea University"
@@ -11241,8 +11327,7 @@
             "fr": "MENJE - CGIE IAM Utilisateurs"
         },
         "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/": {
-            "en": "Restena Staff",
-            "fr": "Restena Employees"
+            "en": "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/"
         }
     },
     "lv": {
@@ -11286,7 +11371,7 @@
             "en": "LU OverLeaf users IdP"
         },
         "https://psk-idp.lanet.lv": {
-            "en": "P. Stradins Medical College of the University of Latvia"
+            "en": "Pauls Stradins Medical College of the University of Latvia"
         },
         "https://ra-idp.lanet.lv": {
             "en": "Rezekne Academy of Technologies"
@@ -11462,8 +11547,7 @@
             "zh": "江西省科学院"
         },
         "https://idp.redclara.net/saml2/idp/metadata.php": {
-            "en": "AAI@EduHr Single Sign-On Service",
-            "hr": "AAI@EduHr sustav jedinstvene autentikacije korisnika"
+            "en": "https://idp.redclara.net/saml2/idp/metadata.php"
         },
         "https://idp.scholarin.cn/idp/shibboleth": {
             "en": "Scholarin ID",
@@ -11480,10 +11564,6 @@
         "https://passport.escience.cn/idp/shibboleth": {
             "en": "CSTCloud ID",
             "zh": "中国科技云通行证(CSTCloud ID)"
-        },
-        "https://proxy.redclara.net/idp": {
-            "en": "BEIC - ANID",
-            "es": "BEIC - ANID"
         }
     },
     "ng": {
@@ -11580,8 +11660,8 @@
             "nl": "Hogeschool IPABO"
         },
         "http://adfs.iselinge.nl/adfs/services/trust": {
-            "en": "Iselinge university of applied sciences",
-            "nl": "Iselinge Hogeschool"
+            "en": "Iselinge university of applied sciences (old)",
+            "nl": "Iselinge Hogeschool (oud)"
         },
         "http://adfs.knaw.nl/adfs/services/trust": {
             "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)",
@@ -12126,6 +12206,10 @@
             "en": "Thomas More Hogeschool",
             "nl": "Thomas More Hogeschool"
         },
+        "https://sts.windows.net/ea39d597-c395-4a33-b8bc-2c01f8e147e5/": {
+            "en": "Centerdata",
+            "nl": "Centerdata"
+        },
         "https://sts.windows.net/fba70c80-16c2-4415-a402-fca38335609a/": {
             "en": "Yuverta",
             "nl": "Yuverta"
@@ -12193,7 +12277,7 @@
             "en": "Dhofar University"
         },
         "http://adfs.ftik.edu.om/adfs/services/trust": {
-            "en": "Al Khaborah Vocational College of Marine Science"
+            "en": "vocational college of marine science (Al khaboura)"
         },
         "http://adfs.gutech.edu.om/adfs/services/trust": {
             "en": "German University of Technology"
@@ -12456,6 +12540,10 @@
             "en": "John Paul II Catholic University of Lublin",
             "pl": "Katolicki Uniwersytet Lubelski Jana Pawła II"
         },
+        "https://cas.sgh.waw.pl/cas/idp/metadata": {
+            "en": "SGH Warsaw School of Economics",
+            "pl": "Szkoła Główna Handlowa w Warszawie"
+        },
         "https://cas.sgsp.edu.pl/cas/idp": {
             "en": "Main School of Fire Service",
             "pl": "Szkoła Główna Służby Pożarniczej"
@@ -12484,6 +12572,10 @@
             "en": "Kazimierz Pułaski University of Technology and Humanities in Radom",
             "pl": "Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu"
         },
+        "https://idp.pollub.pl/shibboleth": {
+            "en": "Lublin University of Technology",
+            "pl": "Politechnika Lubelska"
+        },
         "https://idp.prz.edu.pl/idp/shibboleth": {
             "en": "Rzeszow University of Technology",
             "pl": "Politechnika Rzeszowska"
@@ -12495,6 +12587,10 @@
         "https://idp.ug.edu.pl/idp/shibboleth": {
             "en": "University of Gdańsk",
             "pl": "Uniwersytet Gdański"
+        },
+        "https://idp.ujk.edu.pl/idp/shibboleth": {
+            "en": "Jan Kochanowski University of Kielce",
+            "pl": "Uniwersytet Jana Kochanowskiego w Kielcach"
         },
         "https://idp.umlub.pl/simplesaml/saml2/idp/metadata.php": {
             "en": "Medical University of Lublin",
@@ -12583,9 +12679,9 @@
             "en": "E-SCIENCE.PL",
             "pl": "Platforma E-SCIENCE.PL"
         },
-        "https://shib.kpswjg.pl/idp/shibboleth": {
-            "en": "The Karkonosze State University of Applied Sciences",
-            "pl": "Karkonoska Państwowa Szkoła Wyższa w Jeleniej Górze"
+        "https://shib.kans.pl/idp/shibboleth": {
+            "en": "The Karkonosze University of Applied Sciences in Jelenia Gora",
+            "pl": "Karkonoska Akademia Nauk Stosowanych w Jeleniej Górze"
         },
         "https://shib.pwr.edu.pl/idp/shibboleth": {
             "en": "Wroclaw University of Science and Technology",
@@ -13145,6 +13241,9 @@
         "http://sso.effatuniversity.edu.sa/adfs/services/trust": {
             "en": "Effat University"
         },
+        "http://sts.ju.edu.sa/adfs/services/trust": {
+            "en": "Jouf University"
+        },
         "http://sts.nbu.edu.sa/adfs/services/trust": {
             "en": "Northern Border University (NBU)"
         },
@@ -13189,10 +13288,6 @@
             "en": "National Library of Sweden",
             "sv": "Kungliga biblioteket"
         },
-        "http://adfs.rkh.se/adfs/services/trust": {
-            "en": "Swedish Red Cross University College",
-            "sv": "Röda Korsets Högskola"
-        },
         "http://adfs.sp.se/adfs/services/trust": {
             "en": "RISE Research Institutes of Sweden",
             "sv": "RISE Research Institutes of Sweden"
@@ -13208,10 +13303,6 @@
         "http://fs.liu.se/adfs/services/trust": {
             "en": "Linköping University",
             "sv": "Linköpings universitet"
-        },
-        "http://fs.nrm.se/adfs/services/trust": {
-            "en": "Swedish Museum of Natural History",
-            "sv": "Naturhistoriska riksmuseet"
         },
         "http://idp.chalmers.se/adfs/services/trust": {
             "en": "Chalmers",
@@ -13506,6 +13597,10 @@
             "en": "Armed Forces Academy of General Milan Rastislav Štefánik",
             "sk": "Akadémia ozbrojených síl generála Milana Rastislava Štefánika"
         },
+        "https://idp.cvtisr.sk/idp/shibboleth": {
+            "en": "Slovak Centre of Scientific and Technical Information",
+            "sk": "Centrum vedecko-technických informácií SR"
+        },
         "https://idp.dti.sk/idp/shibboleth": {
             "en": "DTI University",
             "sk": "Vysoká škola DTI"
@@ -13521,6 +13616,10 @@
         "https://idp.ismpo.sk/idp/shibboleth": {
             "en": "College of International Business ISM Slovakia in Prešov",
             "sk": "Vysoká škola medzinárodného podnikania ISM Slovakia v Prešove"
+        },
+        "https://idp.sav.sk/idp/shibboleth": {
+            "en": "Slovak Academy of Sciences",
+            "sk": "Slovenská akadémia vied"
         },
         "https://idp.stuba.sk/idp/shibboleth": {
             "en": "Slovak University of Technology in Bratislava",
@@ -13680,6 +13779,10 @@
             "en": "Izmir Democracy University",
             "tr": "İzmir Demokrasi Üniversitesi"
         },
+        "https://idp.iuc.edu.tr/idp/shibboleth": {
+            "en": "Istanbul University Cerrahpasa",
+            "tr": "İstanbul Üniversitesi Cerrahpaşa"
+        },
         "https://idp.iyte.edu.tr/idp/shibboleth": {
             "en": "Izmir Institute of High Technology",
             "tr": "İzmir Yüksek Teknoloji Enstitüsü"
@@ -13723,10 +13826,6 @@
         "https://idp.ogu.edu.tr/idp/shibboleth": {
             "en": "Eskisehir Osmangazi University",
             "tr": "Eskişehir Osmangazi Üniversitesi"
-        },
-        "https://idp.pa.edu.tr/idp/shibboleth": {
-            "en": "Presidency of the Police Academy",
-            "tr": "Polis Akademisi Başkanlığı"
         },
         "https://idp.samsun.edu.tr/idp/shibboleth": {
             "en": "Samsun University",
@@ -13868,6 +13967,10 @@
             "en": "Dokuz Eylul University",
             "tr": "Dokuz Eylül Üniversitesi"
         },
+        "https://kimlik.dogus.edu.tr/idp/shibboleth": {
+            "en": "Dogus University",
+            "tr": "Doğuş Üniversitesi"
+        },
         "https://kimlik.duzce.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Duzce University",
             "tr": "Düzce Üniversitesi"
@@ -13876,9 +13979,17 @@
             "en": "Ege University",
             "tr": "Ege Üniversitesi"
         },
+        "https://kimlik.erbakan.edu.tr/idp/shibboleth": {
+            "en": "Necmettin Erbakan University",
+            "tr": "Necmettin Erbakan Üniversitesi"
+        },
         "https://kimlik.erdogan.edu.tr/idp/shibboleth": {
             "en": "Recep Tayyip Erdogan University",
             "tr": "Recep Tayyip Erdoğan Üniversitesi"
+        },
+        "https://kimlik.eskisehir.edu.tr/idp/shibboleth": {
+            "en": "Eskisehir Technical University",
+            "tr": "Eskişehir Teknik Üniversitesi"
         },
         "https://kimlik.fsm.edu.tr/idp/shibboleth": {
             "en": "Fatih Sultan Mehmet Vakif University",
@@ -13975,6 +14086,14 @@
         "https://kimlik.sisli.edu.tr/idp/shibboleth": {
             "en": "Şişli Vocational School",
             "tr": "Şişli Meslek Yüksekokulu"
+        },
+        "https://kimlik.topkapi.edu.tr/simplesaml/saml2/idp/metadata.php": {
+            "en": "Istanbul Topkapi University",
+            "tr": "İstanbul Topkapı Üniversitesi"
+        },
+        "https://kimlik.toros.edu.tr/simplesaml/saml2/idp/metadata.php": {
+            "en": "Toros University",
+            "tr": "Toros Üniversitesi"
         },
         "https://kimlik.trakya.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Trakya University",
@@ -14099,6 +14218,10 @@
         "https://yetkim.klu.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Kirklareli University",
             "tr": "Kırklareli Üversitesi"
+        },
+        "https://yetkim.kocaeli.edu.tr/idp/shibboleth": {
+            "en": "Kocaeli University",
+            "tr": "Kocaeli Üniversitesi"
         },
         "https://yetkim.maltepe.edu.tr/idp/shibboleth": {
             "en": "Maltepe University",
@@ -14264,9 +14387,6 @@
         },
         "https://coventry.ac.uk/idp": {
             "en": "Coventry University"
-        },
-        "https://dev.mafoo.org.uk/idp-20201022": {
-            "en": "mafoo.org.uk"
         },
         "https://dev2.webauth.soton.ac.uk/shibboleth": {
             "en": "University of Southampton (Dev 3.x)"
@@ -16376,11 +16496,17 @@
         "https://idp.gatech.edu/idp/shibboleth": {
             "en": "Georgia Institute of Technology"
         },
+        "https://idp.getinclusive.com/simplesaml/saml2/idp/metadata.php": {
+            "en": "Getinclusive IDP"
+        },
         "https://idp.getty.edu/idp": {
             "en": "J. Paul Getty Trust"
         },
         "https://idp.gonzaga.edu/idp": {
             "en": "Gonzaga University"
+        },
+        "https://idp.greatplains.net": {
+            "en": "Great Plains Network"
         },
         "https://idp.grinnell.edu/idp/shibboleth": {
             "en": "Grinnell College"
@@ -16702,9 +16828,6 @@
         },
         "https://junebug2.mcc.edu/idp/shibboleth": {
             "en": "Mott Community College"
-        },
-        "https://keycloak.tacc.utexas.edu/auth/realms/tacc-ldap": {
-            "en": "TEXAS ADVANCED COMPUTING CENTER"
         },
         "https://login.aus.edu/idp/shibboleth": {
             "en": "American University of Sharjah"
@@ -17033,9 +17156,6 @@
         "https://shibboleth.gmu.edu/idp/shibboleth": {
             "en": "George Mason University"
         },
-        "https://shibboleth.greatplains.net/idp/shibboleth": {
-            "en": "Great Plains Network"
-        },
         "https://shibboleth.hamilton.edu/idp/shibboleth": {
             "en": "Hamilton College"
         },
@@ -17197,6 +17317,9 @@
         },
         "https://sso.cccmypath.org/simplesaml/saml2/idp/metadata.php": {
             "en": "California Community Colleges Chancellors Office"
+        },
+        "https://sso.coh.org/idp": {
+            "en": "City of Hope"
         },
         "https://sso.csumb.edu/idp/shibboleth": {
             "en": "California State University, Monterey Bay"

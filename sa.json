@@ -59,6 +59,9 @@
     "http://sso.effatuniversity.edu.sa/adfs/services/trust": {
         "en": "Effat University"
     },
+    "http://sts.ju.edu.sa/adfs/services/trust": {
+        "en": "Jouf University"
+    },
     "http://sts.nbu.edu.sa/adfs/services/trust": {
         "en": "Northern Border University (NBU)"
     },

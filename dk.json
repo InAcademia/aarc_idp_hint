@@ -186,8 +186,8 @@
         "is": "Háskólinn á Akureyri"
     },
     "https://login.kp.dk/adfs/services/trust": {
-        "da": "Københavns Professionshøjskole",
-        "en": "University College Copenhagen"
+        "da": "Københavns Professionshøjskole [ADFS]",
+        "en": "University College Copenhagen [ADFS]"
     },
     "https://saml.signon.ruc.dk/idp": {
         "da": "Roskilde Universitet (RUC)",
@@ -208,6 +208,10 @@
     "https://sts.windows.net/30be3e72-3ef8-4594-bfa3-6423b003e88c/": {
         "da": "Det Kongelige Danske Musikkonservatorium",
         "en": "Royal Danish Academy of Music"
+    },
+    "https://sts.windows.net/3a70e0e7-446e-4496-ba84-702d31dbe830/": {
+        "da": "Københavns Professionshøjskole",
+        "en": "University College Copenhagen"
     },
     "https://sts.windows.net/46f7cafd-ebfa-40a6-98de-bb0ab0df227a/": {
         "da": "Energimuseet",
@@ -232,6 +236,10 @@
     "https://sts.windows.net/d7aa303f-a31f-410a-b10f-26ee41af9e93/": {
         "da": "Rytmisk Musikkonservatorium (RMC)",
         "en": "Rhythmic Music Conservatory"
+    },
+    "https://sts.windows.net/e1011e52-7210-4017-950f-458075f9f84e/": {
+        "en": "National University Hospital of Iceland",
+        "is": "Landspítali"
     },
     "https://wayf.aams.dk/simplesaml/saml2/idp/metadata.php": {
         "da": "Aarhus Maskinmesterskole",

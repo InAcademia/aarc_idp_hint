@@ -79,6 +79,10 @@
         "en": "Izmir Democracy University",
         "tr": "İzmir Demokrasi Üniversitesi"
     },
+    "https://idp.iuc.edu.tr/idp/shibboleth": {
+        "en": "Istanbul University Cerrahpasa",
+        "tr": "İstanbul Üniversitesi Cerrahpaşa"
+    },
     "https://idp.iyte.edu.tr/idp/shibboleth": {
         "en": "Izmir Institute of High Technology",
         "tr": "İzmir Yüksek Teknoloji Enstitüsü"
@@ -122,10 +126,6 @@
     "https://idp.ogu.edu.tr/idp/shibboleth": {
         "en": "Eskisehir Osmangazi University",
         "tr": "Eskişehir Osmangazi Üniversitesi"
-    },
-    "https://idp.pa.edu.tr/idp/shibboleth": {
-        "en": "Presidency of the Police Academy",
-        "tr": "Polis Akademisi Başkanlığı"
     },
     "https://idp.samsun.edu.tr/idp/shibboleth": {
         "en": "Samsun University",
@@ -267,6 +267,10 @@
         "en": "Dokuz Eylul University",
         "tr": "Dokuz Eylül Üniversitesi"
     },
+    "https://kimlik.dogus.edu.tr/idp/shibboleth": {
+        "en": "Dogus University",
+        "tr": "Doğuş Üniversitesi"
+    },
     "https://kimlik.duzce.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Duzce University",
         "tr": "Düzce Üniversitesi"
@@ -275,9 +279,17 @@
         "en": "Ege University",
         "tr": "Ege Üniversitesi"
     },
+    "https://kimlik.erbakan.edu.tr/idp/shibboleth": {
+        "en": "Necmettin Erbakan University",
+        "tr": "Necmettin Erbakan Üniversitesi"
+    },
     "https://kimlik.erdogan.edu.tr/idp/shibboleth": {
         "en": "Recep Tayyip Erdogan University",
         "tr": "Recep Tayyip Erdoğan Üniversitesi"
+    },
+    "https://kimlik.eskisehir.edu.tr/idp/shibboleth": {
+        "en": "Eskisehir Technical University",
+        "tr": "Eskişehir Teknik Üniversitesi"
     },
     "https://kimlik.fsm.edu.tr/idp/shibboleth": {
         "en": "Fatih Sultan Mehmet Vakif University",
@@ -374,6 +386,14 @@
     "https://kimlik.sisli.edu.tr/idp/shibboleth": {
         "en": "Şişli Vocational School",
         "tr": "Şişli Meslek Yüksekokulu"
+    },
+    "https://kimlik.topkapi.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Istanbul Topkapi University",
+        "tr": "İstanbul Topkapı Üniversitesi"
+    },
+    "https://kimlik.toros.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Toros University",
+        "tr": "Toros Üniversitesi"
     },
     "https://kimlik.trakya.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Trakya University",
@@ -498,6 +518,10 @@
     "https://yetkim.klu.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Kirklareli University",
         "tr": "Kırklareli Üversitesi"
+    },
+    "https://yetkim.kocaeli.edu.tr/idp/shibboleth": {
+        "en": "Kocaeli University",
+        "tr": "Kocaeli Üniversitesi"
     },
     "https://yetkim.maltepe.edu.tr/idp/shibboleth": {
         "en": "Maltepe University",

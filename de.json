@@ -195,6 +195,10 @@
         "de": "Deutsches Klimarechenzentrum GmbH (DKRZ)",
         "en": "Deutsches Klimarechenzentrum GmbH (DKRZ)"
     },
+    "https://idp.dla-marbach.de/idp/shibboleth": {
+        "de": "Deutsches Literaturarchive Marbach",
+        "en": "German Literature Archive Marbach"
+    },
     "https://idp.dlr.de/idp/shibboleth": {
         "de": "DLR - Deutsches Zentrum fuer Luft- und Raumfahrt e.V.",
         "en": "DLR - Deutsches Zentrum fuer Luft- und Raumfahrt e.V."
@@ -366,6 +370,10 @@
     "https://idp.hfbk-dresden.de/idp/shibboleth": {
         "de": "HfBK Dresden",
         "en": "HfBK Dresden"
+    },
+    "https://idp.hfbk.net/idp/shibboleth": {
+        "de": "IDP HFBK Hamburg",
+        "en": "IDP HFBK Hamburg"
     },
     "https://idp.hfg-gmuend.de/idp/shibboleth": {
         "de": "HfG Hochschule für Gestaltung",
@@ -583,6 +591,10 @@
         "de": "Leibniz-Institut für Plasmaforschung und Technologie e.V.",
         "en": "Leibniz Institute for Plasma Science and Technology"
     },
+    "https://idp.io-warnemuende.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Ostseeforschung Warnemünde",
+        "en": "Leibniz-Institut für Ostseeforschung Warnemünde"
+    },
     "https://idp.ipb-halle.de/idp/shibboleth": {
         "de": "IPB Halle",
         "en": "IPB Halle"
@@ -610,6 +622,10 @@
     "https://idp.iwm-tuebingen.de/idp/shibboleth": {
         "de": "Leibniz-Institut für Wissensmedien",
         "en": "Leibniz-Institut fuer Wissensmedien"
+    },
+    "https://idp.kh-freiburg.de/idp/shibboleth": {
+        "de": "Katholische Hochschule Freiburg",
+        "en": "Catholic University of Applied Sciences Freiburg"
     },
     "https://idp.khm.de/idp/shibboleth": {
         "de": "Kunsthochschule fuer Medien Koeln",
@@ -934,6 +950,10 @@
     "https://idp4.tiho-hannover.de/idp/shibboleth": {
         "de": "Stiftung Tieraerztliche Hochschule Hannover (eduGAIN)",
         "en": "University of Veterinary Medicine Hannover (eduGAIN)"
+    },
+    "https://idpc.th-ab.de/idp/shibboleth": {
+        "de": "Technische Hochschule Aschaffenburg",
+        "en": "Technische Hochschule Aschaffenburg"
     },
     "https://idpdomain.fhhrz.net/idp/shibboleth": {
         "de": "FH HRZ Darmstadt",

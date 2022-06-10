@@ -55,6 +55,10 @@
         "de": "FH Kärnten",
         "en": "Carinthia University of Applied Sciences"
     },
+    "https://idp.fh-wien.ac.at/idp/shibboleth": {
+        "de": "FH Wien der WKW",
+        "en": "FH Wien -- University of Applied Sciences for Management & Communication"
+    },
     "https://idp.haydnkons.at/idp/shibboleth": {
         "de": "Joseph Haydn Konservatorium",
         "en": "Joseph Haydn Conservatory"
@@ -250,6 +254,10 @@
     "https://sso.sbg.ac.at/idp/shibboleth": {
         "de": "Universität Salzburg",
         "en": "University of Salzburg"
+    },
+    "https://sso.suttneruni.at/idp/shibboleth": {
+        "de": "Bertha von Suttner Privatuniversität",
+        "en": "Bertha von Suttner Private University"
     },
     "https://sso.tugraz.at/idp/shibboleth": {
         "de": "Technische Universität Graz",

@@ -72,8 +72,8 @@
         "nl": "Hogeschool IPABO"
     },
     "http://adfs.iselinge.nl/adfs/services/trust": {
-        "en": "Iselinge university of applied sciences",
-        "nl": "Iselinge Hogeschool"
+        "en": "Iselinge university of applied sciences (old)",
+        "nl": "Iselinge Hogeschool (oud)"
     },
     "http://adfs.knaw.nl/adfs/services/trust": {
         "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)",
@@ -617,6 +617,10 @@
     "https://sts.windows.net/e5c78cdf-04b3-4b36-a97a-4f15e225efd3/": {
         "en": "Thomas More Hogeschool",
         "nl": "Thomas More Hogeschool"
+    },
+    "https://sts.windows.net/ea39d597-c395-4a33-b8bc-2c01f8e147e5/": {
+        "en": "Centerdata",
+        "nl": "Centerdata"
     },
     "https://sts.windows.net/fba70c80-16c2-4415-a402-fca38335609a/": {
         "en": "Yuverta",

@@ -11,10 +11,6 @@
         "en": "National Library of Sweden",
         "sv": "Kungliga biblioteket"
     },
-    "http://adfs.rkh.se/adfs/services/trust": {
-        "en": "Swedish Red Cross University College",
-        "sv": "Röda Korsets Högskola"
-    },
     "http://adfs.sp.se/adfs/services/trust": {
         "en": "RISE Research Institutes of Sweden",
         "sv": "RISE Research Institutes of Sweden"
@@ -30,10 +26,6 @@
     "http://fs.liu.se/adfs/services/trust": {
         "en": "Linköping University",
         "sv": "Linköpings universitet"
-    },
-    "http://fs.nrm.se/adfs/services/trust": {
-        "en": "Swedish Museum of Natural History",
-        "sv": "Naturhistoriska riksmuseet"
     },
     "http://idp.chalmers.se/adfs/services/trust": {
         "en": "Chalmers",

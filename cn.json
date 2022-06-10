@@ -93,7 +93,7 @@
     },
     "https://idp-lib.muc.edu.cn/idp/shibboleth": {
         "en": "MINZU UNIVERSITY OF CHINA",
-        "zh": "中央民族大学(MINZU UNIVERSITY OF CHINA )"
+        "zh": "中央民族大学(MINZU UNIVERSITY OF CHINA)"
     },
     "https://idp-lib.nefu.edu.cn/idp/shibboleth": {
         "en": "Northeast Forestry University",
@@ -162,6 +162,10 @@
     "https://idp-lib.whpu.edu.cn/idp/shibboleth": {
         "en": "Wuhan Polytechnic University",
         "zh": "武汉轻工大学(Wuhan Polytechnic University)"
+    },
+    "https://idp-lib.wku.edu.cn/idp/shibboleth": {
+        "en": "Wenzhou-Kean University",
+        "zh": "温州肯恩大学(Wenzhou-Kean University)"
     },
     "https://idp-lib.zjhu.edu.cn/idp/shibboleth": {
         "en": "Huzhou University",
@@ -414,10 +418,6 @@
     "https://idp.cqu.edu.cn/idp/shibboleth": {
         "en": "CHONGQING UNIVERSITY",
         "zh": "重庆大学(CHONGQING UNIVERSITY)"
-    },
-    "https://idp.cque.edu.cn/idp/shibboleth": {
-        "en": "Chongqing  University  Of Education",
-        "zh": "重庆第二师范学院(Chongqing  University  Of Education)"
     },
     "https://idp.cqupt.edu.cn/idp/shibboleth": {
         "en": "Chongqing University of Posts and Telecommunications",
@@ -1602,6 +1602,10 @@
     "https://idp.tute.edu.cn/idp/shibboleth": {
         "en": "Tianjin University of Technology and Education",
         "zh": "天津职业技术师范大学(Tianjin University of Technology and Education)"
+    },
+    "https://idp.tyu.edu.cn/idp/shibboleth": {
+        "en": "Taiyuan University",
+        "zh": "太原学院(Taiyuan University)"
     },
     "https://idp.tyust.edu.cn/idp/shibboleth": {
         "en": "Taiyuan University of Science and Technology",
