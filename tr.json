@@ -531,6 +531,10 @@
         "en": "Marmara University",
         "tr": "Marmara Üniversitesi"
     },
+    "https://yetkim.mgu.edu.tr/idp/shibboleth": {
+        "en": "Ankara Music and Fine Arts University",
+        "tr": "Ankara Müzik ve Güzel Sanatlar Üniversitesi"
+    },
     "https://yetkim.mku.edu.tr/idp/shibboleth": {
         "en": "Hatay Mustafa Kemal University",
         "tr": "Hatay Mustafa Kemal Üniversitesi"

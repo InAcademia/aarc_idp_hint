@@ -247,10 +247,6 @@
         "en": "Identitas : RENATER Connect",
         "fr": "Identitas : RENATER Connect"
     },
-    "https://idp-couperin.renater.fr/idp/shibboleth": {
-        "en": "COUPERIN",
-        "fr": "COUPERIN"
-    },
     "https://idp-ensad.renater.fr/idp/shibboleth": {
         "en": "EnsAD - École nationale supérieure des Arts Décoratifs",
         "fr": "EnsAD - École nationale supérieure des Arts Décoratifs"

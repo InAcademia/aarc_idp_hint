@@ -608,6 +608,10 @@
             "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
             "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
         },
+        "https://cafe.cefet-rj.br/idp/shibboleth": {
+            "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
+            "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
+        },
         "https://cafe.dti.ufv.br/idp/shibboleth": {
             "en": "UFV - Universidade Federal de Vicosa",
             "pt-br": "UFV - Universidade Federal de Vicosa"
@@ -1264,10 +1268,6 @@
             "en": "UFERSA - Universidade Federal Rural Do Semi-Arido",
             "pt-br": "UFERSA - Universidade Federal Rural Do Semi-Arido"
         },
-        "https://shibboleth.cefet-rj.br/idp/shibboleth": {
-            "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
-            "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
-        },
         "https://shibboleth.cetem.gov.br/idp/shibboleth": {
             "en": "CETEM - Centro de Tecnologia Mineral",
             "pt-br": "CETEM - Centro de Tecnologia Mineral"
@@ -1351,6 +1351,10 @@
         "https://shibboleth.ufma.br/idp/shibboleth": {
             "en": "UFMA - Universidade Federal do Maranhao",
             "pt-br": "UFMA - Universidade Federal do Maranhao"
+        },
+        "https://shibboleth.ufopa.edu.br/idp/shibboleth": {
+            "en": "UFOPA - Universidade Federal do Oeste do Para",
+            "pt-br": "UFOPA - Universidade Federal do Oeste do Para"
         },
         "https://shibboleth.ufrj.br/idp/shibboleth": {
             "en": "UFRJ - Universidade Federal do Rio de Janeiro",
@@ -1633,6 +1637,10 @@
         },
         "https://identity.concordia.ab.ca/idp/shibboleth": {
             "en": "Concordia University of Edmonton"
+        },
+        "https://idp.alliancecan.ca/idp/shibboleth": {
+            "en": "Digital Research Alliance of Canada",
+            "fr": "Alliance de recherche numérique du Canada"
         },
         "https://idp.bc.net/idp/shibboleth": {
             "en": "BCNET"
@@ -2499,8 +2507,8 @@
             "zh": "重庆医科大学(Chongqing Medical University)"
         },
         "https://idp.cqu.edu.cn/idp/shibboleth": {
-            "en": "CHONGQING UNIVERSITY",
-            "zh": "重庆大学(CHONGQING UNIVERSITY)"
+            "en": "Chongqing University",
+            "zh": "重庆大学(Chongqing University)"
         },
         "https://idp.cqupt.edu.cn/idp/shibboleth": {
             "en": "Chongqing University of Posts and Telecommunications",
@@ -8029,10 +8037,6 @@
             "en": "Identitas : RENATER Connect",
             "fr": "Identitas : RENATER Connect"
         },
-        "https://idp-couperin.renater.fr/idp/shibboleth": {
-            "en": "COUPERIN",
-            "fr": "COUPERIN"
-        },
         "https://idp-ensad.renater.fr/idp/shibboleth": {
             "en": "EnsAD - École nationale supérieure des Arts Décoratifs",
             "fr": "EnsAD - École nationale supérieure des Arts Décoratifs"
@@ -11660,8 +11664,8 @@
             "nl": "Hogeschool IPABO"
         },
         "http://adfs.iselinge.nl/adfs/services/trust": {
-            "en": "Iselinge university of applied sciences (old)",
-            "nl": "Iselinge Hogeschool (oud)"
+            "en": "Iselinge university of applied sciences",
+            "nl": "Iselinge Hogeschool"
         },
         "http://adfs.knaw.nl/adfs/services/trust": {
             "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)",
@@ -14231,6 +14235,10 @@
             "en": "Marmara University",
             "tr": "Marmara Üniversitesi"
         },
+        "https://yetkim.mgu.edu.tr/idp/shibboleth": {
+            "en": "Ankara Music and Fine Arts University",
+            "tr": "Ankara Müzik ve Güzel Sanatlar Üniversitesi"
+        },
         "https://yetkim.mku.edu.tr/idp/shibboleth": {
             "en": "Hatay Mustafa Kemal University",
             "tr": "Hatay Mustafa Kemal Üniversitesi"
@@ -16619,7 +16627,7 @@
         "https://idp.ornl.gov/idp": {
             "en": "Oak Ridge National Laboratory"
         },
-        "https://idp.osc.edu/auth/realms/osc": {
+        "https://idp.osc.edu/realms/osc": {
             "en": "Ohio Supercomputer Center (OSC)"
         },
         "https://idp.pct.edu/idp/shibboleth": {

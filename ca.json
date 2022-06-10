@@ -135,6 +135,10 @@
     "https://identity.concordia.ab.ca/idp/shibboleth": {
         "en": "Concordia University of Edmonton"
     },
+    "https://idp.alliancecan.ca/idp/shibboleth": {
+        "en": "Digital Research Alliance of Canada",
+        "fr": "Alliance de recherche numérique du Canada"
+    },
     "https://idp.bc.net/idp/shibboleth": {
         "en": "BCNET"
     },

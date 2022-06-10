@@ -485,7 +485,7 @@
     "https://idp.ornl.gov/idp": {
         "en": "Oak Ridge National Laboratory"
     },
-    "https://idp.osc.edu/auth/realms/osc": {
+    "https://idp.osc.edu/realms/osc": {
         "en": "Ohio Supercomputer Center (OSC)"
     },
     "https://idp.pct.edu/idp/shibboleth": {

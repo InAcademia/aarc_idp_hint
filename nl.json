@@ -72,8 +72,8 @@
         "nl": "Hogeschool IPABO"
     },
     "http://adfs.iselinge.nl/adfs/services/trust": {
-        "en": "Iselinge university of applied sciences (old)",
-        "nl": "Iselinge Hogeschool (oud)"
+        "en": "Iselinge university of applied sciences",
+        "nl": "Iselinge Hogeschool"
     },
     "http://adfs.knaw.nl/adfs/services/trust": {
         "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)",

@@ -47,6 +47,10 @@
         "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
         "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
     },
+    "https://cafe.cefet-rj.br/idp/shibboleth": {
+        "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
+        "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
+    },
     "https://cafe.dti.ufv.br/idp/shibboleth": {
         "en": "UFV - Universidade Federal de Vicosa",
         "pt-br": "UFV - Universidade Federal de Vicosa"
@@ -703,10 +707,6 @@
         "en": "UFERSA - Universidade Federal Rural Do Semi-Arido",
         "pt-br": "UFERSA - Universidade Federal Rural Do Semi-Arido"
     },
-    "https://shibboleth.cefet-rj.br/idp/shibboleth": {
-        "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
-        "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
-    },
     "https://shibboleth.cetem.gov.br/idp/shibboleth": {
         "en": "CETEM - Centro de Tecnologia Mineral",
         "pt-br": "CETEM - Centro de Tecnologia Mineral"
@@ -790,6 +790,10 @@
     "https://shibboleth.ufma.br/idp/shibboleth": {
         "en": "UFMA - Universidade Federal do Maranhao",
         "pt-br": "UFMA - Universidade Federal do Maranhao"
+    },
+    "https://shibboleth.ufopa.edu.br/idp/shibboleth": {
+        "en": "UFOPA - Universidade Federal do Oeste do Para",
+        "pt-br": "UFOPA - Universidade Federal do Oeste do Para"
     },
     "https://shibboleth.ufrj.br/idp/shibboleth": {
         "en": "UFRJ - Universidade Federal do Rio de Janeiro",
