@@ -755,6 +755,10 @@
         "en": "Hebei Agricultural University",
         "zh": "河北农业大学(Hebei Agricultural University )"
     },
+    "https://idp.hebeu.edu.cn/idp/shibboleth": {
+        "en": "Hebei University of Engineering",
+        "zh": "河北工程大学(Hebei University of Engineering)"
+    },
     "https://idp.hebmu.edu.cn/idp/shibboleth": {
         "en": "Hebei Medical University",
         "zh": "河北医科大学(Hebei Medical University)"

@@ -2846,6 +2846,10 @@
             "en": "Hebei Agricultural University",
             "zh": "河北农业大学(Hebei Agricultural University )"
         },
+        "https://idp.hebeu.edu.cn/idp/shibboleth": {
+            "en": "Hebei University of Engineering",
+            "zh": "河北工程大学(Hebei University of Engineering)"
+        },
         "https://idp.hebmu.edu.cn/idp/shibboleth": {
             "en": "Hebei Medical University",
             "zh": "河北医科大学(Hebei Medical University)"
@@ -6635,6 +6639,10 @@
         "https://sts.pha.dk/adfs/services/trust": {
             "da": "Professionshøjskolen Absalon",
             "en": "Absalon University College"
+        },
+        "https://sts.windows.net/1eea07bf-fd1d-40e2-a2de-186523e5939b/": {
+            "en": "Bifröst University",
+            "is": "Háskólinn á Bifröst"
         },
         "https://sts.windows.net/30be3e72-3ef8-4594-bfa3-6423b003e88c/": {
             "da": "Det Kongelige Danske Musikkonservatorium",
