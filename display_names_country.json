@@ -5292,6 +5292,10 @@
             "de": "Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ",
             "en": "Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences"
         },
+        "https://idp.giga-hamburg.de/idp/shibboleth": {
+            "de": "German Institute for Global and Area Studies (GIGA)",
+            "en": "German Institute for Global and Area Studies (GIGA)"
+        },
         "https://idp.gsi.de": {
             "de": "GSI Helmholtzzentrum für Schwerionenforschung GmbH",
             "en": "GSI Helmholtzzentrum für Schwerionenforschung GmbH"
