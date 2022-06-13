@@ -1012,6 +1012,10 @@
             "en": "UEPG - Universidade Estadual de Ponta Grossa",
             "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
         },
+        "https://idp.ufac.br/idp/shibboleth": {
+            "en": "UFAC - Universidade Federal do Acre",
+            "pt-br": "UFAC - Universidade Federal do Acre"
+        },
         "https://idp.ufcat.edu.br/idp/shibboleth": {
             "en": "UFCAT - Universidade Federal de Catalao",
             "pt-br": "UFCAT - Universidade Federal de Catalao"
@@ -1331,10 +1335,6 @@
         "https://shibboleth.uezo.edu.br/idp/shibboleth": {
             "en": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste",
             "pt-br": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste"
-        },
-        "https://shibboleth.ufac.br/idp/shibboleth": {
-            "en": "UFAC - Universidade Federal do Acre",
-            "pt-br": "UFAC - Universidade Federal do Acre"
         },
         "https://shibboleth.ufg.br/idp/shibboleth": {
             "en": "UFG - Universidade Federal de Goias",
@@ -14063,6 +14063,10 @@
             "en": "Burdur Mehmet Akif Ersoy University",
             "tr": "Burdur Mehmet Akif Ersoy Üniversitesi"
         },
+        "https://kimlik.mersin.edu.tr/idp/shibboleth": {
+            "en": "Mersin University",
+            "tr": "Mersin Üniversitesi"
+        },
         "https://kimlik.munzur.edu.tr/idp/shibboleth": {
             "en": "Munzur University",
             "tr": "Munzur Üniversitesi"
@@ -14395,9 +14399,6 @@
         },
         "https://carmel.ac.uk/idp": {
             "en": "Carmel College"
-        },
-        "https://cavle.org/shibboleth": {
-            "en": "UniServity: CAVLE"
         },
         "https://chelmsford.ac.uk/idp": {
             "en": "Chelmsford College"
@@ -16782,9 +16783,6 @@
         },
         "https://idp.weber.edu/idp": {
             "en": "Weber State University"
-        },
-        "https://idp.whitman.edu/idp/shibboleth": {
-            "en": "Whitman College"
         },
         "https://idp.willamette.edu/idp": {
             "en": "Willamette University"

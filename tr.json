@@ -347,6 +347,10 @@
         "en": "Burdur Mehmet Akif Ersoy University",
         "tr": "Burdur Mehmet Akif Ersoy Üniversitesi"
     },
+    "https://kimlik.mersin.edu.tr/idp/shibboleth": {
+        "en": "Mersin University",
+        "tr": "Mersin Üniversitesi"
+    },
     "https://kimlik.munzur.edu.tr/idp/shibboleth": {
         "en": "Munzur University",
         "tr": "Munzur Üniversitesi"
