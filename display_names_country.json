@@ -501,6 +501,9 @@
             "en": "Royal Belgian Institute for Space Aeronomy",
             "fr": "Institut royal d'Aéronomie Spatiale de Belgique"
         },
+        "https://secure-acc.etnic.be/nidp/saml2/metadata": {
+            "en": "MFWB"
+        },
         "https://shibboleth.ephec.be/idp/shibboleth": {
             "en": "EPHEC"
         },
@@ -12364,9 +12367,6 @@
         "http://adfs.svc.edu.om/adfs/services/trust": {
             "en": "Salalah Vocational College"
         },
-        "http://adfs.uob.edu.om/adfs/services/trust": {
-            "en": "University of Buraimi"
-        },
         "http://fs.css.edu.om/adfs/services/trust": {
             "en": "College of Sharia Sciences"
         },
@@ -14266,6 +14266,10 @@
         "https://yetkim.mu.edu.tr/idp/shibboleth": {
             "en": "Mugla Sitki Kocman University",
             "tr": "Muğla Sıtkı Koçman Üniversitesi"
+        },
+        "https://yetkim.odu.edu.tr/idp/shibboleth": {
+            "en": "Ordu University",
+            "tr": "Ordu Üniversitesi"
         },
         "https://yetkim.ohu.edu.tr/idp/shibboleth": {
             "en": "Niğde Ömer Halisdemir University",
