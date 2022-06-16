@@ -1214,6 +1214,9 @@
     "https://sso.kenyon.edu/idp/shibboleth": {
         "en": "Kenyon College"
     },
+    "https://sso.lsuhsc.edu/idp": {
+        "en": "Louisiana State University Health Sciences Center - New Orleans"
+    },
     "https://sso.mansfield.edu/idp/shibboleth": {
         "en": "Mansfield University of Pennsylvania"
     },

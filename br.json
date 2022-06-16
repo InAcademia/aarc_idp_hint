@@ -355,6 +355,10 @@
         "en": "UNIFAL-MG - Universidade Federal de Alfenas",
         "pt-br": "UNIFAL-MG - Universidade Federal de Alfenas"
     },
+    "https://idp-cafe.unisc.br/idp/shibboleth": {
+        "en": "UNISC - Universidade de Santa Cruz do Sul",
+        "pt-br": "UNISC - Universidade de Santa Cruz do Sul"
+    },
     "https://idp-novo.dr.ufu.br/idp/shibboleth": {
         "en": "UFU - Universidade Federal de Uberlandia",
         "pt-br": "UFU - Universidade Federal de Uberlandia"
@@ -586,10 +590,6 @@
     "https://idpcafe.unifran.br/idp/shibboleth": {
         "en": "UNIFRAN - Universidade de Franca",
         "pt-br": "UNIFRAN - Universidade de Franca"
-    },
-    "https://idpcafe.unisc.br/idp/shibboleth": {
-        "en": "UNISC - Universidade de Santa Cruz do Sul",
-        "pt-br": "UNISC - Universidade de Santa Cruz do Sul"
     },
     "https://idpcafe.unisinos.br/idp/shibboleth": {
         "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
