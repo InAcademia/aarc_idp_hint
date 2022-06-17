@@ -6716,14 +6716,6 @@
             "en": "Dania Academy"
         }
     },
-    "dz": {
-        "https://idp.grid.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science GRID IDP"
-        },
-        "https://med-idp.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science MEDECINE IDP"
-        }
-    },
     "ec": {
         "https://login.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
@@ -8325,8 +8317,8 @@
             "fr": "Ecole Nationale Supérieure d'Architecture de Marseille"
         },
         "https://idp.mines-paristech.fr/idp/shibboleth": {
-            "en": "MINES ParisTech",
-            "fr": "MINES ParisTech"
+            "en": "MINES Paris - PSL",
+            "fr": "MINES Paris- PSL"
         },
         "https://idp.nancy.archi.fr/idp/shibboleth": {
             "en": "Ecole Nationale Supérieure d'Architecture de Nancy",
