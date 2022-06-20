@@ -5935,6 +5935,10 @@
             "de": "Stiftung Tieraerztliche Hochschule Hannover (eduGAIN)",
             "en": "University of Veterinary Medicine Hannover (eduGAIN)"
         },
+        "https://idpbib.hs-bochum.de/idp/shibboleth": {
+            "de": "Hochschule Bochum (Hochschulbibliothek)",
+            "en": "Bochum University of Applied Sciences (Library)"
+        },
         "https://idpc.th-ab.de/idp/shibboleth": {
             "de": "Technische Hochschule Aschaffenburg",
             "en": "Technische Hochschule Aschaffenburg"
