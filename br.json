@@ -143,10 +143,6 @@
         "en": "UDESC - Universidade do Estado de Santa Catarina",
         "pt-br": "UDESC - Universidade do Estado de Santa Catarina"
     },
-    "https://cafe.uenf.br/idp/shibboleth": {
-        "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
-        "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
-    },
     "https://cafe.uerr.edu.br/idp/shibboleth": {
         "en": "UERR - Universidade Estadual De Roraima",
         "pt-br": "UERR - Universidade Estadual De Roraima"
@@ -450,6 +446,10 @@
     "https://idp.rnp.br/idp/shibboleth": {
         "en": "RNP - Rede Nacional de Ensino e Pesquisa",
         "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
+    },
+    "https://idp.uenf.br/idp/shibboleth": {
+        "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
+        "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
     },
     "https://idp.uepg.br/idp/shibboleth": {
         "en": "UEPG - Universidade Estadual de Ponta Grossa",
