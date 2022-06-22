@@ -12250,7 +12250,7 @@
             "en": "REANNZ"
         },
         "https://idp.agresearch.co.nz/idp/shibboleth": {
-            "en": "AgResearch"
+            "en": "AgResearch Ltd"
         },
         "https://idp.aut.ac.nz/idp/shibboleth": {
             "en": "AUT University"
@@ -12361,6 +12361,9 @@
         },
         "http://adfs.svc.edu.om/adfs/services/trust": {
             "en": "Salalah Vocational College"
+        },
+        "http://adfs.uob.edu.om/adfs/services/trust": {
+            "en": "University of Buraimi"
         },
         "http://fs.css.edu.om/adfs/services/trust": {
             "en": "College of Sharia Sciences"
@@ -13789,6 +13792,10 @@
         "https://idp.harran.edu.tr/idp/shibboleth": {
             "en": "Harran University",
             "tr": "Harran Üniversitesi"
+        },
+        "https://idp.ibu.edu.tr/idp/shibboleth": {
+            "en": "Bolu Abant Izzet Baysal University",
+            "tr": "Bolu Abant İzzet Baysal Üniversitesi"
         },
         "https://idp.idu.edu.tr/idp/shibboleth": {
             "en": "Izmir Democracy University",

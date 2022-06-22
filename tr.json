@@ -75,6 +75,10 @@
         "en": "Harran University",
         "tr": "Harran Üniversitesi"
     },
+    "https://idp.ibu.edu.tr/idp/shibboleth": {
+        "en": "Bolu Abant Izzet Baysal University",
+        "tr": "Bolu Abant İzzet Baysal Üniversitesi"
+    },
     "https://idp.idu.edu.tr/idp/shibboleth": {
         "en": "Izmir Democracy University",
         "tr": "İzmir Demokrasi Üniversitesi"

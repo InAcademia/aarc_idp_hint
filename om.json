@@ -86,6 +86,9 @@
     "http://adfs.svc.edu.om/adfs/services/trust": {
         "en": "Salalah Vocational College"
     },
+    "http://adfs.uob.edu.om/adfs/services/trust": {
+        "en": "University of Buraimi"
+    },
     "http://fs.css.edu.om/adfs/services/trust": {
         "en": "College of Sharia Sciences"
     },
