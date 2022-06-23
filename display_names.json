@@ -400,6 +400,7 @@
     "https://athensla.uwe.ac.uk/oala/metadata": "University of the West of England (UWE)",
     "https://athome.ucl.dk/nidp/saml2/metadata": "UCL",
     "https://atlas.sciencespo-lille.eu/idp/shibboleth": "Sciences Po Lille",
+    "https://aub.auth1.de/idp/shibboleth": "AUB - IdP",
     "https://auth-incommon.siu.edu": "Southern Illinois University",
     "https://auth.agrosupdijon.fr/idp/shibboleth": "Agrosup DIJON INSSAAE",
     "https://auth.aspirationtraining.com/idp/shibboleth": "Aspiration Training",

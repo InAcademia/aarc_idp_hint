@@ -5019,6 +5019,10 @@
             "de": "Fachhochschule Potsdam",
             "en": "Fachhochschule Potsdam, University of Applied Scienes"
         },
+        "https://aub.auth1.de/idp/shibboleth": {
+            "de": "AUB - IdP",
+            "en": "AUB - IdP"
+        },
         "https://auth.vifa-recht.de/idp/shibboleth": {
             "de": "FID-Recht (VHO)",
             "en": "FID-Recht (VHO)"
