@@ -523,6 +523,10 @@
         "en": "MINES Paris - PSL",
         "fr": "MINES Paris- PSL"
     },
+    "https://idp.montpellier.archi.fr/idp/shibboleth": {
+        "en": "ENSAM - Ecole Nationale Supérieure d'Architecture de Montpellier",
+        "fr": "ENSAM - Ecole Nationale Supérieure d'Architecture de Montpellier"
+    },
     "https://idp.nancy.archi.fr/idp/shibboleth": {
         "en": "Ecole Nationale Supérieure d'Architecture de Nancy",
         "fr": "Ecole Nationale Supérieure d'Architecture de Nancy"

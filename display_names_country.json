@@ -6745,10 +6745,6 @@
             "en": "Unidad Educativa Salesiana Cristóbal Colón - cristobalcolon",
             "es": "Unidad Educativa Salesiana Cristóbal Colón - cristobalcolon"
         },
-        "https://login.cristorey.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Cristo Rey - cristorey",
-            "es": "Unidad Educativa Cristo Rey - cristorey"
-        },
         "https://login.ctsdonbosco.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Salesianos Don Bosco Kennedy - ctsdonbosco",
             "es": "Salesianos Don Bosco Kennedy - ctsdonbosco"
@@ -8327,6 +8323,10 @@
         "https://idp.mines-paristech.fr/idp/shibboleth": {
             "en": "MINES Paris - PSL",
             "fr": "MINES Paris- PSL"
+        },
+        "https://idp.montpellier.archi.fr/idp/shibboleth": {
+            "en": "ENSAM - Ecole Nationale Supérieure d'Architecture de Montpellier",
+            "fr": "ENSAM - Ecole Nationale Supérieure d'Architecture de Montpellier"
         },
         "https://idp.nancy.archi.fr/idp/shibboleth": {
             "en": "Ecole Nationale Supérieure d'Architecture de Nancy",
@@ -12395,6 +12395,9 @@
         "https://discovery.omren.om/simplesaml/saml2/idp/metadata.php": {
             "en": "IdP Proxy"
         },
+        "https://idp.cas.omren.om/idp": {
+            "en": "cas"
+        },
         "https://idp.icem.edu.om/idp/shibboleth": {
             "en": "International College of Engineering and Management (OM-KID)"
         },
@@ -13686,6 +13689,10 @@
         "https://idp.vsemba.sk/idp/shibboleth": {
             "en": "Bratislava University of Economics and Management",
             "sk": "Vysoká škola ekonómie a manažmentu v Bratislave"
+        },
+        "https://idp.vsm.sk/idp/shibboleth": {
+            "en": "The School of Management",
+            "sk": "Vysoká škola manažmentu"
         },
         "https://idp.vsvu.sk/idp/shibboleth": {
             "en": "Academy of Fine Arts and Design in Bratislava",
