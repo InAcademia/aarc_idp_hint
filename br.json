@@ -183,6 +183,10 @@
         "en": "UNICAMP - Universidade Estadual de Campinas",
         "pt-br": "UNICAMP - Universidade Estadual de Campinas"
     },
+    "https://cafe.unicap.br/idp/shibboleth": {
+        "en": "UNICAP - Universidade Catolica de Pernambuco",
+        "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
+    },
     "https://cafe.unicentro.br/idp/shibboleth": {
         "en": "UNICENTRO - Universidade Estadual do Centro-Oeste",
         "pt-br": "UNICENTRO - Universidade Estadual do Centro-Oeste"

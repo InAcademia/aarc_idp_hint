@@ -219,6 +219,10 @@
         "de": "FH St. Pölten",
         "en": "St. Pölten University of Applied Sciences"
     },
+    "https://sso.fwf.ac.at/auth/realms/sso": {
+        "de": "FWF Der Wissenschaftsfonds",
+        "en": "Austrian Science Fund (FWF)"
+    },
     "https://sso.kph-es.at/idp/shibboleth": {
         "de": "Kirchliche Pädagogische Hochschule Edith Stein",
         "en": "KPH Edith Stein"

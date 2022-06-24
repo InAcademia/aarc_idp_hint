@@ -231,6 +231,10 @@
             "de": "FH St. Pölten",
             "en": "St. Pölten University of Applied Sciences"
         },
+        "https://sso.fwf.ac.at/auth/realms/sso": {
+            "de": "FWF Der Wissenschaftsfonds",
+            "en": "Austrian Science Fund (FWF)"
+        },
         "https://sso.kph-es.at/idp/shibboleth": {
             "de": "Kirchliche Pädagogische Hochschule Edith Stein",
             "en": "KPH Edith Stein"
@@ -746,6 +750,10 @@
         "https://cafe.unicamp.br/idp/shibboleth": {
             "en": "UNICAMP - Universidade Estadual de Campinas",
             "pt-br": "UNICAMP - Universidade Estadual de Campinas"
+        },
+        "https://cafe.unicap.br/idp/shibboleth": {
+            "en": "UNICAP - Universidade Catolica de Pernambuco",
+            "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
         },
         "https://cafe.unicentro.br/idp/shibboleth": {
             "en": "UNICENTRO - Universidade Estadual do Centro-Oeste",
@@ -1595,7 +1603,7 @@
             "en": "Durham College and Ontario Tech University"
         },
         "http://ufvfimab.ufv.ca/adfs/services/trust": {
-            "en": "University of Fraser Valley"
+            "en": "University of the Fraser Valley"
         },
         "http://uw-adfs2.uwinnipeg.ca/adfs/services/trust": {
             "en": "University of Winnipeg"
@@ -7220,6 +7228,10 @@
             "en": "Donostia International Physics Center",
             "es": "Donostia International Physics Center"
         },
+        "https://www.rediris.es/sir/easdibidp": {
+            "en": "Escola d'Art i Superior de Disseny de les Illes Balears",
+            "es": "Escola d'Art i Superior de Disseny de les Illes Balears"
+        },
         "https://www.rediris.es/sir/educacionidp": {
             "en": "Ministerio de Educacion y Formacion Profesional",
             "es": "Ministerio de Educación y Formación Profesional"
@@ -8801,8 +8813,8 @@
             "fr": "Université Savoie Mont Blanc"
         },
         "https://shibboleth03.chartes.psl.eu/idp/shibboleth": {
-            "en": "Ecole Nationale des Chartes",
-            "fr": "Ecole Nationale des Chartes"
+            "en": "Ecole Nationale des Chartes - PSL",
+            "fr": "Ecole Nationale des Chartes - PSL"
         },
         "https://shibboleth3.envt.fr/idp/shibboleth": {
             "en": "Ecole Nationale Vétérinaire de Toulouse (ENVT)",
