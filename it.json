@@ -171,6 +171,10 @@
         "en": "IRCCS Pascale - Napoli",
         "it": "IRCCS Istituto Nazionale Tumori \"Fondazione G. Pascale\" Napoli"
     },
+    "https://idp-ior.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Rizzoli Orthopaedic Institute - Bologna",
+        "it": "IRCCS Istituto Ortopedico Rizzoli - Bologna"
+    },
     "https://idp-iov.irccs.garr.it/idp/shibboleth": {
         "en": "IRCCS IOV Istituto Oncologico Veneto",
         "it": "IRCCS IOV Istituto Oncologico Veneto"

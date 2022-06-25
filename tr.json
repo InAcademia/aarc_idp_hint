@@ -195,6 +195,10 @@
         "en": "Afyon Kocatepe University",
         "tr": "Afyon Kocatepe Üniversitesi"
     },
+    "https://kimlik.altinbas.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Altinbas University",
+        "tr": "Altınbaş Üniversitesi"
+    },
     "https://kimlik.amasya.edu.tr/idp/shibboleth": {
         "en": "Amasya University",
         "tr": "Amasya Üniversitesi"

@@ -87,10 +87,6 @@
         "en": "IEN - Instituto de Engenharia Nuclear",
         "pt-br": "IEN - Instituto de Engenharia Nuclear"
     },
-    "https://cafe.ifbaiano.edu.br/idp/shibboleth": {
-        "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
-        "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
-    },
     "https://cafe.ifrj.edu.br/idp/shibboleth": {
         "en": "IFRJ - Instituto Federal do Rio de Janeiro",
         "pt-br": "IFRJ - Instituto Federal do Rio de Janeiro"
@@ -731,6 +727,10 @@
         "en": "IFAM - Instituto Federal do Amazonas",
         "pt-br": "IFAM - Instituto Federal do Amazonas"
     },
+    "https://shibboleth.ifbaiano.edu.br/idp/shibboleth": {
+        "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
+        "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
+    },
     "https://shibboleth.iffarroupilha.edu.br/idp/shibboleth": {
         "en": "IFFAR - Instituto Federal Farroupilha",
         "pt-br": "IFFAR - Instituto Federal Farroupilha"
@@ -918,10 +918,6 @@
     "https://uricafe.uricer.edu.br/idp/shibboleth": {
         "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
         "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
-    },
-    "https://uter.ufob.edu.br/idp/shibboleth": {
-        "en": "UFOB - Universidade Federal do Oeste da Bahia",
-        "pt-br": "UFOB - Universidade Federal do Oeste da Bahia"
     },
     "https://vmmanaus.cpqd.com.br/idp/shibboleth": {
         "en": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes",

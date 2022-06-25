@@ -200,6 +200,9 @@
     "https://idp.jklu.edu.in/idp/shibboleth": {
         "en": "JK Lakshmipat University"
     },
+    "https://idp.jnu.ac.in/idp/shibboleth": {
+        "en": "Jawaharlal Nehru University"
+    },
     "https://idp.jssuni.edu.in/idp/shibboleth": {
         "en": "JSS Academy of Higher Education and Research"
     },

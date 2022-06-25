@@ -312,7 +312,7 @@
         "en": "Brooklands College"
     },
     "https://idp.brooksbymelton.ac.uk/openathens": {
-        "en": "Brooksby Melton College"
+        "en": "The SMB Group"
     },
     "https://idp.bruford.ac.uk/shibboleth": {
         "en": "Rose Bruford College"
@@ -1060,12 +1060,6 @@
     },
     "https://idp.stcharles.ac.uk/shibboleth": {
         "en": "St Charles Catholic Sixth Form College"
-    },
-    "https://idp.stephensoncoll.ac.uk/oala/metadata": {
-        "en": "Stephenson College"
-    },
-    "https://idp.stephensoncoll.ac.uk/shibboleth": {
-        "en": "Stephenson College (Athens)"
     },
     "https://idp.sthelens.ac.uk/idp/shibboleth": {
         "en": "St Helens College"

@@ -558,6 +558,10 @@
             "bg": "Русенски университет Ангел Кънчев",
             "en": "University Of Ruse Angel Kunchev"
         },
+        "https://sso.nvu.bg/idp/shibboleth": {
+            "bg": "Национален военен университет \"Васил Левски\"",
+            "en": "National Military University \"Vasil Levski\""
+        },
         "https://sso.uni-sofia.bg/idp/shibboleth": {
             "en": "Sofia University \"St. Kliment Ohridski\""
         },
@@ -654,10 +658,6 @@
         "https://cafe.ien.gov.br/idp/shibboleth": {
             "en": "IEN - Instituto de Engenharia Nuclear",
             "pt-br": "IEN - Instituto de Engenharia Nuclear"
-        },
-        "https://cafe.ifbaiano.edu.br/idp/shibboleth": {
-            "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
-            "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
         },
         "https://cafe.ifrj.edu.br/idp/shibboleth": {
             "en": "IFRJ - Instituto Federal do Rio de Janeiro",
@@ -1299,6 +1299,10 @@
             "en": "IFAM - Instituto Federal do Amazonas",
             "pt-br": "IFAM - Instituto Federal do Amazonas"
         },
+        "https://shibboleth.ifbaiano.edu.br/idp/shibboleth": {
+            "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
+            "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
+        },
         "https://shibboleth.iffarroupilha.edu.br/idp/shibboleth": {
             "en": "IFFAR - Instituto Federal Farroupilha",
             "pt-br": "IFFAR - Instituto Federal Farroupilha"
@@ -1486,10 +1490,6 @@
         "https://uricafe.uricer.edu.br/idp/shibboleth": {
             "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
             "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
-        },
-        "https://uter.ufob.edu.br/idp/shibboleth": {
-            "en": "UFOB - Universidade Federal do Oeste da Bahia",
-            "pt-br": "UFOB - Universidade Federal do Oeste da Bahia"
         },
         "https://vmmanaus.cpqd.com.br/idp/shibboleth": {
             "en": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes",
@@ -10013,6 +10013,9 @@
         "https://idp.jklu.edu.in/idp/shibboleth": {
             "en": "JK Lakshmipat University"
         },
+        "https://idp.jnu.ac.in/idp/shibboleth": {
+            "en": "Jawaharlal Nehru University"
+        },
         "https://idp.jssuni.edu.in/idp/shibboleth": {
             "en": "JSS Academy of Higher Education and Research"
         },
@@ -10443,6 +10446,10 @@
         "https://idp-intna.irccs.garr.it/idp/shibboleth": {
             "en": "IRCCS Pascale - Napoli",
             "it": "IRCCS Istituto Nazionale Tumori \"Fondazione G. Pascale\" Napoli"
+        },
+        "https://idp-ior.irccs.garr.it/idp/shibboleth": {
+            "en": "IRCCS Rizzoli Orthopaedic Institute - Bologna",
+            "it": "IRCCS Istituto Ortopedico Rizzoli - Bologna"
         },
         "https://idp-iov.irccs.garr.it/idp/shibboleth": {
             "en": "IRCCS IOV Istituto Oncologico Veneto",
@@ -11916,10 +11923,6 @@
         "http://signon.nhlstenden.com/adfs/services/trust": {
             "en": "NHL Stenden",
             "nl": "NHL Stenden"
-        },
-        "http://signon.stenden.com/adfs/services/trust": {
-            "en": "Stenden Hogeschool",
-            "nl": "Stenden Hogeschool"
         },
         "http://sts.designacademy.nl/adfs/services/trust": {
             "en": "Design Academy Eindhoven",
@@ -13936,6 +13939,10 @@
             "en": "Afyon Kocatepe University",
             "tr": "Afyon Kocatepe Üniversitesi"
         },
+        "https://kimlik.altinbas.edu.tr/simplesaml/saml2/idp/metadata.php": {
+            "en": "Altinbas University",
+            "tr": "Altınbaş Üniversitesi"
+        },
         "https://kimlik.amasya.edu.tr/idp/shibboleth": {
             "en": "Amasya University",
             "tr": "Amasya Üniversitesi"
@@ -14680,7 +14687,7 @@
             "en": "Brooklands College"
         },
         "https://idp.brooksbymelton.ac.uk/openathens": {
-            "en": "Brooksby Melton College"
+            "en": "The SMB Group"
         },
         "https://idp.bruford.ac.uk/shibboleth": {
             "en": "Rose Bruford College"
@@ -15428,12 +15435,6 @@
         },
         "https://idp.stcharles.ac.uk/shibboleth": {
             "en": "St Charles Catholic Sixth Form College"
-        },
-        "https://idp.stephensoncoll.ac.uk/oala/metadata": {
-            "en": "Stephenson College"
-        },
-        "https://idp.stephensoncoll.ac.uk/shibboleth": {
-            "en": "Stephenson College (Athens)"
         },
         "https://idp.sthelens.ac.uk/idp/shibboleth": {
             "en": "St Helens College"

@@ -295,10 +295,6 @@
         "en": "NHL Stenden",
         "nl": "NHL Stenden"
     },
-    "http://signon.stenden.com/adfs/services/trust": {
-        "en": "Stenden Hogeschool",
-        "nl": "Stenden Hogeschool"
-    },
     "http://sts.designacademy.nl/adfs/services/trust": {
         "en": "Design Academy Eindhoven",
         "nl": "Design Academy Eindhoven"

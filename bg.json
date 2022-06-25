@@ -31,6 +31,10 @@
         "bg": "Русенски университет Ангел Кънчев",
         "en": "University Of Ruse Angel Kunchev"
     },
+    "https://sso.nvu.bg/idp/shibboleth": {
+        "bg": "Национален военен университет \"Васил Левски\"",
+        "en": "National Military University \"Vasil Levski\""
+    },
     "https://sso.uni-sofia.bg/idp/shibboleth": {
         "en": "Sofia University \"St. Kliment Ohridski\""
     },
