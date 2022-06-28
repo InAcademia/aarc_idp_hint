@@ -240,8 +240,8 @@
             "en": "KPH Edith Stein"
         },
         "https://sso.kphgraz.at/idp/shibboleth": {
-            "de": "KPH Graz Augustinum",
-            "en": "KPH Graz Augustinum"
+            "de": "PPH Augustinum Graz",
+            "en": "PPH Augustinum Graz"
         },
         "https://sso.ku-linz.at/idp/shibboleth": {
             "de": "Katholische Privatuniversität Linz",
@@ -763,6 +763,10 @@
             "en": "UNIFAP - Universidade Federal do Amapa",
             "pt-br": "UNIFAP - Universidade Federal do Amapa"
         },
+        "https://cafe.unifesspa.edu.br/idp/shibboleth": {
+            "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
+            "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
+        },
         "https://cafe.unila.edu.br/idp/shibboleth": {
             "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
             "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
@@ -1250,10 +1254,6 @@
         "https://pct-guama-idp-cafe.fundacaoguama.org.br/idp/shibboleth": {
             "en": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
             "pt-br": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
-        },
-        "https://pitomba.unifesspa.edu.br/idp/shibboleth": {
-            "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
-            "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
         },
         "https://plv037.mcom.gov.br/idp/shibboleth": {
             "en": "MCOM - Ministerio das Comunicacoes",
@@ -2724,10 +2724,6 @@
         "https://idp.gpnu.edu.cn/idp/shibboleth": {
             "en": "Guangdong Polytechnic Normal University",
             "zh": "广东技术师范大学(Guangdong Polytechnic Normal University)"
-        },
-        "https://idp.gsau.edu.cn/idp/shibboleth": {
-            "en": "Gansu Agricultural University",
-            "zh": "甘肃农业大学(Gansu Agricultural University)"
         },
         "https://idp.gtiit.edu.cn/idp/shibboleth": {
             "en": "Guangdong Technion-Israel Institute of Technology",
@@ -8044,6 +8040,10 @@
             "en": "Ecole Supérieure d'Agriculture d'Angers",
             "fr": "Ecole Supérieure d'Agriculture d'Angers"
         },
+        "https://ident.shom.fr/idp/shibboleth": {
+            "en": "Shom 2022",
+            "fr": "Shom 2022"
+        },
         "https://identification.univ-toulouse.fr": {
             "en": "COMUE Université Fédérale Toulouse Midi-Pyrénées",
             "fr": "COMUE Université Fédérale Toulouse Midi-Pyrénées"
@@ -11086,6 +11086,10 @@
         "https://vairocana.okinawa-u.ac.jp/idp/shibboleth": {
             "en": "Okinawa University",
             "ja": "沖縄大学"
+        },
+        "https://wagner.isc.chubu.ac.jp/idp/shibboleth": {
+            "en": "CHUBU UNIVERSITY",
+            "ja": "中部大学"
         }
     },
     "kg": {

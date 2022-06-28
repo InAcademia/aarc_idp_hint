@@ -191,6 +191,10 @@
         "en": "UNIFAP - Universidade Federal do Amapa",
         "pt-br": "UNIFAP - Universidade Federal do Amapa"
     },
+    "https://cafe.unifesspa.edu.br/idp/shibboleth": {
+        "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
+        "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
+    },
     "https://cafe.unila.edu.br/idp/shibboleth": {
         "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
         "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
@@ -678,10 +682,6 @@
     "https://pct-guama-idp-cafe.fundacaoguama.org.br/idp/shibboleth": {
         "en": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
         "pt-br": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
-    },
-    "https://pitomba.unifesspa.edu.br/idp/shibboleth": {
-        "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
-        "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
     },
     "https://plv037.mcom.gov.br/idp/shibboleth": {
         "en": "MCOM - Ministerio das Comunicacoes",

@@ -219,6 +219,10 @@
         "en": "Ecole Supérieure d'Agriculture d'Angers",
         "fr": "Ecole Supérieure d'Agriculture d'Angers"
     },
+    "https://ident.shom.fr/idp/shibboleth": {
+        "en": "Shom 2022",
+        "fr": "Shom 2022"
+    },
     "https://identification.univ-toulouse.fr": {
         "en": "COMUE Université Fédérale Toulouse Midi-Pyrénées",
         "fr": "COMUE Université Fédérale Toulouse Midi-Pyrénées"
