@@ -13,6 +13,10 @@
     "https://idp.ait.ie/idp/shibboleth": {
         "en": "Technological University of the Shannon: Midlands"
     },
+    "https://idp.atu.ie/idp/shibboleth": {
+        "en": "Atlantic Technological University",
+        "ga": "Ollscoil Teicneolaíochta an Atlantaigh"
+    },
     "https://idp.cit.ie/idp": {
         "en": "Cork Institute of Technology",
         "ga": "Institiúid Teicneolaíochta Chorcaí"

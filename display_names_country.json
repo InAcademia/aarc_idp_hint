@@ -4057,6 +4057,10 @@
             "en": "Zhejiang Ocean University",
             "zh": "浙江海洋大学(Zhejiang Ocean University)"
         },
+        "https://idp.zjsru.edu.cn/idp/shibboleth": {
+            "en": "Zhejiang Shuren University",
+            "zh": "浙江树人学院(Zhejiang Shuren University)"
+        },
         "https://idp.zjtie.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Technical Institute of Economics",
             "zh": "浙江经济职业技术学院(Zhejiang Technical Institute of Economics)"
@@ -9680,6 +9684,10 @@
         },
         "https://idp.ait.ie/idp/shibboleth": {
             "en": "Technological University of the Shannon: Midlands"
+        },
+        "https://idp.atu.ie/idp/shibboleth": {
+            "en": "Atlantic Technological University",
+            "ga": "Ollscoil Teicneolaíochta an Atlantaigh"
         },
         "https://idp.cit.ie/idp": {
             "en": "Cork Institute of Technology",
