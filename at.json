@@ -255,6 +255,10 @@
         "de": "Pädagogische Hochschule Vorarlberg",
         "en": "University College of Teacher Education Vorarlberg"
     },
+    "https://sso.pmu.ac.at/idp": {
+        "de": "Paracelsus Medizinische Privatuniversität",
+        "en": "Paracelsus Medical University"
+    },
     "https://sso.sbg.ac.at/idp/shibboleth": {
         "de": "Universität Salzburg",
         "en": "University of Salzburg"

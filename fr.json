@@ -75,6 +75,10 @@
         "en": "CROUS Strasbourg V3",
         "fr": "CROUS Strasbourg V3"
     },
+    "https://auth.ecole-navale.fr/idp/shibboleth": {
+        "en": "Ecole navale (new)",
+        "fr": "Ecole navale (nouveau)"
+    },
     "https://auth.id.sorbonne-universite.fr/saml/metadata": {
         "en": "Sorbonne University",
         "fr": "Sorbonne Université"

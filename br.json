@@ -287,10 +287,6 @@
         "en": "CARAJAS - Grupo Educacional Carajas",
         "pt-br": "CARAJAS - Grupo Educacional Carajas"
     },
-    "https://cogetic-idp.fiocruz.br/idp/shibboleth": {
-        "en": "FIOCRUZ - Fundacao Oswaldo Cruz",
-        "pt-br": "FIOCRUZ - Fundacao Oswaldo Cruz"
-    },
     "https://dourado5.ufs.br/idp/shibboleth": {
         "en": "UFS - Universidade Federal de Sergipe",
         "pt-br": "UFS - Universidade Federal de Sergipe"
@@ -406,6 +402,10 @@
     "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
         "en": "SOBERANA - Faculdade de Saude de Petrolina",
         "pt-br": "SOBERANA - Faculdade de Saude de Petrolina"
+    },
+    "https://idp.fiocruz.br/idp/shibboleth": {
+        "en": "FIOCRUZ - Fundacao Oswaldo Cruz",
+        "pt-br": "FIOCRUZ - Fundacao Oswaldo Cruz"
     },
     "https://idp.ifac.edu.br/idp/shibboleth": {
         "en": "IFAC - Instituto Federal do Acre",
