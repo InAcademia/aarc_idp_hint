@@ -931,10 +931,6 @@
         "en": "University of New-Caledonia (UNC)",
         "fr": "Université de la Nouvelle-Calédonie (UNC)"
     },
-    "https://shib3.mines-ales.fr/idp/shibboleth": {
-        "en": "IMT Mines Alès - Ecole Mines-Télécom",
-        "fr": "IMT Mines Alès - Ecole Mines-Télécom"
-    },
     "https://shibb01.ensait.fr/idp/shibboleth": {
         "en": "ENSAIT - Roubaix",
         "fr": "ENSAIT - Roubaix"

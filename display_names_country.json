@@ -707,6 +707,10 @@
             "en": "MS - Ministerio da Saude",
             "pt-br": "MS - Ministerio da Saude"
         },
+        "https://cafe.sede.embrapa.br/idp/shibboleth": {
+            "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
+            "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
+        },
         "https://cafe.setrem.edu.br/idp/shibboleth": {
             "en": "SETREM - Sociedade Educacional Tres de Maio",
             "pt-br": "SETREM - Sociedade Educacional Tres de Maio"
@@ -1215,10 +1219,6 @@
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer",
             "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
         },
-        "https://isd-rnp.isd.org.br/idp/shibboleth": {
-            "en": "ISD - Instituto Santos Dumont",
-            "pt-br": "ISD - Instituto Santos Dumont"
-        },
         "https://itapicuru.uneb.br/idp/shibboleth": {
             "en": "UNEB - Universidade do Estado da Bahia",
             "pt-br": "UNEB - Universidade do Estado da Bahia"
@@ -1338,10 +1338,6 @@
         "https://shibboleth.pqtec.org.br/idp/shibboleth": {
             "en": "APTSJC - Associacao Parque Tecnologico Sao Jose dos Campos",
             "pt-br": "APTSJC - Associacao Parque Tecnologico Sao Jose dos Campos"
-        },
-        "https://shibboleth.sede.embrapa.br/idp/shibboleth": {
-            "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
-            "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
         },
         "https://shibboleth.ueg.br/idp/shibboleth": {
             "en": "UEG - Universidade Estadual de Goias",
@@ -8759,10 +8755,6 @@
         "https://shib2.unc.nc/idp/shibboleth": {
             "en": "University of New-Caledonia (UNC)",
             "fr": "Université de la Nouvelle-Calédonie (UNC)"
-        },
-        "https://shib3.mines-ales.fr/idp/shibboleth": {
-            "en": "IMT Mines Alès - Ecole Mines-Télécom",
-            "fr": "IMT Mines Alès - Ecole Mines-Télécom"
         },
         "https://shibb01.ensait.fr/idp/shibboleth": {
             "en": "ENSAIT - Roubaix",
