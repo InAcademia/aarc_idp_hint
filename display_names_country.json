@@ -1003,10 +1003,6 @@
             "en": "IFSP - Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo",
             "pt-br": "IFSP - Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo"
         },
-        "https://idp.igesdf.org.br/idp/shibboleth": {
-            "en": "IGESDF - Instituto de Gestao Estrategica de Saude do Distrito Federal",
-            "pt-br": "IGESDF - Instituto de Gestao Estrategica de Saude do Distrito Federal"
-        },
         "https://idp.incor.usp.br/idp/shibboleth": {
             "en": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo",
             "pt-br": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo"
@@ -13146,6 +13142,10 @@
             "en": "University \"Politehnica\" from Bucharest",
             "ro": "Universitatea \"Politehnica\" din București"
         },
+        "https://eduid.umfiasi.ro/idp/shibboleth": {
+            "en": "University of Medicine and Pharmacy \"Grigore T. Popa\" from Iași",
+            "ro": "Universitatea de Medicină și Farmacie \"Grigore T. Popa\" din Iași"
+        },
         "https://idp.roedu.net/idp/shibboleth": {
             "en": "Agency ARNIEC RoEduNet IdP",
             "ro": "IdP Agenția ARNIEC RoEduNet"
@@ -17508,6 +17508,9 @@
         },
         "https://sso.vai.org/idp": {
             "en": "Van Andel Research Institute"
+        },
+        "https://sso.wcu.edu/idp": {
+            "en": "Western Carolina University - Bridge"
         },
         "https://sso.yc.edu/idp": {
             "en": "Yavapai College"

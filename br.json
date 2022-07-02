@@ -427,10 +427,6 @@
         "en": "IFSP - Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo",
         "pt-br": "IFSP - Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo"
     },
-    "https://idp.igesdf.org.br/idp/shibboleth": {
-        "en": "IGESDF - Instituto de Gestao Estrategica de Saude do Distrito Federal",
-        "pt-br": "IGESDF - Instituto de Gestao Estrategica de Saude do Distrito Federal"
-    },
     "https://idp.incor.usp.br/idp/shibboleth": {
         "en": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo",
         "pt-br": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo"

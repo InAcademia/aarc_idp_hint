@@ -15,6 +15,10 @@
         "en": "University \"Politehnica\" from Bucharest",
         "ro": "Universitatea \"Politehnica\" din București"
     },
+    "https://eduid.umfiasi.ro/idp/shibboleth": {
+        "en": "University of Medicine and Pharmacy \"Grigore T. Popa\" from Iași",
+        "ro": "Universitatea de Medicină și Farmacie \"Grigore T. Popa\" din Iași"
+    },
     "https://idp.roedu.net/idp/shibboleth": {
         "en": "Agency ARNIEC RoEduNet IdP",
         "ro": "IdP Agenția ARNIEC RoEduNet"
