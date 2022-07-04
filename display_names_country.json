@@ -10303,10 +10303,6 @@
             "en": "University of Salerno",
             "it": "Università degli Studi di Salerno"
         },
-        "https://eduid-indire.aai.garr.it/idp/shibboleth": {
-            "en": "eduID-INDIRE",
-            "it": "eduID-INDIRE"
-        },
         "https://garr-idp-prod.irccs.garr.it/idp/shibboleth": {
             "en": "PROD - IDP in the Cloud Project (GARR)",
             "it": "PROD - IDP in the Cloud Project (GARR)"
