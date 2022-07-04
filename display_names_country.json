@@ -1143,10 +1143,6 @@
             "en": "FURB - Fundacao Universidade Regional de Blumenau",
             "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
         },
-        "https://idpcafe-new.ipen.br/idp/shibboleth": {
-            "en": "IPEN - Instituto de Pesquisas Energeticas e Nucleares - IPEN",
-            "pt-br": "IPEN - Instituto de Pesquisas Energeticas e Nucleares - IPEN"
-        },
         "https://idpcafe.cesar.org.br/idp/shibboleth": {
             "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
             "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
@@ -2017,6 +2013,10 @@
         "https://cern.ch/login": {
             "en": "CERN"
         },
+        "https://eduid.ch/idp/shibboleth": {
+            "de": "SWITCH edu-ID",
+            "en": "SWITCH edu-ID"
+        },
         "https://idp.chuv.ch/idp/shibboleth": {
             "en": "CHUV - Centre hospitalier universitaire vaudois",
             "fr": "CHUV - Centre hospitalier universitaire vaudois"
@@ -2140,6 +2140,10 @@
         "https://idp-lib.cqnu.edu.cn/idp/shibboleth": {
             "en": "Chongqing Normal university",
             "zh": "重庆师范大学(Chongqing Normal university)"
+        },
+        "https://idp-lib.cslg.edu.cn/idp/shibboleth": {
+            "en": "Changshu Institute of Technology",
+            "zh": "常熟理工学院(Changshu Institute of Technology)"
         },
         "https://idp-lib.cwnu.edu.cn/idp/shibboleth": {
             "en": "China West Normal University",
@@ -6734,6 +6738,14 @@
         "https://wayfeadania.itcn.dk/simplesaml/saml2/idp/metadata.php": {
             "da": "Erhvervsakademi Dania",
             "en": "Dania Academy"
+        }
+    },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
         }
     },
     "ec": {
