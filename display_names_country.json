@@ -1431,10 +1431,6 @@
             "en": "IFPR - Instituto Federal do Parana",
             "pt-br": "IFPR - Instituto Federal do Parana"
         },
-        "https://siaiap36.univali.br/idp/shibboleth": {
-            "en": "UNIVALI - Universidade do Vale do Itajai",
-            "pt-br": "UNIVALI - Universidade do Vale do Itajai"
-        },
         "https://slm00-shibboleth.slmandic.edu.br/idp/shibboleth": {
             "en": "SLM - Sao Leopoldo Mandic",
             "pt-br": "SLM - Sao Leopoldo Mandic"
@@ -12660,6 +12656,10 @@
             "en": "Medical University of Lublin",
             "pl": "Uniwersytet Medyczny w Lublinie"
         },
+        "https://idp.vizja.pl/idp/shibboleth": {
+            "en": "University of Economics and Human Sciences in Warsaw",
+            "pl": "Akademia Ekonomiczno-Humanistyczna w Warszawie"
+        },
         "https://idp.zut.edu.pl/idp/shibboleth": {
             "en": "West Pomeranian University of Technology in Szczecin",
             "pl": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie"
@@ -14480,7 +14480,7 @@
             "en": "Chelmsford College"
         },
         "https://comet.esher.ac.uk/shibboleth": {
-            "en": "Esher College"
+            "en": "Esher Sixth Form College"
         },
         "https://coventry.ac.uk/idp": {
             "en": "Coventry University"

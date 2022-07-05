@@ -91,6 +91,10 @@
         "en": "Medical University of Lublin",
         "pl": "Uniwersytet Medyczny w Lublinie"
     },
+    "https://idp.vizja.pl/idp/shibboleth": {
+        "en": "University of Economics and Human Sciences in Warsaw",
+        "pl": "Akademia Ekonomiczno-Humanistyczna w Warszawie"
+    },
     "https://idp.zut.edu.pl/idp/shibboleth": {
         "en": "West Pomeranian University of Technology in Szczecin",
         "pl": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie"
