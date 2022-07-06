@@ -671,6 +671,10 @@
             "en": "IFRO - Instituto Federal de Rondonia",
             "pt-br": "IFRO - Instituto Federal de Rondonia"
         },
+        "https://cafe.ifrs.edu.br/idp/shibboleth": {
+            "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul",
+            "pt-br": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul"
+        },
         "https://cafe.ifto.edu.br/idp/shibboleth": {
             "en": "IFTO - Instituto Federal de Educacao do Tocantins",
             "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
@@ -842,10 +846,6 @@
         "https://cafernp1.ipt.br/idp/shibboleth": {
             "en": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo",
             "pt-br": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo"
-        },
-        "https://cafers.ifrs.edu.br/idp/shibboleth": {
-            "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul",
-            "pt-br": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul"
         },
         "https://cafev2.unochapeco.edu.br/idp/shibboleth": {
             "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
@@ -8867,10 +8867,6 @@
         "https://shibone.univ-catholille.fr/idp/shibboleth": {
             "en": "Catholic University of Lille-",
             "fr": "Université Catholique de Lille-"
-        },
-        "https://si-idp.entpe.fr/idp/shibboleth": {
-            "en": "ENTPE",
-            "fr": "ENTPE"
         },
         "https://srv-fii.insa-toulouse.fr/idp/shibboleth": {
             "en": "INSA Toulouse",
