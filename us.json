@@ -449,9 +449,6 @@
     "https://idp.mines.edu/idp/shibboleth": {
         "en": "Colorado School of Mines"
     },
-    "https://idp.miracosta.edu/idp/shibboleth": {
-        "en": "MiraCosta Community College District"
-    },
     "https://idp.morgan.edu/idp/shibboleth": {
         "en": "Morgan State University"
     },
@@ -1324,6 +1321,9 @@
     },
     "https://umshibp.olemiss.edu/idp/shibboleth": {
         "en": "University of Mississippi"
+    },
+    "https://unicon.fedgw.com/gateway": {
+        "en": "Unicon Gateway"
     },
     "https://unmpidp.unm.edu/idp/shibboleth": {
         "en": "University of New Mexico"

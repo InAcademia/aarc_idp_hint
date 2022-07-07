@@ -111,10 +111,6 @@
         "en": "Hogeschool de Kempel",
         "nl": "Hogeschool de Kempel"
     },
-    "http://adfs1.oba.nl/adfs/services/trust": {
-        "en": "Openbare Bibliotheek Amsterdam (OBA)",
-        "nl": "Openbare Bibliotheek Amsterdam (OBA)"
-    },
     "http://adfs2.fontys.nl/adfs/services/trust": {
         "en": "Fontys University of Applied Sciences",
         "nl": "Fontys Hogescholen"
@@ -504,8 +500,8 @@
         "nl": "Hogeschool KPZ"
     },
     "https://sts.windows.net/559810d7-8507-4658-b938-950c1342ba79/": {
-        "en": "Openbare Bibliotheek Amsterdam (OBA) [AzureAD]",
-        "nl": "Openbare Bibliotheek Amsterdam (OBA) [AzureAD]"
+        "en": "Openbare Bibliotheek Amsterdam (OBA)",
+        "nl": "Openbare Bibliotheek Amsterdam (OBA)"
     },
     "https://sts.windows.net/5d73e7b7-b3e1-4d00-b303-056140b2a3b4/": {
         "en": "HAN University of Applied Sciences",

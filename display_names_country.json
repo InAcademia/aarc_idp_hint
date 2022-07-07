@@ -416,6 +416,9 @@
             "en": "Universite Saint-Louis - Bruxelles",
             "fr": "Universite Saint-Louis - Bruxelles"
         },
+        "https://edugain.vinci.be/adfs/services/trust": {
+            "en": "Haute Ecole Léonard de Vinci"
+        },
         "https://fs.kbr.be/adfs/services/trust": {
             "en": "Koninklijke Bibliotheek - Bibliotheque royale"
         },
@@ -651,6 +654,10 @@
             "en": "FUNESA - Fundacao Estadual de Saude",
             "pt-br": "FUNESA - Fundacao Estadual de Saude"
         },
+        "https://cafe.furg.br/idp/shibboleth": {
+            "en": "FURG - Universidade Federal do Rio Grande",
+            "pt-br": "FURG - Universidade Federal do Rio Grande"
+        },
         "https://cafe.idp.edu.br/idp/shibboleth": {
             "en": "IDP - Instituto Brasiliense de Direito Publico",
             "pt-br": "IDP - Instituto Brasiliense de Direito Publico"
@@ -826,10 +833,6 @@
         "https://cafe4.ufsc.br/idp/shibboleth": {
             "en": "UFSC - Universidade Federal de Santa Catarina",
             "pt-br": "UFSC - Universidade Federal de Santa Catarina"
-        },
-        "https://cafedev.furg.br/idp/shibboleth": {
-            "en": "FURG - Universidade Federal do Rio Grande",
-            "pt-br": "FURG - Universidade Federal do Rio Grande"
         },
         "https://cafeidp.ucs.br/idp/shibboleth": {
             "en": "UCS - Universidade de Caxias do Sul",
@@ -1087,6 +1090,10 @@
             "en": "UNIJORGE - Centro Universitario Jorge Amado",
             "pt-br": "UNIJORGE - Centro Universitario Jorge Amado"
         },
+        "https://idp.unijui.edu.br/idp/shibboleth": {
+            "en": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
+            "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul"
+        },
         "https://idp.unir.br/idp/shibboleth": {
             "en": "UNIR - Fundacao Universidade Federal de Rondonia",
             "pt-br": "UNIR - Fundacao Universidade Federal de Rondonia"
@@ -1130,10 +1137,6 @@
         "https://idp2.uft.edu.br/idp/shibboleth": {
             "en": "UFT - Universidade Federal do Tocantins",
             "pt-br": "UFT - Universidade Federal do Tocantins"
-        },
-        "https://idp2.unijui.edu.br/idp/shibboleth": {
-            "en": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
-            "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul"
         },
         "https://idp3.ifpe.edu.br/idp/shibboleth": {
             "en": "IFPE - Instituto Federal de Pernambuco",
@@ -1419,13 +1422,13 @@
             "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
             "pt-br": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul"
         },
-        "https://shibboleth4.ufrn.edu.br/idp/shibboleth": {
-            "en": "UFRN - Universidade Federal do Rio Grande do Norte",
-            "pt-br": "UFRN - Universidade Federal do Rio Grande do Norte"
-        },
         "https://shibboleth4.utfpr.edu.br/idp/shibboleth": {
             "en": "UTFPR - Universidade Tecnologica Federal do Parana",
             "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
+        },
+        "https://shibboleth5.ufrn.edu.br/idp/shibboleth": {
+            "en": "UFRN - Universidade Federal do Rio Grande do Norte",
+            "pt-br": "UFRN - Universidade Federal do Rio Grande do Norte"
         },
         "https://shibbolethidp.ifpr.edu.br/idp/shibboleth": {
             "en": "IFPR - Instituto Federal do Parana",
@@ -1478,6 +1481,10 @@
         "https://uricafe.uricer.edu.br/idp/shibboleth": {
             "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
             "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
+        },
+        "https://uter.ufob.edu.br/idp/shibboleth": {
+            "en": "UFOB - Universidade Federal do Oeste da Bahia",
+            "pt-br": "UFOB - Universidade Federal do Oeste da Bahia"
         },
         "https://vmmanaus.cpqd.com.br/idp/shibboleth": {
             "en": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes",
@@ -1633,6 +1640,9 @@
         },
         "https://fca-caf.uottawa.ca/idp": {
             "en": "University of Ottawa"
+        },
+        "https://id.oldscollege.ca/idp": {
+            "en": "Olds College"
         },
         "https://identity.concordia.ab.ca/idp/shibboleth": {
             "en": "Concordia University of Edmonton"
@@ -2536,10 +2546,6 @@
         "https://idp.ctbu.edu.cn/idp/shibboleth": {
             "en": "Chongqing Technology and Business University",
             "zh": "重庆工商大学(Chongqing Technology and Business University)"
-        },
-        "https://idp.ctgu.edu.cn/idp/shibboleth": {
-            "en": "China Three Gorges University",
-            "zh": "三峡大学(China Three Gorges University)"
         },
         "https://idp.cua.edu.cn/idp/shibboleth": {
             "en": "Anhui Vocational College of City Management",
@@ -11756,10 +11762,6 @@
             "en": "Hogeschool de Kempel",
             "nl": "Hogeschool de Kempel"
         },
-        "http://adfs1.oba.nl/adfs/services/trust": {
-            "en": "Openbare Bibliotheek Amsterdam (OBA)",
-            "nl": "Openbare Bibliotheek Amsterdam (OBA)"
-        },
         "http://adfs2.fontys.nl/adfs/services/trust": {
             "en": "Fontys University of Applied Sciences",
             "nl": "Fontys Hogescholen"
@@ -12149,8 +12151,8 @@
             "nl": "Hogeschool KPZ"
         },
         "https://sts.windows.net/559810d7-8507-4658-b938-950c1342ba79/": {
-            "en": "Openbare Bibliotheek Amsterdam (OBA) [AzureAD]",
-            "nl": "Openbare Bibliotheek Amsterdam (OBA) [AzureAD]"
+            "en": "Openbare Bibliotheek Amsterdam (OBA)",
+            "nl": "Openbare Bibliotheek Amsterdam (OBA)"
         },
         "https://sts.windows.net/5d73e7b7-b3e1-4d00-b303-056140b2a3b4/": {
             "en": "HAN University of Applied Sciences",
@@ -16670,9 +16672,6 @@
         "https://idp.mines.edu/idp/shibboleth": {
             "en": "Colorado School of Mines"
         },
-        "https://idp.miracosta.edu/idp/shibboleth": {
-            "en": "MiraCosta Community College District"
-        },
         "https://idp.morgan.edu/idp/shibboleth": {
             "en": "Morgan State University"
         },
@@ -17545,6 +17544,9 @@
         },
         "https://umshibp.olemiss.edu/idp/shibboleth": {
             "en": "University of Mississippi"
+        },
+        "https://unicon.fedgw.com/gateway": {
+            "en": "Unicon Gateway"
         },
         "https://unmpidp.unm.edu/idp/shibboleth": {
             "en": "University of New Mexico"

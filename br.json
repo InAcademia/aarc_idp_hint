@@ -75,6 +75,10 @@
         "en": "FUNESA - Fundacao Estadual de Saude",
         "pt-br": "FUNESA - Fundacao Estadual de Saude"
     },
+    "https://cafe.furg.br/idp/shibboleth": {
+        "en": "FURG - Universidade Federal do Rio Grande",
+        "pt-br": "FURG - Universidade Federal do Rio Grande"
+    },
     "https://cafe.idp.edu.br/idp/shibboleth": {
         "en": "IDP - Instituto Brasiliense de Direito Publico",
         "pt-br": "IDP - Instituto Brasiliense de Direito Publico"
@@ -250,10 +254,6 @@
     "https://cafe4.ufsc.br/idp/shibboleth": {
         "en": "UFSC - Universidade Federal de Santa Catarina",
         "pt-br": "UFSC - Universidade Federal de Santa Catarina"
-    },
-    "https://cafedev.furg.br/idp/shibboleth": {
-        "en": "FURG - Universidade Federal do Rio Grande",
-        "pt-br": "FURG - Universidade Federal do Rio Grande"
     },
     "https://cafeidp.ucs.br/idp/shibboleth": {
         "en": "UCS - Universidade de Caxias do Sul",
@@ -511,6 +511,10 @@
         "en": "UNIJORGE - Centro Universitario Jorge Amado",
         "pt-br": "UNIJORGE - Centro Universitario Jorge Amado"
     },
+    "https://idp.unijui.edu.br/idp/shibboleth": {
+        "en": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
+        "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul"
+    },
     "https://idp.unir.br/idp/shibboleth": {
         "en": "UNIR - Fundacao Universidade Federal de Rondonia",
         "pt-br": "UNIR - Fundacao Universidade Federal de Rondonia"
@@ -554,10 +558,6 @@
     "https://idp2.uft.edu.br/idp/shibboleth": {
         "en": "UFT - Universidade Federal do Tocantins",
         "pt-br": "UFT - Universidade Federal do Tocantins"
-    },
-    "https://idp2.unijui.edu.br/idp/shibboleth": {
-        "en": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
-        "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul"
     },
     "https://idp3.ifpe.edu.br/idp/shibboleth": {
         "en": "IFPE - Instituto Federal de Pernambuco",
@@ -843,13 +843,13 @@
         "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
         "pt-br": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul"
     },
-    "https://shibboleth4.ufrn.edu.br/idp/shibboleth": {
-        "en": "UFRN - Universidade Federal do Rio Grande do Norte",
-        "pt-br": "UFRN - Universidade Federal do Rio Grande do Norte"
-    },
     "https://shibboleth4.utfpr.edu.br/idp/shibboleth": {
         "en": "UTFPR - Universidade Tecnologica Federal do Parana",
         "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
+    },
+    "https://shibboleth5.ufrn.edu.br/idp/shibboleth": {
+        "en": "UFRN - Universidade Federal do Rio Grande do Norte",
+        "pt-br": "UFRN - Universidade Federal do Rio Grande do Norte"
     },
     "https://shibbolethidp.ifpr.edu.br/idp/shibboleth": {
         "en": "IFPR - Instituto Federal do Parana",
@@ -902,6 +902,10 @@
     "https://uricafe.uricer.edu.br/idp/shibboleth": {
         "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
         "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
+    },
+    "https://uter.ufob.edu.br/idp/shibboleth": {
+        "en": "UFOB - Universidade Federal do Oeste da Bahia",
+        "pt-br": "UFOB - Universidade Federal do Oeste da Bahia"
     },
     "https://vmmanaus.cpqd.com.br/idp/shibboleth": {
         "en": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes",

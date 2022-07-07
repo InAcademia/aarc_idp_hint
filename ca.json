@@ -132,6 +132,9 @@
     "https://fca-caf.uottawa.ca/idp": {
         "en": "University of Ottawa"
     },
+    "https://id.oldscollege.ca/idp": {
+        "en": "Olds College"
+    },
     "https://identity.concordia.ab.ca/idp/shibboleth": {
         "en": "Concordia University of Edmonton"
     },
