@@ -175,6 +175,10 @@
         "en": "Universidad de las Artes - uartes",
         "es": "Universidad de las Artes - uartes"
     },
+    "https://login.uaw.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Universidad Intercultural de las Nacionalidades y Pueblos Indigenas Amawtay Wasi - uaw",
+        "es": "Universidad Intercultural de las Nacionalidades y Pueblos Indigenas Amawtay Wasi - uaw"
+    },
     "https://login.uazuay.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad del Azuay - uazuay",
         "es": "Universidad del Azuay - uazuay"

@@ -27,6 +27,10 @@
         "en": "College of International Business ISM Slovakia in Prešov",
         "sk": "Vysoká škola medzinárodného podnikania ISM Slovakia v Prešove"
     },
+    "https://idp.paneurouni.com/idp/shibboleth": {
+        "en": "Pan-European University",
+        "sk": "Paneurópska vysoká škola"
+    },
     "https://idp.sav.sk/idp/shibboleth": {
         "en": "Slovak Academy of Sciences",
         "sk": "Slovenská akadémia vied"

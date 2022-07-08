@@ -111,6 +111,10 @@
         "en": "Rectorat de la Martinique",
         "fr": "Rectorat de la Martinique"
     },
+    "https://cas.esigelec.fr/cas/idp": {
+        "en": "Idp Esigelec",
+        "fr": "Idp Esigelec"
+    },
     "https://cas.st-cyr.terre.defense.gouv.fr/idp/shibboleth": {
         "en": "Académie militaire de Saint-Cyr Coëtquidan",
         "fr": "Académie militaire de Saint-Cyr Coëtquidan"
@@ -224,8 +228,8 @@
         "fr": "Ecole Supérieure d'Agriculture d'Angers"
     },
     "https://ident.shom.fr/idp/shibboleth": {
-        "en": "Shom 2022",
-        "fr": "Shom 2022"
+        "en": "Shom",
+        "fr": "Shom"
     },
     "https://identification.univ-toulouse.fr": {
         "en": "COMUE Université Fédérale Toulouse Midi-Pyrénées",
@@ -439,10 +443,6 @@
         "en": "ESC PAU Business School",
         "fr": "ESC PAU Business School"
     },
-    "https://idp.esigelec.fr/idp/shibboleth": {
-        "en": "Esigelec",
-        "fr": "Esigelec"
-    },
     "https://idp.esme.fr/idp/shibboleth": {
         "en": "ESME - ENGINEERING SCHOOL OF ENERGY AND DIGITAL TECHNOLOGIES",
         "fr": "ESME - L' École spéciale de mécanique et d'électricité"
@@ -598,10 +598,6 @@
     "https://idp.sciencespobordeaux.fr/idp/shibboleth": {
         "en": "Sciences Po Bordeaux",
         "fr": "Sciences Po Bordeaux"
-    },
-    "https://idp.shom.fr/idp/shibboleth": {
-        "en": "Shom",
-        "fr": "Shom"
     },
     "https://idp.sigma-clermont.fr/idp/shibboleth": {
         "en": "SIGMA CLERMONT",

@@ -35,6 +35,10 @@
         "en": "Geological Survey of Slovenia",
         "sl": "Geološki zavod Slovenije"
     },
+    "https://idp.gjp.si/idp/20110921": {
+        "en": "High school Jozeta Plecnika",
+        "sl": "Gimnazija Jožeta Plečnika"
+    },
     "https://idp.ijs.si/simplesaml/saml2/idp/metadata.php": {
         "en": "Jožef Stefan Institute",
         "sl": "Institut \"Jožef Stefan\""

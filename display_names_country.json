@@ -602,7 +602,7 @@
             "en": "UFOP - Universidade Federal de Ouro Preto",
             "pt-br": "UFOP - Universidade Federal de Ouro Preto"
         },
-        "https://cafe-02.uffs.edu.br/idp/shibboleth": {
+        "https://cafe-01.uffs.edu.br/idp/shibboleth": {
             "en": "UFFS - Universidade Federal da Fronteira Sul",
             "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
         },
@@ -6927,6 +6927,10 @@
             "en": "Universidad de las Artes - uartes",
             "es": "Universidad de las Artes - uartes"
         },
+        "https://login.uaw.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad Intercultural de las Nacionalidades y Pueblos Indigenas Amawtay Wasi - uaw",
+            "es": "Universidad Intercultural de las Nacionalidades y Pueblos Indigenas Amawtay Wasi - uaw"
+        },
         "https://login.uazuay.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad del Azuay - uazuay",
             "es": "Universidad del Azuay - uazuay"
@@ -7946,6 +7950,10 @@
             "en": "Rectorat de la Martinique",
             "fr": "Rectorat de la Martinique"
         },
+        "https://cas.esigelec.fr/cas/idp": {
+            "en": "Idp Esigelec",
+            "fr": "Idp Esigelec"
+        },
         "https://cas.st-cyr.terre.defense.gouv.fr/idp/shibboleth": {
             "en": "Académie militaire de Saint-Cyr Coëtquidan",
             "fr": "Académie militaire de Saint-Cyr Coëtquidan"
@@ -8059,8 +8067,8 @@
             "fr": "Ecole Supérieure d'Agriculture d'Angers"
         },
         "https://ident.shom.fr/idp/shibboleth": {
-            "en": "Shom 2022",
-            "fr": "Shom 2022"
+            "en": "Shom",
+            "fr": "Shom"
         },
         "https://identification.univ-toulouse.fr": {
             "en": "COMUE Université Fédérale Toulouse Midi-Pyrénées",
@@ -8274,10 +8282,6 @@
             "en": "ESC PAU Business School",
             "fr": "ESC PAU Business School"
         },
-        "https://idp.esigelec.fr/idp/shibboleth": {
-            "en": "Esigelec",
-            "fr": "Esigelec"
-        },
         "https://idp.esme.fr/idp/shibboleth": {
             "en": "ESME - ENGINEERING SCHOOL OF ENERGY AND DIGITAL TECHNOLOGIES",
             "fr": "ESME - L' École spéciale de mécanique et d'électricité"
@@ -8433,10 +8437,6 @@
         "https://idp.sciencespobordeaux.fr/idp/shibboleth": {
             "en": "Sciences Po Bordeaux",
             "fr": "Sciences Po Bordeaux"
-        },
-        "https://idp.shom.fr/idp/shibboleth": {
-            "en": "Shom",
-            "fr": "Shom"
         },
         "https://idp.sigma-clermont.fr/idp/shibboleth": {
             "en": "SIGMA CLERMONT",
@@ -13617,6 +13617,10 @@
             "en": "Geological Survey of Slovenia",
             "sl": "Geološki zavod Slovenije"
         },
+        "https://idp.gjp.si/idp/20110921": {
+            "en": "High school Jozeta Plecnika",
+            "sl": "Gimnazija Jožeta Plečnika"
+        },
         "https://idp.ijs.si/simplesaml/saml2/idp/metadata.php": {
             "en": "Jožef Stefan Institute",
             "sl": "Institut \"Jožef Stefan\""
@@ -13690,6 +13694,10 @@
         "https://idp.ismpo.sk/idp/shibboleth": {
             "en": "College of International Business ISM Slovakia in Prešov",
             "sk": "Vysoká škola medzinárodného podnikania ISM Slovakia v Prešove"
+        },
+        "https://idp.paneurouni.com/idp/shibboleth": {
+            "en": "Pan-European University",
+            "sk": "Paneurópska vysoká škola"
         },
         "https://idp.sav.sk/idp/shibboleth": {
             "en": "Slovak Academy of Sciences",
