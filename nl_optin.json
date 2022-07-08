@@ -1,0 +1,274 @@
+{
+    "http://ADFS.nimeto.nl/adfs/services/trust": {
+        "en": "Nimeto",
+        "nl": "Nimeto"
+    },
+    "http://adfs-farm.noorderpoort.nl/adfs/services/trust": {
+        "en": "Noorderpoort College",
+        "nl": "Noorderpoort College"
+    },
+    "http://adfs.artez.nl/adfs/services/trust": {
+        "en": "ArtEZ University of the Arts",
+        "nl": "ArtEZ University of the Arts"
+    },
+    "http://adfs.buas.nl/adfs/services/trust": {
+        "en": "Breda University of Applied Sciences",
+        "nl": "Breda University of Applied Sciences"
+    },
+    "http://adfs.driestar-educatief.nl/adfs/services/trust": {
+        "en": "Driestar educatief",
+        "nl": "Driestar educatief"
+    },
+    "http://adfs.hanze.nl/adfs/services/trust": {
+        "en": "Hanze University Groningen",
+        "nl": "Hanzehogeschool Groningen"
+    },
+    "http://adfs.hdh.nl/adfs/services/trust": {
+        "en": "Hotelschool The Hague",
+        "nl": "Hotelschool The Hague"
+    },
+    "http://adfs.hsmarnix.nl/adfs/services/trust": {
+        "en": "Marnix Academie",
+        "nl": "Marnix Academie"
+    },
+    "http://adfs.hvhl.nl/adfs/services/trust": {
+        "en": "Van Hall Larenstein, University of Applied Sciences",
+        "nl": "Hogeschool Van Hall Larenstein"
+    },
+    "http://adfs.knaw.nl/adfs/services/trust": {
+        "en": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)",
+        "nl": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)"
+    },
+    "http://adfs.mboamersfoort.nl/adfs/services/trust": {
+        "en": "MBO Amersfoort",
+        "nl": "MBO Amersfoort"
+    },
+    "http://adfs.mijnlentiz.nl/adfs/services/trust": {
+        "en": "Lentiz Onderwijsgroep",
+        "nl": "Lentiz Onderwijsgroep"
+    },
+    "http://adfs01.kempel.nl/adfs/services/trust": {
+        "en": "Hogeschool de Kempel",
+        "nl": "Hogeschool de Kempel"
+    },
+    "http://adfs2.fontys.nl/adfs/services/trust": {
+        "en": "Fontys University of Applied Sciences",
+        "nl": "Fontys Hogescholen"
+    },
+    "http://adfs4.uvh.nl/adfs/services/trust": {
+        "en": "University of Humanistic Studies",
+        "nl": "Universiteit voor Humanistiek"
+    },
+    "http://demeter.wp.swov.nl/adfs/services/trust": {
+        "en": "SWOV Institute for Road Safety Research",
+        "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
+    },
+    "http://fed.rijnijssel.nl/adfs/services/trust": {
+        "en": "Rijn IJssel",
+        "nl": "Rijn IJssel"
+    },
+    "http://federation.graafschapcollege.nl/adfs/services/trust": {
+        "en": "Graafschap College",
+        "nl": "Graafschap College"
+    },
+    "http://fs.loi.nl/adfs/services/trust": {
+        "en": "Leidse Onderwijsinstellingen - 2",
+        "nl": "Leidse Onderwijsinstellingen - 2"
+    },
+    "http://fs.myhz.nl/adfs/services/trust": {
+        "en": "HZ University of Applied Sciences",
+        "nl": "HZ University of Applied Sciences"
+    },
+    "http://fs.rivm.nl/adfs/services/trust": {
+        "en": "National Institute for Public Health and the Environment",
+        "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
+    },
+    "http://idp.inholland.nl/adfs/services/trust": {
+        "en": "Hogeschool INHOLLAND",
+        "nl": "Hogeschool INHOLLAND"
+    },
+    "http://login.hva.nl/adfs/services/trust": {
+        "en": "Hogeschool van Amsterdam",
+        "nl": "Hogeschool van Amsterdam"
+    },
+    "http://login.maastrichtuniversity.nl/adfs/services/trust": {
+        "en": "Maastricht University",
+        "nl": "Universiteit Maastricht"
+    },
+    "http://login.saxion.nl/adfs/services/trust": {
+        "en": "Saxion University of Applied Sciences",
+        "nl": "Hogeschool Saxion"
+    },
+    "http://login.surf.nl/adfs/services/trust": {
+        "en": "SURF (New)",
+        "nl": "SURF (Nieuw)"
+    },
+    "http://login.uva.nl/adfs/services/trust": {
+        "en": "University of Amsterdam",
+        "nl": "Universiteit van Amsterdam"
+    },
+    "http://login.wur.nl/adfs/services/trust": {
+        "en": "Wageningen University & Research (WUR)",
+        "nl": "Wageningen University & Research (WUR)"
+    },
+    "http://sclogin.kabk.nl/adfs/services/trust": {
+        "en": "Royal Academy of Art",
+        "nl": "Koninklijke Academie van Beeldende Kunsten"
+    },
+    "http://sclogin.koncon.nl/adfs/services/trust": {
+        "en": "Koninklijk Conservatorium",
+        "nl": "Koninklijk Conservatorium"
+    },
+    "http://signon.nhlstenden.com/adfs/services/trust": {
+        "en": "NHL Stenden",
+        "nl": "NHL Stenden"
+    },
+    "http://sts.designacademy.nl/adfs/services/trust": {
+        "en": "Design Academy Eindhoven",
+        "nl": "Design Academy Eindhoven"
+    },
+    "http://sts.hhs.nl/adfs/services/trust": {
+        "en": "The Hague University of Applied Science (THUAS)",
+        "nl": "De Haagse Hogeschool (HHS)"
+    },
+    "http://sts.horizoncollege.nl/adfs/services/trust": {
+        "en": "ROC Horizon College",
+        "nl": "ROC Horizon College"
+    },
+    "http://sts.viaa.nl/adfs/services/trust": {
+        "en": "Hogeschool Viaa",
+        "nl": "Hogeschool Viaa"
+    },
+    "http://sts.windesheim.nl/adfs/services/trust": {
+        "en": "Windesheim University of Applied Sciences",
+        "nl": "Hogeschool Windesheim"
+    },
+    "http://sts.zadkine.nl/adfs/services/trust": {
+        "en": "Zadkine",
+        "nl": "Zadkine"
+    },
+    "http://stsfed.login.vu.nl/adfs/services/trust": {
+        "en": "Vrije Universiteit Amsterdam",
+        "nl": "Vrije Universiteit Amsterdam"
+    },
+    "https://access.hro.nl/simplesaml/saml2/idp/metadata.php": {
+        "en": "Rotterdam University of Applied Sciences",
+        "nl": "Hogeschool Rotterdam"
+    },
+    "https://conext.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
+        "en": "Radboud University",
+        "nl": "Radboud Universiteit"
+    },
+    "https://federatie.hku.nl": {
+        "en": "Utrecht School of the Arts",
+        "nl": "Hogeschool voor de Kunsten Utrecht"
+    },
+    "https://fedlogin.ou.nl/fedou/saml2/idp/metadata.php": {
+        "en": "Open Juridische hogeschool, Netwerk Open Hogeschool Informatica, SchakelZone OJH NOHI",
+        "nl": "Open Juridische hogeschool, Netwerk Open Hogeschool Informatica, SchakelZone OJH NOHI"
+    },
+    "https://idp.geant.org": {
+        "en": "GÉANT Staff Identity Provider",
+        "nl": "GÉANT Staff Identity Provider"
+    },
+    "https://login.loi.nl/saml2/idp/metadata.php": {
+        "en": "Leidse Onderwijsinstellingen - 1",
+        "nl": "Leidse Onderwijsinstellingen - 1"
+    },
+    "https://login.ou.nl/am": {
+        "en": "Open Universiteit",
+        "nl": "Open Universiteit"
+    },
+    "https://login.tudelft.nl/sso/saml2/idp/metadata.php": {
+        "en": "Delft University of Technology",
+        "nl": "Technische Universiteit Delft"
+    },
+    "https://login.uaccess.leidenuniv.nl/nidp/saml2/metadata": {
+        "en": "Leiden University",
+        "nl": "Universiteit Leiden"
+    },
+    "https://login.uu.nl/nidp/saml2/metadata": {
+        "en": "Utrecht University",
+        "nl": "Universiteit Utrecht"
+    },
+    "https://saml.uvt.nl/saml2/idp/metadata.php": {
+        "en": "Tilburg University",
+        "nl": "Universiteit van Tilburg"
+    },
+    "https://secure.ahk.nl/nidp/saml2/metadata": {
+        "en": "Amsterdam University of the Arts",
+        "nl": "Amsterdamse Hogeschool voor de Kunsten"
+    },
+    "https://signon.rug.nl/nidp/saml2/metadata": {
+        "en": "University of Groningen",
+        "nl": "Rijksuniversiteit Groningen"
+    },
+    "https://sso.nikhef.nl/sso/saml2/idp/metadata.php": {
+        "en": "Nikhef",
+        "nl": "Nikhef"
+    },
+    "https://sts.hu.nl/adfs/services/trust": {
+        "en": "Hogeschool Utrecht",
+        "nl": "Hogeschool Utrecht"
+    },
+    "https://sts.windows.net/0fd5b548-a3ae-476f-886f-0df40c197293/": {
+        "en": "Christian University of Applied Sciences (CHE)",
+        "nl": "Christelijke Hogeschool Ede (CHE)"
+    },
+    "https://sts.windows.net/1826898e-b49b-4838-b724-408b6688a34b/": {
+        "en": "Clusius College",
+        "nl": "Clusius College"
+    },
+    "https://sts.windows.net/2867a850-2fe5-43f7-92b9-8e326586b667/": {
+        "en": "Deltion College",
+        "nl": "Deltion College"
+    },
+    "https://sts.windows.net/49d50454-13ed-4a49-9fb0-7d99214fadf4/": {
+        "en": "Hogeschool KPZ",
+        "nl": "Hogeschool KPZ"
+    },
+    "https://sts.windows.net/6200b37c-a03e-4996-ab02-6f5b017bb20f/": {
+        "en": "Iselinge university of applied sciences",
+        "nl": "Iselinge Hogeschool"
+    },
+    "https://sts.windows.net/715902d6-f63e-4b8d-929b-4bb170bad492/": {
+        "en": "Erasmus University Rotterdam",
+        "nl": "Erasmus Universiteit Rotterdam"
+    },
+    "https://sts.windows.net/723246a1-c3f5-43c5-acdc-43adb404ac4d/": {
+        "en": "University of Twente",
+        "nl": "Universiteit Twente"
+    },
+    "https://sts.windows.net/850f9344-e078-467e-9c5e-84d82f208ac7/": {
+        "en": "University of Applied Sciences Leiden",
+        "nl": "Hogeschool Leiden"
+    },
+    "https://sts.windows.net/87c50b58-2ef2-423d-a4db-1fa7c84efcfa/": {
+        "en": "Avans University of Applied Sciences",
+        "nl": "Avans Hogeschool"
+    },
+    "https://sts.windows.net/8e1dfee2-977a-438c-b35e-f5b6da84a174/": {
+        "en": "Zuyd Hogeschool",
+        "nl": "Zuyd Hogeschool"
+    },
+    "https://sts.windows.net/9a1651bf-58af-435b-86a8-3e9334b4b732/": {
+        "en": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)",
+        "nl": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)"
+    },
+    "https://sts.windows.net/aabe793f-b39c-440c-8e1a-0dcfb6215609/": {
+        "en": "Codarts University of the Arts",
+        "nl": "Codarts Hogeschool voor de Kunsten"
+    },
+    "https://sts.windows.net/b5c9c18a-44f0-434b-85fb-951322bf0eac/": {
+        "en": "ROC Midden Nederland",
+        "nl": "ROC Midden Nederland"
+    },
+    "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
+        "en": "HAS Hogeschool",
+        "nl": "HAS Hogeschool"
+    },
+    "https://sts.windows.net/e5c78cdf-04b3-4b36-a97a-4f15e225efd3/": {
+        "en": "Thomas More Hogeschool",
+        "nl": "Thomas More Hogeschool"
+    }
+}
