@@ -855,6 +855,10 @@
         "en": "IFPR - Instituto Federal do Parana",
         "pt-br": "IFPR - Instituto Federal do Parana"
     },
+    "https://siaiap61.univali.br/idp/shibboleth": {
+        "en": "UNIVALI - Universidade do Vale do Itajai",
+        "pt-br": "UNIVALI - Universidade do Vale do Itajai"
+    },
     "https://slm00-shibboleth.slmandic.edu.br/idp/shibboleth": {
         "en": "SLM - Sao Leopoldo Mandic",
         "pt-br": "SLM - Sao Leopoldo Mandic"
