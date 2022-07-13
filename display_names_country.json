@@ -594,13 +594,13 @@
             "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
             "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
         },
+        "https://bonanza.ceub.br/idp/shibboleth": {
+            "en": "UNICEUB - Centro Universitario de Brasilia",
+            "pt-br": "UNICEUB - Centro Universitario de Brasilia"
+        },
         "https://c255-001025.uniftc.edu.br/idp/shibboleth": {
             "en": "UNIFTC - Centro Universitario UniFTC",
             "pt-br": "UNIFTC - Centro Universitario UniFTC"
-        },
-        "https://cacaoeiro.ufop.br/idp/shibboleth": {
-            "en": "UFOP - Universidade Federal de Ouro Preto",
-            "pt-br": "UFOP - Universidade Federal de Ouro Preto"
         },
         "https://cafe-01.uffs.edu.br/idp/shibboleth": {
             "en": "UFFS - Universidade Federal da Fronteira Sul",
@@ -869,6 +869,10 @@
         "https://carajas.carajaseducacional.com.br/idp/shibboleth": {
             "en": "CARAJAS - Grupo Educacional Carajas",
             "pt-br": "CARAJAS - Grupo Educacional Carajas"
+        },
+        "https://catuai.ufop.br/idp/shibboleth": {
+            "en": "UFOP - Universidade Federal de Ouro Preto",
+            "pt-br": "UFOP - Universidade Federal de Ouro Preto"
         },
         "https://dourado5.ufs.br/idp/shibboleth": {
             "en": "UFS - Universidade Federal de Sergipe",
@@ -13425,10 +13429,6 @@
         "https://idp.hkr.se/idp/shibboleth": {
             "en": "Kristianstad University Sweden",
             "sv": "Högskolan Kristianstad"
-        },
-        "https://idp.hv.se/idp/shibboleth": {
-            "en": "University West - OLD",
-            "sv": "Högskolan Väst - OLD"
         },
         "https://idp.it.su.se/idp/shibboleth": {
             "en": "Stockholm University",
