@@ -606,6 +606,10 @@
             "en": "UFFS - Universidade Federal da Fronteira Sul",
             "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
         },
+        "https://cafe-gateway.ifce.edu.br/idp/shibboleth": {
+            "en": "IFCE - Instituto Federal do Ceara",
+            "pt-br": "IFCE - Instituto Federal do Ceara"
+        },
         "https://cafe-idp.ifnmg.edu.br/idp/shibboleth": {
             "en": "IFNMG - Instituto Federal do Norte de Minas Gerais",
             "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
@@ -16398,6 +16402,9 @@
         },
         "https://falconidp.uwrf.edu/idp/shibboleth": {
             "en": "University of Wisconsin-River Falls"
+        },
+        "https://fandm.us001-rapididentity.com/idp": {
+            "en": "Franklin & Marshall College - RapidIdentity"
         },
         "https://fed.huit.harvard.edu/idp/shibboleth": {
             "en": "Harvard University"

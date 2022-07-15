@@ -176,6 +176,9 @@
     "https://falconidp.uwrf.edu/idp/shibboleth": {
         "en": "University of Wisconsin-River Falls"
     },
+    "https://fandm.us001-rapididentity.com/idp": {
+        "en": "Franklin & Marshall College - RapidIdentity"
+    },
     "https://fed.huit.harvard.edu/idp/shibboleth": {
         "en": "Harvard University"
     },
