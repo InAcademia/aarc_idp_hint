@@ -3,6 +3,10 @@
         "bg": "Медицински университет Плевен",
         "en": "Medical University Pleven"
     },
+    "https://ewp.unibit.bg/idp/shibboleth": {
+        "bg": "Университет по библиотекознание и информационни технологии.",
+        "en": "University of Library Studies and Information technologies"
+    },
     "https://idp.bfu.bg/idp/saml2/idp/metadata.php": {
         "bg": "Бургаски свободен университет",
         "en": "Burgas Free University"

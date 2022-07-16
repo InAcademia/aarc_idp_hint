@@ -537,6 +537,10 @@
             "bg": "Медицински университет Плевен",
             "en": "Medical University Pleven"
         },
+        "https://ewp.unibit.bg/idp/shibboleth": {
+            "bg": "Университет по библиотекознание и информационни технологии.",
+            "en": "University of Library Studies and Information technologies"
+        },
         "https://idp.bfu.bg/idp/saml2/idp/metadata.php": {
             "bg": "Бургаски свободен университет",
             "en": "Burgas Free University"
@@ -914,10 +918,6 @@
             "en": "IFPI - Instituto Federal do Piaui",
             "pt-br": "IFPI - Instituto Federal do Piaui"
         },
-        "https://idp-cafe.ifrr.edu.br/idp/shibboleth": {
-            "en": "IFRR - Instituto Federal de Roraima",
-            "pt-br": "IFRR - Instituto Federal de Roraima"
-        },
         "https://idp-cafe.ifs.edu.br/idp/shibboleth": {
             "en": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe",
             "pt-br": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe"
@@ -1042,6 +1042,10 @@
             "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
             "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
         },
+        "https://idp.uepg.br/idp/shibboleth": {
+            "en": "UEPG - Universidade Estadual de Ponta Grossa",
+            "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
+        },
         "https://idp.ufac.br/idp/shibboleth": {
             "en": "UFAC - Universidade Federal do Acre",
             "pt-br": "UFAC - Universidade Federal do Acre"
@@ -1081,10 +1085,6 @@
         "https://idp.unifatea.edu.br/idp/shibboleth": {
             "en": "UNIFATEA - Centro Universitario Teresa D Avila",
             "pt-br": "UNIFATEA - Centro Universitario Teresa D Avila"
-        },
-        "https://idp.unifeob.edu.br/idp/shibboleth": {
-            "en": "UNIFEOB - Fundacao de Ensino Octavio Bastos",
-            "pt-br": "UNIFEOB - Fundacao de Ensino Octavio Bastos"
         },
         "https://idp.unifesp.br/idp/shibboleth": {
             "en": "UNIFESP - Universidade Federal de Sao Paulo",
@@ -1234,6 +1234,10 @@
             "en": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao",
             "pt-br": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao"
         },
+        "https://login-cafe.ifrr.edu.br/idp/shibboleth": {
+            "en": "IFRR - Instituto Federal de Roraima",
+            "pt-br": "IFRR - Instituto Federal de Roraima"
+        },
         "https://login.ufrgs.br/idp/shibboleth": {
             "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
             "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
@@ -1342,10 +1346,6 @@
             "en": "UEG - Universidade Estadual de Goias",
             "pt-br": "UEG - Universidade Estadual de Goias"
         },
-        "https://shibboleth.uergs.edu.br/idp/shibboleth": {
-            "en": "UERGS - Universidade Estadual do Rio Grande do Sul",
-            "pt-br": "UERGS - Universidade Estadual do Rio Grande do Sul"
-        },
         "https://shibboleth.uezo.edu.br/idp/shibboleth": {
             "en": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste",
             "pt-br": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste"
@@ -1409,6 +1409,10 @@
         "https://shibboleth01.pucrs.br/idp/shibboleth": {
             "en": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul",
             "pt-br": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul"
+        },
+        "https://shibboleth02.uergs.edu.br/idp/shibboleth": {
+            "en": "UERGS - Universidade Estadual do Rio Grande do Sul",
+            "pt-br": "UERGS - Universidade Estadual do Rio Grande do Sul"
         },
         "https://shibboleth1.feevale.br/idp/shibboleth": {
             "en": "FEEVALE - Universidade Feevale",
@@ -10375,7 +10379,7 @@
         },
         "https://idem.unisalento.it/idp/shibboleth": {
             "en": "University of Salento",
-            "it": "Università del Salento"
+            "it": "Universita' del Salento"
         },
         "https://idemfero.units.it/idp/shibboleth": {
             "en": "University of Trieste",
@@ -15940,7 +15944,7 @@
             "en": "Stockport College"
         },
         "https://shibboleth-idp.admin.furness.ac.uk/idp/shibboleth": {
-            "en": "Furness College"
+            "en": "Furness College Organisation"
         },
         "https://shibboleth-idp.don.ac.uk/shibboleth": {
             "en": "Doncaster College"
