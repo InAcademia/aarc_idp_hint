@@ -443,10 +443,6 @@
         "en": "Hogeschool Utrecht",
         "nl": "Hogeschool Utrecht"
     },
-    "https://sts.somtuniversity.nl/adfs/services/trust": {
-        "en": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)",
-        "nl": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)"
-    },
     "https://sts.windows.net/01ef09a2-c608-4fc7-af66-836e50ddde2c/": {
         "en": "Koninklijke Bibliotheek",
         "nl": "Koninklijke Bibliotheek"
@@ -480,8 +476,8 @@
         "nl": "Onderwijsgroep Tilburg"
     },
     "https://sts.windows.net/2f62835f-048e-4c85-94d9-f8052060210e/": {
-        "en": "SVO Vakopleiding Food",
-        "nl": "SVO Vakopleiding Food"
+        "en": "SVO vakopleiding food",
+        "nl": "SVO vakopleiding food"
     },
     "https://sts.windows.net/335122f9-d4f4-4d67-a2fc-cd6dc20dde70/": {
         "en": "UMC Groningen",
@@ -551,6 +547,10 @@
         "en": "Zuyd Hogeschool",
         "nl": "Zuyd Hogeschool"
     },
+    "https://sts.windows.net/91eab56a-a91b-4c88-a4fb-eba5c3b4ebfd/": {
+        "en": "Rijn IJssel {MS Azure AD)",
+        "nl": "Rijn IJssel {MS Azure AD)"
+    },
     "https://sts.windows.net/99193bd4-318d-47c6-a896-24e15f7a7e1b/": {
         "en": "Royal Tropical Institute",
         "nl": "Koninklijk Instituut voor de Tropen"
@@ -562,6 +562,10 @@
     "https://sts.windows.net/9ddb2f6b-ed26-456a-8680-3b375cbad516/": {
         "en": "Van Gogh Museum",
         "nl": "Van Gogh Museum"
+    },
+    "https://sts.windows.net/9e1bc3f2-7f34-4476-9dc5-0946672d5de5/": {
+        "en": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)",
+        "nl": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)"
     },
     "https://sts.windows.net/aabe793f-b39c-440c-8e1a-0dcfb6215609/": {
         "en": "Codarts University of the Arts",
