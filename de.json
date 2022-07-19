@@ -887,6 +887,10 @@
         "de": "ZBW - Leibniz-Informationszentrum Wirtschaft",
         "en": "ZBW - Leibniz Information Centre for Economics"
     },
+    "https://idp.zi-mannheim.de/idp/shibboleth": {
+        "de": "Zentralinstitut für Seelische Gesundheit",
+        "en": "Central Institute of Mental Health"
+    },
     "https://idp.zois-berlin.de/idp/shibboleth": {
         "de": "Zentrum für Osteuropa- und internationale Studien (ZOiS)",
         "en": "Centre for East European and International Studies (ZOiS)"
