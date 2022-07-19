@@ -63,10 +63,6 @@
         "en": "SWOV Institute for Road Safety Research",
         "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
     },
-    "http://fed.rijnijssel.nl/adfs/services/trust": {
-        "en": "Rijn IJssel",
-        "nl": "Rijn IJssel"
-    },
     "http://federation.graafschapcollege.nl/adfs/services/trust": {
         "en": "Graafschap College",
         "nl": "Graafschap College"
@@ -250,6 +246,10 @@
     "https://sts.windows.net/8e1dfee2-977a-438c-b35e-f5b6da84a174/": {
         "en": "Zuyd Hogeschool",
         "nl": "Zuyd Hogeschool"
+    },
+    "https://sts.windows.net/91eab56a-a91b-4c88-a4fb-eba5c3b4ebfd/": {
+        "en": "Rijn IJssel {MS Azure AD)",
+        "nl": "Rijn IJssel {MS Azure AD)"
     },
     "https://sts.windows.net/9a1651bf-58af-435b-86a8-3e9334b4b732/": {
         "en": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)",
