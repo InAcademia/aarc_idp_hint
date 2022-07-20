@@ -119,9 +119,6 @@
     "https://discovery.omren.om/simplesaml/saml2/idp/metadata.php": {
         "en": "IdP Proxy"
     },
-    "https://idp.cas.omren.om/idp": {
-        "en": "cas"
-    },
     "https://idp.icem.edu.om/idp/shibboleth": {
         "en": "International College of Engineering and Management (OM-KID)"
     },

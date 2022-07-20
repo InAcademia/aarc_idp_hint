@@ -1373,6 +1373,9 @@
     "https://nevada.varndean.ac.uk/idp/shibboleth": {
         "en": "Varndean College"
     },
+    "https://newham.ac.uk/idp": {
+        "en": "Newham Sixth Form College"
+    },
     "https://oa-idp.wlv.ac.uk/oala/metadata": {
         "en": "University of Wolverhampton"
     },

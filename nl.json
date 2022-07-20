@@ -139,10 +139,6 @@
         "en": "SWOV Institute for Road Safety Research",
         "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
     },
-    "http://fed.rijnijssel.nl/adfs/services/trust": {
-        "en": "Rijn IJssel",
-        "nl": "Rijn IJssel"
-    },
     "http://federatie.amc.nl/adfs/services/trust": {
         "en": "Academisch Medisch Centrum (AMC)",
         "nl": "Academisch Medisch Centrum (AMC)"
@@ -548,8 +544,8 @@
         "nl": "Zuyd Hogeschool"
     },
     "https://sts.windows.net/91eab56a-a91b-4c88-a4fb-eba5c3b4ebfd/": {
-        "en": "Rijn IJssel {MS Azure AD)",
-        "nl": "Rijn IJssel {MS Azure AD)"
+        "en": "Rijn IJssel",
+        "nl": "Rijn IJssel"
     },
     "https://sts.windows.net/99193bd4-318d-47c6-a896-24e15f7a7e1b/": {
         "en": "Royal Tropical Institute",
