@@ -7,7 +7,7 @@
     "am": {
         "https://afire.asnet.am/idp/shibboleth": {
             "en": "Academic Scientific Research Computer Network of Armenia (ASNET-AM)",
-            "hy": "Õ€Õ¡ÕµÕ¡Õ½Õ¿Õ¡Õ¶Õ« Õ¡Õ¯Õ¡Õ¤Õ¥Õ´Õ«Õ¡Õ¯Õ¡Õ¶ Õ£Õ«Õ¿Õ¡Õ°Õ¥Õ¿Õ¡Õ¦Õ¸Õ¿Õ¡Õ¯Õ¡Õ¶ Õ¯Õ¸Õ´ÕºÕµÕ¸Ö‚Õ¿Õ¥Ö€Õ¡ÕµÕ«Õ¶ ÖÕ¡Õ¶Ö (ASNET-AM)"
+            "hy": "Հայաստանի ակադեմիական գիտահետազոտական կոմպյուտերային ցանց (ASNET-AM)"
         }
     },
     "at": {
@@ -697,6 +697,10 @@
         "https://cafe.ime.eb.br/idp/shibboleth": {
             "en": "IME - Instituto Militar de Engenharia",
             "pt-br": "IME - Instituto Militar de Engenharia"
+        },
+        "https://cafe.mamiraua.org.br/idp/shibboleth": {
+            "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
+            "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
         },
         "https://cafe.mcti.gov.br/idp/shibboleth": {
             "en": "MCTI - Ministerio da Ciencia Tecnologia e Inovacoes",
@@ -4505,7 +4509,7 @@
         },
         "https://idp.mendelu.cz/idp/shibboleth": {
             "cs": "Mendelova univerzita v Brně - IdP",
-            "en": "Mendel Univerzity in Brno - IdP"
+            "en": "Mendel University in Brno - IdP"
         },
         "https://idp.mou.cz/idp/shibboleth": {
             "cs": "Masarykův Onkologický Ústav (MOÚ)",
@@ -10445,6 +10449,10 @@
             "en": "IRCCS FBF - Brescia",
             "it": "IRCCS FBF - Brescia"
         },
+        "https://idp-gaslini.irccs.garr.it/idp/shibboleth": {
+            "en": "IRCCS Istituto Giannina Gaslini - Genova",
+            "it": "IRCCS Istituto Giannina Gaslini - Genova"
+        },
         "https://idp-iccu.beniculturali.garr.it/idp/shibboleth": {
             "en": "ICCU - Central Institute for the Union Catalogue",
             "it": "ICCU - Istituto Centrale per il Catalogo Unico"
@@ -10718,6 +10726,10 @@
         "https://idp.unimi.it/idp/shibboleth": {
             "en": "Universita' degli Studi di Milano",
             "it": "Universita' degli Studi di Milano"
+        },
+        "https://idp.unimol.it/idp/shibboleth": {
+            "en": "Università degli studi del Molise",
+            "it": "Università degli studi del Molise"
         },
         "https://idp.unimore.it/idp/shibboleth": {
             "en": "University of Modena e Reggio Emilia",
@@ -13809,6 +13821,10 @@
         "https://idp.aksaray.edu.tr/idp/shibboleth": {
             "en": "Aksaray University",
             "tr": "Aksaray Üniversitesi"
+        },
+        "https://idp.ankaramedipol.edu.tr/idp/shibboleth": {
+            "en": "Ankara Medipol University",
+            "tr": "Ankara Medipol Universitesi"
         },
         "https://idp.arel.edu.tr/idp/shibboleth": {
             "en": "Istanbul Arel University",

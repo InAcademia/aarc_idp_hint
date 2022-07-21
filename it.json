@@ -131,6 +131,10 @@
         "en": "IRCCS FBF - Brescia",
         "it": "IRCCS FBF - Brescia"
     },
+    "https://idp-gaslini.irccs.garr.it/idp/shibboleth": {
+        "en": "IRCCS Istituto Giannina Gaslini - Genova",
+        "it": "IRCCS Istituto Giannina Gaslini - Genova"
+    },
     "https://idp-iccu.beniculturali.garr.it/idp/shibboleth": {
         "en": "ICCU - Central Institute for the Union Catalogue",
         "it": "ICCU - Istituto Centrale per il Catalogo Unico"
@@ -404,6 +408,10 @@
     "https://idp.unimi.it/idp/shibboleth": {
         "en": "Universita' degli Studi di Milano",
         "it": "Universita' degli Studi di Milano"
+    },
+    "https://idp.unimol.it/idp/shibboleth": {
+        "en": "Università degli studi del Molise",
+        "it": "Università degli studi del Molise"
     },
     "https://idp.unimore.it/idp/shibboleth": {
         "en": "University of Modena e Reggio Emilia",
