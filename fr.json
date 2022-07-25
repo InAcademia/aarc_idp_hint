@@ -1035,6 +1035,10 @@
         "en": "Catholic University of Lille-",
         "fr": "Université Catholique de Lille-"
     },
+    "https://si-idp04.entpe.fr/idp/shibboleth": {
+        "en": "ENTPE",
+        "fr": "ENTPE"
+    },
     "https://srv-fii.insa-toulouse.fr/idp/shibboleth": {
         "en": "INSA Toulouse",
         "fr": "INSA Toulouse"
