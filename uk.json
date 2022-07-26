@@ -914,6 +914,9 @@
     "https://idp.rad.org.uk/openathens": {
         "en": "Royal Academy of Dance"
     },
+    "https://idp.rada.ac.uk/openathens": {
+        "en": "Royal Academy of Dramatic Art (RADA)"
+    },
     "https://idp.ram.ac.uk/shibboleth": {
         "en": "Royal Academy of Music"
     },

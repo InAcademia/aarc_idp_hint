@@ -598,10 +598,6 @@
             "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
             "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
         },
-        "https://bonanza.ceub.br/idp/shibboleth": {
-            "en": "UNICEUB - Centro Universitario de Brasilia",
-            "pt-br": "UNICEUB - Centro Universitario de Brasilia"
-        },
         "https://c255-001025.uniftc.edu.br/idp/shibboleth": {
             "en": "UNIFTC - Centro Universitario UniFTC",
             "pt-br": "UNIFTC - Centro Universitario UniFTC"
@@ -898,6 +894,10 @@
             "en": "FUNDAJ - Fundacao Joaquim Nabuco",
             "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"
         },
+        "https://fusion.ceub.br/idp/shibboleth": {
+            "en": "UNICEUB - Centro Universitario de Brasilia",
+            "pt-br": "UNICEUB - Centro Universitario de Brasilia"
+        },
         "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
             "en": "IFAP - Instituto Federal do Amapa",
             "pt-br": "IFAP - Instituto Federal do Amapa"
@@ -1042,10 +1042,6 @@
             "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
             "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
         },
-        "https://idp.uepg.br/idp/shibboleth": {
-            "en": "UEPG - Universidade Estadual de Ponta Grossa",
-            "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
-        },
         "https://idp.ufac.br/idp/shibboleth": {
             "en": "UFAC - Universidade Federal do Acre",
             "pt-br": "UFAC - Universidade Federal do Acre"
@@ -1145,6 +1141,10 @@
         "https://idp3.ifpe.edu.br/idp/shibboleth": {
             "en": "IFPE - Instituto Federal de Pernambuco",
             "pt-br": "IFPE - Instituto Federal de Pernambuco"
+        },
+        "https://idp4.uepg.br/idp/shibboleth": {
+            "en": "UEPG - Universidade Estadual de Ponta Grossa",
+            "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
         },
         "https://idp59.furb.br/idp/shibboleth": {
             "en": "FURB - Fundacao Universidade Regional de Blumenau",
@@ -4762,6 +4762,10 @@
         "https://knihovna-litvinov.cz/idp/shibboleth": {
             "cs": "Městská knihovna Litvínov",
             "en": "Municipal Library in Litvinov"
+        },
+        "https://knihovna-nbk.cz/idp/shibboleth": {
+            "cs": "Městská knihovna Nymburk",
+            "en": "Municipal Library Nymburk"
         },
         "https://knihovna-orlova.cz/idp/shibboleth": {
             "cs": "Městská knihovna Orlová",
@@ -10977,6 +10981,10 @@
             "en": "Kyushu University",
             "ja": "九州大学"
         },
+        "https://idp.luke.ac.jp/idp/shibboleth": {
+            "en": "St.Luke's International University",
+            "ja": "聖路加国際大学"
+        },
         "https://idp.my-pharm.ac.jp/idp/shibboleth": {
             "en": "Meiji Pharmaceutical University",
             "ja": "明治薬科大学"
@@ -15348,6 +15356,9 @@
         },
         "https://idp.rad.org.uk/openathens": {
             "en": "Royal Academy of Dance"
+        },
+        "https://idp.rada.ac.uk/openathens": {
+            "en": "Royal Academy of Dramatic Art (RADA)"
         },
         "https://idp.ram.ac.uk/shibboleth": {
             "en": "Royal Academy of Music"

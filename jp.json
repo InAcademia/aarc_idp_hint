@@ -111,6 +111,10 @@
         "en": "Kyushu University",
         "ja": "九州大学"
     },
+    "https://idp.luke.ac.jp/idp/shibboleth": {
+        "en": "St.Luke's International University",
+        "ja": "聖路加国際大学"
+    },
     "https://idp.my-pharm.ac.jp/idp/shibboleth": {
         "en": "Meiji Pharmaceutical University",
         "ja": "明治薬科大学"

@@ -519,6 +519,10 @@
         "cs": "Městská knihovna Litvínov",
         "en": "Municipal Library in Litvinov"
     },
+    "https://knihovna-nbk.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Nymburk",
+        "en": "Municipal Library Nymburk"
+    },
     "https://knihovna-orlova.cz/idp/shibboleth": {
         "cs": "Městská knihovna Orlová",
         "en": "Municipal Library in Orlova"
