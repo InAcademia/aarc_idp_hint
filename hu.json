@@ -7,6 +7,10 @@
         "en": "University of Miskolc",
         "hu": "Miskolci Egyetem"
     },
+    "https://auth0.uni-milton.hu/idp/shibboleth": {
+        "en": "MILTON Login",
+        "hu": "MILTON Bejelentkezés"
+    },
     "https://bismarck.nyme.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "University of Sopron, Hungary",
         "hu": "Soproni Egyetem"

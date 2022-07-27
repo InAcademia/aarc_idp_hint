@@ -1,4 +1,8 @@
 {
+    "http://adfs.devinci.fr/adfs/services/trust": {
+        "en": "Pole de Vinci",
+        "fr": "Pole de Vinci"
+    },
     "http://fs.unilasalle.fr/adfs/services/trust": {
         "en": "UniLaSalle Institute",
         "fr": "Institut Polytechnique UniLaSalle"

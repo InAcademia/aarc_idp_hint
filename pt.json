@@ -231,6 +231,10 @@
         "en": "Instituto Politécnico de Lisboa",
         "pt": "Instituto Politécnico de Lisboa"
     },
+    "https://idp.novasbe.pt/idp/shibboleth": {
+        "en": "UNL - NOVA SBE",
+        "pt": "UNL - NOVA SBE"
+    },
     "https://idp.pres.ipv.pt/idp/shibboleth": {
         "en": "IPV - Serviços da Presidência",
         "pt": "IPV - Serviços da Presidência"

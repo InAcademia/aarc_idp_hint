@@ -539,6 +539,10 @@
         "en": "SRON Netherlands Institute for Space Research",
         "nl": "SRON Netherlands Institute for Space Research"
     },
+    "https://sts.windows.net/8cd24984-0aa3-4fc5-b09b-4d6ecfaa58fb/": {
+        "en": "Naturalis Biodiversity Center [MS Azure AD]",
+        "nl": "Naturalis Biodiversity Center [MS Azure AD]"
+    },
     "https://sts.windows.net/8e1dfee2-977a-438c-b35e-f5b6da84a174/": {
         "en": "Zuyd Hogeschool",
         "nl": "Zuyd Hogeschool"

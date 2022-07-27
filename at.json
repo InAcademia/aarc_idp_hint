@@ -115,6 +115,10 @@
         "de": "Tirol Kliniken | fh gesundheit",
         "en": "Tirol Kliniken | Health University of Applied Sciences Tyrol"
     },
+    "https://idp.tmw.at/idp/shibboleth": {
+        "de": "Technisches Museum Wien",
+        "en": "Vienna Museum of Science and Technology"
+    },
     "https://idp.uibk.ac.at/idp/shibboleth": {
         "de": "Universität Innsbruck",
         "en": "University of Innsbruck"
