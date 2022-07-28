@@ -10337,6 +10337,10 @@
             "en": "University of Verona",
             "it": "Università di Verona"
         },
+        "https://auth.conservatoriocomo.it/saml2/idp/metadata.php": {
+            "en": "Conservatorio di musica \"G. Verdi\" di Como",
+            "it": "Conservatorio  di musica \"G. Verdi\" di Como"
+        },
         "https://auth.conspv.it/saml2/idp/metadata.php": {
             "en": "Istituto Superiore di Studi Musicali Franco Vittadini",
             "it": "Istituto Superiore di Studi Musicali Franco Vittadini"

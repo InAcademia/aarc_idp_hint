@@ -407,6 +407,7 @@
     "https://auth.chaminade.edu/idp/shibboleth": "Chaminade University of Honolulu",
     "https://auth.chimie-paristech.fr/idp/saml2/metadata": "Ecole Nationale Supérieure de Chimie Paris",
     "https://auth.cnous.fr/idp/shibboleth": "CNOUS - Personnel",
+    "https://auth.conservatoriocomo.it/saml2/idp/metadata.php": "Conservatorio di musica \"G. Verdi\" di Como",
     "https://auth.conspv.it/saml2/idp/metadata.php": "Istituto Superiore di Studi Musicali Franco Vittadini",
     "https://auth.creighton.edu/idp/shibboleth": "Creighton University",
     "https://auth.crous-caen.fr/idp/shibboleth": "CROUS Caen-Personnels V3",
