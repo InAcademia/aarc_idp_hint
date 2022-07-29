@@ -874,10 +874,6 @@
             "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
             "pt-br": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense"
         },
-        "https://carajas.carajaseducacional.com.br/idp/shibboleth": {
-            "en": "CARAJAS - Grupo Educacional Carajas",
-            "pt-br": "CARAJAS - Grupo Educacional Carajas"
-        },
         "https://catuai.ufop.br/idp/shibboleth": {
             "en": "UFOP - Universidade Federal de Ouro Preto",
             "pt-br": "UFOP - Universidade Federal de Ouro Preto"
@@ -1026,10 +1022,6 @@
             "en": "INT - Instituto Nacional de Tecnologia",
             "pt-br": "INT - Instituto Nacional de Tecnologia"
         },
-        "https://idp.linea.gov.br/idp/shibboleth": {
-            "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
-            "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
-        },
         "https://idp.mast.br/idp/shibboleth": {
             "en": "MAST - Museu de Astronomia e Ciencias Afins",
             "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
@@ -1121,6 +1113,10 @@
         "https://idp.uscs.edu.br/idp/shibboleth": {
             "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
             "pt-br": "USCS - Universidade Municipal de Sao Caetano do Sul"
+        },
+        "https://idp01.linea.org.br/idp/shibboleth": {
+            "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
+            "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
         },
         "https://idp02.ifc.edu.br/idp/shibboleth": {
             "en": "IFC - Instituto Federal Catarinense",
@@ -1429,6 +1425,10 @@
         "https://shibboleth1p.sipam.gov.br/idp/shibboleth": {
             "en": "CENSIPAM - Sistema de Protecao da Amazonia",
             "pt-br": "CENSIPAM - Sistema de Protecao da Amazonia"
+        },
+        "https://shibboleth4.cnpem.br/idp/shibboleth": {
+            "en": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais",
+            "pt-br": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais"
         },
         "https://shibboleth4.ufms.br/idp/shibboleth": {
             "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
