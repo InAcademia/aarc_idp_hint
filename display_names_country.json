@@ -12030,6 +12030,10 @@
             "en": "ZonMw",
             "nl": "ZonMw"
         },
+        "http://sts4.rocwb.nl/adfs/services/trust": {
+            "en": "Curio",
+            "nl": "Curio"
+        },
         "http://stsfed.login.vu.nl/adfs/services/trust": {
             "en": "Vrije Universiteit Amsterdam",
             "nl": "Vrije Universiteit Amsterdam"

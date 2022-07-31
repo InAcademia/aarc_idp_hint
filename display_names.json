@@ -275,6 +275,7 @@
     "http://sts.zadkine.nl/adfs/services/trust": "Zadkine",
     "http://sts.zonmw.nl/adfs/services/trust": "ZonMw",
     "http://sts1.ksau-hs.edu.sa/adfs/services/trust": "King Saud Bin Abdulaziz University for Health Sciences",
+    "http://sts4.rocwb.nl/adfs/services/trust": "Curio",
     "http://stsfed.login.vu.nl/adfs/services/trust": "Vrije Universiteit Amsterdam",
     "http://stsr4l.who.int/adfs/services/trust": "Research4Life",
     "http://teamwerk.fed.vumc.nl/adfs/services/trust": "VU medisch centrum",
