@@ -804,7 +804,7 @@
         "en": "Fordham University"
     },
     "https://mamiwata.du.edu/idp": {
-        "en": "Denver University"
+        "en": "Univ. of Denver"
     },
     "https://mckinley.csuci.edu/idp/shibboleth": {
         "en": "California State University, Channel Islands"
@@ -1285,6 +1285,9 @@
     },
     "https://sso.uri.edu/idp": {
         "en": "University of Rhode Island"
+    },
+    "https://sso.usnh.edu/idp": {
+        "en": "University System of New Hampshire"
     },
     "https://sso.ut.edu/idp": {
         "en": "The University of Tampa"

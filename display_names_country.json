@@ -2523,6 +2523,10 @@
             "en": "China Pharmaceutical University",
             "zh": "中国药科大学(China Pharmaceutical University)"
         },
+        "https://idp.cqie.edu.cn/idp/shibboleth": {
+            "en": "Chongqing Institute Of Engineering",
+            "zh": "重庆工程学院(Chongqing Institute Of Engineering)"
+        },
         "https://idp.cqjtu.edu.cn/idp/shibboleth": {
             "en": "Chongqing Jiaotong University",
             "zh": "重庆交通大学(Chongqing Jiaotong University)"
@@ -17095,7 +17099,7 @@
             "en": "Fordham University"
         },
         "https://mamiwata.du.edu/idp": {
-            "en": "Denver University"
+            "en": "Univ. of Denver"
         },
         "https://mckinley.csuci.edu/idp/shibboleth": {
             "en": "California State University, Channel Islands"
@@ -17576,6 +17580,9 @@
         },
         "https://sso.uri.edu/idp": {
             "en": "University of Rhode Island"
+        },
+        "https://sso.usnh.edu/idp": {
+            "en": "University System of New Hampshire"
         },
         "https://sso.ut.edu/idp": {
             "en": "The University of Tampa"

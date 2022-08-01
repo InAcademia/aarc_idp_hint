@@ -403,6 +403,10 @@
         "en": "China Pharmaceutical University",
         "zh": "中国药科大学(China Pharmaceutical University)"
     },
+    "https://idp.cqie.edu.cn/idp/shibboleth": {
+        "en": "Chongqing Institute Of Engineering",
+        "zh": "重庆工程学院(Chongqing Institute Of Engineering)"
+    },
     "https://idp.cqjtu.edu.cn/idp/shibboleth": {
         "en": "Chongqing Jiaotong University",
         "zh": "重庆交通大学(Chongqing Jiaotong University)"
