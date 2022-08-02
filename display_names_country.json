@@ -1270,6 +1270,10 @@
             "en": "MEC - Ministerio da Educacao",
             "pt-br": "MEC - Ministerio da Educacao"
         },
+        "https://pro-vm-lcafe-01.fnde.gov.br/idp/shibboleth": {
+            "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
+            "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"
+        },
         "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
             "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
             "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
@@ -1469,6 +1473,10 @@
         "https://srv-idp.uefs.br/idp/shibboleth": {
             "en": "UEFS - Universidade Estadual de Feira de Santana",
             "pt-br": "UEFS - Universidade Estadual de Feira de Santana"
+        },
+        "https://srvcafe.cgee.org.br/idp/shibboleth": {
+            "en": "CGEE - Centro de Gestao e Estudos Estrategicos",
+            "pt-br": "CGEE - Centro de Gestao e Estudos Estrategicos"
         },
         "https://srvcafe.ifma.edu.br/idp/shibboleth": {
             "en": "IFMA - Instituto Federal de Educacao Ciencia e Tecnologia do Maranhao",
@@ -11145,10 +11153,6 @@
             "en": "Ochanomizu University",
             "ja": "お茶の水女子大学"
         },
-        "https://vairocana.okinawa-u.ac.jp/idp/shibboleth": {
-            "en": "Okinawa University",
-            "ja": "沖縄大学"
-        },
         "https://wagner.isc.chubu.ac.jp/idp/shibboleth": {
             "en": "CHUBU UNIVERSITY",
             "ja": "中部大学"
@@ -12266,10 +12270,6 @@
             "en": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)",
             "nl": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)"
         },
-        "https://sts.windows.net/9ddb2f6b-ed26-456a-8680-3b375cbad516/": {
-            "en": "Van Gogh Museum",
-            "nl": "Van Gogh Museum"
-        },
         "https://sts.windows.net/9e1bc3f2-7f34-4476-9dc5-0946672d5de5/": {
             "en": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)",
             "nl": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)"
@@ -12457,9 +12457,6 @@
         },
         "http://fs.css.edu.om/adfs/services/trust": {
             "en": "College of Sharia Sciences"
-        },
-        "http://fs.su.edu.om/adfs/services/trust": {
-            "en": "Sohar University"
         },
         "http://fs.trc.gov.om/adfs/services/trust": {
             "en": "Research and Innovation Center"
@@ -16666,9 +16663,6 @@
         "https://idp.getty.edu/idp": {
             "en": "J. Paul Getty Trust"
         },
-        "https://idp.gonzaga.edu/idp": {
-            "en": "Gonzaga University"
-        },
         "https://idp.greatplains.net": {
             "en": "Great Plains Network"
         },
@@ -17118,6 +17112,9 @@
         },
         "https://mylogin.unh.edu/secureauth74": {
             "en": "University of New Hampshire"
+        },
+        "https://myqlidp.marin.edu": {
+            "en": "College of Marin"
         },
         "https://myqlidp.otis.edu": {
             "en": "Otis College QuickLaunch"

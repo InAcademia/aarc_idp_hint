@@ -683,6 +683,10 @@
         "en": "MEC - Ministerio da Educacao",
         "pt-br": "MEC - Ministerio da Educacao"
     },
+    "https://pro-vm-lcafe-01.fnde.gov.br/idp/shibboleth": {
+        "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
+        "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"
+    },
     "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
         "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
         "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
@@ -882,6 +886,10 @@
     "https://srv-idp.uefs.br/idp/shibboleth": {
         "en": "UEFS - Universidade Estadual de Feira de Santana",
         "pt-br": "UEFS - Universidade Estadual de Feira de Santana"
+    },
+    "https://srvcafe.cgee.org.br/idp/shibboleth": {
+        "en": "CGEE - Centro de Gestao e Estudos Estrategicos",
+        "pt-br": "CGEE - Centro de Gestao e Estudos Estrategicos"
     },
     "https://srvcafe.ifma.edu.br/idp/shibboleth": {
         "en": "IFMA - Instituto Federal de Educacao Ciencia e Tecnologia do Maranhao",

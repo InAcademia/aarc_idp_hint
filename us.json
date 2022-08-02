@@ -371,9 +371,6 @@
     "https://idp.getty.edu/idp": {
         "en": "J. Paul Getty Trust"
     },
-    "https://idp.gonzaga.edu/idp": {
-        "en": "Gonzaga University"
-    },
     "https://idp.greatplains.net": {
         "en": "Great Plains Network"
     },
@@ -823,6 +820,9 @@
     },
     "https://mylogin.unh.edu/secureauth74": {
         "en": "University of New Hampshire"
+    },
+    "https://myqlidp.marin.edu": {
+        "en": "College of Marin"
     },
     "https://myqlidp.otis.edu": {
         "en": "Otis College QuickLaunch"
