@@ -536,55 +536,6 @@
             "nl": "Associatie KU Leuven"
         }
     },
-    "bg": {
-        "https://edugain.mu-pleven.bg/idp/shibboleth": {
-            "bg": "Медицински университет Плевен",
-            "en": "Medical University Pleven"
-        },
-        "https://ewp.unibit.bg/idp/shibboleth": {
-            "bg": "Университет по библиотекознание и информационни технологии.",
-            "en": "University of Library Studies and Information technologies"
-        },
-        "https://idp.bfu.bg/idp/saml2/idp/metadata.php": {
-            "bg": "Бургаски свободен университет",
-            "en": "Burgas Free University"
-        },
-        "https://idp.cc.bas.bg/idp/shibboleth": {
-            "bg": "Лабораторията по телематика",
-            "en": "Laboratory of Telematics"
-        },
-        "https://idp.naval-acad.bg/idp/shibboleth": {
-            "bg": "Висше военноморско училище \"Н. Й. Вапцаров\"",
-            "en": "Nikola Vaptsarov Naval Academy"
-        },
-        "https://idp.nbu.bg/idp/shibboleth": {
-            "bg": "Нов български университет",
-            "en": "New Bulgarian University"
-        },
-        "https://idp.tu-sofia.bg/idp/shibboleth": {
-            "bg": "Технически Университет - София",
-            "en": "Technical University of Sofia"
-        },
-        "https://idp.uctm.edu/idp/saml2/idp/metadata.php": {
-            "bg": "Химикотехнологичен и металургичен университет (ХТМУ)",
-            "en": "University of Chemical Technology and Metallurgy (UCTM)"
-        },
-        "https://idp.uni-ruse.bg/idp/shibboleth": {
-            "bg": "Русенски университет Ангел Кънчев",
-            "en": "University Of Ruse Angel Kunchev"
-        },
-        "https://sso.nvu.bg/idp/shibboleth": {
-            "bg": "Национален военен университет \"Васил Левски\"",
-            "en": "National Military University \"Vasil Levski\""
-        },
-        "https://sso.uni-sofia.bg/idp/shibboleth": {
-            "en": "Sofia University \"St. Kliment Ohridski\""
-        },
-        "https://vnshibo.vfu.bg/idp/shibboleth": {
-            "bg": "Варненски свободен университет Черноризец Храбър",
-            "en": "Varna Free University Chernorizets Hrabar"
-        }
-    },
     "br": {
         "https://040cafe602.up.edu.br/idp/shibboleth": {
             "en": "UP - Universidade Positivo",
@@ -901,6 +852,10 @@
         "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
             "en": "IFAP - Instituto Federal do Amapa",
             "pt-br": "IFAP - Instituto Federal do Amapa"
+        },
+        "https://idp-cafe-v2.uerj.br/idp/shibboleth": {
+            "en": "UERJ - Universidade do Estado do Rio de Janeiro",
+            "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
         },
         "https://idp-cafe.ghc.com.br/idp/shibboleth": {
             "en": "GHC - Grupo Hospitalar Conceicao",
@@ -9472,8 +9427,8 @@
             "hu": "Miskolci Egyetem"
         },
         "https://auth0.uni-milton.hu/idp/shibboleth": {
-            "en": "MILTON Login",
-            "hu": "MILTON Bejelentkezés"
+            "en": "Milton Friedman University",
+            "hu": "Milton Friedman Egyetem"
         },
         "https://bismarck.nyme.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "University of Sopron, Hungary",
@@ -12270,6 +12225,10 @@
             "en": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)",
             "nl": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)"
         },
+        "https://sts.windows.net/9ddb2f6b-ed26-456a-8680-3b375cbad516/": {
+            "en": "Van Gogh Museum",
+            "nl": "Van Gogh Museum"
+        },
         "https://sts.windows.net/9e1bc3f2-7f34-4476-9dc5-0946672d5de5/": {
             "en": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)",
             "nl": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)"
@@ -12457,6 +12416,9 @@
         },
         "http://fs.css.edu.om/adfs/services/trust": {
             "en": "College of Sharia Sciences"
+        },
+        "http://fs.su.edu.om/adfs/services/trust": {
+            "en": "Sohar University"
         },
         "http://fs.trc.gov.om/adfs/services/trust": {
             "en": "Research and Innovation Center"
@@ -14031,6 +13993,10 @@
         "https://kimlik.aku.edu.tr/idp/shibboleth": {
             "en": "Afyon Kocatepe University",
             "tr": "Afyon Kocatepe Üniversitesi"
+        },
+        "https://kimlik.alanya.edu.tr/idp/shibboleth": {
+            "en": "Alanya Alaaddin Keykubat University",
+            "tr": "Alanya Alaaddin Keykubat Üniversitesi"
         },
         "https://kimlik.altinbas.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Altinbas University",

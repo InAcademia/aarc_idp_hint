@@ -199,6 +199,10 @@
         "en": "Afyon Kocatepe University",
         "tr": "Afyon Kocatepe Üniversitesi"
     },
+    "https://kimlik.alanya.edu.tr/idp/shibboleth": {
+        "en": "Alanya Alaaddin Keykubat University",
+        "tr": "Alanya Alaaddin Keykubat Üniversitesi"
+    },
     "https://kimlik.altinbas.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Altinbas University",
         "tr": "Altınbaş Üniversitesi"

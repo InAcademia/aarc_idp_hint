@@ -92,6 +92,9 @@
     "http://fs.css.edu.om/adfs/services/trust": {
         "en": "College of Sharia Sciences"
     },
+    "http://fs.su.edu.om/adfs/services/trust": {
+        "en": "Sohar University"
+    },
     "http://fs.trc.gov.om/adfs/services/trust": {
         "en": "Research and Innovation Center"
     },

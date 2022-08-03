@@ -8,8 +8,8 @@
         "hu": "Miskolci Egyetem"
     },
     "https://auth0.uni-milton.hu/idp/shibboleth": {
-        "en": "MILTON Login",
-        "hu": "MILTON Bejelentkezés"
+        "en": "Milton Friedman University",
+        "hu": "Milton Friedman Egyetem"
     },
     "https://bismarck.nyme.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "University of Sopron, Hungary",

@@ -315,6 +315,10 @@
         "en": "IFAP - Instituto Federal do Amapa",
         "pt-br": "IFAP - Instituto Federal do Amapa"
     },
+    "https://idp-cafe-v2.uerj.br/idp/shibboleth": {
+        "en": "UERJ - Universidade do Estado do Rio de Janeiro",
+        "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
+    },
     "https://idp-cafe.ghc.com.br/idp/shibboleth": {
         "en": "GHC - Grupo Hospitalar Conceicao",
         "pt-br": "GHC - Grupo Hospitalar Conceicao"
