@@ -536,6 +536,55 @@
             "nl": "Associatie KU Leuven"
         }
     },
+    "bg": {
+        "https://edugain.mu-pleven.bg/idp/shibboleth": {
+            "bg": "Медицински университет Плевен",
+            "en": "Medical University Pleven"
+        },
+        "https://ewp.unibit.bg/idp/shibboleth": {
+            "bg": "Университет по библиотекознание и информационни технологии.",
+            "en": "University of Library Studies and Information technologies"
+        },
+        "https://idp.bfu.bg/idp/saml2/idp/metadata.php": {
+            "bg": "Бургаски свободен университет",
+            "en": "Burgas Free University"
+        },
+        "https://idp.cc.bas.bg/idp/shibboleth": {
+            "bg": "Лабораторията по телематика",
+            "en": "Laboratory of Telematics"
+        },
+        "https://idp.naval-acad.bg/idp/shibboleth": {
+            "bg": "Висше военноморско училище \"Н. Й. Вапцаров\"",
+            "en": "Nikola Vaptsarov Naval Academy"
+        },
+        "https://idp.nbu.bg/idp/shibboleth": {
+            "bg": "Нов български университет",
+            "en": "New Bulgarian University"
+        },
+        "https://idp.tu-sofia.bg/idp/shibboleth": {
+            "bg": "Технически Университет - София",
+            "en": "Technical University of Sofia"
+        },
+        "https://idp.uctm.edu/idp/saml2/idp/metadata.php": {
+            "bg": "Химикотехнологичен и металургичен университет (ХТМУ)",
+            "en": "University of Chemical Technology and Metallurgy (UCTM)"
+        },
+        "https://idp.uni-ruse.bg/idp/shibboleth": {
+            "bg": "Русенски университет Ангел Кънчев",
+            "en": "University Of Ruse Angel Kunchev"
+        },
+        "https://sso.nvu.bg/idp/shibboleth": {
+            "bg": "Национален военен университет \"Васил Левски\"",
+            "en": "National Military University \"Vasil Levski\""
+        },
+        "https://sso.uni-sofia.bg/idp/shibboleth": {
+            "en": "Sofia University \"St. Kliment Ohridski\""
+        },
+        "https://vnshibo.vfu.bg/idp/shibboleth": {
+            "bg": "Варненски свободен университет Черноризец Храбър",
+            "en": "Varna Free University Chernorizets Hrabar"
+        }
+    },
     "br": {
         "https://040cafe602.up.edu.br/idp/shibboleth": {
             "en": "UP - Universidade Positivo",
