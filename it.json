@@ -348,6 +348,10 @@
         "en": "LUISS",
         "it": "LUISS"
     },
+    "https://idp.lum.it/idp/shibboleth": {
+        "en": "LUM Giuseppe Degennaro University",
+        "it": "Università LUM Giuseppe Degennaro"
+    },
     "https://idp.museogalileo.it/idp/shibboleth": {
         "en": "Museo Galileo - Istituto e Museo di Storia della Scienza",
         "it": "Museo Galileo - Istituto e Museo di Storia della Scienza"
