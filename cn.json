@@ -1219,6 +1219,10 @@
         "en": "Nanchang Vocational University",
         "zh": "南昌职业大学(Nanchang Vocational University)"
     },
+    "https://idp.nwnu.edu.cn/idp/shibboleth": {
+        "en": "NorthWest Normal University",
+        "zh": "西北师范大学(NorthWest Normal University)"
+    },
     "https://idp.nwpu.edu.cn/idp/shibboleth": {
         "en": "Northwestern Polytechnical University",
         "zh": "西北工业大学(Northwestern Polytechnical University)"

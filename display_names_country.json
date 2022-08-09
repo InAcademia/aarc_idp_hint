@@ -3347,6 +3347,10 @@
             "en": "Nanchang Vocational University",
             "zh": "南昌职业大学(Nanchang Vocational University)"
         },
+        "https://idp.nwnu.edu.cn/idp/shibboleth": {
+            "en": "NorthWest Normal University",
+            "zh": "西北师范大学(NorthWest Normal University)"
+        },
         "https://idp.nwpu.edu.cn/idp/shibboleth": {
             "en": "Northwestern Polytechnical University",
             "zh": "西北工业大学(Northwestern Polytechnical University)"
@@ -11802,10 +11806,6 @@
             "en": "Maastricht School of Management",
             "nl": "Maastricht School of Management"
         },
-        "http://adfs.naturalis.nl/adfs/services/trust": {
-            "en": "Naturalis Biodiversity Center",
-            "nl": "Naturalis Biodiversity Center"
-        },
         "http://adfs.nivel.nl/adfs/services/trust": {
             "en": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)",
             "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"
@@ -12259,8 +12259,8 @@
             "nl": "SRON Netherlands Institute for Space Research"
         },
         "https://sts.windows.net/8cd24984-0aa3-4fc5-b09b-4d6ecfaa58fb/": {
-            "en": "Naturalis Biodiversity Center [MS Azure AD]",
-            "nl": "Naturalis Biodiversity Center [MS Azure AD]"
+            "en": "Naturalis Biodiversity Center",
+            "nl": "Naturalis Biodiversity Center"
         },
         "https://sts.windows.net/8e1dfee2-977a-438c-b35e-f5b6da84a174/": {
             "en": "Zuyd Hogeschool",
@@ -12511,6 +12511,9 @@
         },
         "https://idp.shct.edu.om/idp/shibboleth": {
             "en": "Shinas College of Technology (OM-KID)"
+        },
+        "https://idp.unizwa.edu.om/idp": {
+            "en": "University of Nizwa(shibboleth)"
         },
         "https://idp01.aou.edu.om/idp/shibboleth": {
             "en": "Arab Open University (OM-KID)"
@@ -13848,6 +13851,14 @@
         "https://truniidp.truni.sk/idp/shibboleth": {
             "en": "Trnava University in Trnava",
             "sk": "Trnavská univerzita v Trnave"
+        }
+    },
+    "th": {
+        "https://idp.thairen.net.th/idp/shibboleth": {
+            "en": "ThaiREN IDP at idp.thairen.net.th"
+        },
+        "https://idp.thaisarn.net.th/idp/shibboleth": {
+            "en": "Thai Social/Scientific Academic and Research Network"
         }
     },
     "tr": {

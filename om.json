@@ -134,6 +134,9 @@
     "https://idp.shct.edu.om/idp/shibboleth": {
         "en": "Shinas College of Technology (OM-KID)"
     },
+    "https://idp.unizwa.edu.om/idp": {
+        "en": "University of Nizwa(shibboleth)"
+    },
     "https://idp01.aou.edu.om/idp/shibboleth": {
         "en": "Arab Open University (OM-KID)"
     },
