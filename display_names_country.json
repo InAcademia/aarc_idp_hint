@@ -3348,8 +3348,8 @@
             "zh": "南昌职业大学(Nanchang Vocational University)"
         },
         "https://idp.nwnu.edu.cn/idp/shibboleth": {
-            "en": "NorthWest Normal University",
-            "zh": "西北师范大学(NorthWest Normal University)"
+            "en": "Northwest Normal University",
+            "zh": "西北师范大学(Northwest Normal University)"
         },
         "https://idp.nwpu.edu.cn/idp/shibboleth": {
             "en": "Northwestern Polytechnical University",
@@ -11806,6 +11806,10 @@
             "en": "Maastricht School of Management",
             "nl": "Maastricht School of Management"
         },
+        "http://adfs.naturalis.nl/adfs/services/trust": {
+            "en": "Naturalis Biodiversity Center [Old]",
+            "nl": "Naturalis Biodiversity Center [Oud]"
+        },
         "http://adfs.nivel.nl/adfs/services/trust": {
             "en": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)",
             "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"
@@ -12420,7 +12424,7 @@
             "en": "Muscat College"
         },
         "http://adfs.muscatuniversity.edu.om/adfs/services/trust": {
-            "en": "Muscat University"
+            "en": "MUSCAT UNIVERSITY"
         },
         "http://adfs.nct.edu.om/adfs/services/trust": {
             "en": "University of Technology and Applied Sciences-Nizwa"

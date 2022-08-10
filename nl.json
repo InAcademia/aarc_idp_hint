@@ -87,6 +87,10 @@
         "en": "Maastricht School of Management",
         "nl": "Maastricht School of Management"
     },
+    "http://adfs.naturalis.nl/adfs/services/trust": {
+        "en": "Naturalis Biodiversity Center [Old]",
+        "nl": "Naturalis Biodiversity Center [Oud]"
+    },
     "http://adfs.nivel.nl/adfs/services/trust": {
         "en": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)",
         "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"
