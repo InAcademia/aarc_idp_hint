@@ -11,10 +11,6 @@
         "en": "ArtEZ University of the Arts",
         "nl": "ArtEZ University of the Arts"
     },
-    "http://adfs.buas.nl/adfs/services/trust": {
-        "en": "Breda University of Applied Sciences",
-        "nl": "Breda University of Applied Sciences"
-    },
     "http://adfs.driestar-educatief.nl/adfs/services/trust": {
         "en": "Driestar educatief",
         "nl": "Driestar educatief"
