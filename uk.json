@@ -713,6 +713,9 @@
     "https://idp.londonmet.ac.uk/entity": {
         "en": "London Metropolitan University"
     },
+    "https://idp.londonstudiocentre.ac.uk/entity": {
+        "en": "London Studio Centre"
+    },
     "https://idp.longleypark.ac.uk/shibboleth": {
         "en": "Longley Park Sixth Form College"
     },

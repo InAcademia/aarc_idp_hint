@@ -2065,11 +2065,11 @@
         },
         "https://idp.hslu.ch/idp/shibboleth": {
             "de": "HSLU - Hochschule Luzern",
-            "en": "HSLU - Lucerne University of Applied Sciences and Arts"
+            "en": "HSLU - Hochschule Luzern"
         },
         "https://idp.phlu.ch/idp/shibboleth": {
             "de": "PHLU - Pädagogische Hochschule Luzern",
-            "en": "PHLU - University of Teacher Education Lucerne"
+            "en": "PHLU - Pädagogische Hochschule Luzern"
         },
         "https://idp.phsz.ch/idp/shibboleth": {
             "de": "PHSZ - Pädagogische Hochschule Schwyz",
@@ -3390,6 +3390,10 @@
         "https://idp.pxu.edu.cn/idp/shibboleth": {
             "en": "Pingxiang University",
             "zh": "萍乡学院(Pingxiang University)"
+        },
+        "https://idp.qdhhc.edu.cn/idp/shibboleth": {
+            "en": "Qingdao Huanghai University",
+            "zh": "青岛黄海学院(Qingdao Huanghai University)"
         },
         "https://idp.qdu.edu.cn/idp/shibboleth": {
             "en": "Qingdao University",
@@ -6647,6 +6651,10 @@
         "http://sts.kadk.dk/adfs/services/trust": {
             "da": "Det Kongelige Akademi – Arkitektur, Design, Konservering",
             "en": "Royal Danish Academy – Architecture, Design, Conservation"
+        },
+        "http://sts.simac.dk/adfs/services/trust": {
+            "da": "SIMAC",
+            "en": "SIMAC"
         },
         "http://sts.statsbiblioteket.dk/adfs/services/trust": {
             "da": "Statsbiblioteket – ansatte",
@@ -12501,6 +12509,9 @@
         "https://discovery.omren.om/simplesaml/saml2/idp/metadata.php": {
             "en": "IdP Proxy"
         },
+        "https://idp.cas.omren.om/idp": {
+            "en": "cas"
+        },
         "https://idp.icem.edu.om/idp/shibboleth": {
             "en": "International College of Engineering and Management (OM-KID)"
         },
@@ -12891,6 +12902,10 @@
         "https://idp.apambiente.pt/idp/shibboleth": {
             "en": "Agência Portuguesa do Ambiente",
             "pt": "Agência Portuguesa do Ambiente"
+        },
+        "https://idp.cenjor.pt/idp/shibboleth": {
+            "en": "Centro Protocolar de Formação Profissional para Jornalistas",
+            "pt": "Centro Protocolar de Formação Profissional para Jornalistas"
         },
         "https://idp.cespu.pt/idp/shibboleth": {
             "en": "CESPU - Cooperativa de Ensino Superior Politécnico e Universitário",
@@ -14214,6 +14229,10 @@
             "en": "KTO Karatay University",
             "tr": "KTO Karatay Üniversitesi"
         },
+        "https://kimlik.karatekin.edu.tr/idp/shibboleth": {
+            "en": "Cankiri Karatekin University",
+            "tr": "Çankırı Karatekin Üniversitesi"
+        },
         "https://kimlik.kilis.edu.tr/idp/shibboleth": {
             "en": "Kilis 7 Aralik University",
             "tr": "Kilis 7 Aralik Üniversitesi"
@@ -15222,6 +15241,9 @@
         },
         "https://idp.londonmet.ac.uk/entity": {
             "en": "London Metropolitan University"
+        },
+        "https://idp.londonstudiocentre.ac.uk/entity": {
+            "en": "London Studio Centre"
         },
         "https://idp.longleypark.ac.uk/shibboleth": {
             "en": "Longley Park Sixth Form College"
@@ -16523,6 +16545,9 @@
         },
         "https://fedidp.uh.edu/idp/shibboleth": {
             "en": "University of Houston"
+        },
+        "https://ffunam.fairfield.edu:8443/nidp/saml2/metadata": {
+            "en": "Fairfield University IDM"
         },
         "https://fim.temple.edu/idp/shibboleth": {
             "en": "Temple University"

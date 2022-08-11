@@ -31,6 +31,10 @@
         "en": "Agência Portuguesa do Ambiente",
         "pt": "Agência Portuguesa do Ambiente"
     },
+    "https://idp.cenjor.pt/idp/shibboleth": {
+        "en": "Centro Protocolar de Formação Profissional para Jornalistas",
+        "pt": "Centro Protocolar de Formação Profissional para Jornalistas"
+    },
     "https://idp.cespu.pt/idp/shibboleth": {
         "en": "CESPU - Cooperativa de Ensino Superior Politécnico e Universitário",
         "pt": "CESPU - Cooperativa de Ensino Superior Politécnico e Universitário"

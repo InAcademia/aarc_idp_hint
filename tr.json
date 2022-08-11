@@ -347,6 +347,10 @@
         "en": "KTO Karatay University",
         "tr": "KTO Karatay Üniversitesi"
     },
+    "https://kimlik.karatekin.edu.tr/idp/shibboleth": {
+        "en": "Cankiri Karatekin University",
+        "tr": "Çankırı Karatekin Üniversitesi"
+    },
     "https://kimlik.kilis.edu.tr/idp/shibboleth": {
         "en": "Kilis 7 Aralik University",
         "tr": "Kilis 7 Aralik Üniversitesi"

@@ -207,11 +207,11 @@
     },
     "https://idp.hslu.ch/idp/shibboleth": {
         "de": "HSLU - Hochschule Luzern",
-        "en": "HSLU - Lucerne University of Applied Sciences and Arts"
+        "en": "HSLU - Hochschule Luzern"
     },
     "https://idp.phlu.ch/idp/shibboleth": {
         "de": "PHLU - Pädagogische Hochschule Luzern",
-        "en": "PHLU - University of Teacher Education Lucerne"
+        "en": "PHLU - Pädagogische Hochschule Luzern"
     },
     "https://idp.phsz.ch/idp/shibboleth": {
         "de": "PHSZ - Pädagogische Hochschule Schwyz",
