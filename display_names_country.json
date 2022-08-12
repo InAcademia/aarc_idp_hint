@@ -598,6 +598,10 @@
             "en": "UECE - Universidade Estadual do Ceara",
             "pt-br": "UECE - Universidade Estadual do Ceara"
         },
+        "https://azor.ufpe.br/idp/shibboleth": {
+            "en": "UFPE - Universidade Federal de Pernambuco",
+            "pt-br": "UFPE - Universidade Federal de Pernambuco"
+        },
         "https://barista.pucsp.br/idp/shibboleth": {
             "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
             "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
@@ -1134,10 +1138,6 @@
             "en": "IFMG - Instituto Federal de Minas Gerais",
             "pt-br": "IFMG - Instituto Federal de Minas Gerais"
         },
-        "https://idp2.uft.edu.br/idp/shibboleth": {
-            "en": "UFT - Universidade Federal do Tocantins",
-            "pt-br": "UFT - Universidade Federal do Tocantins"
-        },
         "https://idp3.ifpe.edu.br/idp/shibboleth": {
             "en": "IFPE - Instituto Federal de Pernambuco",
             "pt-br": "IFPE - Instituto Federal de Pernambuco"
@@ -1490,6 +1490,10 @@
             "en": "UVA - Universidade Veiga de Almeida",
             "pt-br": "UVA - Universidade Veiga de Almeida"
         },
+        "https://sso.uft.edu.br/idp/shibboleth": {
+            "en": "UFT - Universidade Federal do Tocantins",
+            "pt-br": "UFT - Universidade Federal do Tocantins"
+        },
         "https://st1-rnp-01.fundacaowilsonpicler.org.br/idp/shibboleth": {
             "en": "FWP - Fundacao Wilson Picler",
             "pt-br": "FWP - Fundacao Wilson Picler"
@@ -1497,10 +1501,6 @@
         "https://svr-apl57.unilasalle.edu.br/idp/shibboleth": {
             "en": "UNILASALLE - Universidade La Salle",
             "pt-br": "UNILASALLE - Universidade La Salle"
-        },
-        "https://ugin.ufpe.br/idp/shibboleth": {
-            "en": "UFPE - Universidade Federal de Pernambuco",
-            "pt-br": "UFPE - Universidade Federal de Pernambuco"
         },
         "https://uricafe.uricer.edu.br/idp/shibboleth": {
             "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
@@ -11754,10 +11754,6 @@
             "en": "ArtEZ University of the Arts",
             "nl": "ArtEZ University of the Arts"
         },
-        "http://adfs.buas.nl/adfs/services/trust": {
-            "en": "Breda University of Applied Sciences",
-            "nl": "Breda University of Applied Sciences"
-        },
         "http://adfs.cibap.nl/adfs/services/trust": {
             "en": "Cibap Vocational College of Design",
             "nl": "Cibap vakschool voor vormgeving"
@@ -12173,6 +12169,10 @@
         "https://sts.windows.net/01ef09a2-c608-4fc7-af66-836e50ddde2c/": {
             "en": "Koninklijke Bibliotheek",
             "nl": "Koninklijke Bibliotheek"
+        },
+        "https://sts.windows.net/0a33589b-0036-4fe8-a829-3ed0926af886/": {
+            "en": "Breda University of Applied Sciences",
+            "nl": "Breda University of Applied Sciences"
         },
         "https://sts.windows.net/0ace682c-5851-4d9f-863a-2c2a3340212d/": {
             "en": "ROC Albeda",
@@ -13968,6 +13968,10 @@
         "https://idp.idu.edu.tr/idp/shibboleth": {
             "en": "Izmir Democracy University",
             "tr": "İzmir Demokrasi Üniversitesi"
+        },
+        "https://idp.isparta.edu.tr/idp/shibboleth": {
+            "en": "Isparta University Of Applied Sciences",
+            "tr": "Isparta Uygulamalı Bilimler Üniversitesi"
         },
         "https://idp.iuc.edu.tr/idp/shibboleth": {
             "en": "Istanbul University Cerrahpasa",

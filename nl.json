@@ -27,10 +27,6 @@
         "en": "ArtEZ University of the Arts",
         "nl": "ArtEZ University of the Arts"
     },
-    "http://adfs.buas.nl/adfs/services/trust": {
-        "en": "Breda University of Applied Sciences",
-        "nl": "Breda University of Applied Sciences"
-    },
     "http://adfs.cibap.nl/adfs/services/trust": {
         "en": "Cibap Vocational College of Design",
         "nl": "Cibap vakschool voor vormgeving"
@@ -446,6 +442,10 @@
     "https://sts.windows.net/01ef09a2-c608-4fc7-af66-836e50ddde2c/": {
         "en": "Koninklijke Bibliotheek",
         "nl": "Koninklijke Bibliotheek"
+    },
+    "https://sts.windows.net/0a33589b-0036-4fe8-a829-3ed0926af886/": {
+        "en": "Breda University of Applied Sciences",
+        "nl": "Breda University of Applied Sciences"
     },
     "https://sts.windows.net/0ace682c-5851-4d9f-863a-2c2a3340212d/": {
         "en": "ROC Albeda",

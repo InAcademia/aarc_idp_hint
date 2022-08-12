@@ -11,6 +11,10 @@
         "en": "UECE - Universidade Estadual do Ceara",
         "pt-br": "UECE - Universidade Estadual do Ceara"
     },
+    "https://azor.ufpe.br/idp/shibboleth": {
+        "en": "UFPE - Universidade Federal de Pernambuco",
+        "pt-br": "UFPE - Universidade Federal de Pernambuco"
+    },
     "https://barista.pucsp.br/idp/shibboleth": {
         "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
         "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
@@ -547,10 +551,6 @@
         "en": "IFMG - Instituto Federal de Minas Gerais",
         "pt-br": "IFMG - Instituto Federal de Minas Gerais"
     },
-    "https://idp2.uft.edu.br/idp/shibboleth": {
-        "en": "UFT - Universidade Federal do Tocantins",
-        "pt-br": "UFT - Universidade Federal do Tocantins"
-    },
     "https://idp3.ifpe.edu.br/idp/shibboleth": {
         "en": "IFPE - Instituto Federal de Pernambuco",
         "pt-br": "IFPE - Instituto Federal de Pernambuco"
@@ -903,6 +903,10 @@
         "en": "UVA - Universidade Veiga de Almeida",
         "pt-br": "UVA - Universidade Veiga de Almeida"
     },
+    "https://sso.uft.edu.br/idp/shibboleth": {
+        "en": "UFT - Universidade Federal do Tocantins",
+        "pt-br": "UFT - Universidade Federal do Tocantins"
+    },
     "https://st1-rnp-01.fundacaowilsonpicler.org.br/idp/shibboleth": {
         "en": "FWP - Fundacao Wilson Picler",
         "pt-br": "FWP - Fundacao Wilson Picler"
@@ -910,10 +914,6 @@
     "https://svr-apl57.unilasalle.edu.br/idp/shibboleth": {
         "en": "UNILASALLE - Universidade La Salle",
         "pt-br": "UNILASALLE - Universidade La Salle"
-    },
-    "https://ugin.ufpe.br/idp/shibboleth": {
-        "en": "UFPE - Universidade Federal de Pernambuco",
-        "pt-br": "UFPE - Universidade Federal de Pernambuco"
     },
     "https://uricafe.uricer.edu.br/idp/shibboleth": {
         "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
