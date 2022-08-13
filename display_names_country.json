@@ -6652,10 +6652,6 @@
             "da": "Det Kongelige Akademi – Arkitektur, Design, Konservering",
             "en": "Royal Danish Academy – Architecture, Design, Conservation"
         },
-        "http://sts.simac.dk/adfs/services/trust": {
-            "da": "SIMAC",
-            "en": "SIMAC"
-        },
         "http://sts.statsbiblioteket.dk/adfs/services/trust": {
             "da": "Statsbiblioteket – ansatte",
             "en": "State and University Library – employees"
@@ -10417,10 +10413,6 @@
             "en": "Politecnico of Torino",
             "it": "Politecnico di Torino"
         },
-        "https://idem.unikore.it/idp/shibboleth": {
-            "en": "Enna Kore University",
-            "it": "Università degli Studi di Enna Kore"
-        },
         "https://idem.unina2.it/idp/shibboleth": {
             "en": "Vanvitelli University",
             "it": "Università degli Studi della Campania Luigi Vanvitelli"
@@ -11809,10 +11801,6 @@
         "http://adfs.msm.nl/adfs/services/trust": {
             "en": "Maastricht School of Management",
             "nl": "Maastricht School of Management"
-        },
-        "http://adfs.naturalis.nl/adfs/services/trust": {
-            "en": "Naturalis Biodiversity Center [Old]",
-            "nl": "Naturalis Biodiversity Center [Oud]"
         },
         "http://adfs.nivel.nl/adfs/services/trust": {
             "en": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)",

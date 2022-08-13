@@ -140,10 +140,6 @@
         "da": "Det Kongelige Akademi – Arkitektur, Design, Konservering",
         "en": "Royal Danish Academy – Architecture, Design, Conservation"
     },
-    "http://sts.simac.dk/adfs/services/trust": {
-        "da": "SIMAC",
-        "en": "SIMAC"
-    },
     "http://sts.statsbiblioteket.dk/adfs/services/trust": {
         "da": "Statsbiblioteket – ansatte",
         "en": "State and University Library – employees"
