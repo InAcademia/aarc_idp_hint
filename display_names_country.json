@@ -11231,6 +11231,9 @@
         "https://kafe.krict.re.kr/idp/simplesamlphp": {
             "en": "Korea Research Institute of Chemical Technology"
         },
+        "https://kafe.pusan.ac.kr/idp/simplesamlphp": {
+            "en": "Pusan National University"
+        },
         "https://kafe.unist.ac.kr/idp/simplesamlphp": {
             "en": "Ulsan National Institute of Science and Technology"
         },
@@ -12498,7 +12501,7 @@
             "en": "IdP Proxy"
         },
         "https://idp.cas.omren.om/idp": {
-            "en": "cas"
+            "en": "cas_shibboleth3"
         },
         "https://idp.icem.edu.om/idp/shibboleth": {
             "en": "International College of Engineering and Management (OM-KID)"

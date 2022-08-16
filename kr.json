@@ -53,6 +53,9 @@
     "https://kafe.krict.re.kr/idp/simplesamlphp": {
         "en": "Korea Research Institute of Chemical Technology"
     },
+    "https://kafe.pusan.ac.kr/idp/simplesamlphp": {
+        "en": "Pusan National University"
+    },
     "https://kafe.unist.ac.kr/idp/simplesamlphp": {
         "en": "Ulsan National Institute of Science and Technology"
     },
