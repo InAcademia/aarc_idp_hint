@@ -39,10 +39,6 @@
         "de": "Fachhochschule Potsdam",
         "en": "Fachhochschule Potsdam, University of Applied Scienes"
     },
-    "https://aub.auth1.de/idp/shibboleth": {
-        "de": "AUB - IdP",
-        "en": "AUB - IdP"
-    },
     "https://auth.vifa-recht.de/idp/shibboleth": {
         "de": "FID-Recht (VHO)",
         "en": "FID-Recht (VHO)"
@@ -967,10 +963,6 @@
         "de": "Stiftung Tieraerztliche Hochschule Hannover (eduGAIN)",
         "en": "University of Veterinary Medicine Hannover (eduGAIN)"
     },
-    "https://idpbib.hs-bochum.de/idp/shibboleth": {
-        "de": "Hochschule Bochum (Hochschulbibliothek)",
-        "en": "Bochum University of Applied Sciences (Library)"
-    },
     "https://idpc.th-ab.de/idp/shibboleth": {
         "de": "Technische Hochschule Aschaffenburg",
         "en": "Technische Hochschule Aschaffenburg"
@@ -982,10 +974,6 @@
     "https://idpka.uni-muenster.de/idp/shibboleth": {
         "de": "Kunstakademie Münster",
         "en": "Kunstakademie Münster"
-    },
-    "https://idpsso.haw-landshut.de/idp/shibboleth": {
-        "de": "Hochschule Landshut",
-        "en": "University of Applied Sciences Landshut"
     },
     "https://lmuidp.lrz.de/idp/shibboleth": {
         "de": "Universität München (LMU)",

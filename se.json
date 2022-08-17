@@ -39,10 +39,6 @@
         "en": "The Swedish Research Council",
         "sv": "Vetenskapsrådet"
     },
-    "http://login1.fhs.se/adfs/services/trust": {
-        "en": "Swedish Defence University - OLD",
-        "sv": "Försvarshögskolan - OLD"
-    },
     "http://login2.fhs.se/adfs/services/trust": {
         "en": "Swedish Defence University",
         "sv": "Försvarshögskolan"
@@ -78,10 +74,6 @@
     "https://idp.his.se/idp/shibboleth": {
         "en": "University of Skövde",
         "sv": "Högskolan i Skövde"
-    },
-    "https://idp.hj.se/idp/shibboleth": {
-        "en": "Jönköping University - OLD",
-        "sv": "Jönköping University - OLD"
     },
     "https://idp.hkr.se/idp/shibboleth": {
         "en": "Kristianstad University Sweden",
@@ -182,10 +174,6 @@
     "https://saml.sys.kth.se/idp/shibboleth": {
         "en": "KTH Royal Institute of Technology",
         "sv": "Kungliga Tekniska högskolan (KTH)"
-    },
-    "https://shib-idp-2.oru.se/idp/shibboleth": {
-        "en": "Örebro University - deprecated",
-        "sv": "Örebro universitet - utfasad"
     },
     "https://swamid2.shh.se/idp/shibboleth": {
         "en": "Sophiahemmet University",

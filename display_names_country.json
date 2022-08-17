@@ -4871,10 +4871,6 @@
             "cs": "Městská knihovna Most",
             "en": "Municipal Library in Most"
         },
-        "https://knihovnaneratovice.cz/idp/shibboleth": {
-            "cs": "Městská knihovna Neratovice",
-            "en": "Municipal Library Neratovice"
-        },
         "https://knihovnaprerov.cz/idp/shibboleth": {
             "cs": "Městská knihovna v Přerově",
             "en": "Municipal Library Přerov"
@@ -4950,10 +4946,6 @@
         "https://remote.palestra.cz/idp/shibboleth": {
             "cs": "Vysoká škola tělesné výchovy a sportu PALESTRA, spol. s r. o.",
             "en": "VSTVS PALESTRA, s.r.o."
-        },
-        "https://rokyknih.cz/idp/shibboleth": {
-            "cs": "Městská knihovna Rokycany",
-            "en": "Municipal Library Rokycany"
         },
         "https://sb.nem-tr.cz/idp/shibboleth": {
             "cs": "Nemocnice Třebíč, p.o.",
@@ -5068,10 +5060,6 @@
         "https://account.fh-potsdam.de/idp/shibboleth": {
             "de": "Fachhochschule Potsdam",
             "en": "Fachhochschule Potsdam, University of Applied Scienes"
-        },
-        "https://aub.auth1.de/idp/shibboleth": {
-            "de": "AUB - IdP",
-            "en": "AUB - IdP"
         },
         "https://auth.vifa-recht.de/idp/shibboleth": {
             "de": "FID-Recht (VHO)",
@@ -5997,10 +5985,6 @@
             "de": "Stiftung Tieraerztliche Hochschule Hannover (eduGAIN)",
             "en": "University of Veterinary Medicine Hannover (eduGAIN)"
         },
-        "https://idpbib.hs-bochum.de/idp/shibboleth": {
-            "de": "Hochschule Bochum (Hochschulbibliothek)",
-            "en": "Bochum University of Applied Sciences (Library)"
-        },
         "https://idpc.th-ab.de/idp/shibboleth": {
             "de": "Technische Hochschule Aschaffenburg",
             "en": "Technische Hochschule Aschaffenburg"
@@ -6012,10 +5996,6 @@
         "https://idpka.uni-muenster.de/idp/shibboleth": {
             "de": "Kunstakademie Münster",
             "en": "Kunstakademie Münster"
-        },
-        "https://idpsso.haw-landshut.de/idp/shibboleth": {
-            "de": "Hochschule Landshut",
-            "en": "University of Applied Sciences Landshut"
         },
         "https://lmuidp.lrz.de/idp/shibboleth": {
             "de": "Universität München (LMU)",
@@ -6693,10 +6673,6 @@
             "en": "https://idp.unak.is",
             "is": "Háskólinn á Akureyri"
         },
-        "https://login.kp.dk/adfs/services/trust": {
-            "da": "Københavns Professionshøjskole [ADFS]",
-            "en": "University College Copenhagen [ADFS]"
-        },
         "https://saml.signon.ruc.dk/idp": {
             "da": "Roskilde Universitet (RUC)",
             "en": "Roskilde University (RUC)"
@@ -7275,9 +7251,6 @@
             "en": "Colegio Universitario de Estudios Financieros",
             "es": "Colegio Universitario de Estudios Financieros"
         },
-        "https://www.rediris.es/sir/demoidp": {
-            "en": "Entorno de Demo IdPnube"
-        },
         "https://www.rediris.es/sir/deustoidp": {
             "en": "Universidad de Deusto",
             "eu": "Universidad de Deusto"
@@ -7493,10 +7466,6 @@
         "https://www.rediris.es/sir/ucamidp": {
             "en": "Universidad Catolica San Antonio de Murcia",
             "es": "Universidad Católica San Antonio de Murcia"
-        },
-        "https://www.rediris.es/sir/ucavilaidp": {
-            "en": "Universidad Catolica de Avila",
-            "es": "Universidad Católica de Ávila"
         },
         "https://www.rediris.es/sir/uchceuidp": {
             "en": "Universidad CEU Cardenal Herrera",
@@ -9506,10 +9475,6 @@
         "https://excalibur.ceu.edu/simplesaml/saml2/idp/metadata.php": {
             "en": "Central European University",
             "hu": "Közép-európai Egyetem"
-        },
-        "https://hub.mta.hu/idp": {
-            "en": "MTA, Institutes of Hungarian Academy of Sciences",
-            "hu": "MTA, Magyar Tudományos Akadémiai Intézetei"
         },
         "https://idp-aub.etn.hu/saml2/idp/metadata.php": {
             "en": "Andrássy University Budapest",
@@ -13461,10 +13426,6 @@
             "en": "The Swedish Research Council",
             "sv": "Vetenskapsrådet"
         },
-        "http://login1.fhs.se/adfs/services/trust": {
-            "en": "Swedish Defence University - OLD",
-            "sv": "Försvarshögskolan - OLD"
-        },
         "http://login2.fhs.se/adfs/services/trust": {
             "en": "Swedish Defence University",
             "sv": "Försvarshögskolan"
@@ -13500,10 +13461,6 @@
         "https://idp.his.se/idp/shibboleth": {
             "en": "University of Skövde",
             "sv": "Högskolan i Skövde"
-        },
-        "https://idp.hj.se/idp/shibboleth": {
-            "en": "Jönköping University - OLD",
-            "sv": "Jönköping University - OLD"
         },
         "https://idp.hkr.se/idp/shibboleth": {
             "en": "Kristianstad University Sweden",
@@ -13604,10 +13561,6 @@
         "https://saml.sys.kth.se/idp/shibboleth": {
             "en": "KTH Royal Institute of Technology",
             "sv": "Kungliga Tekniska högskolan (KTH)"
-        },
-        "https://shib-idp-2.oru.se/idp/shibboleth": {
-            "en": "Örebro University - deprecated",
-            "sv": "Örebro universitet - utfasad"
         },
         "https://swamid2.shh.se/idp/shibboleth": {
             "en": "Sophiahemmet University",
@@ -14519,9 +14472,6 @@
         }
     },
     "uk": {
-        "http://adfs.regents.ac.uk/adfs/services/trust": {
-            "en": "Regent's University London ADFS Do Not Use"
-        },
         "http://idp.northampton.ac.uk/oala/metadata": {
             "en": "University of Northampton (IDP)"
         },
@@ -14570,9 +14520,6 @@
         "https://beaumontcollege.org/oala/metadata": {
             "en": "Beaumont College - A Scope College"
         },
-        "https://beta.shib.manchester.ac.uk/shibboleth": {
-            "en": "The University of Manchester (Beta)"
-        },
         "https://boleth.chi.ac.uk/idp/shibboleth": {
             "en": "University of Chichester"
         },
@@ -14594,9 +14541,6 @@
         "https://coventry.ac.uk/idp": {
             "en": "Coventry University"
         },
-        "https://dev2.webauth.soton.ac.uk/shibboleth": {
-            "en": "University of Southampton (Dev 3.x)"
-        },
         "https://dh.gov.uk/shibboleth": {
             "en": "Department of Health (England)"
         },
@@ -14605,9 +14549,6 @@
         },
         "https://dmz-shib-dg-01.dmz.roehampton.ac.uk/idp/shibboleth": {
             "en": "University of Roehampton"
-        },
-        "https://edinaidp.edina.ac.uk/idp/shibboleth": {
-            "en": "EDINA IdP (staff and trial accounts)"
         },
         "https://edulidp01.hants.gov.uk/idp/shibboleth": {
             "en": "Hampshire County Council"
@@ -14671,15 +14612,6 @@
         },
         "https://identityfor.co.uk/r4c": {
             "en": "SIMS ID (Staging)"
-        },
-        "https://idp-dev.jisc.ac.uk/idp/shibboleth": {
-            "en": "Jisc (Dev IdP)"
-        },
-        "https://idp-qa.shef.ac.uk/shibboleth": {
-            "en": "University of Sheffield QA IdP"
-        },
-        "https://idp-staging.shibboleth.ox.ac.uk/shibboleth-idp": {
-            "en": "University of Oxford, Staging IdP"
         },
         "https://idp.abingdon-witney.ac.uk/idp/shibboleth": {
             "en": "Abingdon and Witney College"
@@ -15007,9 +14939,6 @@
         "https://idp.ed.ac.uk/shibboleth": {
             "en": "University of Edinburgh"
         },
-        "https://idp.edina.ac.uk/shibboleth": {
-            "en": "EDINA DEPRECATED IdP (staff and trial accounts)"
-        },
         "https://idp.edinburghcollege.ac.uk/idp/shibboleth": {
             "en": "Edinburgh College"
         },
@@ -15070,14 +14999,8 @@
         "https://idp.gre.ac.uk/oala/metadata": {
             "en": "University of Greenwich"
         },
-        "https://idp.grimsby.ac.uk/oala/metadata": {
-            "en": "Grimsby Institute of Further and Higher Education (Athens)"
-        },
         "https://idp.gsmd.ac.uk/openathens": {
             "en": "Guildhall School of Music & Drama"
-        },
-        "https://idp.guildford.ac.uk/shibboleth": {
-            "en": "Guildford College of Further & Higher Education"
         },
         "https://idp.gyc.ac.uk/openathens": {
             "en": "Great Yarmouth College"
@@ -15108,9 +15031,6 @@
         },
         "https://idp.hca.ac.uk/shibboleth": {
             "en": "Hereford College of Arts"
-        },
-        "https://idp.hereford.ac.uk/shibboleth": {
-            "en": "Hereford Sixth Form College MD (no longer in use)"
         },
         "https://idp.herts.ac.uk/shibboleth": {
             "en": "University of Hertfordshire"
@@ -15226,9 +15146,6 @@
         },
         "https://idp.london.ac.uk/shibboleth": {
             "en": "University of London"
-        },
-        "https://idp.london.edu/openathens": {
-            "en": "London Business School - OpenAthens"
         },
         "https://idp.londonmet.ac.uk/entity": {
             "en": "London Metropolitan University"
@@ -15500,9 +15417,6 @@
         "https://idp.sccb.ac.uk/idp/shibboleth": {
             "en": "South and City College Birmingham and Bournville College"
         },
-        "https://idp.sftwales.com/idp/shibboleth": {
-            "en": "Jon Agland (sftwales)"
-        },
         "https://idp.sgscol.ac.uk/idp/shibboleth": {
             "en": "South Gloucestershire and Stroud College"
         },
@@ -15644,9 +15558,6 @@
         "https://idp.treloar.org.uk/idp/shibboleth": {
             "en": "Treloar's"
         },
-        "https://idp.tresham.ac.uk/idp/shibboleth": {
-            "en": "Tresham College"
-        },
         "https://idp.ucb.ac.uk/shibboleth": {
             "en": "University College Birmingham"
         },
@@ -15685,9 +15596,6 @@
         },
         "https://idp.warwick.ac.uk/idp/shibboleth": {
             "en": "University of Warwick"
-        },
-        "https://idp.wellcome.ac.uk/idp/shibboleth": {
-            "en": "Wellcome Trust (Old)"
         },
         "https://idp.wellcome.org/entity": {
             "en": "Wellcome Trust"
@@ -15809,12 +15717,6 @@
         "https://idpv3.btc.ac.uk/idp/shibboleth": {
             "en": "Bridgwater & Taunton College"
         },
-        "https://idpv3.essingtoncc.co.uk/idp/shibboleth": {
-            "en": "Essington Computer Consultancy Ltd"
-        },
-        "https://idpv3.ntyneside.ac.uk/idp/shibboleth": {
-            "en": "Tyne Metropolitan College"
-        },
         "https://idpv3.sandwell.ac.uk/idp/shibboleth": {
             "en": "Sandwell College"
         },
@@ -15832,9 +15734,6 @@
         },
         "https://jcc.ac.uk/idp": {
             "en": "Joseph Chamberlain Sixth Form College"
-        },
-        "https://jisc.geostore.com/idp/shibboleth": {
-            "en": "Geostore IDP"
         },
         "https://kanturk.wigan-leigh.ac.uk/idp/shibboleth": {
             "en": "Wigan & Leigh College"
@@ -15905,9 +15804,6 @@
         "https://oa-idp.wlv.ac.uk/oala/metadata": {
             "en": "University of Wolverhampton"
         },
-        "https://oala-runtime.eastleigh.ac.uk/oala/metadata": {
-            "en": "Eastleigh College (Legacy)"
-        },
         "https://oala.aaschool.ac.uk/oala/metadata": {
             "en": "Architectural Association"
         },
@@ -15938,9 +15834,6 @@
         "https://pleiades.lscollege.ac.uk/idp/shibboleth": {
             "en": "Lewisham Southwark College"
         },
-        "https://proxy.eduteams.org/proxy": {
-            "en": "eduTEAMS"
-        },
         "https://qub.ac.uk/shibboleth": {
             "en": "Queen's University Belfast"
         },
@@ -15956,9 +15849,6 @@
         "https://sa1.nimr.mrc.ac.uk/idp/shibboleth": {
             "en": "National Institute for Medical Research"
         },
-        "https://safari.data-archive.ac.uk/idp/shibboleth": {
-            "en": "UK Data Archive IdP Proxy"
-        },
         "https://scgidp.shrewsbury.ac.uk/idp/shibboleth": {
             "en": "Shrewsbury Colleges Group"
         },
@@ -15968,9 +15858,6 @@
         "https://sfx.ac.uk/idp": {
             "en": "Saint Francis Xavier Catholic Sixth Form College, London"
         },
-        "https://shib-dev-idp.ucl.ac.uk/shibboleth": {
-            "en": "University College London (Shib Dev)"
-        },
         "https://shib-idp.arden.ac.uk/idp/shibboleth": {
             "en": "Arden University"
         },
@@ -15979,9 +15866,6 @@
         },
         "https://shib-idp.ucl.ac.uk/shibboleth": {
             "en": "UCL (University College London)"
-        },
-        "https://shib-uat-idp.ucl.ac.uk/shibboleth": {
-            "en": "University College London (Shib UAT)"
         },
         "https://shib.aylesbury.ac.uk/idp/shibboleth": {
             "en": "Aylesbury College"
@@ -16021,9 +15905,6 @@
         },
         "https://shib.rcs.ac.uk/shibboleth": {
             "en": "Royal Conservatoire of Scotland"
-        },
-        "https://shib.ulster.ac.uk/idp/shibboleth": {
-            "en": "Ulster University - Shibboleth"
         },
         "https://shib.westdean.org.uk/idp/shibboleth": {
             "en": "West Dean College"
@@ -16148,9 +16029,6 @@
         "https://shibboleth.ncgrp.ac.uk/idp/shibboleth": {
             "en": "Newcastle College Group"
         },
-        "https://shibboleth.ncl-coll.ac.uk/idp/shibboleth": {
-            "en": "Newcastle College"
-        },
         "https://shibboleth.nptc.ac.uk/idp/shibboleth": {
             "en": "NPTC Group"
         },
@@ -16220,9 +16098,6 @@
         "https://shibby.wmc.ac.uk/shibboleth-idp": {
             "en": "Wirral Metropolitan College"
         },
-        "https://shibidp.kgv.ac.uk/idp/shibboleth": {
-            "en": "KGV College - Latest"
-        },
         "https://shibidp.tameside.ac.uk/idp/shibboleth": {
             "en": "Tameside College"
         },
@@ -16237,9 +16112,6 @@
         },
         "https://shiblogin.hull.ac.uk/idp/shibboleth": {
             "en": "University of Hull"
-        },
-        "https://shibprod.hw.ac.uk/idp/shibboleth": {
-            "en": "Heriot-Watt University (prod)"
         },
         "https://shibserv.abdn.ac.uk/shibboleth": {
             "en": "University of Aberdeen"
@@ -16261,9 +16133,6 @@
         },
         "https://srvshibboleth.asfc.ac.uk/shibboleth": {
             "en": "Ashton Sixth Form College"
-        },
-        "https://sso-demo.proofidcloud.co.uk/idp/pingfederate": {
-            "en": "ProofID PingFederate IdP"
         },
         "https://sso.bsfc.ac.uk/idp/shibboleth": {
             "en": "Birkenhead Sixth Form College"
@@ -16378,9 +16247,6 @@
         "http://bcadfs.bridgewater.edu/adfs/services/trust": {
             "en": "Bridgewater College"
         },
-        "http://fed.lit.edu/adfs/ls": {
-            "en": "Lamar Institute of Technology"
-        },
         "http://federate.bsu.edu/sso": {
             "en": "Ball State  University"
         },
@@ -16405,23 +16271,11 @@
         "http://msauth.kent.edu/adfs/services/trust": {
             "en": "Kent State University"
         },
-        "http://sso.davidson.edu/adfs/services/trust": {
-            "en": "Davidson College"
-        },
-        "http://sso.oit.edu/idp": {
-            "en": "Oregon Institute of Technology"
-        },
         "http://sso.quinnipiac.edu/adfs/services/trust": {
             "en": "Quinnipiac University"
         },
         "http://ssologin.cei.edu/adfs/services/trust": {
             "en": "College of Eastern Idaho"
-        },
-        "http://sts.clackamas.edu/adfs/services/trust": {
-            "en": "Clackamas Community College"
-        },
-        "https://aaidp.academicanalytics.com/idp/shibboleth": {
-            "en": "Academic Analytics"
         },
         "https://academica.aws.wayne.edu/saml2/trust": {
             "en": "Wayne State University"
@@ -16486,9 +16340,6 @@
         "https://cas.byu.edu/cas/idp/metadata": {
             "en": "Brigham Young University"
         },
-        "https://cas.cgcent.miami.edu/idp/shibboleth": {
-            "en": "University of Miami - Non-production"
-        },
         "https://cas.conncoll.edu/idp/shibboleth": {
             "en": "Connecticut College"
         },
@@ -16545,9 +16396,6 @@
         },
         "https://fiuidp.fiu.edu/idp/shibboleth": {
             "en": "Florida International University"
-        },
-        "https://hancockcollege.onbio-key.com": {
-            "en": "Allan Hancock College"
         },
         "https://hartnell.edu/idp": {
             "en": "Hartnell Community College District"
@@ -16639,9 +16487,6 @@
         "https://idp.cirrusidentity.com/idp": {
             "en": "Cirrus Identity, Inc."
         },
-        "https://idp.citruscollege.edu/idp/shibboleth": {
-            "en": "Citrus Community College District"
-        },
         "https://idp.clarion.edu/idp": {
             "en": "Clarion University"
         },
@@ -16692,9 +16537,6 @@
         },
         "https://idp.es.net/idp/shibboleth": {
             "en": "ESnet"
-        },
-        "https://idp.eup.edinboro.edu/idp/shibboleth": {
-            "en": "Edinboro University of Pennsylvania"
         },
         "https://idp.famu.edu:443/idp/shibboleth": {
             "en": "Florida A&M University"
@@ -16762,20 +16604,11 @@
         "https://idp.lsuhs.edu/idp/shibboleth": {
             "en": "LSU Health Shreveport"
         },
-        "https://idp.ltcc.edu/idp/shibboleth": {
-            "en": "Lake Tahoe Community College"
-        },
-        "https://idp.macalester.edu/openathens": {
-            "en": "Macalester College"
-        },
         "https://idp.maine.edu/idp/shibboleth": {
             "en": "University of Maine System"
         },
         "https://idp.malone.edu/idp/shibboleth": {
             "en": "Malone University"
-        },
-        "https://idp.marquette.edu/idp": {
-            "en": "Marquette University"
         },
         "https://idp.marshall.edu/idp/shibboleth": {
             "en": "Marshall University"
@@ -16843,9 +16676,6 @@
         "https://idp.princeton.edu/idp/shibboleth": {
             "en": "Princeton University"
         },
-        "https://idp.pugetsound.edu/idp/shibboleth": {
-            "en": "University of Puget Sound"
-        },
         "https://idp.purdue.edu/idp/shibboleth": {
             "en": "Purdue University Main Campus"
         },
@@ -16863,9 +16693,6 @@
         },
         "https://idp.sbcc.edu/idp/shibboleth": {
             "en": "Santa Barbara City College"
-        },
-        "https://idp.sbccd.edu": {
-            "en": "San Bernardino Community College District"
         },
         "https://idp.scccd.edu/idp/shibboleth": {
             "en": "State Center Community College District"
@@ -16896,12 +16723,6 @@
         },
         "https://idp.srecarilionclinic.org/idp/shibboleth": {
             "en": "SRE Carilion Clinic"
-        },
-        "https://idp.sulross.edu/simplesaml/saml2/idp/metadata.php": {
-            "en": "Sul Ross State University"
-        },
-        "https://idp.symplicity.com/idp/shibboleth": {
-            "en": "Symplicity Corporation"
         },
         "https://idp.tamucc.edu/idp/shibboleth": {
             "en": "Texas A&M University-Corpus Christi"
@@ -17025,9 +16846,6 @@
         },
         "https://its-shib.its.csulb.edu/idp/shibboleth": {
             "en": "California State University, Long Beach"
-        },
-        "https://its.longwood.edu/idp": {
-            "en": "Longwood University"
         },
         "https://jidp.jlab.org/idp/shibboleth": {
             "en": "Thomas Jefferson National Accelerator Facility"
@@ -17206,14 +17024,8 @@
         "https://prdidp.uncg.edu/idp/shibboleth": {
             "en": "University of North Carolina at Greensboro"
         },
-        "https://prod-sa.granite.edu/SecureAuth10/": {
-            "en": "Granite State College"
-        },
         "https://rushib.rockefeller.edu/idp/shibboleth": {
             "en": "Rockefeller University"
-        },
-        "https://saml-idp.wou.edu": {
-            "en": "Western Oregon University SSO"
         },
         "https://saml.adu.edu": {
             "en": "AdventHealth University"
@@ -17260,17 +17072,11 @@
         "https://shib.calu.edu/idp/shibboleth": {
             "en": "California University of Pennsylvania"
         },
-        "https://shib.ccbcmd.edu/idp/shibboleth": {
-            "en": "Community College of Baltimore County"
-        },
         "https://shib.csub.edu/idp/shibboleth": {
             "en": "California State University, Bakersfield"
         },
         "https://shib.fortlewis.edu/idp/shibboleth": {
             "en": "Fort Lewis College"
-        },
-        "https://shib.is.depaul.edu/idp/shibboleth": {
-            "en": "DePaul University"
         },
         "https://shib.marymount.edu/idp/shibboleth": {
             "en": "Marymount University"
@@ -17292,9 +17098,6 @@
         },
         "https://shib.unf.edu/idp/shibboleth": {
             "en": "UNF InCommon"
-        },
-        "https://shib.uni.edu/idp/shibboleth": {
-            "en": "University of Northern Iowa"
         },
         "https://shib.unl.edu/idp/shibboleth": {
             "en": "University of Nebraska-Lincoln"
@@ -17343,9 +17146,6 @@
         },
         "https://shibboleth-2.baylor.edu/idp/shibboleth": {
             "en": "Baylor University"
-        },
-        "https://shibboleth-idp.collegenet.com/idp/shibboleth": {
-            "en": "CollegeNET, Inc."
         },
         "https://shibboleth.aws.eckerd.edu/idp/shibboleth": {
             "en": "Eckerd College"
@@ -17599,9 +17399,6 @@
         "https://sso.sjeccd.edu": {
             "en": "San Jose - Evergreen Community College District"
         },
-        "https://sso.tarleton.edu/idp/shibboleth": {
-            "en": "Tarleton State University"
-        },
         "https://sso.trinity.edu/idp/shibboleth": {
             "en": "Trinity University"
         },
@@ -17614,14 +17411,8 @@
         "https://sso.umes.edu/idp/shibboleth": {
             "en": "University of Maryland Eastern Shore"
         },
-        "https://sso.umgc.edu/gateway": {
-            "en": "University of Maryland Global Campus"
-        },
         "https://sso.unco.edu/idp": {
             "en": "University of Northern Colorado New"
-        },
-        "https://sso.ung.edu/simplesaml2": {
-            "en": "University of North Georgia"
         },
         "https://sso.union.edu/idp/shibboleth": {
             "en": "Union College"
@@ -17754,9 +17545,6 @@
         },
         "https://websso.pomona.edu/": {
             "en": "Pomona College"
-        },
-        "https://wpkfl-shibidp.fullsail.com/idp/shibboleth": {
-            "en": "Full Sail University"
         },
         "urn:mace:incommon:alaska.edu": {
             "en": "University of Alaska Statewide System"

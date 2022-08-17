@@ -1,7 +1,4 @@
 {
-    "http://adfs.regents.ac.uk/adfs/services/trust": {
-        "en": "Regent's University London ADFS Do Not Use"
-    },
     "http://idp.northampton.ac.uk/oala/metadata": {
         "en": "University of Northampton (IDP)"
     },
@@ -50,9 +47,6 @@
     "https://beaumontcollege.org/oala/metadata": {
         "en": "Beaumont College - A Scope College"
     },
-    "https://beta.shib.manchester.ac.uk/shibboleth": {
-        "en": "The University of Manchester (Beta)"
-    },
     "https://boleth.chi.ac.uk/idp/shibboleth": {
         "en": "University of Chichester"
     },
@@ -74,9 +68,6 @@
     "https://coventry.ac.uk/idp": {
         "en": "Coventry University"
     },
-    "https://dev2.webauth.soton.ac.uk/shibboleth": {
-        "en": "University of Southampton (Dev 3.x)"
-    },
     "https://dh.gov.uk/shibboleth": {
         "en": "Department of Health (England)"
     },
@@ -85,9 +76,6 @@
     },
     "https://dmz-shib-dg-01.dmz.roehampton.ac.uk/idp/shibboleth": {
         "en": "University of Roehampton"
-    },
-    "https://edinaidp.edina.ac.uk/idp/shibboleth": {
-        "en": "EDINA IdP (staff and trial accounts)"
     },
     "https://edulidp01.hants.gov.uk/idp/shibboleth": {
         "en": "Hampshire County Council"
@@ -151,15 +139,6 @@
     },
     "https://identityfor.co.uk/r4c": {
         "en": "SIMS ID (Staging)"
-    },
-    "https://idp-dev.jisc.ac.uk/idp/shibboleth": {
-        "en": "Jisc (Dev IdP)"
-    },
-    "https://idp-qa.shef.ac.uk/shibboleth": {
-        "en": "University of Sheffield QA IdP"
-    },
-    "https://idp-staging.shibboleth.ox.ac.uk/shibboleth-idp": {
-        "en": "University of Oxford, Staging IdP"
     },
     "https://idp.abingdon-witney.ac.uk/idp/shibboleth": {
         "en": "Abingdon and Witney College"
@@ -487,9 +466,6 @@
     "https://idp.ed.ac.uk/shibboleth": {
         "en": "University of Edinburgh"
     },
-    "https://idp.edina.ac.uk/shibboleth": {
-        "en": "EDINA DEPRECATED IdP (staff and trial accounts)"
-    },
     "https://idp.edinburghcollege.ac.uk/idp/shibboleth": {
         "en": "Edinburgh College"
     },
@@ -550,14 +526,8 @@
     "https://idp.gre.ac.uk/oala/metadata": {
         "en": "University of Greenwich"
     },
-    "https://idp.grimsby.ac.uk/oala/metadata": {
-        "en": "Grimsby Institute of Further and Higher Education (Athens)"
-    },
     "https://idp.gsmd.ac.uk/openathens": {
         "en": "Guildhall School of Music & Drama"
-    },
-    "https://idp.guildford.ac.uk/shibboleth": {
-        "en": "Guildford College of Further & Higher Education"
     },
     "https://idp.gyc.ac.uk/openathens": {
         "en": "Great Yarmouth College"
@@ -588,9 +558,6 @@
     },
     "https://idp.hca.ac.uk/shibboleth": {
         "en": "Hereford College of Arts"
-    },
-    "https://idp.hereford.ac.uk/shibboleth": {
-        "en": "Hereford Sixth Form College MD (no longer in use)"
     },
     "https://idp.herts.ac.uk/shibboleth": {
         "en": "University of Hertfordshire"
@@ -706,9 +673,6 @@
     },
     "https://idp.london.ac.uk/shibboleth": {
         "en": "University of London"
-    },
-    "https://idp.london.edu/openathens": {
-        "en": "London Business School - OpenAthens"
     },
     "https://idp.londonmet.ac.uk/entity": {
         "en": "London Metropolitan University"
@@ -980,9 +944,6 @@
     "https://idp.sccb.ac.uk/idp/shibboleth": {
         "en": "South and City College Birmingham and Bournville College"
     },
-    "https://idp.sftwales.com/idp/shibboleth": {
-        "en": "Jon Agland (sftwales)"
-    },
     "https://idp.sgscol.ac.uk/idp/shibboleth": {
         "en": "South Gloucestershire and Stroud College"
     },
@@ -1124,9 +1085,6 @@
     "https://idp.treloar.org.uk/idp/shibboleth": {
         "en": "Treloar's"
     },
-    "https://idp.tresham.ac.uk/idp/shibboleth": {
-        "en": "Tresham College"
-    },
     "https://idp.ucb.ac.uk/shibboleth": {
         "en": "University College Birmingham"
     },
@@ -1165,9 +1123,6 @@
     },
     "https://idp.warwick.ac.uk/idp/shibboleth": {
         "en": "University of Warwick"
-    },
-    "https://idp.wellcome.ac.uk/idp/shibboleth": {
-        "en": "Wellcome Trust (Old)"
     },
     "https://idp.wellcome.org/entity": {
         "en": "Wellcome Trust"
@@ -1289,12 +1244,6 @@
     "https://idpv3.btc.ac.uk/idp/shibboleth": {
         "en": "Bridgwater & Taunton College"
     },
-    "https://idpv3.essingtoncc.co.uk/idp/shibboleth": {
-        "en": "Essington Computer Consultancy Ltd"
-    },
-    "https://idpv3.ntyneside.ac.uk/idp/shibboleth": {
-        "en": "Tyne Metropolitan College"
-    },
     "https://idpv3.sandwell.ac.uk/idp/shibboleth": {
         "en": "Sandwell College"
     },
@@ -1312,9 +1261,6 @@
     },
     "https://jcc.ac.uk/idp": {
         "en": "Joseph Chamberlain Sixth Form College"
-    },
-    "https://jisc.geostore.com/idp/shibboleth": {
-        "en": "Geostore IDP"
     },
     "https://kanturk.wigan-leigh.ac.uk/idp/shibboleth": {
         "en": "Wigan & Leigh College"
@@ -1385,9 +1331,6 @@
     "https://oa-idp.wlv.ac.uk/oala/metadata": {
         "en": "University of Wolverhampton"
     },
-    "https://oala-runtime.eastleigh.ac.uk/oala/metadata": {
-        "en": "Eastleigh College (Legacy)"
-    },
     "https://oala.aaschool.ac.uk/oala/metadata": {
         "en": "Architectural Association"
     },
@@ -1418,9 +1361,6 @@
     "https://pleiades.lscollege.ac.uk/idp/shibboleth": {
         "en": "Lewisham Southwark College"
     },
-    "https://proxy.eduteams.org/proxy": {
-        "en": "eduTEAMS"
-    },
     "https://qub.ac.uk/shibboleth": {
         "en": "Queen's University Belfast"
     },
@@ -1436,9 +1376,6 @@
     "https://sa1.nimr.mrc.ac.uk/idp/shibboleth": {
         "en": "National Institute for Medical Research"
     },
-    "https://safari.data-archive.ac.uk/idp/shibboleth": {
-        "en": "UK Data Archive IdP Proxy"
-    },
     "https://scgidp.shrewsbury.ac.uk/idp/shibboleth": {
         "en": "Shrewsbury Colleges Group"
     },
@@ -1448,9 +1385,6 @@
     "https://sfx.ac.uk/idp": {
         "en": "Saint Francis Xavier Catholic Sixth Form College, London"
     },
-    "https://shib-dev-idp.ucl.ac.uk/shibboleth": {
-        "en": "University College London (Shib Dev)"
-    },
     "https://shib-idp.arden.ac.uk/idp/shibboleth": {
         "en": "Arden University"
     },
@@ -1459,9 +1393,6 @@
     },
     "https://shib-idp.ucl.ac.uk/shibboleth": {
         "en": "UCL (University College London)"
-    },
-    "https://shib-uat-idp.ucl.ac.uk/shibboleth": {
-        "en": "University College London (Shib UAT)"
     },
     "https://shib.aylesbury.ac.uk/idp/shibboleth": {
         "en": "Aylesbury College"
@@ -1501,9 +1432,6 @@
     },
     "https://shib.rcs.ac.uk/shibboleth": {
         "en": "Royal Conservatoire of Scotland"
-    },
-    "https://shib.ulster.ac.uk/idp/shibboleth": {
-        "en": "Ulster University - Shibboleth"
     },
     "https://shib.westdean.org.uk/idp/shibboleth": {
         "en": "West Dean College"
@@ -1628,9 +1556,6 @@
     "https://shibboleth.ncgrp.ac.uk/idp/shibboleth": {
         "en": "Newcastle College Group"
     },
-    "https://shibboleth.ncl-coll.ac.uk/idp/shibboleth": {
-        "en": "Newcastle College"
-    },
     "https://shibboleth.nptc.ac.uk/idp/shibboleth": {
         "en": "NPTC Group"
     },
@@ -1700,9 +1625,6 @@
     "https://shibby.wmc.ac.uk/shibboleth-idp": {
         "en": "Wirral Metropolitan College"
     },
-    "https://shibidp.kgv.ac.uk/idp/shibboleth": {
-        "en": "KGV College - Latest"
-    },
     "https://shibidp.tameside.ac.uk/idp/shibboleth": {
         "en": "Tameside College"
     },
@@ -1717,9 +1639,6 @@
     },
     "https://shiblogin.hull.ac.uk/idp/shibboleth": {
         "en": "University of Hull"
-    },
-    "https://shibprod.hw.ac.uk/idp/shibboleth": {
-        "en": "Heriot-Watt University (prod)"
     },
     "https://shibserv.abdn.ac.uk/shibboleth": {
         "en": "University of Aberdeen"
@@ -1741,9 +1660,6 @@
     },
     "https://srvshibboleth.asfc.ac.uk/shibboleth": {
         "en": "Ashton Sixth Form College"
-    },
-    "https://sso-demo.proofidcloud.co.uk/idp/pingfederate": {
-        "en": "ProofID PingFederate IdP"
     },
     "https://sso.bsfc.ac.uk/idp/shibboleth": {
         "en": "Birkenhead Sixth Form College"

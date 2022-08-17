@@ -35,10 +35,6 @@
         "en": "Central European University",
         "hu": "Közép-európai Egyetem"
     },
-    "https://hub.mta.hu/idp": {
-        "en": "MTA, Institutes of Hungarian Academy of Sciences",
-        "hu": "MTA, Magyar Tudományos Akadémiai Intézetei"
-    },
     "https://idp-aub.etn.hu/saml2/idp/metadata.php": {
         "en": "Andrássy University Budapest",
         "hu": "Andrássy Gyula Budapesti Német Nyelvű Egyetem"

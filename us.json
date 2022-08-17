@@ -35,9 +35,6 @@
     "http://bcadfs.bridgewater.edu/adfs/services/trust": {
         "en": "Bridgewater College"
     },
-    "http://fed.lit.edu/adfs/ls": {
-        "en": "Lamar Institute of Technology"
-    },
     "http://federate.bsu.edu/sso": {
         "en": "Ball State  University"
     },
@@ -62,23 +59,11 @@
     "http://msauth.kent.edu/adfs/services/trust": {
         "en": "Kent State University"
     },
-    "http://sso.davidson.edu/adfs/services/trust": {
-        "en": "Davidson College"
-    },
-    "http://sso.oit.edu/idp": {
-        "en": "Oregon Institute of Technology"
-    },
     "http://sso.quinnipiac.edu/adfs/services/trust": {
         "en": "Quinnipiac University"
     },
     "http://ssologin.cei.edu/adfs/services/trust": {
         "en": "College of Eastern Idaho"
-    },
-    "http://sts.clackamas.edu/adfs/services/trust": {
-        "en": "Clackamas Community College"
-    },
-    "https://aaidp.academicanalytics.com/idp/shibboleth": {
-        "en": "Academic Analytics"
     },
     "https://academica.aws.wayne.edu/saml2/trust": {
         "en": "Wayne State University"
@@ -143,9 +128,6 @@
     "https://cas.byu.edu/cas/idp/metadata": {
         "en": "Brigham Young University"
     },
-    "https://cas.cgcent.miami.edu/idp/shibboleth": {
-        "en": "University of Miami - Non-production"
-    },
     "https://cas.conncoll.edu/idp/shibboleth": {
         "en": "Connecticut College"
     },
@@ -202,9 +184,6 @@
     },
     "https://fiuidp.fiu.edu/idp/shibboleth": {
         "en": "Florida International University"
-    },
-    "https://hancockcollege.onbio-key.com": {
-        "en": "Allan Hancock College"
     },
     "https://hartnell.edu/idp": {
         "en": "Hartnell Community College District"
@@ -296,9 +275,6 @@
     "https://idp.cirrusidentity.com/idp": {
         "en": "Cirrus Identity, Inc."
     },
-    "https://idp.citruscollege.edu/idp/shibboleth": {
-        "en": "Citrus Community College District"
-    },
     "https://idp.clarion.edu/idp": {
         "en": "Clarion University"
     },
@@ -349,9 +325,6 @@
     },
     "https://idp.es.net/idp/shibboleth": {
         "en": "ESnet"
-    },
-    "https://idp.eup.edinboro.edu/idp/shibboleth": {
-        "en": "Edinboro University of Pennsylvania"
     },
     "https://idp.famu.edu:443/idp/shibboleth": {
         "en": "Florida A&M University"
@@ -419,20 +392,11 @@
     "https://idp.lsuhs.edu/idp/shibboleth": {
         "en": "LSU Health Shreveport"
     },
-    "https://idp.ltcc.edu/idp/shibboleth": {
-        "en": "Lake Tahoe Community College"
-    },
-    "https://idp.macalester.edu/openathens": {
-        "en": "Macalester College"
-    },
     "https://idp.maine.edu/idp/shibboleth": {
         "en": "University of Maine System"
     },
     "https://idp.malone.edu/idp/shibboleth": {
         "en": "Malone University"
-    },
-    "https://idp.marquette.edu/idp": {
-        "en": "Marquette University"
     },
     "https://idp.marshall.edu/idp/shibboleth": {
         "en": "Marshall University"
@@ -500,9 +464,6 @@
     "https://idp.princeton.edu/idp/shibboleth": {
         "en": "Princeton University"
     },
-    "https://idp.pugetsound.edu/idp/shibboleth": {
-        "en": "University of Puget Sound"
-    },
     "https://idp.purdue.edu/idp/shibboleth": {
         "en": "Purdue University Main Campus"
     },
@@ -520,9 +481,6 @@
     },
     "https://idp.sbcc.edu/idp/shibboleth": {
         "en": "Santa Barbara City College"
-    },
-    "https://idp.sbccd.edu": {
-        "en": "San Bernardino Community College District"
     },
     "https://idp.scccd.edu/idp/shibboleth": {
         "en": "State Center Community College District"
@@ -553,12 +511,6 @@
     },
     "https://idp.srecarilionclinic.org/idp/shibboleth": {
         "en": "SRE Carilion Clinic"
-    },
-    "https://idp.sulross.edu/simplesaml/saml2/idp/metadata.php": {
-        "en": "Sul Ross State University"
-    },
-    "https://idp.symplicity.com/idp/shibboleth": {
-        "en": "Symplicity Corporation"
     },
     "https://idp.tamucc.edu/idp/shibboleth": {
         "en": "Texas A&M University-Corpus Christi"
@@ -682,9 +634,6 @@
     },
     "https://its-shib.its.csulb.edu/idp/shibboleth": {
         "en": "California State University, Long Beach"
-    },
-    "https://its.longwood.edu/idp": {
-        "en": "Longwood University"
     },
     "https://jidp.jlab.org/idp/shibboleth": {
         "en": "Thomas Jefferson National Accelerator Facility"
@@ -863,14 +812,8 @@
     "https://prdidp.uncg.edu/idp/shibboleth": {
         "en": "University of North Carolina at Greensboro"
     },
-    "https://prod-sa.granite.edu/SecureAuth10/": {
-        "en": "Granite State College"
-    },
     "https://rushib.rockefeller.edu/idp/shibboleth": {
         "en": "Rockefeller University"
-    },
-    "https://saml-idp.wou.edu": {
-        "en": "Western Oregon University SSO"
     },
     "https://saml.adu.edu": {
         "en": "AdventHealth University"
@@ -917,17 +860,11 @@
     "https://shib.calu.edu/idp/shibboleth": {
         "en": "California University of Pennsylvania"
     },
-    "https://shib.ccbcmd.edu/idp/shibboleth": {
-        "en": "Community College of Baltimore County"
-    },
     "https://shib.csub.edu/idp/shibboleth": {
         "en": "California State University, Bakersfield"
     },
     "https://shib.fortlewis.edu/idp/shibboleth": {
         "en": "Fort Lewis College"
-    },
-    "https://shib.is.depaul.edu/idp/shibboleth": {
-        "en": "DePaul University"
     },
     "https://shib.marymount.edu/idp/shibboleth": {
         "en": "Marymount University"
@@ -949,9 +886,6 @@
     },
     "https://shib.unf.edu/idp/shibboleth": {
         "en": "UNF InCommon"
-    },
-    "https://shib.uni.edu/idp/shibboleth": {
-        "en": "University of Northern Iowa"
     },
     "https://shib.unl.edu/idp/shibboleth": {
         "en": "University of Nebraska-Lincoln"
@@ -1000,9 +934,6 @@
     },
     "https://shibboleth-2.baylor.edu/idp/shibboleth": {
         "en": "Baylor University"
-    },
-    "https://shibboleth-idp.collegenet.com/idp/shibboleth": {
-        "en": "CollegeNET, Inc."
     },
     "https://shibboleth.aws.eckerd.edu/idp/shibboleth": {
         "en": "Eckerd College"
@@ -1256,9 +1187,6 @@
     "https://sso.sjeccd.edu": {
         "en": "San Jose - Evergreen Community College District"
     },
-    "https://sso.tarleton.edu/idp/shibboleth": {
-        "en": "Tarleton State University"
-    },
     "https://sso.trinity.edu/idp/shibboleth": {
         "en": "Trinity University"
     },
@@ -1271,14 +1199,8 @@
     "https://sso.umes.edu/idp/shibboleth": {
         "en": "University of Maryland Eastern Shore"
     },
-    "https://sso.umgc.edu/gateway": {
-        "en": "University of Maryland Global Campus"
-    },
     "https://sso.unco.edu/idp": {
         "en": "University of Northern Colorado New"
-    },
-    "https://sso.ung.edu/simplesaml2": {
-        "en": "University of North Georgia"
     },
     "https://sso.union.edu/idp/shibboleth": {
         "en": "Union College"
@@ -1411,9 +1333,6 @@
     },
     "https://websso.pomona.edu/": {
         "en": "Pomona College"
-    },
-    "https://wpkfl-shibidp.fullsail.com/idp/shibboleth": {
-        "en": "Full Sail University"
     },
     "urn:mace:incommon:alaska.edu": {
         "en": "University of Alaska Statewide System"

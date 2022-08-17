@@ -111,9 +111,6 @@
         "en": "Colegio Universitario de Estudios Financieros",
         "es": "Colegio Universitario de Estudios Financieros"
     },
-    "https://www.rediris.es/sir/demoidp": {
-        "en": "Entorno de Demo IdPnube"
-    },
     "https://www.rediris.es/sir/deustoidp": {
         "en": "Universidad de Deusto",
         "eu": "Universidad de Deusto"
@@ -329,10 +326,6 @@
     "https://www.rediris.es/sir/ucamidp": {
         "en": "Universidad Catolica San Antonio de Murcia",
         "es": "Universidad Católica San Antonio de Murcia"
-    },
-    "https://www.rediris.es/sir/ucavilaidp": {
-        "en": "Universidad Catolica de Avila",
-        "es": "Universidad Católica de Ávila"
     },
     "https://www.rediris.es/sir/uchceuidp": {
         "en": "Universidad CEU Cardenal Herrera",

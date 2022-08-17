@@ -185,10 +185,6 @@
         "en": "https://idp.unak.is",
         "is": "Háskólinn á Akureyri"
     },
-    "https://login.kp.dk/adfs/services/trust": {
-        "da": "Københavns Professionshøjskole [ADFS]",
-        "en": "University College Copenhagen [ADFS]"
-    },
     "https://saml.signon.ruc.dk/idp": {
         "da": "Roskilde Universitet (RUC)",
         "en": "Roskilde University (RUC)"
