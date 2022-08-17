@@ -27,6 +27,10 @@
         "en": "The School of Banking and Management in Cracow",
         "pl": "Wyższa Szkoła Zarządzania i Bankowości w Krakowie"
     },
+    "https://cas.ans.pila.pl/cas/idp": {
+        "en": "Stanisław Staszic State University of Applied Sciencies in Piła",
+        "pl": "Akademia Nauk Stosowanych im. Stanisława Staszica w Pile"
+    },
     "https://cas.kul.pl:8443/cas/idp/metadata": {
         "en": "John Paul II Catholic University of Lublin",
         "pl": "Katolicki Uniwersytet Lubelski Jana Pawła II"

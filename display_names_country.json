@@ -1450,6 +1450,10 @@
             "en": "IFPR - Instituto Federal do Parana",
             "pt-br": "IFPR - Instituto Federal do Parana"
         },
+        "https://shibv4.unilab.edu.br/idp/shibboleth": {
+            "en": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira",
+            "pt-br": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira"
+        },
         "https://siaiap61.univali.br/idp/shibboleth": {
             "en": "UNIVALI - Universidade do Vale do Itajai",
             "pt-br": "UNIVALI - Universidade do Vale do Itajai"
@@ -12466,7 +12470,7 @@
             "en": "IdP Proxy"
         },
         "https://idp.cas.omren.om/idp": {
-            "en": "cas_shibboleth3"
+            "en": "cas_shib3"
         },
         "https://idp.icem.edu.om/idp/shibboleth": {
             "en": "International College of Engineering and Management (OM-KID)"
@@ -12625,6 +12629,10 @@
         "https://auth.wszib.edu.pl/idp/shibboleth": {
             "en": "The School of Banking and Management in Cracow",
             "pl": "Wyższa Szkoła Zarządzania i Bankowości w Krakowie"
+        },
+        "https://cas.ans.pila.pl/cas/idp": {
+            "en": "Stanisław Staszic State University of Applied Sciencies in Piła",
+            "pl": "Akademia Nauk Stosowanych im. Stanisława Staszica w Pile"
         },
         "https://cas.kul.pl:8443/cas/idp/metadata": {
             "en": "John Paul II Catholic University of Lublin",
@@ -16266,9 +16274,6 @@
         "http://fs.uwp.edu/adfs/services/trust": {
             "en": "University of Wisconsin-Parkside"
         },
-        "http://fs.wcu.edu/adfs/services/trust": {
-            "en": "Western Carolina University"
-        },
         "http://login.mayo.edu/adfs/services/trust": {
             "en": "Mayo Clinic"
         },
@@ -17437,7 +17442,7 @@
             "en": "Van Andel Research Institute"
         },
         "https://sso.wcu.edu/idp": {
-            "en": "Western Carolina University - Bridge"
+            "en": "Western Carolina University"
         },
         "https://sso.yc.edu/idp": {
             "en": "Yavapai College"

@@ -50,9 +50,6 @@
     "http://fs.uwp.edu/adfs/services/trust": {
         "en": "University of Wisconsin-Parkside"
     },
-    "http://fs.wcu.edu/adfs/services/trust": {
-        "en": "Western Carolina University"
-    },
     "http://login.mayo.edu/adfs/services/trust": {
         "en": "Mayo Clinic"
     },
@@ -1221,7 +1218,7 @@
         "en": "Van Andel Research Institute"
     },
     "https://sso.wcu.edu/idp": {
-        "en": "Western Carolina University - Bridge"
+        "en": "Western Carolina University"
     },
     "https://sso.yc.edu/idp": {
         "en": "Yavapai College"
