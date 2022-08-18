@@ -4783,6 +4783,10 @@
             "cs": "Městská knihovna Chrudim",
             "en": "Municipal Library Chrudim"
         },
+        "https://knihovna-ji.cz/idp/shibboleth": {
+            "cs": "Městská knihovna Jihlava",
+            "en": "Jihlava Town Library"
+        },
         "https://knihovna-kh.cz/idp/shibboleth": {
             "cs": "Městská knihovna Kutná Hora",
             "en": "Municipal Library Kutná Hora"
