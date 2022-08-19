@@ -12254,6 +12254,10 @@
             "en": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)",
             "nl": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)"
         },
+        "https://sts.windows.net/9a3bffad-fdf2-4666-a810-47806f5cd5e5/": {
+            "en": "Hogeschool Viaa (MS Azure AD)",
+            "nl": "Hogeschool Viaa (MS Azure AD)"
+        },
         "https://sts.windows.net/9ddb2f6b-ed26-456a-8680-3b375cbad516/": {
             "en": "Van Gogh Museum",
             "nl": "Van Gogh Museum"
@@ -17006,9 +17010,6 @@
         },
         "https://myresearchid.idp.cirrusidentity.com/idp": {
             "en": "MyResearchID"
-        },
-        "https://namid.fairfield.edu:8443/nidp/saml2/metadata": {
-            "en": "Fairfield University"
         },
         "https://netid.uwosh.edu/idp/shibboleth": {
             "en": "University of Wisconsin Oshkosh"

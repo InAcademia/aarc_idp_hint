@@ -779,9 +779,6 @@
     "https://myresearchid.idp.cirrusidentity.com/idp": {
         "en": "MyResearchID"
     },
-    "https://namid.fairfield.edu:8443/nidp/saml2/metadata": {
-        "en": "Fairfield University"
-    },
     "https://netid.uwosh.edu/idp/shibboleth": {
         "en": "University of Wisconsin Oshkosh"
     },
