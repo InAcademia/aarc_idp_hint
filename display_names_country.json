@@ -2491,6 +2491,10 @@
             "en": "Central Conservatory of Music",
             "zh": "中央音乐学院(Central Conservatory of Music)"
         },
+        "https://idp.ccrw.edu.cn/idp/shibboleth": {
+            "en": "Changchun Humanities and Sciences College",
+            "zh": "长春人文学院(Changchun Humanities and Sciences College)"
+        },
         "https://idp.ccu.edu.cn/idp/shibboleth": {
             "en": "CHANGCHUN UNIVERSITY",
             "zh": "长春大学(CHANGCHUN UNIVERSITY)"
@@ -11003,7 +11007,7 @@
             "ja": "九州大学"
         },
         "https://idp.luke.ac.jp/idp/shibboleth": {
-            "en": "St.Luke's International University",
+            "en": "St. Luke's International University",
             "ja": "聖路加国際大学"
         },
         "https://idp.my-pharm.ac.jp/idp/shibboleth": {
@@ -12010,10 +12014,6 @@
             "en": "Eindhoven University of Technology",
             "nl": "Technische Universiteit Eindhoven"
         },
-        "http://sts.viaa.nl/adfs/services/trust": {
-            "en": "Hogeschool Viaa",
-            "nl": "Hogeschool Viaa"
-        },
         "http://sts.windesheim.nl/adfs/services/trust": {
             "en": "Windesheim University of Applied Sciences",
             "nl": "Hogeschool Windesheim"
@@ -12263,8 +12263,8 @@
             "nl": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)"
         },
         "https://sts.windows.net/9a3bffad-fdf2-4666-a810-47806f5cd5e5/": {
-            "en": "Hogeschool Viaa (MS Azure AD)",
-            "nl": "Hogeschool Viaa (MS Azure AD)"
+            "en": "Hogeschool Viaa",
+            "nl": "Hogeschool Viaa"
         },
         "https://sts.windows.net/9ddb2f6b-ed26-456a-8680-3b375cbad516/": {
             "en": "Van Gogh Museum",

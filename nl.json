@@ -307,10 +307,6 @@
         "en": "Eindhoven University of Technology",
         "nl": "Technische Universiteit Eindhoven"
     },
-    "http://sts.viaa.nl/adfs/services/trust": {
-        "en": "Hogeschool Viaa",
-        "nl": "Hogeschool Viaa"
-    },
     "http://sts.windesheim.nl/adfs/services/trust": {
         "en": "Windesheim University of Applied Sciences",
         "nl": "Hogeschool Windesheim"
@@ -560,8 +556,8 @@
         "nl": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)"
     },
     "https://sts.windows.net/9a3bffad-fdf2-4666-a810-47806f5cd5e5/": {
-        "en": "Hogeschool Viaa (MS Azure AD)",
-        "nl": "Hogeschool Viaa (MS Azure AD)"
+        "en": "Hogeschool Viaa",
+        "nl": "Hogeschool Viaa"
     },
     "https://sts.windows.net/9ddb2f6b-ed26-456a-8680-3b375cbad516/": {
         "en": "Van Gogh Museum",
