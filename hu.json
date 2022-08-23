@@ -23,6 +23,10 @@
         "en": "Kodolányi János University",
         "hu": "Kodolányi János Egyetem"
     },
+    "https://eduid.or-zse.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Jewish Theological Seminary – University of Jewish Studies",
+        "hu": "Országos Rabbiképző – Zsidó Egyetem"
+    },
     "https://eduid.renyi.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Alfréd Rényi Institute of Mathematics",
         "hu": "Rényi Alfréd Matematikai Kutatóintézet"

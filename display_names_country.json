@@ -1186,6 +1186,10 @@
             "en": "USP - Universidade de Sao Paulo",
             "pt-br": "USP - Universidade de Sao Paulo"
         },
+        "https://idpcafe2022.ipen.br/idp/shibboleth": {
+            "en": "IPEN - Instituto de Pesquisas Energeticas e Nucleares",
+            "pt-br": "IPEN - Instituto de Pesquisas Energeticas e Nucleares"
+        },
         "https://idpfapepi.fapepi.pi.gov.br/idp/shibboleth": {
             "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui",
             "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui"
@@ -6778,14 +6782,6 @@
             "en": "Dania Academy"
         }
     },
-    "dz": {
-        "https://idp.grid.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science GRID IDP"
-        },
-        "https://med-idp.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science MEDECINE IDP"
-        }
-    },
     "ec": {
         "https://login.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
@@ -9484,6 +9480,10 @@
             "en": "Kodolányi János University",
             "hu": "Kodolányi János Egyetem"
         },
+        "https://eduid.or-zse.hu/simplesaml/saml2/idp/metadata.php": {
+            "en": "Jewish Theological Seminary – University of Jewish Studies",
+            "hu": "Országos Rabbiképző – Zsidó Egyetem"
+        },
         "https://eduid.renyi.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Alfréd Rényi Institute of Mathematics",
             "hu": "Rényi Alfréd Matematikai Kutatóintézet"
@@ -11633,9 +11633,6 @@
         "https://sso.university.unimas.my/idp/shibboleth": {
             "en": "Universiti Malaysia Sarawak"
         },
-        "https://umsidp.ums.edu.my/idp/shibboleth": {
-            "en": "Universiti Malaysia Sabah"
-        },
         "https://vho.sifulan.my/idp/shibboleth": {
             "en": "SIFULAN Virtual Home"
         }
@@ -12573,6 +12570,9 @@
         },
         "https://idp1.nct.edu.om/idp/shibboleth": {
             "en": "Nizwa College of Technology (OM-KID)"
+        },
+        "https://idpomren.majancollege.edu.om/idp": {
+            "en": "Majan University College (shibboleth)"
         },
         "https://idpsrv01.squ.edu.om/idp/shibboleth": {
             "en": "Sultan Qaboos University (OM-KID)"
@@ -16240,9 +16240,6 @@
         },
         "http://adfs.amnh.org/adfs/services/trust": {
             "en": "American Museum of Natural History - Richard Gilder Graduate School"
-        },
-        "http://adfs.lsuhsc.edu/adfs/services/trust": {
-            "en": "Louisiana State University Health Sciences Center-New Orleans"
         },
         "http://adfs.nic.edu/adfs/services/trust": {
             "en": "North Idaho College"

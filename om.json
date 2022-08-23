@@ -212,6 +212,9 @@
     "https://idp1.nct.edu.om/idp/shibboleth": {
         "en": "Nizwa College of Technology (OM-KID)"
     },
+    "https://idpomren.majancollege.edu.om/idp": {
+        "en": "Majan University College (shibboleth)"
+    },
     "https://idpsrv01.squ.edu.om/idp/shibboleth": {
         "en": "Sultan Qaboos University (OM-KID)"
     },

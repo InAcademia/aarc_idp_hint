@@ -5,9 +5,6 @@
     "http://adfs.amnh.org/adfs/services/trust": {
         "en": "American Museum of Natural History - Richard Gilder Graduate School"
     },
-    "http://adfs.lsuhsc.edu/adfs/services/trust": {
-        "en": "Louisiana State University Health Sciences Center-New Orleans"
-    },
     "http://adfs.nic.edu/adfs/services/trust": {
         "en": "North Idaho College"
     },

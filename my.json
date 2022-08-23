@@ -56,9 +56,6 @@
     "https://sso.university.unimas.my/idp/shibboleth": {
         "en": "Universiti Malaysia Sarawak"
     },
-    "https://umsidp.ums.edu.my/idp/shibboleth": {
-        "en": "Universiti Malaysia Sabah"
-    },
     "https://vho.sifulan.my/idp/shibboleth": {
         "en": "SIFULAN Virtual Home"
     }
