@@ -1,9 +1,4 @@
 {
-    "al": {
-        "https://idp.rash.al/simplesaml/saml2/idp/metadata.php": {
-            "en": "Academic Network of Albania - RASH"
-        }
-    },
     "am": {
         "https://afire.asnet.am/idp/shibboleth": {
             "en": "Academic Scientific Research Computer Network of Armenia (ASNET-AM)",
@@ -10085,6 +10080,9 @@
         "https://idp.kalasalingam.ac.in/idp/shibboleth": {
             "en": "Kalasalingam Academy of Research and Education"
         },
+        "https://idp.kalingauniversity.ac.in/idp/shibboleth": {
+            "en": "Kalinga University Raipur"
+        },
         "https://idp.karunya.edu/idp/shibboleth": {
             "en": "Karunya Institute of Technology and Sciences (Deemed University)"
         },
@@ -11538,10 +11536,6 @@
         "https://gidp.federations.renam.md": {
             "en": "GIDP-RENAM",
             "ro": "GIDP-RENAM"
-        },
-        "https://idp.vle.ase.md/saml/saml2/idp/metadata.php": {
-            "en": "Academy of Economic Studies of Moldova",
-            "ro": "Academia de Studii Economice a Moldovei"
         }
     },
     "mk": {
@@ -11636,6 +11630,9 @@
         },
         "https://sso.university.unimas.my/idp/shibboleth": {
             "en": "Universiti Malaysia Sarawak"
+        },
+        "https://umsidp.ums.edu.my/idp/shibboleth": {
+            "en": "Universiti Malaysia Sabah"
         },
         "https://vho.sifulan.my/idp/shibboleth": {
             "en": "SIFULAN Virtual Home"
@@ -12385,9 +12382,6 @@
         },
         "http://adfs.ibrivtc.edu.om/adfs/services/trust": {
             "en": "Ibri Vocational College"
-        },
-        "http://adfs.ict.edu.om/adfs/services/trust": {
-            "en": "University of Technology and Applied Sciences-Ibra"
         },
         "http://adfs.imco.edu.om/adfs/services/trust": {
             "en": "International Maritime College Oman (IMCO)"

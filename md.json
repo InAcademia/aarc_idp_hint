@@ -2,9 +2,5 @@
     "https://gidp.federations.renam.md": {
         "en": "GIDP-RENAM",
         "ro": "GIDP-RENAM"
-    },
-    "https://idp.vle.ase.md/saml/saml2/idp/metadata.php": {
-        "en": "Academy of Economic Studies of Moldova",
-        "ro": "Academia de Studii Economice a Moldovei"
     }
 }

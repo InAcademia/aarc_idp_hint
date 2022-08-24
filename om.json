@@ -23,9 +23,6 @@
     "http://adfs.ibrivtc.edu.om/adfs/services/trust": {
         "en": "Ibri Vocational College"
     },
-    "http://adfs.ict.edu.om/adfs/services/trust": {
-        "en": "University of Technology and Applied Sciences-Ibra"
-    },
     "http://adfs.imco.edu.om/adfs/services/trust": {
         "en": "International Maritime College Oman (IMCO)"
     },
