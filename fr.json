@@ -843,10 +843,6 @@
         "en": "CIEP / France Education International",
         "fr": "CIEP / France Education International"
     },
-    "https://idpr3.tem-tsp.eu/idp/shibboleth": {
-        "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis",
-        "fr": "Institut Mines Telecom Business School & Telecom SudParis"
-    },
     "https://idpr4.imtbs-tsp.eu/idp/shibboleth": {
         "en": "Institut Mines Telecom Business School and Telecom SudParis (v4)",
         "fr": "Institut Mines Telecom Business School et Telecom SudParis (v4)"

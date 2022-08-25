@@ -1,4 +1,9 @@
 {
+    "al": {
+        "https://idp.rash.al/simplesaml/saml2/idp/metadata.php": {
+            "en": "Academic Network of Albania - RASH"
+        }
+    },
     "am": {
         "https://afire.asnet.am/idp/shibboleth": {
             "en": "Academic Scientific Research Computer Network of Armenia (ASNET-AM)",
@@ -8706,10 +8711,6 @@
             "en": "CIEP / France Education International",
             "fr": "CIEP / France Education International"
         },
-        "https://idpr3.tem-tsp.eu/idp/shibboleth": {
-            "en": "oldr3 Institut Mines Telecom Business School & Telecom SudParis",
-            "fr": "Institut Mines Telecom Business School & Telecom SudParis"
-        },
         "https://idpr4.imtbs-tsp.eu/idp/shibboleth": {
             "en": "Institut Mines Telecom Business School and Telecom SudParis (v4)",
             "fr": "Institut Mines Telecom Business School et Telecom SudParis (v4)"
@@ -10396,6 +10397,10 @@
             "en": "Politecnico of Torino",
             "it": "Politecnico di Torino"
         },
+        "https://idem.unikore.it/idp/shibboleth": {
+            "en": "Enna Kore University",
+            "it": "Università degli Studi di Enna Kore"
+        },
         "https://idem.unina2.it/idp/shibboleth": {
             "en": "Vanvitelli University",
             "it": "Università degli Studi della Campania Luigi Vanvitelli"
@@ -11204,6 +11209,9 @@
         },
         "https://ids.gist.ac.kr/idp/simplesamlphp": {
             "en": "Gwangju Institute of Science and Technology"
+        },
+        "https://kafe.inha.ac.kr/idp/simplesamlphp": {
+            "en": "Inha University"
         },
         "https://kafe.kaist.ac.kr/idp/simplesamlphp": {
             "en": "Korea Advanced Institute of Science and Technology"
@@ -12157,8 +12165,8 @@
             "nl": "Deltares"
         },
         "https://sts.windows.net/1826898e-b49b-4838-b724-408b6688a34b/": {
-            "en": "Clusius College",
-            "nl": "Clusius College"
+            "en": "Vonk",
+            "nl": "Vonk"
         },
         "https://sts.windows.net/2867a850-2fe5-43f7-92b9-8e326586b667/": {
             "en": "Deltion College",
@@ -12383,6 +12391,9 @@
         "http://adfs.ibrivtc.edu.om/adfs/services/trust": {
             "en": "Ibri Vocational College"
         },
+        "http://adfs.ict.edu.om/adfs/services/trust": {
+            "en": "University of technology and applied science (Ibra)"
+        },
         "http://adfs.imco.edu.om/adfs/services/trust": {
             "en": "International Maritime College Oman (IMCO)"
         },
@@ -12570,7 +12581,7 @@
             "en": "Nizwa College of Technology (OM-KID)"
         },
         "https://idpomren.majancollege.edu.om/idp": {
-            "en": "Majan University College (shibboleth)"
+            "en": "Majan University College(shibboleth)"
         },
         "https://idpsrv01.squ.edu.om/idp/shibboleth": {
             "en": "Sultan Qaboos University (OM-KID)"

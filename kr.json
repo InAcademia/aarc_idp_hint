@@ -44,6 +44,9 @@
     "https://ids.gist.ac.kr/idp/simplesamlphp": {
         "en": "Gwangju Institute of Science and Technology"
     },
+    "https://kafe.inha.ac.kr/idp/simplesamlphp": {
+        "en": "Inha University"
+    },
     "https://kafe.kaist.ac.kr/idp/simplesamlphp": {
         "en": "Korea Advanced Institute of Science and Technology"
     },
