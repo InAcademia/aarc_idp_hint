@@ -19,6 +19,10 @@
         "en": "Chuo University",
         "ja": "中央大学"
     },
+    "https://gakunin-idp.ynu.ac.jp/": {
+        "en": "Yokohama National University",
+        "ja": "横浜国立大学"
+    },
     "https://gakunin1.keio.ac.jp/idp/shibboleth": {
         "en": "Keio University",
         "ja": "慶應義塾大学"
