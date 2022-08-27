@@ -966,6 +966,10 @@
             "en": "UESPI - Universidade Estadual do Piaui",
             "pt-br": "UESPI - Universidade Estadual do Piaui"
         },
+        "https://idp-shib421.funpec.br/idp/shibboleth": {
+            "en": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura",
+            "pt-br": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura"
+        },
         "https://idp.asces.edu.br/idp/shibboleth": {
             "en": "ASCES-UNITA - Centro Universitario Tabosa de Almeida",
             "pt-br": "ASCES-UNITA - Centro Universitario Tabosa de Almeida"
