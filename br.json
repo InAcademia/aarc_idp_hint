@@ -551,6 +551,10 @@
         "en": "UFSM - Universidade Federal de Santa Maria",
         "pt-br": "UFSM - Universidade Federal de Santa Maria"
     },
+    "https://idp03-prd-jne.ufca.edu.br/idp/shibboleth": {
+        "en": "UFCA - Universidade Federal do Cariri",
+        "pt-br": "UFCA - Universidade Federal do Cariri"
+    },
     "https://idp2.dmz.inpe.br/idp/shibboleth": {
         "en": "INPE - Instituto Nacional de Pesquisas Espaciais",
         "pt-br": "INPE - Instituto Nacional de Pesquisas Espaciais"
