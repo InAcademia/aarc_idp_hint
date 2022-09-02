@@ -599,9 +599,6 @@
     "https://idp.wvu.edu/idp/shibboleth": {
         "en": "West Virginia University"
     },
-    "https://idp.xsede.org/idp/shibboleth": {
-        "en": "XSEDE"
-    },
     "https://idp01.broadinstitute.org/idp/shibboleth": {
         "en": "Broad Institute of MIT and Harvard"
     },

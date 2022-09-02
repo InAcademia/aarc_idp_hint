@@ -14,9 +14,6 @@
     "https://iam.kisti.re.kr/idp/simplesamlphp": {
         "en": "Korea Institute of Science and Technology Information"
     },
-    "https://iam.kmu.ac.kr/idp/simplesamlphp": {
-        "en": "Keimyung University"
-    },
     "https://iam.knou.ac.kr/idp/simplesamlphp": {
         "en": "Korea National Open University"
     },

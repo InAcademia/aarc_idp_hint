@@ -1418,10 +1418,6 @@
             "en": "UNISUL - Universidade do Sul de Santa Catarina",
             "pt-br": "UNISUL - Universidade do Sul de Santa Catarina"
         },
-        "https://shibboleth.univale.br/idp/shibboleth": {
-            "en": "UNIVALE - Universidade Vale do Rio Doce - UNIVALE",
-            "pt-br": "UNIVALE - Universidade Vale do Rio Doce - UNIVALE"
-        },
         "https://shibboleth.unp.br/idp/shibboleth": {
             "en": "UNP - Universidade Potiguar",
             "pt-br": "UNP - Universidade Potiguar"
@@ -3988,8 +3984,8 @@
             "zh": "新疆师范大学(Xinjiang Normal University)"
         },
         "https://idp.xjtlu.edu.cn/idp/shibboleth": {
-            "en": "Xian Jiaotong-Liverpool University",
-            "zh": "西交利物浦大学(Xian Jiaotong-Liverpool University )"
+            "en": "Xi'an Jiaotong-Liverpool University",
+            "zh": "西交利物浦大学(Xi'an Jiaotong-Liverpool University)"
         },
         "https://idp.xjtu.edu.cn/idp/shibboleth": {
             "en": "Xi'an Jiaotong University",
@@ -11200,9 +11196,6 @@
         "https://iam.kisti.re.kr/idp/simplesamlphp": {
             "en": "Korea Institute of Science and Technology Information"
         },
-        "https://iam.kmu.ac.kr/idp/simplesamlphp": {
-            "en": "Keimyung University"
-        },
         "https://iam.knou.ac.kr/idp/simplesamlphp": {
             "en": "Korea National Open University"
         },
@@ -11450,29 +11443,6 @@
         "https://vdu.sso.litnet.lt/auth/saml2/idp/metadata.php": {
             "en": "Vytautas Magnus University",
             "lt": "Vytauto Didžiojo universitetas"
-        }
-    },
-    "lu": {
-        "https://accounts.google.com/o/saml2?idpid=C02ws9ruj": {
-            "en": "Luxembourg School of Business"
-        },
-        "https://clueless.restena.lu/simplesamlphp/saml2/idp/metadata.php": {
-            "en": "Restena Staff",
-            "fr": "Restena Employees"
-        },
-        "https://eduID.uni.lu/simplesaml/saml2/idp/metadata.php": {
-            "en": "University of Luxembourg"
-        },
-        "https://login.restena.lu/simplesamlphp/saml2/idp/metadata.php": {
-            "en": "Restena Users",
-            "fr": "Restena Utilisateurs"
-        },
-        "https://ssl.education.lu/saml/saml2/idp/metadata.php": {
-            "en": "MENJE - CGIE IAM Users",
-            "fr": "MENJE - CGIE IAM Utilisateurs"
-        },
-        "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/": {
-            "en": "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/"
         }
     },
     "lv": {
@@ -16867,9 +16837,6 @@
         },
         "https://idp.wvu.edu/idp/shibboleth": {
             "en": "West Virginia University"
-        },
-        "https://idp.xsede.org/idp/shibboleth": {
-            "en": "XSEDE"
         },
         "https://idp01.broadinstitute.org/idp/shibboleth": {
             "en": "Broad Institute of MIT and Harvard"
