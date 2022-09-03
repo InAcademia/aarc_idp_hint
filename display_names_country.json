@@ -954,10 +954,6 @@
             "en": "UNISC - Universidade de Santa Cruz do Sul",
             "pt-br": "UNISC - Universidade de Santa Cruz do Sul"
         },
-        "https://idp-novo.dr.ufu.br/idp/shibboleth": {
-            "en": "UFU - Universidade Federal de Uberlandia",
-            "pt-br": "UFU - Universidade Federal de Uberlandia"
-        },
         "https://idp-novo.uncisal.edu.br/idp/shibboleth": {
             "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas",
             "pt-br": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas"
@@ -1001,6 +997,10 @@
         "https://idp.cria.org.br/idp/shibboleth": {
             "en": "CRIA - Centro de Referencia em Informacao Ambiental",
             "pt-br": "CRIA - Centro de Referencia em Informacao Ambiental"
+        },
+        "https://idp.dr.ufu.br/idp/shibboleth": {
+            "en": "UFU - Universidade Federal de Uberlandia",
+            "pt-br": "UFU - Universidade Federal de Uberlandia"
         },
         "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
             "en": "SOBERANA - Faculdade de Saude de Petrolina",
@@ -11443,6 +11443,29 @@
         "https://vdu.sso.litnet.lt/auth/saml2/idp/metadata.php": {
             "en": "Vytautas Magnus University",
             "lt": "Vytauto Didžiojo universitetas"
+        }
+    },
+    "lu": {
+        "https://accounts.google.com/o/saml2?idpid=C02ws9ruj": {
+            "en": "Luxembourg School of Business"
+        },
+        "https://clueless.restena.lu/simplesamlphp/saml2/idp/metadata.php": {
+            "en": "Restena Staff",
+            "fr": "Restena Employees"
+        },
+        "https://eduID.uni.lu/simplesaml/saml2/idp/metadata.php": {
+            "en": "University of Luxembourg"
+        },
+        "https://login.restena.lu/simplesamlphp/saml2/idp/metadata.php": {
+            "en": "Restena Users",
+            "fr": "Restena Utilisateurs"
+        },
+        "https://ssl.education.lu/saml/saml2/idp/metadata.php": {
+            "en": "MENJE - CGIE IAM Users",
+            "fr": "MENJE - CGIE IAM Utilisateurs"
+        },
+        "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/": {
+            "en": "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/"
         }
     },
     "lv": {

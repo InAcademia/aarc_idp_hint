@@ -367,10 +367,6 @@
         "en": "UNISC - Universidade de Santa Cruz do Sul",
         "pt-br": "UNISC - Universidade de Santa Cruz do Sul"
     },
-    "https://idp-novo.dr.ufu.br/idp/shibboleth": {
-        "en": "UFU - Universidade Federal de Uberlandia",
-        "pt-br": "UFU - Universidade Federal de Uberlandia"
-    },
     "https://idp-novo.uncisal.edu.br/idp/shibboleth": {
         "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas",
         "pt-br": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas"
@@ -414,6 +410,10 @@
     "https://idp.cria.org.br/idp/shibboleth": {
         "en": "CRIA - Centro de Referencia em Informacao Ambiental",
         "pt-br": "CRIA - Centro de Referencia em Informacao Ambiental"
+    },
+    "https://idp.dr.ufu.br/idp/shibboleth": {
+        "en": "UFU - Universidade Federal de Uberlandia",
+        "pt-br": "UFU - Universidade Federal de Uberlandia"
     },
     "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
         "en": "SOBERANA - Faculdade de Saude de Petrolina",
