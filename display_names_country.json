@@ -1302,10 +1302,6 @@
             "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
             "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
         },
-        "https://shib.esap.go.gov.br/idp/shibboleth": {
-            "en": "SES-GO - Secretaria de Estado de Saude de Goias",
-            "pt-br": "SES-GO - Secretaria de Estado de Saude de Goias"
-        },
         "https://shibboleth-s1.ufersa.edu.br/idp/shibboleth": {
             "en": "UFERSA - Universidade Federal Rural Do Semi-Arido",
             "pt-br": "UFERSA - Universidade Federal Rural Do Semi-Arido"
