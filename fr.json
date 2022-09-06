@@ -887,6 +887,10 @@
         "en": "INSA Lyon",
         "fr": "INSA Lyon"
     },
+    "https://multipass.imt-lille-douai.fr/idp/shibboleth": {
+        "en": "IMT Lille Douai",
+        "fr": "IMT Lille Douai"
+    },
     "https://papangue.vetagro-sup.fr/idp/shibboleth": {
         "en": "IDP vetagro sup PROD",
         "fr": "Vetagro Sup"

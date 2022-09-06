@@ -243,13 +243,13 @@
         "en": "ELKH Eötvös Loránd Research Network",
         "hu": "ELKH Eötvös Loránd Kutatási Hálózat"
     },
-    "https://sso.szpa.hu/sso/saml2/idp/metadata.php": {
-        "en": "Szent Pál Akadémia",
-        "hu": "Szent Pál Akadémia"
-    },
     "https://sso.uni-corvinus.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Corvinus University of Budapest",
         "hu": "Budapesti Corvinus Egyetem"
+    },
+    "https://sso.uniszpa.hu/sso/saml2/idp/metadata.php": {
+        "en": "Szent Pál Akadémia",
+        "hu": "Szent Pál Akadémia"
     },
     "https://vho.eduid.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "eduID.hu Virtual Home (VHO)",
