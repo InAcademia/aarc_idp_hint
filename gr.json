@@ -109,6 +109,10 @@
         "el": "Οργανισμός Ανοιχτών Τεχνολογιών",
         "en": "Open Technologies Alliance"
     },
+    "https://idp.eurecapro.tuc.gr/idp/shibboleth": {
+        "el": "EURECA-PRO IdP",
+        "en": "EURECA-PRO IdP"
+    },
     "https://idp.ghl.gr/idp/shibboleth": {
         "en": "https://idp.ghl.gr/idp/shibboleth"
     },

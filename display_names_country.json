@@ -9171,6 +9171,10 @@
             "el": "Οργανισμός Ανοιχτών Τεχνολογιών",
             "en": "Open Technologies Alliance"
         },
+        "https://idp.eurecapro.tuc.gr/idp/shibboleth": {
+            "el": "EURECA-PRO IdP",
+            "en": "EURECA-PRO IdP"
+        },
         "https://idp.ghl.gr/idp/shibboleth": {
             "en": "https://idp.ghl.gr/idp/shibboleth"
         },
@@ -9999,6 +10003,9 @@
         },
         "https://idp.gbu.ac.in/idp/shibboleth": {
             "en": "Gautam Buddha University (Delhi NCR)"
+        },
+        "https://idp.gitam.edu/idp/shibboleth": {
+            "en": "GITAM Deemed to be University"
         },
         "https://idp.guglibrary.net/idp/shibboleth": {
             "en": "Gulbarga University"
