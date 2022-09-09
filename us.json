@@ -1130,6 +1130,9 @@
     "https://sso.humboldt.edu/idp/metadata": {
         "en": "Cal Poly Humboldt"
     },
+    "https://sso.illinoisstate.edu/idp/shibboleth": {
+        "en": "Illinois State University"
+    },
     "https://sso.it.utsa.edu/idp/shibboleth": {
         "en": "University of Texas at San Antonio"
     },

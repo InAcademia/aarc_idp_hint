@@ -699,10 +699,6 @@
         "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
         "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"
     },
-    "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
-        "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
-        "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
-    },
     "https://redecafe.enap.gov.br/idp/shibboleth": {
         "en": "ENAP - Escola Nacional de Administracao Publica",
         "pt-br": "ENAP - Escola Nacional de Administracao Publica"
@@ -822,6 +818,10 @@
     "https://shibboleth.unisul.br/idp/shibboleth": {
         "en": "UNISUL - Universidade do Sul de Santa Catarina",
         "pt-br": "UNISUL - Universidade do Sul de Santa Catarina"
+    },
+    "https://shibboleth.univale.br/idp/shibboleth": {
+        "en": "UNIVALE - Universidade Vale do Rio Doce",
+        "pt-br": "UNIVALE - Universidade Vale do Rio Doce"
     },
     "https://shibboleth.unp.br/idp/shibboleth": {
         "en": "UNP - Universidade Potiguar",

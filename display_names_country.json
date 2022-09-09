@@ -1286,10 +1286,6 @@
             "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
             "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"
         },
-        "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
-            "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
-            "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
-        },
         "https://redecafe.enap.gov.br/idp/shibboleth": {
             "en": "ENAP - Escola Nacional de Administracao Publica",
             "pt-br": "ENAP - Escola Nacional de Administracao Publica"
@@ -1409,6 +1405,10 @@
         "https://shibboleth.unisul.br/idp/shibboleth": {
             "en": "UNISUL - Universidade do Sul de Santa Catarina",
             "pt-br": "UNISUL - Universidade do Sul de Santa Catarina"
+        },
+        "https://shibboleth.univale.br/idp/shibboleth": {
+            "en": "UNIVALE - Universidade Vale do Rio Doce",
+            "pt-br": "UNIVALE - Universidade Vale do Rio Doce"
         },
         "https://shibboleth.unp.br/idp/shibboleth": {
             "en": "UNP - Universidade Potiguar",
@@ -14342,6 +14342,10 @@
             "en": "Sabanci University",
             "tr": "Sabancı Üniversitesi"
         },
+        "https://tkimlik.hakkari.edu.tr/simplesaml/saml2/idp/metadata.php": {
+            "en": "Hakkari University",
+            "tr": "Hakkari Üniversitesi"
+        },
         "https://yetkim.acibadem.edu.tr/idp/shibboleth": {
             "en": "Acibadem University",
             "tr": "Acıbadem Üniversitesi"
@@ -17398,6 +17402,9 @@
         },
         "https://sso.humboldt.edu/idp/metadata": {
             "en": "Cal Poly Humboldt"
+        },
+        "https://sso.illinoisstate.edu/idp/shibboleth": {
+            "en": "Illinois State University"
         },
         "https://sso.it.utsa.edu/idp/shibboleth": {
             "en": "University of Texas at San Antonio"

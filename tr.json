@@ -467,6 +467,10 @@
         "en": "Sabanci University",
         "tr": "Sabancı Üniversitesi"
     },
+    "https://tkimlik.hakkari.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Hakkari University",
+        "tr": "Hakkari Üniversitesi"
+    },
     "https://yetkim.acibadem.edu.tr/idp/shibboleth": {
         "en": "Acibadem University",
         "tr": "Acıbadem Üniversitesi"
