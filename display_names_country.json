@@ -1286,6 +1286,10 @@
             "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
             "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"
         },
+        "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
+            "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
+            "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
+        },
         "https://redecafe.enap.gov.br/idp/shibboleth": {
             "en": "ENAP - Escola Nacional de Administracao Publica",
             "pt-br": "ENAP - Escola Nacional de Administracao Publica"
@@ -5044,10 +5048,6 @@
         "https://IDP.ehs-dresden.de/idp/shibboleth": {
             "de": "Evangelische Hochschule Dresden",
             "en": "Evangelische Hochschule Dresden"
-        },
-        "https://aai-mdc1.mdc-berlin.de/idp/shibboleth": {
-            "de": "Max-Delbrück-Centrum für molekulare Medizin",
-            "en": "Max Delbrück Center for Molecular Medicine"
         },
         "https://aai.dhv-speyer.de/idp/shibboleth": {
             "de": "Universität Speyer",
@@ -11179,12 +11179,6 @@
         "https://wagner.isc.chubu.ac.jp/idp/shibboleth": {
             "en": "CHUBU UNIVERSITY",
             "ja": "中部大学"
-        }
-    },
-    "kg": {
-        "https://idp.kif.kg/simplesaml/saml2/idp/metadata.php": {
-            "en": "KIF-IDP",
-            "ky": "KIF-IDP"
         }
     },
     "kr": {
