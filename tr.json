@@ -607,6 +607,10 @@
         "en": "Sinop University",
         "tr": "Sinop Üniversitesi"
     },
+    "https://yetkim.tau.edu.tr/idp/shibboleth": {
+        "en": "Turkish-German University",
+        "tr": "Türk-Alman Üniversitesi"
+    },
     "https://yetkim.yildiz.edu.tr/idp/shibboleth": {
         "en": "Yildiz Technical University",
         "tr": "Yıldız Teknik Üniversitesi"

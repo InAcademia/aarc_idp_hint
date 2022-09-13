@@ -6871,6 +6871,10 @@
             "en": "Instituto Oceanográfico y Antártico de la Armada - inocar",
             "es": "Instituto Oceanográfico y Antártico de la Armada - inocar"
         },
+        "https://login.inspi.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Instituto Nacional de Investigacion en Salud Publica - inspi",
+            "es": "Instituto Nacional de Investigacion en Salud Publica - inspi"
+        },
         "https://login.internacional.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Internacional del Ecuador - internacional",
             "es": "Universidad Internacional del Ecuador - internacional"
@@ -14471,6 +14475,10 @@
         "https://yetkim.sinop.edu.tr/idp/shibboleth": {
             "en": "Sinop University",
             "tr": "Sinop Üniversitesi"
+        },
+        "https://yetkim.tau.edu.tr/idp/shibboleth": {
+            "en": "Turkish-German University",
+            "tr": "Türk-Alman Üniversitesi"
         },
         "https://yetkim.yildiz.edu.tr/idp/shibboleth": {
             "en": "Yildiz Technical University",
