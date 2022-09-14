@@ -615,6 +615,10 @@
         "en": "Yildiz Technical University",
         "tr": "Yıldız Teknik Üniversitesi"
     },
+    "https://yetkimidp.isikun.edu.tr/idp/shibboleth": {
+        "en": "FMV Işık University",
+        "tr": "FMV Işık Üniversitesi"
+    },
     "https://yetkimidp.ku.edu.tr/idp/shibboleth": {
         "en": "Koc University",
         "tr": "Koç Üniversitesi"

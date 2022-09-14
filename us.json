@@ -1178,6 +1178,9 @@
     "https://sso.sjeccd.edu": {
         "en": "San Jose - Evergreen Community College District"
     },
+    "https://sso.southwestern.edu/idp": {
+        "en": "Southwestern University"
+    },
     "https://sso.trinity.edu/idp/shibboleth": {
         "en": "Trinity University"
     },

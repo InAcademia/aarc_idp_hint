@@ -12752,6 +12752,10 @@
         "https://login.aai.pionier.net.pl/IdP/saml2/idp/metadata.php": {
             "en": "PIONIER Consortium"
         },
+        "https://login.kozminski.edu.pl": {
+            "en": "Kozminski University",
+            "pl": "Akademia Leona Koźmińskiego"
+        },
         "https://login.nwsp.pl/idp/shibboleth": {
             "en": "Non-state Higher Pedagogical School In Bialystok",
             "pl": "Niepaństwowa Wyższa Szkoła Pedagogiczna w Białymstoku"
@@ -14483,6 +14487,10 @@
         "https://yetkim.yildiz.edu.tr/idp/shibboleth": {
             "en": "Yildiz Technical University",
             "tr": "Yıldız Teknik Üniversitesi"
+        },
+        "https://yetkimidp.isikun.edu.tr/idp/shibboleth": {
+            "en": "FMV Işık University",
+            "tr": "FMV Işık Üniversitesi"
         },
         "https://yetkimidp.ku.edu.tr/idp/shibboleth": {
             "en": "Koc University",
@@ -17448,6 +17456,9 @@
         },
         "https://sso.sjeccd.edu": {
             "en": "San Jose - Evergreen Community College District"
+        },
+        "https://sso.southwestern.edu/idp": {
+            "en": "Southwestern University"
         },
         "https://sso.trinity.edu/idp/shibboleth": {
             "en": "Trinity University"

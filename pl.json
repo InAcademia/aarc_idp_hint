@@ -114,6 +114,10 @@
     "https://login.aai.pionier.net.pl/IdP/saml2/idp/metadata.php": {
         "en": "PIONIER Consortium"
     },
+    "https://login.kozminski.edu.pl": {
+        "en": "Kozminski University",
+        "pl": "Akademia Leona Koźmińskiego"
+    },
     "https://login.nwsp.pl/idp/shibboleth": {
         "en": "Non-state Higher Pedagogical School In Bialystok",
         "pl": "Niepaństwowa Wyższa Szkoła Pedagogiczna w Białymstoku"
