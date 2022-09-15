@@ -51,6 +51,10 @@
         "en": "Fontys University of Applied Sciences",
         "nl": "Fontys Hogescholen"
     },
+    "http://adfs3prod.aventus.nl/adfs/services/trust": {
+        "en": "ROC Aventus",
+        "nl": "ROC Aventus"
+    },
     "http://adfs4.uvh.nl/adfs/services/trust": {
         "en": "University of Humanistic Studies",
         "nl": "Universiteit voor Humanistiek"
