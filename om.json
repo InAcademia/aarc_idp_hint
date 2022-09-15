@@ -69,7 +69,7 @@
         "en": "Seeb Vocational College"
     },
     "http://adfs.shct.edu.om/adfs/services/trust": {
-        "en": "University of Technology and Applied Science (Shinas)"
+        "en": "University of Technology and Applied Science - Shinas"
     },
     "http://adfs.shinasvc.edu.om/adfs/services/trust": {
         "en": "Shinas Vocational College"
@@ -211,6 +211,9 @@
     },
     "https://idp1.nct.edu.om/idp/shibboleth": {
         "en": "Nizwa College of Technology (OM-KID)"
+    },
+    "https://idpomren.hct.edu.om/idp": {
+        "en": "University of Technology and Applied Sciences - Muscat (shibboleth)"
     },
     "https://idpomren.majancollege.edu.om/idp": {
         "en": "Majan University College(shibboleth)"

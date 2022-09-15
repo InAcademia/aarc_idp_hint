@@ -185,6 +185,9 @@
     "https://idp.mta.ca/idp/shibboleth": {
         "en": "Mount Allison University"
     },
+    "https://idp.nbcc.ca/idp": {
+        "en": "New Brunswick Communuity College"
+    },
     "https://idp.niagaracollege.ca/idp/shibboleth": {
         "en": "Niagara College Canada"
     },

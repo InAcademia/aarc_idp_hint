@@ -1730,6 +1730,9 @@
         "https://idp.mta.ca/idp/shibboleth": {
             "en": "Mount Allison University"
         },
+        "https://idp.nbcc.ca/idp": {
+            "en": "New Brunswick Communuity College"
+        },
         "https://idp.niagaracollege.ca/idp/shibboleth": {
             "en": "Niagara College Canada"
         },
@@ -12451,7 +12454,7 @@
             "en": "Seeb Vocational College"
         },
         "http://adfs.shct.edu.om/adfs/services/trust": {
-            "en": "University of Technology and Applied Science (Shinas)"
+            "en": "University of Technology and Applied Science - Shinas"
         },
         "http://adfs.shinasvc.edu.om/adfs/services/trust": {
             "en": "Shinas Vocational College"
@@ -12593,6 +12596,9 @@
         },
         "https://idp1.nct.edu.om/idp/shibboleth": {
             "en": "Nizwa College of Technology (OM-KID)"
+        },
+        "https://idpomren.hct.edu.om/idp": {
+            "en": "University of Technology and Applied Sciences - Muscat (shibboleth)"
         },
         "https://idpomren.majancollege.edu.om/idp": {
             "en": "Majan University College(shibboleth)"
@@ -17471,6 +17477,9 @@
         },
         "https://sso.umes.edu/idp/shibboleth": {
             "en": "University of Maryland Eastern Shore"
+        },
+        "https://sso.uml.edu/idp": {
+            "en": "UMass Lowell"
         },
         "https://sso.unco.edu/idp": {
             "en": "University of Northern Colorado New"

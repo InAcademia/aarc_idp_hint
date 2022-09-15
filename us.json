@@ -1193,6 +1193,9 @@
     "https://sso.umes.edu/idp/shibboleth": {
         "en": "University of Maryland Eastern Shore"
     },
+    "https://sso.uml.edu/idp": {
+        "en": "UMass Lowell"
+    },
     "https://sso.unco.edu/idp": {
         "en": "University of Northern Colorado New"
     },
