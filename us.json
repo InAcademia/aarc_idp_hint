@@ -1109,6 +1109,9 @@
     "https://sso.csumb.edu/idp/shibboleth": {
         "en": "California State University, Monterey Bay"
     },
+    "https://sso.csuohio.edu/idp": {
+        "en": "Cleveland State University"
+    },
     "https://sso.delval.edu/idp": {
         "en": "Delaware Valley University"
     },
