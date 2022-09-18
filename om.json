@@ -50,9 +50,6 @@
     "http://adfs.ndc.edu.om/adfs/services/trust": {
         "en": "National Defense College"
     },
-    "http://adfs.nu.edu.om/adfs/services/trust": {
-        "en": "National University of Science and Technology"
-    },
     "http://adfs.omren.om/adfs/services/trust": {
         "en": "OMREN"
     },
@@ -124,6 +121,9 @@
     },
     "https://idp.icem.edu.om/idp/shibboleth": {
         "en": "International College of Engineering and Management (OM-KID)"
+    },
+    "https://idp.ict.edu.om/idp": {
+        "en": "University of Technology and Applied Sciences-Ibra(shibboleth)"
     },
     "https://idp.omancollege.edu.om/idp/shibboleth": {
         "en": "Oman College Of Management and Technology (OM-KID)"
