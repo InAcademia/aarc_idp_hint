@@ -11,6 +11,10 @@
         "en": "National Library of Sweden",
         "sv": "Kungliga biblioteket"
     },
+    "http://adfs.rkh.se/adfs/services/trust": {
+        "en": "Swedish Red Cross University College",
+        "sv": "Röda Korsets Högskola"
+    },
     "http://adfs.sp.se/adfs/services/trust": {
         "en": "RISE Research Institutes of Sweden",
         "sv": "RISE Research Institutes of Sweden"

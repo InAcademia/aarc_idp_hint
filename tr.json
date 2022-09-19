@@ -251,6 +251,10 @@
         "en": "Bartın University",
         "tr": "Bartın Üniversitesi"
     },
+    "https://kimlik.bau.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "Bahçeşehir University",
+        "tr": "Bahçeşehir Üniversitesi"
+    },
     "https://kimlik.bayburt.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Bayburt University",
         "tr": "Bayburt Üniversitesi"

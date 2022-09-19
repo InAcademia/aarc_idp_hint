@@ -95,10 +95,6 @@
         "en": "MINZU UNIVERSITY OF CHINA",
         "zh": "中央民族大学(MINZU UNIVERSITY OF CHINA)"
     },
-    "https://idp-lib.nefu.edu.cn/idp/shibboleth": {
-        "en": "Northeast Forestry University",
-        "zh": "东北林业大学(Northeast Forestry University)"
-    },
     "https://idp-lib.nenu.edu.cn/idp/shibboleth": {
         "en": "Northeast Normal University",
         "zh": "东北师范大学(Northeast Normal University)"
@@ -1410,6 +1406,10 @@
     "https://idp.shmtu.edu.cn/idp/shibboleth": {
         "en": "Shanghai Maritime University",
         "zh": "上海海事大学(Shanghai Maritime University)"
+    },
+    "https://idp.shnyu.edu.cn/idp/shibboleth": {
+        "en": "Shanghai New York University",
+        "zh": "上海纽约大学(Shanghai New York University)"
     },
     "https://idp.shu.edu.cn/idp/shibboleth": {
         "en": "Shanghai University",

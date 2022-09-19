@@ -746,6 +746,10 @@
             "en": "UERR - Universidade Estadual De Roraima",
             "pt-br": "UERR - Universidade Estadual De Roraima"
         },
+        "https://cafe.ufam.edu.br/idp/shibboleth": {
+            "en": "UFAM - Universidade Federal do Amazonas",
+            "pt-br": "UFAM - Universidade Federal do Amazonas"
+        },
         "https://cafe.ufba.br/idp/shibboleth": {
             "en": "UFBA - Universidade Federal da Bahia",
             "pt-br": "UFBA - Universidade Federal da Bahia"
@@ -2238,10 +2242,6 @@
             "en": "MINZU UNIVERSITY OF CHINA",
             "zh": "中央民族大学(MINZU UNIVERSITY OF CHINA)"
         },
-        "https://idp-lib.nefu.edu.cn/idp/shibboleth": {
-            "en": "Northeast Forestry University",
-            "zh": "东北林业大学(Northeast Forestry University)"
-        },
         "https://idp-lib.nenu.edu.cn/idp/shibboleth": {
             "en": "Northeast Normal University",
             "zh": "东北师范大学(Northeast Normal University)"
@@ -3553,6 +3553,10 @@
         "https://idp.shmtu.edu.cn/idp/shibboleth": {
             "en": "Shanghai Maritime University",
             "zh": "上海海事大学(Shanghai Maritime University)"
+        },
+        "https://idp.shnyu.edu.cn/idp/shibboleth": {
+            "en": "Shanghai New York University",
+            "zh": "上海纽约大学(Shanghai New York University)"
         },
         "https://idp.shu.edu.cn/idp/shibboleth": {
             "en": "Shanghai University",
@@ -13455,6 +13459,10 @@
             "en": "National Library of Sweden",
             "sv": "Kungliga biblioteket"
         },
+        "http://adfs.rkh.se/adfs/services/trust": {
+            "en": "Swedish Red Cross University College",
+            "sv": "Röda Korsets Högskola"
+        },
         "http://adfs.sp.se/adfs/services/trust": {
             "en": "RISE Research Institutes of Sweden",
             "sv": "RISE Research Institutes of Sweden"
@@ -14129,6 +14137,10 @@
         "https://kimlik.bartin.edu.tr/idp/shibboleth": {
             "en": "Bartın University",
             "tr": "Bartın Üniversitesi"
+        },
+        "https://kimlik.bau.edu.tr/simplesaml/saml2/idp/metadata.php": {
+            "en": "Bahçeşehir University",
+            "tr": "Bahçeşehir Üniversitesi"
         },
         "https://kimlik.bayburt.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Bayburt University",
