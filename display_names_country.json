@@ -8771,8 +8771,8 @@
             "fr": "INSA Lyon"
         },
         "https://multipass.imt-lille-douai.fr/idp/shibboleth": {
-            "en": "IMT Lille Douai",
-            "fr": "IMT Lille Douai"
+            "en": "IMT Nord Europe",
+            "fr": "IMT Nord Europe"
         },
         "https://papangue.vetagro-sup.fr/idp/shibboleth": {
             "en": "IDP vetagro sup PROD",
@@ -12362,6 +12362,9 @@
         "https://hosted-login.tuakiri.ac.nz/hosting/reannz.co.nz/idp/shibboleth": {
             "en": "REANNZ"
         },
+        "https://hosted-login.tuakiri.ac.nz/hosting/toiohomai.ac.nz/idp/shibboleth": {
+            "en": "Toi Ohomai"
+        },
         "https://idp.agresearch.co.nz/idp/shibboleth": {
             "en": "AgResearch Ltd"
         },
@@ -12438,6 +12441,9 @@
         },
         "http://adfs.ndc.edu.om/adfs/services/trust": {
             "en": "National Defense College"
+        },
+        "http://adfs.nu.edu.om/adfs/services/trust": {
+            "en": "National University of Science and Technology"
         },
         "http://adfs.omren.om/adfs/services/trust": {
             "en": "OMREN"
@@ -12873,6 +12879,10 @@
         "https://sso.man.poznan.pl/idp/shibboleth": {
             "en": "PSNC - Poznan Supercomputing and Networking Center",
             "pl": "PCSS - Poznańskie Centrum Superkomputerowo-Sieciowe"
+        },
+        "https://sso.nencki.edu.pl/idp/shibboleth": {
+            "en": "Nencki Institute of Experimental Biology PAS",
+            "pl": "Instytut Biologii Doświadczalnej PAN im. Marcelego Nenckiego"
         },
         "https://sso.umk.pl/idp/shibboleth": {
             "en": "Nicolaus Copernicus University in Torun",

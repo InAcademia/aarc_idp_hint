@@ -226,6 +226,10 @@
         "en": "PSNC - Poznan Supercomputing and Networking Center",
         "pl": "PCSS - Poznańskie Centrum Superkomputerowo-Sieciowe"
     },
+    "https://sso.nencki.edu.pl/idp/shibboleth": {
+        "en": "Nencki Institute of Experimental Biology PAS",
+        "pl": "Instytut Biologii Doświadczalnej PAN im. Marcelego Nenckiego"
+    },
     "https://sso.umk.pl/idp/shibboleth": {
         "en": "Nicolaus Copernicus University in Torun",
         "pl": "Uniwersytet Mikołaja Kopernika w Toruniu"

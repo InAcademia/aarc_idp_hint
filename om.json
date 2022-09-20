@@ -50,6 +50,9 @@
     "http://adfs.ndc.edu.om/adfs/services/trust": {
         "en": "National Defense College"
     },
+    "http://adfs.nu.edu.om/adfs/services/trust": {
+        "en": "National University of Science and Technology"
+    },
     "http://adfs.omren.om/adfs/services/trust": {
         "en": "OMREN"
     },
