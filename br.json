@@ -151,6 +151,10 @@
         "en": "SETREM - Sociedade Educacional Tres de Maio",
         "pt-br": "SETREM - Sociedade Educacional Tres de Maio"
     },
+    "https://cafe.ucs.br/idp/shibboleth": {
+        "en": "UCS - Universidade de Caxias do Sul",
+        "pt-br": "UCS - Universidade de Caxias do Sul"
+    },
     "https://cafe.udesc.br/idp/shibboleth": {
         "en": "UDESC - Universidade do Estado de Santa Catarina",
         "pt-br": "UDESC - Universidade do Estado de Santa Catarina"
@@ -262,10 +266,6 @@
     "https://cafe4.ufsc.br/idp/shibboleth": {
         "en": "UFSC - Universidade Federal de Santa Catarina",
         "pt-br": "UFSC - Universidade Federal de Santa Catarina"
-    },
-    "https://cafeidp.ucs.br/idp/shibboleth": {
-        "en": "UCS - Universidade de Caxias do Sul",
-        "pt-br": "UCS - Universidade de Caxias do Sul"
     },
     "https://cafeidp.unemat.br/idp/shibboleth": {
         "en": "UNEMAT - Universidade do Estado de Mato Grosso",
@@ -458,6 +458,10 @@
     "https://idp.rnp.br/idp/shibboleth": {
         "en": "RNP - Rede Nacional de Ensino e Pesquisa",
         "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
+    },
+    "https://idp.uel.br/idp/shibboleth": {
+        "en": "UEL - Universidade Estadual de Londrina",
+        "pt-br": "UEL - Universidade Estadual de Londrina"
     },
     "https://idp.uenf.br/idp/shibboleth": {
         "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
@@ -714,6 +718,10 @@
     "https://shibboleth-s1.ufersa.edu.br/idp/shibboleth": {
         "en": "UFERSA - Universidade Federal Rural Do Semi-Arido",
         "pt-br": "UFERSA - Universidade Federal Rural Do Semi-Arido"
+    },
+    "https://shibboleth.ansp.br/idp/shibboleth": {
+        "en": "ANSP - an Academic Network at Sao Paulo",
+        "pt-br": "ANSP - an Academic Network at Sao Paulo"
     },
     "https://shibboleth.cetem.gov.br/idp/shibboleth": {
         "en": "CETEM - Centro de Tecnologia Mineral",
