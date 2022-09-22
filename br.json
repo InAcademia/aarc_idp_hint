@@ -55,6 +55,10 @@
         "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
         "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
     },
+    "https://cafe.cprm.gov.br/idp/shibboleth": {
+        "en": "CPRM - Companhia de Pesquisa de Recursos Minerais",
+        "pt-br": "CPRM - Companhia de Pesquisa de Recursos Minerais"
+    },
     "https://cafe.dti.ufv.br/idp/shibboleth": {
         "en": "UFV - Universidade Federal de Vicosa",
         "pt-br": "UFV - Universidade Federal de Vicosa"
@@ -191,10 +195,6 @@
         "en": "UFPI - Universidade Federal do Piaui",
         "pt-br": "UFPI - Universidade Federal do Piaui"
     },
-    "https://cafe.ufsb.edu.br/idp/shibboleth": {
-        "en": "UFSB - Universidade Federal do Sul da Bahia",
-        "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
-    },
     "https://cafe.unesc.net/idp/shibboleth": {
         "en": "UNESC - Universidade do Extremo Sul Catarinense",
         "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
@@ -246,6 +246,10 @@
     "https://cafe02.ifes.edu.br/idp/shibboleth": {
         "en": "IFES - Instituto Federal do Espirito Santo",
         "pt-br": "IFES - Instituto Federal do Espirito Santo"
+    },
+    "https://cafe2.cecierj.edu.br/idp/shibboleth": {
+        "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
+        "pt-br": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ"
     },
     "https://cafe2.unesp.br/idp/shibboleth": {
         "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
@@ -670,10 +674,6 @@
     "https://login.ufrgs.br/idp/shibboleth": {
         "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
         "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
-    },
-    "https://lrjidp02.cprm.gov.br/idp/shibboleth": {
-        "en": "CPRM - Companhia de Pesquisa de Recursos Minerais",
-        "pt-br": "CPRM - Companhia de Pesquisa de Recursos Minerais"
     },
     "https://marconi.cdtn.br/idp/shibboleth": {
         "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",

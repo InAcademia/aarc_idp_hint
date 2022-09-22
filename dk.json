@@ -176,6 +176,11 @@
         "da": "Háskóli Íslands",
         "en": "University of Iceland"
     },
+    "https://idp.lbhi.is": {
+        "da": "Landbúnaðarháskóli Íslands",
+        "en": "https://idp.lbhi.is",
+        "is": "Landbúnaðarháskóli Íslands"
+    },
     "https://idp.umit.dk": {
         "da": "Uddannelsesministeriets It",
         "en": "IT Department of the Ministry of Higher Education and Science"

@@ -251,6 +251,10 @@
         "en": "Szent Pál Akadémia",
         "hu": "Szent Pál Akadémia"
     },
+    "https://sso.unithe.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Tokaj",
+        "hu": "Tokaj-Hegyalja Egyetem"
+    },
     "https://vho.eduid.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "eduID.hu Virtual Home (VHO)",
         "hu": "eduID.hu Virtual Home (VHO)"

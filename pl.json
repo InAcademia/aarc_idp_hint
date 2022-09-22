@@ -71,6 +71,10 @@
         "en": "Academy of Art in Szczecin",
         "pl": "Akademia Sztuki w Szczecinie"
     },
+    "https://idp.amw.gdynia.pl/Saml2IDP/proxy.xml": {
+        "en": "Polish Naval Academy",
+        "pl": "Akademia Marynarki Wojennej"
+    },
     "https://idp.pollub.pl/shibboleth": {
         "en": "Lublin University of Technology",
         "pl": "Politechnika Lubelska"

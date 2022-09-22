@@ -648,6 +648,10 @@
             "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
             "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
         },
+        "https://cafe.cprm.gov.br/idp/shibboleth": {
+            "en": "CPRM - Companhia de Pesquisa de Recursos Minerais",
+            "pt-br": "CPRM - Companhia de Pesquisa de Recursos Minerais"
+        },
         "https://cafe.dti.ufv.br/idp/shibboleth": {
             "en": "UFV - Universidade Federal de Vicosa",
             "pt-br": "UFV - Universidade Federal de Vicosa"
@@ -784,10 +788,6 @@
             "en": "UFPI - Universidade Federal do Piaui",
             "pt-br": "UFPI - Universidade Federal do Piaui"
         },
-        "https://cafe.ufsb.edu.br/idp/shibboleth": {
-            "en": "UFSB - Universidade Federal do Sul da Bahia",
-            "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
-        },
         "https://cafe.unesc.net/idp/shibboleth": {
             "en": "UNESC - Universidade do Extremo Sul Catarinense",
             "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
@@ -839,6 +839,10 @@
         "https://cafe02.ifes.edu.br/idp/shibboleth": {
             "en": "IFES - Instituto Federal do Espirito Santo",
             "pt-br": "IFES - Instituto Federal do Espirito Santo"
+        },
+        "https://cafe2.cecierj.edu.br/idp/shibboleth": {
+            "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
+            "pt-br": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ"
         },
         "https://cafe2.unesp.br/idp/shibboleth": {
             "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
@@ -1263,10 +1267,6 @@
         "https://login.ufrgs.br/idp/shibboleth": {
             "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
             "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
-        },
-        "https://lrjidp02.cprm.gov.br/idp/shibboleth": {
-            "en": "CPRM - Companhia de Pesquisa de Recursos Minerais",
-            "pt-br": "CPRM - Companhia de Pesquisa de Recursos Minerais"
         },
         "https://marconi.cdtn.br/idp/shibboleth": {
             "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
@@ -6709,6 +6709,11 @@
             "da": "Háskóli Íslands",
             "en": "University of Iceland"
         },
+        "https://idp.lbhi.is": {
+            "da": "Landbúnaðarháskóli Íslands",
+            "en": "https://idp.lbhi.is",
+            "is": "Landbúnaðarháskóli Íslands"
+        },
         "https://idp.umit.dk": {
             "da": "Uddannelsesministeriets It",
             "en": "IT Department of the Ministry of Higher Education and Science"
@@ -7463,6 +7468,10 @@
         "https://www.rediris.es/sir/roaidp": {
             "en": "Real Instituto y Observatorio de la Armada en San Fernando",
             "es": "Real Instituto y Observatorio de la Armada en San Fernando"
+        },
+        "https://www.rediris.es/sir/sacylidp": {
+            "en": "Sanidad de Castilla y Leon",
+            "es": "Sanidad de Castilla y León"
         },
         "https://www.rediris.es/sir/socibidp": {
             "ca": "Consorcio para el disenyo, construccion y explotacion del Sistemade Observacion Costero de las Illes Balears",
@@ -9744,6 +9753,10 @@
         "https://sso.uniszpa.hu/sso/saml2/idp/metadata.php": {
             "en": "Szent Pál Akadémia",
             "hu": "Szent Pál Akadémia"
+        },
+        "https://sso.unithe.hu/simplesaml/saml2/idp/metadata.php": {
+            "en": "University of Tokaj",
+            "hu": "Tokaj-Hegyalja Egyetem"
         },
         "https://vho.eduid.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "eduID.hu Virtual Home (VHO)",
@@ -12739,6 +12752,10 @@
             "en": "Academy of Art in Szczecin",
             "pl": "Akademia Sztuki w Szczecinie"
         },
+        "https://idp.amw.gdynia.pl/Saml2IDP/proxy.xml": {
+            "en": "Polish Naval Academy",
+            "pl": "Akademia Marynarki Wojennej"
+        },
         "https://idp.pollub.pl/shibboleth": {
             "en": "Lublin University of Technology",
             "pl": "Politechnika Lubelska"
@@ -14169,6 +14186,10 @@
         "https://kimlik.bayburt.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Bayburt University",
             "tr": "Bayburt Üniversitesi"
+        },
+        "https://kimlik.beun.edu.tr/idp/saml2/idp/metadata.php": {
+            "en": "Zonguldak Bülent Ecevit University",
+            "tr": "Zonguldak Bülent Ecevit Üniversitesi"
         },
         "https://kimlik.beykent.edu.tr/idp/shibboleth": {
             "en": "Beykent University",
