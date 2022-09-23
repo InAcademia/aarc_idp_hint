@@ -47,6 +47,10 @@
         "en": "Swedish Defence University",
         "sv": "Försvarshögskolan"
     },
+    "http://sts.mah.se/adfs/services/trust": {
+        "en": "Malmö University (MFA)",
+        "sv": "Malmö universitet (MFA)"
+    },
     "http://webproxysrv.uniarts.se/adfs/services/trust": {
         "en": "Stockholm University of the Arts",
         "sv": "Stockholms konstnärliga högskola"
