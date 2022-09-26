@@ -125,9 +125,6 @@
     "https://idp.icem.edu.om/idp/shibboleth": {
         "en": "International College of Engineering and Management (OM-KID)"
     },
-    "https://idp.ict.edu.om/idp": {
-        "en": "University of Technology and Applied Sciences-Ibra(shibboleth)"
-    },
     "https://idp.omancollege.edu.om/idp/shibboleth": {
         "en": "Oman College Of Management and Technology (OM-KID)"
     },
@@ -217,6 +214,9 @@
     },
     "https://idpomren.hct.edu.om/idp": {
         "en": "University of Technology and Applied Sciences - Muscat (shibboleth)"
+    },
+    "https://idpomren.ict.edu.om/idp": {
+        "en": "University of technology and applied science, ibra (shibboleth)"
     },
     "https://idpomren.majancollege.edu.om/idp": {
         "en": "Majan University College(shibboleth)"
