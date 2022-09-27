@@ -118,6 +118,9 @@
     "https://secure-acc.etnic.be/nidp/saml2/metadata": {
         "en": "MFWB"
     },
+    "https://secure.etnic.be/nidp/saml2/metadata": {
+        "en": "FWB"
+    },
     "https://shibboleth.ephec.be/idp/shibboleth": {
         "en": "EPHEC"
     },
@@ -129,6 +132,9 @@
     },
     "https://sts.windows.net/2d714a65-b97f-41a9-8ff1-ec2cdf7df5cd/": {
         "en": "VIB"
+    },
+    "https://sts.windows.net/a72d5a72-25ee-40f0-9bd1-067cb5b770d4/": {
+        "en": "imec"
     },
     "urn:mace:kuleuven.be:kulassoc:kuleuven.be": {
         "en": "KU Leuven Association",

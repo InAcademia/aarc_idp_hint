@@ -525,6 +525,9 @@
         "https://secure-acc.etnic.be/nidp/saml2/metadata": {
             "en": "MFWB"
         },
+        "https://secure.etnic.be/nidp/saml2/metadata": {
+            "en": "FWB"
+        },
         "https://shibboleth.ephec.be/idp/shibboleth": {
             "en": "EPHEC"
         },
@@ -536,6 +539,9 @@
         },
         "https://sts.windows.net/2d714a65-b97f-41a9-8ff1-ec2cdf7df5cd/": {
             "en": "VIB"
+        },
+        "https://sts.windows.net/a72d5a72-25ee-40f0-9bd1-067cb5b770d4/": {
+            "en": "imec"
         },
         "urn:mace:kuleuven.be:kulassoc:kuleuven.be": {
             "en": "KU Leuven Association",
@@ -787,6 +793,10 @@
         "https://cafe.ufpi.br/idp/shibboleth": {
             "en": "UFPI - Universidade Federal do Piaui",
             "pt-br": "UFPI - Universidade Federal do Piaui"
+        },
+        "https://cafe.ufsb.edu.br/idp/shibboleth": {
+            "en": "UFSB - Universidade Federal do Sul da Bahia",
+            "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
         },
         "https://cafe.unesc.net/idp/shibboleth": {
             "en": "UNESC - Universidade do Extremo Sul Catarinense",
@@ -2964,6 +2974,10 @@
             "en": "Harbin Institute of Technology",
             "zh": "哈尔滨工业大学(Harbin Institute of Technology)"
         },
+        "https://idp.hkust-gz.edu.cn/idp/shibboleth": {
+            "en": "The Hong Kong University of Science and Technology (Guangzhou)",
+            "zh": "香港科技大学（广州）(The Hong Kong University of Science and Technology (Guangzhou))"
+        },
         "https://idp.hljucm.edu.cn/idp/shibboleth": {
             "en": "Heilongjiang University Of Chinese Medicine",
             "zh": "黑龙江中医药大学(Heilongjiang University Of Chinese Medicine)"
@@ -3799,6 +3813,10 @@
         "https://idp.tzu.edu.cn/idp/shibboleth": {
             "en": "Taizhou University of Jiangsu",
             "zh": "泰州学院(Taizhou University of Jiangsu)"
+        },
+        "https://idp.ucass.edu.cn/idp/shibboleth": {
+            "en": "University of Chinese Academy of Social Sciences",
+            "zh": "中国社会科学院大学(University of Chinese Academy of Social Sciences)"
         },
         "https://idp.ujn.edu.cn/idp/shibboleth": {
             "en": "University of Jinan",
@@ -7758,6 +7776,10 @@
         "http://fs.ymparisto.fi/adfs/services/trust": {
             "en": "Finnish Environment Institute",
             "sv": "Finlands miljöcentral"
+        },
+        "http://tunnistaminen.thl.fi/adfs/services/trust": {
+            "en": "Finnish Institute for Health and Welfare (THL)",
+            "sv": "Institutet för hälsa och välfärd (THL)"
         },
         "http://tunnistus.laurea.fi/adfs/services/trust": {
             "en": "Laurea University of Applied Sciences",
@@ -17538,9 +17560,6 @@
         },
         "https://sso.udmercy.edu/idp": {
             "en": "University of Detroit Mercy"
-        },
-        "https://sso.umes.edu/idp/shibboleth": {
-            "en": "University of Maryland Eastern Shore"
         },
         "https://sso.uml.edu/idp": {
             "en": "University of Massachusetts Lowell"

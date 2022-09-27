@@ -195,6 +195,10 @@
         "en": "UFPI - Universidade Federal do Piaui",
         "pt-br": "UFPI - Universidade Federal do Piaui"
     },
+    "https://cafe.ufsb.edu.br/idp/shibboleth": {
+        "en": "UFSB - Universidade Federal do Sul da Bahia",
+        "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
+    },
     "https://cafe.unesc.net/idp/shibboleth": {
         "en": "UNESC - Universidade do Extremo Sul Catarinense",
         "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"

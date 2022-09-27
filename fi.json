@@ -7,6 +7,10 @@
         "en": "Finnish Environment Institute",
         "sv": "Finlands miljöcentral"
     },
+    "http://tunnistaminen.thl.fi/adfs/services/trust": {
+        "en": "Finnish Institute for Health and Welfare (THL)",
+        "sv": "Institutet för hälsa och välfärd (THL)"
+    },
     "http://tunnistus.laurea.fi/adfs/services/trust": {
         "en": "Laurea University of Applied Sciences",
         "sv": "Laurea yrkehögskola"
