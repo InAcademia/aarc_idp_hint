@@ -163,6 +163,10 @@
         "en": "Wenzhou-Kean University",
         "zh": "温州肯恩大学(Wenzhou-Kean University)"
     },
+    "https://idp-lib.ytu.edu.cn/idp/shibboleth": {
+        "en": "Yantai University",
+        "zh": "烟台大学(Yantai University)"
+    },
     "https://idp-lib.zjhu.edu.cn/idp/shibboleth": {
         "en": "Huzhou University",
         "zh": "湖州师范学院(Huzhou University)"

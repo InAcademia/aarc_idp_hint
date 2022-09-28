@@ -2334,6 +2334,10 @@
             "en": "Wenzhou-Kean University",
             "zh": "温州肯恩大学(Wenzhou-Kean University)"
         },
+        "https://idp-lib.ytu.edu.cn/idp/shibboleth": {
+            "en": "Yantai University",
+            "zh": "烟台大学(Yantai University)"
+        },
         "https://idp-lib.zjhu.edu.cn/idp/shibboleth": {
             "en": "Huzhou University",
             "zh": "湖州师范学院(Huzhou University)"
@@ -8919,6 +8923,10 @@
             "en": "University of Corsica",
             "fr": "Université de Corse"
         },
+        "https://shibboleth.univ-evry.fr/idp/shibboleth": {
+            "en": "University Evry Val d'Essonne (test)",
+            "fr": "Université d'Evry Val d'Essonne (en test)"
+        },
         "https://shibboleth.univ-grenoble-alpes.fr/idp/shibboleth": {
             "en": "University Grenoble Alpes - UGA",
             "fr": "Université Grenoble Alpes - UGA"
@@ -12944,6 +12952,10 @@
         "https://sso.usz.edu.pl/simplesaml/saml2/idp/metadata.php": {
             "en": "University of Szczecin",
             "pl": "Uniwersytet Szczeciński"
+        },
+        "https://sso.wst.com.pl/idp/shibboleth": {
+            "en": "University of Technology in Katowice",
+            "pl": "Wyższa Szkoła Techniczna w Katowicach"
         }
     },
     "pt": {

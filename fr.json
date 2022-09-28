@@ -991,6 +991,10 @@
         "en": "University of Corsica",
         "fr": "Université de Corse"
     },
+    "https://shibboleth.univ-evry.fr/idp/shibboleth": {
+        "en": "University Evry Val d'Essonne (test)",
+        "fr": "Université d'Evry Val d'Essonne (en test)"
+    },
     "https://shibboleth.univ-grenoble-alpes.fr/idp/shibboleth": {
         "en": "University Grenoble Alpes - UGA",
         "fr": "Université Grenoble Alpes - UGA"

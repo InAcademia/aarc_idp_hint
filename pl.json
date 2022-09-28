@@ -241,5 +241,9 @@
     "https://sso.usz.edu.pl/simplesaml/saml2/idp/metadata.php": {
         "en": "University of Szczecin",
         "pl": "Uniwersytet Szczeciński"
+    },
+    "https://sso.wst.com.pl/idp/shibboleth": {
+        "en": "University of Technology in Katowice",
+        "pl": "Wyższa Szkoła Techniczna w Katowicach"
     }
 }
