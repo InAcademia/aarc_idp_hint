@@ -467,6 +467,10 @@
         "en": "MAST - Museu de Astronomia e Ciencias Afins",
         "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
     },
+    "https://idp.puc-campinas.edu.br/idp/shibboleth": {
+        "en": "PUCCAMP - Pontificia Universidade Catolica de Campinas",
+        "pt-br": "PUCCAMP - Pontificia Universidade Catolica de Campinas"
+    },
     "https://idp.rnp.br/idp/shibboleth": {
         "en": "RNP - Rede Nacional de Ensino e Pesquisa",
         "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"

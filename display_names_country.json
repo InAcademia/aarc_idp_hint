@@ -391,12 +391,6 @@
             "en": "The University of Queensland"
         }
     },
-    "az": {
-        "https://idp1.azsciencenet.az/simplesaml/saml2/idp/metadata.php": {
-            "az": "AzScienceNet",
-            "en": "AzScienceNet"
-        }
-    },
     "bd": {
         "https://idp.bdren.net.bd/idp/shibboleth": {
             "en": "Bangladesh Research and Education Network"
@@ -1065,6 +1059,10 @@
         "https://idp.mast.br/idp/shibboleth": {
             "en": "MAST - Museu de Astronomia e Ciencias Afins",
             "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
+        },
+        "https://idp.puc-campinas.edu.br/idp/shibboleth": {
+            "en": "PUCCAMP - Pontificia Universidade Catolica de Campinas",
+            "pt-br": "PUCCAMP - Pontificia Universidade Catolica de Campinas"
         },
         "https://idp.rnp.br/idp/shibboleth": {
             "en": "RNP - Rede Nacional de Ensino e Pesquisa",
