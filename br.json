@@ -115,6 +115,10 @@
         "en": "IME - Instituto Militar de Engenharia",
         "pt-br": "IME - Instituto Militar de Engenharia"
     },
+    "https://cafe.ita.br/idp/shibboleth": {
+        "en": "ITA - Instituto Tecnologico de Aeronautica",
+        "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
+    },
     "https://cafe.mamiraua.org.br/idp/shibboleth": {
         "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
         "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
@@ -687,10 +691,6 @@
         "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
         "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
     },
-    "https://marconi.cdtn.br/idp/shibboleth": {
-        "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
-        "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
-    },
     "https://onca.museu-goeldi.br/idp/shibboleth": {
         "en": "MPEG - Museu Paraense Emilio Goeldi",
         "pt-br": "MPEG - Museu Paraense Emilio Goeldi"
@@ -702,6 +702,10 @@
     "https://pct-guama-idp-cafe.fundacaoguama.org.br/idp/shibboleth": {
         "en": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
         "pt-br": "GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
+    },
+    "https://planck.cdtn.br/idp/shibboleth": {
+        "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
+        "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
     },
     "https://plv037.mcom.gov.br/idp/shibboleth": {
         "en": "MCOM - Ministerio das Comunicacoes",
