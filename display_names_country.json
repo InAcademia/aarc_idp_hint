@@ -12067,10 +12067,6 @@
             "en": "NHL Stenden",
             "nl": "NHL Stenden"
         },
-        "http://sts.designacademy.nl/adfs/services/trust": {
-            "en": "Design Academy Eindhoven",
-            "nl": "Design Academy Eindhoven"
-        },
         "http://sts.drenthecollege.nl/adfs/services/trust": {
             "en": "Drenthe College",
             "nl": "Drenthe College"
@@ -12256,8 +12252,8 @@
             "nl": "Deltion College"
         },
         "https://sts.windows.net/2c1cfd24-625c-489e-b1fc-8f745830ea67/": {
-            "en": "Design Academy Eindhoven [MS Azure AD]",
-            "nl": "Design Academy Eindhoven [MS Azure AD]"
+            "en": "Design Academy Eindhoven",
+            "nl": "Design Academy Eindhoven"
         },
         "https://sts.windows.net/2dd9f889-dc46-4d53-b9e2-ed90804e2a87/": {
             "en": "Onderwijsgroep Tilburg",
