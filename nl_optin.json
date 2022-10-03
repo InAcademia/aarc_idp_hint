@@ -119,10 +119,6 @@
         "en": "NHL Stenden",
         "nl": "NHL Stenden"
     },
-    "http://sts.designacademy.nl/adfs/services/trust": {
-        "en": "Design Academy Eindhoven",
-        "nl": "Design Academy Eindhoven"
-    },
     "http://sts.hhs.nl/adfs/services/trust": {
         "en": "The Hague University of Applied Science (THUAS)",
         "nl": "De Haagse Hogeschool (HHS)"
@@ -220,8 +216,8 @@
         "nl": "Deltion College"
     },
     "https://sts.windows.net/2c1cfd24-625c-489e-b1fc-8f745830ea67/": {
-        "en": "Design Academy Eindhoven [MS Azure AD]",
-        "nl": "Design Academy Eindhoven [MS Azure AD]"
+        "en": "Design Academy Eindhoven",
+        "nl": "Design Academy Eindhoven"
     },
     "https://sts.windows.net/49d50454-13ed-4a49-9fb0-7d99214fadf4/": {
         "en": "Hogeschool KPZ",
