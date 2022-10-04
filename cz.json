@@ -407,6 +407,10 @@
         "cs": "VŠB - TU Ostrava",
         "en": "VSB - TU Ostrava"
     },
+    "https://idp.vsci.cz/idp/shibboleth": {
+        "cs": "Vysoká škola CEVRO Institut, z.ú.",
+        "en": "CEVRO Institute University, o.p.s."
+    },
     "https://idp.vsfs.cz/idp/shibboleth": {
         "cs": "Vysoká škola finanční a správní",
         "en": "University of Finance and Administration"

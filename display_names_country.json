@@ -1216,6 +1216,10 @@
             "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
             "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
         },
+        "https://idpcafe.upe.br/idp/shibboleth": {
+            "en": "UPE - Universidade de Pernambuco",
+            "pt-br": "UPE - Universidade de Pernambuco"
+        },
         "https://idpcafe.usp.br/idp/shibboleth": {
             "en": "USP - Universidade de Sao Paulo",
             "pt-br": "USP - Universidade de Sao Paulo"
@@ -1384,10 +1388,6 @@
             "en": "APTSJC - Associacao Parque Tecnologico Sao Jose dos Campos",
             "pt-br": "APTSJC - Associacao Parque Tecnologico Sao Jose dos Campos"
         },
-        "https://shibboleth.ueg.br/idp/shibboleth": {
-            "en": "UEG - Universidade Estadual de Goias",
-            "pt-br": "UEG - Universidade Estadual de Goias"
-        },
         "https://shibboleth.uezo.edu.br/idp/shibboleth": {
             "en": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste",
             "pt-br": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste"
@@ -1467,6 +1467,10 @@
         "https://shibboleth4.cnpem.br/idp/shibboleth": {
             "en": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais",
             "pt-br": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais"
+        },
+        "https://shibboleth4.ueg.br/idp/shibboleth": {
+            "en": "UEG - Universidade Estadual de Goias",
+            "pt-br": "UEG - Universidade Estadual de Goias"
         },
         "https://shibboleth4.uem.br/idp/shibboleth": {
             "en": "UEM - Universidade Estadual de Maringa",
@@ -4735,6 +4739,10 @@
         "https://idp.vsb.cz/idp/shibboleth": {
             "cs": "VŠB - TU Ostrava",
             "en": "VSB - TU Ostrava"
+        },
+        "https://idp.vsci.cz/idp/shibboleth": {
+            "cs": "Vysoká škola CEVRO Institut, z.ú.",
+            "en": "CEVRO Institute University, o.p.s."
         },
         "https://idp.vsfs.cz/idp/shibboleth": {
             "cs": "Vysoká škola finanční a správní",
@@ -12454,7 +12462,7 @@
     },
     "om": {
         "http://Adfs.hct.edu.om/adfs/services/trust": {
-            "en": "University of Technology and Applied Sciences (Higher College of Technology)"
+            "en": "University of Technology and Applied Sciences - Muscat"
         },
         "http://adfs.act.edu.om/adfs/services/trust": {
             "en": "University of Technology and Applied Sciences (Al Musanna)"
