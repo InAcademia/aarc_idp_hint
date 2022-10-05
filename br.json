@@ -575,6 +575,10 @@
         "en": "UFCA - Universidade Federal do Cariri",
         "pt-br": "UFCA - Universidade Federal do Cariri"
     },
+    "https://idp1.uepb.edu.br/idp/shibboleth": {
+        "en": "UEPB - Universidade Estadual da Paraiba",
+        "pt-br": "UEPB - Universidade Estadual da Paraiba"
+    },
     "https://idp2.dmz.inpe.br/idp/shibboleth": {
         "en": "INPE - Instituto Nacional de Pesquisas Espaciais",
         "pt-br": "INPE - Instituto Nacional de Pesquisas Espaciais"

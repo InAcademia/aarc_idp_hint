@@ -24,7 +24,7 @@
         "en": "PA State System of Higher Education"
     },
     "http://adfs.unco.edu/adfs/services/trust": {
-        "en": "University of Northern Colorado"
+        "en": "University of Northern Colorado OLD"
     },
     "http://adfs.uwsp.edu/adfs/services/trust": {
         "en": "University of Wisconsin - Stevens Point"
@@ -1197,7 +1197,7 @@
         "en": "University of Massachusetts Lowell"
     },
     "https://sso.unco.edu/idp": {
-        "en": "University of Northern Colorado New"
+        "en": "University of Northern Colorado"
     },
     "https://sso.union.edu/idp/shibboleth": {
         "en": "Union College"

@@ -1168,6 +1168,10 @@
             "en": "UFCA - Universidade Federal do Cariri",
             "pt-br": "UFCA - Universidade Federal do Cariri"
         },
+        "https://idp1.uepb.edu.br/idp/shibboleth": {
+            "en": "UEPB - Universidade Estadual da Paraiba",
+            "pt-br": "UEPB - Universidade Estadual da Paraiba"
+        },
         "https://idp2.dmz.inpe.br/idp/shibboleth": {
             "en": "INPE - Instituto Nacional de Pesquisas Espaciais",
             "pt-br": "INPE - Instituto Nacional de Pesquisas Espaciais"
@@ -5753,10 +5757,6 @@
         "https://idp.lrz.de/idp/shibboleth": {
             "de": "Leibniz-Rechenzentrum (LRZ)",
             "en": "Leibniz Supercomputing Centre (LRZ)"
-        },
-        "https://idp.mfo.de/idp/shibboleth": {
-            "de": "Mathematisches Forschungsinstitut Oberwolfach gGmbH",
-            "en": "Mathematisches Forschungsinstitut Oberwolfach gGmbH"
         },
         "https://idp.mh-trossingen.de/idp/shibboleth": {
             "de": "Staatliche Hochschule für Musik Trossingen",
@@ -16417,7 +16417,7 @@
             "en": "PA State System of Higher Education"
         },
         "http://adfs.unco.edu/adfs/services/trust": {
-            "en": "University of Northern Colorado"
+            "en": "University of Northern Colorado OLD"
         },
         "http://adfs.uwsp.edu/adfs/services/trust": {
             "en": "University of Wisconsin - Stevens Point"
@@ -17590,7 +17590,7 @@
             "en": "University of Massachusetts Lowell"
         },
         "https://sso.unco.edu/idp": {
-            "en": "University of Northern Colorado New"
+            "en": "University of Northern Colorado"
         },
         "https://sso.union.edu/idp/shibboleth": {
             "en": "Union College"
