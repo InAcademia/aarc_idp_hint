@@ -1,0 +1,17 @@
+{
+    "https://asren-iam.noc.asren.org/idp/shibboleth": {
+        "en": "ASREN"
+    },
+    "https://asren-idp.noc.asren.org/simplesaml/saml2/idp/metadata.php": {
+        "en": "ASREN IdP"
+    },
+    "https://proxy.eduid.africa/idp/saml2": {
+        "en": "eduID.africa Proxy IdP"
+    },
+    "https://ubuntunet.eduid.africa/saml2/idp/metadata.php": {
+        "en": "UbuntuNet Alliance Staff IdP"
+    },
+    "https://wacren.wacren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "WACREN IDP"
+    }
+}

@@ -1,4 +1,21 @@
 {
+    "africa": {
+        "https://asren-iam.noc.asren.org/idp/shibboleth": {
+            "en": "ASREN"
+        },
+        "https://asren-idp.noc.asren.org/simplesaml/saml2/idp/metadata.php": {
+            "en": "ASREN IdP"
+        },
+        "https://proxy.eduid.africa/idp/saml2": {
+            "en": "eduID.africa Proxy IdP"
+        },
+        "https://ubuntunet.eduid.africa/saml2/idp/metadata.php": {
+            "en": "UbuntuNet Alliance Staff IdP"
+        },
+        "https://wacren.wacren.eduid.africa/saml2/idp/metadata.php": {
+            "en": "WACREN IDP"
+        }
+    },
     "al": {
         "https://idp.rash.al/simplesaml/saml2/idp/metadata.php": {
             "en": "Academic Network of Albania - RASH"
@@ -389,6 +406,12 @@
         },
         "urn:mace:federation.org.au:testfed:uq.edu.au": {
             "en": "The University of Queensland"
+        }
+    },
+    "az": {
+        "https://idp1.azsciencenet.az/simplesaml/saml2/idp/metadata.php": {
+            "az": "AzScienceNet",
+            "en": "AzScienceNet"
         }
     },
     "bd": {
@@ -11262,6 +11285,14 @@
             "ja": "中部大学"
         }
     },
+    "ke": {
+        "https://idp-01.federation.ke/simplesaml/saml2/idp/metadata.php": {
+            "en": "Kenya Education Network (KENET)"
+        },
+        "https://idp-k3.federation.ke/simplesaml/saml2/idp/metadata.php": {
+            "en": "KENET Staff Identity Provider"
+        }
+    },
     "kr": {
         "https://auth.ibs.re.kr/idp/simplesamlphp": {
             "en": "Institute for Basic Science"
@@ -11812,8 +11843,8 @@
             "nl": "DIFFER"
         },
         "http://adfs-farm.noorderpoort.nl/adfs/services/trust": {
-            "en": "Noorderpoort College",
-            "nl": "Noorderpoort College"
+            "en": "Noorderpoort",
+            "nl": "Noorderpoort"
         },
         "http://adfs-p.summacollege.nl/adfs/services/trust": {
             "en": "Summa College",
@@ -13387,6 +13418,20 @@
         "https://sso.tuiasi.ro/auth/realms/TUIASI": {
             "en": "Gheorghe Asachi Technical University of Iaşi - TUIASI",
             "ro": "Universitatea Tehnică „Gheorghe Asachi” din Iaşi - TUIASI"
+        }
+    },
+    "rs": {
+        "https://iaai.admin.amres.ac.rs/idp/shibboleth": {
+            "en": "AMRES Admin",
+            "sr": "AMRES Admin"
+        },
+        "https://iaai.amres.ac.rs/idp/shibboleth": {
+            "en": "AMRES",
+            "sr": "AMRES"
+        },
+        "https://iaai.rcub.bg.ac.rs/idp/shibboleth": {
+            "en": "RCUB",
+            "sr": "RCUB"
         }
     },
     "ru": {

@@ -1,0 +1,14 @@
+{
+    "https://iaai.admin.amres.ac.rs/idp/shibboleth": {
+        "en": "AMRES Admin",
+        "sr": "AMRES Admin"
+    },
+    "https://iaai.amres.ac.rs/idp/shibboleth": {
+        "en": "AMRES",
+        "sr": "AMRES"
+    },
+    "https://iaai.rcub.bg.ac.rs/idp/shibboleth": {
+        "en": "RCUB",
+        "sr": "RCUB"
+    }
+}

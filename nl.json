@@ -8,8 +8,8 @@
         "nl": "DIFFER"
     },
     "http://adfs-farm.noorderpoort.nl/adfs/services/trust": {
-        "en": "Noorderpoort College",
-        "nl": "Noorderpoort College"
+        "en": "Noorderpoort",
+        "nl": "Noorderpoort"
     },
     "http://adfs-p.summacollege.nl/adfs/services/trust": {
         "en": "Summa College",
