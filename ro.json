@@ -34,6 +34,10 @@
         "en": "University of Bucharest - Shibboleth IdP",
         "ro": "Universitatea din București - Shibboleth IdP"
     },
+    "https://idp.univ-ovidius.ro/idp/shibboleth": {
+        "en": "Ovidius University of Constanta",
+        "ro": "Universitatea Ovidius Constanta"
+    },
     "https://idp.upg-ploiesti.ro/simplesaml/saml2/idp/metadata.php": {
         "en": "Petroleum Gas University of Ploiesti",
         "ro": "Universitatea Petrol-Gaze din Ploiesti"

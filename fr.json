@@ -79,10 +79,6 @@
         "en": "CROUS Strasbourg V3",
         "fr": "CROUS Strasbourg V3"
     },
-    "https://auth.ecole-navale.fr/idp/shibboleth": {
-        "en": "Ecole navale (new)",
-        "fr": "Ecole navale (nouveau)"
-    },
     "https://auth.id.sorbonne-universite.fr/saml/metadata": {
         "en": "Sorbonne University",
         "fr": "Sorbonne Université"
@@ -269,7 +265,7 @@
     },
     "https://idp-feder.pleiade.education.fr/idp/shibboleth": {
         "en": "Head office of french Ministries of Education, Higher Education, Research and Sports",
-        "fr": "Administration centrale MENJ/MESRI/MS"
+        "fr": "Administration centrale MENJ/MESR/MSJOP"
     },
     "https://idp-ihes.renater.fr/idp/shibboleth": {
         "en": "IHES - Institut des Hautes Études Scientifiques",
