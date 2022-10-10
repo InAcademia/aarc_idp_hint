@@ -6446,8 +6446,8 @@
             "en": "Hochschule Mainz"
         },
         "https://srv-idp.catalysis.de/idp/shibboleth": {
-            "de": "Leibniz-Institut für Katalyse e.V. (LIKAT)",
-            "en": "Leibniz Institute for Catalysis (LIKAT)"
+            "de": "Leibniz-Institut für Katalyse - LIKAT",
+            "en": "Leibniz Institute for Catalysis - LIKAT"
         },
         "https://sso.bfarm.de:8443/auth/realms/DFNConf": {
             "de": "Bundesinstitut für Arzneimittel und Medizinprodukte",
