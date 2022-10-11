@@ -623,6 +623,10 @@
             "en": "UFABC - Universidade Federal do ABC",
             "pt-br": "UFABC - Universidade Federal do ABC"
         },
+        "https://arabica.fapesp.br/idp/shibboleth": {
+            "en": "FAPESP - Fundacao de Amparo a Pesquisa do Estado de Sao Paulo",
+            "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa do Estado de Sao Paulo"
+        },
         "https://araripe.uece.br/idp/shibboleth": {
             "en": "UECE - Universidade Estadual do Ceara",
             "pt-br": "UECE - Universidade Estadual do Ceara"
@@ -1535,6 +1539,10 @@
             "en": "EMESCAM - Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria",
             "pt-br": "EMESCAM - Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria"
         },
+        "https://srv-idp-shib421.uefs.br/idp/shibboleth": {
+            "en": "UEFS - Universidade Estadual de Feira de Santana",
+            "pt-br": "UEFS - Universidade Estadual de Feira de Santana"
+        },
         "https://srv-idp.facens.br/idp/shibboleth": {
             "en": "FAC - FACENS - Faculdade de Engenharia de Sorocaba",
             "pt-br": "FAC - FACENS - Faculdade de Engenharia de Sorocaba"
@@ -1542,10 +1550,6 @@
         "https://srv-idp.fepecs.edu.br/idp/shibboleth": {
             "en": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude",
             "pt-br": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude"
-        },
-        "https://srv-idp.uefs.br/idp/shibboleth": {
-            "en": "UEFS - Universidade Estadual de Feira de Santana",
-            "pt-br": "UEFS - Universidade Estadual de Feira de Santana"
         },
         "https://srvcafe.cgee.org.br/idp/shibboleth": {
             "en": "CGEE - Centro de Gestao e Estudos Estrategicos",
@@ -8487,6 +8491,10 @@
         "https://idp.isara.fr/idp/shibboleth": {
             "en": "ISARA",
             "fr": "ISARA"
+        },
+        "https://idp.lecnam.net/idp/shibboleth": {
+            "en": "Le Cnam",
+            "fr": "Le Cnam"
         },
         "https://idp.lille.archi.fr/idp/shibboleth": {
             "en": "Ecole Nationale Supérieure d'Architecture et de Paysage de Lille",

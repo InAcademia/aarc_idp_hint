@@ -515,6 +515,10 @@
         "en": "ISARA",
         "fr": "ISARA"
     },
+    "https://idp.lecnam.net/idp/shibboleth": {
+        "en": "Le Cnam",
+        "fr": "Le Cnam"
+    },
     "https://idp.lille.archi.fr/idp/shibboleth": {
         "en": "Ecole Nationale Supérieure d'Architecture et de Paysage de Lille",
         "fr": "Ecole Nationale Supérieure d'Architecture et de Paysage de Lille"
