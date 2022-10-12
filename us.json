@@ -62,6 +62,9 @@
     "https://academica.aws.wayne.edu/saml2/trust": {
         "en": "Wayne State University"
     },
+    "https://access-ci.org/idp": {
+        "en": "ACCESS CI"
+    },
     "https://access.research.cchmc.org/fed/idp": {
         "en": "Cincinnati Children's Hospital Medical Center"
     },

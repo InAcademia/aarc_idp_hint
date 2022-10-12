@@ -1063,6 +1063,10 @@
             "en": "FIOCRUZ - Fundacao Oswaldo Cruz",
             "pt-br": "FIOCRUZ - Fundacao Oswaldo Cruz"
         },
+        "https://idp.fmu.br/idp/shibboleth": {
+            "en": "FMU - Faculdades Metropolitanas Unidas Educacao",
+            "pt-br": "FMU - Faculdades Metropolitanas Unidas Educacao"
+        },
         "https://idp.ifac.edu.br/idp/shibboleth": {
             "en": "IFAC - Instituto Federal do Acre",
             "pt-br": "IFAC - Instituto Federal do Acre"
@@ -12810,6 +12814,10 @@
             "en": "Main School of Fire Service",
             "pl": "Szkoła Główna Służby Pożarniczej"
         },
+        "https://cas.ue.katowice.pl/cas/idp": {
+            "en": "University of Economics in Katowice",
+            "pl": "Uniwersytet Ekonomiczny w Katowicach"
+        },
         "https://cas.uwb.edu.pl/cas/idp/metadata": {
             "en": "University of Bialystok",
             "pl": "Uniwersytet w Białymstoku"
@@ -16515,6 +16523,9 @@
         },
         "https://academica.aws.wayne.edu/saml2/trust": {
             "en": "Wayne State University"
+        },
+        "https://access-ci.org/idp": {
+            "en": "ACCESS CI"
         },
         "https://access.research.cchmc.org/fed/idp": {
             "en": "Cincinnati Children's Hospital Medical Center"

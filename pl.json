@@ -43,6 +43,10 @@
         "en": "Main School of Fire Service",
         "pl": "Szkoła Główna Służby Pożarniczej"
     },
+    "https://cas.ue.katowice.pl/cas/idp": {
+        "en": "University of Economics in Katowice",
+        "pl": "Uniwersytet Ekonomiczny w Katowicach"
+    },
     "https://cas.uwb.edu.pl/cas/idp/metadata": {
         "en": "University of Bialystok",
         "pl": "Uniwersytet w Białymstoku"

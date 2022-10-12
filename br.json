@@ -447,6 +447,10 @@
         "en": "FIOCRUZ - Fundacao Oswaldo Cruz",
         "pt-br": "FIOCRUZ - Fundacao Oswaldo Cruz"
     },
+    "https://idp.fmu.br/idp/shibboleth": {
+        "en": "FMU - Faculdades Metropolitanas Unidas Educacao",
+        "pt-br": "FMU - Faculdades Metropolitanas Unidas Educacao"
+    },
     "https://idp.ifac.edu.br/idp/shibboleth": {
         "en": "IFAC - Instituto Federal do Acre",
         "pt-br": "IFAC - Instituto Federal do Acre"
