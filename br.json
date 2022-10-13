@@ -403,6 +403,10 @@
         "en": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura",
         "pt-br": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura"
     },
+    "https://idp-v4.ceitec-sa.com/idp/shibboleth": {
+        "en": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada",
+        "pt-br": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada"
+    },
     "https://idp.asces.edu.br/idp/shibboleth": {
         "en": "ASCES-UNITA - Centro Universitario Tabosa de Almeida",
         "pt-br": "ASCES-UNITA - Centro Universitario Tabosa de Almeida"
