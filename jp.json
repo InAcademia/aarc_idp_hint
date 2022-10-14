@@ -211,6 +211,10 @@
         "en": "Dokkyo Medical University",
         "ja": "獨協医科大学"
     },
+    "https://shibboleth-idp.rhs-u.ac.jp/idp/shibboleth": {
+        "en": "REIWA HEALTH SCIENCES University",
+        "ja": "令和健康科学大学"
+    },
     "https://shibboleth.cc.uec.ac.jp/idp/shibboleth": {
         "en": "The University of Electro-Communications",
         "ja": "電気通信大学"

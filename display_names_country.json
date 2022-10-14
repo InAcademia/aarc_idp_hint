@@ -927,6 +927,10 @@
             "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
             "pt-br": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense"
         },
+        "https://cardio.net.br/idp/shibboleth": {
+            "en": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul",
+            "pt-br": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul"
+        },
         "https://catuai.ufop.br/idp/shibboleth": {
             "en": "UFOP - Universidade Federal de Ouro Preto",
             "pt-br": "UFOP - Universidade Federal de Ouro Preto"
@@ -11248,6 +11252,10 @@
             "en": "Dokkyo Medical University",
             "ja": "獨協医科大学"
         },
+        "https://shibboleth-idp.rhs-u.ac.jp/idp/shibboleth": {
+            "en": "REIWA HEALTH SCIENCES University",
+            "ja": "令和健康科学大学"
+        },
         "https://shibboleth.cc.uec.ac.jp/idp/shibboleth": {
             "en": "The University of Electro-Communications",
             "ja": "電気通信大学"
@@ -11307,6 +11315,12 @@
         },
         "https://idp-k3.federation.ke/simplesaml/saml2/idp/metadata.php": {
             "en": "KENET Staff Identity Provider"
+        }
+    },
+    "kg": {
+        "https://idp.kif.kg/simplesaml/saml2/idp/metadata.php": {
+            "en": "KIF-IDP",
+            "ky": "KIF-IDP"
         }
     },
     "kr": {
@@ -11730,29 +11744,11 @@
         "https://idp.imu.edu.my/idp/shibboleth": {
             "en": "International Medical University"
         },
-        "https://idp.mohe.e-id.my/idp/shibboleth": {
-            "en": "Ministry of Higher Education"
-        },
         "https://idp.ump.edu.my/sso/saml2/idp/metadata.php": {
             "en": "Universiti Malaysia Pahang"
         },
         "https://idp3.umt.edu.my/idp/shibboleth": {
             "en": "Universiti Malaysia Terengganu"
-        },
-        "https://kba.ipgm.e-id.my/idp/shibboleth": {
-            "en": "Institut Pendidikan Guru Kampus Bahasa Antarabangsa"
-        },
-        "https://kda.ipgm.e-id.my/idp/shibboleth": {
-            "en": "Institut Pendidikan Guru Kampus Darulaman"
-        },
-        "https://kkkl.mypolycc.e-id.my/idp/shibboleth": {
-            "en": "Kolej Komuniti Kuala Langat"
-        },
-        "https://pmkl.mypolycc.e-id.my/idp/shibboleth": {
-            "en": "Politeknik METrO Kuala Lumpur"
-        },
-        "https://psa.mypolycc.e-id.my/idp/shibboleth": {
-            "en": "Politeknik Sultan Salahuddin Abdul Aziz Shah"
         },
         "https://shib-idp.upnm.edu.my/idp/shibboleth": {
             "en": "Universiti Pertahanan Nasional Malaysia"
@@ -11780,6 +11776,9 @@
         },
         "https://sso.perdanauniversity.edu.my/saml2/idp/metadata.php": {
             "en": "Perdana University"
+        },
+        "https://sso.pis.edu.my/idp/shibboleth": {
+            "en": "Politeknik Ibrahim Sultan"
         },
         "https://sso.pms.edu.my/idp/shibboleth": {
             "en": "Politeknik Muadzam Shah"
