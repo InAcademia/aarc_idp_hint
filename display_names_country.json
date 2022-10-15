@@ -11765,6 +11765,9 @@
         "https://sifulan.uthm.edu.my/idp/shibboleth": {
             "en": "Universiti Tun Hussein Onn"
         },
+        "https://sso.kkben.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Bentong"
+        },
         "https://sso.kkklk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kok Lanas"
         },
@@ -11782,6 +11785,15 @@
         },
         "https://sso.pms.edu.my/idp/shibboleth": {
             "en": "Politeknik Muadzam Shah"
+        },
+        "https://sso.pmu.edu.my/idp/shibboleth": {
+            "en": "Politeknik Mukah Sarawak"
+        },
+        "https://sso.polimelaka.edu.my/idp/shibboleth": {
+            "en": "Politeknik Melaka"
+        },
+        "https://sso.polipd.edu.my/idp/shibboleth": {
+            "en": "Politeknik Port Dickson"
         },
         "https://sso.unisza.edu.my/idp/shibboleth": {
             "en": "Universiti Sultan Zainal Abidin"
