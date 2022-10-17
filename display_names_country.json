@@ -557,9 +557,6 @@
         "https://sts.windows.net/2d714a65-b97f-41a9-8ff1-ec2cdf7df5cd/": {
             "en": "VIB"
         },
-        "https://sts.windows.net/a72d5a72-25ee-40f0-9bd1-067cb5b770d4/": {
-            "en": "imec"
-        },
         "urn:mace:kuleuven.be:kulassoc:kuleuven.be": {
             "en": "KU Leuven Association",
             "nl": "Associatie KU Leuven"
@@ -2546,6 +2543,10 @@
         "https://idp.bzmc.edu.cn/idp/shibboleth": {
             "en": "Binzhou Medical University",
             "zh": "滨州医学院(Binzhou Medical University)"
+        },
+        "https://idp.bzu.edu.cn/idp/shibboleth": {
+            "en": "Binzhou University",
+            "zh": "滨州学院(Binzhou University)"
         },
         "https://idp.cafa.edu.cn/idp/shibboleth": {
             "en": "The Central Academy of Fine Arts",
@@ -11795,6 +11796,9 @@
         "https://sso.polipd.edu.my/idp/shibboleth": {
             "en": "Politeknik Port Dickson"
         },
+        "https://sso.ptss.edu.my/idp/shibboleth": {
+            "en": "Politeknik Tuanku Syed Sirajuddin"
+        },
         "https://sso.unisza.edu.my/idp/shibboleth": {
             "en": "Universiti Sultan Zainal Abidin"
         },
@@ -13675,10 +13679,6 @@
         "http://login2.fhs.se/adfs/services/trust": {
             "en": "Swedish Defence University",
             "sv": "Försvarshögskolan"
-        },
-        "http://sts.mah.se/adfs/services/trust": {
-            "en": "Malmö University (MFA)",
-            "sv": "Malmö universitet (MFA)"
         },
         "http://webproxysrv.uniarts.se/adfs/services/trust": {
             "en": "Stockholm University of the Arts",

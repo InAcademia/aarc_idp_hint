@@ -56,6 +56,9 @@
     "https://sso.polipd.edu.my/idp/shibboleth": {
         "en": "Politeknik Port Dickson"
     },
+    "https://sso.ptss.edu.my/idp/shibboleth": {
+        "en": "Politeknik Tuanku Syed Sirajuddin"
+    },
     "https://sso.unisza.edu.my/idp/shibboleth": {
         "en": "Universiti Sultan Zainal Abidin"
     },
