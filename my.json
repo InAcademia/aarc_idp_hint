@@ -26,14 +26,92 @@
     "https://sifulan.uthm.edu.my/idp/shibboleth": {
         "en": "Universiti Tun Hussein Onn"
     },
+    "https://sso.kkbbm.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Bukit Beruang"
+    },
     "https://sso.kkben.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Bentong"
+    },
+    "https://sso.kkbesut.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Besut"
+    },
+    "https://sso.kkbpenawar.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Bandar Penawar"
+    },
+    "https://sso.kkbpj.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Batu Pahat"
+    },
+    "https://sso.kkbtenggara.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Bandar Tenggara"
+    },
+    "https://sso.kkhl.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Hulu Langat"
+    },
+    "https://sso.kkjerai.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Jerai"
+    },
+    "https://sso.kkjs.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Jasin"
     },
     "https://sso.kkklk.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kok Lanas"
     },
+    "https://sso.kkkluang.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Kluang"
+    },
+    "https://sso.kkkotamarudu.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Kota Marudu"
+    },
+    "https://sso.kkkulim.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Kulim"
+    },
+    "https://sso.kkld.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Lahad Datu"
+    },
+    "https://sso.kklej.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Ledang"
+    },
+    "https://sso.kkmiri.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Miri"
+    },
+    "https://sso.kkmuar.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Muar"
+    },
+    "https://sso.kknt.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Nibong Tebal"
+    },
+    "https://sso.kkpagoh.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Pagoh"
+    },
+    "https://sso.kkpenampang.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Penampang"
+    },
+    "https://sso.kksantubong.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Santubong"
+    },
+    "https://sso.kksarikei.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Sarikei"
+    },
+    "https://sso.kksbj.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Seberang Jaya"
+    },
+    "https://sso.kkseg.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Segamat"
+    },
     "https://sso.kkselayang.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Selayang"
+    },
+    "https://sso.kktanjungpiai.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Tanjung Piai"
+    },
+    "https://sso.kktaw.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Tawau"
+    },
+    "https://sso.kktg.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Tasek Gelugor"
+    },
+    "https://sso.kktk.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Tanjong Karang"
     },
     "https://sso.myren.net.my/idp/shibboleth": {
         "en": "Malaysian Research and Education Network (MYREN)"
@@ -43,6 +121,12 @@
     },
     "https://sso.pis.edu.my/idp/shibboleth": {
         "en": "Politeknik Ibrahim Sultan"
+    },
+    "https://sso.pmkl.edu.my/idp/shibboleth": {
+        "en": "Politeknik METrO Kuala Lumpur"
+    },
+    "https://sso.pmm.edu.my/idp/shibboleth": {
+        "en": "Politeknik Merlimau"
     },
     "https://sso.pms.edu.my/idp/shibboleth": {
         "en": "Politeknik Muadzam Shah"
@@ -55,6 +139,9 @@
     },
     "https://sso.polipd.edu.my/idp/shibboleth": {
         "en": "Politeknik Port Dickson"
+    },
+    "https://sso.psp.edu.my/idp/shibboleth": {
+        "en": "Politeknik Seberang Perai"
     },
     "https://sso.ptss.edu.my/idp/shibboleth": {
         "en": "Politeknik Tuanku Syed Sirajuddin"

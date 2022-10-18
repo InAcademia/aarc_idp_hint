@@ -691,6 +691,10 @@
         "en": "CTI - Centro de Tecnologia da Informacao Renato Archer",
         "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
     },
+    "https://isd-rnp.isd.org.br/idp/shibboleth": {
+        "en": "ISD - Instituto Santos Dumont",
+        "pt-br": "ISD - Instituto Santos Dumont"
+    },
     "https://itapicuru.uneb.br/idp/shibboleth": {
         "en": "UNEB - Universidade do Estado da Bahia",
         "pt-br": "UNEB - Universidade do Estado da Bahia"
@@ -854,6 +858,10 @@
     "https://shibboleth.unifacs.br/idp/shibboleth": {
         "en": "UNIFACS - Universidade Salvador",
         "pt-br": "UNIFACS - Universidade Salvador"
+    },
+    "https://shibboleth.uninta.edu.br/idp/shibboleth": {
+        "en": "UNINTA - Centro Universitario INTA",
+        "pt-br": "UNINTA - Centro Universitario INTA"
     },
     "https://shibboleth.uniritter.edu.br/idp/shibboleth": {
         "en": "UNIRITTER - Sociedade de Educacao Ritter dos Reis LTDA",

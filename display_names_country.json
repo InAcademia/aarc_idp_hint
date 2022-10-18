@@ -3,9 +3,6 @@
         "https://asren-iam.noc.asren.org/idp/shibboleth": {
             "en": "ASREN"
         },
-        "https://asren-idp.noc.asren.org/simplesaml/saml2/idp/metadata.php": {
-            "en": "ASREN IdP"
-        },
         "https://proxy.eduid.africa/idp/saml2": {
             "en": "eduID.africa Proxy IdP"
         },
@@ -326,6 +323,9 @@
         }
     },
     "au": {
+        "https://aaf-login.uts.edu.au/idp/shibboleth": {
+            "en": "University of Technology Sydney"
+        },
         "https://aaf.unsw.edu.au/idp/shibboleth": {
             "en": "The University of New South Wales (UNSW)"
         },
@@ -1304,6 +1304,10 @@
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer",
             "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
         },
+        "https://isd-rnp.isd.org.br/idp/shibboleth": {
+            "en": "ISD - Instituto Santos Dumont",
+            "pt-br": "ISD - Instituto Santos Dumont"
+        },
         "https://itapicuru.uneb.br/idp/shibboleth": {
             "en": "UNEB - Universidade do Estado da Bahia",
             "pt-br": "UNEB - Universidade do Estado da Bahia"
@@ -1467,6 +1471,10 @@
         "https://shibboleth.unifacs.br/idp/shibboleth": {
             "en": "UNIFACS - Universidade Salvador",
             "pt-br": "UNIFACS - Universidade Salvador"
+        },
+        "https://shibboleth.uninta.edu.br/idp/shibboleth": {
+            "en": "UNINTA - Centro Universitario INTA",
+            "pt-br": "UNINTA - Centro Universitario INTA"
         },
         "https://shibboleth.uniritter.edu.br/idp/shibboleth": {
             "en": "UNIRITTER - Sociedade de Educacao Ritter dos Reis LTDA",
@@ -2371,6 +2379,10 @@
         "https://idp-lib.uibe.edu.cn/idp/shibboleth": {
             "en": "University of International Business and Economics",
             "zh": "对外经济贸易大学(University of International Business and Economics)"
+        },
+        "https://idp-lib.utszlib.edu.cn/idp/shibboleth": {
+            "en": "University Town Library of Shenzhen",
+            "zh": "深圳大学城图书馆(University Town Library of Shenzhen)"
         },
         "https://idp-lib.whpu.edu.cn/idp/shibboleth": {
             "en": "Wuhan Polytechnic University",
@@ -11766,14 +11778,92 @@
         "https://sifulan.uthm.edu.my/idp/shibboleth": {
             "en": "Universiti Tun Hussein Onn"
         },
+        "https://sso.kkbbm.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Bukit Beruang"
+        },
         "https://sso.kkben.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Bentong"
+        },
+        "https://sso.kkbesut.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Besut"
+        },
+        "https://sso.kkbpenawar.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Bandar Penawar"
+        },
+        "https://sso.kkbpj.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Batu Pahat"
+        },
+        "https://sso.kkbtenggara.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Bandar Tenggara"
+        },
+        "https://sso.kkhl.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Hulu Langat"
+        },
+        "https://sso.kkjerai.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Jerai"
+        },
+        "https://sso.kkjs.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Jasin"
         },
         "https://sso.kkklk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kok Lanas"
         },
+        "https://sso.kkkluang.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Kluang"
+        },
+        "https://sso.kkkotamarudu.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Kota Marudu"
+        },
+        "https://sso.kkkulim.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Kulim"
+        },
+        "https://sso.kkld.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Lahad Datu"
+        },
+        "https://sso.kklej.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Ledang"
+        },
+        "https://sso.kkmiri.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Miri"
+        },
+        "https://sso.kkmuar.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Muar"
+        },
+        "https://sso.kknt.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Nibong Tebal"
+        },
+        "https://sso.kkpagoh.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Pagoh"
+        },
+        "https://sso.kkpenampang.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Penampang"
+        },
+        "https://sso.kksantubong.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Santubong"
+        },
+        "https://sso.kksarikei.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Sarikei"
+        },
+        "https://sso.kksbj.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Seberang Jaya"
+        },
+        "https://sso.kkseg.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Segamat"
+        },
         "https://sso.kkselayang.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Selayang"
+        },
+        "https://sso.kktanjungpiai.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Tanjung Piai"
+        },
+        "https://sso.kktaw.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Tawau"
+        },
+        "https://sso.kktg.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Tasek Gelugor"
+        },
+        "https://sso.kktk.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Tanjong Karang"
         },
         "https://sso.myren.net.my/idp/shibboleth": {
             "en": "Malaysian Research and Education Network (MYREN)"
@@ -11783,6 +11873,12 @@
         },
         "https://sso.pis.edu.my/idp/shibboleth": {
             "en": "Politeknik Ibrahim Sultan"
+        },
+        "https://sso.pmkl.edu.my/idp/shibboleth": {
+            "en": "Politeknik METrO Kuala Lumpur"
+        },
+        "https://sso.pmm.edu.my/idp/shibboleth": {
+            "en": "Politeknik Merlimau"
         },
         "https://sso.pms.edu.my/idp/shibboleth": {
             "en": "Politeknik Muadzam Shah"
@@ -11795,6 +11891,9 @@
         },
         "https://sso.polipd.edu.my/idp/shibboleth": {
             "en": "Politeknik Port Dickson"
+        },
+        "https://sso.psp.edu.my/idp/shibboleth": {
+            "en": "Politeknik Seberang Perai"
         },
         "https://sso.ptss.edu.my/idp/shibboleth": {
             "en": "Politeknik Tuanku Syed Sirajuddin"

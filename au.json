@@ -1,4 +1,7 @@
 {
+    "https://aaf-login.uts.edu.au/idp/shibboleth": {
+        "en": "University of Technology Sydney"
+    },
     "https://aaf.unsw.edu.au/idp/shibboleth": {
         "en": "The University of New South Wales (UNSW)"
     },
