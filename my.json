@@ -95,6 +95,9 @@
     "https://sso.kklej.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Ledang"
     },
+    "https://sso.kkmas.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Mas Gading"
+    },
     "https://sso.kkmen.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Temerloh"
     },
@@ -118,6 +121,9 @@
     },
     "https://sso.kkpenampang.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Penampang"
+    },
+    "https://sso.kkpg.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Pasir Gudang"
     },
     "https://sso.kkpmas.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Pasir Mas"
@@ -197,6 +203,12 @@
     "https://sso.pmu.edu.my/idp/shibboleth": {
         "en": "Politeknik Mukah Sarawak"
     },
+    "https://sso.polibanting.edu.my/idp/shibboleth": {
+        "en": "Politeknik Banting"
+    },
+    "https://sso.polimas.edu.my/idp/shibboleth": {
+        "en": "Politeknik Sultan Abdul Halim Mu'adzam Shah"
+    },
     "https://sso.polimelaka.edu.my/idp/shibboleth": {
         "en": "Politeknik Melaka"
     },
@@ -205,6 +217,15 @@
     },
     "https://sso.polipd.edu.my/idp/shibboleth": {
         "en": "Politeknik Port Dickson"
+    },
+    "https://sso.polisas.edu.my/idp/shibboleth": {
+        "en": "Politeknik Sultan Haji Ahmad Shah"
+    },
+    "https://sso.psa.edu.my/idp/shibboleth": {
+        "en": "Politeknik Sultan Salahuddin Abdul Aziz Shah"
+    },
+    "https://sso.psis.edu.my/idp/shibboleth": {
+        "en": "Politeknik Sultan Idris Shah"
     },
     "https://sso.psp.edu.my/idp/shibboleth": {
         "en": "Politeknik Seberang Perai"
@@ -217,6 +238,9 @@
     },
     "https://sso.ptss.edu.my/idp/shibboleth": {
         "en": "Politeknik Tuanku Syed Sirajuddin"
+    },
+    "https://sso.puo.edu.my/idp/shibboleth": {
+        "en": "Politeknik Ungku Omar"
     },
     "https://sso.unisza.edu.my/idp/shibboleth": {
         "en": "Universiti Sultan Zainal Abidin"

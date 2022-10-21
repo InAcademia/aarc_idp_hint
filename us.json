@@ -23,9 +23,6 @@
     "http://adfs.sso.passhe.edu/adfs/services/trust": {
         "en": "PA State System of Higher Education"
     },
-    "http://adfs.unco.edu/adfs/services/trust": {
-        "en": "University of Northern Colorado OLD"
-    },
     "http://adfs.uwsp.edu/adfs/services/trust": {
         "en": "University of Wisconsin - Stevens Point"
     },
