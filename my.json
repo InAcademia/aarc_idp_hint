@@ -26,6 +26,9 @@
     "https://sifulan.uthm.edu.my/idp/shibboleth": {
         "en": "Universiti Tun Hussein Onn"
     },
+    "https://sso.cckk.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Kuala Kangsar"
+    },
     "https://sso.kkbb.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Bandar Baharu"
     },
@@ -47,6 +50,9 @@
     "https://sso.kkbesut.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Besut"
     },
+    "https://sso.kkbgd.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Bagan Datuk"
+    },
     "https://sso.kkbk.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Baling"
     },
@@ -62,6 +68,12 @@
     "https://sso.kkbtenggara.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Bandar Tenggara"
     },
+    "https://sso.kkbtgajah.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Batu Gajah"
+    },
+    "https://sso.kkche.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Chenderoh"
+    },
     "https://sso.kkhl.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Hulu Langat"
     },
@@ -73,6 +85,9 @@
     },
     "https://sso.kkjs.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Jasin"
+    },
+    "https://sso.kkkg.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Kuching"
     },
     "https://sso.kkklk.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kok Lanas"
@@ -134,6 +149,9 @@
     "https://sso.kkrembau.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Rembau"
     },
+    "https://sso.kksa.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Shah Alam"
+    },
     "https://sso.kksantubong.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Santubong"
     },
@@ -149,8 +167,14 @@
     "https://sso.kksegamat2.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Segamat 2"
     },
+    "https://sso.kkselandar.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Selandar"
+    },
     "https://sso.kkselayang.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Selayang"
+    },
+    "https://sso.kktaiping.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Taiping"
     },
     "https://sso.kktanggabatu.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Tangga Batu"
@@ -185,6 +209,9 @@
     "https://sso.pis.edu.my/idp/shibboleth": {
         "en": "Politeknik Ibrahim Sultan"
     },
+    "https://sso.pkb.edu.my/idp/shibboleth": {
+        "en": "Politeknik Kota Bharu"
+    },
     "https://sso.pkt.edu.my/idp/shibboleth": {
         "en": "Politeknik Kuala Terengganu"
     },
@@ -206,6 +233,12 @@
     "https://sso.polibanting.edu.my/idp/shibboleth": {
         "en": "Politeknik Banting"
     },
+    "https://sso.polikk.edu.my/idp/shibboleth": {
+        "en": "Politeknik Kota Kinabalu"
+    },
+    "https://sso.poliku.edu.my/idp/shibboleth": {
+        "en": "Politeknik Kuching Sarawak"
+    },
     "https://sso.polimas.edu.my/idp/shibboleth": {
         "en": "Politeknik Sultan Abdul Halim Mu'adzam Shah"
     },
@@ -221,6 +254,9 @@
     "https://sso.polisas.edu.my/idp/shibboleth": {
         "en": "Politeknik Sultan Haji Ahmad Shah"
     },
+    "https://sso.politawau.edu.my/idp/shibboleth": {
+        "en": "Politeknik Tawau Sabah"
+    },
     "https://sso.psa.edu.my/idp/shibboleth": {
         "en": "Politeknik Sultan Salahuddin Abdul Aziz Shah"
     },
@@ -229,6 +265,9 @@
     },
     "https://sso.psp.edu.my/idp/shibboleth": {
         "en": "Politeknik Seberang Perai"
+    },
+    "https://sso.pss.edu.my/idp/shibboleth": {
+        "en": "Politeknik Sandakan"
     },
     "https://sso.ptsb.edu.my/idp/shibboleth": {
         "en": "Politeknik Tuanku Sultanah Bahiyah"

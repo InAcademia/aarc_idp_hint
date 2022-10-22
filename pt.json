@@ -119,10 +119,6 @@
         "en": "UNL - Faculty of Sciences and Technology",
         "pt": "UNL - Faculdade de Ciências e Tecnologia"
     },
-    "https://idp.fe.unl.pt/idp/shibboleth": {
-        "en": "UNL - Faculdade de Economia",
-        "pt": "UNL - Faculdade de Economia"
-    },
     "https://idp.hidrografico.pt/idp/shibboleth": {
         "en": "Instituto Hidrográfico",
         "pt": "Instituto Hidrográfico"
@@ -270,6 +266,10 @@
     "https://idp.ulp.pt/idp/shibboleth": {
         "en": "Universidade Lusófona do Porto",
         "pt": "Universidade Lusófona do Porto"
+    },
+    "https://idp.ulusofona.pt/idp/shibboleth": {
+        "en": "Universidade Lusófona de Humanidades e Tecnologias",
+        "pt": "Universidade Lusófona de Humanidades e Tecnologias"
     },
     "https://idp.umaia.pt/idp/shibboleth": {
         "en": "Universidade da Maia",
