@@ -347,6 +347,10 @@
         "en": "UERJ - Universidade do Estado do Rio de Janeiro",
         "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
     },
+    "https://idp-cafe.cp2.g12.br/idp/shibboleth": {
+        "en": "CP2 - Colegio Pedro II",
+        "pt-br": "CP2 - Colegio Pedro II"
+    },
     "https://idp-cafe.ghc.com.br/idp/shibboleth": {
         "en": "GHC - Grupo Hospitalar Conceicao",
         "pt-br": "GHC - Grupo Hospitalar Conceicao"
@@ -770,10 +774,6 @@
     "https://shibboleth.cetem.gov.br/idp/shibboleth": {
         "en": "CETEM - Centro de Tecnologia Mineral",
         "pt-br": "CETEM - Centro de Tecnologia Mineral"
-    },
-    "https://shibboleth.cp2.g12.br/idp/shibboleth": {
-        "en": "CPII - Colegio Pedro II",
-        "pt-br": "CPII - Colegio Pedro II"
     },
     "https://shibboleth.ifal.edu.br/idp/shibboleth": {
         "en": "IFAL - Instituto Federal de Alagoas",

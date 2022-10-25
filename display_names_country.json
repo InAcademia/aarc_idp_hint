@@ -483,10 +483,6 @@
             "en": "Haute Ecole Condorcet (HEPH-Condorcet)",
             "fr": "Haute Ecole Condorcet (HEPH-Condorcet)"
         },
-        "https://idp.cra.wallonie.be/idp/shibboleth": {
-            "en": "https://idp.cra.wallonie.be/idp/shibboleth",
-            "fr": "CRA-W"
-        },
         "https://idp.eduhainaut.be/idp/shibboleth": {
             "en": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)",
             "fr": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)"
@@ -960,6 +956,10 @@
             "en": "UERJ - Universidade do Estado do Rio de Janeiro",
             "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
         },
+        "https://idp-cafe.cp2.g12.br/idp/shibboleth": {
+            "en": "CP2 - Colegio Pedro II",
+            "pt-br": "CP2 - Colegio Pedro II"
+        },
         "https://idp-cafe.ghc.com.br/idp/shibboleth": {
             "en": "GHC - Grupo Hospitalar Conceicao",
             "pt-br": "GHC - Grupo Hospitalar Conceicao"
@@ -1383,10 +1383,6 @@
         "https://shibboleth.cetem.gov.br/idp/shibboleth": {
             "en": "CETEM - Centro de Tecnologia Mineral",
             "pt-br": "CETEM - Centro de Tecnologia Mineral"
-        },
-        "https://shibboleth.cp2.g12.br/idp/shibboleth": {
-            "en": "CPII - Colegio Pedro II",
-            "pt-br": "CPII - Colegio Pedro II"
         },
         "https://shibboleth.ifal.edu.br/idp/shibboleth": {
             "en": "IFAL - Instituto Federal de Alagoas",
@@ -11124,6 +11120,10 @@
             "en": "Tokyo Denki University",
             "ja": "東京電機大学"
         },
+        "https://idp.do-johodai.ac.jp/idp/shibboleth": {
+            "en": "Hokkaido Information University",
+            "ja": "北海道情報大学"
+        },
         "https://idp.fmu.ac.jp/idp/shibboleth": {
             "en": "Fukushima Medical University",
             "ja": "福島県立医科大学"
@@ -12070,6 +12070,10 @@
             "en": "JiangXi Academy of Sciences",
             "zh": "江西省科学院"
         },
+        "https://idp.las.ac.cn/idp/shibboleth": {
+            "en": "National Science Library, Chinese Academy of Sciences",
+            "zh": "中国科学院文献情报中心"
+        },
         "https://idp.redclara.net/saml2/idp/metadata.php": {
             "en": "https://idp.redclara.net/saml2/idp/metadata.php"
         },
@@ -12184,8 +12188,8 @@
             "nl": "Koninklijke Nederlandse Akademie van  Wetenschappen (KNAW)"
         },
         "http://adfs.mboamersfoort.nl/adfs/services/trust": {
-            "en": "MBO Amersfoort",
-            "nl": "MBO Amersfoort"
+            "en": "MBO Amersfoort (Old)",
+            "nl": "MBO Amersfoort (Oud)"
         },
         "http://adfs.mijnlentiz.nl/adfs/services/trust": {
             "en": "Lentiz Onderwijsgroep",
@@ -12995,6 +12999,9 @@
         "https://idpomren.majancollege.edu.om/idp": {
             "en": "Majan University College(shibboleth)"
         },
+        "https://idpomren.nct.edu.om/idp": {
+            "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
+        },
         "https://idpsrv01.squ.edu.om/idp/shibboleth": {
             "en": "Sultan Qaboos University (OM-KID)"
         },
@@ -13291,10 +13298,6 @@
         "https://aai.uevora.pt/idp/shibboleth": {
             "en": "University of Évora",
             "pt": "Universidade de Évora"
-        },
-        "https://aai.ulusofona.pt/idp/shibboleth": {
-            "en": "Universidade Lusófona de Humanidades e Tecnologias",
-            "pt": "Universidade Lusófona de Humanidades e Tecnologias"
         },
         "https://conferencia.exercito.pt/idp/shibboleth": {
             "en": "Academia Militar",
@@ -17486,6 +17489,9 @@
         },
         "https://mylogin.unh.edu/secureauth74": {
             "en": "University of New Hampshire"
+        },
+        "https://myqlidp.fgcu.edu": {
+            "en": "Florida Gulf Coast University"
         },
         "https://myqlidp.marin.edu": {
             "en": "College of Marin"

@@ -19,6 +19,10 @@
         "en": "JiangXi Academy of Sciences",
         "zh": "江西省科学院"
     },
+    "https://idp.las.ac.cn/idp/shibboleth": {
+        "en": "National Science Library, Chinese Academy of Sciences",
+        "zh": "中国科学院文献情报中心"
+    },
     "https://idp.redclara.net/saml2/idp/metadata.php": {
         "en": "https://idp.redclara.net/saml2/idp/metadata.php"
     },

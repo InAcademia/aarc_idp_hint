@@ -67,6 +67,10 @@
         "en": "Tokyo Denki University",
         "ja": "東京電機大学"
     },
+    "https://idp.do-johodai.ac.jp/idp/shibboleth": {
+        "en": "Hokkaido Information University",
+        "ja": "北海道情報大学"
+    },
     "https://idp.fmu.ac.jp/idp/shibboleth": {
         "en": "Fukushima Medical University",
         "ja": "福島県立医科大学"

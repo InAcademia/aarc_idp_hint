@@ -221,6 +221,9 @@
     "https://idpomren.majancollege.edu.om/idp": {
         "en": "Majan University College(shibboleth)"
     },
+    "https://idpomren.nct.edu.om/idp": {
+        "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
+    },
     "https://idpsrv01.squ.edu.om/idp/shibboleth": {
         "en": "Sultan Qaboos University (OM-KID)"
     },

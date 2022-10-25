@@ -59,10 +59,6 @@
         "en": "Haute Ecole Condorcet (HEPH-Condorcet)",
         "fr": "Haute Ecole Condorcet (HEPH-Condorcet)"
     },
-    "https://idp.cra.wallonie.be/idp/shibboleth": {
-        "en": "https://idp.cra.wallonie.be/idp/shibboleth",
-        "fr": "CRA-W"
-    },
     "https://idp.eduhainaut.be/idp/shibboleth": {
         "en": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)",
         "fr": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)"
