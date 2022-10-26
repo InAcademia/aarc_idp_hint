@@ -79,6 +79,10 @@
         "en": "Polish Naval Academy",
         "pl": "Akademia Marynarki Wojennej"
     },
+    "https://idp.apsl.edu.pl/shibboleth": {
+        "en": "Pomeranian University in Słupsk",
+        "pl": "Akademia Pomorska w Słupsku"
+    },
     "https://idp.pollub.pl/shibboleth": {
         "en": "Lublin University of Technology",
         "pl": "Politechnika Lubelska"

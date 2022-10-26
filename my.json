@@ -50,6 +50,9 @@
     "https://sso.kkbesut.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Besut"
     },
+    "https://sso.kkbetong.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Betong"
+    },
     "https://sso.kkbgd.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Bagan Datuk"
     },
@@ -130,6 +133,9 @@
     },
     "https://sso.kkpagoh.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Pagoh"
+    },
+    "https://sso.kkpbe.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Paya Besar"
     },
     "https://sso.kkpekan.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Pekan"
@@ -215,6 +221,12 @@
     "https://sso.pkt.edu.my/idp/shibboleth": {
         "en": "Politeknik Kuala Terengganu"
     },
+    "https://sso.pmbs.edu.my/idp/shibboleth": {
+        "en": "Politeknik METrO Betong Sarawak"
+    },
+    "https://sso.pmj.edu.my/idp/shibboleth": {
+        "en": "Politeknik Mersing"
+    },
     "https://sso.pmkl.edu.my/idp/shibboleth": {
         "en": "Politeknik METrO Kuala Lumpur"
     },
@@ -232,6 +244,9 @@
     },
     "https://sso.polibanting.edu.my/idp/shibboleth": {
         "en": "Politeknik Banting"
+    },
+    "https://sso.polibesut.edu.my/idp/shibboleth": {
+        "en": "Politeknik Besut"
     },
     "https://sso.polikk.edu.my/idp/shibboleth": {
         "en": "Politeknik Kota Kinabalu"
