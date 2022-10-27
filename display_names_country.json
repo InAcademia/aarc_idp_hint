@@ -408,12 +408,6 @@
             "en": "The University of Queensland"
         }
     },
-    "az": {
-        "https://idp1.azsciencenet.az/simplesaml/saml2/idp/metadata.php": {
-            "az": "AzScienceNet",
-            "en": "AzScienceNet"
-        }
-    },
     "bd": {
         "https://idp.bdren.net.bd/idp/shibboleth": {
             "en": "Bangladesh Research and Education Network"
@@ -2547,6 +2541,10 @@
         "https://idp.buu.edu.cn/idp/shibboleth": {
             "en": "Beijing Union University",
             "zh": "北京联合大学(Beijing Union University)"
+        },
+        "https://idp.bwu.edu.cn/idp/shibboleth": {
+            "en": "Beijing Wuzi University",
+            "zh": "北京物资学院(Beijing Wuzi University)"
         },
         "https://idp.bzmc.edu.cn/idp/shibboleth": {
             "en": "Binzhou Medical University",
@@ -11788,6 +11786,9 @@
         "https://sso.cckk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kuala Kangsar"
         },
+        "https://sso.kkarau.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Arau"
+        },
         "https://sso.kkbb.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Bandar Baharu"
         },
@@ -11845,6 +11846,9 @@
         "https://sso.kkjerai.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Jerai"
         },
+        "https://sso.kkjerantut.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Jerantut"
+        },
         "https://sso.kkjs.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Jasin"
         },
@@ -11871,6 +11875,9 @@
         },
         "https://sso.kklej.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Ledang"
+        },
+        "https://sso.kklk.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Langkawi"
         },
         "https://sso.kkmas.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Mas Gading"
@@ -11926,6 +11933,9 @@
         "https://sso.kksbj.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Seberang Jaya"
         },
+        "https://sso.kksbs.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Sabak Bernam"
+        },
         "https://sso.kkseg.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Segamat"
         },
@@ -11937,6 +11947,18 @@
         },
         "https://sso.kkselayang.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Selayang"
+        },
+        "https://sso.kksibu.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Sibu"
+        },
+        "https://sso.kksk.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Sandakan"
+        },
+        "https://sso.kkspe.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Sungai Petani"
+        },
+        "https://sso.kkss.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Sungai Siput"
         },
         "https://sso.kktaiping.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Taiping"
@@ -11964,6 +11986,9 @@
         },
         "https://sso.myren.net.my/idp/shibboleth": {
             "en": "Malaysian Research and Education Network (MYREN)"
+        },
+        "https://sso.pbu.edu.my/idp/shibboleth": {
+            "en": "Politeknik Balik Pulau"
         },
         "https://sso.perdanauniversity.edu.my/saml2/idp/metadata.php": {
             "en": "Perdana University"
@@ -11997,6 +12022,9 @@
         },
         "https://sso.pms.edu.my/idp/shibboleth": {
             "en": "Politeknik Muadzam Shah"
+        },
+        "https://sso.pmtg.edu.my/idp/shibboleth": {
+            "en": "Politeknik METrO Tasek Gelugor"
         },
         "https://sso.pmu.edu.my/idp/shibboleth": {
             "en": "Politeknik Mukah Sarawak"

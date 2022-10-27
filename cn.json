@@ -327,6 +327,10 @@
         "en": "Beijing Union University",
         "zh": "北京联合大学(Beijing Union University)"
     },
+    "https://idp.bwu.edu.cn/idp/shibboleth": {
+        "en": "Beijing Wuzi University",
+        "zh": "北京物资学院(Beijing Wuzi University)"
+    },
     "https://idp.bzmc.edu.cn/idp/shibboleth": {
         "en": "Binzhou Medical University",
         "zh": "滨州医学院(Binzhou Medical University)"
