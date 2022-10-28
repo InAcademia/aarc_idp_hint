@@ -408,6 +408,12 @@
             "en": "The University of Queensland"
         }
     },
+    "az": {
+        "https://idp1.azsciencenet.az/simplesaml/saml2/idp/metadata.php": {
+            "az": "AzScienceNet",
+            "en": "AzScienceNet"
+        }
+    },
     "bd": {
         "https://idp.bdren.net.bd/idp/shibboleth": {
             "en": "Bangladesh Research and Education Network"
@@ -1550,10 +1556,6 @@
             "en": "UEFS - Universidade Estadual de Feira de Santana",
             "pt-br": "UEFS - Universidade Estadual de Feira de Santana"
         },
-        "https://srv-idp.facens.br/idp/shibboleth": {
-            "en": "FAC - FACENS - Faculdade de Engenharia de Sorocaba",
-            "pt-br": "FAC - FACENS - Faculdade de Engenharia de Sorocaba"
-        },
         "https://srv-idp.fepecs.edu.br/idp/shibboleth": {
             "en": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude",
             "pt-br": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude"
@@ -1717,9 +1719,6 @@
         },
         "https://auth.kpu.ca/idp/shibboleth": {
             "en": "Kwantlen Polytechnic University"
-        },
-        "https://authenticate.royalroads.ca/idp/shibboleth": {
-            "en": "Royal Roads University"
         },
         "https://authentication.ubc.ca": {
             "en": "University of British Columbia"
@@ -1935,6 +1934,9 @@
         },
         "https://sso.mcmaster.ca/idp/shibboleth": {
             "en": "McMaster University"
+        },
+        "https://sso.royalroads.ca/idp": {
+            "en": "Royal Roads University"
         },
         "https://utility.acorn-ns.ca/idp/shibboleth": {
             "en": "ACORN NS"
@@ -11837,6 +11839,9 @@
         "https://sso.kkche.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Chenderoh"
         },
+        "https://sso.kkgri.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Gerik"
+        },
         "https://sso.kkhl.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Hulu Langat"
         },
@@ -11849,8 +11854,14 @@
         "https://sso.kkjerantut.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Jerantut"
         },
+        "https://sso.kkjns.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Jempol"
+        },
         "https://sso.kkjs.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Jasin"
+        },
+        "https://sso.kkkba.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Kepala Batas"
         },
         "https://sso.kkkg.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kuching"
@@ -11866,6 +11877,9 @@
         },
         "https://sso.kkktu.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kuala Terengganu"
+        },
+        "https://sso.kkkua.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Kuantan"
         },
         "https://sso.kkkulim.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kulim"
@@ -11986,6 +12000,9 @@
         },
         "https://sso.myren.net.my/idp/shibboleth": {
             "en": "Malaysian Research and Education Network (MYREN)"
+        },
+        "https://sso.pbd.edu.my/idp/shibboleth": {
+            "en": "Politeknik Bagan Datuk"
         },
         "https://sso.pbu.edu.my/idp/shibboleth": {
             "en": "Politeknik Balik Pulau"
@@ -13971,6 +13988,10 @@
             "en": "Swedish Defence University",
             "sv": "Försvarshögskolan"
         },
+        "http://sts.mau.se/adfs/services/trust": {
+            "en": "Malmö University - MFA",
+            "sv": "Malmö universitet - MFA"
+        },
         "http://webproxysrv.uniarts.se/adfs/services/trust": {
             "en": "Stockholm University of the Arts",
             "sv": "Stockholms konstnärliga högskola"
@@ -14280,6 +14301,10 @@
             "en": "Slovak Medical University in Bratislava",
             "sk": "Slovenská zdravotnícka univerzita v Bratislave"
         },
+        "https://idp.truni.sk/idp/shibboleth": {
+            "en": "Trnava University in Trnava",
+            "sk": "Trnavská univerzita v Trnave"
+        },
         "https://idp.tuke.sk/idp/shibboleth": {
             "en": "Technical University of Košice",
             "sk": "Technická univerzita v Košiciach"
@@ -14347,10 +14372,6 @@
         "https://sso.ukf.sk/idp/shibboleth": {
             "en": "Constantine the Philosopher University in Nitra",
             "sk": "Univerzita Konštantína Filozofa v Nitre"
-        },
-        "https://truniidp.truni.sk/idp/shibboleth": {
-            "en": "Trnava University in Trnava",
-            "sk": "Trnavská univerzita v Trnave"
         }
     },
     "th": {
@@ -16967,6 +16988,9 @@
         },
         "https://id.nps.edu/idp/shibboleth": {
             "en": "Naval Postgraduate School"
+        },
+        "https://id.nshe.nevada.edu/idp": {
+            "en": "Nevada System of Higher Education - SA/SCS"
         },
         "https://id.uakron.edu/idp/shibboleth": {
             "en": "University of Akron, Main Campus, The"

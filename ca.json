@@ -101,9 +101,6 @@
     "https://auth.kpu.ca/idp/shibboleth": {
         "en": "Kwantlen Polytechnic University"
     },
-    "https://authenticate.royalroads.ca/idp/shibboleth": {
-        "en": "Royal Roads University"
-    },
     "https://authentication.ubc.ca": {
         "en": "University of British Columbia"
     },
@@ -318,6 +315,9 @@
     },
     "https://sso.mcmaster.ca/idp/shibboleth": {
         "en": "McMaster University"
+    },
+    "https://sso.royalroads.ca/idp": {
+        "en": "Royal Roads University"
     },
     "https://utility.acorn-ns.ca/idp/shibboleth": {
         "en": "ACORN NS"

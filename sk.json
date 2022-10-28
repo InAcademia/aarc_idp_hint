@@ -43,6 +43,10 @@
         "en": "Slovak Medical University in Bratislava",
         "sk": "Slovenská zdravotnícka univerzita v Bratislave"
     },
+    "https://idp.truni.sk/idp/shibboleth": {
+        "en": "Trnava University in Trnava",
+        "sk": "Trnavská univerzita v Trnave"
+    },
     "https://idp.tuke.sk/idp/shibboleth": {
         "en": "Technical University of Košice",
         "sk": "Technická univerzita v Košiciach"
@@ -110,9 +114,5 @@
     "https://sso.ukf.sk/idp/shibboleth": {
         "en": "Constantine the Philosopher University in Nitra",
         "sk": "Univerzita Konštantína Filozofa v Nitre"
-    },
-    "https://truniidp.truni.sk/idp/shibboleth": {
-        "en": "Trnava University in Trnava",
-        "sk": "Trnavská univerzita v Trnave"
     }
 }

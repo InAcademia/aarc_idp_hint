@@ -80,6 +80,9 @@
     "https://sso.kkche.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Chenderoh"
     },
+    "https://sso.kkgri.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Gerik"
+    },
     "https://sso.kkhl.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Hulu Langat"
     },
@@ -92,8 +95,14 @@
     "https://sso.kkjerantut.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Jerantut"
     },
+    "https://sso.kkjns.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Jempol"
+    },
     "https://sso.kkjs.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Jasin"
+    },
+    "https://sso.kkkba.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Kepala Batas"
     },
     "https://sso.kkkg.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kuching"
@@ -109,6 +118,9 @@
     },
     "https://sso.kkktu.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kuala Terengganu"
+    },
+    "https://sso.kkkua.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Kuantan"
     },
     "https://sso.kkkulim.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kulim"
@@ -229,6 +241,9 @@
     },
     "https://sso.myren.net.my/idp/shibboleth": {
         "en": "Malaysian Research and Education Network (MYREN)"
+    },
+    "https://sso.pbd.edu.my/idp/shibboleth": {
+        "en": "Politeknik Bagan Datuk"
     },
     "https://sso.pbu.edu.my/idp/shibboleth": {
         "en": "Politeknik Balik Pulau"
