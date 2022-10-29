@@ -111,10 +111,6 @@
         "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul",
         "pt-br": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul"
     },
-    "https://cafe.ifto.edu.br/idp/shibboleth": {
-        "en": "IFTO - Instituto Federal de Educacao do Tocantins",
-        "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
-    },
     "https://cafe.ime.eb.br/idp/shibboleth": {
         "en": "IME - Instituto Militar de Engenharia",
         "pt-br": "IME - Instituto Militar de Engenharia"
@@ -146,10 +142,6 @@
     "https://cafe.rn.senai.br/idp/shibboleth": {
         "en": "CTGAS-ER - Centro de Tecnologias do Gas e Energias Renovaveis",
         "pt-br": "CTGAS-ER - Centro de Tecnologias do Gas e Energias Renovaveis"
-    },
-    "https://cafe.santacasabh.org.br/idp/shibboleth": {
-        "en": "FSCBH - Faculdade Santa Casa BH",
-        "pt-br": "FSCBH - Faculdade Santa Casa BH"
     },
     "https://cafe.saude.gov.br/idp/shibboleth": {
         "en": "MS - Ministerio da Saude",
@@ -802,6 +794,10 @@
     "https://shibboleth.ifsc.edu.br/idp/shibboleth": {
         "en": "IFSC - Instituto Federal de Santa Catarina",
         "pt-br": "IFSC - Instituto Federal de Santa Catarina"
+    },
+    "https://shibboleth.ifto.edu.br/idp/shibboleth": {
+        "en": "IFTO - Instituto Federal de Educacao do Tocantins",
+        "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
     },
     "https://shibboleth.impa.br/idp/shibboleth": {
         "en": "IMPA - Instituto Nacional de Matematica Pura e Aplicada",

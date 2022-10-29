@@ -720,10 +720,6 @@
             "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul",
             "pt-br": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul"
         },
-        "https://cafe.ifto.edu.br/idp/shibboleth": {
-            "en": "IFTO - Instituto Federal de Educacao do Tocantins",
-            "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
-        },
         "https://cafe.ime.eb.br/idp/shibboleth": {
             "en": "IME - Instituto Militar de Engenharia",
             "pt-br": "IME - Instituto Militar de Engenharia"
@@ -755,10 +751,6 @@
         "https://cafe.rn.senai.br/idp/shibboleth": {
             "en": "CTGAS-ER - Centro de Tecnologias do Gas e Energias Renovaveis",
             "pt-br": "CTGAS-ER - Centro de Tecnologias do Gas e Energias Renovaveis"
-        },
-        "https://cafe.santacasabh.org.br/idp/shibboleth": {
-            "en": "FSCBH - Faculdade Santa Casa BH",
-            "pt-br": "FSCBH - Faculdade Santa Casa BH"
         },
         "https://cafe.saude.gov.br/idp/shibboleth": {
             "en": "MS - Ministerio da Saude",
@@ -1411,6 +1403,10 @@
         "https://shibboleth.ifsc.edu.br/idp/shibboleth": {
             "en": "IFSC - Instituto Federal de Santa Catarina",
             "pt-br": "IFSC - Instituto Federal de Santa Catarina"
+        },
+        "https://shibboleth.ifto.edu.br/idp/shibboleth": {
+            "en": "IFTO - Instituto Federal de Educacao do Tocantins",
+            "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
         },
         "https://shibboleth.impa.br/idp/shibboleth": {
             "en": "IMPA - Instituto Nacional de Matematica Pura e Aplicada",
@@ -10219,6 +10215,9 @@
         "https://idp.jaipur.manipal.edu/idp/shibboleth": {
             "en": "Manipal University Jaipur"
         },
+        "https://idp.jamiahamdard.edu/idp/shibboleth": {
+            "en": "Jamia Hamdard University"
+        },
         "https://idp.jgu.edu.in/idp/shibboleth": {
             "en": "O.P. Jindal Global University"
         },
@@ -12670,6 +12669,10 @@
         "https://sts.windows.net/5f5e8caa-c291-4c93-879f-af63ceeac809/": {
             "en": "Studielink",
             "nl": "Stichting Studielink"
+        },
+        "https://sts.windows.net/607c2ac4-da16-4b70-87ea-0a2909c0dcfb/": {
+            "en": "MBO Amersfoort",
+            "nl": "MBO Amersfoort"
         },
         "https://sts.windows.net/6200b37c-a03e-4996-ab02-6f5b017bb20f/": {
             "en": "Iselinge university of applied sciences",
