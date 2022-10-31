@@ -8129,10 +8129,6 @@
             "en": "National school of architecture Paris-Belleville",
             "fr": "Ecole Nationale Supérieure d'Architecture de Paris-Belleville"
         },
-        "https://e-idp-prod.extra.cea.fr/idp/shibboleth": {
-            "en": "CEA-Extra",
-            "fr": "CEA-Extra"
-        },
         "https://eliot.isae.fr/idp/shibboleth": {
             "en": "ISAE",
             "fr": "ISAE Institut Supérieur de l'Aéronautique et de l'Espace"
@@ -11934,6 +11930,9 @@
         "https://sso.kkrembau.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Rembau"
         },
+        "https://sso.kkrtcg.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti RTC Gopeng"
+        },
         "https://sso.kksa.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Shah Alam"
         },
@@ -12015,6 +12014,9 @@
         "https://sso.pis.edu.my/idp/shibboleth": {
             "en": "Politeknik Ibrahim Sultan"
         },
+        "https://sso.pjk.edu.my/idp/shibboleth": {
+            "en": "Politeknik Jeli"
+        },
         "https://sso.pkb.edu.my/idp/shibboleth": {
             "en": "Politeknik Kota Bharu"
         },
@@ -12077,6 +12079,9 @@
         },
         "https://sso.psa.edu.my/idp/shibboleth": {
             "en": "Politeknik Sultan Salahuddin Abdul Aziz Shah"
+        },
+        "https://sso.psas.edu.my/idp/shibboleth": {
+            "en": "Politeknik Sultan Azlan Shah"
         },
         "https://sso.psis.edu.my/idp/shibboleth": {
             "en": "Politeknik Sultan Idris Shah"

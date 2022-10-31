@@ -176,6 +176,9 @@
     "https://sso.kkrembau.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Rembau"
     },
+    "https://sso.kkrtcg.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti RTC Gopeng"
+    },
     "https://sso.kksa.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Shah Alam"
     },
@@ -257,6 +260,9 @@
     "https://sso.pis.edu.my/idp/shibboleth": {
         "en": "Politeknik Ibrahim Sultan"
     },
+    "https://sso.pjk.edu.my/idp/shibboleth": {
+        "en": "Politeknik Jeli"
+    },
     "https://sso.pkb.edu.my/idp/shibboleth": {
         "en": "Politeknik Kota Bharu"
     },
@@ -319,6 +325,9 @@
     },
     "https://sso.psa.edu.my/idp/shibboleth": {
         "en": "Politeknik Sultan Salahuddin Abdul Aziz Shah"
+    },
+    "https://sso.psas.edu.my/idp/shibboleth": {
+        "en": "Politeknik Sultan Azlan Shah"
     },
     "https://sso.psis.edu.my/idp/shibboleth": {
         "en": "Politeknik Sultan Idris Shah"

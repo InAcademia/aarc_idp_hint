@@ -131,10 +131,6 @@
         "en": "National school of architecture Paris-Belleville",
         "fr": "Ecole Nationale Supérieure d'Architecture de Paris-Belleville"
     },
-    "https://e-idp-prod.extra.cea.fr/idp/shibboleth": {
-        "en": "CEA-Extra",
-        "fr": "CEA-Extra"
-    },
     "https://eliot.isae.fr/idp/shibboleth": {
         "en": "ISAE",
         "fr": "ISAE Institut Supérieur de l'Aéronautique et de l'Espace"
