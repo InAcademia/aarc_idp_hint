@@ -32,6 +32,9 @@
     "https://sso.kkarau.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Arau"
     },
+    "https://sso.kkbaganserai.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Bagan Serai"
+    },
     "https://sso.kkbb.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Bandar Baharu"
     },
@@ -107,6 +110,9 @@
     "https://sso.kkkg.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kuching"
     },
+    "https://sso.kkkjeli.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Jeli"
+    },
     "https://sso.kkklk.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kok Lanas"
     },
@@ -115,6 +121,9 @@
     },
     "https://sso.kkkotamarudu.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kota Marudu"
+    },
+    "https://sso.kkkp.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Kuala Pilah"
     },
     "https://sso.kkktu.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kuala Terengganu"
@@ -242,6 +251,9 @@
     "https://sso.kktk.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Tanjong Karang"
     },
+    "https://sso.mypolycc.edu.my/idp/shibboleth": {
+        "en": "Jabatan Pendidikan Politeknik Dan Kolej Komuniti"
+    },
     "https://sso.myren.net.my/idp/shibboleth": {
         "en": "Malaysian Research and Education Network (MYREN)"
     },
@@ -274,6 +286,9 @@
     },
     "https://sso.pmj.edu.my/idp/shibboleth": {
         "en": "Politeknik Mersing"
+    },
+    "https://sso.pmjb.edu.my/idp/shibboleth": {
+        "en": "Politeknik METrO Johor Bahru"
     },
     "https://sso.pmkl.edu.my/idp/shibboleth": {
         "en": "Politeknik METrO Kuala Lumpur"

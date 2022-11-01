@@ -50,6 +50,9 @@
     "http://adfs.ndc.edu.om/adfs/services/trust": {
         "en": "National Defense College"
     },
+    "http://adfs.nu.edu.om/adfs/services/trust": {
+        "en": "National University of Science and Technology"
+    },
     "http://adfs.omren.om/adfs/services/trust": {
         "en": "OMREN"
     },
@@ -112,9 +115,6 @@
     },
     "https://adfs.ibrict.edu.om/adfs/services/trust": {
         "en": "University of Technology and Applied Sciences-Ibri"
-    },
-    "https://adfs.nu.edu.om/adfs/services/trust": {
-        "en": "National University of Science and Technology"
     },
     "https://discovery.omren.om/simplesaml/saml2/idp/metadata.php": {
         "en": "IdP Proxy"

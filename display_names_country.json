@@ -656,6 +656,10 @@
             "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
             "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
         },
+        "https://cafe-school.cesar.org.br/idp/shibboleth": {
+            "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
+            "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
+        },
         "https://cafe.accamargo.org.br/idp/shibboleth": {
             "en": "FAP - Fundacao Antonio Prudente",
             "pt-br": "FAP - Fundacao Antonio Prudente"
@@ -1219,10 +1223,6 @@
         "https://idp59.furb.br/idp/shibboleth": {
             "en": "FURB - Fundacao Universidade Regional de Blumenau",
             "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
-        },
-        "https://idpcafe.cesar.org.br/idp/shibboleth": {
-            "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
-            "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
         },
         "https://idpcafe.finep.gov.br/idp/shibboleth": {
             "en": "FINEP - Financiadora de Estudos e Projetos",
@@ -6985,6 +6985,10 @@
             "en": "Instituto Nacional de Investigacion en Salud Publica - inspi",
             "es": "Instituto Nacional de Investigacion en Salud Publica - inspi"
         },
+        "https://login.insteclrg.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg",
+            "es": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg"
+        },
         "https://login.internacional.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Internacional del Ecuador - internacional",
             "es": "Universidad Internacional del Ecuador - internacional"
@@ -11786,6 +11790,9 @@
         "https://sso.kkarau.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Arau"
         },
+        "https://sso.kkbaganserai.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Bagan Serai"
+        },
         "https://sso.kkbb.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Bandar Baharu"
         },
@@ -11861,6 +11868,9 @@
         "https://sso.kkkg.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kuching"
         },
+        "https://sso.kkkjeli.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Jeli"
+        },
         "https://sso.kkklk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kok Lanas"
         },
@@ -11869,6 +11879,9 @@
         },
         "https://sso.kkkotamarudu.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kota Marudu"
+        },
+        "https://sso.kkkp.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Kuala Pilah"
         },
         "https://sso.kkktu.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kuala Terengganu"
@@ -11996,6 +12009,9 @@
         "https://sso.kktk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Tanjong Karang"
         },
+        "https://sso.mypolycc.edu.my/idp/shibboleth": {
+            "en": "Jabatan Pendidikan Politeknik Dan Kolej Komuniti"
+        },
         "https://sso.myren.net.my/idp/shibboleth": {
             "en": "Malaysian Research and Education Network (MYREN)"
         },
@@ -12028,6 +12044,9 @@
         },
         "https://sso.pmj.edu.my/idp/shibboleth": {
             "en": "Politeknik Mersing"
+        },
+        "https://sso.pmjb.edu.my/idp/shibboleth": {
+            "en": "Politeknik METrO Johor Bahru"
         },
         "https://sso.pmkl.edu.my/idp/shibboleth": {
             "en": "Politeknik METrO Kuala Lumpur"
@@ -12900,6 +12919,9 @@
         "http://adfs.ndc.edu.om/adfs/services/trust": {
             "en": "National Defense College"
         },
+        "http://adfs.nu.edu.om/adfs/services/trust": {
+            "en": "National University of Science and Technology"
+        },
         "http://adfs.omren.om/adfs/services/trust": {
             "en": "OMREN"
         },
@@ -12962,9 +12984,6 @@
         },
         "https://adfs.ibrict.edu.om/adfs/services/trust": {
             "en": "University of Technology and Applied Sciences-Ibri"
-        },
-        "https://adfs.nu.edu.om/adfs/services/trust": {
-            "en": "National University of Science and Technology"
         },
         "https://discovery.omren.om/simplesaml/saml2/idp/metadata.php": {
             "en": "IdP Proxy"
@@ -15821,9 +15840,6 @@
         },
         "https://idp.nationalarchives.gov.uk/openathens": {
             "en": "The National Archives"
-        },
-        "https://idp.nbi.ac.uk/idp/shibboleth": {
-            "en": "Norwich Bioscience Institutes"
         },
         "https://idp.nelsongroup.ac.uk/idp/shibboleth": {
             "en": "Nelson Group"

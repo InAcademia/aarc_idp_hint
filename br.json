@@ -47,6 +47,10 @@
         "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
         "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
     },
+    "https://cafe-school.cesar.org.br/idp/shibboleth": {
+        "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
+        "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
+    },
     "https://cafe.accamargo.org.br/idp/shibboleth": {
         "en": "FAP - Fundacao Antonio Prudente",
         "pt-br": "FAP - Fundacao Antonio Prudente"
@@ -610,10 +614,6 @@
     "https://idp59.furb.br/idp/shibboleth": {
         "en": "FURB - Fundacao Universidade Regional de Blumenau",
         "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
-    },
-    "https://idpcafe.cesar.org.br/idp/shibboleth": {
-        "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
-        "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
     },
     "https://idpcafe.finep.gov.br/idp/shibboleth": {
         "en": "FINEP - Financiadora de Estudos e Projetos",

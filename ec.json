@@ -83,6 +83,10 @@
         "en": "Instituto Nacional de Investigacion en Salud Publica - inspi",
         "es": "Instituto Nacional de Investigacion en Salud Publica - inspi"
     },
+    "https://login.insteclrg.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg",
+        "es": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg"
+    },
     "https://login.internacional.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad Internacional del Ecuador - internacional",
         "es": "Universidad Internacional del Ecuador - internacional"
