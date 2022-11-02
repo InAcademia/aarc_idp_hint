@@ -3567,6 +3567,7 @@
     "https://login.hs-albsig.de/idp/shibboleth": "Albstadt-Sigmaringen University of Applied Sciences",
     "https://login.hs-mannheim.de/idp/shibboleth": "University of Applied Sciences Mannheim",
     "https://login.hs-ulm.de/shibboleth-idp": "Technische Hochschule Ulm",
+    "https://login.iamres.amres.ac.rs/simplesaml/saml2/idp/metadata.php": "iAMRES Web Single Sign-on Portal",
     "https://login.iasa.gr/auth/saml2/idp/metadata.php": "Institute of Accelerating Systems and Applications - IASA",
     "https://login.icermali.org/idp/shibboleth": "ICER - Mali",
     "https://login.iceruganda.org/idp/shibboleth": "ICER - Uganda",

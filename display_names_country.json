@@ -13815,6 +13815,10 @@
         "https://iaai.rcub.bg.ac.rs/idp/shibboleth": {
             "en": "RCUB",
             "sr": "RCUB"
+        },
+        "https://login.iamres.amres.ac.rs/simplesaml/saml2/idp/metadata.php": {
+            "en": "iAMRES Web Single Sign-on Portal",
+            "sr": "iAMRES Portal za jedinstvenu prijavu na sistem"
         }
     },
     "ru": {
