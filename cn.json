@@ -275,6 +275,10 @@
         "en": "Beijing City University",
         "zh": "北京城市学院(Beijing City University)"
     },
+    "https://idp.bfsu.edu.cn/idp/shibboleth": {
+        "en": "Beijing Foreign Studies University",
+        "zh": "北京外国语大学(Beijing Foreign Studies University)"
+    },
     "https://idp.bgy.edu.cn/idp/shibboleth": {
         "en": "Beijing Polytechnic College",
         "zh": "北京工业职业技术学院(Beijing Polytechnic College)"

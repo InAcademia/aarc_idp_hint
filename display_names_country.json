@@ -181,6 +181,10 @@
             "de": "Universität für Musik und darstellende Kunst Graz",
             "en": "University of Music and Performing Arts Graz"
         },
+        "https://login.spengergasse.at/idp/shibboleth": {
+            "de": "HTL Spengergasse",
+            "en": "HTL Spengergasse"
+        },
         "https://nhm-eduid.nhm-wien.ac.at/idp/shibboleth": {
             "de": "Naturhistorisches Museum Wien (NHM)",
             "en": "Natural History Museum Vienna (NHM)"
@@ -2487,6 +2491,10 @@
         "https://idp.bcu.edu.cn/idp/shibboleth": {
             "en": "Beijing City University",
             "zh": "北京城市学院(Beijing City University)"
+        },
+        "https://idp.bfsu.edu.cn/idp/shibboleth": {
+            "en": "Beijing Foreign Studies University",
+            "zh": "北京外国语大学(Beijing Foreign Studies University)"
         },
         "https://idp.bgy.edu.cn/idp/shibboleth": {
             "en": "Beijing Polytechnic College",
@@ -13417,6 +13425,10 @@
         "https://idp.apambiente.pt/idp/shibboleth": {
             "en": "Agência Portuguesa do Ambiente",
             "pt": "Agência Portuguesa do Ambiente"
+        },
+        "https://idp.cairo.unl.pt/idp/shibboleth": {
+            "en": "UNL - NOVA CAIRO",
+            "pt": "UNL - NOVA CAIRO"
         },
         "https://idp.cenjor.pt/idp/shibboleth": {
             "en": "Centro Protocolar de Formação Profissional para Jornalistas",

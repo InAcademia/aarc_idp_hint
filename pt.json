@@ -27,6 +27,10 @@
         "en": "Agência Portuguesa do Ambiente",
         "pt": "Agência Portuguesa do Ambiente"
     },
+    "https://idp.cairo.unl.pt/idp/shibboleth": {
+        "en": "UNL - NOVA CAIRO",
+        "pt": "UNL - NOVA CAIRO"
+    },
     "https://idp.cenjor.pt/idp/shibboleth": {
         "en": "Centro Protocolar de Formação Profissional para Jornalistas",
         "pt": "Centro Protocolar de Formação Profissional para Jornalistas"

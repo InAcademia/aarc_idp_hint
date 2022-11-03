@@ -155,6 +155,10 @@
         "de": "Universität für Musik und darstellende Kunst Graz",
         "en": "University of Music and Performing Arts Graz"
     },
+    "https://login.spengergasse.at/idp/shibboleth": {
+        "de": "HTL Spengergasse",
+        "en": "HTL Spengergasse"
+    },
     "https://nhm-eduid.nhm-wien.ac.at/idp/shibboleth": {
         "de": "Naturhistorisches Museum Wien (NHM)",
         "en": "Natural History Museum Vienna (NHM)"
