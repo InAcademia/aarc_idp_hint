@@ -832,10 +832,6 @@
             "en": "UNICENTRO - Universidade Estadual do Centro-Oeste",
             "pt-br": "UNICENTRO - Universidade Estadual do Centro-Oeste"
         },
-        "https://cafe.unifap.br/idp/shibboleth": {
-            "en": "UNIFAP - Universidade Federal do Amapa",
-            "pt-br": "UNIFAP - Universidade Federal do Amapa"
-        },
         "https://cafe.unifesspa.edu.br/idp/shibboleth": {
             "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
             "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
@@ -984,10 +980,6 @@
             "en": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano",
             "pt-br": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano"
         },
-        "https://idp-cafe.inma.gov.br/idp/shibboleth": {
-            "en": "INMA - Instituto Nacional da Mata Atlantica",
-            "pt-br": "INMA - Instituto Nacional da Mata Atlantica"
-        },
         "https://idp-cafe.uea.edu.br/idp/shibboleth": {
             "en": "UEA - Universidade do Estado do Amazonas",
             "pt-br": "UEA - Universidade do Estado do Amazonas"
@@ -999,10 +991,6 @@
         "https://idp-cafe.ufcspa.edu.br/idp/shibboleth": {
             "en": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre",
             "pt-br": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre"
-        },
-        "https://idp-cafe.unifal-mg.edu.br/idp/shibboleth": {
-            "en": "UNIFAL-MG - Universidade Federal de Alfenas",
-            "pt-br": "UNIFAL-MG - Universidade Federal de Alfenas"
         },
         "https://idp-cafe.unisc.br/idp/shibboleth": {
             "en": "UNISC - Universidade de Santa Cruz do Sul",
@@ -1151,6 +1139,10 @@
         "https://idp.ufvjm.edu.br/idp/shibboleth": {
             "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
             "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
+        },
+        "https://idp.unifap.br/idp/shibboleth": {
+            "en": "UNIFAP - Universidade Federal do Amapa",
+            "pt-br": "UNIFAP - Universidade Federal do Amapa"
         },
         "https://idp.unifesp.br/idp/shibboleth": {
             "en": "UNIFESP - Universidade Federal de Sao Paulo",
@@ -11819,6 +11811,9 @@
         "https://sso.kkben.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Bentong"
         },
+        "https://sso.kkbera.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Bera"
+        },
         "https://sso.kkbesut.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Besut"
         },
@@ -11849,6 +11844,12 @@
         "https://sso.kkche.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Chenderoh"
         },
+        "https://sso.kkck.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Kemaman"
+        },
+        "https://sso.kkcm.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Manjung"
+        },
         "https://sso.kkgri.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Gerik"
         },
@@ -11857,6 +11858,9 @@
         },
         "https://sso.kkhse.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Hulu Selangor"
+        },
+        "https://sso.kkjel.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Jelebu"
         },
         "https://sso.kkjerai.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Jerai"
@@ -11887,6 +11891,9 @@
         },
         "https://sso.kkkotamarudu.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kota Marudu"
+        },
+        "https://sso.kkkotatinggi.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Kota Tinggi"
         },
         "https://sso.kkkp.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kuala Pilah"
@@ -11951,6 +11958,9 @@
         "https://sso.kkrembau.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Rembau"
         },
+        "https://sso.kkrompin.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Rompin"
+        },
         "https://sso.kkrtcg.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti RTC Gopeng"
         },
@@ -11992,6 +12002,9 @@
         },
         "https://sso.kkss.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Sungai Siput"
+        },
+        "https://sso.kkssp.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Semporna"
         },
         "https://sso.kktaiping.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Taiping"
@@ -13402,10 +13415,6 @@
             "en": "University of Évora",
             "pt": "Universidade de Évora"
         },
-        "https://conferencia.exercito.pt/idp/shibboleth": {
-            "en": "Academia Militar",
-            "pt": "Academia Militar"
-        },
         "https://esel-idp02.esel.pt/idp/shibboleth": {
             "en": "Lisbon Nursing High School",
             "pt": "Escola Superior de Enfermagem de Lisboa"
@@ -13501,6 +13510,10 @@
         "https://idp.estgv.ipv.pt/idp/shibboleth": {
             "en": "Escola Superior de Tecnologia e Gestão de Viseu",
             "pt": "Escola Superior de Tecnologia e Gestão de Viseu"
+        },
+        "https://idp.exercito.pt/idp/shibboleth": {
+            "en": "Academia Militar",
+            "pt": "Academia Militar"
         },
         "https://idp.fccn.pt/idp/shibboleth": {
             "en": "FCT|FCCN",
@@ -16965,6 +16978,9 @@
         },
         "https://cas.kumc.edu/idp/shibboleth": {
             "en": "University of Kansas Medical Center"
+        },
+        "https://casprod.lamar.edu/idp/shibboleth": {
+            "en": "Lamar University"
         },
         "https://certify.skidmore.edu/idp/shibboleth": {
             "en": "Skidmore College"

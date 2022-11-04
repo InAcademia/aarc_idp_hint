@@ -53,6 +53,9 @@
     "https://sso.kkben.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Bentong"
     },
+    "https://sso.kkbera.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Bera"
+    },
     "https://sso.kkbesut.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Besut"
     },
@@ -83,6 +86,12 @@
     "https://sso.kkche.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Chenderoh"
     },
+    "https://sso.kkck.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Kemaman"
+    },
+    "https://sso.kkcm.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Manjung"
+    },
     "https://sso.kkgri.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Gerik"
     },
@@ -91,6 +100,9 @@
     },
     "https://sso.kkhse.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Hulu Selangor"
+    },
+    "https://sso.kkjel.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Jelebu"
     },
     "https://sso.kkjerai.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Jerai"
@@ -121,6 +133,9 @@
     },
     "https://sso.kkkotamarudu.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kota Marudu"
+    },
+    "https://sso.kkkotatinggi.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Kota Tinggi"
     },
     "https://sso.kkkp.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kuala Pilah"
@@ -185,6 +200,9 @@
     "https://sso.kkrembau.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Rembau"
     },
+    "https://sso.kkrompin.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Rompin"
+    },
     "https://sso.kkrtcg.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti RTC Gopeng"
     },
@@ -226,6 +244,9 @@
     },
     "https://sso.kkss.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Sungai Siput"
+    },
+    "https://sso.kkssp.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Semporna"
     },
     "https://sso.kktaiping.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Taiping"

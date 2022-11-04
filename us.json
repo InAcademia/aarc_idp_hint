@@ -128,6 +128,9 @@
     "https://cas.kumc.edu/idp/shibboleth": {
         "en": "University of Kansas Medical Center"
     },
+    "https://casprod.lamar.edu/idp/shibboleth": {
+        "en": "Lamar University"
+    },
     "https://certify.skidmore.edu/idp/shibboleth": {
         "en": "Skidmore College"
     },

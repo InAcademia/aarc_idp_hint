@@ -3,10 +3,6 @@
         "en": "University of Évora",
         "pt": "Universidade de Évora"
     },
-    "https://conferencia.exercito.pt/idp/shibboleth": {
-        "en": "Academia Militar",
-        "pt": "Academia Militar"
-    },
     "https://esel-idp02.esel.pt/idp/shibboleth": {
         "en": "Lisbon Nursing High School",
         "pt": "Escola Superior de Enfermagem de Lisboa"
@@ -102,6 +98,10 @@
     "https://idp.estgv.ipv.pt/idp/shibboleth": {
         "en": "Escola Superior de Tecnologia e Gestão de Viseu",
         "pt": "Escola Superior de Tecnologia e Gestão de Viseu"
+    },
+    "https://idp.exercito.pt/idp/shibboleth": {
+        "en": "Academia Militar",
+        "pt": "Academia Militar"
     },
     "https://idp.fccn.pt/idp/shibboleth": {
         "en": "FCT|FCCN",
