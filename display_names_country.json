@@ -992,6 +992,10 @@
             "en": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre",
             "pt-br": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre"
         },
+        "https://idp-cafe.unifal-mg.edu.br/idp/shibboleth": {
+            "en": "UNIFAL-MG - Universidade Federal de Alfenas",
+            "pt-br": "UNIFAL-MG - Universidade Federal de Alfenas"
+        },
         "https://idp-cafe.unisc.br/idp/shibboleth": {
             "en": "UNISC - Universidade de Santa Cruz do Sul",
             "pt-br": "UNISC - Universidade de Santa Cruz do Sul"
