@@ -10315,6 +10315,9 @@
         "https://idp.nitj.ac.in/idp/shibboleth": {
             "en": "Dr B R Ambedkar National Institute of Technology Jalandhar"
         },
+        "https://idp.nitjsr.ac.in/idp/shibboleth": {
+            "en": "National Institute of Technology, Jamshedpur"
+        },
         "https://idp.nitrkl.ac.in/idp/shibboleth": {
             "en": "National Institute of Technology, Rourkela"
         },
