@@ -1244,10 +1244,6 @@
             "en": "UNIFRAN - Universidade de Franca",
             "pt-br": "UNIFRAN - Universidade de Franca"
         },
-        "https://idpcafe.unisinos.br/idp/shibboleth": {
-            "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
-            "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
-        },
         "https://idpcafe.upe.br/idp/shibboleth": {
             "en": "UPE - Universidade de Pernambuco",
             "pt-br": "UPE - Universidade de Pernambuco"
@@ -6815,6 +6811,10 @@
             "en": "https://idp.unak.is",
             "is": "Háskólinn á Akureyri"
         },
+        "https://saml.sdmk.dk/www/saml2/idp/metadata.php": {
+            "da": "Syddansk Musikkonservatorium",
+            "en": "Danish National Academy of Music"
+        },
         "https://saml.signon.ruc.dk/idp": {
             "da": "Roskilde Universitet (RUC)",
             "en": "Roskilde University (RUC)"
@@ -9092,6 +9092,10 @@
         "https://sts.windows.net/538dc00c-d9ba-4814-ab23-584b8a2baac7/": {
             "en": "Burgundy School Of Business",
             "fr": "Burgundy School Of Business"
+        },
+        "https://sts.windows.net/a62898dc-c8d8-4c60-b805-02b5ad10c983/": {
+            "en": "Toulouse Business School",
+            "fr": "Toulouse Business School"
         },
         "https://sts.windows.net/b78d03e6-f6a2-4cff-83be-847d1a6453f9/": {
             "en": "SKEMA Business School",
@@ -13388,6 +13392,10 @@
             "en": "Opole University",
             "pl": "Uniwersytet Opolski"
         },
+        "https://shibidp.umb.edu.pl/idp/shibboleth": {
+            "en": "Medical University of Bialystok",
+            "pl": "Uniwersytet Medyczny w Białymstoku"
+        },
         "https://sso.agh.edu.pl/saml/metadata": {
             "en": "AGH University of Science and Technology",
             "pl": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie"
@@ -14217,6 +14225,9 @@
         },
         "https://nus.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "NUS - National University of Singapore"
+        },
+        "https://rp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+            "en": "RP - Republic Polytechnic"
         },
         "https://sit.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "SIT - Singapore Institute Of Technology"

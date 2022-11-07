@@ -222,6 +222,10 @@
         "en": "Opole University",
         "pl": "Uniwersytet Opolski"
     },
+    "https://shibidp.umb.edu.pl/idp/shibboleth": {
+        "en": "Medical University of Bialystok",
+        "pl": "Uniwersytet Medyczny w Białymstoku"
+    },
     "https://sso.agh.edu.pl/saml/metadata": {
         "en": "AGH University of Science and Technology",
         "pl": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie"

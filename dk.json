@@ -190,6 +190,10 @@
         "en": "https://idp.unak.is",
         "is": "Háskólinn á Akureyri"
     },
+    "https://saml.sdmk.dk/www/saml2/idp/metadata.php": {
+        "da": "Syddansk Musikkonservatorium",
+        "en": "Danish National Academy of Music"
+    },
     "https://saml.signon.ruc.dk/idp": {
         "da": "Roskilde Universitet (RUC)",
         "en": "Roskilde University (RUC)"
