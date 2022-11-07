@@ -427,6 +427,10 @@
         "de": "Hochschule Biberach",
         "en": "Hochschule Biberach"
     },
+    "https://idp.hochschule-stralsund.de/idp/shibboleth": {
+        "de": "Hochschule Stralsund - University of Applied Sciences",
+        "en": "University of Applied Sciences Stralsund"
+    },
     "https://idp.hof-university.de/idp/shibboleth": {
         "de": "Hochschule für Angewandte Wissenschaften Hof",
         "en": "University of Applied Sciences Hof"
