@@ -1203,6 +1203,10 @@
         "en": "Nanjing Tech University",
         "zh": "南京工业大学(Nanjing Tech University)"
     },
+    "https://idp.njts.edu.cn/idp/shibboleth": {
+        "en": "Nanjing Normal University of Special Education",
+        "zh": "南京特殊教育师范学院(Nanjing Normal University of Special Education)"
+    },
     "https://idp.nju.edu.cn/idp/shibboleth": {
         "en": "Nanjing University",
         "zh": "南京大学(Nanjing University)"

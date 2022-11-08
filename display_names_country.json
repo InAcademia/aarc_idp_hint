@@ -688,10 +688,6 @@
             "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
             "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
         },
-        "https://cafe.fucape.br/idp/shibboleth": {
-            "en": "FUCAPE - Fundacao Inst. Cap. de Pesq. em Cont., Econ. e Financas.",
-            "pt-br": "FUCAPE - Fundacao Inst. Cap. de Pesq. em Cont., Econ. e Financas."
-        },
         "https://cafe.fumec.br/idp/shibboleth": {
             "en": "FUMEC - Universidade Fumec",
             "pt-br": "FUMEC - Universidade Fumec"
@@ -1243,6 +1239,10 @@
         "https://idpcafe.unifran.br/idp/shibboleth": {
             "en": "UNIFRAN - Universidade de Franca",
             "pt-br": "UNIFRAN - Universidade de Franca"
+        },
+        "https://idpcafe.unisinos.br/idp/shibboleth": {
+            "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
+            "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
         },
         "https://idpcafe.upe.br/idp/shibboleth": {
             "en": "UPE - Universidade de Pernambuco",
@@ -3411,6 +3411,10 @@
         "https://idp.njtech.edu.cn/idp/shibboleth": {
             "en": "Nanjing Tech University",
             "zh": "南京工业大学(Nanjing Tech University)"
+        },
+        "https://idp.njts.edu.cn/idp/shibboleth": {
+            "en": "Nanjing Normal University of Special Education",
+            "zh": "南京特殊教育师范学院(Nanjing Normal University of Special Education)"
         },
         "https://idp.nju.edu.cn/idp/shibboleth": {
             "en": "Nanjing University",
@@ -13288,6 +13292,10 @@
         "https://idpe.sum.edu.pl/idp/shibboleth": {
             "en": "Medical University of Silesia",
             "pl": "Śląski Uniwersytet Medyczny w Katowicach"
+        },
+        "https://idpionier.wseiz.pl/idp/shibboleth": {
+            "en": "University of Ecology and Management Warsaw",
+            "pl": "Wyższa Szkoła Ekologii i Zarządzania"
         },
         "https://juno-to-jupiter.wsisiz.edu.pl/idp/shibboleth": {
             "en": "Warsaw School of Information Technology (WIT)",
