@@ -5,6 +5,9 @@
     "https://buidp01.hkbu.edu.hk/idp/shibboleth": {
         "en": "Hong Kong Baptist University"
     },
+    "https://ec2-52-6-26-82.compute-1.amazonaws.com/idp/shibboleth": {
+        "en": "JUCC Institution"
+    },
     "https://hkafidp.hku.hk/idp/shibboleth": {
         "en": "The University of Hong Kong"
     },

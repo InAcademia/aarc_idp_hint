@@ -124,10 +124,13 @@
         "en": "VIB-UGent IRC"
     },
     "https://sso.vito.be": {
-        "en": "VITO"
+        "en": "VITO-old"
     },
     "https://sts.windows.net/2d714a65-b97f-41a9-8ff1-ec2cdf7df5cd/": {
         "en": "VIB"
+    },
+    "https://sts.windows.net/9e2777ed-8237-4ab9-9278-2c144d6f6da3/": {
+        "en": "VITO"
     },
     "urn:mace:kuleuven.be:kulassoc:kuleuven.be": {
         "en": "KU Leuven Association",

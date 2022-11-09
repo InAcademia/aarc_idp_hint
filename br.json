@@ -271,6 +271,10 @@
         "en": "UFSC - Universidade Federal de Santa Catarina",
         "pt-br": "UFSC - Universidade Federal de Santa Catarina"
     },
+    "https://cafeidp.ufdpar.edu.br/idp/shibboleth": {
+        "en": "UFDPAR - Universidade Federal do Delta do Parnaiba",
+        "pt-br": "UFDPAR - Universidade Federal do Delta do Parnaiba"
+    },
     "https://cafeidp.unemat.br/idp/shibboleth": {
         "en": "UNEMAT - Universidade do Estado de Mato Grosso",
         "pt-br": "UNEMAT - Universidade do Estado de Mato Grosso"
@@ -382,6 +386,10 @@
     "https://idp-cafe.unisc.br/idp/shibboleth": {
         "en": "UNISC - Universidade de Santa Cruz do Sul",
         "pt-br": "UNISC - Universidade de Santa Cruz do Sul"
+    },
+    "https://idp-cafe.unisinos.br/idp/shibboleth": {
+        "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
+        "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
     },
     "https://idp-novo.uncisal.edu.br/idp/shibboleth": {
         "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas",
@@ -626,10 +634,6 @@
     "https://idpcafe.unifran.br/idp/shibboleth": {
         "en": "UNIFRAN - Universidade de Franca",
         "pt-br": "UNIFRAN - Universidade de Franca"
-    },
-    "https://idpcafe.unisinos.br/idp/shibboleth": {
-        "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
-        "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
     },
     "https://idpcafe.upe.br/idp/shibboleth": {
         "en": "UPE - Universidade de Pernambuco",
