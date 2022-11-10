@@ -70,6 +70,10 @@
     "https://idp.he2b.be/idp/shibboleth": {
         "en": "Haute École Bruxelles-Brabant (HE2B)"
     },
+    "https://idp.heaj.be/idp/shibboleth": {
+        "en": "Higher Education Institution Albert Jacquard (HEAJ)",
+        "fr": "Haute Ecole Albert Jacquard (HEAJ)"
+    },
     "https://idp.heh.be/idp/shibboleth": {
         "en": "Haute Ecole en Hainaut"
     },

@@ -75,6 +75,10 @@
         "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
         "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
     },
+    "https://cafe.fucape.br/idp/shibboleth": {
+        "en": "FUCAPE - Fundacao Inst. Cap. de Pesq. em Cont., Econ. e Financas.",
+        "pt-br": "FUCAPE - Fundacao Inst. Cap. de Pesq. em Cont., Econ. e Financas."
+    },
     "https://cafe.fumec.br/idp/shibboleth": {
         "en": "FUMEC - Universidade Fumec",
         "pt-br": "FUMEC - Universidade Fumec"
@@ -210,10 +214,6 @@
     "https://cafe.unicap.br/idp/shibboleth": {
         "en": "UNICAP - Universidade Catolica de Pernambuco",
         "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
-    },
-    "https://cafe.unicentro.br/idp/shibboleth": {
-        "en": "UNICENTRO - Universidade Estadual do Centro-Oeste",
-        "pt-br": "UNICENTRO - Universidade Estadual do Centro-Oeste"
     },
     "https://cafe.unifesspa.edu.br/idp/shibboleth": {
         "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",

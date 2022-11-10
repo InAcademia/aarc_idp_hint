@@ -191,6 +191,9 @@
     "https://icidp.osrhe.edu/idp/shibboleth": {
         "en": "Oklahoma State Regents for Higher Education/OneNet"
     },
+    "https://id.dri.edu/idp": {
+        "en": "Desert Research Institute"
+    },
     "https://id.nps.edu/idp/shibboleth": {
         "en": "Naval Postgraduate School"
     },
