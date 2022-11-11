@@ -418,14 +418,6 @@
             "en": "AzScienceNet"
         }
     },
-    "bd": {
-        "https://idp.bdren.net.bd/idp/shibboleth": {
-            "en": "Bangladesh Research and Education Network"
-        },
-        "https://idp.tigerfed.net.bd/idp/shibboleth": {
-            "en": "TIGERFed Federation"
-        }
-    },
     "be": {
         "http://adfs.helb-prigogine.be/adfs/services/trust": {
             "en": "http://adfs.helb-prigogine.be/adfs/services/trust"
@@ -1366,6 +1358,10 @@
         "https://redecafe.enap.gov.br/idp/shibboleth": {
             "en": "ENAP - Escola Nacional de Administracao Publica",
             "pt-br": "ENAP - Escola Nacional de Administracao Publica"
+        },
+        "https://rnp2.unip.br/idp/shibboleth": {
+            "en": "UNIP - Universidade Paulista",
+            "pt-br": "UNIP - Universidade Paulista"
         },
         "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
             "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
@@ -11091,6 +11087,10 @@
         "https://asura.seijo.ac.jp/idp/shibboleth": {
             "en": "Seijo University",
             "ja": "成城大学"
+        },
+        "https://auas.akita-u.ac.jp/idp/shibboleth": {
+            "en": "Akita University",
+            "ja": "秋田大学"
         },
         "https://authidp1.iimc.kyoto-u.ac.jp/idp/shibboleth": {
             "en": "Kyoto University",

@@ -747,6 +747,10 @@
         "en": "ENAP - Escola Nacional de Administracao Publica",
         "pt-br": "ENAP - Escola Nacional de Administracao Publica"
     },
+    "https://rnp2.unip.br/idp/shibboleth": {
+        "en": "UNIP - Universidade Paulista",
+        "pt-br": "UNIP - Universidade Paulista"
+    },
     "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
         "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
         "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"

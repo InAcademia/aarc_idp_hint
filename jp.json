@@ -3,6 +3,10 @@
         "en": "Seijo University",
         "ja": "成城大学"
     },
+    "https://auas.akita-u.ac.jp/idp/shibboleth": {
+        "en": "Akita University",
+        "ja": "秋田大学"
+    },
     "https://authidp1.iimc.kyoto-u.ac.jp/idp/shibboleth": {
         "en": "Kyoto University",
         "ja": "京都大学"
