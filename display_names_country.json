@@ -418,6 +418,14 @@
             "en": "AzScienceNet"
         }
     },
+    "bd": {
+        "https://idp.bdren.net.bd/idp/shibboleth": {
+            "en": "Bangladesh Research and Education Network"
+        },
+        "https://idp.tigerfed.net.bd/idp/shibboleth": {
+            "en": "TIGERFed Federation"
+        }
+    },
     "be": {
         "http://adfs.helb-prigogine.be/adfs/services/trust": {
             "en": "http://adfs.helb-prigogine.be/adfs/services/trust"
