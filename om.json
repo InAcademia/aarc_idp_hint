@@ -125,6 +125,9 @@
     "https://idp.icem.edu.om/idp/shibboleth": {
         "en": "International College of Engineering and Management (OM-KID)"
     },
+    "https://idp.met.gov.om/idp": {
+        "en": "DGMET"
+    },
     "https://idp.omancollege.edu.om/idp/shibboleth": {
         "en": "Oman College Of Management and Technology (OM-KID)"
     },
@@ -136,6 +139,9 @@
     },
     "https://idp.shct.edu.om/idp/shibboleth": {
         "en": "Shinas College of Technology (OM-KID)"
+    },
+    "https://idp.suc.edu.om/idp": {
+        "en": "Sur University College (shibboleth)"
     },
     "https://idp.unizwa.edu.om/idp": {
         "en": "University of Nizwa(shibboleth)"

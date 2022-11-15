@@ -313,6 +313,9 @@
     "https://shibidp.uwo.ca/idp/shibboleth": {
         "en": "University of Western Ontario"
     },
+    "https://sso.coastmountaincollege.ca/idp": {
+        "en": "Coast Mountain College Authentication Bridge"
+    },
     "https://sso.mcmaster.ca/idp/shibboleth": {
         "en": "McMaster University"
     },

@@ -1939,6 +1939,9 @@
         "https://shibidp.uwo.ca/idp/shibboleth": {
             "en": "University of Western Ontario"
         },
+        "https://sso.coastmountaincollege.ca/idp": {
+            "en": "Coast Mountain College Authentication Bridge"
+        },
         "https://sso.mcmaster.ca/idp/shibboleth": {
             "en": "McMaster University"
         },
@@ -3514,6 +3517,10 @@
         "https://idp.pxu.edu.cn/idp/shibboleth": {
             "en": "Pingxiang University",
             "zh": "萍乡学院(Pingxiang University)"
+        },
+        "https://idp.qdgw.edu.cn/idp/shibboleth": {
+            "en": "Qingdao Harbour Vocational & Technical College",
+            "zh": "青岛港湾职业技术学院(Qingdao Harbour Vocational & Technical College)"
         },
         "https://idp.qdhhc.edu.cn/idp/shibboleth": {
             "en": "Qingdao Huanghai University",
@@ -13052,6 +13059,9 @@
         "https://idp.icem.edu.om/idp/shibboleth": {
             "en": "International College of Engineering and Management (OM-KID)"
         },
+        "https://idp.met.gov.om/idp": {
+            "en": "DGMET"
+        },
         "https://idp.omancollege.edu.om/idp/shibboleth": {
             "en": "Oman College Of Management and Technology (OM-KID)"
         },
@@ -13063,6 +13073,9 @@
         },
         "https://idp.shct.edu.om/idp/shibboleth": {
             "en": "Shinas College of Technology (OM-KID)"
+        },
+        "https://idp.suc.edu.om/idp": {
+            "en": "Sur University College (shibboleth)"
         },
         "https://idp.unizwa.edu.om/idp": {
             "en": "University of Nizwa(shibboleth)"
@@ -13238,6 +13251,10 @@
         "https://cas.ue.katowice.pl/cas/idp": {
             "en": "University of Economics in Katowice",
             "pl": "Uniwersytet Ekonomiczny w Katowicach"
+        },
+        "https://cas.ukw.edu.pl/idp": {
+            "en": "Kazimierz Wielki University",
+            "pl": "Uniwersytet Kazimierza Wielkiego"
         },
         "https://cas.uwb.edu.pl/cas/idp/metadata": {
             "en": "University of Bialystok",
