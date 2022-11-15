@@ -119,6 +119,9 @@
     "https://discovery.omren.om/simplesaml/saml2/idp/metadata.php": {
         "en": "IdP Proxy"
     },
+    "https://idp.act.edu.om/idp": {
+        "en": "University of Technology and Applied Sciences - Al Musanna (shibboleth)"
+    },
     "https://idp.cas.omren.om/idp": {
         "en": "CAS"
     },
@@ -126,7 +129,7 @@
         "en": "International College of Engineering and Management (OM-KID)"
     },
     "https://idp.met.gov.om/idp": {
-        "en": "DGMET"
+        "en": "Directorate General Of Meteorology"
     },
     "https://idp.omancollege.edu.om/idp/shibboleth": {
         "en": "Oman College Of Management and Technology (OM-KID)"
