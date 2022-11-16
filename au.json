@@ -47,6 +47,9 @@
     "https://idp.uwa.edu.au/idp/shibboleth": {
         "en": "The University of Western Australia"
     },
+    "https://idp.uws.edu.au/idp/shibboleth": {
+        "en": "Western Sydney University"
+    },
     "https://idp.wehi.edu.au/idp/shibboleth": {
         "en": "The Walter and Eliza Hall Institute of Medical Research"
     },
