@@ -630,6 +630,10 @@
             "en": "UP - Universidade Positivo",
             "pt-br": "UP - Universidade Positivo"
         },
+        "https://1010se17fam-v18.famerp.br/idp/shibboleth": {
+            "en": "FAMERP - Faculdade de Medicina de Rio Preto",
+            "pt-br": "FAMERP - Faculdade de Medicina de Rio Preto"
+        },
         "https://acesso.ufabc.edu.br/idp/shibboleth": {
             "en": "UFABC - Universidade Federal do ABC",
             "pt-br": "UFABC - Universidade Federal do ABC"
@@ -13930,6 +13934,10 @@
         "https://edugain.tpu.ru/idp/shibboleth": {
             "en": "TPU IdP",
             "ru": "ТПУ IdP"
+        },
+        "https://fedurus.sgu.ru/idp/shibboleth": {
+            "en": "Saratov State University",
+            "ru": "Саратовский национальный исследовательский государственный университет имени Н. Г. Чернышевского"
         },
         "https://idp-01.runnet.ru/saml/saml2/idp/metadata.php": {
             "en": "RUNNET IDP",
