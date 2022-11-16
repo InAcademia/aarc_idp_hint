@@ -219,6 +219,10 @@
         "en": "UNICAP - Universidade Catolica de Pernambuco",
         "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
     },
+    "https://cafe.unicentro.br/idp/shibboleth": {
+        "en": "UNICENTRO - Universidade Estadual do Centro-Oeste",
+        "pt-br": "UNICENTRO - Universidade Estadual do Centro-Oeste"
+    },
     "https://cafe.unifesspa.edu.br/idp/shibboleth": {
         "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
         "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
@@ -758,6 +762,10 @@
     "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
         "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
         "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
+    },
+    "https://servercafe.iftm.edu.br/idp/shibboleth": {
+        "en": "IFTM - Instituto Federal do Triangulo Mineiro",
+        "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
     },
     "https://shibboleth-s1.ufersa.edu.br/idp/shibboleth": {
         "en": "UFERSA - Universidade Federal Rural Do Semi-Arido",
