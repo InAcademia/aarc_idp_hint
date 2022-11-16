@@ -14643,6 +14643,10 @@
             "en": "Middle East Technical University",
             "tr": "Orta Doğu Teknik Üniversitesi"
         },
+        "https://idp.msu.edu.tr/idp/shibboleth": {
+            "en": "National Defense University",
+            "tr": "Milli Savunma Üniversitesi"
+        },
         "https://idp.ogu.edu.tr/idp/shibboleth": {
             "en": "Eskisehir Osmangazi University",
             "tr": "Eskişehir Osmangazi Üniversitesi"
