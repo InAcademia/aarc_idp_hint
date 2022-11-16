@@ -13080,9 +13080,6 @@
         "https://idp.shct.edu.om/idp/shibboleth": {
             "en": "Shinas College of Technology (OM-KID)"
         },
-        "https://idp.suc.edu.om/idp": {
-            "en": "Sur University College (shibboleth)"
-        },
         "https://idp.unizwa.edu.om/idp": {
             "en": "University of Nizwa(shibboleth)"
         },
