@@ -56,6 +56,9 @@
     "https://kafe.pusan.ac.kr/idp/simplesamlphp": {
         "en": "Pusan National University"
     },
+    "https://kafe.skku.edu/idp/simplesamlphp": {
+        "en": "Sungkyunkwan University"
+    },
     "https://kafe.unist.ac.kr/idp/simplesamlphp": {
         "en": "Ulsan National Institute of Science and Technology"
     },

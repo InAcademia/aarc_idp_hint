@@ -7094,6 +7094,10 @@
             "en": "Unidad Educativa Salesiana Cardenal Spellman - spellman",
             "es": "Unidad Educativa Salesiana Cardenal Spellman - spellman"
         },
+        "https://login.sudamericano.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Instituto de Tecnologías Sudamericano - sudamericano",
+            "es": "Instituto de Tecnologías Sudamericano - sudamericano"
+        },
         "https://login.tecnologicoitca.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Tecnológico Superior José Chiriboga Grijalva - tecnologicoitca",
             "es": "Instituto Tecnológico Superior José Chiriboga Grijalva - tecnologicoitca"
@@ -11442,6 +11446,9 @@
         },
         "https://kafe.pusan.ac.kr/idp/simplesamlphp": {
             "en": "Pusan National University"
+        },
+        "https://kafe.skku.edu/idp/simplesamlphp": {
+            "en": "Sungkyunkwan University"
         },
         "https://kafe.unist.ac.kr/idp/simplesamlphp": {
             "en": "Ulsan National Institute of Science and Technology"
