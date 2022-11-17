@@ -6540,8 +6540,8 @@
             "en": "Hochschule für Philosophie München"
         },
         "https://sso.hmtm.de/idp/shibboleth": {
-            "de": "HMTM IdP",
-            "en": "HMTM IdP"
+            "de": "Hochschule für Musik und Theater München - HMTM",
+            "en": "Hochschule für Musik und Theater München - HMTM"
         },
         "https://sso.hochschule-rhein-waal.de/idp/shibboleth": {
             "de": "Hochschule Rhein-Waal",
@@ -11043,6 +11043,10 @@
         "https://idp01.ogs.trieste.it/idp/shibboleth": {
             "en": "National Institute of Oceanography and Experimental Geophysics",
             "it": "OGS (Istituto Nazionale di Oceanografia e di Geofisica Sperimentale)"
+        },
+        "https://idp02.ogs.it/idp/shibboleth": {
+            "en": "National Institute of Oceanography and Applied Geophysics - OGS",
+            "it": "Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS"
         },
         "https://idpi.unirc.it/idp/shibboleth": {
             "en": "Mediterranea University of Reggio Calabria",

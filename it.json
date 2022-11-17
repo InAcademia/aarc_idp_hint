@@ -493,6 +493,10 @@
         "en": "National Institute of Oceanography and Experimental Geophysics",
         "it": "OGS (Istituto Nazionale di Oceanografia e di Geofisica Sperimentale)"
     },
+    "https://idp02.ogs.it/idp/shibboleth": {
+        "en": "National Institute of Oceanography and Applied Geophysics - OGS",
+        "it": "Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS"
+    },
     "https://idpi.unirc.it/idp/shibboleth": {
         "en": "Mediterranea University of Reggio Calabria",
         "it": "Università degli Studi Mediterranea di Reggio Calabria"
