@@ -16967,7 +16967,7 @@
             "en": "North Idaho College"
         },
         "http://adfs.nsf.gov/adfs/services/trust": {
-            "en": "National Science Foundation (Staff Login)"
+            "en": "NSF (National Science Foundation ) Staff Login"
         },
         "http://adfs.otc.edu/adfs/services/trust": {
             "en": "Ozarks Technical Community College"
@@ -17095,6 +17095,9 @@
         "https://cma-shibboleth.csum.edu/idp/shibboleth": {
             "en": "California Maritime Academy"
         },
+        "https://connect.drexel.edu/idp": {
+            "en": "Drexel University"
+        },
         "https://csupidp.csupueblo.edu/idp/shibboleth": {
             "en": "Colorado State University - Pueblo"
         },
@@ -17174,7 +17177,7 @@
             "en": "Harvey Mudd College"
         },
         "https://identity.research.gov/sso": {
-            "en": "National Science Foundation (Researcher Login)"
+            "en": "NSF (National Science Foundation ) Researcher Login"
         },
         "https://identityprovider.anl.gov/idp/shibboleth": {
             "en": "Argonne National Laboratory"
