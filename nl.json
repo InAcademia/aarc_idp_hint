@@ -244,8 +244,8 @@
         "nl": "Sociaal en Cultureel Planbureau"
     },
     "http://login.surf.nl/adfs/services/trust": {
-        "en": "SURF (New)",
-        "nl": "SURF (Nieuw)"
+        "en": "SURF",
+        "nl": "SURF"
     },
     "http://login.uva.nl/adfs/services/trust": {
         "en": "University of Amsterdam",
