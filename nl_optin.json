@@ -92,8 +92,8 @@
         "nl": "Hogeschool Saxion"
     },
     "http://login.surf.nl/adfs/services/trust": {
-        "en": "SURF (New)",
-        "nl": "SURF (Nieuw)"
+        "en": "SURF",
+        "nl": "SURF"
     },
     "http://login.uva.nl/adfs/services/trust": {
         "en": "University of Amsterdam",
@@ -230,6 +230,10 @@
     "https://sts.windows.net/6200b37c-a03e-4996-ab02-6f5b017bb20f/": {
         "en": "Iselinge university of applied sciences",
         "nl": "Iselinge Hogeschool"
+    },
+    "https://sts.windows.net/672799eb-10ac-4a8b-aeae-e288e053f500/": {
+        "en": "Nyenrode Business Universiteit",
+        "nl": "Nyenrode Business Universiteit"
     },
     "https://sts.windows.net/715902d6-f63e-4b8d-929b-4bb170bad492/": {
         "en": "Erasmus University Rotterdam",
