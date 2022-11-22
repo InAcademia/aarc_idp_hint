@@ -10143,6 +10143,9 @@
         "https://idp.bmu.edu.in/idp/shibboleth": {
             "en": "BML Munjal University"
         },
+        "https://idp.bpsmvedp.ac.in/idp/shibboleth": {
+            "en": "Bhagat Phool Singh Mahila Vishwavidyalaya"
+        },
         "https://idp.bvmengineering.ac.in/idp/shibboleth": {
             "en": "Birla Vishvakarma Mahavidyalaya (BVM) Engineering College"
         },
