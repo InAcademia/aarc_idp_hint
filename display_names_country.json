@@ -419,6 +419,12 @@
             "en": "The University of Queensland"
         }
     },
+    "az": {
+        "https://idp1.azsciencenet.az/simplesaml/saml2/idp/metadata.php": {
+            "az": "AzScienceNet",
+            "en": "AzScienceNet"
+        }
+    },
     "bd": {
         "https://idp.bdren.net.bd/idp/shibboleth": {
             "en": "Bangladesh Research and Education Network"
