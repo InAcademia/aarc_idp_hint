@@ -20,6 +20,9 @@
     "https://identity.iith.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Technology Hyderabad (IITH)"
     },
+    "https://idp-registry.ligo-india.in/idp/shibboleth": {
+        "en": "LIGO-India Scientific Collaboration"
+    },
     "https://idp.aiktclibrary.org/idp/shibboleth": {
         "en": "Anjuman-I-Islams Kalsekar Technical Campus"
     },
@@ -238,6 +241,9 @@
     },
     "https://idp.kuk.ac.in/idp/shibboleth": {
         "en": "Kurukshetra University"
+    },
+    "https://idp.ligo-india.in/idp/shibboleth": {
+        "en": "LIGO-India Scientific Collaboration"
     },
     "https://idp.lnmiit.ac.in/idp/shibboleth": {
         "en": "The LNM Institute of Information Technology"
