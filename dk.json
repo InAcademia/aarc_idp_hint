@@ -64,10 +64,6 @@
         "da": "Maskinmesterskolen København",
         "en": "Copenhagen School of Marine Engineering and Technology Management"
     },
-    "http://fg.ucsyd.dk/adfs/services/trust": {
-        "da": "UC SYD",
-        "en": "University College South Denmark"
-    },
     "http://fs.basyd.dk/adfs/services/trust": {
         "da": "IBA Erhvervsakademi Kolding",
         "en": "IBA International Business Academy"
@@ -217,6 +213,10 @@
     "https://sts.windows.net/30be3e72-3ef8-4594-bfa3-6423b003e88c/": {
         "da": "Det Kongelige Danske Musikkonservatorium",
         "en": "Royal Danish Academy of Music"
+    },
+    "https://sts.windows.net/31240c9f-6150-4803-84df-28b22fb965a4/": {
+        "da": "UC SYD",
+        "en": "University College South Denmark"
     },
     "https://sts.windows.net/3a70e0e7-446e-4496-ba84-702d31dbe830/": {
         "da": "Københavns Professionshøjskole",
