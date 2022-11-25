@@ -4413,10 +4413,6 @@
         "https://idp.cut.ac.cy/idp/shibboleth": {
             "en": "Cyprus University of Technology"
         },
-        "https://idp.cynet.ac.cy/idp/shibboleth": {
-            "el": "ΚΕΑΔ",
-            "en": "CYNET"
-        },
         "https://idp.frederick.ac.cy/idp/shibboleth": {
             "en": "Frederick University"
         },
