@@ -6231,6 +6231,10 @@
             "de": "Folkwang Universität der Künste",
             "en": "Folkwang University of the Arts"
         },
+        "https://login.global.mpg.de/idp": {
+            "de": "Max-Planck-Gesellschaft (Generalverwaltung)",
+            "en": "Max Planck Society (Administrative Headquarters)"
+        },
         "https://login.haw-hamburg.de/nidp/saml2/metadata": {
             "de": "Hochschule für Angewandte Wissenschaften Hamburg",
             "en": "Hamburg University of Applied Sciences"
