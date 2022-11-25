@@ -8422,6 +8422,10 @@
             "en": "CROUS Paris",
             "fr": "CROUS Paris"
         },
+        "https://idp.crous-toulouse.fr/idp/shibboleth": {
+            "en": "CROUS Toulouse - Personnels v4 en validation",
+            "fr": "CROUS Toulouse - Personnels v4 en validation"
+        },
         "https://idp.cue-lillenorddefrance.fr/shibboleth": {
             "en": "Communauté d'Universités et d'Etablissements - Lille Nord de France",
             "fr": "Communauté d'Universités et d'Etablissements - Lille Nord de France"
