@@ -127,9 +127,6 @@
     "https://sso.irc.ugent.be/auth/realms/irc": {
         "en": "VIB-UGent IRC"
     },
-    "https://sso.vito.be": {
-        "en": "VITO-old"
-    },
     "https://sts.windows.net/2d714a65-b97f-41a9-8ff1-ec2cdf7df5cd/": {
         "en": "VIB"
     },
