@@ -13522,6 +13522,10 @@
         "https://sso.wst.com.pl/idp/shibboleth": {
             "en": "University of Technology in Katowice",
             "pl": "Wyższa Szkoła Techniczna w Katowicach"
+        },
+        "https://usoscas.ath.bielsko.pl/cas/idp": {
+            "en": "University of Bielsko-Biała",
+            "pl": "Akademia Techniczno-Humanistyczna w Bielsku-Białej"
         }
     },
     "pt": {
