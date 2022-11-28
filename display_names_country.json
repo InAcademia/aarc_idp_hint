@@ -14864,6 +14864,10 @@
             "en": "Dokuz Eylul University",
             "tr": "Dokuz Eylül Üniversitesi"
         },
+        "https://kimlik.dicle.edu.tr/idp/shibboleth": {
+            "en": "Dicle University",
+            "tr": "Dicle Üniversitesi"
+        },
         "https://kimlik.dogus.edu.tr/idp/shibboleth": {
             "en": "Dogus University",
             "tr": "Doğuş Üniversitesi"
