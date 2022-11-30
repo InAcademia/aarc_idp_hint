@@ -10039,6 +10039,9 @@
         "https://idp.ncri.ie/idp/shibboleth": {
             "en": "The National Cancer Registry Ireland"
         },
+        "https://idp.nui.ie/idp/shibboleth": {
+            "en": "National University of Ireland"
+        },
         "https://idp.nuigalway.ie/shibboleth": {
             "en": "National University of Ireland, Galway",
             "ga": "OÉ Gaillimh"
