@@ -665,9 +665,6 @@
     "https://login.emory.edu/idp/shibboleth": {
         "en": "Emory University"
     },
-    "https://login.fandm.edu/idp/shibboleth": {
-        "en": "Franklin & Marshall College"
-    },
     "https://login.icermali.org/idp/shibboleth": {
         "en": "ICER - Mali"
     },
