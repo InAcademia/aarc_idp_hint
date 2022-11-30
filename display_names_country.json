@@ -719,6 +719,10 @@
             "en": "FURG - Universidade Federal do Rio Grande",
             "pt-br": "FURG - Universidade Federal do Rio Grande"
         },
+        "https://cafe.ibict.br/idp/shibboleth": {
+            "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
+            "pt-br": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia"
+        },
         "https://cafe.idp.edu.br/idp/shibboleth": {
             "en": "IDP - Instituto Brasiliense de Direito Publico",
             "pt-br": "IDP - Instituto Brasiliense de Direito Publico"
