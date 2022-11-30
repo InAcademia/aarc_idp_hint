@@ -774,6 +774,7 @@
     "https://idem-idp.imtlucca.it/idp/shibboleth": "IMT School for Advanced Studies Lucca - IDP",
     "https://idem-idp.uniud.it/idp/shibboleth": "University of Udine",
     "https://idem.ced.inaf.it/idp/shibboleth": "National Institute for Astrophysics - INAF",
+    "https://idem.elettra.eu/idp/shibboleth": "Elettra Sincrotrone Trieste S.C.p.A",
     "https://idem.eui.eu/idp/shibboleth": "European University Institute",
     "https://idem.iss.it/idp/shibboleth": "ISS - National Health Institute",
     "https://idem.polito.it/idp/shibboleth": "Politecnico of Torino",

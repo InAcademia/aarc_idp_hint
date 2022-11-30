@@ -10628,6 +10628,10 @@
             "en": "National Institute for Astrophysics - INAF",
             "it": "Istituto Nazionale di Astrofisica - INAF"
         },
+        "https://idem.elettra.eu/idp/shibboleth": {
+            "en": "Elettra Sincrotrone Trieste S.C.p.A",
+            "it": "Elettra Sincrotrone Trieste S.C.p.A"
+        },
         "https://idem.eui.eu/idp/shibboleth": {
             "en": "European University Institute",
             "it": "Istituto Universitario Europeo"
