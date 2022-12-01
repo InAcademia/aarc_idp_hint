@@ -439,6 +439,10 @@
         "en": "The school of engineers in computer intelligence (EPITA)",
         "fr": "L' École pour l’informatique et les techniques avancées ( EPITA)"
     },
+    "https://idp.esaip.org/idp/shibboleth": {
+        "en": "ESAIP",
+        "fr": "ESAIP"
+    },
     "https://idp.esc-pau.fr/idp/shibboleth": {
         "en": "ESC PAU Business School",
         "fr": "ESC PAU Business School"
