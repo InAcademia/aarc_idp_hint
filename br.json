@@ -707,10 +707,6 @@
         "en": "UENP - Universidade Estadual do Norte do Parana",
         "pt-br": "UENP - Universidade Estadual do Norte do Parana"
     },
-    "https://kraz.aeb.gov.br/idp/shibboleth": {
-        "en": "AEB - Agencia Espacial Brasileira",
-        "pt-br": "AEB - Agencia Espacial Brasileira"
-    },
     "https://ldap.modal.org.br/idp/shibboleth": {
         "en": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao",
         "pt-br": "MODAL - Instituto Modal de Ciencia, Tecnologia e Inovacao"
@@ -986,6 +982,10 @@
     "https://st1-rnp-01.fundacaowilsonpicler.org.br/idp/shibboleth": {
         "en": "FWP - Fundacao Wilson Picler",
         "pt-br": "FWP - Fundacao Wilson Picler"
+    },
+    "https://svlapshibboleth.aeb.gov.br/idp/shibboleth": {
+        "en": "AEB - Agencia Espacial Brasileira",
+        "pt-br": "AEB - Agencia Espacial Brasileira"
     },
     "https://svr-apl57.unilasalle.edu.br/idp/shibboleth": {
         "en": "UNILASALLE - Universidade La Salle",
