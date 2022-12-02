@@ -159,7 +159,7 @@
         "en": "University of Wisconsin-River Falls"
     },
     "https://fandm.us001-rapididentity.com/idp": {
-        "en": "Franklin & Marshall College - RapidIdentity"
+        "en": "Franklin & Marshall College"
     },
     "https://fed.huit.harvard.edu/idp/shibboleth": {
         "en": "Harvard University"
@@ -1093,6 +1093,9 @@
     },
     "https://sso-login.vanderbilt.edu": {
         "en": "Vanderbilt University (VU)"
+    },
+    "https://sso.amnh.org/idp": {
+        "en": "American Museum of Natural History - Richard Gilder Graduate School - Cirrus Bridge"
     },
     "https://sso.athena-institute.net/idp": {
         "en": "Athena Institute - Azure AD"
