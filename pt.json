@@ -159,6 +159,10 @@
         "en": "Instituto Politécnico da Guarda",
         "pt": "Instituto Politécnico da Guarda"
     },
+    "https://idp.ipiaget.org/idp/shibboleth": {
+        "en": "IPiaget",
+        "pt": "IPiaget"
+    },
     "https://idp.ipluso.pt/idp/shibboleth": {
         "en": "Instituto Politécnico da Lusofonia",
         "pt": "Instituto Politécnico da Lusofonia"
