@@ -191,6 +191,9 @@
         "en": "ROC Rivor",
         "nl": "ROC Rivor"
     },
+    "http://fs.sorg.nl/adfs/services/trust": {
+        "en": "http://fs.sorg.nl/adfs/services/trust"
+    },
     "http://fs.umcutrecht.nl/adfs/services/trust": {
         "en": "Universitair Medisch Centrum Utrecht",
         "nl": "Universitair Medisch Centrum Utrecht"
@@ -602,6 +605,10 @@
     "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
         "en": "HAS green academy",
         "nl": "HAS green academy"
+    },
+    "https://sts.windows.net/d463b487-b035-4a2c-9e71-b8d599eb3d0f/": {
+        "en": "Theologische Universiteit Kampen",
+        "nl": "Theologische Universiteit Kampen"
     },
     "https://sts.windows.net/e5c78cdf-04b3-4b36-a97a-4f15e225efd3/": {
         "en": "Thomas More Hogeschool",
