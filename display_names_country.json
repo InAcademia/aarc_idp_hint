@@ -10683,7 +10683,7 @@
             "en": "University of Ferrara",
             "it": "Università di Ferrara"
         },
-        "https://idp-acs.beniculturali.garr.it/idp/shibboleth": {
+        "https://idp-acs.idpcloud.garr.it/idp/shibboleth": {
             "en": "Central State Archives",
             "it": "Archivio Centrale dello Stato"
         },
@@ -10847,7 +10847,7 @@
             "en": "IRCCS San Raffaele Pisana - Rome",
             "it": "IRCCS San Raffaele Pisana - Roma"
         },
-        "https://idp-ssbar.beniculturali.garr.it/idp/shibboleth": {
+        "https://idp-ssr.idpcloud.garr.it/idp/shibboleth": {
             "en": "SSABAP RM - Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma",
             "it": "SSABAP RM - Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma"
         },
@@ -11471,6 +11471,9 @@
         },
         "https://iam.kribb.re.kr/idp/simplesamlphp": {
             "en": "Korea Research Institute of Bioscience and Biotechnology"
+        },
+        "https://iam.kriso.re.kr/idp/simplesamlphp": {
+            "en": "Korea Research Institute of Ships and Ocean Engineering"
         },
         "https://iam.nnfc.re.kr/idp/simplesamlphp": {
             "en": "National NanoFab Center"
