@@ -2914,10 +2914,6 @@
             "en": "GuangXi University",
             "zh": "广西大学(GuangXi University)"
         },
-        "https://idp.gxun.edu.cn/idp/shibboleth": {
-            "en": "GuangXi University For Nationalities",
-            "zh": "广西民族大学(GuangXi University For Nationalities)"
-        },
         "https://idp.gxust.edu.cn/idp/shibboleth": {
             "en": "Guangxi University of Science and Technology",
             "zh": "广西科技大学(Guangxi University of Science and Technology)"
@@ -11471,9 +11467,6 @@
         },
         "https://iam.kribb.re.kr/idp/simplesamlphp": {
             "en": "Korea Research Institute of Bioscience and Biotechnology"
-        },
-        "https://iam.kriso.re.kr/idp/simplesamlphp": {
-            "en": "Korea Research Institute of Ships and Ocean Engineering"
         },
         "https://iam.nnfc.re.kr/idp/simplesamlphp": {
             "en": "National NanoFab Center"

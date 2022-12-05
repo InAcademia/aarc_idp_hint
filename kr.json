@@ -20,9 +20,6 @@
     "https://iam.kribb.re.kr/idp/simplesamlphp": {
         "en": "Korea Research Institute of Bioscience and Biotechnology"
     },
-    "https://iam.kriso.re.kr/idp/simplesamlphp": {
-        "en": "Korea Research Institute of Ships and Ocean Engineering"
-    },
     "https://iam.nnfc.re.kr/idp/simplesamlphp": {
         "en": "National NanoFab Center"
     },
