@@ -17209,6 +17209,9 @@
         "https://icidp.osrhe.edu/idp/shibboleth": {
             "en": "Oklahoma State Regents for Higher Education/OneNet"
         },
+        "https://id.csn.edu/idp": {
+            "en": "College of Southern Nevada"
+        },
         "https://id.dri.edu/idp": {
             "en": "Desert Research Institute"
         },

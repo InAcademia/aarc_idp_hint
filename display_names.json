@@ -751,6 +751,7 @@
     "https://icidp.osrhe.edu/idp/shibboleth": "Oklahoma State Regents for Higher Education/OneNet",
     "https://id.auf.org/idp/saml2/metadata": "Agence Universitaire de la Francophonie (AUF)",
     "https://id.cbu.edu.tr/simplesaml/saml2/idp/metadata.php": "Manisa Celal Bayar University",
+    "https://id.csn.edu/idp": "College of Southern Nevada",
     "https://id.dri.edu/idp": "Desert Research Institute",
     "https://id.ecoledulouvre.com/simplesaml/saml2/idp/metadata.php": "École du Louvre (Users)",
     "https://id.inesc-id.pt/saml": "Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento",
