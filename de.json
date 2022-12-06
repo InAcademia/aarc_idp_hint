@@ -15,6 +15,10 @@
         "de": "Helmholtz Zentrum München GmbH (HMGU)",
         "en": "Helmholtz Zentrum Muenchen GmbH (HMGU)"
     },
+    "https://aai.hfk-bremen.de/idp/shibboleth": {
+        "de": "Hochschule für Künste Bremen",
+        "en": "University of the Arts Bremen"
+    },
     "https://aai.ipk-gatersleben.de/idp/shibboleth": {
         "de": "IPK Gatersleben",
         "en": "IPK Gatersleben"
