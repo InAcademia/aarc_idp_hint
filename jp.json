@@ -203,6 +203,10 @@
         "en": "Fukuyama University",
         "ja": "福山大学"
     },
+    "https://odidp.cc.okayama-u.ac.jp/idp/shibboleth": {
+        "en": "Okayama University",
+        "ja": "岡山大学"
+    },
     "https://servs.lib.meiji.ac.jp/idp/shibboleth": {
         "en": "Meiji University",
         "ja": "明治大学"
