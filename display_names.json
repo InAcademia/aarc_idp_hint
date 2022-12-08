@@ -634,6 +634,7 @@
     "https://edulidp01.hants.gov.uk/idp/shibboleth": "Hampshire County Council",
     "https://eenet.harid.ee/sso/saml2/idp/metadata.php": "EENet SSO",
     "https://ehu.sso.litnet.lt/auth/saml2/idp/metadata.php": "European Humanities University",
+    "https://eid.swu.bg/idp/shibboleth": "South-West Unversity \"Neofit Rilski\"",
     "https://eidp.llnl.gov": "Lawrence Livermore National Laboratory",
     "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": "Eko-Konnect Research and Education Initiative",
     "https://el-shib.redbridge-college.ac.uk/idp/shibboleth": "Redbridge College",

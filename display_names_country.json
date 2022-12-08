@@ -578,6 +578,10 @@
             "bg": "Медицински университет Плевен",
             "en": "Medical University Pleven"
         },
+        "https://eid.swu.bg/idp/shibboleth": {
+            "bg": "Югозападен университет \"Неофит Рилски\"",
+            "en": "South-West Unversity \"Neofit Rilski\""
+        },
         "https://ewp.unibit.bg/idp/shibboleth": {
             "bg": "Университет по библиотекознание и информационни технологии.",
             "en": "University of Library Studies and Information technologies"
