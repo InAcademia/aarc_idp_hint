@@ -108,6 +108,9 @@
     "https://idp.vub.be/idp/sso": {
         "en": "Vrije Universiteit Brussel"
     },
+    "https://idp01.he-ferrer.eu.trials.vip/idp/shibboleth": {
+        "en": "IdP 01 He-ferrer"
+    },
     "https://idpx.ua.ac.be/idp/shibboleth": {
         "en": "Universiteit Antwerpen"
     },
