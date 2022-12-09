@@ -241,6 +241,7 @@
     "http://sts.admin.pk.edu.pl/adfs/services/trust/": "Cracow University of Technology",
     "http://sts.ait.dtu.dk/adfs/services/trust": "Technical University of Denmark (DTU)",
     "http://sts.algomau.ca/adfs/services/trust": "Algoma University",
+    "http://sts.amsterdamumc.nl/adfs/services/trust": "Amsterdam UMC",
     "http://sts.cencol.ca/adfs/services/trust": "Centennial College",
     "http://sts.dc-uoit.ca/adfs/services/trust": "Durham College and Ontario Tech University",
     "http://sts.drenthecollege.nl/adfs/services/trust": "Drenthe College",
