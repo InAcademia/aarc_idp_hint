@@ -9798,6 +9798,10 @@
             "en": "Károli Gáspár University of the Reformed Church in Hungary",
             "hu": "Károli Gáspár Református Egyetem"
         },
+        "https://idp.lfze.hu/simplesaml/saml2/idp/metadata.php": {
+            "en": "Liszt Ferenc Academy of Music",
+            "hu": "Liszt Ferenc Zeneművészeti Egyetem (Zeneakadémia)"
+        },
         "https://idp.metropolitan.hu/simplesaml": {
             "en": "Budapest Metropolitan University",
             "hu": "Budapesti Metropolitan Egyetem"
