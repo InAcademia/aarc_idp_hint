@@ -13374,6 +13374,10 @@
             "en": "Academy of Art in Szczecin",
             "pl": "Akademia Sztuki w Szczecinie"
         },
+        "https://idp.amuz.gda.pl/idp/shibboleth": {
+            "en": "Academy of Music in Gdańsk",
+            "pl": "Akademia Muzyczna w Gdańsku"
+        },
         "https://idp.amw.gdynia.pl/Saml2IDP/proxy.xml": {
             "en": "Polish Naval Academy",
             "pl": "Akademia Marynarki Wojennej"
