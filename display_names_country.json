@@ -9505,6 +9505,10 @@
         "https://idp.pgnp.gr/idp/shibboleth": {
             "en": "https://idp.pgnp.gr/idp/shibboleth"
         },
+        "https://idp.psp.org.gr/idp/shibboleth": {
+            "el": "Επιστημονικό Πάρκο Πατρών - ΕΠΠ",
+            "en": "Patras Science Park - PSP"
+        },
         "https://idp.rethymnohospital.gr/idp/shibboleth": {
             "en": "https://idp.rethymnohospital.gr/idp/shibboleth"
         },
