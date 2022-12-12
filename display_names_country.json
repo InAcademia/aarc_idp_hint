@@ -7597,6 +7597,10 @@
             "en": "Instituto Tecnológico Agrario de Castilla y León",
             "es": "Instituto Tecnológico Agrario de Castilla y León"
         },
+        "https://www.rediris.es/sir/itaidp": {
+            "en": "Instituto Tecnologico de Aragon",
+            "es": "Instituto Tecnológico de Aragón"
+        },
         "https://www.rediris.es/sir/ivieidp": {
             "en": "Instituto Valenciano de Investigaciones Economicas",
             "es": "Instituto Valenciano de Investigaciones Económicas"
@@ -7696,6 +7700,10 @@
         "https://www.rediris.es/sir/ucamidp": {
             "en": "Universidad Catolica San Antonio de Murcia",
             "es": "Universidad Católica San Antonio de Murcia"
+        },
+        "https://www.rediris.es/sir/ucavilaidp": {
+            "en": "Universidad Catolica de Avila",
+            "es": "Universidad Católica de Ávila"
         },
         "https://www.rediris.es/sir/uchceuidp": {
             "en": "Universidad CEU Cardenal Herrera",
