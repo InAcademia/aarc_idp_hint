@@ -759,6 +759,10 @@
         "en": "ENAP - Escola Nacional de Administracao Publica",
         "pt-br": "ENAP - Escola Nacional de Administracao Publica"
     },
+    "https://redecafe.gigacandanga.net.br/idp/shibboleth": {
+        "en": "GIGA - Associacao GigaCandanga",
+        "pt-br": "GIGA - Associacao GigaCandanga"
+    },
     "https://rnp2.unip.br/idp/shibboleth": {
         "en": "UNIP - Universidade Paulista",
         "pt-br": "UNIP - Universidade Paulista"
