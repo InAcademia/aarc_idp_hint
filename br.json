@@ -267,6 +267,10 @@
         "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
         "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
     },
+    "https://cafe2022.lncc.br/idp/shibboleth": {
+        "en": "LNCC - Laboratorio Nacional de Computacao Cientifica",
+        "pt-br": "LNCC - Laboratorio Nacional de Computacao Cientifica"
+    },
     "https://cafe4.ifms.edu.br/idp/shibboleth": {
         "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
         "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
