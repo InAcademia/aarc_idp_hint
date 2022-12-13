@@ -17788,12 +17788,6 @@
         "https://login.oregonstate.edu/idp/shibboleth": {
             "en": "Oregon State University"
         },
-        "https://login.otis.edu/idp/shibboleth": {
-            "en": "Otis College of Art and Design"
-        },
-        "https://login.regis.edu": {
-            "en": "Regis University"
-        },
         "https://login.rowan.edu": {
             "en": "Rowan University"
         },
