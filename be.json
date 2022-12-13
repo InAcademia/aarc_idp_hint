@@ -136,6 +136,9 @@
     "https://sts.windows.net/9e2777ed-8237-4ab9-9278-2c144d6f6da3/": {
         "en": "VITO"
     },
+    "https://sts.windows.net/a72d5a72-25ee-40f0-9bd1-067cb5b770d4/": {
+        "en": "imec"
+    },
     "urn:mace:kuleuven.be:kulassoc:kuleuven.be": {
         "en": "KU Leuven Association",
         "nl": "Associatie KU Leuven"
