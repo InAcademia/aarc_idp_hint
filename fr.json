@@ -11,6 +11,10 @@
         "en": "CEA {SILAB}",
         "fr": "CEA {SILAB}"
     },
+    "http://lg.excelia-group.com/adfs/services/trust": {
+        "en": "Excelia",
+        "fr": "Excelia"
+    },
     "http://sso.inrs.fr/adfs/services/trust": {
         "en": "National Research and Safety Institute (INRS - French)",
         "fr": "Institut National de Recherche et de Sécurité (INRS - France)"

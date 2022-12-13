@@ -199,6 +199,7 @@
     "http://idp.northampton.ac.uk/oala/metadata": "University of Northampton (IDP)",
     "http://idp.rhul.ac.uk/oala": "Royal Holloway, University of London",
     "http://idp.vr.se/adfs/services/trust": "The Swedish Research Council",
+    "http://lg.excelia-group.com/adfs/services/trust": "Excelia",
     "http://login.collegeboreal.ca": "Collège Boréal",
     "http://login.hva.nl/adfs/services/trust": "Hogeschool van Amsterdam",
     "http://login.kienict.nl/adfs/services/trust": "Coöperatie KIEN",
