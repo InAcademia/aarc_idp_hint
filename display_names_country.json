@@ -2052,6 +2052,10 @@
             "de": "PHBern - Pädagogische Hochschule Bern",
             "en": "PHBern - Pädagogische Hochschule Bern"
         },
+        "https://aai-login.phnmsbern.ch/idp/shibboleth": {
+            "de": "PH NMS Bern",
+            "en": "PH NMS Bern"
+        },
         "https://aai-login.phsg.ch/idp/shibboleth": {
             "de": "PHSG - Pädagogische Hochschule St.Gallen",
             "en": "PHSG - Pädagogische Hochschule St.Gallen"
