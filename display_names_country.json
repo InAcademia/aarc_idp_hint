@@ -1317,6 +1317,10 @@
             "en": "UEMASUL - Uni.Estadual Reg.Tocantina do Maranhao",
             "pt-br": "UEMASUL - Uni.Estadual Reg.Tocantina do Maranhao"
         },
+        "https://idpv3-hsr.hsr.com.br/idp/shibboleth": {
+            "en": "HSR - Hospital Sao Rafael S.A",
+            "pt-br": "HSR - Hospital Sao Rafael S.A"
+        },
         "https://idpv3.lna.br/idp/shibboleth": {
             "en": "LNA - Laboratorio Nacional de Astrofisica",
             "pt-br": "LNA - Laboratorio Nacional de Astrofisica"

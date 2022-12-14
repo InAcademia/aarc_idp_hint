@@ -3343,6 +3343,7 @@
     "https://idpuemasul.uemasul.edu.br/idp/shibboleth": "UEMASUL - Uni.Estadual Reg.Tocantina do Maranhao",
     "https://idpuniba.uniba.it/simplesaml/saml2/idp/metadata.php": "University of Bari Aldo Moro",
     "https://idpunict.unict.it/idp/shibboleth": "University of Catania",
+    "https://idpv3-hsr.hsr.com.br/idp/shibboleth": "HSR - Hospital Sao Rafael S.A",
     "https://idpv3.btc.ac.uk/idp/shibboleth": "Bridgwater & Taunton College",
     "https://idpv3.crous-reims.fr/idp/shibboleth": "CROUS Reims",
     "https://idpv3.crous-versailles.fr/idp/shibboleth": "CROUS Versailles V3",
