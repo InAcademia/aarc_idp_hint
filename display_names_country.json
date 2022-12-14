@@ -3372,6 +3372,10 @@
             "en": "Liaoning Technical University",
             "zh": "辽宁工程技术大学(Liaoning Technical University)"
         },
+        "https://idp.lnu.edu.cn/idp/shibboleth": {
+            "en": "Liaoning University",
+            "zh": "辽宁大学(Liaoning University)"
+        },
         "https://idp.lnut.edu.cn/idp/shibboleth": {
             "en": "Liaoning University of Technology",
             "zh": "辽宁工业大学(Liaoning University of Technology)"
