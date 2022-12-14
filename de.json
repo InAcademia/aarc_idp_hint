@@ -1019,10 +1019,6 @@
         "de": "DHBW Ravensburg",
         "en": "DHBW Ravensburg"
     },
-    "https://login.dipf.de/idp/shibboleth": {
-        "de": "DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation",
-        "en": "DIPF | Leibniz Institute for Research and Information in Education"
-    },
     "https://login.fernuni-hagen.de/idp/shibboleth": {
         "de": "FernUniversität in Hagen",
         "en": "University in Hagen"
