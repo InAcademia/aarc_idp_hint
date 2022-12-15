@@ -722,6 +722,9 @@
     "https://login.uc.edu/idp/shibboleth": {
         "en": "University of Cincinnati Main Campus"
     },
+    "https://login.uconn.edu/cas/idp/metadata": {
+        "en": "UConn CAS SSO"
+    },
     "https://login.ufl.edu/idp/shibboleth": {
         "en": "University of Florida"
     },
@@ -754,6 +757,9 @@
     },
     "https://mckinley.csuci.edu/idp/shibboleth": {
         "en": "California State University, Channel Islands"
+    },
+    "https://miracosta.fedgw.com/gateway": {
+        "en": "MiraCosta College"
     },
     "https://my.atsu.edu/swPublicSSO/SAML/incommon": {
         "en": "A. T. Still University"
