@@ -116,6 +116,10 @@
         "de": "PSI - Paul Scherrer Institut",
         "en": "PSI - Paul Scherrer Institut"
     },
+    "https://aai-logon.slsp.ch/idp/shibboleth": {
+        "de": "SLSP - Swiss Library Service Platform Mitarbeitende",
+        "en": "SLSP - Swiss Library Service Platform Staff"
+    },
     "https://aai-logon.switch.ch/idp/shibboleth": {
         "de": "SWITCH Mitarbeitende",
         "en": "SWITCH Staff"
