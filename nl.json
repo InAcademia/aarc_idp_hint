@@ -192,7 +192,8 @@
         "nl": "ROC Rivor"
     },
     "http://fs.sorg.nl/adfs/services/trust": {
-        "en": "http://fs.sorg.nl/adfs/services/trust"
+        "en": "Hoornbeeck College, Van Lodenstein College en SORG",
+        "nl": "Hoornbeeck College, Van Lodenstein College en SORG"
     },
     "http://fs.umcutrecht.nl/adfs/services/trust": {
         "en": "Universitair Medisch Centrum Utrecht",
