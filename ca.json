@@ -30,6 +30,9 @@
         "en": "Université du Québec en Abitibi-Témiscamingue",
         "fr": "Université du Québec en Abitibi-Témiscamingue"
     },
+    "http://adfs.viu.ca/adfs/services/trust": {
+        "en": "Vancouver Island University"
+    },
     "http://adfs2019.caftest.canarie.ca/adfs/services/trust": {
         "en": "Z- ADFSToolkit IdP - adfs2019"
     },
@@ -162,6 +165,9 @@
     "https://idp.cybera.ca/simplesaml/saml2/idp/metadata.php": {
         "en": "Cybera",
         "fr": "Cybera"
+    },
+    "https://idp.dawsoncollege.qc.ca/idp": {
+        "en": "Dawson College"
     },
     "https://idp.ecuad.ca/idp/shibboleth": {
         "en": "Emily Carr University of Art and Design"
