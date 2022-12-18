@@ -11,6 +11,9 @@
     "https://idp3.umt.edu.my/idp/shibboleth": {
         "en": "Universiti Malaysia Terengganu"
     },
+    "https://shib-idp.um.edu.my/idp/shibboleth": {
+        "en": "Universiti Malaya (Pilot)"
+    },
     "https://shib-idp.upnm.edu.my/idp/shibboleth": {
         "en": "Universiti Pertahanan Nasional Malaysia"
     },
