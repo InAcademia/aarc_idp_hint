@@ -31,6 +31,10 @@
         "en": "Southern Federal University",
         "ru": "Южный Федеральный Университет"
     },
+    "https://idp.nwipa.ru/idp/shibboleth": {
+        "en": "The North-West Institute of Management RANEPA",
+        "ru": "Северо-Западный Институт Управления РАНХиГС"
+    },
     "https://idp.spbu.ru/idp/shibboleth": {
         "en": "Saint-Petersburg State University",
         "ru": "Санкт-Петербургский государственный университет"
