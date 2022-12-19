@@ -8478,10 +8478,6 @@
             "en": "CROUS Toulouse - Personnels v4 en validation",
             "fr": "CROUS Toulouse - Personnels v4 en validation"
         },
-        "https://idp.cue-lillenorddefrance.fr/shibboleth": {
-            "en": "Communauté d'Universités et d'Etablissements - Lille Nord de France",
-            "fr": "Communauté d'Universités et d'Etablissements - Lille Nord de France"
-        },
         "https://idp.curie.fr/idp/saml2/metadata": {
             "en": "Institut Curie - Research center",
             "fr": "Institut Curie - Centre de recherche"
@@ -14108,7 +14104,7 @@
         },
         "https://idp.nwipa.ru/idp/shibboleth": {
             "en": "The North-West Institute of Management RANEPA",
-            "ru": "Северо-Западный Институт Управления РАНХиГС"
+            "ru": "Северо-Западный институт управления РАНХиГС"
         },
         "https://idp.spbu.ru/idp/shibboleth": {
             "en": "Saint-Petersburg State University",

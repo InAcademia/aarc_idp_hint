@@ -367,10 +367,6 @@
         "en": "CROUS Toulouse - Personnels v4 en validation",
         "fr": "CROUS Toulouse - Personnels v4 en validation"
     },
-    "https://idp.cue-lillenorddefrance.fr/shibboleth": {
-        "en": "Communauté d'Universités et d'Etablissements - Lille Nord de France",
-        "fr": "Communauté d'Universités et d'Etablissements - Lille Nord de France"
-    },
     "https://idp.curie.fr/idp/saml2/metadata": {
         "en": "Institut Curie - Research center",
         "fr": "Institut Curie - Centre de recherche"
