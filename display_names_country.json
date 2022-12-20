@@ -7298,6 +7298,10 @@
             "en": "Universidad Técnica de Babahoyo - utb",
             "es": "Universidad Técnica de Babahoyo - utb"
         },
+        "https://login.utc.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad Técnica de Cotopaxi - utc",
+            "es": "Universidad Técnica de Cotopaxi - utc"
+        },
         "https://login.ute.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad UTE - ute",
             "es": "Universidad UTE - ute"
