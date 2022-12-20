@@ -13306,6 +13306,9 @@
         "https://idpomren.majancollege.edu.om/idp": {
             "en": "Majan University College(shibboleth)"
         },
+        "https://idpomren.muscatcollege.edu.om/idp": {
+            "en": "Muscat College (shibboleth)"
+        },
         "https://idpomren.nct.edu.om/idp": {
             "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
         },
