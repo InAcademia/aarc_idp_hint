@@ -12880,6 +12880,10 @@
             "en": "Design Academy Eindhoven",
             "nl": "Design Academy Eindhoven"
         },
+        "https://sts.windows.net/2da0953e-a153-46b0-8a26-934d1d2785ab/": {
+            "en": "ZonMw [MS Azure AD]",
+            "nl": "ZonMw [MS Azure AD]"
+        },
         "https://sts.windows.net/2dd9f889-dc46-4d53-b9e2-ed90804e2a87/": {
             "en": "Onderwijsgroep Tilburg",
             "nl": "Onderwijsgroep Tilburg"
@@ -14569,6 +14573,10 @@
         "https://idp.aos.sk/idp/shibboleth": {
             "en": "Armed Forces Academy of General Milan Rastislav Štefánik",
             "sk": "Akadémia ozbrojených síl generála Milana Rastislava Štefánika"
+        },
+        "https://idp.bisla.sk/idp/shibboleth": {
+            "en": "Bratislava International School of Liberal Arts",
+            "sk": "Bratislavská medzinárodná škola liberálnych štúdií"
         },
         "https://idp.cvtisr.sk/idp/shibboleth": {
             "en": "Slovak Centre of Scientific and Technical Information",
