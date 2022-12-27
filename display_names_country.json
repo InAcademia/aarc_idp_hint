@@ -13669,6 +13669,10 @@
             "en": "ULisboa - Instituto Superior Técnico",
             "pt": "ULisboa - Instituto Superior Técnico"
         },
+        "https://id.ulisboa.pt/nidp/saml2/metadata": {
+            "en": "Universidade de Lisboa",
+            "pt": "Universidade de Lisboa"
+        },
         "https://idp.acad-ciencias.pt/idp/shibboleth": {
             "en": "Academia das Ciências de Lisboa",
             "pt": "Academia das Ciências de Lisboa"

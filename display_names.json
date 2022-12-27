@@ -773,6 +773,7 @@
     "https://id.tecnico.ulisboa.pt/saml": "ULisboa - Instituto Superior Técnico",
     "https://id.uakron.edu/idp/shibboleth": "University of Akron, Main Campus, The",
     "https://id.ucly.fr/idp/shibboleth": "Université Catholique de Lyon",
+    "https://id.ulisboa.pt/nidp/saml2/metadata": "Universidade de Lisboa",
     "https://id.viko.lt/auth/saml2/idp/metadata.php": "Vilnius University of Applied Sciences",
     "https://id.vse.cz/idp/shibboleth": "Prague University of Economics and Business",
     "https://id2.rtu.lv:443/openam": "Riga Technical University",
