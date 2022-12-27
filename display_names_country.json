@@ -13563,6 +13563,10 @@
             "en": "University of Silesia",
             "pl": "Uniwersytet Śląski"
         },
+        "https://logowanie.wat.edu.pl/cas/idp/metadata": {
+            "en": "Military University of Technology",
+            "pl": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego"
+        },
         "https://pioneerid.ump.edu.pl/idp/shibboleth": {
             "en": "Poznan University of Medical Sciences",
             "pl": "Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu"
