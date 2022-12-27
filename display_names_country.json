@@ -13149,7 +13149,7 @@
             "en": "Muscat College"
         },
         "http://adfs.muscatuniversity.edu.om/adfs/services/trust": {
-            "en": "Muscat University"
+            "en": "MUSCAT UNIVERSITY"
         },
         "http://adfs.nct.edu.om/adfs/services/trust": {
             "en": "University of Technology and Applied Sciences - Nizwa"
@@ -13161,7 +13161,7 @@
             "en": "National University of Science and Technology"
         },
         "http://adfs.omren.om/adfs/services/trust": {
-            "en": "OMREN"
+            "en": "OMREN-ADFS"
         },
         "http://adfs.otc.edu.om/adfs/services/trust": {
             "en": "Oman Tourism College"
@@ -13186,9 +13186,6 @@
         },
         "http://adfs.suc.edu.om/adfs/services/trust": {
             "en": "Sur University College"
-        },
-        "http://adfs.survc.edu.om/adfs/services/trust": {
-            "en": "Sur Vocational College"
         },
         "http://adfs.svc.edu.om/adfs/services/trust": {
             "en": "Salalah Vocational College"
@@ -13223,14 +13220,8 @@
         "https://adfs.ibrict.edu.om/adfs/services/trust": {
             "en": "University of Technology and Applied Sciences-Ibri"
         },
-        "https://discovery.omren.om/simplesaml/saml2/idp/metadata.php": {
-            "en": "IdP Proxy"
-        },
         "https://idp.act.edu.om/idp": {
             "en": "University of Technology and Applied Sciences - Al Musanna (shibboleth)"
-        },
-        "https://idp.cas.omren.om/idp": {
-            "en": "CAS"
         },
         "https://idp.icem.edu.om/idp/shibboleth": {
             "en": "International College of Engineering and Management (OM-KID)"
@@ -13242,7 +13233,7 @@
             "en": "Oman College Of Management and Technology (OM-KID)"
         },
         "https://idp.omren.om/idp": {
-            "en": "idp"
+            "en": "OMREN-shib"
         },
         "https://idp.sarh.om/idp": {
             "en": "Sarh"
@@ -13333,9 +13324,6 @@
         },
         "https://idpomren.majancollege.edu.om/idp": {
             "en": "Majan University College(shibboleth)"
-        },
-        "https://idpomren.muscatcollege.edu.om/idp": {
-            "en": "Muscat College (shibboleth)"
         },
         "https://idpomren.nct.edu.om/idp": {
             "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
