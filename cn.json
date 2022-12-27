@@ -1475,6 +1475,10 @@
         "en": "Sichuan Normal University",
         "zh": "四川师范大学(Sichuan Normal University)"
     },
+    "https://idp.sicp.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Industrial and Commercial Polytechnic",
+        "zh": "上海工商职业技术学院(Shanghai Industrial and Commercial Polytechnic)"
+    },
     "https://idp.sisu.edu.cn/idp/shibboleth": {
         "en": "Sichuan International Studies University",
         "zh": "四川外国语大学(Sichuan International Studies University)"
