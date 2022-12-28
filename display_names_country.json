@@ -2670,6 +2670,10 @@
             "en": "Chengdu Vocational & Technical College of Industry",
             "zh": "成都工业职业技术学院(Chengdu Vocational & Technical College of Industry)"
         },
+        "https://idp.cdtc.edu.cn/idp/shibboleth": {
+            "en": "Chengdu Textile College",
+            "zh": "成都纺织高等专科学校(Chengdu Textile College)"
+        },
         "https://idp.cdu.edu.cn/idp/shibboleth": {
             "en": "Chengdu University",
             "zh": "成都大学(Chengdu University)"
