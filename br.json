@@ -383,6 +383,10 @@
         "en": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano",
         "pt-br": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano"
     },
+    "https://idp-cafe.inma.gov.br/idp/shibboleth": {
+        "en": "INMA - Instituto Nacional da Mata Atlantica",
+        "pt-br": "INMA - Instituto Nacional da Mata Atlantica"
+    },
     "https://idp-cafe.uea.edu.br/idp/shibboleth": {
         "en": "UEA - Universidade do Estado do Amazonas",
         "pt-br": "UEA - Universidade do Estado do Amazonas"
