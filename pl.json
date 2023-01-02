@@ -23,6 +23,10 @@
         "en": "University of Information Technology and Management in Rzeszow",
         "pl": "Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie"
     },
+    "https://auth.ap.edu.pl": {
+        "en": "Polonia University in Czestochowa",
+        "pl": "Akademia Polonijna w Częstochowie"
+    },
     "https://auth.wszib.edu.pl/idp/shibboleth": {
         "en": "The School of Banking and Management in Cracow",
         "pl": "Wyższa Szkoła Zarządzania i Bankowości w Krakowie"
