@@ -734,9 +734,6 @@
     "https://login.unlv.edu/FIM/sps/MyShib/saml20": {
         "en": "University of Nevada-Las Vegas"
     },
-    "https://login.uwec.edu/idp/shibboleth": {
-        "en": "University of Wisconsin - Eau Claire"
-    },
     "https://login.weill.cornell.edu/idp": {
         "en": "Weill Cornell Medicine"
     },
@@ -1440,7 +1437,7 @@
         "en": "Old Dominion University"
     },
     "urn:mace:incommon:ohio.edu": {
-        "en": "Ohio University Main Campus"
+        "en": "Ohio University"
     },
     "urn:mace:incommon:ohiolink.edu": {
         "en": "OhioLink"
