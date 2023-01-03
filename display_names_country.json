@@ -13472,6 +13472,10 @@
             "en": "Rzeszow University of Technology",
             "pl": "Politechnika Rzeszowska"
         },
+        "https://idp.swps.edu.pl/idp/shibboleth": {
+            "en": "SWPS University",
+            "pl": "Uniwersytet SWPS"
+        },
         "https://idp.task.gda.pl/idp/shibboleth": {
             "en": "TASK Gdansk",
             "pl": "TASK Gdańsk"
