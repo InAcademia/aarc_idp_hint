@@ -31,10 +31,6 @@
         "en": "UNL - NOVA CAIRO",
         "pt": "UNL - NOVA CAIRO"
     },
-    "https://idp.cenjor.pt/idp/shibboleth": {
-        "en": "Centro Protocolar de Formação Profissional para Jornalistas",
-        "pt": "Centro Protocolar de Formação Profissional para Jornalistas"
-    },
     "https://idp.cespu.pt/idp/shibboleth": {
         "en": "CESPU - Cooperativa de Ensino Superior Politécnico e Universitário",
         "pt": "CESPU - Cooperativa de Ensino Superior Politécnico e Universitário"
@@ -274,10 +270,6 @@
     "https://idp.ufp.pt/idp/shibboleth": {
         "en": "University Fernando Pessoa",
         "pt": "Universidade Fernando Pessoa"
-    },
-    "https://idp.ulp.pt/idp/shibboleth": {
-        "en": "Universidade Lusófona do Porto",
-        "pt": "Universidade Lusófona do Porto"
     },
     "https://idp.ulusofona.pt/idp/shibboleth": {
         "en": "Universidade Lusófona",
