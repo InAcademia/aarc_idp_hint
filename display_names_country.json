@@ -17381,9 +17381,6 @@
         "https://idp.cirrusidentity.com/idp": {
             "en": "Cirrus Identity, Inc."
         },
-        "https://idp.clarion.edu/idp": {
-            "en": "Clarion University"
-        },
         "https://idp.cloud.unizin.org/idp/shibboleth": {
             "en": "Unizin"
         },
@@ -18011,9 +18008,6 @@
         "https://shib1.uwplatt.edu/idp/shibboleth": {
             "en": "University of Wisconsin-Platteville"
         },
-        "https://shib2.its.rochester.edu/idp/shibboleth": {
-            "en": "University of Rochester"
-        },
         "https://shib2.swmed.edu/idp/shibboleth": {
             "en": "University of Texas Southwestern Medical Center at Dallas"
         },
@@ -18352,6 +18346,9 @@
         },
         "https://ucanridp.ucanr.edu/idp/shibboleth": {
             "en": "University of California, Agriculture and Natural Resources"
+        },
+        "https://uidp-prod.its.rochester.edu/idp/shibboleth": {
+            "en": "University Of Rochester"
         },
         "https://uisshibb1.uis.edu/idp/shibboleth": {
             "en": "University of Illinois At Springfield"
