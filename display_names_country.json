@@ -15420,6 +15420,9 @@
         "https://camford-university-demo-idp.jisc.ac.uk/idp": {
             "en": "Camford University"
         },
+        "https://capel.ac.uk/idp": {
+            "en": "Capel Manor College IdP"
+        },
         "https://carmel.ac.uk/idp": {
             "en": "Carmel College"
         },
