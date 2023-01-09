@@ -18309,9 +18309,6 @@
         "https://sso.lsuhsc.edu/idp": {
             "en": "Louisiana State University Health Sciences Center - New Orleans"
         },
-        "https://sso.mansfield.edu/idp/shibboleth": {
-            "en": "Mansfield University of Pennsylvania"
-        },
         "https://sso.memphis.edu/idp/shibboleth": {
             "en": "The University of Memphis"
         },
