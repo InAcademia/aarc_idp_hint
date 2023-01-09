@@ -440,6 +440,9 @@
         "http://adfs.ilvo.be/adfs/services/trust": {
             "en": "Instituut voor Landbouw-, Visserij- en Voedingsonderzoek"
         },
+        "http://federation.helb-prigogine.be/adfs/services/trust": {
+            "en": "Ilya Prigogine"
+        },
         "https://accounts.google.com/o/saml2?idpid=C02lghgox": {
             "en": "IAD-ARTS"
         },
@@ -9817,6 +9820,10 @@
         "https://idp-ehe.etn.hu/saml2/idp/metadata.php": {
             "en": "Evangélikus Hittudományi Egyetem",
             "hu": "Evangélikus Hittudományi Egyetem"
+        },
+        "https://idp-phf.etn.hu/saml2/idp/metadata.php": {
+            "en": "Episcopal Theological College of Pécs",
+            "hu": "Pécsi Püspöki Hittudományi Főiskola"
         },
         "https://idp-ptf.etn.hu/saml2/idp/metadata.php": {
             "en": "Pentecostal Theological College",

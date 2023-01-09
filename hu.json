@@ -47,6 +47,10 @@
         "en": "Evangélikus Hittudományi Egyetem",
         "hu": "Evangélikus Hittudományi Egyetem"
     },
+    "https://idp-phf.etn.hu/saml2/idp/metadata.php": {
+        "en": "Episcopal Theological College of Pécs",
+        "hu": "Pécsi Püspöki Hittudományi Főiskola"
+    },
     "https://idp-ptf.etn.hu/saml2/idp/metadata.php": {
         "en": "Pentecostal Theological College",
         "hu": "Pünkösdi Teológiai Főiskola"
