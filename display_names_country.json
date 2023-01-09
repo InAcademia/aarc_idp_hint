@@ -5001,6 +5001,10 @@
             "cs": "Městská knihovna v Milevsku",
             "en": "Municipal Library in Milevsko"
         },
+        "https://knihovna-benesov.cz/idp/shibboleth": {
+            "cs": "Městská knihovna Benešov",
+            "en": "Municipal Library Benešov"
+        },
         "https://knihovna-cl.cz/idp/shibboleth": {
             "cs": "Městská knihovna Česká Lípa",
             "en": "Municipal Library Česká Lípa"
@@ -5108,6 +5112,10 @@
         "https://knihovnaprerov.cz/idp/shibboleth": {
             "cs": "Městská knihovna v Přerově",
             "en": "Municipal Library Přerov"
+        },
+        "https://knihovnasemily.cz/idp/shibboleth": {
+            "cs": "Městská knihovna Semily",
+            "en": "Municipal Library of Semily"
         },
         "https://knihovnatabor.cz/idp/shibboleth": {
             "cs": "Městská knihovna Tábor",
