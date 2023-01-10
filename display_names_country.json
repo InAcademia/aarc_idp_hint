@@ -1858,9 +1858,6 @@
         "https://idp.identity.uoguelph.ca/idp/shibboleth": {
             "en": "University of Guelph"
         },
-        "https://idp.jibc.ca/idp": {
-            "en": "Justice Institute of British Columbia"
-        },
         "https://idp.lakeheadu.ca/idp/shibboleth": {
             "en": "Lakehead University"
         },
@@ -2004,6 +2001,9 @@
         },
         "https://sso.coastmountaincollege.ca/idp": {
             "en": "Coast Mountain College"
+        },
+        "https://sso.jibc.ca/idp": {
+            "en": "Justice Institute of British Columbia"
         },
         "https://sso.mcmaster.ca/idp/shibboleth": {
             "en": "McMaster University"
