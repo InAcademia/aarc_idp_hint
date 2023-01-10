@@ -12464,8 +12464,8 @@
             "nl": "Aeres"
         },
         "http://adfs.amolf.nl/adfs/services/trust": {
-            "en": "AMOLF",
-            "nl": "AMOLF"
+            "en": "AMOLF / ARCNL",
+            "nl": "AMOLF / ARCNL"
         },
         "http://adfs.artez.nl/adfs/services/trust": {
             "en": "ArtEZ University of the Arts",
