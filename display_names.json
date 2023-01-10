@@ -3321,6 +3321,7 @@
     "https://idpi.unirc.it/idp/shibboleth": "Mediterranea University of Reggio Calabria",
     "https://idpionier.wseiz.pl/idp/shibboleth": "University of Ecology and Management Warsaw",
     "https://idpka.uni-muenster.de/idp/shibboleth": "Kunstakademie Münster",
+    "https://idplaconga.redclara.net/simplesaml/saml2/idp/metadata.php": "https://idplaconga.redclara.net/simplesaml/saml2/idp/metadata.php",
     "https://idplib.bistu.edu.cn/idp/shibboleth": "Beijing Information Science and Technology University",
     "https://idplib.bucm.edu.cn/idp/shibboleth": "Beijing University Of Chinese Medicine",
     "https://idplib.csu.edu.cn/idp/shibboleth": "Central South University",

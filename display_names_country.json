@@ -12413,6 +12413,9 @@
             "en": "Guangdong Science and Technology Library",
             "zh": "广东省科技图书馆"
         },
+        "https://idplaconga.redclara.net/simplesaml/saml2/idp/metadata.php": {
+            "en": "https://idplaconga.redclara.net/simplesaml/saml2/idp/metadata.php"
+        },
         "https://login.imicams.ac.cn/idp/shibboleth": {
             "en": "PUMC ID",
             "zh": "协和统一身份认证"
