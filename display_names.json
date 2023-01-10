@@ -3816,6 +3816,7 @@
     "https://mojeid.cz/saml/idp.xml": "mojeID",
     "https://moodle.londonmetropolitan.college/idp/shibboleth": "London Metropolitan College",
     "https://multipass.imt-lille-douai.fr/idp/shibboleth": "IMT Nord Europe",
+    "https://multipass.imt-nord-europe.fr/idp/shibboleth": "IMT Nord Europe (v4)",
     "https://muzeumcaslav.cz/idp/shibboleth": "Municipal Museum and Library in Caslav",
     "https://my.arthistoricum.net": "Arthistoricum.net - Fachinformationsdienst Kunst, Fotographie, Design",
     "https://my.atsu.edu/swPublicSSO/SAML/incommon": "A. T. Still University",
