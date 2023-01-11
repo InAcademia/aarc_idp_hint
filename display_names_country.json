@@ -5012,6 +5012,10 @@
             "cs": "Městská knihovna Chrudim",
             "en": "Municipal Library Chrudim"
         },
+        "https://knihovna-dobra.cz/idp/shibboleth": {
+            "cs": "Místní knihovna Dobrá",
+            "en": "Municipal Library Dobra"
+        },
         "https://knihovna-ji.cz/idp/shibboleth": {
             "cs": "Městská knihovna Jihlava",
             "en": "Jihlava Town Library"
