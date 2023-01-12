@@ -69,9 +69,6 @@
         "en": "Université du Québec à Chicoutimi",
         "fr": "Université du Québec à Chicoutimi"
     },
-    "http://fs.vcc.ca/adfs/services/trust": {
-        "en": "Vancouver Community College"
-    },
     "http://login.collegeboreal.ca": {
         "en": "Collège Boréal",
         "fr": "Collège Boréal"
@@ -327,6 +324,9 @@
     },
     "https://sso.royalroads.ca/idp": {
         "en": "Royal Roads University"
+    },
+    "https://sso.vcc.ca/idp": {
+        "en": "Vancouver Community College"
     },
     "https://utility.acorn-ns.ca/idp/shibboleth": {
         "en": "ACORN NS"
