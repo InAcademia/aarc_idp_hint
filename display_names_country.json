@@ -14345,6 +14345,10 @@
             "en": "Stockholm University of the Arts",
             "sv": "Stockholms konstnärliga högskola"
         },
+        "https://connect.eduid.se/sunet": {
+            "en": "SUNET - Connect",
+            "sv": "SUNET - Connect"
+        },
         "https://idp-shib.slu.se/idp": {
             "en": "Swedish University of Agricultural Sciences",
             "sv": "Sveriges Lantbruksuniversitet"
