@@ -257,6 +257,7 @@
     "http://sts.talnet.nl/adfs/services/trust": "ROC van Amsterdam - Flevoland",
     "http://sts.tno.nl/adfs/services/trust": "TNO Innovation for life",
     "http://sts.tue.nl/adfs/services/trust": "Eindhoven University of Technology",
+    "http://sts.uidaho.edu/adfs/services/trust": "University of Idaho",
     "http://sts.uj.edu.pl/adfs/services/trust": "Jagiellonian University in Kraków",
     "http://sts.umg.edu.pl/adfs/services/trust": "Gdynia Maritime University",
     "http://sts.univaq.it/adfs/services/trust": "University of L'Aquila",

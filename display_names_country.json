@@ -17225,6 +17225,9 @@
         "http://ssologin.cei.edu/adfs/services/trust": {
             "en": "College of Eastern Idaho"
         },
+        "http://sts.uidaho.edu/adfs/services/trust": {
+            "en": "University of Idaho"
+        },
         "https://academica.aws.wayne.edu/saml2/trust": {
             "en": "Wayne State University"
         },
