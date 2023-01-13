@@ -5037,6 +5037,10 @@
             "cs": "Městská knihovna Vysoké Mýto",
             "en": "Municipal library Vysoke Myto"
         },
+        "https://knihovna-vratimov.cz/idp/shibboleth": {
+            "cs": "Městská knihovna Vratimov",
+            "en": "Municipal Library Vratimov"
+        },
         "https://knihovna.brandysnl.cz/idp/shibboleth": {
             "cs": "Knihovna Eduarda Petišky",
             "en": "Eduard Petiska Library"
@@ -5117,6 +5121,10 @@
             "cs": "Městská knihovna v Přerově",
             "en": "Municipal Library Přerov"
         },
+        "https://knihovnapv.cz/idp/shibboleth": {
+            "cs": "Městská knihovna Prostějov",
+            "en": "Municipal Library Prostějov"
+        },
         "https://knihovnasemily.cz/idp/shibboleth": {
             "cs": "Městská knihovna Semily",
             "en": "Municipal Library of Semily"
@@ -5180,6 +5188,10 @@
         "https://muzeumcaslav.cz/idp/shibboleth": {
             "cs": "Městské muzeum a knihovna Čáslav",
             "en": "Municipal Museum and Library in Caslav"
+        },
+        "https://nipos.cz/idp/shibboleth": {
+            "cs": "Národní informační a poradenské středisko pro kulturu",
+            "en": "National Information and Consulting Centre for Culture"
         },
         "https://pceidp01.nempk.cz/idp/shibboleth": {
             "cs": "Nemocnice Pardubického kraje, a.s.",
