@@ -17262,6 +17262,9 @@
         "https://auth-incommon.siu.edu": {
             "en": "Southern Illinois University"
         },
+        "https://auth-proxy-dev.kent.edu/idp/shibboleth": {
+            "en": "Kent State University - DEV"
+        },
         "https://auth.chaminade.edu/idp/shibboleth": {
             "en": "Chaminade University of Honolulu"
         },
