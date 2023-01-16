@@ -711,6 +711,7 @@
     "https://gakunin1.keio.ac.jp/idp/shibboleth": "Keio University",
     "https://gakunin2.tuat.ac.jp/idp/shibboleth": "Tokyo University of Agriculture and Technology (OLD)",
     "https://gakuninidp.sic.shibaura-it.ac.jp/idp/shibboleth": "Shibaura Institute of Technology",
+    "https://gakuninshib.tmu.ac.jp/idp/shibboleth": "Tokyo Metropolitan University",
     "https://garr-idp-prod.irccs.garr.it/idp/shibboleth": "PROD - IDP in the Cloud Project (GARR)",
     "https://gateway.ncl.ac.uk/idp/shibboleth": "Newcastle University",
     "https://gcidp.gloscol.ac.uk/shibboleth": "Gloucestershire College",

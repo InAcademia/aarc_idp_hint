@@ -11318,6 +11318,10 @@
             "en": "Shibaura Institute of Technology",
             "ja": "芝浦工業大学"
         },
+        "https://gakuninshib.tmu.ac.jp/idp/shibboleth": {
+            "en": "Tokyo Metropolitan University",
+            "ja": "東京都立大学"
+        },
         "https://gidp.adm.u-tokyo.ac.jp/idp/shibboleth": {
             "en": "The University of Tokyo",
             "ja": "東京大学"
