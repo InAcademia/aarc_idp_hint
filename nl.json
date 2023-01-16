@@ -279,6 +279,10 @@
         "en": "NHL Stenden",
         "nl": "NHL Stenden"
     },
+    "http://sts.amc.nl/adfs/services/trust": {
+        "en": "Academisch Medisch Centrum (AMC)",
+        "nl": "Academisch Medisch Centrum (AMC)"
+    },
     "http://sts.amsterdamumc.nl/adfs/services/trust": {
         "en": "Amsterdam UMC",
         "nl": "Amsterdam UMC"
