@@ -13140,6 +13140,9 @@
         "https://idp.lincoln.ac.nz/idp/shibboleth": {
             "en": "Lincoln University"
         },
+        "https://idp.massey.ac.nz/idp/shibboleth": {
+            "en": "Massey University"
+        },
         "https://idp.otago.ac.nz/idp/shibboleth": {
             "en": "University of Otago"
         },
