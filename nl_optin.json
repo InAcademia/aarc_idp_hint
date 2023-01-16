@@ -63,6 +63,10 @@
         "en": "University of Humanistic Studies",
         "nl": "Universiteit voor Humanistiek"
     },
+    "http://adfsproxy.sintlucas.nl/adfs/services/trust": {
+        "en": "SintLucas",
+        "nl": "SintLucas"
+    },
     "http://demeter.wp.swov.nl/adfs/services/trust": {
         "en": "SWOV Institute for Road Safety Research",
         "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
