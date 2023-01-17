@@ -132,7 +132,7 @@
     "http://fas.concordia.ca/adfs/services/trust": "Concordia University",
     "http://fds.idp.hhs.se/adfs/services/trust": "DO NOT USE - Stockholm School of Economics [ADFS]",
     "http://federate.bsu.edu/sso": "Ball State  University",
-    "http://federatie.amc.nl/adfs/services/trust": "Academisch Medisch Centrum (AMC)",
+    "http://federatie.amc.nl/adfs/services/trust": "Academisch Medisch Centrum (AMC) (old)",
     "http://federatie.lumc.nl/adfs/services/trust": "Leids Universitair Medisch Centrum",
     "http://federatie.radboudumc.nl/adfs/services/trust": "Radboudumc",
     "http://federatie.trimbos.nl/adfs/services/trust": "Trimbos Instituut",

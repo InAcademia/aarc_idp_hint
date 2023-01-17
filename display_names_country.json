@@ -12608,8 +12608,8 @@
             "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
         },
         "http://federatie.amc.nl/adfs/services/trust": {
-            "en": "Academisch Medisch Centrum (AMC)",
-            "nl": "Academisch Medisch Centrum (AMC)"
+            "en": "Academisch Medisch Centrum (AMC) (old)",
+            "nl": "Academisch Medisch Centrum (AMC) (oud)"
         },
         "http://federatie.lumc.nl/adfs/services/trust": {
             "en": "Leids Universitair Medisch Centrum",
