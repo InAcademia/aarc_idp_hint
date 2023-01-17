@@ -15,6 +15,10 @@
         "en": "University of Sopron, Hungary",
         "hu": "Soproni Egyetem"
     },
+    "https://eduid.abtk.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Research Centre for the Humanities",
+        "hu": "Bölcsészettudományi Kutatóközpont"
+    },
     "https://eduid.btk.mta.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Research Centre for the Humanities",
         "hu": "Bölcsészettudományi Kutatóközpont"
