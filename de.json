@@ -1327,10 +1327,6 @@
         "de": "Universitätsmedizin Rostock",
         "en": "Rostock University Medical Center"
     },
-    "https://srv-idp-001.fh-mainz.de/idp/shibboleth": {
-        "de": "Hochschule Mainz",
-        "en": "Hochschule Mainz"
-    },
     "https://srv-idp.catalysis.de/idp/shibboleth": {
         "de": "Leibniz-Institut für Katalyse - LIKAT",
         "en": "Leibniz Institute for Catalysis - LIKAT"
