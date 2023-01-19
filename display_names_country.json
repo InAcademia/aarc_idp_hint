@@ -8858,6 +8858,10 @@
             "en": "Université d'Artois",
             "fr": "Université d'Artois"
         },
+        "https://idp.univ-eiffel.fr/idp/shibboleth": {
+            "en": "Gustave Eiffel University",
+            "fr": "Université Gustave Eiffel"
+        },
         "https://idp.univ-lemans.fr/idp/shibboleth": {
             "en": "LMU - Le Mans University",
             "fr": "LMU - Le Mans Université"
