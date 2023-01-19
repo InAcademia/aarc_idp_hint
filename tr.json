@@ -39,6 +39,10 @@
         "en": "Baskent University",
         "tr": "Başkent Üniversitesi"
     },
+    "https://idp.batman.edu.tr/idp/shibboleth": {
+        "en": "Batman University",
+        "tr": "Batman Üniversitesi"
+    },
     "https://idp.bezmialem.edu.tr/idp/shibboleth": {
         "en": "Bezmialem Vakif University",
         "tr": "Bezmiâlem Vakıf Üniversitesi"
