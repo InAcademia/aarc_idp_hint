@@ -459,6 +459,10 @@
         "en": "CITTA - Centro de Inovacao e Tecnologia Telmo Araujo",
         "pt-br": "CITTA - Centro de Inovacao e Tecnologia Telmo Araujo"
     },
+    "https://idp.cnen.gov.br/idp/shibboleth": {
+        "en": "CNEN - Comissao Nacional de Energia Nuclear",
+        "pt-br": "CNEN - Comissao Nacional de Energia Nuclear"
+    },
     "https://idp.cria.org.br/idp/shibboleth": {
         "en": "CRIA - Centro de Referencia em Informacao Ambiental",
         "pt-br": "CRIA - Centro de Referencia em Informacao Ambiental"
