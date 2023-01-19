@@ -246,6 +246,10 @@
         "en": "Wrocław University of Environmental and Life Sciences",
         "pl": "Uniwersytet Przyrodniczy we Wrocławiu"
     },
+    "https://shib.wab.edu.pl/idp/shibboleth": {
+        "en": "The Wroclaw Business University of Applied Sciences",
+        "pl": "Wrocławska Akademia Biznesu w Naukach Stosowanych"
+    },
     "https://shib.wsb.wroclaw.pl/idp/shibboleth": {
         "en": "WSB University in Wrocław",
         "pl": "Wyższa Szkoła Bankowa we Wrocławiu"
