@@ -9074,6 +9074,10 @@
             "en": "IDP vetagro sup PROD",
             "fr": "Vetagro Sup"
         },
+        "https://pr4.educonnect.phm.education.gouv.fr/idp": {
+            "en": "ÉduConnect - QA",
+            "fr": "ÉduConnect - Pré-production PR4"
+        },
         "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": {
             "en": "CAMPUS CONDORCET",
             "fr": "CAMPUS CONDORCET"
@@ -14179,68 +14183,6 @@
         "https://login.iamres.amres.ac.rs/simplesaml/saml2/idp/metadata.php": {
             "en": "iAMRES Web Single Sign-on Portal",
             "sr": "iAMRES Portal za jedinstvenu prijavu na sistem"
-        }
-    },
-    "ru": {
-        "http://adfs.ssau.ru/adfs/services/trust": {
-            "en": "Samara University",
-            "ru": "Самарский университет"
-        },
-        "https://cas.spbstu.ru/idp": {
-            "en": "Peter the Great Saint-Petersburg Polytechnic University",
-            "ru": "Санкт-Петербургский политехнический университет Петра Великого"
-        },
-        "https://edugain.tpu.ru/idp/shibboleth": {
-            "en": "TPU IdP",
-            "ru": "ТПУ IdP"
-        },
-        "https://fedurus.sgu.ru/idp/shibboleth": {
-            "en": "Saratov State University",
-            "ru": "Саратовский национальный исследовательский государственный университет имени Н. Г. Чернышевского"
-        },
-        "https://idp-01.runnet.ru/saml/saml2/idp/metadata.php": {
-            "en": "RUNNET IDP",
-            "ru": "RUNNET IDP"
-        },
-        "https://idp.bashedu.ru/idp/shibboleth": {
-            "en": "Bashkir State University",
-            "ru": "Башкирский государственный университет"
-        },
-        "https://idp.fedurus.ru/idp/shibboleth": {
-            "en": "FEDURUS",
-            "ru": "ФЕДУРУС"
-        },
-        "https://idp.lib.sfedu.ru/idp/shibboleth": {
-            "en": "Southern Federal University",
-            "ru": "Южный Федеральный Университет"
-        },
-        "https://idp.nwipa.ru/idp/shibboleth": {
-            "en": "The North-West Institute of Management RANEPA",
-            "ru": "Северо-Западный институт управления РАНХиГС"
-        },
-        "https://idp.spbu.ru/idp/shibboleth": {
-            "en": "Saint-Petersburg State University",
-            "ru": "Санкт-Петербургский государственный университет"
-        },
-        "https://idp.ufa-rb.ru/idp/shibboleth": {
-            "en": "Ufa State Aviation Technical University",
-            "ru": "Уфимский государственный авиационный технический университет"
-        },
-        "https://idp.utmn.ru/idp/shibboleth": {
-            "en": "Tyumen State University",
-            "ru": "Тюменский государственный университет"
-        },
-        "https://libidp.pstu.ru/idp/shibboleth": {
-            "en": "Perm National Research Polytechnic University",
-            "ru": "Пермский национальный исследовательский политехнический университет"
-        },
-        "https://services.ifmo.ru/idp/shibboleth": {
-            "en": "ITMO University",
-            "ru": "Санкт-Петербургский национальный исследовательский университет информационных технологий, механики и оптики"
-        },
-        "https://shib.kpfu.ru/idp/shibboleth": {
-            "en": "Kazan Federal University",
-            "ru": "Казанский федеральный университет"
         }
     },
     "sa": {
