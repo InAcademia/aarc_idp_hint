@@ -343,6 +343,9 @@
     "https://idp.cat.org.uk/idp/shibboleth": {
         "en": "Centre for Alternative Technology Charity Limited"
     },
+    "https://idp.caw.ac.uk/idp/shibboleth": {
+        "en": "The College of Animal Welfare"
+    },
     "https://idp.ccad.ac.uk/shibboleth": {
         "en": "The Northern School of Art"
     },

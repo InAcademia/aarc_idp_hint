@@ -12803,6 +12803,10 @@
             "en": "Eindhoven University of Technology",
             "nl": "Technische Universiteit Eindhoven"
         },
+        "http://sts.vumc.nl/adfs/services/trust": {
+            "en": "VUmc (New)",
+            "nl": "VUmc (New)"
+        },
         "http://sts.windesheim.nl/adfs/services/trust": {
             "en": "Windesheim University of Applied Sciences",
             "nl": "Hogeschool Windesheim"
@@ -15781,6 +15785,9 @@
         },
         "https://idp.cat.org.uk/idp/shibboleth": {
             "en": "Centre for Alternative Technology Charity Limited"
+        },
+        "https://idp.caw.ac.uk/idp/shibboleth": {
+            "en": "The College of Animal Welfare"
         },
         "https://idp.ccad.ac.uk/shibboleth": {
             "en": "The Northern School of Art"
