@@ -12794,8 +12794,8 @@
             "nl": "Technische Universiteit Eindhoven"
         },
         "http://sts.vumc.nl/adfs/services/trust": {
-            "en": "VUmc (New)",
-            "nl": "VUmc (New)"
+            "en": "VU medisch centrum",
+            "nl": "VU medisch centrum"
         },
         "http://sts.windesheim.nl/adfs/services/trust": {
             "en": "Windesheim University of Applied Sciences",
@@ -12816,10 +12816,6 @@
         "http://stsfed.login.vu.nl/adfs/services/trust": {
             "en": "Vrije Universiteit Amsterdam",
             "nl": "Vrije Universiteit Amsterdam"
-        },
-        "http://teamwerk.fed.vumc.nl/adfs/services/trust": {
-            "en": "VU medisch centrum",
-            "nl": "VU medisch centrum"
         },
         "http://toegang.educatie.zone/adfs/services/trust": {
             "en": "Zone.College",
@@ -13386,6 +13382,9 @@
         },
         "https://idp1.nct.edu.om/idp/shibboleth": {
             "en": "Nizwa College of Technology (OM-KID)"
+        },
+        "https://idpomren.gutech.edu.om/idp": {
+            "en": "German University of Technology in Oman - GUtech(Shibb)"
         },
         "https://idpomren.hct.edu.om/idp": {
             "en": "University of Technology and Applied Sciences - Muscat (shibboleth)"

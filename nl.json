@@ -316,8 +316,8 @@
         "nl": "Technische Universiteit Eindhoven"
     },
     "http://sts.vumc.nl/adfs/services/trust": {
-        "en": "VUmc (New)",
-        "nl": "VUmc (New)"
+        "en": "VU medisch centrum",
+        "nl": "VU medisch centrum"
     },
     "http://sts.windesheim.nl/adfs/services/trust": {
         "en": "Windesheim University of Applied Sciences",
@@ -338,10 +338,6 @@
     "http://stsfed.login.vu.nl/adfs/services/trust": {
         "en": "Vrije Universiteit Amsterdam",
         "nl": "Vrije Universiteit Amsterdam"
-    },
-    "http://teamwerk.fed.vumc.nl/adfs/services/trust": {
-        "en": "VU medisch centrum",
-        "nl": "VU medisch centrum"
     },
     "http://toegang.educatie.zone/adfs/services/trust": {
         "en": "Zone.College",
