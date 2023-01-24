@@ -11587,12 +11587,6 @@
             "en": "KENET Staff Identity Provider"
         }
     },
-    "kg": {
-        "https://idp.kif.kg/simplesaml/saml2/idp/metadata.php": {
-            "en": "KIF-IDP",
-            "ky": "KIF-IDP"
-        }
-    },
     "kr": {
         "https://auth.ibs.re.kr/idp/simplesamlphp": {
             "en": "Institute for Basic Science"
