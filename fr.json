@@ -143,10 +143,6 @@
         "en": "ENSAAMA - School of Art & Design",
         "fr": "ENSAAMA - École nationale supérieure des arts appliqués et des métiers d’art"
     },
-    "https://ensci-idps.hesam.eu/idp/shibboleth": {
-        "en": "ENSCI - French national institute for advanced studies in industrial design",
-        "fr": "ENSCI - ÉCOLE NATIONALE SUPÉRIEURE DE CRÉATION INDUSTRIELLE"
-    },
     "https://estienne-idps.hesam.eu/idp/shibboleth": {
         "en": "Estienne school",
         "fr": "Ecole Estienne"
