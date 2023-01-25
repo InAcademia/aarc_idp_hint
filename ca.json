@@ -204,6 +204,9 @@
         "en": "TELUQ University",
         "fr": "Université TELUQ"
     },
+    "https://idp.torontomu.ca/idp/shibboleth": {
+        "en": "Toronto Metropolitan University"
+    },
     "https://idp.tru.ca/idp/shibboleth": {
         "en": "Thompson Rivers University"
     },
