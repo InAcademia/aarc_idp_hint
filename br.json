@@ -891,6 +891,10 @@
         "en": "UNIFACS - Universidade Salvador",
         "pt-br": "UNIFACS - Universidade Salvador"
     },
+    "https://shibboleth.unifor.br/idp/shibboleth": {
+        "en": "UNIFOR - Universidade de Fortaleza",
+        "pt-br": "UNIFOR - Universidade de Fortaleza"
+    },
     "https://shibboleth.uninta.edu.br/idp/shibboleth": {
         "en": "UNINTA - Centro Universitario INTA",
         "pt-br": "UNINTA - Centro Universitario INTA"
