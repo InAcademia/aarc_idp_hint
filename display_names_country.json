@@ -1044,6 +1044,10 @@
             "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
             "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
         },
+        "https://idp-container-shib421.rnp.br/idp/shibboleth": {
+            "en": "POP-PI - Provedor de Identidade em Docker versao 3",
+            "pt-br": "POP-PI - Provedor de Identidade em Docker versao 3"
+        },
         "https://idp-novo.uncisal.edu.br/idp/shibboleth": {
             "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas",
             "pt-br": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas"
@@ -1263,10 +1267,6 @@
         "https://idp4.uepg.br/idp/shibboleth": {
             "en": "UEPG - Universidade Estadual de Ponta Grossa",
             "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
-        },
-        "https://idp59.furb.br/idp/shibboleth": {
-            "en": "FURB - Fundacao Universidade Regional de Blumenau",
-            "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
         },
         "https://idpcafe.finep.gov.br/idp/shibboleth": {
             "en": "FINEP - Financiadora de Estudos e Projetos",
