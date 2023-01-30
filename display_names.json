@@ -850,7 +850,6 @@
     "https://idp-ccmonz.irccs.garr.it/idp/shibboleth": "IRCCS Centro Cardiologico Monzino - Milano",
     "https://idp-co.calstate.edu/idp/shibboleth": "California State University, Office of the Chancellor",
     "https://idp-connect.renater.fr/idp/shibboleth": "Identitas : RENATER Connect",
-    "https://idp-container-shib421.rnp.br/idp/shibboleth": "POP-PI - Provedor de Identidade em Docker versao 3",
     "https://idp-cro.irccs.garr.it/idp/shibboleth": "IRCCS CRO di Aviano",
     "https://idp-cro.slu.cz/idp/shibboleth": "Silesian University in Opava",
     "https://idp-crob.irccs.garr.it/idp/shibboleth": "IRCCS CROB - Rionero in Vulture (PZ)",

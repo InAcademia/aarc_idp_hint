@@ -1044,10 +1044,6 @@
             "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
             "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
         },
-        "https://idp-container-shib421.rnp.br/idp/shibboleth": {
-            "en": "POP-PI - Provedor de Identidade em Docker versao 3",
-            "pt-br": "POP-PI - Provedor de Identidade em Docker versao 3"
-        },
         "https://idp-novo.uncisal.edu.br/idp/shibboleth": {
             "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas",
             "pt-br": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas"
