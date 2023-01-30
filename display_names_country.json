@@ -18294,6 +18294,9 @@
         "https://sso.csuohio.edu/idp": {
             "en": "Cleveland State University"
         },
+        "https://sso.davidson.edu/idp": {
+            "en": "Davidson College"
+        },
         "https://sso.delval.edu/idp": {
             "en": "Delaware Valley University"
         },
