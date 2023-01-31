@@ -3806,6 +3806,7 @@
     "https://mckinley.csuci.edu/idp/shibboleth": "California State University, Channel Islands",
     "https://med-idp.arn.dz/idp/shibboleth": "DZ e-Science MEDECINE IDP",
     "https://memm.hep.kbfi.ee/saml2/idp/metadata.php": "KBFI",
+    "https://mfa-idp.shiga-med.ac.jp/idp/shibboleth": "Shiga University of Medical Science (in prep)",
     "https://minosse.unime.it/simplesaml/saml2/idp/metadata.php": "University of Messina",
     "https://miracosta.fedgw.com/gateway": "MiraCosta College",
     "https://miunidp.miun.se/idp/shibboleth": "Mid Sweden University",
