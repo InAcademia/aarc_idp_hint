@@ -135,6 +135,10 @@
         "en": "National school of architecture Paris-Belleville",
         "fr": "Ecole Nationale Supérieure d'Architecture de Paris-Belleville"
     },
+    "https://ea-idp-01.ecole-air-espace.fr/idp/shibboleth": {
+        "en": "AIR AND SPACE SCHOOL",
+        "fr": "ECOLE DE L'AIR et de l'ESPACE"
+    },
     "https://eliot.isae.fr/idp/shibboleth": {
         "en": "ISAE",
         "fr": "ISAE Institut Supérieur de l'Aéronautique et de l'Espace"

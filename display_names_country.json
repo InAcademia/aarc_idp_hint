@@ -4487,7 +4487,7 @@
         },
         "https://shib.euc.ac.cy/idp/shibboleth": {
             "el": "Ευρωπαϊκό Πανεπιστήμιο Κύπρου",
-            "en": "European University Cyprus"
+            "en": "European University Cyprus (EUC)"
         }
     },
     "cz": {
@@ -8303,6 +8303,10 @@
         "https://connect.paris-belleville.archi.fr/saml/metadata": {
             "en": "National school of architecture Paris-Belleville",
             "fr": "Ecole Nationale Supérieure d'Architecture de Paris-Belleville"
+        },
+        "https://ea-idp-01.ecole-air-espace.fr/idp/shibboleth": {
+            "en": "AIR AND SPACE SCHOOL",
+            "fr": "ECOLE DE L'AIR et de l'ESPACE"
         },
         "https://eliot.isae.fr/idp/shibboleth": {
             "en": "ISAE",
