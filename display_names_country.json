@@ -15389,6 +15389,10 @@
             "en": "Turkish-German University",
             "tr": "Türk-Alman Üniversitesi"
         },
+        "https://yetkim.ticaret.edu.tr/idp/shibboleth": {
+            "en": "Istanbul Ticaret University",
+            "tr": "İstanbul Ticaret Üniversitesi"
+        },
         "https://yetkim.yildiz.edu.tr/idp/shibboleth": {
             "en": "Yildiz Technical University",
             "tr": "Yıldız Teknik Üniversitesi"
