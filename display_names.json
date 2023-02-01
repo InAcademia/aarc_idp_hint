@@ -699,6 +699,7 @@
     "https://fjncafe.fundaj.gov.br/idp/shibboleth": "FUNDAJ - Fundacao Joaquim Nabuco",
     "https://fr-shib02.franklin.ac.uk/idp/shibboleth": "Franklin College",
     "https://fs.kbr.be/adfs/services/trust": "Koninklijke Bibliotheek - Bibliotheque royale",
+    "https://fs2.wooster.edu/adfs/services/trust/": "Wooster ADFS",
     "https://fugusau.eduid.ng/saml2/idp/metadata.php": "Federal University Gusau",
     "https://fusion.ceub.br/idp/shibboleth": "UNICEUB - Centro Universitario de Brasilia",
     "https://gakunin-idp.c.chuo-u.ac.jp/idp/shibboleth": "Chuo University",

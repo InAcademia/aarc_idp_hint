@@ -191,6 +191,9 @@
     "https://fiuidp.fiu.edu/idp/shibboleth": {
         "en": "Florida International University"
     },
+    "https://fs2.wooster.edu/adfs/services/trust/": {
+        "en": "Wooster ADFS"
+    },
     "https://hartnell.edu/idp": {
         "en": "Hartnell Community College District"
     },
