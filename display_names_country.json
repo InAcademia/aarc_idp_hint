@@ -1683,9 +1683,6 @@
         "http://federation.langara.ca/adfs/services/trust": {
             "en": "Langara College"
         },
-        "http://fs.capilanou.ca/adfs/services/trust": {
-            "en": "Capilano University"
-        },
         "http://fs.cotr.bc.ca/adfs/services/trust": {
             "en": "College of the Rockies"
         },
@@ -1788,10 +1785,6 @@
         "https://idp.cegeptr.qc.ca/idp": {
             "en": "Cegep de Trois-Rivieres",
             "fr": "Cégep de Trois-Rivières"
-        },
-        "https://idp.computecanada.ca/idp/shibboleth": {
-            "en": "Compute Canada",
-            "fr": "Calcul Canada"
         },
         "https://idp.cybera.ca/simplesaml/saml2/idp/metadata.php": {
             "en": "Cybera",
@@ -1949,6 +1942,9 @@
         },
         "https://shibidp.uwo.ca/idp/shibboleth": {
             "en": "University of Western Ontario"
+        },
+        "https://sso.capilanou.ca/idp": {
+            "en": "Capilano University"
         },
         "https://sso.coastmountaincollege.ca/idp": {
             "en": "Coast Mountain College"
