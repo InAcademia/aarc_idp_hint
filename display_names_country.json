@@ -16146,8 +16146,8 @@
         "https://idp.meap.org.uk/idp/shibboleth": {
             "en": "MaCTRI (MEaP Academy Community Training & Research Institute)"
         },
-        "https://idp.merthyr.ac.uk/idp/shibboleth": {
-            "en": "Merthyr Tydfil College"
+        "https://idp.merthyr.ac.uk/entity": {
+            "en": "The College Merthyr Tydfil"
         },
         "https://idp.metfilmschool.ac.uk/idp": {
             "en": "MetFilm School"
