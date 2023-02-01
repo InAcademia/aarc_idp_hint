@@ -10601,6 +10601,9 @@
         "https://idp.tkmce.ac.in/idp/shibboleth": {
             "en": "TKM College of Engineering"
         },
+        "https://idp.tmu.ac.in/idp/shibboleth": {
+            "en": "Teerthanker Mahaveer University"
+        },
         "https://idp.tnpesu.org/idp/shibboleth": {
             "en": "Tamil Nadu Physical Education and Sports University"
         },
