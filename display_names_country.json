@@ -5951,6 +5951,10 @@
             "de": "Ostbayerische Technische Hochschule Amberg-Weiden",
             "en": "Ostbayerische Technische Hochschule Amberg-Weiden"
         },
+        "https://idp.palucca.eu/idp/shibboleth": {
+            "de": "Palucca Hochschule für Tanz Dresden",
+            "en": "Palucca University of Dance Dresden"
+        },
         "https://idp.ph-freiburg.de/idp/shibboleth": {
             "de": "PH Freiburg",
             "en": "PH Freiburg"
