@@ -17267,6 +17267,9 @@
         "http://fs.uwp.edu/adfs/services/trust": {
             "en": "University of Wisconsin-Parkside"
         },
+        "http://fs2.wooster.edu/adfs/services/trust/": {
+            "en": "Wooster ADFS"
+        },
         "http://login.mayo.edu/adfs/services/trust": {
             "en": "Mayo Clinic"
         },
@@ -17413,9 +17416,6 @@
         },
         "https://fiuidp.fiu.edu/idp/shibboleth": {
             "en": "Florida International University"
-        },
-        "https://fs2.wooster.edu/adfs/services/trust/": {
-            "en": "Wooster ADFS"
         },
         "https://hartnell.edu/idp": {
             "en": "Hartnell Community College District"
