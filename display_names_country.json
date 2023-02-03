@@ -12656,10 +12656,6 @@
             "en": "SWOV Institute for Road Safety Research",
             "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
         },
-        "http://federatie.amc.nl/adfs/services/trust": {
-            "en": "Academisch Medisch Centrum (AMC) (old)",
-            "nl": "Academisch Medisch Centrum (AMC) (oud)"
-        },
         "http://federatie.lumc.nl/adfs/services/trust": {
             "en": "Leids Universitair Medisch Centrum",
             "nl": "Leids Universitair Medisch Centrum"
@@ -13812,6 +13808,10 @@
         "https://idp.acad-ciencias.pt/idp/shibboleth": {
             "en": "Academia das Ciências de Lisboa",
             "pt": "Academia das Ciências de Lisboa"
+        },
+        "https://idp.aircentre.org/idp/shibboleth": {
+            "en": "AIRCentre",
+            "pt": "AIRCentre"
         },
         "https://idp.apambiente.pt/idp/shibboleth": {
             "en": "Agência Portuguesa do Ambiente",

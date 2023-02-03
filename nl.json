@@ -131,10 +131,6 @@
         "en": "SWOV Institute for Road Safety Research",
         "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
     },
-    "http://federatie.amc.nl/adfs/services/trust": {
-        "en": "Academisch Medisch Centrum (AMC) (old)",
-        "nl": "Academisch Medisch Centrum (AMC) (oud)"
-    },
     "http://federatie.lumc.nl/adfs/services/trust": {
         "en": "Leids Universitair Medisch Centrum",
         "nl": "Leids Universitair Medisch Centrum"
