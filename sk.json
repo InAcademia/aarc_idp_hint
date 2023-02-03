@@ -47,6 +47,10 @@
         "en": "Slovak Medical University in Bratislava",
         "sk": "Slovenská zdravotnícka univerzita v Bratislave"
     },
+    "https://idp.tnuni.sk/idp/shibboleth": {
+        "en": "Alexander Dubček University of Trenčín",
+        "sk": "Trenčianska univerzita Alexandra Dubčeka"
+    },
     "https://idp.truni.sk/idp/shibboleth": {
         "en": "Trnava University in Trnava",
         "sk": "Trnavská univerzita v Trnave"

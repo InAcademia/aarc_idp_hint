@@ -12072,6 +12072,9 @@
         "https://sso.cckk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kuala Kangsar"
         },
+        "https://sso.kkampang.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Ampang"
+        },
         "https://sso.kkarau.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Arau"
         },
@@ -12198,6 +12201,9 @@
         "https://sso.kklej.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Ledang"
         },
+        "https://sso.kklipis.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Lipis"
+        },
         "https://sso.kklk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Langkawi"
         },
@@ -12305,6 +12311,9 @@
         },
         "https://sso.kktaw.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Tawau"
+        },
+        "https://sso.kktbs.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Tambunan"
         },
         "https://sso.kktg.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Tasek Gelugor"
@@ -14690,6 +14699,10 @@
         "https://idp.szu.sk/idp/shibboleth": {
             "en": "Slovak Medical University in Bratislava",
             "sk": "Slovenská zdravotnícka univerzita v Bratislave"
+        },
+        "https://idp.tnuni.sk/idp/shibboleth": {
+            "en": "Alexander Dubček University of Trenčín",
+            "sk": "Trenčianska univerzita Alexandra Dubčeka"
         },
         "https://idp.truni.sk/idp/shibboleth": {
             "en": "Trnava University in Trnava",
