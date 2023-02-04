@@ -1,4 +1,8 @@
 {
+    "https://idp.akademiapz.sk/idp/shibboleth": {
+        "en": "Academy of the Police Force in Bratislava",
+        "sk": "Akadémia Policajného zboru v Bratislave"
+    },
     "https://idp.aku.sk/idp/shibboleth": {
         "en": "Academy of Arts in Banska Bystrica",
         "sk": "Akadémia umení v Banskej Bystrici"
