@@ -14223,6 +14223,10 @@
             "en": "RCUB",
             "sr": "RCUB"
         },
+        "https://idp.bg.ac.rs/idp/shibboleth": {
+            "en": "University of Belgrade",
+            "sr": "Univerzitet u Beogradu"
+        },
         "https://iguest.amres.ac.rs/idp/shibboleth": {
             "en": "AMRES Guest",
             "sr": "AMRES Guest"
