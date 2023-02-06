@@ -9835,10 +9835,6 @@
             "en": "Research Centre for the Humanities",
             "hu": "Bölcsészettudományi Kutatóközpont"
         },
-        "https://eduid.btk.mta.hu/simplesaml/saml2/idp/metadata.php": {
-            "en": "Research Centre for the Humanities",
-            "hu": "Bölcsészettudományi Kutatóközpont"
-        },
         "https://eduid.kodolanyi.hu/saml2/idp/metadata.php": {
             "en": "Kodolányi János University",
             "hu": "Kodolányi János Egyetem"
@@ -13102,10 +13098,6 @@
         "https://sts.windows.net/9e1bc3f2-7f34-4476-9dc5-0946672d5de5/": {
             "en": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)",
             "nl": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)"
-        },
-        "https://sts.windows.net/a14653ff-92fa-4118-baad-d798b2bf263c/": {
-            "en": "Hogeschool de Kempel",
-            "nl": "Hogeschool de Kempel (MS Azure AD)"
         },
         "https://sts.windows.net/aabe793f-b39c-440c-8e1a-0dcfb6215609/": {
             "en": "Codarts University of the Arts",
