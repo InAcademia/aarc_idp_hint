@@ -75,6 +75,10 @@
         "en": "Graafschap College",
         "nl": "Graafschap College"
     },
+    "http://fs.kienict.nl/adfs/services/trust": {
+        "en": "ROC Da Vinci",
+        "nl": "ROC Da Vinci"
+    },
     "http://fs.loi.nl/adfs/services/trust": {
         "en": "Leidse Onderwijsinstellingen - 2",
         "nl": "Leidse Onderwijsinstellingen - 2"
