@@ -11778,6 +11778,9 @@
         "https://idpserver.wyb.ac.lk/idp/shibboleth": {
             "en": "Wayamba University of Sri Lanka - Kuliyapitiya Premises"
         },
+        "https://idpv4.learn.ac.lk/idp/shibboleth": {
+            "en": "LEARN IDP4"
+        },
         "https://ims.ou.ac.lk/idp/shibboleth": {
             "en": "The Open University of Sri Lanka"
         },
