@@ -6336,6 +6336,10 @@
             "de": "Hochschule für Angewandte Wissenschaften Hamburg",
             "en": "Hamburg University of Applied Sciences"
         },
+        "https://login.hff-muc.de/idp/shibboleth": {
+            "de": "HFF München und ADBK",
+            "en": "HFF Munich and ADBK"
+        },
         "https://login.hfmt-hamburg.de/idp/shibboleth": {
             "de": "Hochschule fuer Musik und Theater Hamburg",
             "en": "Hochschule fuer Musik und Theater Hamburg"
@@ -14358,6 +14362,10 @@
         "http://fds.idp.hhs.se/adfs/services/trust": {
             "en": "DO NOT USE - Stockholm School of Economics [ADFS]",
             "sv": "DO NOT USE - Handelshögskolan i Stockholm [ADFS]"
+        },
+        "http://fs.bth.se/adfs/services/trust": {
+            "en": "Blekinge Institute of Technology",
+            "sv": "Blekinge Tekniska Högskola"
         },
         "http://fs.liu.se/adfs/services/trust": {
             "en": "Linköping University",

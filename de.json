@@ -1043,6 +1043,10 @@
         "de": "Hochschule für Angewandte Wissenschaften Hamburg",
         "en": "Hamburg University of Applied Sciences"
     },
+    "https://login.hff-muc.de/idp/shibboleth": {
+        "de": "HFF München und ADBK",
+        "en": "HFF Munich and ADBK"
+    },
     "https://login.hfmt-hamburg.de/idp/shibboleth": {
         "de": "Hochschule fuer Musik und Theater Hamburg",
         "en": "Hochschule fuer Musik und Theater Hamburg"
