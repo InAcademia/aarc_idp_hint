@@ -4435,6 +4435,7 @@
     "https://sso.identity.ichec.ie/realms/ichec-staff": "Irish Centre for High-End Computing - Staff MFA",
     "https://sso.idm.uni-hannover.de/idp/shibboleth": "Leibniz Universität Hannover",
     "https://sso.illinoisstate.edu/idp/shibboleth": "Illinois State University",
+    "https://sso.insa-strasbourg.fr/idp/shibboleth": "[NE_PAS_UTILISER] INSA Strasbourg - FutureProd",
     "https://sso.institutoptique.fr/idp/shibboleth": "Institut Optique Graduate School",
     "https://sso.irc.ugent.be/auth/realms/irc": "VIB-UGent IRC",
     "https://sso.it.utsa.edu/idp/shibboleth": "University of Texas at San Antonio",

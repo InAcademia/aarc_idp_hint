@@ -9263,6 +9263,10 @@
             "en": "EDHEC Business School",
             "fr": "EDHEC Business School"
         },
+        "https://sso.insa-strasbourg.fr/idp/shibboleth": {
+            "en": "[NE_PAS_UTILISER] INSA Strasbourg - FutureProd",
+            "fr": "[NE_PAS_UTILISER] INSA Strasbourg - FutureProd"
+        },
         "https://sso.institutoptique.fr/idp/shibboleth": {
             "en": "Institut Optique Graduate School",
             "fr": "Institut Optique Graduate School"
