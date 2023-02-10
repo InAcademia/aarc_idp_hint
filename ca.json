@@ -19,9 +19,6 @@
         "en": "La Cité",
         "fr": "La Cité"
     },
-    "http://adfs.okanagan.bc.ca/adfs/services/trust": {
-        "en": "Okanagan College"
-    },
     "http://adfs.uqar.ca/adfs/services/trust": {
         "en": "Université du Québec à Rimouski (UQAR)",
         "fr": "Université du Québec à Rimouski (UQAR)"
@@ -315,11 +312,17 @@
     "https://sso.coastmountaincollege.ca/idp": {
         "en": "Coast Mountain College"
     },
+    "https://sso.douglascollege.ca/idp": {
+        "en": "Douglas College"
+    },
     "https://sso.jibc.ca/idp": {
         "en": "Justice Institute of British Columbia"
     },
     "https://sso.mcmaster.ca/idp/shibboleth": {
         "en": "McMaster University"
+    },
+    "https://sso.okanagan.bc.ca/idp": {
+        "en": "Okanagan College"
     },
     "https://sso.royalroads.ca/idp": {
         "en": "Royal Roads University"
