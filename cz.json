@@ -79,6 +79,10 @@
         "cs": "Vysoká škola evropských a regionálních studií",
         "en": "The College of European and Regional Studies"
     },
+    "https://eduid.vspj.cz/idp/shibboleth": {
+        "cs": "Vysoká škola polytechnická Jihlava",
+        "en": "College of Polytechnics Jihlava"
+    },
     "https://eduid.vumop.cz/idp/shibboleth": {
         "cs": "VÚMOP, v.v.i.",
         "en": "VÚMOP, v.v.i."
