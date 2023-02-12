@@ -3923,6 +3923,7 @@
     "https://radius.ice.mpg.de/idp/shibboleth": "Max Planck Institute for Chemical Ecology",
     "https://radius.nib.si/idp/2013090600": "NIB",
     "https://rcafe02s.inmetro.gov.br/idp/shibboleth": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
+    "https://rciam-pre.vm.grnet.gr/auth/realms/grnet-sps": "https://rciam-pre.vm.grnet.gr/auth/realms/grnet-sps",
     "https://rcis.regents.ac.uk/openathens": "Regent's University London",
     "https://reading.ac.uk/oala/metadata": "University of Reading",
     "https://redecafe.enap.gov.br/idp/shibboleth": "ENAP - Escola Nacional de Administracao Publica",
