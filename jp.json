@@ -179,6 +179,10 @@
         "en": "Tokyo University of Pharmacy and Life Sciences",
         "ja": "東京薬科大学"
     },
+    "https://idp.toyota-ti.ac.jp/idp/shibboleth": {
+        "en": "Toyota Technological Institute",
+        "ja": "豊田工業大学"
+    },
     "https://idp.u-hyogo.ac.jp/idp/shibboleth": {
         "en": "University of Hyogo",
         "ja": "兵庫県立大学"
