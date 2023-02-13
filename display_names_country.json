@@ -416,7 +416,7 @@
         }
     },
     "az": {
-        "https://idp1.azsciencenet.az/simplesaml/saml2/idp/metadata.php": {
+        "https://idp1.azsciencenet.az/simplesaml": {
             "az": "AzScienceNet",
             "en": "AzScienceNet"
         }
