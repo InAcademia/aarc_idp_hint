@@ -171,10 +171,6 @@
         "en": "UCS - Universidade de Caxias do Sul",
         "pt-br": "UCS - Universidade de Caxias do Sul"
     },
-    "https://cafe.udesc.br/idp/shibboleth": {
-        "en": "UDESC - Universidade do Estado de Santa Catarina",
-        "pt-br": "UDESC - Universidade do Estado de Santa Catarina"
-    },
     "https://cafe.uerr.edu.br/idp/shibboleth": {
         "en": "UERR - Universidade Estadual De Roraima",
         "pt-br": "UERR - Universidade Estadual De Roraima"
@@ -274,6 +270,10 @@
     "https://cafe4.ifms.edu.br/idp/shibboleth": {
         "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
         "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
+    },
+    "https://cafe4.udesc.br/idp/shibboleth": {
+        "en": "UDESC - Universidade do Estado de Santa Catarina",
+        "pt-br": "UDESC - Universidade do Estado de Santa Catarina"
     },
     "https://cafe4.ufal.br/idp/shibboleth": {
         "en": "UFAL - Universidade Federal de Alagoas",
