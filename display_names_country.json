@@ -13346,6 +13346,9 @@
         "https://idp.act.edu.om/idp": {
             "en": "University of Technology and Applied Sciences - Al Musanna (shibboleth)"
         },
+        "https://idp.css.edu.om/idp": {
+            "en": "College of Shari'a Sciences (shibb)"
+        },
         "https://idp.icem.edu.om/idp/shibboleth": {
             "en": "International College of Engineering and Management (OM-KID)"
         },
