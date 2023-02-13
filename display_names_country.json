@@ -8211,8 +8211,8 @@
             "fr": "eduGAIN Access Check"
         },
         "https://antimoine.insa-strasbourg.fr/idp/shibboleth": {
-            "en": "INSA Strasbourg",
-            "fr": "INSA Strasbourg"
+            "en": "ZZZ INSA Strasbourg - [OLDPROD]",
+            "fr": "ZZZ INSA Strasbourg - [OLDPROD]"
         },
         "https://apps.univ-lr.fr/idp/shibboleth": {
             "en": "La Rochelle University",
@@ -9275,8 +9275,8 @@
             "fr": "EDHEC Business School"
         },
         "https://sso.insa-strasbourg.fr/idp/shibboleth": {
-            "en": "[NE_PAS_UTILISER] INSA Strasbourg - FutureProd",
-            "fr": "[NE_PAS_UTILISER] INSA Strasbourg - FutureProd"
+            "en": "INSA Strasbourg",
+            "fr": "INSA Strasbourg"
         },
         "https://sso.institutoptique.fr/idp/shibboleth": {
             "en": "Institut Optique Graduate School",
