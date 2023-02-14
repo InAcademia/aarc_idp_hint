@@ -290,6 +290,10 @@
         "en": "University of Szczecin",
         "pl": "Uniwersytet Szczeciński"
     },
+    "https://sso.uwm.edu.pl/cas/idp/metadata": {
+        "en": "University of Warmia and Mazury in Olsztyn",
+        "pl": "Uniwersytet Warmińsko-Mazurski w Olsztynie"
+    },
     "https://sso.wst.com.pl/idp/shibboleth": {
         "en": "University of Technology in Katowice",
         "pl": "Wyższa Szkoła Techniczna w Katowicach"

@@ -10069,6 +10069,10 @@
             "en": "Wigner Research Centre for Physics",
             "hu": "Wigner Fizikai Kutatóközpont"
         },
+        "https://qcidrive.edu.hu/simplesaml/saml2/idp/metadata.php": {
+            "en": "QCI Drive IDP",
+            "hu": "QCI Drive IDP"
+        },
         "https://seka.semmelweis-univ.hu/idp/shibboleth": {
             "en": "Semmelweis University Central Authentication",
             "hu": "Semmelweis Egyetem Központi Azonosítás (SeKA)"
@@ -13786,6 +13790,10 @@
         "https://sso.usz.edu.pl/simplesaml/saml2/idp/metadata.php": {
             "en": "University of Szczecin",
             "pl": "Uniwersytet Szczeciński"
+        },
+        "https://sso.uwm.edu.pl/cas/idp/metadata": {
+            "en": "University of Warmia and Mazury in Olsztyn",
+            "pl": "Uniwersytet Warmińsko-Mazurski w Olsztynie"
         },
         "https://sso.wst.com.pl/idp/shibboleth": {
             "en": "University of Technology in Katowice",
