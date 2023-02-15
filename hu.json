@@ -71,6 +71,10 @@
         "en": "Biological Research Centre, Szeged",
         "hu": "Szegedi Biológiai Kutatóközpont"
     },
+    "https://idp.caas.einfra.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "IDP CAAS EINFRA",
+        "hu": "IDP CAAS EINFRA"
+    },
     "https://idp.csfk.mta.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Research Centre for Astronomy and Earth Sciences",
         "hu": "Csillagászati és Földtudományi Kutatóközpont"
@@ -238,10 +242,6 @@
     "https://papi.kfki.hu/idp/shibboleth": {
         "en": "Wigner Research Centre for Physics",
         "hu": "Wigner Fizikai Kutatóközpont"
-    },
-    "https://qcidrive.edu.hu/simplesaml/saml2/idp/metadata.php": {
-        "en": "QCI Drive IDP",
-        "hu": "QCI Drive IDP"
     },
     "https://seka.semmelweis-univ.hu/idp/shibboleth": {
         "en": "Semmelweis University Central Authentication",
