@@ -9905,10 +9905,6 @@
             "en": "Biological Research Centre, Szeged",
             "hu": "Szegedi Biológiai Kutatóközpont"
         },
-        "https://idp.caas.einfra.hu/simplesaml/saml2/idp/metadata.php": {
-            "en": "IDP CAAS EINFRA",
-            "hu": "IDP CAAS EINFRA"
-        },
         "https://idp.csfk.mta.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Research Centre for Astronomy and Earth Sciences",
             "hu": "Csillagászati és Földtudományi Kutatóközpont"
