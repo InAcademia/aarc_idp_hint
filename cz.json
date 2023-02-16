@@ -383,6 +383,10 @@
         "cs": "Ústav jaderné fyziky AV ČR",
         "en": "Nuclear Physics Institute of the ASCR"
     },
+    "https://idp.unicornuniversity.net/idp/shibboleth": {
+        "cs": "Unicorn Vysoká škola",
+        "en": "Unicorn University"
+    },
     "https://idp.unob.cz/idp/shibboleth": {
         "cs": "Univerzita Obrany",
         "en": "University of defence"
