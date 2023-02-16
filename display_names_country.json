@@ -97,6 +97,10 @@
             "de": "International Institute for Applied Systems Analysis (IIASA)",
             "en": "International Institute for Applied Systems Analysis (IIASA)"
         },
+        "https://idp.ista.ac.at/idp/shibboleth": {
+            "de": "Institute of Science and Technology Austria (ISTA)",
+            "en": "Institute of Science and Technology Austria (ISTA)"
+        },
         "https://idp.kl.ac.at/idp/shibboleth": {
             "de": "Karl Landsteiner Privatuniversität für Gesundheitswissenschaften",
             "en": "Karl Landsteiner University of Health Sciences"
