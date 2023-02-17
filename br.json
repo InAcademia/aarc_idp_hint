@@ -111,6 +111,10 @@
         "en": "IEN - Instituto de Engenharia Nuclear",
         "pt-br": "IEN - Instituto de Engenharia Nuclear"
     },
+    "https://cafe.ifma.edu.br/idp/shibboleth": {
+        "en": "IFMA - Instituto Federal do Maranhao",
+        "pt-br": "IFMA - Instituto Federal do Maranhao"
+    },
     "https://cafe.ifrj.edu.br/idp/shibboleth": {
         "en": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro",
         "pt-br": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro"
@@ -998,10 +1002,6 @@
     "https://srvcafe.cgee.org.br/idp/shibboleth": {
         "en": "CGEE - Centro de Gestao e Estudos Estrategicos",
         "pt-br": "CGEE - Centro de Gestao e Estudos Estrategicos"
-    },
-    "https://srvcafe.ifma.edu.br/idp/shibboleth": {
-        "en": "IFMA - Instituto Federal de Educacao Ciencia e Tecnologia do Maranhao",
-        "pt-br": "IFMA - Instituto Federal de Educacao Ciencia e Tecnologia do Maranhao"
     },
     "https://srvcafe.uniso.br/idp/shibboleth": {
         "en": "UNISO - Universidade de Sorocaba",
