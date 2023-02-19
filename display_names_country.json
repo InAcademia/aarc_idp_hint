@@ -7342,10 +7342,6 @@
             "en": "Universidad de Guayaquil - ug",
             "es": "Universidad de Guayaquil - ug"
         },
-        "https://login.uisrael.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Israel - uisrael",
-            "es": "Universidad Israel - uisrael"
-        },
         "https://login.uleam.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Laica Eloy Alfaro de Manabí - uleam",
             "es": "Universidad Laica Eloy Alfaro de Manabí - uleam"
