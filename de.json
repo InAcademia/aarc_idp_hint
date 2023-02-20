@@ -1476,8 +1476,8 @@
         "en": "Verbundzentrale des GBV (VZG)"
     },
     "https://xaai1.fmp-berlin.de/idp/shibboleth": {
-        "de": "Leibniz-Forschungsinstitut für Molekulare Pharmakologie - FMP (XAAI1 IdP)",
-        "en": "Leibniz-Forschungsinstitut für Molekulare Pharmakologie - FMP (XAAI1 IdP)"
+        "de": "FMP Berlin (AAI IdP)",
+        "en": "FMP Berlin (AAI IdP)"
     },
     "https://zividp.uni-muenster.de/idp/shibboleth": {
         "de": "Universität Münster",
