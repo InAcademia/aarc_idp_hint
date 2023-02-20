@@ -135,10 +135,6 @@
         "en": "Salesianos Cayambe - salesianoscayambe",
         "es": "Salesianos Cayambe - salesianoscayambe"
     },
-    "https://login.salesianosibarra.cedia.edu.ec/saml2/idp/metadata.php": {
-        "en": "Salesianos Ibarra - salesianosibarra",
-        "es": "Salesianos Ibarra - salesianosibarra"
-    },
     "https://login.sangregorio.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad San Gregorio de Portoviejo - sangregorio",
         "es": "Universidad San Gregorio de Portoviejo - sangregorio"
