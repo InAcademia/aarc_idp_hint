@@ -1560,6 +1560,10 @@
             "en": "UNIVALE - Universidade Vale do Rio Doce",
             "pt-br": "UNIVALE - Universidade Vale do Rio Doce"
         },
+        "https://shibboleth.univap.br/idp/shibboleth": {
+            "en": "UNIVAP - Universidade do Vale do Paraiba",
+            "pt-br": "UNIVAP - Universidade do Vale do Paraiba"
+        },
         "https://shibboleth.unp.br/idp/shibboleth": {
             "en": "UNP - Universidade Potiguar",
             "pt-br": "UNP - Universidade Potiguar"
