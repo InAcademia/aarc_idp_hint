@@ -712,10 +712,6 @@
             "en": "UFV - Universidade Federal de Vicosa",
             "pt-br": "UFV - Universidade Federal de Vicosa"
         },
-        "https://cafe.fapes.es.gov.br/idp/shibboleth": {
-            "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
-            "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
-        },
         "https://cafe.fucape.br/idp/shibboleth": {
             "en": "FUCAPE - Fundacao Inst. Cap. de Pesq. em Cont., Econ. e Financas.",
             "pt-br": "FUCAPE - Fundacao Inst. Cap. de Pesq. em Cont., Econ. e Financas."
@@ -1115,6 +1111,10 @@
         "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
             "en": "SOBERANA - Faculdade de Saude de Petrolina",
             "pt-br": "SOBERANA - Faculdade de Saude de Petrolina"
+        },
+        "https://idp.fapes.es.gov.br/idp/shibboleth": {
+            "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
+            "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
         },
         "https://idp.fiocruz.br/idp/shibboleth": {
             "en": "FIOCRUZ - Fundacao Oswaldo Cruz",
@@ -9852,6 +9852,12 @@
         },
         "https://vh.hkaf.edu.hk/idp/shibboleth": {
             "en": "HKAF Virtual Home"
+        }
+    },
+    "hr": {
+        "https://login.aaiedu.hr/edugain/saml2/idp/metadata.php": {
+            "en": "AAI@EduHr Single Sign-On Service",
+            "hr": "AAI@EduHr sustav jedinstvene autentikacije korisnika"
         }
     },
     "hu": {
