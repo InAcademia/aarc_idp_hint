@@ -6922,10 +6922,6 @@
             "da": "Paderup Gymnasium",
             "en": "Paderup Gymnasium"
         },
-        "http://fs4.sosuoj.dk/adfs/services/trust": {
-            "da": "SOSU Østjylland",
-            "en": "Basic Health Care College Eastern Jutland"
-        },
         "http://idp.dsn.dk/adfs/services/trust": {
             "da": "Dansk Sprognævn",
             "en": "Danish Language Council"
@@ -9852,12 +9848,6 @@
         },
         "https://vh.hkaf.edu.hk/idp/shibboleth": {
             "en": "HKAF Virtual Home"
-        }
-    },
-    "hr": {
-        "https://login.aaiedu.hr/edugain/saml2/idp/metadata.php": {
-            "en": "AAI@EduHr Single Sign-On Service",
-            "hr": "AAI@EduHr sustav jedinstvene autentikacije korisnika"
         }
     },
     "hu": {
