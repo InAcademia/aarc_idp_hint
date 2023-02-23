@@ -10714,6 +10714,9 @@
         "https://idp.uoc.ac.in/idp/shibboleth": {
             "en": "University of Calicut"
         },
+        "https://idp.uvcelibrary.org/idp/shibboleth": {
+            "en": "University of Visvesvaraya College of Engineering"
+        },
         "https://idp.vcw.ac.in/idp/shibboleth": {
             "en": "Vellalar College For Women"
         },
