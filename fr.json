@@ -887,6 +887,10 @@
         "en": "CINES",
         "fr": "CINES"
     },
+    "https://llng-auth.insa-lyon.fr/saml/metadata": {
+        "en": "ZTEST INSA Lyon",
+        "fr": "ZTEST INSA Lyon"
+    },
     "https://login.essec.fr/idp/shibboleth": {
         "en": "ESSEC BUSINESS SCHOOL",
         "fr": "ESSEC BUSINESS SCHOOL"

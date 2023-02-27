@@ -3575,6 +3575,7 @@
     "https://lka-idp.lanet.lv": "Latvian Academy of Culture",
     "https://lka.sso.litnet.lt/auth/saml2/idp/metadata.php": "General Jonas Žemaitis Military Academy of Lithuania",
     "https://lki.sso.litnet.lt/auth/saml2/idp/metadata.php": "Institute of the Lithuanian Language",
+    "https://llng-auth.insa-lyon.fr/saml/metadata": "ZTEST INSA Lyon",
     "https://lma-idp.lanet.lv": "Art Academy of Latvia",
     "https://lmuidp.lrz.de/idp/shibboleth": "University of Munich (LMU)",
     "https://lmuza-idp.lanet.lv": "Latvian Academy of Music",
