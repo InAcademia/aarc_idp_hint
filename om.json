@@ -20,6 +20,9 @@
     "http://adfs.gutech.edu.om/adfs/services/trust": {
         "en": "German University of Technology"
     },
+    "http://adfs.ibrict.edu.om/adfs/services/trust": {
+        "en": "University of Technology and Applied Science - Ibri"
+    },
     "http://adfs.ibrivtc.edu.om/adfs/services/trust": {
         "en": "Ibri Vocational College"
     },
@@ -109,9 +112,6 @@
     },
     "https://act-idp.act.edu.om/idp/shibboleth": {
         "en": "Al Musanna College of Technology (OM-KID)"
-    },
-    "https://adfs.ibrict.edu.om/adfs/services/trust": {
-        "en": "University of Technology and Applied Sciences-Ibri"
     },
     "https://idp.act.edu.om/idp": {
         "en": "University of Technology and Applied Sciences - Al Musanna (shibboleth)"
