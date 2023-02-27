@@ -4362,6 +4362,7 @@
     "https://signin.cedarville.edu/idp": "Cedarville University",
     "https://signin.k-state.edu/idp/shibboleth": "Kansas State University",
     "https://signon.deakin.edu.au/idp/shibboleth": "Deakin University",
+    "https://signon.fiu.edu/idp": "Florida International University SSO",
     "https://signon.rug.nl/nidp/saml2/metadata": "University of Groningen",
     "https://simplesaml.eek.ee/saml2/idp/metadata.php": "Estonian Entrepreneurship University Of Applied Sciences",
     "https://simplesaml.spinozacentre.nl/simplesaml/saml2/idp/metadata.php": "Spinoza Centre for Neuroimaging (KNAW)",

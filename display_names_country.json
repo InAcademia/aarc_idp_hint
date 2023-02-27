@@ -18392,6 +18392,9 @@
         "https://signin.k-state.edu/idp/shibboleth": {
             "en": "Kansas State University"
         },
+        "https://signon.fiu.edu/idp": {
+            "en": "Florida International University SSO"
+        },
         "https://singlesignon.gwu.edu/idp/shibboleth": {
             "en": "The George Washington University"
         },
