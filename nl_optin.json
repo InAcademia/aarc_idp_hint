@@ -203,6 +203,10 @@
         "en": "Nikhef",
         "nl": "Nikhef"
     },
+    "https://sts.gildeopleidingen.nl/adfs/services/trust": {
+        "en": "ROC Gilde Opleidingen",
+        "nl": "ROC Gilde Opleidingen"
+    },
     "https://sts.hu.nl/adfs/services/trust": {
         "en": "Hogeschool Utrecht",
         "nl": "Hogeschool Utrecht"
