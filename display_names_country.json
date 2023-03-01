@@ -4471,6 +4471,10 @@
             "en": "Shanghai Jiao Tong University",
             "zh": "上海交通大学(Shanghai Jiao Tong University)"
         },
+        "https://libidp.niit.edu.cn/idp/shibboleth": {
+            "en": "Nanjing Vocational University of Industry Technology",
+            "zh": "南京工业职业技术大学(Nanjing Vocational University of Industry Technology)"
+        },
         "https://libidp.nufe.edu.cn/idp/shibboleth": {
             "en": "Nanjing University of Finance & Economics",
             "zh": "南京财经大学(Nanjing University of Finance & Economics)"
