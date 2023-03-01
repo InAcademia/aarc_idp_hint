@@ -582,59 +582,6 @@
             "nl": "Associatie KU Leuven"
         }
     },
-    "bg": {
-        "https://edugain.mu-pleven.bg/idp/shibboleth": {
-            "bg": "Медицински университет Плевен",
-            "en": "Medical University Pleven"
-        },
-        "https://eid.swu.bg/idp/shibboleth": {
-            "bg": "Югозападен университет \"Неофит Рилски\"",
-            "en": "South-West Unversity \"Neofit Rilski\""
-        },
-        "https://ewp.unibit.bg/idp/shibboleth": {
-            "bg": "Университет по библиотекознание и информационни технологии.",
-            "en": "University of Library Studies and Information technologies"
-        },
-        "https://idp.bfu.bg/idp/saml2/idp/metadata.php": {
-            "bg": "Бургаски свободен университет",
-            "en": "Burgas Free University"
-        },
-        "https://idp.cc.bas.bg/idp/shibboleth": {
-            "bg": "Лабораторията по телематика",
-            "en": "Laboratory of Telematics"
-        },
-        "https://idp.naval-acad.bg/idp/shibboleth": {
-            "bg": "Висше военноморско училище \"Н. Й. Вапцаров\"",
-            "en": "Nikola Vaptsarov Naval Academy"
-        },
-        "https://idp.nbu.bg/idp/shibboleth": {
-            "bg": "Нов български университет",
-            "en": "New Bulgarian University"
-        },
-        "https://idp.tu-sofia.bg/idp/shibboleth": {
-            "bg": "Технически Университет - София",
-            "en": "Technical University of Sofia"
-        },
-        "https://idp.uctm.edu/idp/saml2/idp/metadata.php": {
-            "bg": "Химикотехнологичен и металургичен университет (ХТМУ)",
-            "en": "University of Chemical Technology and Metallurgy (UCTM)"
-        },
-        "https://idp.uni-ruse.bg/idp/shibboleth": {
-            "bg": "Русенски университет Ангел Кънчев",
-            "en": "University Of Ruse Angel Kunchev"
-        },
-        "https://sso.nvu.bg/idp/shibboleth": {
-            "bg": "Национален военен университет \"Васил Левски\"",
-            "en": "National Military University \"Vasil Levski\""
-        },
-        "https://sso.uni-sofia.bg/idp/shibboleth": {
-            "en": "Sofia University \"St. Kliment Ohridski\""
-        },
-        "https://vnshibo.vfu.bg/idp/shibboleth": {
-            "bg": "Варненски свободен университет Черноризец Храбър",
-            "en": "Varna Free University Chernorizets Hrabar"
-        }
-    },
     "br": {
         "https://040cafe602.up.edu.br/idp/shibboleth": {
             "en": "UP - Universidade Positivo",
@@ -12866,10 +12813,6 @@
             "en": "Koninklijk Conservatorium",
             "nl": "Koninklijk Conservatorium"
         },
-        "http://signon.nhlstenden.com/adfs/services/trust": {
-            "en": "NHL Stenden",
-            "nl": "NHL Stenden"
-        },
         "http://sts.amc.nl/adfs/services/trust": {
             "en": "Academisch Medisch Centrum (AMC)",
             "nl": "Academisch Medisch Centrum (AMC)"
@@ -13029,6 +12972,10 @@
         "https://sts.hu.nl/adfs/services/trust": {
             "en": "Hogeschool Utrecht",
             "nl": "Hogeschool Utrecht"
+        },
+        "https://sts.windows.net/016a9e48-ba0b-49f4-97f8-a88352164e58/": {
+            "en": "NHL Stenden",
+            "nl": "NHL Stenden"
         },
         "https://sts.windows.net/01ef09a2-c608-4fc7-af66-836e50ddde2c/": {
             "en": "Koninklijke Bibliotheek",

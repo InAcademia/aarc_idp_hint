@@ -271,10 +271,6 @@
         "en": "Koninklijk Conservatorium",
         "nl": "Koninklijk Conservatorium"
     },
-    "http://signon.nhlstenden.com/adfs/services/trust": {
-        "en": "NHL Stenden",
-        "nl": "NHL Stenden"
-    },
     "http://sts.amc.nl/adfs/services/trust": {
         "en": "Academisch Medisch Centrum (AMC)",
         "nl": "Academisch Medisch Centrum (AMC)"
@@ -434,6 +430,10 @@
     "https://sts.hu.nl/adfs/services/trust": {
         "en": "Hogeschool Utrecht",
         "nl": "Hogeschool Utrecht"
+    },
+    "https://sts.windows.net/016a9e48-ba0b-49f4-97f8-a88352164e58/": {
+        "en": "NHL Stenden",
+        "nl": "NHL Stenden"
     },
     "https://sts.windows.net/01ef09a2-c608-4fc7-af66-836e50ddde2c/": {
         "en": "Koninklijke Bibliotheek",
