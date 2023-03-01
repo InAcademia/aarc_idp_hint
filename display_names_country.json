@@ -10838,6 +10838,10 @@
             "en": "University of Salento",
             "it": "Universita' del Salento"
         },
+        "https://idem.unisr.it/idp/shibboleth": {
+            "en": "Università Vita-Salute San Raffaele",
+            "it": "Università Vita-Salute San Raffaele"
+        },
         "https://idemfero.units.it/idp/shibboleth": {
             "en": "University of Trieste",
             "it": "Università di Trieste"
