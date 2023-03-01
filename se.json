@@ -61,7 +61,7 @@
     },
     "https://idp-shib.slu.se/idp": {
         "en": "Swedish University of Agricultural Sciences",
-        "sv": "Sveriges Lantbruksuniversitet"
+        "sv": "Sveriges lantbruksuniversitet"
     },
     "https://idp-v2.konstfack.se/adfs/services/trust": {
         "en": "Konstfack",

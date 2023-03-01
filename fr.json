@@ -887,6 +887,10 @@
         "en": "CINES",
         "fr": "CINES"
     },
+    "https://kedgebs.helloid.com/": {
+        "en": "Kedge Business School",
+        "fr": "Kedge Business School"
+    },
     "https://llng-auth.insa-lyon.fr/saml/metadata": {
         "en": "ZTEST INSA Lyon",
         "fr": "ZTEST INSA Lyon"

@@ -9069,6 +9069,10 @@
             "en": "CINES",
             "fr": "CINES"
         },
+        "https://kedgebs.helloid.com/": {
+            "en": "Kedge Business School",
+            "fr": "Kedge Business School"
+        },
         "https://llng-auth.insa-lyon.fr/saml/metadata": {
             "en": "ZTEST INSA Lyon",
             "fr": "ZTEST INSA Lyon"
@@ -14426,7 +14430,7 @@
         },
         "https://idp-shib.slu.se/idp": {
             "en": "Swedish University of Agricultural Sciences",
-            "sv": "Sveriges Lantbruksuniversitet"
+            "sv": "Sveriges lantbruksuniversitet"
         },
         "https://idp-v2.konstfack.se/adfs/services/trust": {
             "en": "Konstfack",
