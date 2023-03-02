@@ -250,6 +250,10 @@
         "en": "The Wroclaw Business University of Applied Sciences",
         "pl": "Wrocławska Akademia Biznesu w Naukach Stosowanych"
     },
+    "https://shib.wsb.torun.pl/idp/shibboleth": {
+        "en": "WSB University in Torun",
+        "pl": "Wyższa Szkoła Bankowa w Toruniu"
+    },
     "https://shib.wsb.wroclaw.pl/idp/shibboleth": {
         "en": "WSB University in Wrocław",
         "pl": "Wyższa Szkoła Bankowa we Wrocławiu"

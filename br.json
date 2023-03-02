@@ -551,10 +551,6 @@
         "en": "UFJF - Universidade Federal de Juiz de Fora",
         "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
     },
-    "https://idp.ufmt.br/idp/shibboleth": {
-        "en": "UFMT - Universidade Federal de Mato Grosso",
-        "pt-br": "UFMT - Universidade Federal de Mato Grosso"
-    },
     "https://idp.ufr.edu.br/idp/shibboleth": {
         "en": "UFR - Universidade Federal de Rondonopolis",
         "pt-br": "UFR - Universidade Federal de Rondonopolis"
@@ -638,6 +634,10 @@
     "https://idp2.ifmg.edu.br/idp/shibboleth": {
         "en": "IFMG - Instituto Federal de Minas Gerais",
         "pt-br": "IFMG - Instituto Federal de Minas Gerais"
+    },
+    "https://idp2.ufmt.br/idp/shibboleth": {
+        "en": "UFMT - Universidade Federal de Mato Grosso",
+        "pt-br": "UFMT - Universidade Federal de Mato Grosso"
     },
     "https://idp3.ifpe.edu.br/idp/shibboleth": {
         "en": "IFPE - Instituto Federal de Pernambuco",
