@@ -147,6 +147,10 @@
         "en": "Southwest Medical University",
         "zh": "西南医科大学(Southwest Medical University)"
     },
+    "https://idp-lib.swpu.edu.cn/idp/shibboleth": {
+        "en": "Southwest Petroleum University",
+        "zh": "西南石油大学(Southwest Petroleum University)"
+    },
     "https://idp-lib.uestc.edu.cn/idp/shibboleth": {
         "en": "University of Electronic Science and Technology of China",
         "zh": "电子科技大学(University of Electronic Science and Technology of China)"
