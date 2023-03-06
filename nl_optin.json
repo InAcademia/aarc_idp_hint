@@ -19,6 +19,10 @@
         "en": "Driestar educatief",
         "nl": "Driestar educatief"
     },
+    "http://adfs.glu.nl/adfs/services/trust": {
+        "en": "Grafisch Lyceum Utrecht",
+        "nl": "Grafisch Lyceum Utrecht"
+    },
     "http://adfs.hanze.nl/adfs/services/trust": {
         "en": "Hanze University Groningen",
         "nl": "Hanzehogeschool Groningen"
