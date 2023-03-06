@@ -763,6 +763,10 @@
         "en": "MCOM - Ministerio das Comunicacoes",
         "pt-br": "MCOM - Ministerio das Comunicacoes"
     },
+    "https://poa01idp02.pucrs.br/idp/shibboleth": {
+        "en": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul",
+        "pt-br": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul"
+    },
     "https://prdidm01.mec.gov.br/idp/shibboleth": {
         "en": "MEC - Ministerio da Educacao",
         "pt-br": "MEC - Ministerio da Educacao"
@@ -930,10 +934,6 @@
     "https://shibboleth.unp.br/idp/shibboleth": {
         "en": "UNP - Universidade Potiguar",
         "pt-br": "UNP - Universidade Potiguar"
-    },
-    "https://shibboleth01.pucrs.br/idp/shibboleth": {
-        "en": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul",
-        "pt-br": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul"
     },
     "https://shibboleth02.uergs.edu.br/idp/shibboleth": {
         "en": "UERGS - Universidade Estadual do Rio Grande do Sul",
