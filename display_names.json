@@ -2022,6 +2022,7 @@
     "https://idp.kmc.ac.uk/shibboleth": "Kingston Maurward College",
     "https://idp.kmh.se/idp/shibboleth": "Royal College of Music in Stockholm",
     "https://idp.kmkg-mrah.be/idp/shibboleth": "Royal Museums of Art and History, Brussels",
+    "https://idp.knihovna-uo.cz/saml2/idp/metadata.php": "Municipal Library Ústí nad Orlicí",
     "https://idp.knowsleycollege.ac.uk/idp/shibboleth": "Knowsley College",
     "https://idp.kochi-tech.ac.jp/idp/shibboleth": "Kochi University of Technology",
     "https://idp.kolas.basnet.by/idp/saml2/idp/metadata.php": "CSL NAS Belarus",

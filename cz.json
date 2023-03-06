@@ -251,6 +251,10 @@
         "cs": "Akademie věd České republiky",
         "en": "Czech Academy of Sciences"
     },
+    "https://idp.knihovna-uo.cz/saml2/idp/metadata.php": {
+        "cs": "Městská knihovna Ústí nad Orlicí",
+        "en": "Municipal Library Ústí nad Orlicí"
+    },
     "https://idp.lib.cas.cz/idp/shibboleth": {
         "cs": "Knihovna AV ČR, v. v. i.",
         "en": "Academy of Sciences Library"
