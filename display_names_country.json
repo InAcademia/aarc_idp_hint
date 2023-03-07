@@ -10311,8 +10311,8 @@
         "https://idp2.dcu.ie/idp/profile/Metadata/SAML": {
             "en": "Dublin City University"
         },
-        "https://sso.ichec.ie/idp/shibboleth": {
-            "en": "Irish Centre for High-End Computing - Staff"
+        "https://idp2.griffith.ie/idp/shibboleth": {
+            "en": "Griffith College"
         },
         "https://sso.identity.ichec.ie/realms/ichec-staff": {
             "en": "Irish Centre for High-End Computing - Staff MFA"
