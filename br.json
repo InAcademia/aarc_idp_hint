@@ -311,6 +311,10 @@
         "en": "CETENE - Centro de Tecnologias e Estrategicas do Nordeste",
         "pt-br": "CETENE - Centro de Tecnologias e Estrategicas do Nordeste"
     },
+    "https://capes.fcmsantacasasp.edu.br/idp/shibboleth": {
+        "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa",
+        "pt-br": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa"
+    },
     "https://capuccino2.iff.edu.br/idp/shibboleth": {
         "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
         "pt-br": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense"
