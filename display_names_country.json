@@ -13121,6 +13121,10 @@
             "en": "UMC Groningen",
             "nl": "UMC Groningen"
         },
+        "https://sts.windows.net/37be429e-6e85-42cf-afc1-13c6587b2b3f/": {
+            "en": "Noorderpoort (MS Azure AD)",
+            "nl": "Noorderpoort (MS Azure AD)"
+        },
         "https://sts.windows.net/49d50454-13ed-4a49-9fb0-7d99214fadf4/": {
             "en": "Hogeschool KPZ",
             "nl": "Hogeschool KPZ"
