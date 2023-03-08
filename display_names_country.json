@@ -9263,8 +9263,8 @@
             "fr": "Université de Corse"
         },
         "https://shibboleth.univ-evry.fr/idp/shibboleth": {
-            "en": "University Evry Val d'Essonne (test)",
-            "fr": "Université d'Evry Val d'Essonne (en test)"
+            "en": "University Evry Val d'Essonne",
+            "fr": "Université d'Evry Val d'Essonne"
         },
         "https://shibboleth.univ-grenoble-alpes.fr/idp/shibboleth": {
             "en": "University Grenoble Alpes - UGA",
@@ -9291,8 +9291,8 @@
             "fr": "Université de Technologie de Troyes - UTT"
         },
         "https://shibbolethv3.univ-evry.fr/idp/shibboleth": {
-            "en": "Université d'Evry Val d'Essonne V3",
-            "fr": "Université d'Evry Val d'Essonne V3"
+            "en": "Université d'Evry Val d'Essonne V3 (old)",
+            "fr": "Université d'Evry Val d'Essonne V3 (ancien)"
         },
         "https://shibbov3-vm.ec-nantes.fr/idp/shibboleth": {
             "en": "Centrale Nantes",
