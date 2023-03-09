@@ -712,6 +712,10 @@
             "en": "UFV - Universidade Federal de Vicosa",
             "pt-br": "UFV - Universidade Federal de Vicosa"
         },
+        "https://cafe.espm.br/idp/shibboleth": {
+            "en": "ESPM - Escola Superior de Propaganda e Marketing",
+            "pt-br": "ESPM - Escola Superior de Propaganda e Marketing"
+        },
         "https://cafe.fucape.br/idp/shibboleth": {
             "en": "FUCAPE - Fundacao Inst. Cap. de Pesq. em Cont., Econ. e Financas.",
             "pt-br": "FUCAPE - Fundacao Inst. Cap. de Pesq. em Cont., Econ. e Financas."
@@ -8875,7 +8879,7 @@
             "fr": "Ecole Nationale Supérieure d'Architecture de Strasbourg"
         },
         "https://idp.supagro.fr/idp": {
-            "en": "Montpellier SupAgro",
+            "en": "Institut Agro Montpellier",
             "fr": "Institut Agro Montpellier"
         },
         "https://idp.supbiotech.fr/idp/shibboleth": {
