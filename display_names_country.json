@@ -12286,6 +12286,9 @@
         "https://sso.kkkjeli.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Jeli"
         },
+        "https://sso.kkklang.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Klang"
+        },
         "https://sso.kkklk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kok Lanas"
         },
