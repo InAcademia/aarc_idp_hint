@@ -2923,6 +2923,10 @@
             "en": "Fujian University of Traditional Chinese Medicine",
             "zh": "福建中医药大学(Fujian University of Traditional Chinese Medicine)"
         },
+        "https://idp.fjut.edu.cn/idp/shibboleth": {
+            "en": "Fujian University of Technology",
+            "zh": "福建工程学院(Fujian University of Technology)"
+        },
         "https://idp.fosu.edu.cn/idp/shibboleth": {
             "en": "Foshan University",
             "zh": "佛山科学技术学院(Foshan University)"
