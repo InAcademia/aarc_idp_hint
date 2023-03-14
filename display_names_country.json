@@ -7146,6 +7146,10 @@
             "en": "Comunidad San Juan Bosco - comunidadsanjuanbosco",
             "es": "Comunidad San Juan Bosco - comunidadsanjuanbosco"
         },
+        "https://login.cordillera.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Instituto Cordillera - cordillera",
+            "es": "Instituto Cordillera - cordillera"
+        },
         "https://login.cotopaxi.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Academia Cotopaxi - cotopaxi",
             "es": "Academia Cotopaxi - cotopaxi"
@@ -7169,10 +7173,6 @@
         "https://login.donboscomacas.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas",
             "es": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas"
-        },
-        "https://login.dsavio.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio",
-            "es": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio"
         },
         "https://login.epn.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Escuela Politécnica Nacional - epn",
@@ -7237,6 +7237,10 @@
         "https://login.istvidanueva.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Superior Tecnológico Vida Nueva - istvidanueva",
             "es": "Instituto Superior Tecnológico Vida Nueva - istvidanueva"
+        },
+        "https://login.itb.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Instituto Tecnologico Bolivariano - itb",
+            "es": "Instituto Tecnologico Bolivariano - itb"
         },
         "https://login.puce.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Pontificia Universidad Católica del Ecuador Quito - puce",
@@ -7377,6 +7381,10 @@
         "https://login.uisrael.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Israel - uisrael",
             "es": "Universidad Israel - uisrael"
+        },
+        "https://login.uleam.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad Laica Eloy Alfaro de Manabí - uleam",
+            "es": "Universidad Laica Eloy Alfaro de Manabí - uleam"
         },
         "https://login.unach.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Nacional de Chimborazo - unach",
