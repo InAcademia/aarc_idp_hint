@@ -6399,10 +6399,6 @@
             "de": "Max-Planck-Gesellschaft (Generalverwaltung)",
             "en": "Max Planck Society (Administrative Headquarters)"
         },
-        "https://login.haw-hamburg.de/nidp/saml2/metadata": {
-            "de": "Hochschule für Angewandte Wissenschaften Hamburg",
-            "en": "Hamburg University of Applied Sciences"
-        },
         "https://login.hff-muc.de/idp/shibboleth": {
             "de": "HFF München und ADBK",
             "en": "HFF Munich and ADBK"
@@ -13572,6 +13568,9 @@
         },
         "https://idpomren.majancollege.edu.om/idp": {
             "en": "Majan University College(shibboleth)"
+        },
+        "https://idpomren.muscatcollege.edu.om/idp": {
+            "en": "Muscat College (shibboleth)"
         },
         "https://idpomren.nct.edu.om/idp": {
             "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
