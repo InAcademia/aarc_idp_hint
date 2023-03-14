@@ -2527,10 +2527,6 @@
             "en": "Anhui Agriculture University",
             "zh": "安徽农业大学(Anhui Agriculture University)"
         },
-        "https://idp.ahbvc.edu.cn/idp/shibboleth": {
-            "en": "Anhui Business and Technology College",
-            "zh": "安徽工商职业学院(Anhui Business and Technology College)"
-        },
         "https://idp.ahcme.edu.cn/idp/shibboleth": {
             "en": "Anhui Technical College Of Mechanical and Electrical Engineering",
             "zh": "安徽机电职业技术学院(Anhui Technical College Of Mechanical and Electrical Engineering)"
@@ -7173,6 +7169,10 @@
         "https://login.donboscomacas.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas",
             "es": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas"
+        },
+        "https://login.dsavio.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio",
+            "es": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio"
         },
         "https://login.epn.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Escuela Politécnica Nacional - epn",
