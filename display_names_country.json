@@ -984,6 +984,10 @@
             "en": "FUNDAJ - Fundacao Joaquim Nabuco",
             "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"
         },
+        "https://fsc-cafe02.faculdadesantacasabh.org.br/idp/shibboleth": {
+            "en": "FSCBH - Faculdade Santa Casa BH",
+            "pt-br": "FSCBH - Faculdade Santa Casa BH"
+        },
         "https://fusion.ceub.br/idp/shibboleth": {
             "en": "UNICEUB - Centro Universitario de Brasilia",
             "pt-br": "UNICEUB - Centro Universitario de Brasilia"
@@ -1295,6 +1299,10 @@
         "https://idp59.furb.br/idp/shibboleth": {
             "en": "FURB - Fundacao Universidade Regional de Blumenau",
             "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
+        },
+        "https://idpcafe.finep.gov.br/idp/shibboleth": {
+            "en": "FINEP - Financiadora de Estudos e Projetos",
+            "pt-br": "FINEP - Financiadora de Estudos e Projetos"
         },
         "https://idpcafe.ifsudestemg.edu.br/idp/shibboleth": {
             "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
