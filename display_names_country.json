@@ -15470,10 +15470,6 @@
             "en": "Biruni University",
             "tr": "Biruni Üniversitesi"
         },
-        "https://yetkim.cag.edu.tr/idp/shibboleth": {
-            "en": "Cag University",
-            "tr": "Çağ Üniversitesi"
-        },
         "https://yetkim.erciyes.edu.tr/idp/shibboleth": {
             "en": "Erciyes University",
             "tr": "Erciyes Üniversitesi"
@@ -15593,10 +15589,6 @@
         "https://yetkim.yildiz.edu.tr/idp/shibboleth": {
             "en": "Yildiz Technical University",
             "tr": "Yıldız Teknik Üniversitesi"
-        },
-        "https://yetkimidp.isikun.edu.tr/idp/shibboleth": {
-            "en": "FMV Işık University",
-            "tr": "FMV Işık Üniversitesi"
         },
         "https://yetkimidp.ku.edu.tr/idp/shibboleth": {
             "en": "Koc University",
