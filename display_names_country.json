@@ -1828,10 +1828,6 @@
             "en": "University of Quebec at Trois-Rivieres",
             "fr": "Université du Québec à Trois-Rivières"
         },
-        "https://cas5.polymtl.ca/cas/idp": {
-            "en": "Polytechnique Montréal - CAS",
-            "fr": "Polytechnique Montréal - CAS"
-        },
         "https://connect.laurentian.ca/idp": {
             "en": "Laurentian University"
         },
@@ -1856,9 +1852,6 @@
         },
         "https://idp.canarie.ca/idp/shibboleth": {
             "en": "CANARIE"
-        },
-        "https://idp.ccs.ryerson.ca/idp/shibboleth": {
-            "en": "Ryerson University"
         },
         "https://idp.cegeptr.qc.ca/idp": {
             "en": "Cegep de Trois-Rivieres",
