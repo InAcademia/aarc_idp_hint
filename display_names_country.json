@@ -8462,6 +8462,10 @@
             "en": "Université de Bretagne Occidentale - UBO/IDP3",
             "fr": "Université de Bretagne Occidentale - UBO/IDP3"
         },
+        "https://hub.phm.education.gouv.fr/idp": {
+            "en": "Education Nationale - academies accesses and centrale administration",
+            "fr": "Education Nationale - accès académies et administration centrale"
+        },
         "https://i-id.cea.fr/fed": {
             "en": "CEA French Alternative Energies and Atomic Energy Commission",
             "fr": "CEA Commissariat à l´énergie atomique et aux énergies alternatives"
