@@ -393,7 +393,7 @@
     "https://atlas.sciencespo-lille.eu/idp/shibboleth": "Sciences Po Lille",
     "https://auas.akita-u.ac.jp/idp/shibboleth": "Akita University",
     "https://auth-incommon.siu.edu": "Southern Illinois University",
-    "https://auth-proxy-dev.kent.edu/idp/shibboleth": "Kent State University - DEV",
+    "https://auth-proxy.kent.edu/idp/shibboleth": "Kent State University - DEV",
     "https://auth.agrosupdijon.fr/idp/shibboleth": "Agrosup DIJON INSSAAE",
     "https://auth.ap.edu.pl": "Polonia University in Czestochowa",
     "https://auth.aspirationtraining.com/idp/shibboleth": "Aspiration Training",
