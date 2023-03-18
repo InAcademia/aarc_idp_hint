@@ -7215,10 +7215,6 @@
             "en": "Instituto Oceanográfico y Antártico de la Armada - inocar",
             "es": "Instituto Oceanográfico y Antártico de la Armada - inocar"
         },
-        "https://login.inspi.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Nacional de Investigacion en Salud Publica - inspi",
-            "es": "Instituto Nacional de Investigacion en Salud Publica - inspi"
-        },
         "https://login.insteclrg.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg",
             "es": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg"
@@ -7310,10 +7306,6 @@
         "https://login.tecsu.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Tecnologico Sudamericano Guayaquil - tecsu",
             "es": "Tecnologico Sudamericano Guayaquil - tecsu"
-        },
-        "https://login.tes.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Tecnológico Espíritu Santo - tes",
-            "es": "Tecnológico Espíritu Santo - tes"
         },
         "https://login.uartes.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad de las Artes - uartes",
@@ -7446,10 +7438,6 @@
         "https://login.uteq.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Tecnica Estatal de Quevedo - uteq",
             "es": "Universidad Tecnica Estatal de Quevedo - uteq"
-        },
-        "https://login.uti.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Tecnologica Indoamerica - uti",
-            "es": "Universidad Tecnologica Indoamerica - uti"
         },
         "https://login.utm.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Técnica de Manabi - utm",
