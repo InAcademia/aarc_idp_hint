@@ -131,6 +131,9 @@
     "https://idp.met.gov.om/idp": {
         "en": "Directorate General Of Meteorology"
     },
+    "https://idp.nu.edu.om/idp": {
+        "en": "National University of Science and Technology (shibbloth)"
+    },
     "https://idp.omancollege.edu.om/idp/shibboleth": {
         "en": "Oman College Of Management and Technology (OM-KID)"
     },
