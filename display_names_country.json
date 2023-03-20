@@ -13508,6 +13508,9 @@
         "https://idp.icem.edu.om/idp/shibboleth": {
             "en": "International College of Engineering and Management (OM-KID)"
         },
+        "https://idp.mec.edu.om/idp": {
+            "en": "Middle East College (shibboleth)"
+        },
         "https://idp.met.gov.om/idp": {
             "en": "Directorate General Of Meteorology"
         },
