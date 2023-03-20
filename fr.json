@@ -44,8 +44,8 @@
         "fr": "Sciences Po Lille"
     },
     "https://auth.agrosupdijon.fr/idp/shibboleth": {
-        "en": "Agrosup DIJON INSSAAE",
-        "fr": "Agrosup DIJON INSSAAE"
+        "en": "L'Institut Agro Dijon",
+        "fr": "L'Institut Agro Dijon"
     },
     "https://auth.centrale-marseille.fr/idp/shibboleth": {
         "en": "Ecole Centrale de Marseille",
@@ -632,8 +632,8 @@
         "fr": "Ecole Nationale Supérieure d'Architecture de Strasbourg"
     },
     "https://idp.supagro.fr/idp": {
-        "en": "Institut Agro Montpellier",
-        "fr": "Institut Agro Montpellier"
+        "en": "L'Institut Agro Montpellier",
+        "fr": "L'Institut Agro Montpellier"
     },
     "https://idp.supbiotech.fr/idp/shibboleth": {
         "en": "SUPBIOTECH The School of Biotechnology Engineers",
