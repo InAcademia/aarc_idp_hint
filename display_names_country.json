@@ -13499,6 +13499,9 @@
         "https://idp.act.edu.om/idp": {
             "en": "University of Technology and Applied Sciences - Al Musanna (shibboleth)"
         },
+        "https://idp.buc.edu.om/idp": {
+            "en": "Buraimi University College"
+        },
         "https://idp.css.edu.om/idp": {
             "en": "College of Shari'a Sciences (shibb)"
         },
