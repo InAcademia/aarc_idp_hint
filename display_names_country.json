@@ -7131,10 +7131,6 @@
             "en": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces",
             "es": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces"
         },
-        "https://login.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
-            "es": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia"
-        },
         "https://login.comunidadsanjuanbosco.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Comunidad San Juan Bosco - comunidadsanjuanbosco",
             "es": "Comunidad San Juan Bosco - comunidadsanjuanbosco"
@@ -7250,10 +7246,6 @@
         "https://login.pucesd.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Pontificia Universidad Catolica del Ecuador Santo Domingo - pucesd",
             "es": "Pontificia Universidad Catolica del Ecuador Santo Domingo - pucesd"
-        },
-        "https://login.pucese.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Pontificia Universidad Catolica del Ecuador Esmeraldas - pucese",
-            "es": "Pontificia Universidad Catolica del Ecuador Esmeraldas - pucese"
         },
         "https://login.pucesi.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Pontificia Universidad Catolica del Ecuador  Ibarra - pucesi",
