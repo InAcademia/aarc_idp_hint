@@ -7175,10 +7175,6 @@
             "en": "Escuela Superior Politecnica Agropecuaria de Manabi - espam",
             "es": "Escuela Superior Politecnica Agropecuaria de Manabi - espam"
         },
-        "https://login.espe.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad de las Fuerzas Armadas ESPE - espe",
-            "es": "Universidad de las Fuerzas Armadas ESPE - espe"
-        },
         "https://login.espoch.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Escuela Superior Politecnica de Chimborazo - espoch",
             "es": "Escuela Superior Politecnica de Chimborazo - espoch"
@@ -16613,9 +16609,6 @@
         },
         "https://idp.rsceng.ac.uk/openathens": {
             "en": "Royal College of Surgeons of England"
-        },
-        "https://idp.rsmith.org.uk/idp/shibboleth": {
-            "en": "Rhys Smith"
         },
         "https://idp.rsu.edu.ng/idp/shibboleth": {
             "en": "Rivers State University"
