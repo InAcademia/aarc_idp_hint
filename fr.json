@@ -467,6 +467,10 @@
         "en": "University Hospitals Institute - ICM",
         "fr": "Institut Hospitalo Universitaire - ICM"
     },
+    "https://idp.icn-artem.com/idp": {
+        "en": "ICN BUSINESS SCHOOL",
+        "fr": "ICN BUSINESS SCHOOL"
+    },
     "https://idp.ifremer.fr/idp/shibboleth": {
         "en": "French Research Institute for Exploitation of the Sea",
         "fr": "IFREMER"

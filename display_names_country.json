@@ -3380,10 +3380,6 @@
             "en": "Jiangxi College Of Applied Technology",
             "zh": "江西应用技术职业学院(Jiangxi College Of Applied Technology)"
         },
-        "https://idp.jyu.edu.cn/idp/shibboleth": {
-            "en": "Jiaying University",
-            "zh": "嘉应学院(Jiaying University)"
-        },
         "https://idp.jyvtc.edu.cn/idp/shibboleth": {
             "en": "Jiyuan Vocational and Technical College",
             "zh": "济源职业技术学院(Jiyuan Vocational and Technical College )"
@@ -8758,6 +8754,10 @@
         "https://idp.icm-institute.org/idp/shibboleth": {
             "en": "University Hospitals Institute - ICM",
             "fr": "Institut Hospitalo Universitaire - ICM"
+        },
+        "https://idp.icn-artem.com/idp": {
+            "en": "ICN BUSINESS SCHOOL",
+            "fr": "ICN BUSINESS SCHOOL"
         },
         "https://idp.ifremer.fr/idp/shibboleth": {
             "en": "French Research Institute for Exploitation of the Sea",
