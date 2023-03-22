@@ -936,6 +936,10 @@
             "en": "UNEMAT - Universidade do Estado de Mato Grosso",
             "pt-br": "UNEMAT - Universidade do Estado de Mato Grosso"
         },
+        "https://cafernp.fesfsus.ba.gov.br/idp/shibboleth": {
+            "en": "FESFSUS - Fundacao Estatal Saude da Familia",
+            "pt-br": "FESFSUS - Fundacao Estatal Saude da Familia"
+        },
         "https://cafernp.imip.org.br/idp/shibboleth": {
             "en": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira",
             "pt-br": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira"
