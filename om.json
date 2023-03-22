@@ -146,6 +146,9 @@
     "https://idp.shct.edu.om/idp/shibboleth": {
         "en": "Shinas College of Technology (OM-KID)"
     },
+    "https://idp.squ.edu.om/idp": {
+        "en": "Sultan Qaboos University (shibboleth)"
+    },
     "https://idp.suc.edu.om/idp": {
         "en": "Sur University College (shibb)"
     },
