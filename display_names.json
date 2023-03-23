@@ -385,6 +385,7 @@
     "https://apps.univ-lr.fr/idp/shibboleth": "La Rochelle University",
     "https://arabica.fapesp.br/idp/shibboleth": "FAPESP - Fundacao de Amparo a Pesquisa do Estado de Sao Paulo",
     "https://araripe.uece.br/idp/shibboleth": "UECE - Universidade Estadual do Ceara",
+    "https://artun.ois.ee/simplesamlphp/saml2/idp/metadata.php": "Estonian Academy of Arts",
     "https://ashibi.agropolis.fr/idp/shibboleth": "Agropolis International",
     "https://asren-iam.noc.asren.org/idp/shibboleth": "ASREN",
     "https://asura.seijo.ac.jp/idp/shibboleth": "Seijo University",

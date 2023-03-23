@@ -3,6 +3,10 @@
         "en": "Estonian Business School",
         "et": "Estonian Business School"
     },
+    "https://artun.ois.ee/simplesamlphp/saml2/idp/metadata.php": {
+        "en": "Estonian Academy of Arts",
+        "et": "Eesti Kunstiakadeemia"
+    },
     "https://auth.ut.ee/idp/saml2/idp/metadata.php": {
         "en": "University of Tartu",
         "et": "Tartu Ülikool"
