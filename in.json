@@ -113,6 +113,9 @@
     "https://idp.cusb.ac.in/idp/shibboleth": {
         "en": "Central University of South Bihar"
     },
+    "https://idp.cutm.ac.in/idp/shibboleth": {
+        "en": "Centurion University of Technology and Management"
+    },
     "https://idp.cutn.ac.in/idp/shibboleth": {
         "en": "Central University of Tamilnadu"
     },
