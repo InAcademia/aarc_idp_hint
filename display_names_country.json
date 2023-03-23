@@ -12338,6 +12338,9 @@
         "https://sso.kkkg.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kuching"
         },
+        "https://sso.kkkj.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Kelana Jaya"
+        },
         "https://sso.kkkjeli.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Jeli"
         },
@@ -12460,6 +12463,9 @@
         },
         "https://sso.kksibu.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Sibu"
+        },
+        "https://sso.kksik.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Sik"
         },
         "https://sso.kksk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Sandakan"
