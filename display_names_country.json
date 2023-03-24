@@ -966,6 +966,10 @@
             "en": "UFOP - Universidade Federal de Ouro Preto",
             "pt-br": "UFOP - Universidade Federal de Ouro Preto"
         },
+        "https://cleveland.ifrn.edu.br/idp/shibboleth": {
+            "en": "IFRN - Instituto Federal do Rio Grande do Norte",
+            "pt-br": "IFRN - Instituto Federal do Rio Grande do Norte"
+        },
         "https://dourado2023.ufs.br/idp/shibboleth": {
             "en": "UFS - Universidade Federal de Sergipe",
             "pt-br": "UFS - Universidade Federal de Sergipe"
@@ -1485,10 +1489,6 @@
         "https://shibboleth.ifmt.edu.br/idp/shibboleth": {
             "en": "IFMT - Instituto Federal de Mato Grosso",
             "pt-br": "IFMT - Instituto Federal de Mato Grosso"
-        },
-        "https://shibboleth.ifrn.edu.br/idp/shibboleth": {
-            "en": "IFRN - Instituto Federal do Rio Grande do Norte",
-            "pt-br": "IFRN - Instituto Federal do Rio Grande do Norte"
         },
         "https://shibboleth.ifsc.edu.br/idp/shibboleth": {
             "en": "IFSC - Instituto Federal de Santa Catarina",
