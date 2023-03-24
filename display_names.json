@@ -693,7 +693,7 @@
     "https://fedi.ku.lt/idp/shibboleth": "Klaipeda University",
     "https://fedidp.bcm.edu/idp/shibboleth": "Baylor College of Medicine",
     "https://fedidp.uh.edu/idp/shibboleth": "University of Houston",
-    "https://fedlogin.ou.nl/fedou/saml2/idp/metadata.php": "Open Juridische hogeschool, Netwerk Open Hogeschool Informatica, SchakelZone OJH NOHI",
+    "https://fedlogin.ou.nl/fedou/saml2/idp/metadata.php": "Open Juridische hogeschool,  SchakelZone OJH",
     "https://ffunam.fairfield.edu:8443/nidp/saml2/metadata": "Fairfield University IDM",
     "https://fid.usms.ac.ma/idp/shibboleth": "USMS",
     "https://fim.temple.edu/idp/shibboleth": "Temple University",

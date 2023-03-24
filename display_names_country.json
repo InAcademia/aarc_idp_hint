@@ -13048,8 +13048,8 @@
             "nl": "Hogeschool voor de Kunsten Utrecht"
         },
         "https://fedlogin.ou.nl/fedou/saml2/idp/metadata.php": {
-            "en": "Open Juridische hogeschool, Netwerk Open Hogeschool Informatica, SchakelZone OJH NOHI",
-            "nl": "Open Juridische hogeschool, Netwerk Open Hogeschool Informatica, SchakelZone OJH NOHI"
+            "en": "Open Juridische hogeschool,  SchakelZone OJH",
+            "nl": "Open Juridische hogeschool, SchakelZone OJH"
         },
         "https://idp.cwi.nl/simplesaml/saml2/idp/metadata.php": {
             "en": "Centrum Wiskunde & Informatica",
