@@ -595,6 +595,10 @@
             "bg": "Университет по библиотекознание и информационни технологии.",
             "en": "University of Library Studies and Information technologies"
         },
+        "https://idp.bas.bg/idp/shibboleth": {
+            "bg": "Българска Академия на Науките",
+            "en": "Bulgarian Academy of Science"
+        },
         "https://idp.bfu.bg/idp/saml2/idp/metadata.php": {
             "bg": "Бургаски свободен университет",
             "en": "Burgas Free University"
