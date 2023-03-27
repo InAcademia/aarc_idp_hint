@@ -8383,6 +8383,10 @@
             "en": "CROUS Strasbourg V3",
             "fr": "CROUS Strasbourg V3"
         },
+        "https://auth.enit.fr/saml/metadata": {
+            "en": "ENIT Ecole Nationale Ingénieurs Tarbes",
+            "fr": "ENIT Ecole Nationale Ingénieurs Tarbes"
+        },
         "https://auth.id.sorbonne-universite.fr/saml/metadata": {
             "en": "Sorbonne University",
             "fr": "Sorbonne Université"
@@ -8696,8 +8700,8 @@
             "fr": "ENIB - Ecole Nationale d'Ingénieurs de Brest"
         },
         "https://idp.enit.fr/idp/shibboleth": {
-            "en": "ENIT Ecole Nationale Ingénieurs Tarbes",
-            "fr": "ENIT Ecole Nationale Ingénieurs Tarbes"
+            "en": "ENIT Ancien",
+            "fr": "ENIT Ancien"
         },
         "https://idp.enitab.fr/idp/shibboleth": {
             "en": "Bordeaux Sciences Agro",
