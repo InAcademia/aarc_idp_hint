@@ -395,6 +395,10 @@
         "en": "Osmaniye Korkut Ata University",
         "tr": "Osmaniye Korkut Ata Üniversitesi"
     },
+    "https://kimlik.ktu.edu.tr/idp/shibboleth": {
+        "en": "Karadeniz Technical University",
+        "tr": "Karadeniz Teknik Üniversitesi"
+    },
     "https://kimlik.ktun.edu.tr/idp/shibboleth": {
         "en": "Konya Technical University",
         "tr": "Konya Teknik Üniversitesi"
