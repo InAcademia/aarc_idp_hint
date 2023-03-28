@@ -17508,7 +17508,7 @@
             "en": "Mayo Clinic"
         },
         "http://msauth.kent.edu/adfs/services/trust": {
-            "en": "Kent State University"
+            "en": "Kent State University - OLD"
         },
         "http://sso.quinnipiac.edu/adfs/services/trust": {
             "en": "Quinnipiac University"
@@ -17538,7 +17538,7 @@
             "en": "Southern Illinois University"
         },
         "https://auth-proxy.kent.edu/idp/shibboleth": {
-            "en": "Kent State University - DEV"
+            "en": "Kent State University"
         },
         "https://auth.chaminade.edu/idp/shibboleth": {
             "en": "Chaminade University of Honolulu"
