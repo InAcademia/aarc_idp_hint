@@ -10361,6 +10361,9 @@
         "https://idp.riam.ie/idp/shibboleth": {
             "en": "Royal Irish Academy of Music"
         },
+        "https://idp.setu.ie/idp/shibboleth": {
+            "en": "SETU - Not currently available"
+        },
         "https://idp.tcd.ie/idp/shibboleth": {
             "en": "Trinity College Dublin"
         },
