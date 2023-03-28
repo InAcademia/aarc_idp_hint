@@ -448,6 +448,9 @@
     "https://idp.dundee.ac.uk/shibboleth": {
         "en": "University of Dundee"
     },
+    "https://idp.dundeeandangus.ac.uk/idp": {
+        "en": "Dundee and Angus College"
+    },
     "https://idp.dunstable.ac.uk/openathens": {
         "en": "Central Bedfordshire College"
     },
@@ -1498,9 +1501,6 @@
     },
     "https://shibboleth.derby.ac.uk/idp/shibboleth": {
         "en": "University of Derby"
-    },
-    "https://shibboleth.dundeeandangus.ac.uk/idp/shibboleth": {
-        "en": "Dundee and Angus College"
     },
     "https://shibboleth.eastkent.ac.uk/idp/shibboleth": {
         "en": "EKC Group"
