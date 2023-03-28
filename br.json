@@ -491,6 +491,10 @@
         "en": "SOBERANA - Faculdade de Saude de Petrolina",
         "pt-br": "SOBERANA - Faculdade de Saude de Petrolina"
     },
+    "https://idp.fapeal.br/idp/shibboleth": {
+        "en": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas",
+        "pt-br": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas"
+    },
     "https://idp.fapes.es.gov.br/idp/shibboleth": {
         "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
         "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
