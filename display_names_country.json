@@ -10659,6 +10659,9 @@
         "https://idp.keralauniversity.ac.in/idp/shibboleth": {
             "en": "University of Kerala"
         },
+        "https://idp.khongnangthabauniversity.org/idp/shibboleth": {
+            "en": "Khongnangthaba University"
+        },
         "https://idp.kongu.edu/idp/shibboleth": {
             "en": "Kongu Engineering College"
         },
