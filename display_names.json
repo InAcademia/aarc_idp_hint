@@ -387,7 +387,7 @@
     "https://araripe.uece.br/idp/shibboleth": "UECE - Universidade Estadual do Ceara",
     "https://artun.ois.ee/simplesamlphp/saml2/idp/metadata.php": "Estonian Academy of Arts",
     "https://ashibi.agropolis.fr/idp/shibboleth": "Agropolis International",
-    "https://asren-iam.noc.asren.org/idp/shibboleth": "ASREN",
+    "https://asren-iam.asren.org/idp/shibboleth": "ASREN",
     "https://asura.seijo.ac.jp/idp/shibboleth": "Seijo University",
     "https://athens.londonexternal.ac.uk/OpenAthens": "University of London: External System (ATHENS)",
     "https://athens.petroc.ac.uk/oala/metadata": "Petroc",

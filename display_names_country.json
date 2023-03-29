@@ -1,6 +1,6 @@
 {
     "africa": {
-        "https://asren-iam.noc.asren.org/idp/shibboleth": {
+        "https://asren-iam.asren.org/idp/shibboleth": {
             "en": "ASREN"
         },
         "https://proxy.eduid.africa/idp/saml2": {
