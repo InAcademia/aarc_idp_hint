@@ -3657,6 +3657,7 @@
     "https://login.global.mpg.de/idp": "Max Planck Society (Administrative Headquarters)",
     "https://login.hafa.gr/idp/shibboleth": "Hellenic Air Force Academy",
     "https://login.helsinki.fi/shibboleth": "University of Helsinki",
+    "https://login.hep.cedia.edu.ec/saml2/idp/metadata.php": "Hospital de Especialidades Portoviejo - hep",
     "https://login.hff-muc.de/idp/shibboleth": "HFF Munich and ADBK",
     "https://login.hfmt-hamburg.de/idp/shibboleth": "Hochschule fuer Musik und Theater Hamburg",
     "https://login.hfwu.de/idp/shibboleth": "HfWU Nuertingen-Geislingen",
