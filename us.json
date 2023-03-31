@@ -47,9 +47,6 @@
     "http://login.mayo.edu/adfs/services/trust": {
         "en": "Mayo Clinic"
     },
-    "http://msauth.kent.edu/adfs/services/trust": {
-        "en": "Kent State University - OLD"
-    },
     "http://sso.quinnipiac.edu/adfs/services/trust": {
         "en": "Quinnipiac University"
     },
@@ -151,6 +148,9 @@
     },
     "https://cumin.plu.edu/idp/shibboleth": {
         "en": "Pacific Lutheran University"
+    },
+    "https://demo-k12.us001-rapididentity.com/idp": {
+        "en": "RapidIdentity"
     },
     "https://duo.emerson.edu/dag/saml2/idp/metadata.php": {
         "en": "Emerson College"
