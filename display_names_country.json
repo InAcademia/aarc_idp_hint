@@ -11807,12 +11807,6 @@
             "en": "KENET Staff Identity Provider"
         }
     },
-    "kg": {
-        "https://idp.kif.kg/simplesaml/saml2/idp/metadata.php": {
-            "en": "KIF-IDP",
-            "ky": "KIF-IDP"
-        }
-    },
     "kr": {
         "https://auth.ibs.re.kr/idp/simplesamlphp": {
             "en": "Institute for Basic Science"
@@ -15696,6 +15690,35 @@
         "https://idp.uran.ua/idp/shibboleth": {
             "en": "URAN Association IdP",
             "ru": "Ассоциация УРАН IdP"
+        }
+    },
+    "ug": {
+        "https://idp.bsu.ac.ug/idp/shibboleth": {
+            "en": "Bishop Stuart University"
+        },
+        "https://idp.idi.co.ug/shibboleth": {
+            "en": "Infectious Diseases Institute"
+        },
+        "https://idp.lubagahospital.org/idp/shibboleth": {
+            "en": "Uganda Martyrs Hospital Lubaga"
+        },
+        "https://idp.mengohospital.org/idp/shibboleth": {
+            "en": "Mengo Hospital"
+        },
+        "https://idp.renu.ac.ug/shibboleth": {
+            "en": "Research and Education Network for Uganda"
+        },
+        "https://idp.ucu.ac.ug/shibboleth": {
+            "en": "Uganda Christian University"
+        },
+        "https://idp.uvri.go.ug/shibboleth": {
+            "en": "Uganda Virus Research Institute (UVRI)"
+        },
+        "https://login.ace.ac.ug/idp/shibboleth": {
+            "en": "African Center of Excellence in Bioinformatics - Uganda"
+        },
+        "https://login.rhsp.org/idp/shibboleth": {
+            "en": "Rakai Health Sciences Program"
         }
     },
     "uk": {
