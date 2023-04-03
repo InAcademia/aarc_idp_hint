@@ -10694,6 +10694,9 @@
         "https://idp.mgu.ac.in/idp/shibboleth": {
             "en": "Mahatma Gandhi University, Kerala"
         },
+        "https://idp.mkce.ac.in/idp/shibboleth": {
+            "en": "M. Kumarasamy College of Engineering"
+        },
         "https://idp.mkuniversity.org/idp/shibboleth": {
             "en": "Madurai Kamaraj University"
         },
