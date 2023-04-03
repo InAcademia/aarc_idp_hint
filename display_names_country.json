@@ -11190,6 +11190,10 @@
             "en": "IRCCS San Raffaele Pisana - Rome",
             "it": "IRCCS San Raffaele Pisana - Roma"
         },
+        "https://idp-ss.unirc.it/simplesaml/saml2/idp/metadata.php": {
+            "en": "Mediterranea - University of Reggio Calabria",
+            "it": "Università degli Studi Mediterranea di Reggio Calabria"
+        },
         "https://idp-ssr.idpcloud.garr.it/idp/shibboleth": {
             "en": "SSABAP RM - Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma",
             "it": "SSABAP RM - Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma"
