@@ -1047,6 +1047,10 @@
         "de": "Max-Planck-Gesellschaft (Generalverwaltung)",
         "en": "Max Planck Society (Administrative Headquarters)"
     },
+    "https://login.haw-hamburg.de/realms/HAW-Hamburg": {
+        "de": "Hochschule für Angewandte Wissenschaften Hamburg",
+        "en": "Hamburg University of Applied Sciences"
+    },
     "https://login.hff-muc.de/idp/shibboleth": {
         "de": "HFF München und ADBK",
         "en": "HFF Munich and ADBK"
