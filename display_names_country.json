@@ -4484,6 +4484,10 @@
             "en": "Central South University",
             "zh": "中南大学(Central South University)"
         },
+        "https://idplib.dlmu.edu.cn/idp/shibboleth": {
+            "en": "Dalian Maritime University",
+            "zh": "大连海事大学(Dalian Maritime University)"
+        },
         "https://idplib.kust.edu.cn/idp/shibboleth": {
             "en": "Kunming University of Science and Technology",
             "zh": "昆明理工大学(Kunming University of Science and Technology )"
@@ -9458,6 +9462,10 @@
         "https://sts.windows.net/b78d03e6-f6a2-4cff-83be-847d1a6453f9/": {
             "en": "SKEMA Business School",
             "fr": "SKEMA Business School"
+        },
+        "https://sts.windows.net/ea847b31-dc73-4e64-b8e9-54cb237688f3/": {
+            "en": "NEOMA Business School",
+            "fr": "NEOMA Business School"
         },
         "https://tamana.msh-paris.fr/idp/shibboleth": {
             "en": "FMSH Fondation Maison des Sciences de l'Homme",

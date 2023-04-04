@@ -2151,6 +2151,10 @@
         "en": "Central South University",
         "zh": "中南大学(Central South University)"
     },
+    "https://idplib.dlmu.edu.cn/idp/shibboleth": {
+        "en": "Dalian Maritime University",
+        "zh": "大连海事大学(Dalian Maritime University)"
+    },
     "https://idplib.kust.edu.cn/idp/shibboleth": {
         "en": "Kunming University of Science and Technology",
         "zh": "昆明理工大学(Kunming University of Science and Technology )"

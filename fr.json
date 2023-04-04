@@ -1147,6 +1147,10 @@
         "en": "SKEMA Business School",
         "fr": "SKEMA Business School"
     },
+    "https://sts.windows.net/ea847b31-dc73-4e64-b8e9-54cb237688f3/": {
+        "en": "NEOMA Business School",
+        "fr": "NEOMA Business School"
+    },
     "https://tamana.msh-paris.fr/idp/shibboleth": {
         "en": "FMSH Fondation Maison des Sciences de l'Homme",
         "fr": "FMSH Fondation Maison des Sciences de l'Homme"
