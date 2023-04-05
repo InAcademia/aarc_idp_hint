@@ -12202,6 +12202,26 @@
             "en": "Ventspils University College"
         }
     },
+    "ma": {
+        "https://fid.usms.ac.ma/idp/shibboleth": {
+            "en": "USMS"
+        },
+        "https://idp-server.enim.ac.ma/idp/shibboleth": {
+            "en": "ENIM"
+        },
+        "https://idp.cnrst.ma/idp/shibboleth": {
+            "en": "CNRST"
+        },
+        "https://idp.marwan.ma/idp/shibboleth": {
+            "en": "MARWAN"
+        },
+        "https://idp.uit.ac.ma/idp/shibboleth": {
+            "en": "UIT"
+        },
+        "https://idp.um5.ac.ma/idp/shibboleth": {
+            "en": "UM5"
+        }
+    },
     "md": {
         "https://gidp.federations.renam.md": {
             "en": "GIDP-RENAM",
