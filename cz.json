@@ -23,6 +23,10 @@
         "cs": "Městská knihovna Kostelec nad Orlicí",
         "en": "Municipal Library in Kostelec nad Orlicí"
     },
+    "https://bnzlin.cz/idp/shibboleth": {
+        "cs": "Krajská nemocnice T.Bati, a.s.",
+        "en": "The Tomas Bata Hospital in Zlin"
+    },
     "https://booksy.cz/idp/shibboleth": {
         "cs": "Městská knihovna ve Svitavách",
         "en": "Municipal Library in Svitavy"
@@ -702,6 +706,10 @@
     "https://mktrutnov.cz/idp/shibboleth": {
         "cs": "Městská knihovna s regionálními funkcemi Trutnov",
         "en": "Municipal library with regional services in Trutnov"
+    },
+    "https://mkvdf.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Varnsdorf",
+        "en": "Municipal Library in Varnsdorf"
     },
     "https://mojeid.cz/saml/idp.xml": {
         "cs": "mojeID",
