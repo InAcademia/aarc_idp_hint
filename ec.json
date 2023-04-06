@@ -43,10 +43,6 @@
         "en": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio",
         "es": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio"
     },
-    "https://login.epn.cedia.edu.ec/saml2/idp/metadata.php": {
-        "en": "Escuela Politécnica Nacional - epn",
-        "es": "Escuela Politécnica Nacional - epn"
-    },
     "https://login.espam.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Escuela Superior Politecnica Agropecuaria de Manabi - espam",
         "es": "Escuela Superior Politecnica Agropecuaria de Manabi - espam"
@@ -66,6 +62,10 @@
     "https://login.fcaq.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Fundación Colegio Americano Quito - fcaq",
         "es": "Fundación Colegio Americano Quito - fcaq"
+    },
+    "https://login.hep.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Hospital de Especialidades Portoviejo - hep",
+        "es": "Hospital de Especialidades Portoviejo - hep"
     },
     "https://login.igepn.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn",
@@ -210,10 +210,6 @@
     "https://login.ucuenca.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad de Cuenca - ucuenca",
         "es": "Universidad de Cuenca - ucuenca"
-    },
-    "https://login.udla.cedia.edu.ec/saml2/idp/metadata.php": {
-        "en": "Universidad de las Americas - udla",
-        "es": "Universidad de las Americas - udla"
     },
     "https://login.uea.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad Estatal Amazónica - uea",
