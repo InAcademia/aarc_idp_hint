@@ -43,6 +43,10 @@
         "en": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio",
         "es": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio"
     },
+    "https://login.epn.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Escuela Politécnica Nacional - epn",
+        "es": "Escuela Politécnica Nacional - epn"
+    },
     "https://login.espam.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Escuela Superior Politecnica Agropecuaria de Manabi - espam",
         "es": "Escuela Superior Politecnica Agropecuaria de Manabi - espam"
@@ -210,6 +214,10 @@
     "https://login.ucuenca.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad de Cuenca - ucuenca",
         "es": "Universidad de Cuenca - ucuenca"
+    },
+    "https://login.udla.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Universidad de las Americas - udla",
+        "es": "Universidad de las Americas - udla"
     },
     "https://login.uea.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad Estatal Amazónica - uea",
