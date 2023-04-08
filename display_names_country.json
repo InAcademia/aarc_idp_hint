@@ -7223,10 +7223,6 @@
             "en": "Escuela Superior Politecnica de Chimborazo - espoch",
             "es": "Escuela Superior Politecnica de Chimborazo - espoch"
         },
-        "https://login.espol.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Escuela Superior Politecnica del Litoral - espol",
-            "es": "Escuela Superior Politecnica del Litoral - espol"
-        },
         "https://login.fcaq.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Fundación Colegio Americano Quito - fcaq",
             "es": "Fundación Colegio Americano Quito - fcaq"
