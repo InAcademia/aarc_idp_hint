@@ -3,10 +3,6 @@
         "en": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces",
         "es": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces"
     },
-    "https://login.cedia.edu.ec/saml2/idp/metadata.php": {
-        "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
-        "es": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia"
-    },
     "https://login.comunidadsanjuanbosco.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Comunidad San Juan Bosco - comunidadsanjuanbosco",
         "es": "Comunidad San Juan Bosco - comunidadsanjuanbosco"
@@ -30,10 +26,6 @@
     "https://login.domingocomin.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Domingo Comin - domingocomin",
         "es": "Domingo Comin - domingocomin"
-    },
-    "https://login.donboscolatola.cedia.edu.ec/saml2/idp/metadata.php": {
-        "en": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola",
-        "es": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola"
     },
     "https://login.donboscomacas.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas",
@@ -190,6 +182,10 @@
     "https://login.uaw.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad Intercultural de las Nacionalidades y Pueblos Indigenas Amawtay Wasi - uaw",
         "es": "Universidad Intercultural de las Nacionalidades y Pueblos Indigenas Amawtay Wasi - uaw"
+    },
+    "https://login.uazuay.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Universidad del Azuay - uazuay",
+        "es": "Universidad del Azuay - uazuay"
     },
     "https://login.ube.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad Bolivariana del Ecuador - ube",
