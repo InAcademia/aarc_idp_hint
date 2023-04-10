@@ -1420,6 +1420,10 @@
             "en": "UNIVASF - Universidade Federal do Vale do Sao Francisco",
             "pt-br": "UNIVASF - Universidade Federal do Vale do Sao Francisco"
         },
+        "https://pandora.unifei.edu.br/idp/shibboleth": {
+            "en": "UNIFEI - Universidade Federal de Itajuba",
+            "pt-br": "UNIFEI - Universidade Federal de Itajuba"
+        },
         "https://pct-guama-idp-cafe.fundacaoguama.org.br/idp/shibboleth": {
             "en": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
             "pt-br": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
