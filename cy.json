@@ -20,10 +20,6 @@
     "https://idp.frederick.ac.cy/idp/shibboleth": {
         "en": "Frederick University"
     },
-    "https://idp.ucy.ac.cy/idp/shibboleth": {
-        "el": "Πανεπιστήμιο Κύπρου",
-        "en": "University of Cyprus"
-    },
     "https://nup-edgnstd.nup.ac.cy/idp/shibboleth": {
         "en": "Neapolis University Pafos"
     },
