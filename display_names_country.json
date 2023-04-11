@@ -6272,6 +6272,10 @@
             "de": "Virtuelle Hochschule Bayern (vhb)",
             "en": "Virtual University of Bavaria (vhb)"
         },
+        "https://idp.witeno.de/idp/shibboleth": {
+            "de": "WITENO GmbH",
+            "en": "WITENO GmbH"
+        },
         "https://idp.wlb-stuttgart.de/idp/shibboleth": {
             "de": "Württembergische Landesbibliothek Stuttgart",
             "en": "Württemberg State Library Stuttgart"
