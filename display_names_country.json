@@ -15441,6 +15441,10 @@
             "en": "Istinye University",
             "tr": "İstinye Üniversitesi"
         },
+        "https://kimlik.istun.edu.tr/simplesaml/saml2/idp/metadata.php": {
+            "en": "Istanbul Health and Technology University",
+            "tr": "İstanbul Sağlık ve Teknoloji Üniversitesi"
+        },
         "https://kimlik.kafkas.edu.tr/idp/shibboleth": {
             "en": "Kafkas University",
             "tr": "Kafkas Üniversitesi"
