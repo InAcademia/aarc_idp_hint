@@ -619,6 +619,10 @@
         "en": "ROC Midden Nederland",
         "nl": "ROC Midden Nederland"
     },
+    "https://sts.windows.net/c2e4234e-9ccc-490e-8151-acd2ed2b1779/": {
+        "en": "ArtEZ University of the Arts (MS Azure AD)",
+        "nl": "ArtEZ University of the Arts (MS Azure AD)"
+    },
     "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
         "en": "HAS green academy",
         "nl": "HAS green academy"
