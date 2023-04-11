@@ -1075,6 +1075,10 @@
         "de": "Technische Hochschule Ulm",
         "en": "Technische Hochschule Ulm"
     },
+    "https://login.hspv.nrw.de/idp/shibboleth": {
+        "de": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen",
+        "en": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen"
+    },
     "https://login.leibniz-gemeinschaft.de/idp/shibboleth": {
         "de": "Leibniz-Gemeinschaft - Geschäftsstelle",
         "en": "Leibniz-Association - Headquarters"
