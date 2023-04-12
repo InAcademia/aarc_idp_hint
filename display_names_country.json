@@ -12785,10 +12785,6 @@
             "en": "AMOLF / ARCNL",
             "nl": "AMOLF / ARCNL"
         },
-        "http://adfs.artez.nl/adfs/services/trust": {
-            "en": "ArtEZ University of the Arts",
-            "nl": "ArtEZ University of the Arts"
-        },
         "http://adfs.cibap.nl/adfs/services/trust": {
             "en": "Cibap Vocational College of Design",
             "nl": "Cibap vakschool voor vormgeving"
@@ -13382,8 +13378,8 @@
             "nl": "ROC Midden Nederland"
         },
         "https://sts.windows.net/c2e4234e-9ccc-490e-8151-acd2ed2b1779/": {
-            "en": "ArtEZ University of the Arts (MS Azure AD)",
-            "nl": "ArtEZ University of the Arts (MS Azure AD)"
+            "en": "ArtEZ University of the Arts",
+            "nl": "ArtEZ University of the Arts"
         },
         "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
             "en": "HAS green academy",
