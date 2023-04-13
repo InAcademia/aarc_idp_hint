@@ -6036,6 +6036,10 @@
             "de": "Kunsthochschule fuer Medien Koeln",
             "en": "Academy of Media Arts Cologne"
         },
+        "https://idp.khsb-berlin.de/idp/shibboleth": {
+            "de": "KHSB-Berlin",
+            "en": "KHSB-Berlin"
+        },
         "https://idp.ksfh.de/idp/shibboleth": {
             "de": "Katholische Stiftungshochschule München",
             "en": "Katholische Stiftungshochschule München."
