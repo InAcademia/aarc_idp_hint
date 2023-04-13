@@ -1200,6 +1200,10 @@
             "en": "UEL - Universidade Estadual de Londrina",
             "pt-br": "UEL - Universidade Estadual de Londrina"
         },
+        "https://idp.uema.br/idp/shibboleth": {
+            "en": "UEMA - Universidade Estadual do Maranhao",
+            "pt-br": "UEMA - Universidade Estadual do Maranhao"
+        },
         "https://idp.uenf.br/idp/shibboleth": {
             "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
             "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
