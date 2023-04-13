@@ -117,6 +117,10 @@
     "https://idpx.ua.ac.be/idp/shibboleth": {
         "en": "Universiteit Antwerpen"
     },
+    "https://kcsso.vib.be/simplesaml/saml2/idp/metadata.php": {
+        "en": "VIB",
+        "nl": "VIB"
+    },
     "https://saml.aeronomie.be/saml2/idp/metadata.php": {
         "en": "Royal Belgian Institute for Space Aeronomy",
         "fr": "Institut royal d'Aéronomie Spatiale de Belgique"
