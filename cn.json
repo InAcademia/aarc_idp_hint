@@ -2039,6 +2039,10 @@
         "en": "Zhenjiang College",
         "zh": "镇江市高等专科学校(Zhenjiang College)"
     },
+    "https://idp.zjcst.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Collage of Security Technology",
+        "zh": "浙江安防职业技术学院(Zhejiang Collage of Security Technology)"
+    },
     "https://idp.zjgsu.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Gongshang University",
         "zh": "浙江工商大学(Zhejiang Gongshang University)"
