@@ -471,10 +471,6 @@
         "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
         "pt-br": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais"
     },
-    "https://idp.citta.org.br/idp/shibboleth": {
-        "en": "CITTA - Centro de Inovacao e Tecnologia Telmo Araujo",
-        "pt-br": "CITTA - Centro de Inovacao e Tecnologia Telmo Araujo"
-    },
     "https://idp.cnen.gov.br/idp/shibboleth": {
         "en": "CNEN - Comissao Nacional de Energia Nuclear",
         "pt-br": "CNEN - Comissao Nacional de Energia Nuclear"
