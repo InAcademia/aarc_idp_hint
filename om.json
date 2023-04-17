@@ -242,6 +242,9 @@
     "https://idpomren.majancollege.edu.om/idp": {
         "en": "Majan University College(shibboleth)"
     },
+    "https://idpomren.mtc.edu.om/idp": {
+        "en": "Military Technological College (shibboleth)"
+    },
     "https://idpomren.muscatcollege.edu.om/idp": {
         "en": "Muscat College (shibboleth)"
     },
