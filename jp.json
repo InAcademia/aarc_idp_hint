@@ -219,6 +219,10 @@
         "en": "Shiga University of Medical Science (in prep)",
         "ja": "滋賀医科大学 (移行中 新IdP)"
     },
+    "https://nifsacjp.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "National Institute for Fusion Science (extic)",
+        "ja": "核融合科学研究所 (extic)"
+    },
     "https://odidp.cc.okayama-u.ac.jp/idp/shibboleth": {
         "en": "Okayama University",
         "ja": "岡山大学"
