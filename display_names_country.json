@@ -11483,10 +11483,6 @@
             "en": "National Institute of Oceanography and Applied Geophysics - OGS",
             "it": "Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS"
         },
-        "https://idpi.unirc.it/idp/shibboleth": {
-            "en": "Mediterranea University of Reggio Calabria",
-            "it": "Università degli Studi Mediterranea di Reggio Calabria"
-        },
         "https://idpuniba.uniba.it/simplesaml/saml2/idp/metadata.php": {
             "en": "University of Bari Aldo Moro",
             "it": "Università degli Studi di Bari Aldo Moro"
