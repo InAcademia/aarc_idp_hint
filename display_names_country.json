@@ -7379,10 +7379,6 @@
             "en": "Universidad Intercultural de las Nacionalidades y Pueblos Indigenas Amawtay Wasi - uaw",
             "es": "Universidad Intercultural de las Nacionalidades y Pueblos Indigenas Amawtay Wasi - uaw"
         },
-        "https://login.uazuay.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad del Azuay - uazuay",
-            "es": "Universidad del Azuay - uazuay"
-        },
         "https://login.ube.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Bolivariana del Ecuador - ube",
             "es": "Universidad Bolivariana del Ecuador - ube"
@@ -17707,9 +17703,6 @@
         },
         "https://fim.temple.edu/idp/shibboleth": {
             "en": "Temple University"
-        },
-        "https://fiuidp.fiu.edu/idp/shibboleth": {
-            "en": "Florida International University - Staging"
         },
         "https://hartnell.edu/idp": {
             "en": "Hartnell Community College District"
