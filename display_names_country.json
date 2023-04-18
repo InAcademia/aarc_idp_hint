@@ -2528,6 +2528,10 @@
             "en": "Beijing University of Chemical Technology",
             "zh": "北京化工大学(Beijing University of Chemical Technology)"
         },
+        "https://idp-tsg.sdmc.edu.cn/idp/shibboleth": {
+            "en": "Shandong Medical College",
+            "zh": "山东医学高等专科学校(Shandong Medical College)"
+        },
         "https://idp-xxglzx.ynufe.edu.cn/idp/shibboleth": {
             "en": "Yunnan University of Finance and Economics",
             "zh": "云南财经大学(Yunnan University of Finance and Economics)"
