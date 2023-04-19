@@ -795,6 +795,10 @@
         "de": "Technische Universität Ilmenau",
         "en": "Technische Universität Ilmenau"
     },
+    "https://idp.ub.hsu-hh.de/idp/shibboleth": {
+        "de": "Helmut-Schmidt-Universität Hamburg",
+        "en": "Helmut-Schmidt-Universität Hamburg"
+    },
     "https://idp.udk-berlin.de/idp/shibboleth": {
         "de": "Universität der Künste Berlin",
         "en": "The Berlin University of the Arts"

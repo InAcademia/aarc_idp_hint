@@ -6192,6 +6192,10 @@
             "de": "Technische Universität Ilmenau",
             "en": "Technische Universität Ilmenau"
         },
+        "https://idp.ub.hsu-hh.de/idp/shibboleth": {
+            "de": "Helmut-Schmidt-Universität Hamburg",
+            "en": "Helmut-Schmidt-Universität Hamburg"
+        },
         "https://idp.udk-berlin.de/idp/shibboleth": {
             "de": "Universität der Künste Berlin",
             "en": "The Berlin University of the Arts"
@@ -13256,6 +13260,10 @@
         "https://sts.windows.net/37be429e-6e85-42cf-afc1-13c6587b2b3f/": {
             "en": "Noorderpoort (MS Azure AD)",
             "nl": "Noorderpoort (MS Azure AD)"
+        },
+        "https://sts.windows.net/486427f8-ee3e-42b3-96d2-bf1b8a0ee220/": {
+            "en": "Nimeto [MS Azure AD]",
+            "nl": "Nimeto [MS Azure AD]"
         },
         "https://sts.windows.net/49d50454-13ed-4a49-9fb0-7d99214fadf4/": {
             "en": "Hogeschool KPZ",
