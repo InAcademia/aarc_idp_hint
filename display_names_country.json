@@ -2592,6 +2592,10 @@
             "en": "Anhui University of Technology",
             "zh": "安徽工业大学(Anhui University of Technology)"
         },
+        "https://idp.aqmc.edu.cn/idp/shibboleth": {
+            "en": "Anqing Medical College",
+            "zh": "安庆医药高等专科学校(Anqing Medical College)"
+        },
         "https://idp.aqnu.edu.cn/idp/shibboleth": {
             "en": "Anqing Normal University",
             "zh": "安庆师范大学(Anqing Normal University)"
@@ -5408,10 +5412,6 @@
             "de": "Universität Speyer",
             "en": "Universität Speyer"
         },
-        "https://aai.helmholtz-muenchen.de/idp/shibboleth": {
-            "de": "Helmholtz Zentrum München GmbH (HMGU)",
-            "en": "Helmholtz Zentrum Muenchen GmbH (HMGU)"
-        },
         "https://aai.hfk-bremen.de/idp/shibboleth": {
             "de": "Hochschule für Künste Bremen",
             "en": "University of the Arts Bremen"
@@ -6195,10 +6195,6 @@
         "https://idp.tu-ilmenau.de/idp/shibboleth": {
             "de": "Technische Universität Ilmenau",
             "en": "Technische Universität Ilmenau"
-        },
-        "https://idp.ub.hsu-hh.de/idp/shibboleth": {
-            "de": "Helmut-Schmidt-Universität Hamburg",
-            "en": "Helmut-Schmidt-Universität Hamburg"
         },
         "https://idp.udk-berlin.de/idp/shibboleth": {
             "de": "Universität der Künste Berlin",

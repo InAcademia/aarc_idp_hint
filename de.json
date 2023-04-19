@@ -11,10 +11,6 @@
         "de": "Universität Speyer",
         "en": "Universität Speyer"
     },
-    "https://aai.helmholtz-muenchen.de/idp/shibboleth": {
-        "de": "Helmholtz Zentrum München GmbH (HMGU)",
-        "en": "Helmholtz Zentrum Muenchen GmbH (HMGU)"
-    },
     "https://aai.hfk-bremen.de/idp/shibboleth": {
         "de": "Hochschule für Künste Bremen",
         "en": "University of the Arts Bremen"
@@ -798,10 +794,6 @@
     "https://idp.tu-ilmenau.de/idp/shibboleth": {
         "de": "Technische Universität Ilmenau",
         "en": "Technische Universität Ilmenau"
-    },
-    "https://idp.ub.hsu-hh.de/idp/shibboleth": {
-        "de": "Helmut-Schmidt-Universität Hamburg",
-        "en": "Helmut-Schmidt-Universität Hamburg"
     },
     "https://idp.udk-berlin.de/idp/shibboleth": {
         "de": "Universität der Künste Berlin",
