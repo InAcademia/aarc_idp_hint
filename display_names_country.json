@@ -6432,10 +6432,6 @@
             "de": "Fachhochschule Aachen",
             "en": "University of Applied Sciences Aachen"
         },
-        "https://login.fh-bielefeld.de/nidp/saml2/metadata": {
-            "de": "Fachhochschule Bielefeld",
-            "en": "Fachhochschule Bielefeld"
-        },
         "https://login.fid-lizenzen.de/idp/shibboleth": {
             "de": "Anmeldung Fachinformationsdienste (FID VHO)",
             "en": "Anmeldung Fachinformationsdienste (FID VHO)"
@@ -6475,6 +6471,10 @@
         "https://login.hs-ulm.de/shibboleth-idp": {
             "de": "Technische Hochschule Ulm",
             "en": "Technische Hochschule Ulm"
+        },
+        "https://login.hsbi.de/nidp/saml2/metadata": {
+            "de": "Hochschule Bielefeld",
+            "en": "Hochschule Bielefeld"
         },
         "https://login.hspv.nrw.de/idp/shibboleth": {
             "de": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen",
