@@ -11193,6 +11193,10 @@
             "en": "IRCCS OMP Ca' Granda - Milano",
             "it": "IRCCS OMP Ca' Granda - Milano"
         },
+        "https://idp-opbg.irccs.garr.it/idp/shibboleth": {
+            "en": "IRCCS OPBG - ROMA",
+            "it": "IRCCS OPBG - ROMA"
+        },
         "https://idp-ospedalesanmartino.irccs.garr.it/idp/shibboleth": {
             "en": "IRCCS San Martino University Hospital",
             "it": "IRCCS Ospedale Policlinico San Martino"
