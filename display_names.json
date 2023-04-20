@@ -1,7 +1,6 @@
 {
     "http://ADFS.KAAUH.EDU.SA/adfs/services/trust": "King Abdullah bin Abdulaziz University Hospital",
     "http://ADFS.kfu.edu.sa/adfs/services/trust": "King Faisal University",
-    "http://ADFS.nimeto.nl/adfs/services/trust": "Nimeto",
     "http://ADFS.qu.edu.sa/adfs/services/trust": "Qassim University",
     "http://Adfs.hct.edu.om/adfs/services/trust": "University of Technology and Applied Sciences - Muscat",
     "http://Adfs.tu.edu.sa/adfs/services/trust": "Taif University",
@@ -4746,7 +4745,7 @@
     "https://sts.windows.net/413600cf-bd4e-4c7c-8a61-69e73cddf731/": "Efrei",
     "https://sts.windows.net/46f7cafd-ebfa-40a6-98de-bb0ab0df227a/": "Danish Museum of Energy",
     "https://sts.windows.net/47e8e196-114a-4de2-a58d-570138763c3e/": "Design School Kolding",
-    "https://sts.windows.net/486427f8-ee3e-42b3-96d2-bf1b8a0ee220/": "Nimeto [MS Azure AD]",
+    "https://sts.windows.net/486427f8-ee3e-42b3-96d2-bf1b8a0ee220/": "Nimeto",
     "https://sts.windows.net/49d50454-13ed-4a49-9fb0-7d99214fadf4/": "Hogeschool KPZ",
     "https://sts.windows.net/4bda23cd-4a87-419b-a47d-7673130b2884/": "Alexandra Institute",
     "https://sts.windows.net/517085ff-c1f1-4b90-8a7f-ed8816109cfe/": "Grenoble Ecole de Management ( GEM )",

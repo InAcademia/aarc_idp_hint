@@ -1,8 +1,4 @@
 {
-    "http://ADFS.nimeto.nl/adfs/services/trust": {
-        "en": "Nimeto",
-        "nl": "Nimeto"
-    },
     "http://adfs-differ.differ.nl/adfs/services/trust": {
         "en": "DIFFER",
         "nl": "DIFFER"
@@ -480,8 +476,8 @@
         "nl": "Noorderpoort (MS Azure AD)"
     },
     "https://sts.windows.net/486427f8-ee3e-42b3-96d2-bf1b8a0ee220/": {
-        "en": "Nimeto [MS Azure AD]",
-        "nl": "Nimeto [MS Azure AD]"
+        "en": "Nimeto",
+        "nl": "Nimeto"
     },
     "https://sts.windows.net/49d50454-13ed-4a49-9fb0-7d99214fadf4/": {
         "en": "Hogeschool KPZ",
