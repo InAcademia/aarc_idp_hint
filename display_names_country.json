@@ -1781,6 +1781,9 @@
         "http://federation.langara.ca/adfs/services/trust": {
             "en": "Langara College"
         },
+        "http://fs.cnc.bc.ca/adfs/services/trust": {
+            "en": "http://fs.cnc.bc.ca/adfs/services/trust"
+        },
         "http://fs.cotr.bc.ca/adfs/services/trust": {
             "en": "College of the Rockies"
         },
@@ -1892,10 +1895,6 @@
         },
         "https://idp.lakeheadu.ca/idp/shibboleth": {
             "en": "Lakehead University"
-        },
-        "https://idp.mcft.ca/idp/shibboleth": {
-            "en": "Maritime College of Forest Technology",
-            "fr": "College de Technologie Forestiere des Maritimes"
         },
         "https://idp.mta.ca/idp/shibboleth": {
             "en": "Mount Allison University"
