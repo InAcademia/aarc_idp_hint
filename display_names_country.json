@@ -635,6 +635,10 @@
             "bg": "Национален военен университет \"Васил Левски\"",
             "en": "National Military University \"Vasil Levski\""
         },
+        "https://sso.rndc.bg/idp/shibboleth": {
+            "bg": "Военна академия Г. С. Раковски",
+            "en": "Rakovski National Defence College"
+        },
         "https://sso.ue-varna.bg": {
             "bg": "Икономически университет - Варна",
             "en": "University of Economics - Varna"
