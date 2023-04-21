@@ -11925,6 +11925,9 @@
         "https://kafe.kaist.ac.kr/idp/simplesamlphp": {
             "en": "Korea Advanced Institute of Science and Technology"
         },
+        "https://kafe.kari.re.kr/idp/simplesamlphp": {
+            "en": "Korea Aerospace Research Institute"
+        },
         "https://kafe.kasi.re.kr/idp/simplesamlphp": {
             "en": "Korea Astronomy and Space Science Institute"
         },
