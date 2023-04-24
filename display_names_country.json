@@ -8374,10 +8374,6 @@
             "en": "ESIEA - Ecole Supérieure d'Informatique Electronique Automatique",
             "fr": "ESIEA - Ecole Supérieure d'Informatique Electronique Automatique"
         },
-        "https://antimoine.insa-strasbourg.fr/idp/shibboleth": {
-            "en": "ZZZ INSA Strasbourg - [OLDPROD]",
-            "fr": "ZZZ INSA Strasbourg - [OLDPROD]"
-        },
         "https://apps.univ-lr.fr/idp/shibboleth": {
             "en": "La Rochelle University",
             "fr": "La Rochelle Université"
