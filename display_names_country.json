@@ -4673,6 +4673,10 @@
             "cs": "Vysoká škola polytechnická Jihlava",
             "en": "College of Polytechnics Jihlava"
         },
+        "https://eduid.vstecb.cz/idp/shibboleth": {
+            "cs": "Vysoká škola technická a ekonomická v Českých Budějovicích",
+            "en": "Institute of Technology and Business in České Budějovice"
+        },
         "https://eduid.vumop.cz/idp/shibboleth": {
             "cs": "VÚMOP, v.v.i.",
             "en": "VÚMOP, v.v.i."
