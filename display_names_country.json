@@ -2891,6 +2891,10 @@
             "en": "Dalian Minzu University",
             "zh": "大连民族大学(Dalian Minzu University)"
         },
+        "https://idp.dlu.edu.cn/idp/shibboleth": {
+            "en": "DaLian University",
+            "zh": "大连大学(DaLian University)"
+        },
         "https://idp.dlufl.edu.cn/idp/shibboleth": {
             "en": "Dalian University of Foreign Languages",
             "zh": "大连外国语大学(Dalian University of Foreign Languages)"
