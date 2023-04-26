@@ -4,5 +4,8 @@
     },
     "https://idp.tigerfed.net.bd/idp/shibboleth": {
         "en": "TIGERFed Federation"
+    },
+    "https://idpbuet.bdren.net.bd/idp/shibboleth": {
+        "en": "Bangladesh University of Engineering and Technology"
     }
 }
