@@ -327,6 +327,7 @@
     "https://aai.empa.ch/idp/shibboleth": "Empa",
     "https://aai.heal-link.gr/proxy/saml2/idp/metadata.php": "HEAL-Link",
     "https://aai.hfk-bremen.de/idp/shibboleth": "University of the Arts Bremen",
+    "https://aai.hpolbb.de/idp/shibboleth": "IdP The University of Applied Police Sciences of Brandenburg",
     "https://aai.idiap.ch/idp/shibboleth": "Idiap Research Institute",
     "https://aai.insel.ch/idp/shibboleth": "Insel Gruppe",
     "https://aai.ipk-gatersleben.de/idp/shibboleth": "IPK Gatersleben",
