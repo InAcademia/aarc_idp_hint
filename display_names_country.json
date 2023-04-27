@@ -3794,6 +3794,10 @@
             "en": "Shandong University of Traditional Chinese Medicine",
             "zh": "山东中医药大学(Shandong University of Traditional Chinese Medicine)"
         },
+        "https://idp.sdwm.edu.cn/idp/shibboleth": {
+            "en": "Shandong Foreign Trade Vocational College",
+            "zh": "山东外贸职业学院(Shandong Foreign Trade Vocational College)"
+        },
         "https://idp.sdws.edu.cn/idp/shibboleth": {
             "en": "Shandong Vocational University of Foreign Affairs",
             "zh": "山东外事职业大学(Shandong Vocational University of Foreign Affairs)"
