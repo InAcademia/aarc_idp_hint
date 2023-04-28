@@ -575,9 +575,6 @@
         "https://sso.irc.ugent.be/auth/realms/irc": {
             "en": "VIB-UGent IRC"
         },
-        "https://sts.windows.net/2d714a65-b97f-41a9-8ff1-ec2cdf7df5cd/": {
-            "en": "VIB"
-        },
         "https://sts.windows.net/9e2777ed-8237-4ab9-9278-2c144d6f6da3/": {
             "en": "VITO"
         },
@@ -12200,7 +12197,7 @@
             "fr": "MENJE - CGIE IAM Utilisateurs"
         },
         "https://sts.windows.net/487175ce-c313-4417-91bc-dc3b6721b8ee/": {
-            "en": "https://sts.windows.net/487175ce-c313-4417-91bc-dc3b6721b8ee/"
+            "en": "LISER"
         },
         "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/": {
             "en": "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/"
