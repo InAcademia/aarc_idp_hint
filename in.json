@@ -89,6 +89,9 @@
     "https://idp.cit.edu.in/idp/shibboleth": {
         "en": "Coimbatore Institute of Technology"
     },
+    "https://idp.cuhimachal.ac.in/idp/shibboleth": {
+        "en": "Central University of Himachal Pradesh"
+    },
     "https://idp.cujammu.ac.in/idp/shibboleth": {
         "en": "Central University of Jammu"
     },
