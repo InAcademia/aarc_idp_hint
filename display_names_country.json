@@ -18694,6 +18694,9 @@
         "https://sso.csuohio.edu/idp": {
             "en": "Cleveland State University"
         },
+        "https://sso.cyber.tamus.edu/idp": {
+            "en": "Texas A&M University System Cybersecurity"
+        },
         "https://sso.davidson.edu/idp": {
             "en": "Davidson College"
         },
