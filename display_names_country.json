@@ -9309,6 +9309,10 @@
             "en": "IDP vetagro sup PROD",
             "fr": "Vetagro Sup"
         },
+        "https://pr4.educonnect.phm.education.gouv.fr/idp": {
+            "en": "ÉduConnect - QA",
+            "fr": "ÉduConnect - Pré-production PR4"
+        },
         "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": {
             "en": "CAMPUS CONDORCET",
             "fr": "CAMPUS CONDORCET"
@@ -14625,9 +14629,6 @@
         },
         "http://eisadfs.seu.edu.sa/adfs/services/trust": {
             "en": "Saudi Electronic University"
-        },
-        "http://fs.kacst.edu.sa/adfs/services/trust": {
-            "en": "King Abdulaziz City for Science and Technology (KACST)"
         },
         "http://fs.ut.edu.sa/adfs/services/trust": {
             "en": "University of Tabuk"

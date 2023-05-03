@@ -41,9 +41,6 @@
     "http://eisadfs.seu.edu.sa/adfs/services/trust": {
         "en": "Saudi Electronic University"
     },
-    "http://fs.kacst.edu.sa/adfs/services/trust": {
-        "en": "King Abdulaziz City for Science and Technology (KACST)"
-    },
     "http://fs.ut.edu.sa/adfs/services/trust": {
         "en": "University of Tabuk"
     },
