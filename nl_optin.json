@@ -1,8 +1,4 @@
 {
-    "http://adfs-farm.noorderpoort.nl/adfs/services/trust": {
-        "en": "Noorderpoort",
-        "nl": "Noorderpoort"
-    },
     "http://adfs.cibap.nl/adfs/services/trust": {
         "en": "Cibap Vocational College of Design",
         "nl": "Cibap vakschool voor vormgeving"
@@ -226,6 +222,10 @@
     "https://sts.windows.net/2c1cfd24-625c-489e-b1fc-8f745830ea67/": {
         "en": "Design Academy Eindhoven",
         "nl": "Design Academy Eindhoven"
+    },
+    "https://sts.windows.net/37be429e-6e85-42cf-afc1-13c6587b2b3f/": {
+        "en": "Noorderpoort (MS Azure AD)",
+        "nl": "Noorderpoort (MS Azure AD)"
     },
     "https://sts.windows.net/486427f8-ee3e-42b3-96d2-bf1b8a0ee220/": {
         "en": "Nimeto",
