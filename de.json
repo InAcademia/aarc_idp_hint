@@ -107,6 +107,10 @@
         "de": "DHBW Mosbach",
         "en": "DHBW Mosbach"
     },
+    "https://idp-ravensburg.dhbw.de/idp/shibboleth": {
+        "de": "DHBW Ravensburg",
+        "en": "DHBW Ravensburg"
+    },
     "https://idp-serv.uni-magdeburg.de/idp/shibboleth": {
         "de": "Otto-von-Guericke-Universität Magdeburg",
         "en": "Otto-von-Guericke-University Magdeburg"

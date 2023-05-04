@@ -940,6 +940,7 @@
     "https://idp-portici.izs.garr.it/idp/shibboleth": "IZS del Mezzogiorno",
     "https://idp-prod.cc.ucf.edu/idp/shibboleth": "University of Central Florida",
     "https://idp-ptf.etn.hu/saml2/idp/metadata.php": "Pentecostal Theological College",
+    "https://idp-ravensburg.dhbw.de/idp/shibboleth": "DHBW Ravensburg",
     "https://idp-registry.ligo-india.in/idp/shibboleth": "LIGO-India-registry Scientific Collaboration",
     "https://idp-renater.pulsalys.fr/idp/shibboleth": "PULSALYS - SATT Lyon Saint-Etienne",
     "https://idp-samlprod3.kennesaw.edu": "Kennesaw State University",
