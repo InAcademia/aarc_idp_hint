@@ -6454,10 +6454,6 @@
             "de": "DHBW Heidenheim",
             "en": "DHBW Heidenheim"
         },
-        "https://login.dhbw-ravensburg.de/idp/shibboleth": {
-            "de": "DHBW Ravensburg",
-            "en": "DHBW Ravensburg"
-        },
         "https://login.fernuni-hagen.de/idp/shibboleth": {
             "de": "FernUniversität in Hagen",
             "en": "University in Hagen"
