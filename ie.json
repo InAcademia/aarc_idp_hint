@@ -132,6 +132,9 @@
     "https://idp.tudublin.ie/idp/shibboleth": {
         "en": "TU Dublin (TU Dublin login)"
     },
+    "https://idp.tus.ie/idp/shibboleth": {
+        "en": "TUS Login (UAT)"
+    },
     "https://idp.ul.ie/idp/shibboleth": {
         "en": "University of Limerick",
         "ga": "Ollscoil Luimnigh"
