@@ -7273,6 +7273,10 @@
             "en": "Domingo Comin - domingocomin",
             "es": "Domingo Comin - domingocomin"
         },
+        "https://login.donboscolatola.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola",
+            "es": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola"
+        },
         "https://login.donboscomacas.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas",
             "es": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas"
@@ -7281,13 +7285,13 @@
             "en": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio",
             "es": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio"
         },
-        "https://login.epn.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Escuela Politécnica Nacional - epn",
-            "es": "Escuela Politécnica Nacional - epn"
+        "https://login.espam.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Escuela Superior Politecnica Agropecuaria de Manabi - espam",
+            "es": "Escuela Superior Politecnica Agropecuaria de Manabi - espam"
         },
-        "https://login.espoch.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Escuela Superior Politecnica de Chimborazo - espoch",
-            "es": "Escuela Superior Politecnica de Chimborazo - espoch"
+        "https://login.espe.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad de las Fuerzas Armadas ESPE - espe",
+            "es": "Universidad de las Fuerzas Armadas ESPE - espe"
         },
         "https://login.espol.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Escuela Superior Politecnica del Litoral - espol",
@@ -7317,6 +7321,10 @@
             "en": "Instituto Nacional de Investigacion en Salud Publica - inspi",
             "es": "Instituto Nacional de Investigacion en Salud Publica - inspi"
         },
+        "https://login.insteclrg.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg",
+            "es": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg"
+        },
         "https://login.internacional.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Internacional del Ecuador - internacional",
             "es": "Universidad Internacional del Ecuador - internacional"
@@ -7337,21 +7345,21 @@
             "en": "Instituto Tecnologico Bolivariano - itb",
             "es": "Instituto Tecnologico Bolivariano - itb"
         },
-        "https://login.pucesa.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Pontificia Universidad Católica del Ecuador Ambato - pucesa",
-            "es": "Pontificia Universidad Católica del Ecuador Ambato - pucesa"
+        "https://login.puce.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Pontificia Universidad Católica del Ecuador Quito - puce",
+            "es": "Pontificia Universidad Católica del Ecuador Quito - puce"
+        },
+        "https://login.pucesd.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Pontificia Universidad Catolica del Ecuador Santo Domingo - pucesd",
+            "es": "Pontificia Universidad Catolica del Ecuador Santo Domingo - pucesd"
         },
         "https://login.pucese.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Pontificia Universidad Catolica del Ecuador Esmeraldas - pucese",
             "es": "Pontificia Universidad Catolica del Ecuador Esmeraldas - pucese"
         },
-        "https://login.pucesi.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Pontificia Universidad Catolica del Ecuador  Ibarra - pucesi",
-            "es": "Pontificia Universidad Catolica del Ecuador  Ibarra - pucesi"
-        },
-        "https://login.salesianos.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Salesianos Casa Inspectorial Quito - salesianos",
-            "es": "Salesianos Casa Inspectorial Quito - salesianos"
+        "https://login.salesianoscayambe.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Salesianos Cayambe - salesianoscayambe",
+            "es": "Salesianos Cayambe - salesianoscayambe"
         },
         "https://login.salesianosibarra.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Salesianos Ibarra - salesianosibarra",
@@ -7369,10 +7377,6 @@
             "en": "Unidad Educativa San Felipe Neri - sfelipeneri",
             "es": "Unidad Educativa San Felipe Neri - sfelipeneri"
         },
-        "https://login.sjbzaruma.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa San Juan Bosco de la ciudad de Zaruma - sjbzaruma",
-            "es": "Unidad Educativa San Juan Bosco de la ciudad de Zaruma - sjbzaruma"
-        },
         "https://login.spellman.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Salesiana Cardenal Spellman - spellman",
             "es": "Unidad Educativa Salesiana Cardenal Spellman - spellman"
@@ -7389,17 +7393,21 @@
             "en": "Instituto Superior Tecnólogico  Honorable Consejo Provincial de Pichincha - tecnologicopichincha",
             "es": "Instituto Superior Tecnólogico  Honorable Consejo Provincial de Pichincha - tecnologicopichincha"
         },
+        "https://login.tecsu.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Tecnologico Sudamericano Guayaquil - tecsu",
+            "es": "Tecnologico Sudamericano Guayaquil - tecsu"
+        },
         "https://login.tes.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Tecnológico Espíritu Santo - tes",
             "es": "Tecnológico Espíritu Santo - tes"
         },
-        "https://login.uartes.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad de las Artes - uartes",
-            "es": "Universidad de las Artes - uartes"
-        },
         "https://login.uaw.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Intercultural de las Nacionalidades y Pueblos Indigenas Amawtay Wasi - uaw",
             "es": "Universidad Intercultural de las Nacionalidades y Pueblos Indigenas Amawtay Wasi - uaw"
+        },
+        "https://login.uazuay.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad del Azuay - uazuay",
+            "es": "Universidad del Azuay - uazuay"
         },
         "https://login.ube.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Bolivariana del Ecuador - ube",
@@ -7417,17 +7425,17 @@
             "en": "Universidad Catolica Santiago de Guayaquil - ucsg",
             "es": "Universidad Catolica Santiago de Guayaquil - ucsg"
         },
-        "https://login.ucuenca.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad de Cuenca - ucuenca",
-            "es": "Universidad de Cuenca - ucuenca"
+        "https://login.udla.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad de las Americas - udla",
+            "es": "Universidad de las Americas - udla"
+        },
+        "https://login.uea.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad Estatal Amazónica - uea",
+            "es": "Universidad Estatal Amazónica - uea"
         },
         "https://login.ueas.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Agronomico Salesiano - ueas",
             "es": "Unidad Educativa Agronomico Salesiano - ueas"
-        },
-        "https://login.ueb.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Estatal de Bolivar - ueb",
-            "es": "Universidad Estatal de Bolivar - ueb"
         },
         "https://login.uesmae.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Salesiana María Auxiliadora Esmeraldas - uesmae",
@@ -7444,10 +7452,6 @@
         "https://login.ug.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad de Guayaquil - ug",
             "es": "Universidad de Guayaquil - ug"
-        },
-        "https://login.uisrael.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Israel - uisrael",
-            "es": "Universidad Israel - uisrael"
         },
         "https://login.uleam.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Laica Eloy Alfaro de Manabí - uleam",
@@ -7473,9 +7477,9 @@
             "en": "Universidad del Pacífico - upacifico",
             "es": "Universidad del Pacífico - upacifico"
         },
-        "https://login.ups.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Politecnica Salesiana - ups",
-            "es": "Universidad Politecnica Salesiana - ups"
+        "https://login.upec.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad Politecnica Estatal del Carchi - upec",
+            "es": "Universidad Politecnica Estatal del Carchi - upec"
         },
         "https://login.upse.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Estatal Península de Santa Elena - upse",
@@ -7489,17 +7493,9 @@
             "en": "Universidad Técnica de Ambato - uta",
             "es": "Universidad Técnica de Ambato - uta"
         },
-        "https://login.utb.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Técnica de Babahoyo - utb",
-            "es": "Universidad Técnica de Babahoyo - utb"
-        },
         "https://login.utc.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Técnica de Cotopaxi - utc",
             "es": "Universidad Técnica de Cotopaxi - utc"
-        },
-        "https://login.ute.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad UTE - ute",
-            "es": "Universidad UTE - ute"
         },
         "https://login.utelvt.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Universidad Técnica Luis Vargas Torres - utelvt",
@@ -7509,13 +7505,13 @@
             "en": "Universidad Tecnica Estatal de Quevedo - uteq",
             "es": "Universidad Tecnica Estatal de Quevedo - uteq"
         },
+        "https://login.uti.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad Tecnologica Indoamerica - uti",
+            "es": "Universidad Tecnologica Indoamerica - uti"
+        },
         "https://login.utm.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Técnica de Manabi - utm",
             "es": "Universidad Técnica de Manabi - utm"
-        },
-        "https://login.utmachala.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Técnica de Machala - utmachala",
-            "es": "Universidad Técnica de Machala - utmachala"
         },
         "https://login.utn.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Técnica del Norte - utn",
