@@ -567,6 +567,10 @@
         "en": "Dongbei University of Finance and Economics",
         "zh": "东北财经大学(Dongbei University of Finance and Economics)"
     },
+    "https://idp.dzvc.edu.cn/idp/shibboleth": {
+        "en": "Dezhou Vocational and Technical College",
+        "zh": "德州职业技术学院(Dezhou Vocational and Technical College)"
+    },
     "https://idp.ecjtu.edu.cn/idp/shibboleth": {
         "en": "East China Jiaotong University",
         "zh": "华东交通大学(East China Jiaotong University)"
@@ -1854,6 +1858,10 @@
     "https://idp.wnu.edu.cn/idp/shibboleth": {
         "en": "Weinan Normal University",
         "zh": "渭南师范学院(Weinan Normal University)"
+    },
+    "https://idp.wsu.edu.cn/idp/shibboleth": {
+        "en": "Wenshan University",
+        "zh": "文山学院(Wenshan University)"
     },
     "https://idp.wsyu.edu.cn/idp/shibboleth": {
         "en": "Wuchang Shouyi University",
