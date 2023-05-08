@@ -1211,6 +1211,10 @@
         "en": "Nanchang University",
         "zh": "南昌大学(Nanchang University)"
     },
+    "https://idp.ncut.edu.cn/idp/shibboleth": {
+        "en": "North China University of Technology",
+        "zh": "北方工业大学(North China University of Technology)"
+    },
     "https://idp.ncwu.edu.cn/idp/shibboleth": {
         "en": "North China University of Water Resources and Electric Power",
         "zh": "华北水利水电大学(North China University of Water Resources and Electric Power)"
@@ -1302,6 +1306,10 @@
     "https://idp.nwu.edu.cn/idp/shibboleth": {
         "en": "Northwest University - China",
         "zh": "西北大学(Northwest University - China)"
+    },
+    "https://idp.nxcy.edu.cn/idp/shibboleth": {
+        "en": "Ningxia Vocational College of Finance and Economics",
+        "zh": "宁夏财经职业技术学院(Ningxia Vocational College of Finance and Economics)"
     },
     "https://idp.nxtc.edu.cn/idp/shibboleth": {
         "en": "Ningxia  Polytechnic",
@@ -1663,9 +1671,17 @@
         "en": "Tianfu College of Southwest University of Finance and Economics",
         "zh": "西南财经大学天府学院(Tianfu College of Southwest University of Finance and Economics)"
     },
+    "https://idp.thnu.edu.cn/idp/shibboleth": {
+        "en": "Tonghua Normal University",
+        "zh": "通化师范学院(Tonghua Normal University)"
+    },
     "https://idp.tiangong.edu.cn/idp/shibboleth": {
         "en": "Tiangong University",
         "zh": "天津工业大学(Tiangong University)"
+    },
+    "https://idp.tjarts.edu.cn/idp/shibboleth": {
+        "en": "Tianjin Academy of Fine Arts",
+        "zh": "天津美术学院(Tianjin Academy of Fine Arts)"
     },
     "https://idp.tjau.edu.cn/idp/shibboleth": {
         "en": "Tianjin Agricultural University",
@@ -1946,6 +1962,10 @@
     "https://idp.xju.edu.cn/idp/shibboleth": {
         "en": "XinJiang University",
         "zh": "新疆大学(XinJiang University)"
+    },
+    "https://idp.xjufe.edu.cn/idp/shibboleth": {
+        "en": "Xinjiang University Of Finance and Economics",
+        "zh": "新疆财经大学(Xinjiang University Of Finance and Economics)"
     },
     "https://idp.xmmc.edu.cn/idp/shibboleth": {
         "en": "XiaMen Medical College",
