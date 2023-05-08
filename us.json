@@ -188,6 +188,9 @@
     "https://hartnell.edu/idp": {
         "en": "Hartnell Community College District"
     },
+    "https://iaf33ab2bbb7164bf5aead757b53eb28e8.dev-rapididentity.com/idp": {
+        "en": "RapidIdentity"
+    },
     "https://icarus.sdstate.edu/idp/shibboleth": {
         "en": "South Dakota State University"
     },
