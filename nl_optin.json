@@ -127,10 +127,6 @@
         "en": "Windesheim University of Applied Sciences",
         "nl": "Hogeschool Windesheim"
     },
-    "http://sts.zadkine.nl/adfs/services/trust": {
-        "en": "Zadkine",
-        "nl": "Zadkine"
-    },
     "http://stsfed.login.vu.nl/adfs/services/trust": {
         "en": "Vrije Universiteit Amsterdam",
         "nl": "Vrije Universiteit Amsterdam"
@@ -224,8 +220,8 @@
         "nl": "Design Academy Eindhoven"
     },
     "https://sts.windows.net/37be429e-6e85-42cf-afc1-13c6587b2b3f/": {
-        "en": "Noorderpoort (MS Azure AD)",
-        "nl": "Noorderpoort (MS Azure AD)"
+        "en": "Noorderpoort",
+        "nl": "Noorderpoort"
     },
     "https://sts.windows.net/486427f8-ee3e-42b3-96d2-bf1b8a0ee220/": {
         "en": "Nimeto",
@@ -310,6 +306,10 @@
     "https://sts.windows.net/d463b487-b035-4a2c-9e71-b8d599eb3d0f/": {
         "en": "Theologische Universiteit Kampen",
         "nl": "Theologische Universiteit Kampen"
+    },
+    "https://sts.windows.net/e3b461c3-cfd0-4566-b686-df4ec047ebd8/": {
+        "en": "Zadkine",
+        "nl": "Zadkine"
     },
     "https://sts.windows.net/e5c78cdf-04b3-4b36-a97a-4f15e225efd3/": {
         "en": "Thomas More Hogeschool",
