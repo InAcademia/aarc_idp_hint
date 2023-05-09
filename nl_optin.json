@@ -67,6 +67,10 @@
         "en": "Graafschap College",
         "nl": "Graafschap College"
     },
+    "http://fs.fcroc.nl/adfs/services/trust": {
+        "en": "Friesland College",
+        "nl": "Friesland College"
+    },
     "http://fs.kienict.nl/adfs/services/trust": {
         "en": "ROC Da Vinci",
         "nl": "ROC Da Vinci"
