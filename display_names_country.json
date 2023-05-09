@@ -9,6 +9,9 @@
         "https://ubuntunet.eduid.africa/saml2/idp/metadata.php": {
             "en": "UbuntuNet Alliance Staff IdP"
         },
+        "https://uvci.riter.eduid.africa/saml2/idp/metadata.php": {
+            "en": "Université Virtuelle de Côte d'Ivoire"
+        },
         "https://wacren.wacren.eduid.africa/saml2/idp/metadata.php": {
             "en": "WACREN IDP"
         }
@@ -431,6 +434,9 @@
         },
         "https://idp.tigerfed.net.bd/idp/shibboleth": {
             "en": "TIGERFed Federation"
+        },
+        "https://idpbuet.bdren.net.bd/idp/shibboleth": {
+            "en": "Bangladesh University of Engineering and Technology"
         }
     },
     "be": {
@@ -571,9 +577,6 @@
         },
         "https://sso.irc.ugent.be/auth/realms/irc": {
             "en": "VIB-UGent IRC"
-        },
-        "https://sts.windows.net/2d714a65-b97f-41a9-8ff1-ec2cdf7df5cd/": {
-            "en": "VIB"
         },
         "https://sts.windows.net/9e2777ed-8237-4ab9-9278-2c144d6f6da3/": {
             "en": "VITO"
@@ -1103,10 +1106,6 @@
         "https://idp.asces.edu.br/idp/shibboleth": {
             "en": "ASCES-UNITA - Centro Universitario Tabosa de Almeida",
             "pt-br": "ASCES-UNITA - Centro Universitario Tabosa de Almeida"
-        },
-        "https://idp.bioticsa.com.br/idp/shibboleth": {
-            "en": "BIOTIC - Biotic SA",
-            "pt-br": "BIOTIC - Biotic SA"
         },
         "https://idp.cafe.inep.gov.br/idp/shibboleth": {
             "en": "INEP - Instituto Nacional de Estudos e Pesquisas",
@@ -2891,6 +2890,10 @@
             "en": "Dalian Minzu University",
             "zh": "大连民族大学(Dalian Minzu University)"
         },
+        "https://idp.dlu.edu.cn/idp/shibboleth": {
+            "en": "DaLian University",
+            "zh": "大连大学(DaLian University)"
+        },
         "https://idp.dlufl.edu.cn/idp/shibboleth": {
             "en": "Dalian University of Foreign Languages",
             "zh": "大连外国语大学(Dalian University of Foreign Languages)"
@@ -2906,6 +2909,10 @@
         "https://idp.dufe.edu.cn/idp/shibboleth": {
             "en": "Dongbei University of Finance and Economics",
             "zh": "东北财经大学(Dongbei University of Finance and Economics)"
+        },
+        "https://idp.dzvc.edu.cn/idp/shibboleth": {
+            "en": "Dezhou Vocational and Technical College",
+            "zh": "德州职业技术学院(Dezhou Vocational and Technical College)"
         },
         "https://idp.ecjtu.edu.cn/idp/shibboleth": {
             "en": "East China Jiaotong University",
@@ -3054,10 +3061,6 @@
         "https://idp.gxyesf.edu.cn/idp/shibboleth": {
             "en": "Guangxi College for Preschool Education",
             "zh": "广西幼儿师范高等专科学校(Guangxi College for Preschool Education)"
-        },
-        "https://idp.gzarts.edu.cn/idp/shibboleth": {
-            "en": "Guangzhou Academy of Fine Arts",
-            "zh": "广州美术学院(Guangzhou Academy of Fine Arts)"
         },
         "https://idp.gznu.edu.cn/idp/shibboleth": {
             "en": "Guizhou Normal University",
@@ -3551,6 +3554,10 @@
             "en": "Nanchang University",
             "zh": "南昌大学(Nanchang University)"
         },
+        "https://idp.ncut.edu.cn/idp/shibboleth": {
+            "en": "North China University of Technology",
+            "zh": "北方工业大学(North China University of Technology)"
+        },
         "https://idp.ncwu.edu.cn/idp/shibboleth": {
             "en": "North China University of Water Resources and Electric Power",
             "zh": "华北水利水电大学(North China University of Water Resources and Electric Power)"
@@ -3642,6 +3649,10 @@
         "https://idp.nwu.edu.cn/idp/shibboleth": {
             "en": "Northwest University - China",
             "zh": "西北大学(Northwest University - China)"
+        },
+        "https://idp.nxcy.edu.cn/idp/shibboleth": {
+            "en": "Ningxia Vocational College of Finance and Economics",
+            "zh": "宁夏财经职业技术学院(Ningxia Vocational College of Finance and Economics)"
         },
         "https://idp.nxtc.edu.cn/idp/shibboleth": {
             "en": "Ningxia  Polytechnic",
@@ -3786,6 +3797,10 @@
         "https://idp.sdutcm.edu.cn/idp/shibboleth": {
             "en": "Shandong University of Traditional Chinese Medicine",
             "zh": "山东中医药大学(Shandong University of Traditional Chinese Medicine)"
+        },
+        "https://idp.sdwm.edu.cn/idp/shibboleth": {
+            "en": "Shandong Foreign Trade Vocational College",
+            "zh": "山东外贸职业学院(Shandong Foreign Trade Vocational College)"
         },
         "https://idp.sdws.edu.cn/idp/shibboleth": {
             "en": "Shandong Vocational University of Foreign Affairs",
@@ -3999,9 +4014,17 @@
             "en": "Tianfu College of Southwest University of Finance and Economics",
             "zh": "西南财经大学天府学院(Tianfu College of Southwest University of Finance and Economics)"
         },
+        "https://idp.thnu.edu.cn/idp/shibboleth": {
+            "en": "Tonghua Normal University",
+            "zh": "通化师范学院(Tonghua Normal University)"
+        },
         "https://idp.tiangong.edu.cn/idp/shibboleth": {
             "en": "Tiangong University",
             "zh": "天津工业大学(Tiangong University)"
+        },
+        "https://idp.tjarts.edu.cn/idp/shibboleth": {
+            "en": "Tianjin Academy of Fine Arts",
+            "zh": "天津美术学院(Tianjin Academy of Fine Arts)"
         },
         "https://idp.tjau.edu.cn/idp/shibboleth": {
             "en": "Tianjin Agricultural University",
@@ -4179,6 +4202,10 @@
             "en": "Weinan Normal University",
             "zh": "渭南师范学院(Weinan Normal University)"
         },
+        "https://idp.wsu.edu.cn/idp/shibboleth": {
+            "en": "Wenshan University",
+            "zh": "文山学院(Wenshan University)"
+        },
         "https://idp.wsyu.edu.cn/idp/shibboleth": {
             "en": "Wuchang Shouyi University",
             "zh": "武昌首义学院(Wuchang Shouyi University)"
@@ -4267,6 +4294,10 @@
             "en": "Xi'an Medical University",
             "zh": "西安医学院(Xi'an Medical University)"
         },
+        "https://idp.xjnu.edu.cn/idp/shibboleth": {
+            "en": "Xinjiang Normal University",
+            "zh": "新疆师范大学(Xinjiang Normal University)"
+        },
         "https://idp.xjtlu.edu.cn/idp/shibboleth": {
             "en": "Xi'an Jiaotong-Liverpool University",
             "zh": "西交利物浦大学(Xi'an Jiaotong-Liverpool University)"
@@ -4278,6 +4309,10 @@
         "https://idp.xju.edu.cn/idp/shibboleth": {
             "en": "XinJiang University",
             "zh": "新疆大学(XinJiang University)"
+        },
+        "https://idp.xjufe.edu.cn/idp/shibboleth": {
+            "en": "Xinjiang University Of Finance and Economics",
+            "zh": "新疆财经大学(Xinjiang University Of Finance and Economics)"
         },
         "https://idp.xmmc.edu.cn/idp/shibboleth": {
             "en": "XiaMen Medical College",
@@ -4342,6 +4377,10 @@
         "https://idp.ynftc.edu.cn/idp/shibboleth": {
             "en": "Yunnan Forestry Technological College",
             "zh": "云南林业职业技术学院(Yunnan Forestry Technological College)"
+        },
+        "https://idp.yngtxy.edu.cn/idp/shibboleth": {
+            "en": "Yunnan Land and Resources Vocational College",
+            "zh": "云南国土资源职业学院(Yunnan Land and Resources Vocational College)"
         },
         "https://idp.ynnu.edu.cn/idp/shibboleth": {
             "en": "Yunnan Normal University",
@@ -4580,6 +4619,10 @@
         "https://idp.frederick.ac.cy/idp/shibboleth": {
             "en": "Frederick University"
         },
+        "https://idp.ucy.ac.cy/idp/shibboleth": {
+            "el": "Πανεπιστήμιο Κύπρου",
+            "en": "University of Cyprus"
+        },
         "https://nup-edgnstd.nup.ac.cy/idp/shibboleth": {
             "en": "Neapolis University Pafos"
         },
@@ -4672,6 +4715,10 @@
         "https://eduid.vspj.cz/idp/shibboleth": {
             "cs": "Vysoká škola polytechnická Jihlava",
             "en": "College of Polytechnics Jihlava"
+        },
+        "https://eduid.vstecb.cz/idp/shibboleth": {
+            "cs": "Vysoká škola technická a ekonomická v Českých Budějovicích",
+            "en": "Institute of Technology and Business in České Budějovice"
         },
         "https://eduid.vumop.cz/idp/shibboleth": {
             "cs": "VÚMOP, v.v.i.",
@@ -5415,6 +5462,10 @@
             "de": "Hochschule für Künste Bremen",
             "en": "University of the Arts Bremen"
         },
+        "https://aai.hpolbb.de/idp/shibboleth": {
+            "de": "Hochschule der Polizei Brandenburg",
+            "en": "The University of Applied Police Sciences of Brandenburg"
+        },
         "https://aai.ipk-gatersleben.de/idp/shibboleth": {
             "de": "IPK Gatersleben",
             "en": "IPK Gatersleben"
@@ -5502,6 +5553,10 @@
         "https://idp-mosbach.dhbw.de/idp/shibboleth": {
             "de": "DHBW Mosbach",
             "en": "DHBW Mosbach"
+        },
+        "https://idp-ravensburg.dhbw.de/idp/shibboleth": {
+            "de": "DHBW Ravensburg",
+            "en": "DHBW Ravensburg"
         },
         "https://idp-serv.uni-magdeburg.de/idp/shibboleth": {
             "de": "Otto-von-Guericke-Universität Magdeburg",
@@ -5746,6 +5801,10 @@
         "https://idp.hcu-hamburg.de/idp/shibboleth": {
             "de": "HafenCity Universität Hamburg",
             "en": "HafenCity Universität Hamburg"
+        },
+        "https://idp.hdbw-hochschule.de/idp/shibboleth": {
+            "de": "Hochschule der Bayerischen Wirtschaft (HDBW)",
+            "en": "HDBW: University of applied sciences"
         },
         "https://idp.hdm-stuttgart.de/idp/shibboleth": {
             "de": "Hochschule der Medien Stuttgart",
@@ -6422,10 +6481,6 @@
         "https://login.dhbw-heidenheim.de/idp/shibboleth": {
             "de": "DHBW Heidenheim",
             "en": "DHBW Heidenheim"
-        },
-        "https://login.dhbw-ravensburg.de/idp/shibboleth": {
-            "de": "DHBW Ravensburg",
-            "en": "DHBW Ravensburg"
         },
         "https://login.fernuni-hagen.de/idp/shibboleth": {
             "de": "FernUniversität in Hagen",
@@ -7177,18 +7232,18 @@
             "en": "Dania Academy"
         }
     },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
+        }
+    },
     "ec": {
         "https://login.caces.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces",
             "es": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces"
-        },
-        "https://login.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
-            "es": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia"
-        },
-        "https://login.comunidadsanjuanbosco.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Comunidad San Juan Bosco - comunidadsanjuanbosco",
-            "es": "Comunidad San Juan Bosco - comunidadsanjuanbosco"
         },
         "https://login.cordillera.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Cordillera - cordillera",
@@ -7198,33 +7253,13 @@
             "en": "Academia Cotopaxi - cotopaxi",
             "es": "Academia Cotopaxi - cotopaxi"
         },
-        "https://login.cristobalcolon.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Salesiana Cristóbal Colón - cristobalcolon",
-            "es": "Unidad Educativa Salesiana Cristóbal Colón - cristobalcolon"
-        },
-        "https://login.ctsdonbosco.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Salesianos Don Bosco Kennedy - ctsdonbosco",
-            "es": "Salesianos Don Bosco Kennedy - ctsdonbosco"
-        },
         "https://login.domingocomin.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Domingo Comin - domingocomin",
             "es": "Domingo Comin - domingocomin"
         },
-        "https://login.donboscolatola.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola",
-            "es": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola"
-        },
         "https://login.donboscomacas.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas",
             "es": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas"
-        },
-        "https://login.dsavio.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio",
-            "es": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio"
-        },
-        "https://login.epn.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Escuela Politécnica Nacional - epn",
-            "es": "Escuela Politécnica Nacional - epn"
         },
         "https://login.espam.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Escuela Superior Politecnica Agropecuaria de Manabi - espam",
@@ -7246,21 +7281,9 @@
             "en": "Fundación Colegio Americano Quito - fcaq",
             "es": "Fundación Colegio Americano Quito - fcaq"
         },
-        "https://login.hep.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Hospital de Especialidades Portoviejo - hep",
-            "es": "Hospital de Especialidades Portoviejo - hep"
-        },
-        "https://login.igepn.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn",
-            "es": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn"
-        },
         "https://login.ikiam.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Regional Amazónica Ikiam - ikiam",
             "es": "Universidad Regional Amazónica Ikiam - ikiam"
-        },
-        "https://login.inocar.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Oceanográfico y Antártico de la Armada - inocar",
-            "es": "Instituto Oceanográfico y Antártico de la Armada - inocar"
         },
         "https://login.inspi.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Nacional de Investigacion en Salud Publica - inspi",
@@ -7270,29 +7293,9 @@
             "en": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg",
             "es": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg"
         },
-        "https://login.internacional.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Internacional del Ecuador - internacional",
-            "es": "Universidad Internacional del Ecuador - internacional"
-        },
-        "https://login.ipac.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Particular Abdón Calderón - ipac",
-            "es": "Instituto Particular Abdón Calderón - ipac"
-        },
-        "https://login.ister.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Tecnológico Superior Rumiñahui - ister",
-            "es": "Instituto Tecnológico Superior Rumiñahui - ister"
-        },
         "https://login.istvidanueva.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Superior Tecnológico Vida Nueva - istvidanueva",
             "es": "Instituto Superior Tecnológico Vida Nueva - istvidanueva"
-        },
-        "https://login.itb.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Tecnologico Bolivariano - itb",
-            "es": "Instituto Tecnologico Bolivariano - itb"
-        },
-        "https://login.puce.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Pontificia Universidad Católica del Ecuador Quito - puce",
-            "es": "Pontificia Universidad Católica del Ecuador Quito - puce"
         },
         "https://login.pucesa.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Pontificia Universidad Católica del Ecuador Ambato - pucesa",
@@ -7302,53 +7305,25 @@
             "en": "Pontificia Universidad Catolica del Ecuador Santo Domingo - pucesd",
             "es": "Pontificia Universidad Catolica del Ecuador Santo Domingo - pucesd"
         },
-        "https://login.pucese.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Pontificia Universidad Catolica del Ecuador Esmeraldas - pucese",
-            "es": "Pontificia Universidad Catolica del Ecuador Esmeraldas - pucese"
-        },
         "https://login.pucesi.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Pontificia Universidad Catolica del Ecuador  Ibarra - pucesi",
             "es": "Pontificia Universidad Catolica del Ecuador  Ibarra - pucesi"
-        },
-        "https://login.salesianos.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Salesianos Casa Inspectorial Quito - salesianos",
-            "es": "Salesianos Casa Inspectorial Quito - salesianos"
-        },
-        "https://login.salesianoscayambe.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Salesianos Cayambe - salesianoscayambe",
-            "es": "Salesianos Cayambe - salesianoscayambe"
         },
         "https://login.salesianosibarra.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Salesianos Ibarra - salesianosibarra",
             "es": "Salesianos Ibarra - salesianosibarra"
         },
-        "https://login.sangregorio.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad San Gregorio de Portoviejo - sangregorio",
-            "es": "Universidad San Gregorio de Portoviejo - sangregorio"
-        },
         "https://login.sanjosemanta.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Salesiana San José - sanjosemanta",
             "es": "Unidad Educativa Salesiana San José - sanjosemanta"
-        },
-        "https://login.sfelipeneri.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa San Felipe Neri - sfelipeneri",
-            "es": "Unidad Educativa San Felipe Neri - sfelipeneri"
         },
         "https://login.sjbzaruma.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa San Juan Bosco de la ciudad de Zaruma - sjbzaruma",
             "es": "Unidad Educativa San Juan Bosco de la ciudad de Zaruma - sjbzaruma"
         },
-        "https://login.spellman.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Salesiana Cardenal Spellman - spellman",
-            "es": "Unidad Educativa Salesiana Cardenal Spellman - spellman"
-        },
         "https://login.sscc.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Bilingue Sagrados Corazones - sscc",
             "es": "Unidad Educativa Bilingue Sagrados Corazones - sscc"
-        },
-        "https://login.tecnologicoitca.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Tecnológico Superior José Chiriboga Grijalva - tecnologicoitca",
-            "es": "Instituto Tecnológico Superior José Chiriboga Grijalva - tecnologicoitca"
         },
         "https://login.tecnologicopichincha.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Superior Tecnólogico  Honorable Consejo Provincial de Pichincha - tecnologicopichincha",
@@ -7386,10 +7361,6 @@
             "en": "Universidad Central del Ecuador - uce",
             "es": "Universidad Central del Ecuador - uce"
         },
-        "https://login.ucsg.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Catolica Santiago de Guayaquil - ucsg",
-            "es": "Universidad Catolica Santiago de Guayaquil - ucsg"
-        },
         "https://login.ucuenca.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad de Cuenca - ucuenca",
             "es": "Universidad de Cuenca - ucuenca"
@@ -7398,21 +7369,9 @@
             "en": "Universidad de las Americas - udla",
             "es": "Universidad de las Americas - udla"
         },
-        "https://login.uea.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Estatal Amazónica - uea",
-            "es": "Universidad Estatal Amazónica - uea"
-        },
-        "https://login.ueas.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Agronomico Salesiano - ueas",
-            "es": "Unidad Educativa Agronomico Salesiano - ueas"
-        },
         "https://login.ueb.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Estatal de Bolivar - ueb",
             "es": "Universidad Estatal de Bolivar - ueb"
-        },
-        "https://login.uesmae.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Salesiana María Auxiliadora Esmeraldas - uesmae",
-            "es": "Unidad Educativa Salesiana María Auxiliadora Esmeraldas - uesmae"
         },
         "https://login.uestar.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Santo Tomas Apostol Riobamba - uestar",
@@ -7454,18 +7413,6 @@
             "en": "Universidad del Pacífico - upacifico",
             "es": "Universidad del Pacífico - upacifico"
         },
-        "https://login.upec.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Politecnica Estatal del Carchi - upec",
-            "es": "Universidad Politecnica Estatal del Carchi - upec"
-        },
-        "https://login.ups.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Politecnica Salesiana - ups",
-            "es": "Universidad Politecnica Salesiana - ups"
-        },
-        "https://login.upse.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Estatal Península de Santa Elena - upse",
-            "es": "Universidad Estatal Península de Santa Elena - upse"
-        },
         "https://login.usfq.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad San Francisco de Quito - usfq",
             "es": "Universidad San Francisco de Quito - usfq"
@@ -7494,29 +7441,9 @@
             "en": "Universidad Tecnica Estatal de Quevedo - uteq",
             "es": "Universidad Tecnica Estatal de Quevedo - uteq"
         },
-        "https://login.uti.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Tecnologica Indoamerica - uti",
-            "es": "Universidad Tecnologica Indoamerica - uti"
-        },
         "https://login.utm.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Técnica de Manabi - utm",
             "es": "Universidad Técnica de Manabi - utm"
-        },
-        "https://login.utmachala.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Técnica de Machala - utmachala",
-            "es": "Universidad Técnica de Machala - utmachala"
-        },
-        "https://login.utn.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Técnica del Norte - utn",
-            "es": "Universidad Técnica del Norte - utn"
-        },
-        "https://login.utpl.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Técnica Particular de Loja - utpl",
-            "es": "Universidad Técnica Particular de Loja - utpl"
-        },
-        "https://login.yachaytech.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad YachayTech - yachaytech",
-            "es": "Universidad YachayTech - yachaytech"
         }
     },
     "ee": {
@@ -8373,10 +8300,6 @@
         "https://alberti.esiea.fr/idp/shibboleth": {
             "en": "ESIEA - Ecole Supérieure d'Informatique Electronique Automatique",
             "fr": "ESIEA - Ecole Supérieure d'Informatique Electronique Automatique"
-        },
-        "https://antimoine.insa-strasbourg.fr/idp/shibboleth": {
-            "en": "ZZZ INSA Strasbourg - [OLDPROD]",
-            "fr": "ZZZ INSA Strasbourg - [OLDPROD]"
         },
         "https://apps.univ-lr.fr/idp/shibboleth": {
             "en": "La Rochelle University",
@@ -9278,6 +9201,10 @@
             "en": "IDP vetagro sup PROD",
             "fr": "Vetagro Sup"
         },
+        "https://pr4.educonnect.phm.education.gouv.fr/idp": {
+            "en": "ÉduConnect - PR4",
+            "fr": "ÉduConnect - PR4"
+        },
         "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": {
             "en": "CAMPUS CONDORCET",
             "fr": "CAMPUS CONDORCET"
@@ -9477,6 +9404,10 @@
         "https://sts.windows.net/672488e0-d004-4859-a645-9ecd3e55bf74/": {
             "en": "Rennes School of Business",
             "fr": "Rennes School of Business"
+        },
+        "https://sts.windows.net/8a2f18a9-8f0e-4f76-a585-9b07b3a38dea/": {
+            "en": "Institut Supérieur de Communication et Publicité",
+            "fr": "Institut Supérieur de Communication et Publicité"
         },
         "https://sts.windows.net/a1bce70e-1f36-4e8c-b4f3-48980a5f78ee/": {
             "en": "MBS - Production",
@@ -10420,6 +10351,9 @@
         "https://idp.tudublin.ie/idp/shibboleth": {
             "en": "TU Dublin (TU Dublin login)"
         },
+        "https://idp.tus.ie/idp/shibboleth": {
+            "en": "TUS Login (UAT)"
+        },
         "https://idp.ul.ie/idp/shibboleth": {
             "en": "University of Limerick",
             "ga": "Ollscoil Luimnigh"
@@ -10431,7 +10365,7 @@
             "en": "Dublin City University"
         },
         "https://idp2.griffith.ie/idp/shibboleth": {
-            "en": "Griffith College"
+            "en": "Griffith College (New)"
         },
         "https://sso.identity.ichec.ie/realms/ichec-staff": {
             "en": "Irish Centre for High-End Computing - Staff MFA"
@@ -10539,6 +10473,9 @@
         },
         "https://idp.cit.edu.in/idp/shibboleth": {
             "en": "Coimbatore Institute of Technology"
+        },
+        "https://idp.cuhimachal.ac.in/idp/shibboleth": {
+            "en": "Central University of Himachal Pradesh"
         },
         "https://idp.cujammu.ac.in/idp/shibboleth": {
             "en": "Central University of Jammu"
@@ -10914,6 +10851,9 @@
         },
         "https://idp.vmkvec.ac.in/idp/shibboleth": {
             "en": "Vinayaka Mission's Kirupananda Variyar Engineering College"
+        },
+        "https://idp.vnsgu.ac.in/idp/shibboleth": {
+            "en": "VEER NARMAD SOUTH GUJARAT UNIVERSITY"
         },
         "https://idp.zcoer.in/idp/shibboleth": {
             "en": "Zeal College of Engineering and Research"
@@ -11547,6 +11487,10 @@
         }
     },
     "jp": {
+        "https://aichitoho.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Aichi Toho University",
+            "ja": "愛知東邦大学"
+        },
         "https://asura.seijo.ac.jp/idp/shibboleth": {
             "en": "Seijo University",
             "ja": "成城大学"
@@ -11868,6 +11812,12 @@
             "en": "KENET Staff Identity Provider"
         }
     },
+    "kg": {
+        "https://idp.kif.kg/simplesaml/saml2/idp/metadata.php": {
+            "en": "KIF-IDP",
+            "ky": "KIF-IDP"
+        }
+    },
     "kr": {
         "https://auth.ibs.re.kr/idp/simplesamlphp": {
             "en": "Institute for Basic Science"
@@ -12158,6 +12108,9 @@
             "en": "MENJE - CGIE IAM Users",
             "fr": "MENJE - CGIE IAM Utilisateurs"
         },
+        "https://sts.windows.net/487175ce-c313-4417-91bc-dc3b6721b8ee/": {
+            "en": "LISER"
+        },
         "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/": {
             "en": "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/"
         }
@@ -12254,9 +12207,6 @@
         }
     },
     "mk": {
-        "https://idp.schools.mk/idp/shibboleth": {
-            "en": "Ministry for education and science in Macedonia"
-        },
         "https://idp.ukim.mk/idp/shibboleth": {
             "en": "Ss. Cyril and Methodius University in Skopje"
         }
@@ -12786,10 +12736,6 @@
             "en": "DIFFER",
             "nl": "DIFFER"
         },
-        "http://adfs-farm.noorderpoort.nl/adfs/services/trust": {
-            "en": "Noorderpoort",
-            "nl": "Noorderpoort"
-        },
         "http://adfs-p.summacollege.nl/adfs/services/trust": {
             "en": "Summa College",
             "nl": "Summa College"
@@ -13078,10 +13024,6 @@
             "en": "Windesheim University of Applied Sciences",
             "nl": "Hogeschool Windesheim"
         },
-        "http://sts.zadkine.nl/adfs/services/trust": {
-            "en": "Zadkine",
-            "nl": "Zadkine"
-        },
         "http://sts.zonmw.nl/adfs/services/trust": {
             "en": "ZonMw",
             "nl": "ZonMw"
@@ -13255,8 +13197,8 @@
             "nl": "UMC Groningen"
         },
         "https://sts.windows.net/37be429e-6e85-42cf-afc1-13c6587b2b3f/": {
-            "en": "Noorderpoort (MS Azure AD)",
-            "nl": "Noorderpoort (MS Azure AD)"
+            "en": "Noorderpoort",
+            "nl": "Noorderpoort"
         },
         "https://sts.windows.net/486427f8-ee3e-42b3-96d2-bf1b8a0ee220/": {
             "en": "Nimeto",
@@ -13405,6 +13347,10 @@
         "https://sts.windows.net/d463b487-b035-4a2c-9e71-b8d599eb3d0f/": {
             "en": "Theologische Universiteit Kampen",
             "nl": "Theologische Universiteit Kampen"
+        },
+        "https://sts.windows.net/e3b461c3-cfd0-4566-b686-df4ec047ebd8/": {
+            "en": "Zadkine",
+            "nl": "Zadkine"
         },
         "https://sts.windows.net/e5c78cdf-04b3-4b36-a97a-4f15e225efd3/": {
             "en": "Thomas More Hogeschool",
@@ -14574,9 +14520,6 @@
         },
         "http://eisadfs.seu.edu.sa/adfs/services/trust": {
             "en": "Saudi Electronic University"
-        },
-        "http://fs.kacst.edu.sa/adfs/services/trust": {
-            "en": "King Abdulaziz City for Science and Technology (KACST)"
         },
         "http://fs.ut.edu.sa/adfs/services/trust": {
             "en": "University of Tabuk"
@@ -17670,9 +17613,6 @@
         "https://cumin.plu.edu/idp/shibboleth": {
             "en": "Pacific Lutheran University"
         },
-        "https://demo-k12.us001-rapididentity.com/idp": {
-            "en": "RapidIdentity"
-        },
         "https://duo.emerson.edu/dag/saml2/idp/metadata.php": {
             "en": "Emerson College"
         },
@@ -17711,6 +17651,9 @@
         },
         "https://hartnell.edu/idp": {
             "en": "Hartnell Community College District"
+        },
+        "https://iaf33ab2bbb7164bf5aead757b53eb28e8.dev-rapididentity.com/idp": {
+            "en": "RapidIdentity"
         },
         "https://icarus.sdstate.edu/idp/shibboleth": {
             "en": "South Dakota State University"
@@ -18641,6 +18584,9 @@
         },
         "https://sso.csuohio.edu/idp": {
             "en": "Cleveland State University"
+        },
+        "https://sso.cyber.tamus.edu/idp": {
+            "en": "Texas A&M University System Cybersecurity"
         },
         "https://sso.davidson.edu/idp": {
             "en": "Davidson College"

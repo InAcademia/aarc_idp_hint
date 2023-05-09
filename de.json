@@ -15,6 +15,10 @@
         "de": "Hochschule für Künste Bremen",
         "en": "University of the Arts Bremen"
     },
+    "https://aai.hpolbb.de/idp/shibboleth": {
+        "de": "Hochschule der Polizei Brandenburg",
+        "en": "The University of Applied Police Sciences of Brandenburg"
+    },
     "https://aai.ipk-gatersleben.de/idp/shibboleth": {
         "de": "IPK Gatersleben",
         "en": "IPK Gatersleben"
@@ -102,6 +106,10 @@
     "https://idp-mosbach.dhbw.de/idp/shibboleth": {
         "de": "DHBW Mosbach",
         "en": "DHBW Mosbach"
+    },
+    "https://idp-ravensburg.dhbw.de/idp/shibboleth": {
+        "de": "DHBW Ravensburg",
+        "en": "DHBW Ravensburg"
     },
     "https://idp-serv.uni-magdeburg.de/idp/shibboleth": {
         "de": "Otto-von-Guericke-Universität Magdeburg",
@@ -346,6 +354,10 @@
     "https://idp.hcu-hamburg.de/idp/shibboleth": {
         "de": "HafenCity Universität Hamburg",
         "en": "HafenCity Universität Hamburg"
+    },
+    "https://idp.hdbw-hochschule.de/idp/shibboleth": {
+        "de": "Hochschule der Bayerischen Wirtschaft (HDBW)",
+        "en": "HDBW: University of applied sciences"
     },
     "https://idp.hdm-stuttgart.de/idp/shibboleth": {
         "de": "Hochschule der Medien Stuttgart",
@@ -1022,10 +1034,6 @@
     "https://login.dhbw-heidenheim.de/idp/shibboleth": {
         "de": "DHBW Heidenheim",
         "en": "DHBW Heidenheim"
-    },
-    "https://login.dhbw-ravensburg.de/idp/shibboleth": {
-        "de": "DHBW Ravensburg",
-        "en": "DHBW Ravensburg"
     },
     "https://login.fernuni-hagen.de/idp/shibboleth": {
         "de": "FernUniversität in Hagen",

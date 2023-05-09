@@ -27,10 +27,6 @@
         "en": "ESIEA - Ecole Supérieure d'Informatique Electronique Automatique",
         "fr": "ESIEA - Ecole Supérieure d'Informatique Electronique Automatique"
     },
-    "https://antimoine.insa-strasbourg.fr/idp/shibboleth": {
-        "en": "ZZZ INSA Strasbourg - [OLDPROD]",
-        "fr": "ZZZ INSA Strasbourg - [OLDPROD]"
-    },
     "https://apps.univ-lr.fr/idp/shibboleth": {
         "en": "La Rochelle University",
         "fr": "La Rochelle Université"
@@ -931,6 +927,10 @@
         "en": "IDP vetagro sup PROD",
         "fr": "Vetagro Sup"
     },
+    "https://pr4.educonnect.phm.education.gouv.fr/idp": {
+        "en": "ÉduConnect - PR4",
+        "fr": "ÉduConnect - PR4"
+    },
     "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": {
         "en": "CAMPUS CONDORCET",
         "fr": "CAMPUS CONDORCET"
@@ -1130,6 +1130,10 @@
     "https://sts.windows.net/672488e0-d004-4859-a645-9ecd3e55bf74/": {
         "en": "Rennes School of Business",
         "fr": "Rennes School of Business"
+    },
+    "https://sts.windows.net/8a2f18a9-8f0e-4f76-a585-9b07b3a38dea/": {
+        "en": "Institut Supérieur de Communication et Publicité",
+        "fr": "Institut Supérieur de Communication et Publicité"
     },
     "https://sts.windows.net/a1bce70e-1f36-4e8c-b4f3-48980a5f78ee/": {
         "en": "MBS - Production",

@@ -89,6 +89,9 @@
     "https://idp.cit.edu.in/idp/shibboleth": {
         "en": "Coimbatore Institute of Technology"
     },
+    "https://idp.cuhimachal.ac.in/idp/shibboleth": {
+        "en": "Central University of Himachal Pradesh"
+    },
     "https://idp.cujammu.ac.in/idp/shibboleth": {
         "en": "Central University of Jammu"
     },
@@ -463,6 +466,9 @@
     },
     "https://idp.vmkvec.ac.in/idp/shibboleth": {
         "en": "Vinayaka Mission's Kirupananda Variyar Engineering College"
+    },
+    "https://idp.vnsgu.ac.in/idp/shibboleth": {
+        "en": "VEER NARMAD SOUTH GUJARAT UNIVERSITY"
     },
     "https://idp.zcoer.in/idp/shibboleth": {
         "en": "Zeal College of Engineering and Research"

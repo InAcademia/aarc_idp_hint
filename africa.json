@@ -8,6 +8,9 @@
     "https://ubuntunet.eduid.africa/saml2/idp/metadata.php": {
         "en": "UbuntuNet Alliance Staff IdP"
     },
+    "https://uvci.riter.eduid.africa/saml2/idp/metadata.php": {
+        "en": "Université Virtuelle de Côte d'Ivoire"
+    },
     "https://wacren.wacren.eduid.africa/saml2/idp/metadata.php": {
         "en": "WACREN IDP"
     }

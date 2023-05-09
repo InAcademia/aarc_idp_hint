@@ -1,4 +1,8 @@
 {
+    "https://aichitoho.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Aichi Toho University",
+        "ja": "愛知東邦大学"
+    },
     "https://asura.seijo.ac.jp/idp/shibboleth": {
         "en": "Seijo University",
         "ja": "成城大学"

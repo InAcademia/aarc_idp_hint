@@ -149,9 +149,6 @@
     "https://cumin.plu.edu/idp/shibboleth": {
         "en": "Pacific Lutheran University"
     },
-    "https://demo-k12.us001-rapididentity.com/idp": {
-        "en": "RapidIdentity"
-    },
     "https://duo.emerson.edu/dag/saml2/idp/metadata.php": {
         "en": "Emerson College"
     },
@@ -190,6 +187,9 @@
     },
     "https://hartnell.edu/idp": {
         "en": "Hartnell Community College District"
+    },
+    "https://iaf33ab2bbb7164bf5aead757b53eb28e8.dev-rapididentity.com/idp": {
+        "en": "RapidIdentity"
     },
     "https://icarus.sdstate.edu/idp/shibboleth": {
         "en": "South Dakota State University"
@@ -1120,6 +1120,9 @@
     },
     "https://sso.csuohio.edu/idp": {
         "en": "Cleveland State University"
+    },
+    "https://sso.cyber.tamus.edu/idp": {
+        "en": "Texas A&M University System Cybersecurity"
     },
     "https://sso.davidson.edu/idp": {
         "en": "Davidson College"
