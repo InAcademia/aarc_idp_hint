@@ -17731,6 +17731,9 @@
         "https://cas.kumc.edu/idp/shibboleth": {
             "en": "University of Kansas Medical Center"
         },
+        "https://cas2.tcnj.edu/cas/idp": {
+            "en": "The College of New Jersey"
+        },
         "https://casprod.lamar.edu/idp/shibboleth": {
             "en": "Lamar University"
         },
