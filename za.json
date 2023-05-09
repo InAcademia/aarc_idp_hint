@@ -29,8 +29,8 @@
         "en": "SANReN Competency Area"
     },
     "https://proxy.safire.ac.za/birk.php/idp-01.tenet.ac.za/idp/shibboleth": {
-        "af": "TENET Suid-Afrika",
-        "en": "TENET South Africa"
+        "en": "TENET South Africa",
+        "en-ZA": "TENET South Africa"
     },
     "https://proxy.safire.ac.za/birk.php/idp.csir.co.za/simplesamlphp/saml2/idp/metadata.php": {
         "af": "WNNR",
