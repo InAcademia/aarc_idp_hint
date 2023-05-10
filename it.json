@@ -315,6 +315,10 @@
         "en": "European Gravitational Observatory",
         "it": "European Gravitational Observatory"
     },
+    "https://idp.enea.it/idp/shibboleth": {
+        "en": "ENEA",
+        "it": "ENEA"
+    },
     "https://idp.eurac.edu/idp/shibboleth": {
         "de": "EURAC",
         "en": "https://idp.eurac.edu/idp/shibboleth",
