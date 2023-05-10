@@ -1511,10 +1511,6 @@
             "en": "IFFAR - Instituto Federal Farroupilha",
             "pt-br": "IFFAR - Instituto Federal Farroupilha"
         },
-        "https://shibboleth.ifmt.edu.br/idp/shibboleth": {
-            "en": "IFMT - Instituto Federal de Mato Grosso",
-            "pt-br": "IFMT - Instituto Federal de Mato Grosso"
-        },
         "https://shibboleth.ifrn.edu.br/idp/shibboleth": {
             "en": "IFRN - Instituto Federal do Rio Grande do Norte",
             "pt-br": "IFRN - Instituto Federal do Rio Grande do Norte"
@@ -1626,6 +1622,10 @@
         "https://shibboleth1p.sipam.gov.br/idp/shibboleth": {
             "en": "CENSIPAM - Sistema de Protecao da Amazonia",
             "pt-br": "CENSIPAM - Sistema de Protecao da Amazonia"
+        },
+        "https://shibboleth2.ifmt.edu.br/idp/shibboleth": {
+            "en": "IFMT - Instituto Federal de Mato Grosso",
+            "pt-br": "IFMT - Instituto Federal de Mato Grosso"
         },
         "https://shibboleth4.cnpem.br/idp/shibboleth": {
             "en": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais",
