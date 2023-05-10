@@ -75,6 +75,10 @@
         "en": "Kujawy and Pomorze University in Bydgoszcz",
         "pl": "Kujawsko-Pomorska Szkoła Wyższa w Bydgoszczy"
     },
+    "https://erasmuslogin.pum.edu.pl/idp/shibboleth": {
+        "en": "Pomeranian Medical University in Szczecin",
+        "pl": "Pomorski Uniwersytet Medyczny w Szczecinie"
+    },
     "https://fed.p.lodz.pl/idp/shibboleth": {
         "en": "Lodz University of Technology",
         "pl": "Politechnika Łódzka"
