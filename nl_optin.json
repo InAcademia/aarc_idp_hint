@@ -39,6 +39,10 @@
         "en": "Lentiz Onderwijsgroep",
         "nl": "Lentiz Onderwijsgroep"
     },
+    "http://adfs.rocvantwente.nl/adfs/services/trust": {
+        "en": "ROC van Twente",
+        "nl": "ROC van Twente"
+    },
     "http://adfs01.kempel.nl/adfs/services/trust": {
         "en": "Hogeschool de Kempel",
         "nl": "Hogeschool de Kempel"
