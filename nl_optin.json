@@ -87,6 +87,10 @@
         "en": "National Institute for Public Health and the Environment",
         "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
     },
+    "http://fs.rocrivor.nl/adfs/services/trust": {
+        "en": "ROC Rivor",
+        "nl": "ROC Rivor"
+    },
     "http://login.hva.nl/adfs/services/trust": {
         "en": "Hogeschool van Amsterdam",
         "nl": "Hogeschool van Amsterdam"
