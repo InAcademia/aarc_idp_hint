@@ -223,6 +223,10 @@
         "cs": "Ústav státu a práva AV ČR",
         "en": "Institute of State and Law of the Czech Academy of Sciences"
     },
+    "https://idp.imc.cas.cz/idp/shibboleth": {
+        "cs": "Ústav makromolekulární chemie AV ČR, v. v. i.",
+        "en": "Institute of Macromolecular Chemistry CAS"
+    },
     "https://idp.img.cas.cz/idp/shibboleth": {
         "cs": "Ústav molekulární genetiky AV ČR, v. v. i.",
         "en": "Institute of Molecular Genetics of the Czech Academy of Sciences"
