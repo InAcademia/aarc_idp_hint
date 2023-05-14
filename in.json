@@ -239,6 +239,9 @@
     "https://idp.jssuni.edu.in/idp/shibboleth": {
         "en": "JSS Academy of Higher Education and Research"
     },
+    "https://idp.kakatiya.ac.in/idp/shibboleth": {
+        "en": "Kakatiya University"
+    },
     "https://idp.kalasalingam.ac.in/idp/shibboleth": {
         "en": "Kalasalingam Academy of Research and Education"
     },
