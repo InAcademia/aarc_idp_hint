@@ -1412,8 +1412,8 @@
         "en": "Max-Planck-Institute for Chemistry"
     },
     "https://sso.mwk.bwl.de/auth/realms/MWK-DFN": {
-        "de": "Ministerium für Wissenschaft, Forschung und Kunst BW",
-        "en": "Ministry of Science, Reseach and Arts BW"
+        "de": "Ministerium für Wissenschaft, Forschung und Kunst BW (MWK)",
+        "en": "Ministry of Science, Reseach and Arts BW (MWK)"
     },
     "https://sso.private-hochschulen-deutschland.de/idp/shibboleth": {
         "de": "MSH MSB BSP HMU - IDP",
