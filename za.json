@@ -46,7 +46,7 @@
     },
     "https://proxy.safire.ac.za/birk.php/login.ru.ac.za/idp/shibboleth": {
         "en": "Rhodes University",
-        "xh": "IYunivesiti iRhodes"
+        "en-ZA": "Rhodes University"
     },
     "https://proxy.safire.ac.za/birk.php/nmmusaml-sc1.nmmu.ac.za/simplesaml/saml2/idp/metadata.php": {
         "en": "Nelson Mandela University"
