@@ -723,6 +723,10 @@
         "en": "Guangxi College for Preschool Education",
         "zh": "广西幼儿师范高等专科学校(Guangxi College for Preschool Education)"
     },
+    "https://idp.gzarts.edu.cn/idp/shibboleth": {
+        "en": "Guangzhou Academy of Fine Arts",
+        "zh": "广州美术学院(Guangzhou Academy of Fine Arts)"
+    },
     "https://idp.gznu.edu.cn/idp/shibboleth": {
         "en": "Guizhou Normal University",
         "zh": "贵州师范大学(Guizhou Normal University)"
@@ -1166,6 +1170,10 @@
     "https://idp.lzu.edu.cn/idp/shibboleth": {
         "en": "Lanzhou University",
         "zh": "兰州大学(Lanzhou University)"
+    },
+    "https://idp.mdit.edu.cn/idp/shibboleth": {
+        "en": "Xi'an Mingde Institute Of Technology",
+        "zh": "西安明德理工学院(Xi'an Mingde Institute Of Technology)"
     },
     "https://idp.mju.edu.cn/idp/shibboleth": {
         "en": "MinJiang University",
