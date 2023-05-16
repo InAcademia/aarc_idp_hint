@@ -8399,6 +8399,10 @@
             "en": "Finnish Meteorological Institute",
             "sv": "Meteorologiska institutet"
         },
+        "https://sso.utu.fi/auth/realms/fed": {
+            "en": "University of Turku (new)",
+            "sv": "Åbo universitet (nytt)"
+        },
         "https://sso.utu.fi/sso-idp": {
             "en": "University of Turku",
             "sv": "Åbo universitet"
