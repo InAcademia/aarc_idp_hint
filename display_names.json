@@ -616,6 +616,7 @@
     "https://eduid.abtk.hu/simplesaml/saml2/idp/metadata.php": "Research Centre for the Humanities",
     "https://eduid.campus02.at/idp/shibboleth": "FH CAMPUS 02",
     "https://eduid.ch/idp/shibboleth": "SWITCH edu-ID",
+    "https://eduid.collegium-carolinum.de/idp/shibboleth": "Collegium Carolinum",
     "https://eduid.czu.cz/idp/shibboleth": "Czech University of Life Sciences Prague",
     "https://eduid.fno.cz/idp/shibboleth": "University Hospital Ostrava",
     "https://eduid.irsm.cas.cz/idp/shibboleth": "Institute of Rock Structure and Mechanics of The Czech Academy of Sciences",

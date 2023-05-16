@@ -4696,6 +4696,10 @@
             "cs": "Městská knihovna a infocentrum Dolní Bousov",
             "en": "Municipal Library and Infocentre in Dolni Bousov"
         },
+        "https://eduid.collegium-carolinum.de/idp/shibboleth": {
+            "cs": "Collegium Carolinum",
+            "en": "Collegium Carolinum"
+        },
         "https://eduid.czu.cz/idp/shibboleth": {
             "cs": "Česká zemědělská univerzita v Praze",
             "en": "Czech University of Life Sciences Prague"
