@@ -17801,9 +17801,6 @@
         "https://cumin.plu.edu/idp/shibboleth": {
             "en": "Pacific Lutheran University"
         },
-        "https://duo.emerson.edu/dag/saml2/idp/metadata.php": {
-            "en": "Emerson College"
-        },
         "https://eidp.llnl.gov": {
             "en": "Lawrence Livermore National Laboratory"
         },
