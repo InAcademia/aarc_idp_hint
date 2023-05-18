@@ -1535,10 +1535,6 @@
             "en": "ON - Observatorio Nacional",
             "pt-br": "ON - Observatorio Nacional"
         },
-        "https://shibboleth.pqtec.org.br/idp/shibboleth": {
-            "en": "APTSJC - Associacao Parque Tecnologico Sao Jose dos Campos",
-            "pt-br": "APTSJC - Associacao Parque Tecnologico Sao Jose dos Campos"
-        },
         "https://shibboleth.uezo.edu.br/idp/shibboleth": {
             "en": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste",
             "pt-br": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste"
