@@ -4062,6 +4062,10 @@
             "en": "Tianjin University of Technology",
             "zh": "天津理工大学(Tianjin University of Technology)"
         },
+        "https://idp.tjzhic.edu.cn/idp/shibboleth": {
+            "en": "Zhonghuan Information College Tianjin University of Technology",
+            "zh": "天津理工大学中环信息学院(Zhonghuan Information College Tianjin University of Technology)"
+        },
         "https://idp.tlu.edu.cn/idp/shibboleth": {
             "en": "Tongling University",
             "zh": "铜陵学院(Tongling University)"
