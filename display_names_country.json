@@ -11889,6 +11889,10 @@
             "en": "National Institute for Fusion Science (extic)",
             "ja": "核融合科学研究所 (extic)"
         },
+        "https://nipr.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "National Institute of Polar Research",
+            "ja": "国立極地研究所"
+        },
         "https://odidp.cc.okayama-u.ac.jp/idp/shibboleth": {
             "en": "Okayama University",
             "ja": "岡山大学"
