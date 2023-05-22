@@ -256,7 +256,6 @@
     "http://sts.vumc.nl/adfs/services/trust": "VU medisch centrum",
     "http://sts.windesheim.nl/adfs/services/trust": "Windesheim University of Applied Sciences",
     "http://sts.wsiz.rzeszow.pl/adfs/services/trust": "University of Information Technology and Management in Rzeszow",
-    "http://sts.zonmw.nl/adfs/services/trust": "ZonMw [Old]",
     "http://sts1.ksau-hs.edu.sa/adfs/services/trust": "King Saud Bin Abdulaziz University for Health Sciences",
     "http://sts4.rocwb.nl/adfs/services/trust": "Curio",
     "http://stsfed.login.vu.nl/adfs/services/trust": "Vrije Universiteit Amsterdam",

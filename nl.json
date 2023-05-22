@@ -291,10 +291,6 @@
         "en": "Windesheim University of Applied Sciences",
         "nl": "Hogeschool Windesheim"
     },
-    "http://sts.zonmw.nl/adfs/services/trust": {
-        "en": "ZonMw [Old]",
-        "nl": "ZonMw [Oud]"
-    },
     "http://sts4.rocwb.nl/adfs/services/trust": {
         "en": "Curio",
         "nl": "Curio"
