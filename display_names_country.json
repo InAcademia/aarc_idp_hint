@@ -4434,6 +4434,10 @@
             "en": "Yangzhou University",
             "zh": "扬州大学(Yangzhou University)"
         },
+        "https://idp.zafu.edu.cn/idp/shibboleth": {
+            "en": "Zhejiang A&F University",
+            "zh": "浙江农林大学(Zhejiang A&F University)"
+        },
         "https://idp.zcmu.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Chinese Medical  University",
             "zh": "浙江中医药大学(Zhejiang Chinese Medical  University)"
