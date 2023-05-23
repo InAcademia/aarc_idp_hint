@@ -2,9 +2,6 @@
     "http://adfs.ad.und.edu/adfs/services/trust": {
         "en": "University of North Dakota"
     },
-    "http://adfs.amnh.org/adfs/services/trust": {
-        "en": "American Museum of Natural History - Richard Gilder Graduate School"
-    },
     "http://adfs.nic.edu/adfs/services/trust": {
         "en": "North Idaho College"
     },
@@ -1089,7 +1086,7 @@
         "en": "Vanderbilt University (VU)"
     },
     "https://sso.amnh.org/idp": {
-        "en": "American Museum of Natural History - Richard Gilder Graduate School - Cirrus Bridge"
+        "en": "American Museum of Natural History - Richard Gilder Graduate School"
     },
     "https://sso.athena-institute.net/idp": {
         "en": "Athena Institute - Azure AD"
