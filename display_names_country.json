@@ -1019,6 +1019,10 @@
             "en": "UERJ - Universidade do Estado do Rio de Janeiro",
             "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
         },
+        "https://idp-cafe.cemaden.gov.br/idp/shibboleth": {
+            "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
+            "pt-br": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais"
+        },
         "https://idp-cafe.cp2.g12.br/idp/shibboleth": {
             "en": "CP2 - Colegio Pedro II",
             "pt-br": "CP2 - Colegio Pedro II"
@@ -1114,10 +1118,6 @@
         "https://idp.cefetmg.br/idp/shibboleth": {
             "en": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais",
             "pt-br": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais"
-        },
-        "https://idp.cemaden.gov.br/idp/shibboleth": {
-            "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
-            "pt-br": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais"
         },
         "https://idp.cnen.gov.br/idp/shibboleth": {
             "en": "CNEN - Comissao Nacional de Energia Nuclear",
