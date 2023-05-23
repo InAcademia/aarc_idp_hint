@@ -87,6 +87,10 @@
         "en": "Fukushima Medical University",
         "ja": "福島県立医科大学"
     },
+    "https://idp.fun.ac.jp/idp/shibboleth": {
+        "en": "Future University Hakodate",
+        "ja": "公立はこだて未来大学"
+    },
     "https://idp.gakunin.nii.ac.jp/idp/shibboleth": {
         "en": "GakuNin IdP",
         "ja": "学認IdP"
