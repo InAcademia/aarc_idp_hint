@@ -12350,11 +12350,17 @@
         "https://lka-idp.lanet.lv": {
             "en": "Latvian Academy of Culture"
         },
+        "https://lkk-idp.lanet.lv": {
+            "en": "Latvian College of Culture at the Latvian Academy of Culture"
+        },
         "https://lma-idp.lanet.lv": {
             "en": "Art Academy of Latvia"
         },
         "https://lmuza-idp.lanet.lv": {
             "en": "Latvian Academy of Music"
+        },
+        "https://lnna-idp.lanet.lv": {
+            "en": "National Defence Academy of Latvia"
         },
         "https://lu-idp.lu.lv": {
             "en": "University of Latvia"
