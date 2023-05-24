@@ -11,6 +11,10 @@
         "de": "Universität Speyer",
         "en": "Universität Speyer"
     },
+    "https://aai.helmholtz-muenchen.de/idp/shibboleth": {
+        "de": "Helmholtz Zentrum München GmbH (HMGU)",
+        "en": "Helmholtz Zentrum Muenchen GmbH (HMGU)"
+    },
     "https://aai.hfk-bremen.de/idp/shibboleth": {
         "de": "Hochschule für Künste Bremen",
         "en": "University of the Arts Bremen"
