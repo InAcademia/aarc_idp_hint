@@ -603,6 +603,7 @@
     "https://ec2-52-6-26-82.compute-1.amazonaws.com/idp/shibboleth": "JUCC Institution",
     "https://edi.izum.si/idp/20100722": "IZUM",
     "https://eduID.uni.lu/simplesaml/saml2/idp/metadata.php": "University of Luxembourg",
+    "https://educonnect.education.gouv.fr/idp": "ÉduConnect",
     "https://edugain-proxy.igtf.net/simplesaml/saml2/idp/metadata.php": "IGTF Certificate Proxy",
     "https://edugain.dpu.edu.tr/idp/shibboleth": "Kutahya Dumlupinar University",
     "https://edugain.mu-pleven.bg/idp/shibboleth": "Medical University Pleven",
