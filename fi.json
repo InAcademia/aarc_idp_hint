@@ -168,12 +168,12 @@
         "sv": "Meteorologiska institutet"
     },
     "https://sso.utu.fi/auth/realms/fed": {
-        "en": "University of Turku (new)",
-        "sv": "Åbo universitet (nytt)"
-    },
-    "https://sso.utu.fi/sso-idp": {
         "en": "University of Turku",
         "sv": "Åbo universitet"
+    },
+    "https://sso.utu.fi/sso-idp": {
+        "en": "University of Turku (old)",
+        "sv": "Åbo universitet (gamla)"
     },
     "https://sts.psshp.fi/idp/haka": {
         "en": "Kuopio University Hospital",

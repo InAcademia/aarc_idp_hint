@@ -2518,6 +2518,10 @@
             "en": "Wenzhou-Kean University",
             "zh": "温州肯恩大学(Wenzhou-Kean University)"
         },
+        "https://idp-lib.xjust.edu.cn/idp/shibboleth": {
+            "en": "Xinjiang University of Science & Technology",
+            "zh": "新疆科技学院(Xinjiang University of Science & Technology)"
+        },
         "https://idp-lib.ytu.edu.cn/idp/shibboleth": {
             "en": "Yantai University",
             "zh": "烟台大学(Yantai University)"
@@ -8436,12 +8440,12 @@
             "sv": "Meteorologiska institutet"
         },
         "https://sso.utu.fi/auth/realms/fed": {
-            "en": "University of Turku (new)",
-            "sv": "Åbo universitet (nytt)"
-        },
-        "https://sso.utu.fi/sso-idp": {
             "en": "University of Turku",
             "sv": "Åbo universitet"
+        },
+        "https://sso.utu.fi/sso-idp": {
+            "en": "University of Turku (old)",
+            "sv": "Åbo universitet (gamla)"
         },
         "https://sts.psshp.fi/idp/haka": {
             "en": "Kuopio University Hospital",
@@ -9400,10 +9404,6 @@
         "https://papangue.vetagro-sup.fr/idp/shibboleth": {
             "en": "IDP vetagro sup PROD",
             "fr": "Vetagro Sup"
-        },
-        "https://pr4.educonnect.phm.education.gouv.fr/idp": {
-            "en": "ÉduConnect - PR4",
-            "fr": "ÉduConnect - PR4"
         },
         "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": {
             "en": "CAMPUS CONDORCET",
