@@ -1,7 +1,7 @@
 {
     "http://proxy.safire.ac.za/birk.php/federate.sun.ac.za/adfs/services/trust": {
         "en": "Stellenbosch University",
-        "xh": "iYunivesithi Stellenbosch"
+        "en-ZA": "Stellenbosch University"
     },
     "http://proxy.safire.ac.za/birk.php/federate.ufh.ac.za/adfs/services/trust": {
         "en": "University of Fort Hare"
