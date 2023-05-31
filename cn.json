@@ -1331,6 +1331,10 @@
         "en": "Northwest University - China",
         "zh": "西北大学(Northwest University - China)"
     },
+    "https://idp.nwupl.edu.cn/idp/shibboleth": {
+        "en": "Northwest University of Political Science and Law",
+        "zh": "西北政法大学(Northwest University of Political Science and Law)"
+    },
     "https://idp.nxcy.edu.cn/idp/shibboleth": {
         "en": "Ningxia Vocational College of Finance and Economics",
         "zh": "宁夏财经职业技术学院(Ningxia Vocational College of Finance and Economics)"
@@ -2154,6 +2158,10 @@
     "https://idp.zjtie.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Technical Institute of Economics",
         "zh": "浙江经济职业技术学院(Zhejiang Technical Institute of Economics)"
+    },
+    "https://idp.zjtu.edu.cn/idp/shibboleth": {
+        "en": "Huanghe Jiaotong  University",
+        "zh": "黄河交通学院(Huanghe Jiaotong  University)"
     },
     "https://idp.zju.edu.cn/idp/shibboleth": {
         "en": "Zhejiang University",
