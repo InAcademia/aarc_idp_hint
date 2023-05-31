@@ -13221,8 +13221,8 @@
             "nl": "Drenthe College"
         },
         "http://sts.hhs.nl/adfs/services/trust": {
-            "en": "The Hague University of Applied Science (THUAS)",
-            "nl": "De Haagse Hogeschool (HHS)"
+            "en": "The Hague University of Applied Science (THUAS)[Old]",
+            "nl": "De Haagse Hogeschool (HHS) [Oud]"
         },
         "http://sts.horizoncollege.nl/adfs/services/trust": {
             "en": "ROC Horizon College",
@@ -13527,6 +13527,10 @@
         "https://sts.windows.net/9e1bc3f2-7f34-4476-9dc5-0946672d5de5/": {
             "en": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)",
             "nl": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)"
+        },
+        "https://sts.windows.net/a2586b9b-f867-4b3c-9363-5b435c5dbc45/": {
+            "en": "The Hague University of Applied Science (THUAS)",
+            "nl": "De Haagse Hogeschool (HHS)"
         },
         "https://sts.windows.net/a5e979d8-8360-45bb-8ad6-7632c0fd5e90/": {
             "en": "Politieacademie",
