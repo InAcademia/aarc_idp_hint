@@ -2,6 +2,9 @@
     "http://iam.auckland.ac.nz/idp": {
         "en": "The University of Auckland"
     },
+    "https://hosted-login.tuakiri.ac.nz/hosting/cawthron.org.nz/idp/shibboleth": {
+        "en": "Cawthron Institute"
+    },
     "https://hosted-login.tuakiri.ac.nz/hosting/malaghan.org.nz/idp/shibboleth": {
         "en": "Malaghan Institute of Medical Research"
     },

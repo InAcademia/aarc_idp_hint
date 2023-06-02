@@ -12471,9 +12471,6 @@
         }
     },
     "my": {
-        "https://idf.upm.edu.my/idp/shibboleth": {
-            "en": "Universiti Putra Malaysia"
-        },
         "https://idp.imu.edu.my/idp/shibboleth": {
             "en": "International Medical University"
         },
@@ -12497,9 +12494,6 @@
         },
         "https://sifulan.utar.edu.my/idp/shibboleth": {
             "en": "Universiti Tunku Abdul Rahman"
-        },
-        "https://sifulan.uthm.edu.my/idp/shibboleth": {
-            "en": "Universiti Tun Hussein Onn"
         },
         "https://sso.cckk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kuala Kangsar"
@@ -12887,9 +12881,6 @@
         },
         "https://sso.university.unimas.my/idp/shibboleth": {
             "en": "Universiti Malaysia Sarawak"
-        },
-        "https://umsidp.ums.edu.my/idp/shibboleth": {
-            "en": "Universiti Malaysia Sabah"
         },
         "https://vho.sifulan.my/idp/shibboleth": {
             "en": "SIFULAN Virtual Home"
@@ -13552,6 +13543,10 @@
             "en": "MBO Utrecht",
             "nl": "MBO Utrecht"
         },
+        "https://sts.windows.net/b208fe69-471e-48c4-8d87-025e9b9a157f/": {
+            "en": "Radboudumc (MS Azure AD)",
+            "nl": "Radboudumc (MS Azure AD)"
+        },
         "https://sts.windows.net/b22efcc5-4674-4e3c-83e4-0a9982ce09cd/": {
             "en": "Hout- en Meubileringscollege",
             "nl": "Hout- en Meubileringscollege"
@@ -13610,6 +13605,9 @@
     "nz": {
         "http://iam.auckland.ac.nz/idp": {
             "en": "The University of Auckland"
+        },
+        "https://hosted-login.tuakiri.ac.nz/hosting/cawthron.org.nz/idp/shibboleth": {
+            "en": "Cawthron Institute"
         },
         "https://hosted-login.tuakiri.ac.nz/hosting/malaghan.org.nz/idp/shibboleth": {
             "en": "Malaghan Institute of Medical Research"
