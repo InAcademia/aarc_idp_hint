@@ -146,6 +146,9 @@
     "https://idp.hmlibrary.ac.in/idp/shibboleth": {
         "en": "The Maharaja Sayajirao University (MSU) of Baroda"
     },
+    "https://idp.iare.ac.in/idp/shibboleth": {
+        "en": "Institute of Aeronautical Engineering"
+    },
     "https://idp.ignou.ac.in/idp/shibboleth": {
         "en": "Indira Gandhi National Open University (IGNOU)"
     },

@@ -10739,6 +10739,9 @@
         "https://idp.hmlibrary.ac.in/idp/shibboleth": {
             "en": "The Maharaja Sayajirao University (MSU) of Baroda"
         },
+        "https://idp.iare.ac.in/idp/shibboleth": {
+            "en": "Institute of Aeronautical Engineering"
+        },
         "https://idp.ignou.ac.in/idp/shibboleth": {
             "en": "Indira Gandhi National Open University (IGNOU)"
         },
@@ -12351,6 +12354,9 @@
         "https://id2.rtu.lv:443/openam": {
             "en": "Riga Technical University"
         },
+        "https://idp.laife.lv/saml-idp": {
+            "en": "https://idp.laife.lv/saml-idp"
+        },
         "https://idp.llu.lv/idp/shibboleth": {
             "en": "Latvia University of Agriculture"
         },
@@ -13544,8 +13550,8 @@
             "nl": "MBO Utrecht"
         },
         "https://sts.windows.net/b208fe69-471e-48c4-8d87-025e9b9a157f/": {
-            "en": "Radboudumc (MS Azure AD)",
-            "nl": "Radboudumc (MS Azure AD)"
+            "en": "Radboudumc",
+            "nl": "Radboudumc"
         },
         "https://sts.windows.net/b22efcc5-4674-4e3c-83e4-0a9982ce09cd/": {
             "en": "Hout- en Meubileringscollege",

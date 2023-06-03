@@ -8,6 +8,9 @@
     "https://id2.rtu.lv:443/openam": {
         "en": "Riga Technical University"
     },
+    "https://idp.laife.lv/saml-idp": {
+        "en": "https://idp.laife.lv/saml-idp"
+    },
     "https://idp.llu.lv/idp/shibboleth": {
         "en": "Latvia University of Agriculture"
     },
