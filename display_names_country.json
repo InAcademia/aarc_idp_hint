@@ -11996,6 +11996,10 @@
             "en": "Professional University of Information and Management for Innovation",
             "ja": "情報経営イノベーション専門職大学"
         },
+        "https://sshibo.at-hyogo.ac.jp/idp/shibboleth": {
+            "en": "Professional College of Arts and Tourism",
+            "ja": "芸術文化観光専門職大学"
+        },
         "https://sso.sugiyama-u.ac.jp/idp/shibboleth": {
             "en": "Sugiyama Jogakuen University",
             "ja": "椙山女学園大学"
@@ -13922,6 +13926,11 @@
             "en": "University of Nizwa (OM-KID)"
         }
     },
+    "org": {
+        "https://idp.somaliren.org.so/idp/shibboleth": {
+            "en": "Somali Research and Education Network"
+        }
+    },
     "pk": {
         "https://idp.bahria.edu.pk/idp/shibboleth": {
             "en": "Bahria University Pakistan"
@@ -15627,6 +15636,10 @@
         "https://kimlik.galata.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Istanbul Galata University",
             "tr": "İstanbul Galata Üniversitesi"
+        },
+        "https://kimlik.gantep.edu.tr/idp/shibboleth": {
+            "en": "Gaziantep University",
+            "tr": "Gaziantep Üniversitesi"
         },
         "https://kimlik.hacettepe.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Hacettepe University",

@@ -347,6 +347,10 @@
         "en": "Istanbul Galata University",
         "tr": "İstanbul Galata Üniversitesi"
     },
+    "https://kimlik.gantep.edu.tr/idp/shibboleth": {
+        "en": "Gaziantep University",
+        "tr": "Gaziantep Üniversitesi"
+    },
     "https://kimlik.hacettepe.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Hacettepe University",
         "tr": "Hacettepe Üniversitesi"
