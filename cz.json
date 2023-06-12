@@ -671,6 +671,10 @@
         "cs": "Městská knihovna Tábor",
         "en": "Municipal Library Tábor"
     },
+    "https://knihovnatnv.cz/idp/shibboleth": {
+        "cs": "Městská knihovna v Týně nad Vltavou",
+        "en": "Municipal Library in Týn nad Vltavou"
+    },
     "https://knihovnatr.cz/idp/shibboleth": {
         "cs": "Městská knihovna v Třebíči",
         "en": "Municipal Library in Třebíč"

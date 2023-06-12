@@ -471,6 +471,10 @@
         "en": "Hogeschool KPZ",
         "nl": "Hogeschool KPZ"
     },
+    "https://sts.windows.net/4a00b7a2-db78-4196-ad5c-0fb1f9927352/": {
+        "en": "IBFD - International Bureau of Fiscal Documentation",
+        "nl": "IBFD - International Bureau of Fiscal Documentation"
+    },
     "https://sts.windows.net/559810d7-8507-4658-b938-950c1342ba79/": {
         "en": "Openbare Bibliotheek Amsterdam (OBA)",
         "nl": "Openbare Bibliotheek Amsterdam (OBA)"
@@ -575,6 +579,10 @@
         "en": "Politieacademie",
         "nl": "Politieacademie"
     },
+    "https://sts.windows.net/a8294dac-16db-4321-836a-c3caa9c7a8a6/": {
+        "en": "KWR Water Research Institute",
+        "nl": "KWR Water Research Institute"
+    },
     "https://sts.windows.net/aabe793f-b39c-440c-8e1a-0dcfb6215609/": {
         "en": "Codarts University of the Arts",
         "nl": "Codarts Hogeschool voor de Kunsten"
@@ -603,6 +611,10 @@
         "en": "ROC Mondriaan",
         "nl": "ROC Mondriaan"
     },
+    "https://sts.windows.net/b50ab01a-ef48-493a-95bb-0002f26d02a1/": {
+        "en": "Rijnstate Ziekenhuis",
+        "nl": "Rijnstate Ziekenhuis"
+    },
     "https://sts.windows.net/b5c9c18a-44f0-434b-85fb-951322bf0eac/": {
         "en": "ROC Midden Nederland",
         "nl": "ROC Midden Nederland"
@@ -610,6 +622,10 @@
     "https://sts.windows.net/c2e4234e-9ccc-490e-8151-acd2ed2b1779/": {
         "en": "ArtEZ University of the Arts",
         "nl": "ArtEZ University of the Arts"
+    },
+    "https://sts.windows.net/c66b6765-b794-4a2b-84ed-845b341c086a/": {
+        "en": "Fontys University of Applied Sciences (MS Azure AD)",
+        "nl": "Fontys Hogeschool (MS Azure AD)"
     },
     "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
         "en": "HAS green academy",

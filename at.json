@@ -63,6 +63,10 @@
         "de": "FH Wien der WKW",
         "en": "FH Wien -- University of Applied Sciences for Management & Communication"
     },
+    "https://idp.gmpu.ac.at/idp/shibboleth": {
+        "de": "Gustav Mahler Privatuniversität",
+        "en": "Gustav Mahler Private University"
+    },
     "https://idp.haydnkons.at/idp/shibboleth": {
         "de": "Joseph Haydn Konservatorium",
         "en": "Joseph Haydn Conservatory"
