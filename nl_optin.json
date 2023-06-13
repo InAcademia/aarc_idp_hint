@@ -323,6 +323,10 @@
         "en": "ArtEZ University of the Arts",
         "nl": "ArtEZ University of the Arts"
     },
+    "https://sts.windows.net/c66b6765-b794-4a2b-84ed-845b341c086a/": {
+        "en": "Fontys University of Applied Sciences (MS Azure AD)",
+        "nl": "Fontys Hogeschool (MS Azure AD)"
+    },
     "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
         "en": "HAS green academy",
         "nl": "HAS green academy"
