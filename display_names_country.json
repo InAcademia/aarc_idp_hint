@@ -2042,6 +2042,9 @@
         "https://sso.coastmountaincollege.ca/idp": {
             "en": "Coast Mountain College"
         },
+        "https://sso.dal.ca/idp": {
+            "en": "Dalhousie University Authentication Bridge"
+        },
         "https://sso.douglascollege.ca/idp": {
             "en": "Douglas College"
         },
@@ -4473,6 +4476,10 @@
         "https://idp.zhongxi.cn/idp/shibboleth": {
             "en": "The Central Academy of Drama",
             "zh": "中央戏剧学院(The Central Academy of Drama)"
+        },
+        "https://idp.zimc.edu.cn/idp/shibboleth": {
+            "en": "Zhejiang International Maritime College",
+            "zh": "浙江国际海运职业技术学院(Zhejiang International Maritime College)"
         },
         "https://idp.zit.edu.cn/idp/shibboleth": {
             "en": "Zhengzhou University of Science and Technology",
@@ -9510,8 +9517,8 @@
             "fr": "Institut Catholique de Toulouse - ICT"
         },
         "https://shibboleth.insa-rouen.fr/idp/shibboleth": {
-            "en": "INSA de Rouen",
-            "fr": "INSA de Rouen"
+            "en": "INSA Rouen Normandie",
+            "fr": "INSA Rouen Normandie"
         },
         "https://shibboleth.reseau-canope.fr/idp/shibboleth": {
             "en": "Réseau Canopé",
@@ -13069,10 +13076,6 @@
             "en": "Hogeschool de Kempel",
             "nl": "Hogeschool de Kempel"
         },
-        "http://adfs2.fontys.nl/adfs/services/trust": {
-            "en": "Fontys University of Applied Sciences",
-            "nl": "Fontys Hogeschool"
-        },
         "http://adfs3prod.aventus.nl/adfs/services/trust": {
             "en": "ROC Aventus",
             "nl": "ROC Aventus"
@@ -13610,8 +13613,8 @@
             "nl": "ArtEZ University of the Arts"
         },
         "https://sts.windows.net/c66b6765-b794-4a2b-84ed-845b341c086a/": {
-            "en": "Fontys University of Applied Sciences (MS Azure AD)",
-            "nl": "Fontys Hogeschool (MS Azure AD)"
+            "en": "Fontys University of Applied Sciences",
+            "nl": "Fontys Hogeschool"
         },
         "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
             "en": "HAS green academy",
