@@ -695,6 +695,10 @@
         "de": "Max-Planck-Institut für Marine Mikrobiologie",
         "en": "Max Planck Institute for Marine  Microbiology"
     },
+    "https://idp.mpi-hd.mpg.de/idp/shibboleth": {
+        "de": "Max-Planck-Institut für Kernphysik",
+        "en": "Max Planck Institute for Nuclear Physics"
+    },
     "https://idp.mpi-inf.mpg.de/mpii-idp/shibboleth": {
         "de": "Max-Planck-Institut für Informatik",
         "en": "Max Planck Institute for Informatics"

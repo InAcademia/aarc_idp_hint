@@ -16,16 +16,16 @@
         "en": "Dalhousie University"
     },
     "http://adfs.lacitec.on.ca/adfs/services/trust": {
-        "en": "La CitÃ©",
-        "fr": "La CitÃ©"
+        "en": "La Cité",
+        "fr": "La Cité"
     },
     "http://adfs.uqar.ca/adfs/services/trust": {
-        "en": "UniversitÃ© du QuÃ©bec Ã  Rimouski (UQAR)",
-        "fr": "UniversitÃ© du QuÃ©bec Ã  Rimouski (UQAR)"
+        "en": "Université du Québec Ã Rimouski (UQAR)",
+        "fr": "Université du Québec Ã Rimouski (UQAR)"
     },
     "http://adfs.uqat.ca/adfs/services/trust": {
-        "en": "UniversitÃ© du QuÃ©bec en Abitibi-TÃ©miscamingue",
-        "fr": "UniversitÃ© du QuÃ©bec en Abitibi-TÃ©miscamingue"
+        "en": "Université du Québec en Abitibi-Témiscamingue",
+        "fr": "Université du Québec en Abitibi-Témiscamingue"
     },
     "http://adfs.viu.ca/adfs/services/trust": {
         "en": "Vancouver Island University"
@@ -53,8 +53,8 @@
         "en": "College of the Rockies"
     },
     "http://fs.etsmtl.ca/adfs/services/trust": {
-        "en": "Ã‰cole de technologie supÃ©rieure",
-        "fr": "Ã‰cole de technologie supÃ©rieure"
+        "en": "École de technologie supérieure",
+        "fr": "École de technologie supérieure"
     },
     "http://fs.nic.bc.ca/adfs/services/trust": {
         "en": "North Island College"
@@ -67,8 +67,8 @@
         "fr": "Université du Québec à Chicoutimi"
     },
     "http://login.collegeboreal.ca": {
-        "en": "CollÃ¨ge BorÃ©al",
-        "fr": "CollÃ¨ge BorÃ©al"
+        "en": "Collège Boréal",
+        "fr": "Collège Boréal"
     },
     "http://login.sheridanc.on.ca": {
         "en": "Sheridan College"
@@ -92,8 +92,8 @@
         "en": "University of Winnipeg"
     },
     "https://auth.enap.ca/cas/idp": {
-        "en": "Ã‰cole nationale d'administration publique",
-        "fr": "Ã‰cole nationale d'administration publique"
+        "en": "École nationale d'administration publique",
+        "fr": "École nationale d'administration publique"
     },
     "https://auth.kpu.ca/idp/shibboleth": {
         "en": "Kwantlen Polytechnic University"
@@ -102,8 +102,8 @@
         "en": "University of British Columbia"
     },
     "https://authentification.uqo.ca/cas/idp": {
-        "en": "UniversitÃ© du QuÃ©bec en Outaouais",
-        "fr": "UniversitÃ© du QuÃ©bec en Outaouais"
+        "en": "Université du Québec en Outaouais",
+        "fr": "Université du Québec en Outaouais"
     },
     "https://caf-fsso.smu.ca/idp/shibboleth": {
         "en": "Saint Mary's University Federated Single Sign-On(SSO)"
@@ -196,8 +196,8 @@
         "en": "University of Lethbridge"
     },
     "https://idp.umoncton.ca/idp/shibboleth": {
-        "en": "UniversitÃ© de Moncton",
-        "fr": "UniversitÃ© de Moncton"
+        "en": "Université de Moncton",
+        "fr": "Université de Moncton"
     },
     "https://idp.unb.ca/idp/shibboleth": {
         "en": "University of New Brunswick"
@@ -209,8 +209,8 @@
         "en": "University of Prince Edward Island"
     },
     "https://idp.uqam.ca/idp/shibboleth": {
-        "en": "UQAM | UniversitÃ© du QuÃ©bec Ã  MontrÃ©al",
-        "fr": "UQAM | UniversitÃ© du QuÃ©bec Ã  MontrÃ©al"
+        "en": "UQAM | Université du Québec à Montréal",
+        "fr": "UQAM | Université du Québec à Montréal"
     },
     "https://idp.uregina.ca/idp/shibboleth": {
         "en": "University of Regina"
@@ -259,8 +259,8 @@
         "en": "Humber College"
     },
     "https://shib.cmaisonneuve.qc.ca/idp/shibboleth": {
-        "en": "CollÃ¨ge de Maisonneuve",
-        "fr": "CollÃ¨ge de Maisonneuve"
+        "en": "Collège de Maisonneuve",
+        "fr": "Collège de Maisonneuve"
     },
     "https://shib.svc.ulaval.ca/idp/shibboleth": {
         "en": "Université Laval",
@@ -284,16 +284,16 @@
         "en": "University of Calgary"
     },
     "https://shibboleth.umontreal.ca/idp/shibboleth": {
-        "en": "UniversitÃ© de MontrÃ©al",
-        "fr": "UniversitÃ© de MontrÃ©al"
+        "en": "Université de Montréal",
+        "fr": "Université de Montréal"
     },
     "https://shibboleth.usherbrooke.ca/idp/shibboleth": {
         "en": "Université de Sherbrooke",
         "fr": "Université de Sherbrooke"
     },
     "https://shibboleth2.polymtl.ca/idp/shibboleth": {
-        "en": "Polytechnique MontrÃ©al",
-        "fr": "Polytechnique MontrÃ©al"
+        "en": "Polytechnique Montréal",
+        "fr": "Polytechnique Montréal"
     },
     "https://shibidp.uwo.ca/idp/shibboleth": {
         "en": "University of Western Ontario"

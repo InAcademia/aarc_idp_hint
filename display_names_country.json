@@ -1539,10 +1539,6 @@
             "en": "ON - Observatorio Nacional",
             "pt-br": "ON - Observatorio Nacional"
         },
-        "https://shibboleth.uezo.edu.br/idp/shibboleth": {
-            "en": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste",
-            "pt-br": "UEZO - Fundacao Centro Universitario Estadual da Zona Oeste"
-        },
         "https://shibboleth.ufg.br/idp/shibboleth": {
             "en": "UFG - Universidade Federal de Goias",
             "pt-br": "UFG - Universidade Federal de Goias"
@@ -1754,16 +1750,16 @@
             "en": "Dalhousie University"
         },
         "http://adfs.lacitec.on.ca/adfs/services/trust": {
-            "en": "La CitÃ©",
-            "fr": "La CitÃ©"
+            "en": "La Cité",
+            "fr": "La Cité"
         },
         "http://adfs.uqar.ca/adfs/services/trust": {
-            "en": "UniversitÃ© du QuÃ©bec Ã  Rimouski (UQAR)",
-            "fr": "UniversitÃ© du QuÃ©bec Ã  Rimouski (UQAR)"
+            "en": "Université du Québec Ã Rimouski (UQAR)",
+            "fr": "Université du Québec Ã Rimouski (UQAR)"
         },
         "http://adfs.uqat.ca/adfs/services/trust": {
-            "en": "UniversitÃ© du QuÃ©bec en Abitibi-TÃ©miscamingue",
-            "fr": "UniversitÃ© du QuÃ©bec en Abitibi-TÃ©miscamingue"
+            "en": "Université du Québec en Abitibi-Témiscamingue",
+            "fr": "Université du Québec en Abitibi-Témiscamingue"
         },
         "http://adfs.viu.ca/adfs/services/trust": {
             "en": "Vancouver Island University"
@@ -1791,8 +1787,8 @@
             "en": "College of the Rockies"
         },
         "http://fs.etsmtl.ca/adfs/services/trust": {
-            "en": "Ã‰cole de technologie supÃ©rieure",
-            "fr": "Ã‰cole de technologie supÃ©rieure"
+            "en": "École de technologie supérieure",
+            "fr": "École de technologie supérieure"
         },
         "http://fs.nic.bc.ca/adfs/services/trust": {
             "en": "North Island College"
@@ -1805,8 +1801,8 @@
             "fr": "Université du Québec à Chicoutimi"
         },
         "http://login.collegeboreal.ca": {
-            "en": "CollÃ¨ge BorÃ©al",
-            "fr": "CollÃ¨ge BorÃ©al"
+            "en": "Collège Boréal",
+            "fr": "Collège Boréal"
         },
         "http://login.sheridanc.on.ca": {
             "en": "Sheridan College"
@@ -1830,8 +1826,8 @@
             "en": "University of Winnipeg"
         },
         "https://auth.enap.ca/cas/idp": {
-            "en": "Ã‰cole nationale d'administration publique",
-            "fr": "Ã‰cole nationale d'administration publique"
+            "en": "École nationale d'administration publique",
+            "fr": "École nationale d'administration publique"
         },
         "https://auth.kpu.ca/idp/shibboleth": {
             "en": "Kwantlen Polytechnic University"
@@ -1840,8 +1836,8 @@
             "en": "University of British Columbia"
         },
         "https://authentification.uqo.ca/cas/idp": {
-            "en": "UniversitÃ© du QuÃ©bec en Outaouais",
-            "fr": "UniversitÃ© du QuÃ©bec en Outaouais"
+            "en": "Université du Québec en Outaouais",
+            "fr": "Université du Québec en Outaouais"
         },
         "https://caf-fsso.smu.ca/idp/shibboleth": {
             "en": "Saint Mary's University Federated Single Sign-On(SSO)"
@@ -1934,8 +1930,8 @@
             "en": "University of Lethbridge"
         },
         "https://idp.umoncton.ca/idp/shibboleth": {
-            "en": "UniversitÃ© de Moncton",
-            "fr": "UniversitÃ© de Moncton"
+            "en": "Université de Moncton",
+            "fr": "Université de Moncton"
         },
         "https://idp.unb.ca/idp/shibboleth": {
             "en": "University of New Brunswick"
@@ -1947,8 +1943,8 @@
             "en": "University of Prince Edward Island"
         },
         "https://idp.uqam.ca/idp/shibboleth": {
-            "en": "UQAM | UniversitÃ© du QuÃ©bec Ã  MontrÃ©al",
-            "fr": "UQAM | UniversitÃ© du QuÃ©bec Ã  MontrÃ©al"
+            "en": "UQAM | Université du Québec à Montréal",
+            "fr": "UQAM | Université du Québec à Montréal"
         },
         "https://idp.uregina.ca/idp/shibboleth": {
             "en": "University of Regina"
@@ -1997,8 +1993,8 @@
             "en": "Humber College"
         },
         "https://shib.cmaisonneuve.qc.ca/idp/shibboleth": {
-            "en": "CollÃ¨ge de Maisonneuve",
-            "fr": "CollÃ¨ge de Maisonneuve"
+            "en": "Collège de Maisonneuve",
+            "fr": "Collège de Maisonneuve"
         },
         "https://shib.svc.ulaval.ca/idp/shibboleth": {
             "en": "Université Laval",
@@ -2022,16 +2018,16 @@
             "en": "University of Calgary"
         },
         "https://shibboleth.umontreal.ca/idp/shibboleth": {
-            "en": "UniversitÃ© de MontrÃ©al",
-            "fr": "UniversitÃ© de MontrÃ©al"
+            "en": "Université de Montréal",
+            "fr": "Université de Montréal"
         },
         "https://shibboleth.usherbrooke.ca/idp/shibboleth": {
             "en": "Université de Sherbrooke",
             "fr": "Université de Sherbrooke"
         },
         "https://shibboleth2.polymtl.ca/idp/shibboleth": {
-            "en": "Polytechnique MontrÃ©al",
-            "fr": "Polytechnique MontrÃ©al"
+            "en": "Polytechnique Montréal",
+            "fr": "Polytechnique Montréal"
         },
         "https://shibidp.uwo.ca/idp/shibboleth": {
             "en": "University of Western Ontario"
@@ -6224,6 +6220,10 @@
         "https://idp.mpi-bremen.de/idp/shibboleth": {
             "de": "Max-Planck-Institut für Marine Mikrobiologie",
             "en": "Max Planck Institute for Marine  Microbiology"
+        },
+        "https://idp.mpi-hd.mpg.de/idp/shibboleth": {
+            "de": "Max-Planck-Institut für Kernphysik",
+            "en": "Max Planck Institute for Nuclear Physics"
         },
         "https://idp.mpi-inf.mpg.de/mpii-idp/shibboleth": {
             "de": "Max-Planck-Institut für Informatik",
@@ -12969,26 +12969,6 @@
         "https://passport.escience.cn/idp/shibboleth": {
             "en": "CSTCloud ID",
             "zh": "中国科技云通行证(CSTCloud ID)"
-        }
-    },
-    "ng": {
-        "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
-            "en": "Eko-Konnect Research and Education Initiative"
-        },
-        "https://fugusau.eduid.ng/saml2/idp/metadata.php": {
-            "en": "Federal University Gusau"
-        },
-        "https://udusok.eduid.ng/saml2/idp/metadata.php": {
-            "en": "Usmanu Danfodiyo University"
-        },
-        "https://uniabuja.eduid.ng/saml2/idp/metadata.php": {
-            "en": "University of Abuja"
-        },
-        "https://unijos.eduid.ng/saml2/idp/metadata.php": {
-            "en": "University of Jos"
-        },
-        "https://unilag.eduid.ng/saml2/idp/metadata.php": {
-            "en": "University of Lagos"
         }
     },
     "nl": {
