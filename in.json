@@ -47,6 +47,9 @@
     "https://idp.annauniv.edu/idp/shibboleth": {
         "en": "Anna University"
     },
+    "https://idp.atmiyauni.ac.in/idp/shibboleth": {
+        "en": "Atmiya University"
+    },
     "https://idp.aud.ac.in/idp/shibboleth": {
         "en": "Ambedkar University Delhi"
     },

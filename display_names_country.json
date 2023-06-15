@@ -588,6 +588,9 @@
         "https://sts.windows.net/a72d5a72-25ee-40f0-9bd1-067cb5b770d4/": {
             "en": "imec"
         },
+        "https://sts.windows.net/b6e080ea-adb9-4c79-9303-6dcf826fb854/": {
+            "en": "ArteveldeHogeschool"
+        },
         "urn:mace:kuleuven.be:kulassoc:kuleuven.be": {
             "en": "KU Leuven Association",
             "nl": "Associatie KU Leuven"
@@ -1266,10 +1269,6 @@
         "https://idp.unis.edu.br/idp/shibboleth": {
             "en": "UNIS - Centro Universitario do Sul de Minas",
             "pt-br": "UNIS - Centro Universitario do Sul de Minas"
-        },
-        "https://idp.unisanta.br/idp/shibboleth": {
-            "en": "UNISANTA - Instituto Superior de Educacao Santa Cecilia",
-            "pt-br": "UNISANTA - Instituto Superior de Educacao Santa Cecilia"
         },
         "https://idp.unitins.br/idp/shibboleth": {
             "en": "UNITINS - Universidade Estadual do Tocantins",
@@ -3997,10 +3996,6 @@
             "en": "Southwest University of  Science  and Technology",
             "zh": "西南科技大学(Southwest University of  Science  and Technology)"
         },
-        "https://idp.sxmu.edu.cn/idp/shibboleth": {
-            "en": "Shanxi Medical University",
-            "zh": "山西医科大学(Shanxi Medical University)"
-        },
         "https://idp.sxnu.edu.cn/idp/shibboleth": {
             "en": "Shanxi Normal University",
             "zh": "山西师范大学(Shanxi Normal University)"
@@ -5896,10 +5891,6 @@
         "https://idp.heilbronn.dhbw.de/idp/shibboleth": {
             "de": "DHBW Heilbronn",
             "en": "DHBW Heilbronn"
-        },
-        "https://idp.helmholtz-berlin.de/idp/shibboleth": {
-            "de": "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB)",
-            "en": "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB)"
         },
         "https://idp.helmholtz-hzi.de/idp/shibboleth": {
             "de": "Helmholtz-Zentrum für Infektionsforschung GmbH [HZI]",
@@ -10667,6 +10658,9 @@
         "https://idp.annauniv.edu/idp/shibboleth": {
             "en": "Anna University"
         },
+        "https://idp.atmiyauni.ac.in/idp/shibboleth": {
+            "en": "Atmiya University"
+        },
         "https://idp.aud.ac.in/idp/shibboleth": {
             "en": "Ambedkar University Delhi"
         },
@@ -14345,6 +14339,10 @@
         "https://idp.dgterritorio.pt/idp/shibboleth": {
             "en": "Direção-Geral do Território",
             "pt": "Direção-Geral do Território"
+        },
+        "https://idp.egasmoniz.edu.pt/simplesaml/saml2/idp/metadata.php": {
+            "en": "Egas Moniz, Cooperativa de Ensino Superior",
+            "pt": "Egas Moniz, Cooperativa de Ensino Superior"
         },
         "https://idp.enautica.pt/idp/shibboleth": {
             "en": "Escola Náutica Infante Dom Henrique",

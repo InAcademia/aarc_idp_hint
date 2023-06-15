@@ -59,6 +59,10 @@
         "en": "Direção-Geral do Território",
         "pt": "Direção-Geral do Território"
     },
+    "https://idp.egasmoniz.edu.pt/simplesaml/saml2/idp/metadata.php": {
+        "en": "Egas Moniz, Cooperativa de Ensino Superior",
+        "pt": "Egas Moniz, Cooperativa de Ensino Superior"
+    },
     "https://idp.enautica.pt/idp/shibboleth": {
         "en": "Escola Náutica Infante Dom Henrique",
         "pt": "Escola Náutica Infante Dom Henrique"

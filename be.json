@@ -143,6 +143,9 @@
     "https://sts.windows.net/a72d5a72-25ee-40f0-9bd1-067cb5b770d4/": {
         "en": "imec"
     },
+    "https://sts.windows.net/b6e080ea-adb9-4c79-9303-6dcf826fb854/": {
+        "en": "ArteveldeHogeschool"
+    },
     "urn:mace:kuleuven.be:kulassoc:kuleuven.be": {
         "en": "KU Leuven Association",
         "nl": "Associatie KU Leuven"
