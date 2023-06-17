@@ -686,7 +686,7 @@
             "en": "UFPE - Universidade Federal de Pernambuco",
             "pt-br": "UFPE - Universidade Federal de Pernambuco"
         },
-        "https://barista.pucsp.br/idp/shibboleth": {
+        "https://barista2.pucsp.br/idp/shibboleth": {
             "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
             "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
         },
@@ -4583,6 +4583,10 @@
         "https://idpcarsi.hebust.edu.cn/idp/shibboleth": {
             "en": "Hebei University of Science and Technology",
             "zh": "河北科技大学(Hebei University of Science and Technology)"
+        },
+        "https://idpcarsi.hfuu.edu.cn/idp/shibboleth": {
+            "en": "Hefei University",
+            "zh": "合肥学院(Hefei University)"
         },
         "https://idpcarsi.jmu.edu.cn/idp/shibboleth": {
             "en": "Jimei University",
@@ -15421,10 +15425,6 @@
         "https://idp.kimlik.erzurum.edu.tr/yetkim/metadata.xml": {
             "en": "Erzurum Technical University",
             "tr": "Erzurum Teknik Üniversitesi"
-        },
-        "https://idp.kku.edu.tr/idp/shibboleth": {
-            "en": "Kirikkale University",
-            "tr": "Kırıkkale Üniversitesi"
         },
         "https://idp.ksbu.edu.tr/idp/shibboleth": {
             "en": "Kütahya Health Sciences University",
