@@ -1079,6 +1079,9 @@
     "https://idp.treloar.org.uk/idp/shibboleth": {
         "en": "Treloar's"
     },
+    "https://idp.turing.ac.uk/entity": {
+        "en": "The Alan Turing Institute"
+    },
     "https://idp.ucb.ac.uk/shibboleth": {
         "en": "University College Birmingham"
     },
