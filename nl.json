@@ -623,6 +623,10 @@
         "en": "Fontys University of Applied Sciences",
         "nl": "Fontys Hogeschool"
     },
+    "https://sts.windows.net/c7a0410b-695b-4223-af74-d14c2e7652e8/": {
+        "en": "Netherlands Institute of Ecology NIOO (KNAW) [MS Azure AD]",
+        "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW) [MS Azure AD]"
+    },
     "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
         "en": "HAS green academy",
         "nl": "HAS green academy"

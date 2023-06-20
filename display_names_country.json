@@ -3996,6 +3996,10 @@
             "en": "Southwest University of  Science  and Technology",
             "zh": "西南科技大学(Southwest University of  Science  and Technology)"
         },
+        "https://idp.sxmu.edu.cn/idp/shibboleth": {
+            "en": "Shanxi Medical University",
+            "zh": "山西医科大学(Shanxi Medical University)"
+        },
         "https://idp.sxnu.edu.cn/idp/shibboleth": {
             "en": "Shanxi Normal University",
             "zh": "山西师范大学(Shanxi Normal University)"
@@ -7665,10 +7669,6 @@
             "en": "Estonian Business School",
             "et": "Estonian Business School"
         },
-        "https://artun.ois.ee/simplesamlphp/saml2/idp/metadata.php": {
-            "en": "Estonian Academy of Arts",
-            "et": "Eesti Kunstiakadeemia"
-        },
         "https://auth.ut.ee/idp/saml2/idp/metadata.php": {
             "en": "University of Tartu",
             "et": "Tartu Ülikool"
@@ -7676,6 +7676,10 @@
         "https://eenet.harid.ee/sso/saml2/idp/metadata.php": {
             "en": "EENet SSO",
             "et": "EENet SSO"
+        },
+        "https://id.artun.ee/simplesaml/saml2/idp/metadata.php": {
+            "en": "IdP of Estonian Academy of Arts",
+            "et": "Eesti Kunstiakadeemia IdP"
         },
         "https://idp.ttu.ee/simplesaml/saml2/idp/metadata.php": {
             "en": "TalTech",
@@ -13589,6 +13593,10 @@
         "https://sts.windows.net/c66b6765-b794-4a2b-84ed-845b341c086a/": {
             "en": "Fontys University of Applied Sciences",
             "nl": "Fontys Hogeschool"
+        },
+        "https://sts.windows.net/c7a0410b-695b-4223-af74-d14c2e7652e8/": {
+            "en": "Netherlands Institute of Ecology NIOO (KNAW) [MS Azure AD]",
+            "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW) [MS Azure AD]"
         },
         "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
             "en": "HAS green academy",
