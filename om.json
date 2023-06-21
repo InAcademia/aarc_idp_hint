@@ -155,6 +155,9 @@
     "https://idp.unizwa.edu.om/idp": {
         "en": "University of Nizwa(shibboleth)"
     },
+    "https://idp.uob.edu.om/idp": {
+        "en": "University of Buraimi (shibboleth)"
+    },
     "https://idp01.aou.edu.om/idp/shibboleth": {
         "en": "Arab Open University (OM-KID)"
     },

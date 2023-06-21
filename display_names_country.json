@@ -439,6 +439,9 @@
         "https://idp.tigerfed.net.bd/idp/shibboleth": {
             "en": "TIGERFed Federation"
         },
+        "https://idp2.tigerfed.net.bd/idp/shibboleth": {
+            "en": "TIGERfed Organization"
+        },
         "https://idpbuet.bdren.net.bd/idp/shibboleth": {
             "en": "Bangladesh University of Engineering and Technology"
         }
@@ -1269,6 +1272,10 @@
         "https://idp.unis.edu.br/idp/shibboleth": {
             "en": "UNIS - Centro Universitario do Sul de Minas",
             "pt-br": "UNIS - Centro Universitario do Sul de Minas"
+        },
+        "https://idp.unisanta.br/idp/shibboleth": {
+            "en": "UNISANTA - Instituto Superior de Educacao Santa Cecilia",
+            "pt-br": "UNISANTA - Instituto Superior de Educacao Santa Cecilia"
         },
         "https://idp.unitins.br/idp/shibboleth": {
             "en": "UNITINS - Universidade Estadual do Tocantins",
@@ -8519,6 +8526,10 @@
             "en": "National Research and Safety Institute (INRS - French)",
             "fr": "Institut National de Recherche et de Sécurité (INRS - France)"
         },
+        "http://sts.kedgebs.com/adfs/services/trust": {
+            "en": "Kedge Business School",
+            "fr": "Kedge Business School"
+        },
         "https://access-check.edugain.org/simplesaml/saml2/idp/metadata.php": {
             "en": "eduGAIN Access Check",
             "fr": "eduGAIN Access Check"
@@ -9402,10 +9413,6 @@
         "https://karma.cines.fr/idp/shibboleth": {
             "en": "CINES",
             "fr": "CINES"
-        },
-        "https://kedgebs.helloid.com/": {
-            "en": "Kedge Business School",
-            "fr": "Kedge Business School"
         },
         "https://llng-auth.insa-lyon.fr/saml/metadata": {
             "en": "ZTEST INSA Lyon",
@@ -10706,6 +10713,9 @@
         },
         "https://idp.cit.edu.in/idp/shibboleth": {
             "en": "Coimbatore Institute of Technology"
+        },
+        "https://idp.cmr.edu.in/idp/shibboleth": {
+            "en": "CMR University"
         },
         "https://idp.cuhimachal.ac.in/idp/shibboleth": {
             "en": "Central University of Himachal Pradesh"
@@ -13833,6 +13843,9 @@
         },
         "https://idp.unizwa.edu.om/idp": {
             "en": "University of Nizwa(shibboleth)"
+        },
+        "https://idp.uob.edu.om/idp": {
+            "en": "University of Buraimi (shibboleth)"
         },
         "https://idp01.aou.edu.om/idp/shibboleth": {
             "en": "Arab Open University (OM-KID)"

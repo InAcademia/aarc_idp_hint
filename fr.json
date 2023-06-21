@@ -19,6 +19,10 @@
         "en": "National Research and Safety Institute (INRS - French)",
         "fr": "Institut National de Recherche et de Sécurité (INRS - France)"
     },
+    "http://sts.kedgebs.com/adfs/services/trust": {
+        "en": "Kedge Business School",
+        "fr": "Kedge Business School"
+    },
     "https://access-check.edugain.org/simplesaml/saml2/idp/metadata.php": {
         "en": "eduGAIN Access Check",
         "fr": "eduGAIN Access Check"
@@ -902,10 +906,6 @@
     "https://karma.cines.fr/idp/shibboleth": {
         "en": "CINES",
         "fr": "CINES"
-    },
-    "https://kedgebs.helloid.com/": {
-        "en": "Kedge Business School",
-        "fr": "Kedge Business School"
     },
     "https://llng-auth.insa-lyon.fr/saml/metadata": {
         "en": "ZTEST INSA Lyon",
