@@ -717,6 +717,10 @@
             "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
             "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
         },
+        "https://cafe-idp.unisantos.br/idp/shibboleth": {
+            "en": "UNISANTOS - Universidade Catolica de Santos",
+            "pt-br": "UNISANTOS - Universidade Catolica de Santos"
+        },
         "https://cafe-school.cesar.org.br/idp/shibboleth": {
             "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
             "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
@@ -6780,8 +6784,8 @@
             "en": "University of Applied Sciences Ravensburg Weingarten"
         },
         "https://shibb.mpcdf.mpg.de/ipp/shibboleth": {
-            "de": "Max Planck Institut für Plasmaphysik (IPP)",
-            "en": "Max Planck Institute for Plasma Physics (IPP)"
+            "de": "Max Planck Institut für Plasmaphysik (IPP) via MPCDF",
+            "en": "Max Planck Institute for Plasma Physics (IPP) via MPCDF"
         },
         "https://shibb.mpcdf.mpg.de/mpcdf/shibboleth": {
             "de": "Max Planck Computing and Data Facility (MPCDF)",
@@ -12979,6 +12983,26 @@
             "zh": "中国科技云通行证(CSTCloud ID)"
         }
     },
+    "ng": {
+        "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
+            "en": "Eko-Konnect Research and Education Initiative"
+        },
+        "https://fugusau.eduid.ng/saml2/idp/metadata.php": {
+            "en": "Federal University Gusau"
+        },
+        "https://udusok.eduid.ng/saml2/idp/metadata.php": {
+            "en": "Usmanu Danfodiyo University"
+        },
+        "https://uniabuja.eduid.ng/saml2/idp/metadata.php": {
+            "en": "University of Abuja"
+        },
+        "https://unijos.eduid.ng/saml2/idp/metadata.php": {
+            "en": "University of Jos"
+        },
+        "https://unilag.eduid.ng/saml2/idp/metadata.php": {
+            "en": "University of Lagos"
+        }
+    },
     "nl": {
         "http://adfs-differ.differ.nl/adfs/services/trust": {
             "en": "DIFFER",
@@ -13103,10 +13127,6 @@
         "http://federation.graafschapcollege.nl/adfs/services/trust": {
             "en": "Graafschap College",
             "nl": "Graafschap College"
-        },
-        "http://federation.nioo.knaw.nl/adfs/services/trust": {
-            "en": "Netherlands Institute of Ecology NIOO (KNAW)",
-            "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW)"
         },
         "http://fs.dezb.nl/adfs/services/trust": {
             "en": "ZB Bibliotheek van Zeeland",
@@ -13605,8 +13625,8 @@
             "nl": "Fontys Hogeschool"
         },
         "https://sts.windows.net/c7a0410b-695b-4223-af74-d14c2e7652e8/": {
-            "en": "Netherlands Institute of Ecology NIOO (KNAW) [MS Azure AD]",
-            "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW) [MS Azure AD]"
+            "en": "Netherlands Institute of Ecology NIOO (KNAW)",
+            "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW)"
         },
         "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
             "en": "HAS green academy",
@@ -18943,6 +18963,9 @@
         },
         "https://sso.pdx.edu/idp/shibboleth": {
             "en": "Portland State University"
+        },
+        "https://sso.rhoworld.com/idp": {
+            "en": "Rho Federal Systems Division, Inc."
         },
         "https://sso.sjeccd.edu": {
             "en": "San Jose - Evergreen Community College District"

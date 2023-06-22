@@ -1187,6 +1187,9 @@
     "https://sso.pdx.edu/idp/shibboleth": {
         "en": "Portland State University"
     },
+    "https://sso.rhoworld.com/idp": {
+        "en": "Rho Federal Systems Division, Inc."
+    },
     "https://sso.sjeccd.edu": {
         "en": "San Jose - Evergreen Community College District"
     },

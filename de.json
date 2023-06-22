@@ -1244,8 +1244,8 @@
         "en": "University of Applied Sciences Ravensburg Weingarten"
     },
     "https://shibb.mpcdf.mpg.de/ipp/shibboleth": {
-        "de": "Max Planck Institut für Plasmaphysik (IPP)",
-        "en": "Max Planck Institute for Plasma Physics (IPP)"
+        "de": "Max Planck Institut für Plasmaphysik (IPP) via MPCDF",
+        "en": "Max Planck Institute for Plasma Physics (IPP) via MPCDF"
     },
     "https://shibb.mpcdf.mpg.de/mpcdf/shibboleth": {
         "de": "Max Planck Computing and Data Facility (MPCDF)",

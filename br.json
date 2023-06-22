@@ -51,6 +51,10 @@
         "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
         "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
     },
+    "https://cafe-idp.unisantos.br/idp/shibboleth": {
+        "en": "UNISANTOS - Universidade Catolica de Santos",
+        "pt-br": "UNISANTOS - Universidade Catolica de Santos"
+    },
     "https://cafe-school.cesar.org.br/idp/shibboleth": {
         "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
         "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
