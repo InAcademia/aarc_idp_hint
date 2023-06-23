@@ -433,6 +433,9 @@
         }
     },
     "bd": {
+        "https://bauidp.tigerfed.net.bd/idp/shibboleth": {
+            "en": "Bangladesh Agricultural University"
+        },
         "https://idp.bdren.net.bd/idp/shibboleth": {
             "en": "Bangladesh Research and Education Network"
         },
@@ -7214,6 +7217,10 @@
             "da": "Háskóli Íslands",
             "en": "University of Iceland"
         },
+        "https://idp.holar.is": {
+            "da": "Háskólinn á Hólum",
+            "en": "Hólar University"
+        },
         "https://idp.lbhi.is": {
             "da": "Landbúnaðarháskóli Íslands",
             "en": "https://idp.lbhi.is",
@@ -7401,10 +7408,6 @@
         "https://login.fcaq.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Fundación Colegio Americano Quito - fcaq",
             "es": "Fundación Colegio Americano Quito - fcaq"
-        },
-        "https://login.hep.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Hospital de Especialidades Portoviejo - hep",
-            "es": "Hospital de Especialidades Portoviejo - hep"
         },
         "https://login.igepn.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn",
@@ -13585,8 +13588,8 @@
             "nl": "Codarts Hogeschool voor de Kunsten"
         },
         "https://sts.windows.net/ad78d191-1044-4303-8212-b6f4dd7874bc/": {
-            "en": "Hogeschool INHOLLAND (Azure, New)",
-            "nl": "Hogeschool INHOLLAND (Azure, Nieuw)"
+            "en": "Hogeschool Inholland",
+            "nl": "Hogeschool Inholland"
         },
         "https://sts.windows.net/af0c0e3f-a380-4b5d-9573-baf47a797aa5/": {
             "en": "MBO Utrecht",
@@ -15794,10 +15797,6 @@
         "https://kimlik.selcuk.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Selcuk University",
             "tr": "Selçuk Üniversitesi"
-        },
-        "https://kimlik.sisli.edu.tr/idp/shibboleth": {
-            "en": "Şişli Vocational School",
-            "tr": "Şişli Meslek Yüksekokulu"
         },
         "https://kimlik.topkapi.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Istanbul Topkapi University",

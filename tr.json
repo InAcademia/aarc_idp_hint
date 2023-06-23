@@ -451,10 +451,6 @@
         "en": "Selcuk University",
         "tr": "Selçuk Üniversitesi"
     },
-    "https://kimlik.sisli.edu.tr/idp/shibboleth": {
-        "en": "Şişli Vocational School",
-        "tr": "Şişli Meslek Yüksekokulu"
-    },
     "https://kimlik.topkapi.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Istanbul Topkapi University",
         "tr": "İstanbul Topkapı Üniversitesi"

@@ -1,4 +1,7 @@
 {
+    "https://bauidp.tigerfed.net.bd/idp/shibboleth": {
+        "en": "Bangladesh Agricultural University"
+    },
     "https://idp.bdren.net.bd/idp/shibboleth": {
         "en": "Bangladesh Research and Education Network"
     },
