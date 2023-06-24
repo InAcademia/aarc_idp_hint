@@ -132,10 +132,6 @@
         "da": "Det Kongelige Akademi – Arkitektur, Design, Konservering",
         "en": "Royal Danish Academy – Architecture, Design, Conservation"
     },
-    "http://sts.statsbiblioteket.dk/adfs/services/trust": {
-        "da": "Statsbiblioteket – ansatte",
-        "en": "State and University Library – employees"
-    },
     "http://wayf.regionsjaelland.dk/adfs/services/trust": {
         "da": "Region Sjælland",
         "en": "Region Zealand"

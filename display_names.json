@@ -242,7 +242,6 @@
     "http://sts.mau.se/adfs/services/trust": "Malmö University - MFA",
     "http://sts.nbu.edu.sa/adfs/services/trust": "Northern Border University (NBU)",
     "http://sts.nu.edu.sa/adfs/services/trust": "Najran University",
-    "http://sts.statsbiblioteket.dk/adfs/services/trust": "State and University Library – employees",
     "http://sts.stc-r.nl/adfs/services/trust": "STC-Group",
     "http://sts.talnet.nl/adfs/services/trust": "ROC van Amsterdam - Flevoland",
     "http://sts.tno.nl/adfs/services/trust": "TNO Innovation for life",
