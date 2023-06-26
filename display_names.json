@@ -967,6 +967,7 @@
     "https://idp-ss.unirc.it/simplesaml/saml2/idp/metadata.php": "Mediterranea - University of Reggio Calabria",
     "https://idp-ssr.idpcloud.garr.it/idp/shibboleth": "SSABAP RM - Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma",
     "https://idp-staf-prod.cineca.it/idp/shibboleth": "CINECA",
+    "https://idp-staff-duomfa.belnet.be/idp/shibboleth": "Belnet Staff Login with Duo",
     "https://idp-staff-mfa.belnet.be/shibboleth": "Belnet Staff IdP with MFA",
     "https://idp-staging.fsu.edu": "Florida State University - Staging",
     "https://idp-stellamaris.irccs.garr.it/idp/shibboleth": "IRCCS Fondazione Stella Maris",

@@ -503,6 +503,9 @@
             "en": "Liege University - (ULiege / ULg)",
             "fr": "Université de Liège - (ULiège / ULg)"
         },
+        "https://idp-staff-duomfa.belnet.be/idp/shibboleth": {
+            "en": "Belnet Staff Login with Duo"
+        },
         "https://idp-staff-mfa.belnet.be/shibboleth": {
             "en": "Belnet Staff IdP with MFA"
         },
