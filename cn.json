@@ -1655,10 +1655,6 @@
         "en": "Southwest University of  Science  and Technology",
         "zh": "西南科技大学(Southwest University of  Science  and Technology)"
     },
-    "https://idp.sxmu.edu.cn/idp/shibboleth": {
-        "en": "Shanxi Medical University",
-        "zh": "山西医科大学(Shanxi Medical University)"
-    },
     "https://idp.sxnu.edu.cn/idp/shibboleth": {
         "en": "Shanxi Normal University",
         "zh": "山西师范大学(Shanxi Normal University)"
@@ -2230,6 +2226,10 @@
     "https://idp.zyufl.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Yuexiu University",
         "zh": "浙江越秀外国语学院(Zhejiang Yuexiu University)"
+    },
+    "https://idp.zzuit.edu.cn/idp/shibboleth": {
+        "en": "Zhengzhou University of Industrial  Technology",
+        "zh": "郑州工业应用技术学院(Zhengzhou University of Industrial  Technology)"
     },
     "https://idp.zzuli.edu.cn/idp/shibboleth": {
         "en": "Zhengzhou University of Light Industry",

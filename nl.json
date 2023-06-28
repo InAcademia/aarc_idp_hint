@@ -327,10 +327,6 @@
         "en": "Leidse Onderwijsinstellingen - 1",
         "nl": "Leidse Onderwijsinstellingen - 1"
     },
-    "https://login.mijnhelicon.nl/nidp/saml2/metadata": {
-        "en": "Helicon Opleidingen",
-        "nl": "Helicon Opleidingen"
-    },
     "https://login.ou.nl/am": {
         "en": "Open Universiteit",
         "nl": "Open Universiteit"

@@ -12,9 +12,6 @@
     "http://adfs.confederationcollege.ca/adfs/services/trust": {
         "en": "Confederation College of Applied Arts and Technology"
     },
-    "http://adfs.its.dal.ca/adfs/services/trust": {
-        "en": "Dalhousie University"
-    },
     "http://adfs.lacitec.on.ca/adfs/services/trust": {
         "en": "La Cité",
         "fr": "La Cité"
