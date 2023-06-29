@@ -4010,6 +4010,10 @@
             "en": "Southwest University of  Science  and Technology",
             "zh": "西南科技大学(Southwest University of  Science  and Technology)"
         },
+        "https://idp.sxmu.edu.cn/idp/shibboleth": {
+            "en": "Shanxi Medical University",
+            "zh": "山西医科大学(Shanxi Medical University)"
+        },
         "https://idp.sxnu.edu.cn/idp/shibboleth": {
             "en": "Shanxi Normal University",
             "zh": "山西师范大学(Shanxi Normal University)"
@@ -6791,8 +6795,8 @@
             "en": "University of Applied Sciences Ravensburg Weingarten"
         },
         "https://shibb.mpcdf.mpg.de/ipp/shibboleth": {
-            "de": "Max Planck Institut für Plasmaphysik (IPP) via MPCDF",
-            "en": "Max Planck Institute for Plasma Physics (IPP) via MPCDF"
+            "de": "Max Planck Institut für Plasmaphysik (IPP)",
+            "en": "Max Planck Institute for Plasma Physics (IPP)"
         },
         "https://shibb.mpcdf.mpg.de/mpcdf/shibboleth": {
             "de": "Max Planck Computing and Data Facility (MPCDF)",
@@ -6975,8 +6979,8 @@
             "en": "University Of Passau"
         },
         "https://sso.zib.de/idp/shibboleth": {
-            "de": "Zuse Institut Berlin",
-            "en": "Zuse Institute Berlin"
+            "de": "Zuse Instittute Berlin",
+            "en": "Zuse Instittute Berlin"
         },
         "https://ssoserver.hs-worms.de/idp/shibboleth": {
             "de": "Hochschule Worms",

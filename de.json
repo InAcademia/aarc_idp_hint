@@ -1248,8 +1248,8 @@
         "en": "University of Applied Sciences Ravensburg Weingarten"
     },
     "https://shibb.mpcdf.mpg.de/ipp/shibboleth": {
-        "de": "Max Planck Institut für Plasmaphysik (IPP) via MPCDF",
-        "en": "Max Planck Institute for Plasma Physics (IPP) via MPCDF"
+        "de": "Max Planck Institut für Plasmaphysik (IPP)",
+        "en": "Max Planck Institute for Plasma Physics (IPP)"
     },
     "https://shibb.mpcdf.mpg.de/mpcdf/shibboleth": {
         "de": "Max Planck Computing and Data Facility (MPCDF)",
@@ -1432,8 +1432,8 @@
         "en": "University Of Passau"
     },
     "https://sso.zib.de/idp/shibboleth": {
-        "de": "Zuse Institut Berlin",
-        "en": "Zuse Institute Berlin"
+        "de": "Zuse Instittute Berlin",
+        "en": "Zuse Instittute Berlin"
     },
     "https://ssoserver.hs-worms.de/idp/shibboleth": {
         "de": "Hochschule Worms",
