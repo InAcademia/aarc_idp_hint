@@ -1215,6 +1215,10 @@
         "de": "Universität Osnabrück",
         "en": "Universität Osnabrück"
     },
+    "https://shib.eh-freiburg.de/idp/shibboleth": {
+        "de": "Evangelische Hochschule Freiburg",
+        "en": "Evangelische Hochschule Freiburg"
+    },
     "https://shib.hk24.de/idp/shibboleth": {
         "de": "Commerzbibliothek Hamburg",
         "en": "Commerzbibliothek Hamburg"

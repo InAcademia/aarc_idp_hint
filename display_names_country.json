@@ -2718,6 +2718,10 @@
             "en": "Binzhou University",
             "zh": "滨州学院(Binzhou University)"
         },
+        "https://idp.bzuu.edu.cn/idp/shibboleth": {
+            "en": "Bozhou University",
+            "zh": "亳州学院(Bozhou University)"
+        },
         "https://idp.cafa.edu.cn/idp/shibboleth": {
             "en": "The Central Academy of Fine Arts",
             "zh": "中央美术学院(The Central Academy of Fine Arts)"
@@ -6762,6 +6766,10 @@
             "de": "Universität Osnabrück",
             "en": "Universität Osnabrück"
         },
+        "https://shib.eh-freiburg.de/idp/shibboleth": {
+            "de": "Evangelische Hochschule Freiburg",
+            "en": "Evangelische Hochschule Freiburg"
+        },
         "https://shib.hk24.de/idp/shibboleth": {
             "de": "Commerzbibliothek Hamburg",
             "en": "Commerzbibliothek Hamburg"
@@ -7744,6 +7752,10 @@
         "https://www.rediris.es/sir/anecaidp": {
             "en": "National Agency for Quality Assessment and Accreditation of Spain",
             "es": "Agencia Nacional de Evaluación de la Calidad y Acreditación"
+        },
+        "https://www.rediris.es/sir/atlanticomedioidp": {
+            "en": "Universidad del Atlantico Medio",
+            "es": "Universidad del Atlántico Medio"
         },
         "https://www.rediris.es/sir/bcblidp": {
             "en": "Basque Center on Cognition, Brain and Language",
