@@ -523,6 +523,10 @@
         "en": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo",
         "pt-br": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo"
     },
+    "https://idp.inpa.gov.br/idp/shibboleth": {
+        "en": "INPA - Instituto Nacional de Pesquisas da Amazonia",
+        "pt-br": "INPA - Instituto Nacional de Pesquisas da Amazonia"
+    },
     "https://idp.int.gov.br/idp/shibboleth": {
         "en": "INT - Instituto Nacional de Tecnologia",
         "pt-br": "INT - Instituto Nacional de Tecnologia"
@@ -794,6 +798,10 @@
     "https://pro-vm-lcafe-01.fnde.gov.br/idp/shibboleth": {
         "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
         "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"
+    },
+    "https://rastreador.ifba.edu.br/idp/shibboleth": {
+        "en": "IFBA - Instituto Federal da Bahia",
+        "pt-br": "IFBA - Instituto Federal da Bahia"
     },
     "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
         "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
