@@ -426,6 +426,12 @@
             "en": "The University of Queensland"
         }
     },
+    "az": {
+        "https://idp1.azsciencenet.az/simplesaml": {
+            "az": "AzScienceNet",
+            "en": "AzScienceNet"
+        }
+    },
     "bd": {
         "https://bauidp.tigerfed.net.bd/idp/shibboleth": {
             "en": "Bangladesh Agricultural University"
