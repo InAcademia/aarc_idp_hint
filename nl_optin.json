@@ -179,10 +179,6 @@
         "en": "Utrecht University",
         "nl": "Universiteit Utrecht"
     },
-    "https://saml.uvt.nl/saml2/idp/metadata.php": {
-        "en": "Tilburg University",
-        "nl": "Universiteit van Tilburg"
-    },
     "https://secure.ahk.nl/nidp/saml2/metadata": {
         "en": "Amsterdam University of the Arts",
         "nl": "Amsterdamse Hogeschool voor de Kunsten"
@@ -266,6 +262,10 @@
     "https://sts.windows.net/723246a1-c3f5-43c5-acdc-43adb404ac4d/": {
         "en": "University of Twente",
         "nl": "Universiteit Twente"
+    },
+    "https://sts.windows.net/7a5561df-6599-4898-8a20-cce41db3b44f/": {
+        "en": "Tilburg University (MS Azure AD)",
+        "nl": "Universiteit van Tilburg (MS Azure AD)"
     },
     "https://sts.windows.net/850f9344-e078-467e-9c5e-84d82f208ac7/": {
         "en": "University of Applied Sciences Leiden",
