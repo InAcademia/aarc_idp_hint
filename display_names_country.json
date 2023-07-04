@@ -11942,6 +11942,10 @@
             "en": "Okinawa International University",
             "ja": "沖縄国際大学"
         },
+        "https://idp.osaka-dent.ac.jp/idp/shibboleth": {
+            "en": "Osaka Dental University",
+            "ja": "大阪歯科大学"
+        },
         "https://idp.osaka-ue.ac.jp/idp/shibboleth": {
             "en": "Osaka University of Economics",
             "ja": "大阪経済大学"
@@ -13300,8 +13304,8 @@
             "nl": "STC-Group"
         },
         "http://sts.talnet.nl/adfs/services/trust": {
-            "en": "ROC van Amsterdam - Flevoland",
-            "nl": "ROC van Amsterdam - Flevoland"
+            "en": "ROC van Amsterdam - Flevoland .",
+            "nl": "ROC van Amsterdam - Flevoland ."
         },
         "http://sts.tno.nl/adfs/services/trust": {
             "en": "TNO Innovation for life",
@@ -15901,6 +15905,10 @@
         "https://yetkim.biruni.edu.tr/idp/shibboleth": {
             "en": "Biruni University",
             "tr": "Biruni Üniversitesi"
+        },
+        "https://yetkim.ebyu.edu.tr/idp/shibboleth": {
+            "en": "Erzincan Binali Yildirim University",
+            "tr": "Erzincan Binali Yıldırım Üniversitesi"
         },
         "https://yetkim.erciyes.edu.tr/idp/shibboleth": {
             "en": "Erciyes University",

@@ -163,6 +163,10 @@
         "en": "Okinawa International University",
         "ja": "沖縄国際大学"
     },
+    "https://idp.osaka-dent.ac.jp/idp/shibboleth": {
+        "en": "Osaka Dental University",
+        "ja": "大阪歯科大学"
+    },
     "https://idp.osaka-ue.ac.jp/idp/shibboleth": {
         "en": "Osaka University of Economics",
         "ja": "大阪経済大学"
