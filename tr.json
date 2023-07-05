@@ -119,6 +119,10 @@
         "en": "Erzurum Technical University",
         "tr": "Erzurum Teknik Üniversitesi"
     },
+    "https://idp.kku.edu.tr/idp/shibboleth": {
+        "en": "Kirikkale University",
+        "tr": "Kırıkkale Üniversitesi"
+    },
     "https://idp.ksbu.edu.tr/idp/shibboleth": {
         "en": "Kütahya Health Sciences University",
         "tr": "Kütahya Sağlık Bilimleri Üniversitesi"

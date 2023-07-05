@@ -351,6 +351,10 @@
         "en": "HCPA - Hospital de Clinicas de Porto Alegre",
         "pt-br": "HCPA - Hospital de Clinicas de Porto Alegre"
     },
+    "https://federacao2.uvanet.br/idp/shibboleth": {
+        "en": "UVA - Universidade Estadual Vale do Acarau",
+        "pt-br": "UVA - Universidade Estadual Vale do Acarau"
+    },
     "https://fjncafe.fundaj.gov.br/idp/shibboleth": {
         "en": "FUNDAJ - Fundacao Joaquim Nabuco",
         "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"

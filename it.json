@@ -7,6 +7,10 @@
         "en": "University of Verona",
         "it": "Università di Verona"
     },
+    "https://auth.conscremona.it/saml2/idp/metadata.php": {
+        "en": "Conservatorio Claudio Monteverdi di Cremona",
+        "it": "Conservatorio Claudio Monteverdi di Cremona"
+    },
     "https://auth.conservatoriocomo.it/saml2/idp/metadata.php": {
         "en": "Conservatorio di musica \"G. Verdi\" di Como",
         "it": "Conservatorio  di musica \"G. Verdi\" di Como"

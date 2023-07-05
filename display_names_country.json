@@ -1023,6 +1023,10 @@
             "en": "HCPA - Hospital de Clinicas de Porto Alegre",
             "pt-br": "HCPA - Hospital de Clinicas de Porto Alegre"
         },
+        "https://federacao2.uvanet.br/idp/shibboleth": {
+            "en": "UVA - Universidade Estadual Vale do Acarau",
+            "pt-br": "UVA - Universidade Estadual Vale do Acarau"
+        },
         "https://fjncafe.fundaj.gov.br/idp/shibboleth": {
             "en": "FUNDAJ - Fundacao Joaquim Nabuco",
             "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"
@@ -3533,6 +3537,10 @@
         "https://idp.luas.edu.cn/idp/shibboleth": {
             "en": "Lanzhou Universiy of Art and Science",
             "zh": "兰州文理学院(Lanzhou Universiy of Art and Science)"
+        },
+        "https://idp.lyu.edu.cn/idp/shibboleth": {
+            "en": "Linyi University",
+            "zh": "临沂大学(Linyi University)"
         },
         "https://idp.lzjtu.edu.cn/idp/shibboleth": {
             "en": "Lanzhou Jiaotong University",
@@ -7622,8 +7630,8 @@
             "es": "Universidad Nacional de Chimborazo - unach"
         },
         "https://login.unae.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Nacional de Educadores - unae",
-            "es": "Universidad Nacional de Educadores - unae"
+            "en": "Universidad Nacional de Educacion - unae",
+            "es": "Universidad Nacional de Educacion - unae"
         },
         "https://login.uniandes.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Regional Autonoma de los Andes - uniandes",
@@ -8644,6 +8652,10 @@
         "https://auth.univ-paris-diderot.fr/idp/shibboleth": {
             "en": "Université de Paris 7 - Denis Diderot",
             "fr": "Université de Paris 7 - Denis Diderot"
+        },
+        "https://authentification.inrae.fr/saml/metadata/idp": {
+            "en": "INRAE",
+            "fr": "INRAE"
         },
         "https://authentification.prive.ineris.fr/nidp/saml2/metadata": {
             "en": "INERIS - Institut National de l'Environnement Industriel et des Risques",
@@ -11201,6 +11213,10 @@
         "https://aap.univr.it/oam/fed": {
             "en": "University of Verona",
             "it": "Università di Verona"
+        },
+        "https://auth.conscremona.it/saml2/idp/metadata.php": {
+            "en": "Conservatorio Claudio Monteverdi di Cremona",
+            "it": "Conservatorio Claudio Monteverdi di Cremona"
         },
         "https://auth.conservatoriocomo.it/saml2/idp/metadata.php": {
             "en": "Conservatorio di musica \"G. Verdi\" di Como",
@@ -15493,6 +15509,10 @@
         "https://idp.kimlik.erzurum.edu.tr/yetkim/metadata.xml": {
             "en": "Erzurum Technical University",
             "tr": "Erzurum Teknik Üniversitesi"
+        },
+        "https://idp.kku.edu.tr/idp/shibboleth": {
+            "en": "Kirikkale University",
+            "tr": "Kırıkkale Üniversitesi"
         },
         "https://idp.ksbu.edu.tr/idp/shibboleth": {
             "en": "Kütahya Health Sciences University",

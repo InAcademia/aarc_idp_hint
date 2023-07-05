@@ -107,6 +107,10 @@
         "en": "Université de Paris 7 - Denis Diderot",
         "fr": "Université de Paris 7 - Denis Diderot"
     },
+    "https://authentification.inrae.fr/saml/metadata/idp": {
+        "en": "INRAE",
+        "fr": "INRAE"
+    },
     "https://authentification.prive.ineris.fr/nidp/saml2/metadata": {
         "en": "INERIS - Institut National de l'Environnement Industriel et des Risques",
         "fr": "INERIS - Institut National de l'Environnement Industriel et des Risques"
