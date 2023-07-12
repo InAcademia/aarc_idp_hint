@@ -503,6 +503,9 @@
     "https://libkey.iitg.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Technology Guwahati"
     },
+    "https://library.nid.ac.in/idp/shibboleth": {
+        "en": "National Institute of Design, Andhra Pradesh"
+    },
     "https://libraryidp.iisc.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Science, Bengaluru"
     },

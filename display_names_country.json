@@ -4498,10 +4498,6 @@
             "en": "Zhejiang Chinese Medical  University",
             "zh": "浙江中医药大学(Zhejiang Chinese Medical  University)"
         },
-        "https://idp.zcse.edu.cn/idp/shibboleth": {
-            "en": "Zhejiang Vocational College of Special Education",
-            "zh": "浙江特殊教育职业学院(Zhejiang Vocational College of Special Education)"
-        },
         "https://idp.zhongxi.cn/idp/shibboleth": {
             "en": "The Central Academy of Drama",
             "zh": "中央戏剧学院(The Central Academy of Drama)"
@@ -11172,6 +11168,9 @@
         "https://libkey.iitg.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Technology Guwahati"
         },
+        "https://library.nid.ac.in/idp/shibboleth": {
+            "en": "National Institute of Design, Andhra Pradesh"
+        },
         "https://libraryidp.iisc.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Science, Bengaluru"
         },
@@ -11339,8 +11338,8 @@
             "it": "IRCCS Casa Sollievo della Sofferenza"
         },
         "https://idp-debellis.irccs.garr.it/idp/shibboleth": {
-            "en": "IRCCS \"S. de Bellis\" - Castellana Grotte (BARI)",
-            "it": "IRCCS \"S. de Bellis\" - Castellana Grotte (BARI)"
+            "en": "IRCCS 'S. de Bellis' - Castellana Grotte (BARI)",
+            "it": "IRCCS 'S. de Bellis' - Castellana Grotte (BARI)"
         },
         "https://idp-dgnocchi.irccs.garr.it/idp/shibboleth": {
             "en": "IRCCS Fondazione Don Carlo Gnocchi Onlus",
