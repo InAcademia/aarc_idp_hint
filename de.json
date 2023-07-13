@@ -479,6 +479,10 @@
         "de": "Hochschule Coburg",
         "en": "Hochschule Coburg"
     },
+    "https://idp.hs-duesseldorf.de/idp/shibboleth": {
+        "de": "Hochschule Düsseldorf (HSD)",
+        "en": "University of Applied Sciences Duesseldorf (HSD)"
+    },
     "https://idp.hs-emden-leer.de/idp/shibboleth": {
         "de": "Hochschule Emden/Leer",
         "en": "University of Applied Sciences Emden/Leer"
