@@ -731,10 +731,6 @@
             "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
             "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
         },
-        "https://cafe.accamargo.org.br/idp/shibboleth": {
-            "en": "FAP - Fundacao Antonio Prudente",
-            "pt-br": "FAP - Fundacao Antonio Prudente"
-        },
         "https://cafe.cbpf.br/idp/shibboleth": {
             "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
             "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
@@ -854,6 +850,10 @@
         "https://cafe.ucs.br/idp/shibboleth": {
             "en": "UCS - Universidade de Caxias do Sul",
             "pt-br": "UCS - Universidade de Caxias do Sul"
+        },
+        "https://cafe.uemg.br/idp/shibboleth": {
+            "en": "UEMG - Universidade do Estado de Minas Gerais",
+            "pt-br": "UEMG - Universidade do Estado de Minas Gerais"
         },
         "https://cafe.uerr.edu.br/idp/shibboleth": {
             "en": "UERR - Universidade Estadual De Roraima",
@@ -1394,6 +1394,10 @@
         "https://idpuemasul.uemasul.edu.br/idp/shibboleth": {
             "en": "UEMASUL - Uni.Estadual Reg.Tocantina do Maranhao",
             "pt-br": "UEMASUL - Uni.Estadual Reg.Tocantina do Maranhao"
+        },
+        "https://idpv-cafe.secti.ba.gov.br/idp/shibboleth": {
+            "en": "SECTI/BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia",
+            "pt-br": "SECTI/BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia"
         },
         "https://idpv3-hsr.hsr.com.br/idp/shibboleth": {
             "en": "HSR - Hospital Sao Rafael",
@@ -6888,7 +6892,7 @@
         },
         "https://shibboleth.uni-bielefeld.de/idp/shibboleth": {
             "de": "Universität Bielefeld",
-            "en": "University of Bielefeld"
+            "en": "Bielefeld University"
         },
         "https://shibboleth.uni-bonn.de/idp/shibboleth": {
             "de": "Universität Bonn",
