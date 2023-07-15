@@ -4502,6 +4502,10 @@
             "en": "Zhejiang Chinese Medical  University",
             "zh": "浙江中医药大学(Zhejiang Chinese Medical  University)"
         },
+        "https://idp.zcse.edu.cn/idp/shibboleth": {
+            "en": "Zhejiang Vocational College of Special Education",
+            "zh": "浙江特殊教育职业学院(Zhejiang Vocational College of Special Education)"
+        },
         "https://idp.zhongxi.cn/idp/shibboleth": {
             "en": "The Central Academy of Drama",
             "zh": "中央戏剧学院(The Central Academy of Drama)"
@@ -5220,6 +5224,10 @@
             "cs": "Krajská knihovna Františka Bartoše ve Zlíně",
             "en": "Regional Library Zlín"
         },
+        "https://kgtrebic.cz/idp/shibboleth": {
+            "cs": "Catholic high school Třebíč",
+            "en": "Katolické gymnázium Třebíč"
+        },
         "https://kjd.pb.cz/idp/shibboleth": {
             "cs": "Knihovna Jana Drdy",
             "en": "Jan Drda´s Library"
@@ -5352,6 +5360,10 @@
             "cs": "Městská knihovna Chodov",
             "en": "Municipal Library Chodov"
         },
+        "https://knihovnachotebor.cz/idp/shibboleth": {
+            "cs": "Knihovna Ignáta Herrmanna a Informační centrum Chotěboř",
+            "en": "Municipal Library Chotěboř"
+        },
         "https://knihovnafrenstat.cz/idp/shibboleth": {
             "cs": "Městská knihovna Frenštát pod Radhoštěm",
             "en": "Municipal Library Frenštát pod Radhoštěm"
@@ -5379,6 +5391,10 @@
         "https://knihovnakv.cz/idp/shibboleth": {
             "cs": "Krajská knihovna Karlovy Vary",
             "en": "Regional Library Karlovy Vary"
+        },
+        "https://knihovnamilin.cz/idp/shibboleth": {
+            "cs": "Knihovna Dr. Emanuela Bořického",
+            "en": "Library of Dr. Emanuel Bořický"
         },
         "https://knihovnaml.cz/idp/shibboleth": {
             "cs": "Městská knihovna Mariánské Lázně",
@@ -5817,10 +5833,6 @@
         "https://idp.fh-dortmund.de/idp/shibboleth": {
             "de": "Fachhochschule Dortmund",
             "en": "Dortmund University of Applied Sciences and Arts"
-        },
-        "https://idp.fh-duesseldorf.de/idp/shibboleth": {
-            "de": "Hochschule Düsseldorf (Generation 1)",
-            "en": "Hochschule Düsseldorf (Gen 1)"
         },
         "https://idp.fh-erfurt.de/idp/shibboleth": {
             "de": "FH Erfurt",
@@ -10663,7 +10675,7 @@
             "ga": "An Coláiste Ollscoile, Baile Átha Cliath"
         },
         "https://webauth.dbs.ie/idp/shibboleth": {
-            "en": "Dublin Business School"
+            "en": "Dublin Business School (decommissioned)"
         }
     },
     "il": {
@@ -18922,6 +18934,9 @@
         },
         "https://sso.amnh.org/idp": {
             "en": "American Museum of Natural History - Richard Gilder Graduate School"
+        },
+        "https://sso.angelo.edu/idp": {
+            "en": "Angelo State University"
         },
         "https://sso.athena-institute.net/idp": {
             "en": "Athena Institute - Azure AD"

@@ -251,10 +251,6 @@
         "de": "Fachhochschule Dortmund",
         "en": "Dortmund University of Applied Sciences and Arts"
     },
-    "https://idp.fh-duesseldorf.de/idp/shibboleth": {
-        "de": "Hochschule Düsseldorf (Generation 1)",
-        "en": "Hochschule Düsseldorf (Gen 1)"
-    },
     "https://idp.fh-erfurt.de/idp/shibboleth": {
         "de": "FH Erfurt",
         "en": "FH Erfurt"

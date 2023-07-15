@@ -1088,6 +1088,9 @@
     "https://sso.amnh.org/idp": {
         "en": "American Museum of Natural History - Richard Gilder Graduate School"
     },
+    "https://sso.angelo.edu/idp": {
+        "en": "Angelo State University"
+    },
     "https://sso.athena-institute.net/idp": {
         "en": "Athena Institute - Azure AD"
     },
