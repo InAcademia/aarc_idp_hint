@@ -2918,10 +2918,6 @@
             "en": "Changzhou Institute Of Technology",
             "zh": "常州工学院(Changzhou Institute Of Technology)"
         },
-        "https://idp.dgut.edu.cn/idp/shibboleth": {
-            "en": "DongGuan University of Techology",
-            "zh": "东莞理工学院(DongGuan University of Techology)"
-        },
         "https://idp.dhu.edu.cn/idp/shibboleth": {
             "en": "Donghua University",
             "zh": "东华大学(Donghua University)"
@@ -3757,6 +3753,10 @@
         "https://idp.pxu.edu.cn/idp/shibboleth": {
             "en": "Pingxiang University",
             "zh": "萍乡学院(Pingxiang University)"
+        },
+        "https://idp.qdbhu.edu.cn/idp/shibboleth": {
+            "en": "QingDao BinHai University",
+            "zh": "青岛滨海学院(QingDao BinHai University)"
         },
         "https://idp.qdgw.edu.cn/idp/shibboleth": {
             "en": "Qingdao Harbour Vocational & Technical College",
