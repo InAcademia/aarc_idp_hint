@@ -2918,6 +2918,10 @@
             "en": "Changzhou Institute Of Technology",
             "zh": "常州工学院(Changzhou Institute Of Technology)"
         },
+        "https://idp.dgut.edu.cn/idp/shibboleth": {
+            "en": "DongGuan University of Techology",
+            "zh": "东莞理工学院(DongGuan University of Techology)"
+        },
         "https://idp.dhu.edu.cn/idp/shibboleth": {
             "en": "Donghua University",
             "zh": "东华大学(Donghua University)"
@@ -5702,6 +5706,10 @@
             "de": "Hochschule für Musik Dresden",
             "en": "Hochschule fuer Musik Dresden"
         },
+        "https://idp.aip.de/idp/shibboleth": {
+            "de": "Leibniz-Institut für Astrophysik Potsdam",
+            "en": "Leibniz Institute for Astrophysics Potsdam"
+        },
         "https://idp.aiv.hfoed.de/idp/shibboleth": {
             "de": "Hfoed - FB AIV",
             "en": "Hfoed - FB AIV"
@@ -6059,8 +6067,8 @@
             "en": "Hochschule Coburg"
         },
         "https://idp.hs-duesseldorf.de/idp/shibboleth": {
-            "de": "Hochschule Düsseldorf (HSD)",
-            "en": "University of Applied Sciences Duesseldorf (HSD)"
+            "de": "Hochschule Düsseldorf HSD",
+            "en": "Hochschule Düsseldorf - University of Applied Sciences HSD"
         },
         "https://idp.hs-emden-leer.de/idp/shibboleth": {
             "de": "Hochschule Emden/Leer",
@@ -12033,6 +12041,10 @@
             "en": "National Institute of Technology,Sasebo College",
             "ja": "佐世保工業高等専門学校"
         },
+        "https://ksidp.sendai-nct.ac.jp/idp/shibboleth": {
+            "en": "National Institute of Technology,Sendai College,Hirose",
+            "ja": "仙台高等専門学校　広瀬キャンパス"
+        },
         "https://ku-sso.cis.kanazawa-u.ac.jp/idp/shibboleth": {
             "en": "Kanazawa University",
             "ja": "金沢大学"
@@ -13693,6 +13705,10 @@
         "https://sts.windows.net/c7a0410b-695b-4223-af74-d14c2e7652e8/": {
             "en": "Netherlands Institute of Ecology NIOO (KNAW)",
             "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW)"
+        },
+        "https://sts.windows.net/c908cc46-554c-4131-8653-45522e68e291/": {
+            "en": "ROC van Amsterdam - Flevoland",
+            "nl": "ROC van Amsterdam - Flevoland"
         },
         "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
             "en": "HAS green academy",

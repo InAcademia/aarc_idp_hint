@@ -219,6 +219,10 @@
         "en": "National Institute of Technology,Sasebo College",
         "ja": "佐世保工業高等専門学校"
     },
+    "https://ksidp.sendai-nct.ac.jp/idp/shibboleth": {
+        "en": "National Institute of Technology,Sendai College,Hirose",
+        "ja": "仙台高等専門学校　広瀬キャンパス"
+    },
     "https://ku-sso.cis.kanazawa-u.ac.jp/idp/shibboleth": {
         "en": "Kanazawa University",
         "ja": "金沢大学"

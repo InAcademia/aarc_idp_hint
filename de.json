@@ -119,6 +119,10 @@
         "de": "Hochschule für Musik Dresden",
         "en": "Hochschule fuer Musik Dresden"
     },
+    "https://idp.aip.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Astrophysik Potsdam",
+        "en": "Leibniz Institute for Astrophysics Potsdam"
+    },
     "https://idp.aiv.hfoed.de/idp/shibboleth": {
         "de": "Hfoed - FB AIV",
         "en": "Hfoed - FB AIV"
@@ -476,8 +480,8 @@
         "en": "Hochschule Coburg"
     },
     "https://idp.hs-duesseldorf.de/idp/shibboleth": {
-        "de": "Hochschule Düsseldorf (HSD)",
-        "en": "University of Applied Sciences Duesseldorf (HSD)"
+        "de": "Hochschule Düsseldorf HSD",
+        "en": "Hochschule Düsseldorf - University of Applied Sciences HSD"
     },
     "https://idp.hs-emden-leer.de/idp/shibboleth": {
         "de": "Hochschule Emden/Leer",
