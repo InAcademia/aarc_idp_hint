@@ -259,10 +259,6 @@
         "en": "STC-Group",
         "nl": "STC-Group"
     },
-    "http://sts.talnet.nl/adfs/services/trust": {
-        "en": "ROC van Amsterdam - Flevoland .",
-        "nl": "ROC van Amsterdam - Flevoland ."
-    },
     "http://sts.tno.nl/adfs/services/trust": {
         "en": "TNO Innovation for life",
         "nl": "TNO Innovation for life"

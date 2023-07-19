@@ -339,6 +339,10 @@
         "de": "Hochschule Bonn-Rhein-Sieg IDM",
         "en": "Bonn-Rhein-Sieg University of Applied Sciences IDM"
     },
+    "https://idp.h-its.org/idp/shibboleth": {
+        "de": "HITS gGmbH",
+        "en": "HITS gGmbH"
+    },
     "https://idp.hab.de/simplesaml": {
         "de": "Herzog August Bibliothek Wolfenbuettel",
         "en": "Herzog August Bibliothek Wolfenbuettel"

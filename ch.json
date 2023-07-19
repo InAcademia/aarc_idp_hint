@@ -229,10 +229,6 @@
         "de": "libraries.ch",
         "en": "libraries.ch"
     },
-    "https://login.teologialugano.ch/idp/shibboleth": {
-        "en": "FTL - Facoltà di Teologia di Lugano",
-        "it": "FTL - Facoltà di Teologia di Lugano"
-    },
     "https://login2.supsi.ch/idp/shibboleth": {
         "en": "SUPSI - Scuola Universitaria Professionale della Svizzera Italiana",
         "it": "SUPSI - Scuola Universitaria Professionale della Svizzera Italiana"

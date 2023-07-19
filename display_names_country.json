@@ -683,6 +683,10 @@
             "en": "UFABC - Universidade Federal do ABC",
             "pt-br": "UFABC - Universidade Federal do ABC"
         },
+        "https://aclxpcafe.accamargo.org.br/idp/shibboleth": {
+            "en": "ACCAMARGO - AC Camargo Cancer Center",
+            "pt-br": "ACCAMARGO - AC Camargo Cancer Center"
+        },
         "https://arabica.fapesp.br/idp/shibboleth": {
             "en": "FAPESP - Fundacao de Amparo a Pesquisa do Estado de Sao Paulo",
             "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa do Estado de Sao Paulo"
@@ -730,6 +734,10 @@
         "https://cafe-school.cesar.org.br/idp/shibboleth": {
             "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
             "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
+        },
+        "https://cafe-v3.upf.br/idp/shibboleth": {
+            "en": "UPF - Universidade de Passo Fundo",
+            "pt-br": "UPF - Universidade de Passo Fundo"
         },
         "https://cafe.cbpf.br/idp/shibboleth": {
             "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
@@ -914,6 +922,10 @@
         "https://cafe.unipampa.edu.br/idp/shibboleth": {
             "en": "UNIPAMPA - Universidade Federal do Pampa",
             "pt-br": "UNIPAMPA - Universidade Federal do Pampa"
+        },
+        "https://cafe.unitau.br/idp/shibboleth": {
+            "en": "UNITAU - Universidade de Taubate",
+            "pt-br": "UNITAU - Universidade de Taubate"
         },
         "https://cafe.univille.br/idp/shibboleth": {
             "en": "UNIVILLE - Fundacao Educacional da Regiao de Joinville",
@@ -2325,10 +2337,6 @@
         "https://login-idp.libraries.ch/idp/shibboleth": {
             "de": "libraries.ch",
             "en": "libraries.ch"
-        },
-        "https://login.teologialugano.ch/idp/shibboleth": {
-            "en": "FTL - Facoltà di Teologia di Lugano",
-            "it": "FTL - Facoltà di Teologia di Lugano"
         },
         "https://login2.supsi.ch/idp/shibboleth": {
             "en": "SUPSI - Scuola Universitaria Professionale della Svizzera Italiana",
@@ -5925,6 +5933,10 @@
         "https://idp.h-brs.de/nidp/saml2/metadata": {
             "de": "Hochschule Bonn-Rhein-Sieg IDM",
             "en": "Bonn-Rhein-Sieg University of Applied Sciences IDM"
+        },
+        "https://idp.h-its.org/idp/shibboleth": {
+            "de": "HITS gGmbH",
+            "en": "HITS gGmbH"
         },
         "https://idp.hab.de/simplesaml": {
             "de": "Herzog August Bibliothek Wolfenbuettel",
@@ -11160,6 +11172,9 @@
         "https://idp.vcw.ac.in/idp/shibboleth": {
             "en": "Vellalar College For Women"
         },
+        "https://idp.velammalitech.edu.in/idp/shibboleth": {
+            "en": "Velammal Institute of Technology"
+        },
         "https://idp.velsuniv.ac.in/idp/shibboleth": {
             "en": "Vels Institute of Science, Technology and Advanced Studies (VISTAS)"
         },
@@ -13345,10 +13360,6 @@
         "http://sts.stc-r.nl/adfs/services/trust": {
             "en": "STC-Group",
             "nl": "STC-Group"
-        },
-        "http://sts.talnet.nl/adfs/services/trust": {
-            "en": "ROC van Amsterdam - Flevoland .",
-            "nl": "ROC van Amsterdam - Flevoland ."
         },
         "http://sts.tno.nl/adfs/services/trust": {
             "en": "TNO Innovation for life",
