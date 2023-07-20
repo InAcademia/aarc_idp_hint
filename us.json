@@ -86,6 +86,9 @@
     "https://auth.geneseo.edu/simplesaml/saml2/idp/metadata.php": {
         "en": "SUNY Geneseo"
     },
+    "https://auth.isu.edu/idp/shibboleth": {
+        "en": "Idaho State University"
+    },
     "https://auth.it.marist.edu/idp": {
         "en": "Marist College"
     },

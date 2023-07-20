@@ -3978,6 +3978,10 @@
             "en": "Southern Medical University",
             "zh": "南方医科大学(Southern Medical University)"
         },
+        "https://idp.smzy.edu.cn/idp/shibboleth": {
+            "en": "Shenmu Vocational & Technical College",
+            "zh": "神木职业技术学院(Shenmu Vocational & Technical College)"
+        },
         "https://idp.snein.edu.cn/idp/shibboleth": {
             "en": "Shaanxi Energy Institute",
             "zh": "陕西能源职业技术学院(Shaanxi Energy Institute)"
@@ -9452,6 +9456,10 @@
         "https://idp4.cereq.fr/idp/shibboleth": {
             "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications",
             "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications"
+        },
+        "https://idp4.unicaen.fr/idp/shibboleth": {
+            "en": "University of Caen Normandie  V4",
+            "fr": "Université de Caen Normandie V4"
         },
         "https://idpprod.ciep.fr/idp/shibboleth": {
             "en": "CIEP / France Education International",
@@ -17959,6 +17967,9 @@
         },
         "https://auth.geneseo.edu/simplesaml/saml2/idp/metadata.php": {
             "en": "SUNY Geneseo"
+        },
+        "https://auth.isu.edu/idp/shibboleth": {
+            "en": "Idaho State University"
         },
         "https://auth.it.marist.edu/idp": {
             "en": "Marist College"

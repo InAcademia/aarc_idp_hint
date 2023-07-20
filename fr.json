@@ -871,6 +871,10 @@
         "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications",
         "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications"
     },
+    "https://idp4.unicaen.fr/idp/shibboleth": {
+        "en": "University of Caen Normandie  V4",
+        "fr": "Université de Caen Normandie V4"
+    },
     "https://idpprod.ciep.fr/idp/shibboleth": {
         "en": "CIEP / France Education International",
         "fr": "CIEP / France Education International"
