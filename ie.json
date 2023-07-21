@@ -64,10 +64,6 @@
     "https://idp.itcarlow.ie/idp/shibboleth": {
         "en": "South East Technological University (Carlow Campus)"
     },
-    "https://idp.itsligo.ie/idp/shibboleth": {
-        "en": "Institute of Technology Sligo",
-        "ga": "An Institiúid Teicneolaíochta, Sligeach"
-    },
     "https://idp.ittralee.ie/idp": {
         "en": "Institute of Technology Tralee",
         "ga": "Institiúid Teicneolaíochta, Trá Lí"

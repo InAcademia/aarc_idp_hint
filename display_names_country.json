@@ -4018,6 +4018,10 @@
             "en": "Shanghai Urban Construction Vocational College",
             "zh": "上海城建职业学院(Shanghai Urban Construction Vocational College)"
         },
+        "https://idp.suda.edu.cn/idp/shibboleth": {
+            "en": "Soochow University",
+            "zh": "苏州大学(Soochow University)"
+        },
         "https://idp.sus.edu.cn/idp/shibboleth": {
             "en": "Shanghai University of Sport",
             "zh": "上海体育学院(Shanghai University of Sport)"
@@ -9090,8 +9094,8 @@
             "fr": "INHA - Institut National de l'Histoire de l'Art"
         },
         "https://idp.inp-toulouse.fr/idp/shibboleth": {
-            "en": "INPT - Institut National Polytechnique de Toulouse",
-            "fr": "INPT - Institut National Polytechnique de Toulouse"
+            "en": "Toulouse INP - Institut National Polytechnique de Toulouse",
+            "fr": "Toulouse INP - Institut National Polytechnique de Toulouse"
         },
         "https://idp.inra.fr/idp/shibboleth": {
             "en": "INRA - Institut National de la Recherche Agronomique",
@@ -10610,10 +10614,6 @@
         },
         "https://idp.itcarlow.ie/idp/shibboleth": {
             "en": "South East Technological University (Carlow Campus)"
-        },
-        "https://idp.itsligo.ie/idp/shibboleth": {
-            "en": "Institute of Technology Sligo",
-            "ga": "An Institiúid Teicneolaíochta, Sligeach"
         },
         "https://idp.ittralee.ie/idp": {
             "en": "Institute of Technology Tralee",
