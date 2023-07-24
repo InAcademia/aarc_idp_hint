@@ -571,6 +571,10 @@
         "en": "Codarts University of the Arts",
         "nl": "Codarts Hogeschool voor de Kunsten"
     },
+    "https://sts.windows.net/ac4b0eb0-811e-4ab0-acca-8a87079290dc/": {
+        "en": "Netherlands Institute for Neuroscience (KNAW) [MS Azure AD]",
+        "nl": "Nederlands Herseninstituut (KNAW) [MS Azure AD]"
+    },
     "https://sts.windows.net/ad78d191-1044-4303-8212-b6f4dd7874bc/": {
         "en": "Hogeschool Inholland",
         "nl": "Hogeschool Inholland"
