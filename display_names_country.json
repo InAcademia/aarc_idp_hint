@@ -1043,6 +1043,10 @@
             "en": "FUNDAJ - Fundacao Joaquim Nabuco",
             "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"
         },
+        "https://fjscafe.fjs.org.br/idp/shibboleth": {
+            "en": "FJS - Fundacao Jose Silveira",
+            "pt-br": "FJS - Fundacao Jose Silveira"
+        },
         "https://fusion.ceub.br/idp/shibboleth": {
             "en": "UNICEUB - Centro Universitario de Brasilia",
             "pt-br": "UNICEUB - Centro Universitario de Brasilia"
@@ -12198,6 +12202,9 @@
         "https://coreen-idp.kreonet.net/idp/simplesamlphp": {
             "en": "COREEN set.ID by KAFE"
         },
+        "https://iam.kfe.re.kr/idp/simplesamlphp": {
+            "en": "Korea Institute of Fusion Energy"
+        },
         "https://iam.kiom.re.kr/idp/simplesamlphp": {
             "en": "Korea Institute of Oriental Medicine"
         },
@@ -12621,6 +12628,9 @@
         }
     },
     "my": {
+        "https://azure.ifirexman.sifulan.my/idp/shibboleth": {
+            "en": "Azure AD iFIRExMAN"
+        },
         "https://idp.imu.edu.my/idp/shibboleth": {
             "en": "International Medical University"
         },
@@ -13676,10 +13686,6 @@
         "https://sts.windows.net/aabe793f-b39c-440c-8e1a-0dcfb6215609/": {
             "en": "Codarts University of the Arts",
             "nl": "Codarts Hogeschool voor de Kunsten"
-        },
-        "https://sts.windows.net/ac4b0eb0-811e-4ab0-acca-8a87079290dc/": {
-            "en": "Netherlands Institute for Neuroscience (KNAW) [MS Azure AD]",
-            "nl": "Nederlands Herseninstituut (KNAW) [MS Azure AD]"
         },
         "https://sts.windows.net/ad78d191-1044-4303-8212-b6f4dd7874bc/": {
             "en": "Hogeschool Inholland",
@@ -18591,6 +18597,9 @@
         },
         "https://login.sonoma.edu/shibboleth": {
             "en": "Sonoma State University"
+        },
+        "https://login.sru.edu/samlsso": {
+            "en": "Slippery Rock University of Pennsylvania"
         },
         "https://login.stolaf.edu/idp/shibboleth": {
             "en": "St. Olaf College"

@@ -371,6 +371,10 @@
         "en": "FUNDAJ - Fundacao Joaquim Nabuco",
         "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"
     },
+    "https://fjscafe.fjs.org.br/idp/shibboleth": {
+        "en": "FJS - Fundacao Jose Silveira",
+        "pt-br": "FJS - Fundacao Jose Silveira"
+    },
     "https://fusion.ceub.br/idp/shibboleth": {
         "en": "UNICEUB - Centro Universitario de Brasilia",
         "pt-br": "UNICEUB - Centro Universitario de Brasilia"

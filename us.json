@@ -710,6 +710,9 @@
     "https://login.sonoma.edu/shibboleth": {
         "en": "Sonoma State University"
     },
+    "https://login.sru.edu/samlsso": {
+        "en": "Slippery Rock University of Pennsylvania"
+    },
     "https://login.stolaf.edu/idp/shibboleth": {
         "en": "St. Olaf College"
     },

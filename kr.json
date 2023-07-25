@@ -5,6 +5,9 @@
     "https://coreen-idp.kreonet.net/idp/simplesamlphp": {
         "en": "COREEN set.ID by KAFE"
     },
+    "https://iam.kfe.re.kr/idp/simplesamlphp": {
+        "en": "Korea Institute of Fusion Energy"
+    },
     "https://iam.kiom.re.kr/idp/simplesamlphp": {
         "en": "Korea Institute of Oriental Medicine"
     },
