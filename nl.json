@@ -247,10 +247,6 @@
         "en": "Drenthe College",
         "nl": "Drenthe College"
     },
-    "http://sts.hhs.nl/adfs/services/trust": {
-        "en": "The Hague University of Applied Science (THUAS)[Old]",
-        "nl": "De Haagse Hogeschool (HHS) [Oud]"
-    },
     "http://sts.horizoncollege.nl/adfs/services/trust": {
         "en": "ROC Horizon College",
         "nl": "ROC Horizon College"
@@ -290,6 +286,10 @@
     "https://access.hro.nl/simplesaml/saml2/idp/metadata.php": {
         "en": "Rotterdam University of Applied Sciences",
         "nl": "Hogeschool Rotterdam"
+    },
+    "https://accounts.google.com/o/saml2?idpid=C02a9wwtv": {
+        "en": "Netherlands Institute for Sound & Vision",
+        "nl": "Nederlands Instituut voor Beeld & Geluid"
     },
     "https://conext.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
         "en": "Radboud University",

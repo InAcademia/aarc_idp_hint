@@ -144,6 +144,12 @@
     "https://idp2.griffith.ie/idp/shibboleth": {
         "en": "Griffith College (New)"
     },
+    "https://login-uat.dbs.ie/idp/shibboleth": {
+        "en": "Dublin Business School (uat)"
+    },
+    "https://login.dbs.ie/idp/shibboleth": {
+        "en": "Dublin Business School"
+    },
     "https://sso.identity.ichec.ie/realms/ichec-staff": {
         "en": "Irish Centre for High-End Computing - Staff MFA"
     },

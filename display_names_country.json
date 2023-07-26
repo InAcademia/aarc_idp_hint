@@ -6959,8 +6959,8 @@
             "en": "Hochschule für Technik Stuttgart"
         },
         "https://shibboleth2.uni-koblenz.de/idp/shibboleth": {
-            "de": "Universität Koblenz-Landau",
-            "en": "University Koblenz-Landau"
+            "de": "Universität Koblenz",
+            "en": "University Koblenz"
         },
         "https://shibweb1.hs-nordhausen.de/idp/shibboleth": {
             "de": "Hochschule Nordhausen",
@@ -10695,6 +10695,12 @@
         "https://idp2.griffith.ie/idp/shibboleth": {
             "en": "Griffith College (New)"
         },
+        "https://login-uat.dbs.ie/idp/shibboleth": {
+            "en": "Dublin Business School (uat)"
+        },
+        "https://login.dbs.ie/idp/shibboleth": {
+            "en": "Dublin Business School"
+        },
         "https://sso.identity.ichec.ie/realms/ichec-staff": {
             "en": "Irish Centre for High-End Computing - Staff MFA"
         },
@@ -11904,6 +11910,10 @@
             "en": "Tokyo University of Foreign Studies",
             "ja": "東京外国語大学"
         },
+        "https://idp.account.tsukuba.ac.jp/idp/shibboleth": {
+            "en": "University of Tsukuba",
+            "ja": "筑波大学"
+        },
         "https://idp.asahi-u.ac.jp/idp/shibboleth": {
             "en": "Asahi University",
             "ja": "朝日大学"
@@ -12628,9 +12638,6 @@
         }
     },
     "my": {
-        "https://azure.ifirexman.sifulan.my/idp/shibboleth": {
-            "en": "Azure AD iFIRExMAN"
-        },
         "https://idp.imu.edu.my/idp/shibboleth": {
             "en": "International Medical University"
         },
@@ -13363,10 +13370,6 @@
             "en": "Drenthe College",
             "nl": "Drenthe College"
         },
-        "http://sts.hhs.nl/adfs/services/trust": {
-            "en": "The Hague University of Applied Science (THUAS)[Old]",
-            "nl": "De Haagse Hogeschool (HHS) [Oud]"
-        },
         "http://sts.horizoncollege.nl/adfs/services/trust": {
             "en": "ROC Horizon College",
             "nl": "ROC Horizon College"
@@ -13406,6 +13409,10 @@
         "https://access.hro.nl/simplesaml/saml2/idp/metadata.php": {
             "en": "Rotterdam University of Applied Sciences",
             "nl": "Hogeschool Rotterdam"
+        },
+        "https://accounts.google.com/o/saml2?idpid=C02a9wwtv": {
+            "en": "Netherlands Institute for Sound & Vision",
+            "nl": "Nederlands Instituut voor Beeld & Geluid"
         },
         "https://conext.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
             "en": "Radboud University",

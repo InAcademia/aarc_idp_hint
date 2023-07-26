@@ -1,7 +1,4 @@
 {
-    "https://azure.ifirexman.sifulan.my/idp/shibboleth": {
-        "en": "Azure AD iFIRExMAN"
-    },
     "https://idp.imu.edu.my/idp/shibboleth": {
         "en": "International Medical University"
     },

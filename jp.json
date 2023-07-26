@@ -59,6 +59,10 @@
         "en": "Tokyo University of Foreign Studies",
         "ja": "東京外国語大学"
     },
+    "https://idp.account.tsukuba.ac.jp/idp/shibboleth": {
+        "en": "University of Tsukuba",
+        "ja": "筑波大学"
+    },
     "https://idp.asahi-u.ac.jp/idp/shibboleth": {
         "en": "Asahi University",
         "ja": "朝日大学"
