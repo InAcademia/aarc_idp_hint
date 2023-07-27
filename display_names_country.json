@@ -875,6 +875,10 @@
             "en": "UFBA - Universidade Federal da Bahia",
             "pt-br": "UFBA - Universidade Federal da Bahia"
         },
+        "https://cafe.uff.br/idp/shibboleth": {
+            "en": "UFF - Universidade Federal Fluminense",
+            "pt-br": "UFF - Universidade Federal Fluminense"
+        },
         "https://cafe.ufmg.br/idp/shibboleth": {
             "en": "UFMG - Universidade Federal de Minas Gerais",
             "pt-br": "UFMG - Universidade Federal de Minas Gerais"
@@ -1262,6 +1266,10 @@
         "https://idp.ufjf.br/idp/shibboleth": {
             "en": "UFJF - Universidade Federal de Juiz de Fora",
             "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
+        },
+        "https://idp.ufr.edu.br/idp/shibboleth": {
+            "en": "UFR - Universidade Federal de Rondonopolis",
+            "pt-br": "UFR - Universidade Federal de Rondonopolis"
         },
         "https://idp.ufrb.edu.br/idp/shibboleth": {
             "en": "UFRB - Universidade Federal do Reconcavo da Bahia",
@@ -7404,14 +7412,6 @@
             "en": "Dania Academy"
         }
     },
-    "dz": {
-        "https://idp.grid.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science GRID IDP"
-        },
-        "https://med-idp.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science MEDECINE IDP"
-        }
-    },
     "ec": {
         "https://login.caces.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces",
@@ -13233,10 +13233,6 @@
         "http://federatie.lumc.nl/adfs/services/trust": {
             "en": "Leids Universitair Medisch Centrum",
             "nl": "Leids Universitair Medisch Centrum"
-        },
-        "http://federatie.radboudumc.nl/adfs/services/trust": {
-            "en": "Radboudumc",
-            "nl": "Radboudumc"
         },
         "http://federatie.trimbos.nl/adfs/services/trust": {
             "en": "Trimbos Instituut",

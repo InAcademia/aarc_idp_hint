@@ -111,10 +111,6 @@
         "en": "Leids Universitair Medisch Centrum",
         "nl": "Leids Universitair Medisch Centrum"
     },
-    "http://federatie.radboudumc.nl/adfs/services/trust": {
-        "en": "Radboudumc",
-        "nl": "Radboudumc"
-    },
     "http://federatie.trimbos.nl/adfs/services/trust": {
         "en": "Trimbos Instituut",
         "nl": "Trimbos Instituut"
