@@ -3122,6 +3122,10 @@
             "en": "Guangzhou Academy of Fine Arts",
             "zh": "广州美术学院(Guangzhou Academy of Fine Arts)"
         },
+        "https://idp.gzcfe.edu.cn/idp/shibboleth": {
+            "en": "Guizhou Vocational College of Finance and Economics",
+            "zh": "贵州财经职业学院(Guizhou Vocational College of Finance and Economics)"
+        },
         "https://idp.gznu.edu.cn/idp/shibboleth": {
             "en": "Guizhou Normal University",
             "zh": "贵州师范大学(Guizhou Normal University)"
@@ -7480,10 +7484,6 @@
         "https://login.fcaq.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Fundación Colegio Americano Quito - fcaq",
             "es": "Fundación Colegio Americano Quito - fcaq"
-        },
-        "https://login.hep.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Hospital de Especialidades Portoviejo - hep",
-            "es": "Hospital de Especialidades Portoviejo - hep"
         },
         "https://login.igepn.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn",
