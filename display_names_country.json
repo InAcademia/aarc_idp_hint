@@ -1763,10 +1763,6 @@
             "en": "UFOB - Universidade Federal do Oeste da Bahia",
             "pt-br": "UFOB - Universidade Federal do Oeste da Bahia"
         },
-        "https://vmmanaus.cpqd.com.br/idp/shibboleth": {
-            "en": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes",
-            "pt-br": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes"
-        },
         "https://vmshib64.ufrpe.br/idp/shibboleth": {
             "en": "UFRPE - Universidade Federal Rural de Pernambuco",
             "pt-br": "UFRPE - Universidade Federal Rural de Pernambuco"
@@ -10567,6 +10563,9 @@
         "https://idp.atu.ie/idp/shibboleth": {
             "en": "Atlantic Technological University",
             "ga": "Ollscoil Teicneolaíochta an Atlantaigh"
+        },
+        "https://idp.carlowcollege.ie/idp/shibboleth": {
+            "en": "Carlow College, St. Patrick’s"
         },
         "https://idp.cit.ie/idp": {
             "en": "Cork Institute of Technology",
