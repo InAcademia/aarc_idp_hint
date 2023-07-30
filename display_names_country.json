@@ -6898,10 +6898,6 @@
             "de": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen",
             "en": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen"
         },
-        "https://shibboleth-idp.hbz-nrw.de/idp/shibboleth": {
-            "de": "Hochschulbibliothekszentrum NRW (hbz) - Identitätserbringung  (IdP)",
-            "en": "Hochschulbibliothekszentrum NRW (hbz) - Identity Provider (IdP)"
-        },
         "https://shibboleth-idp.katho-nrw.de/idp/shibboleth": {
             "de": "Katholische Hochschule Nordrhein-Westfalen (katho)",
             "en": "Catholic University of Applied Sciences of North Rhine-Westphalia"
