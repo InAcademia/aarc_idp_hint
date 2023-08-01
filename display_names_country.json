@@ -10288,6 +10288,10 @@
             "en": "University of Sopron, Hungary",
             "hu": "Soproni Egyetem"
         },
+        "https://dev.einfra.hu/simplesaml/saml2/idp/metadata.php": {
+            "en": "KIFÜ GitLab",
+            "hu": "KIFÜ GitLab"
+        },
         "https://eduid.abtk.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Research Centre for the Humanities",
             "hu": "Bölcsészettudományi Kutatóközpont"
