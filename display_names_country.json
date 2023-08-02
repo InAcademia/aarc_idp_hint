@@ -855,6 +855,10 @@
             "en": "SETREM - Sociedade Educacional Tres de Maio",
             "pt-br": "SETREM - Sociedade Educacional Tres de Maio"
         },
+        "https://cafe.sgb.gov.br/idp/shibboleth": {
+            "en": "SGB - Servico Geologico do Brasil",
+            "pt-br": "SGB - Servico Geologico do Brasil"
+        },
         "https://cafe.ucs.br/idp/shibboleth": {
             "en": "UCS - Universidade de Caxias do Sul",
             "pt-br": "UCS - Universidade de Caxias do Sul"
@@ -6933,6 +6937,10 @@
         "https://shibboleth.hs-kl.de/idp/shibboleth": {
             "de": "Hochschule Kaiserslautern",
             "en": "University of Applied Science Kaiserslautern"
+        },
+        "https://shibboleth.leibniz-lib.de/idp/shibboleth": {
+            "de": "Leibniz-Institut zur Analyse des Biodiversitätswandels",
+            "en": "Leibniz Institute for the Analysis of Biodiversity Change"
         },
         "https://shibboleth.mh-hannover.de/idp/shibboleth": {
             "de": "Medizinische Hochschule Hannover",
@@ -18874,7 +18882,7 @@
             "en": "University of Arkansas for Medical Sciences"
         },
         "https://shibboleth.uchastings.edu/idp/shibboleth": {
-            "en": "University of California, Hastings College of the Law"
+            "en": "University of California, College of the Law San Francisco"
         },
         "https://shibboleth.uconn.edu/idp/shibboleth": {
             "en": "University of Connecticut"

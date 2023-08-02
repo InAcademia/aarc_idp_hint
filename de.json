@@ -1323,6 +1323,10 @@
         "de": "Hochschule Kaiserslautern",
         "en": "University of Applied Science Kaiserslautern"
     },
+    "https://shibboleth.leibniz-lib.de/idp/shibboleth": {
+        "de": "Leibniz-Institut zur Analyse des Biodiversitätswandels",
+        "en": "Leibniz Institute for the Analysis of Biodiversity Change"
+    },
     "https://shibboleth.mh-hannover.de/idp/shibboleth": {
         "de": "Medizinische Hochschule Hannover",
         "en": "Hannover Medical School"

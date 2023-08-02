@@ -183,6 +183,10 @@
         "en": "SETREM - Sociedade Educacional Tres de Maio",
         "pt-br": "SETREM - Sociedade Educacional Tres de Maio"
     },
+    "https://cafe.sgb.gov.br/idp/shibboleth": {
+        "en": "SGB - Servico Geologico do Brasil",
+        "pt-br": "SGB - Servico Geologico do Brasil"
+    },
     "https://cafe.ucs.br/idp/shibboleth": {
         "en": "UCS - Universidade de Caxias do Sul",
         "pt-br": "UCS - Universidade de Caxias do Sul"
