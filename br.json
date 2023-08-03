@@ -75,10 +75,6 @@
         "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
         "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
     },
-    "https://cafe.cprm.gov.br/idp/shibboleth": {
-        "en": "CPRM - Companhia de Pesquisa de Recursos Minerais",
-        "pt-br": "CPRM - Companhia de Pesquisa de Recursos Minerais"
-    },
     "https://cafe.dti.ufv.br/idp/shibboleth": {
         "en": "UFV - Universidade Federal de Vicosa",
         "pt-br": "UFV - Universidade Federal de Vicosa"
@@ -718,6 +714,10 @@
     "https://idpcafe.unifran.br/idp/shibboleth": {
         "en": "UNIFRAN - Universidade de Franca",
         "pt-br": "UNIFRAN - Universidade de Franca"
+    },
+    "https://idpcafe.uniube.br/idp/shibboleth": {
+        "en": "UNIUBE - Universidade de Uberaba",
+        "pt-br": "UNIUBE - Universidade de Uberaba"
     },
     "https://idpcafe.upe.br/idp/shibboleth": {
         "en": "UPE - Universidade de Pernambuco",
