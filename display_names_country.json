@@ -1015,6 +1015,10 @@
             "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa",
             "pt-br": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa"
         },
+        "https://capuccino.ifba.edu.br/idp/shibboleth": {
+            "en": "IFBA - Instituto Federal da Bahia",
+            "pt-br": "IFBA - Instituto Federal da Bahia"
+        },
         "https://capuccino2.iff.edu.br/idp/shibboleth": {
             "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
             "pt-br": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense"
@@ -1502,10 +1506,6 @@
         "https://pro-vm-lcafe-01.fnde.gov.br/idp/shibboleth": {
             "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
             "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"
-        },
-        "https://rastreador.ifba.edu.br/idp/shibboleth": {
-            "en": "IFBA - Instituto Federal da Bahia",
-            "pt-br": "IFBA - Instituto Federal da Bahia"
         },
         "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
             "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
@@ -8965,6 +8965,10 @@
             "en": "CROUS Lorraine",
             "fr": "CROUS Lorraine"
         },
+        "https://idp.crous-nantes.fr/idp/shibboleth": {
+            "en": "CROUS de Nantes",
+            "fr": "CROUS de Nantes"
+        },
         "https://idp.crous-normandie.fr/idp/shibboleth": {
             "en": "CROUS Normandie - Personnels v3",
             "fr": "CROUS Normandie - Personnels v3"
@@ -15622,6 +15626,10 @@
         "https://idp.sbu.edu.tr/idp/shibboleth": {
             "en": "Sağlık Bilimleri University",
             "tr": "Sağlık Bilimleri Üniversitesi"
+        },
+        "https://idp.sdu.edu.tr/idp/shibboleth": {
+            "en": "Suleyman Demirel University",
+            "tr": "Süleyman Demirel Üniversitesi"
         },
         "https://idp.sirnak.edu.tr/idp/shibboleth": {
             "en": "Sirnak University",

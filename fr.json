@@ -375,6 +375,10 @@
         "en": "CROUS Lorraine",
         "fr": "CROUS Lorraine"
     },
+    "https://idp.crous-nantes.fr/idp/shibboleth": {
+        "en": "CROUS de Nantes",
+        "fr": "CROUS de Nantes"
+    },
     "https://idp.crous-normandie.fr/idp/shibboleth": {
         "en": "CROUS Normandie - Personnels v3",
         "fr": "CROUS Normandie - Personnels v3"
