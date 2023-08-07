@@ -386,6 +386,9 @@
     "https://idp.sau.int/idp/shibboleth": {
         "en": "SAU Identity Service"
     },
+    "https://idp.sece.ac.in/idp/shibboleth": {
+        "en": "Sri Eshwar College of Engineering"
+    },
     "https://idp.sjec.ac.in/idp/shibboleth": {
         "en": "St Joseph Engineering College, Mangalore"
     },
