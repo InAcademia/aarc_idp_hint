@@ -1351,6 +1351,10 @@
         "de": "WHU - Otto Beisheim School of Management",
         "en": "WHU - Otto Beisheim School of Management"
     },
+    "https://shibboleth1.mpi-muelheim.mpg.de/idp/shibboleth": {
+        "de": "Max Planck Institut fuer Kohlenforschung",
+        "en": "Max Planck Institut fuer Kohlenforschung"
+    },
     "https://shibboleth1.rz.hft-stuttgart.de/idp/shibboleth": {
         "de": "Hochschule für Technik Stuttgart",
         "en": "Hochschule für Technik Stuttgart"

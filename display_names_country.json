@@ -6966,6 +6966,10 @@
             "de": "WHU - Otto Beisheim School of Management",
             "en": "WHU - Otto Beisheim School of Management"
         },
+        "https://shibboleth1.mpi-muelheim.mpg.de/idp/shibboleth": {
+            "de": "Max Planck Institut fuer Kohlenforschung",
+            "en": "Max Planck Institut fuer Kohlenforschung"
+        },
         "https://shibboleth1.rz.hft-stuttgart.de/idp/shibboleth": {
             "de": "Hochschule für Technik Stuttgart",
             "en": "Hochschule für Technik Stuttgart"
@@ -13544,8 +13548,8 @@
             "nl": "Deltares"
         },
         "https://sts.windows.net/25f04329-7216-46b8-91ff-d1f44baa2a21/": {
-            "en": "Vonk (Integration)",
-            "nl": "Vonk (Integratie)"
+            "en": "Vonk",
+            "nl": "Vonk"
         },
         "https://sts.windows.net/2867a850-2fe5-43f7-92b9-8e326586b667/": {
             "en": "Deltion College",
@@ -16689,6 +16693,9 @@
         },
         "https://idp.gateshead.ac.uk/shibboleth": {
             "en": "Gateshead College"
+        },
+        "https://idp.geolsoc.org.uk/openathens": {
+            "en": "The Geological Society Of London"
         },
         "https://idp.gla.ac.uk/shibboleth": {
             "en": "University of Glasgow"
