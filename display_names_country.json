@@ -775,10 +775,6 @@
             "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
             "pt-br": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia"
         },
-        "https://cafe.idp.edu.br/idp/shibboleth": {
-            "en": "IDP - Instituto Brasiliense de Direito Publico",
-            "pt-br": "IDP - Instituto Brasiliense de Direito Publico"
-        },
         "https://cafe.iec.gov.br/idp/shibboleth": {
             "en": "IEC - Instituto Evandro Chagas",
             "pt-br": "IEC - Instituto Evandro Chagas"
@@ -1374,6 +1370,10 @@
         "https://idpcafe.finep.gov.br/idp/shibboleth": {
             "en": "FINEP - Financiadora de Estudos e Projetos",
             "pt-br": "FINEP - Financiadora de Estudos e Projetos"
+        },
+        "https://idpcafe.idp.edu.br/idp/shibboleth": {
+            "en": "IDP - Instituto Brasiliense de Direito Publico",
+            "pt-br": "IDP - Instituto Brasiliense de Direito Publico"
         },
         "https://idpcafe.ifsudestemg.edu.br/idp/shibboleth": {
             "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
@@ -2305,10 +2305,6 @@
         },
         "https://cern.ch/login": {
             "en": "CERN"
-        },
-        "https://eduid.ch/idp/shibboleth": {
-            "de": "SWITCH edu-ID",
-            "en": "SWITCH edu-ID"
         },
         "https://idp.chuv.ch/idp/shibboleth": {
             "en": "CHUV - Centre hospitalier universitaire vaudois",
@@ -12095,6 +12091,10 @@
             "en": "National Institute of Technology,Sasebo College",
             "ja": "佐世保工業高等専門学校"
         },
+        "https://knidp.sendai-nct.ac.jp/idp/shibboleth": {
+            "en": "National Institute of Technology,Sendai College,Natori",
+            "ja": "仙台高等専門学校 名取キャンパス"
+        },
         "https://ksidp.sendai-nct.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Sendai College,Hirose",
             "ja": "仙台高等専門学校　広瀬キャンパス"
@@ -12126,6 +12126,10 @@
         "https://servs.lib.meiji.ac.jp/idp/shibboleth": {
             "en": "Meiji University",
             "ja": "明治大学"
+        },
+        "https://sh-idp.riken.jp/idp/shibboleth": {
+            "en": "RIKEN",
+            "ja": "理化学研究所"
         },
         "https://shib.kumamoto-u.ac.jp/idp/shibboleth": {
             "en": "Kumamoto University",
@@ -16380,9 +16384,6 @@
         "https://idp.bbsrc.ac.uk/babraham": {
             "en": "Babraham Institute"
         },
-        "https://idp.bbsrc.ac.uk/macaulay": {
-            "en": "The James Hutton Institute (Aberdeen)"
-        },
         "https://idp.bbsrc.ac.uk/moredun": {
             "en": "Moredun Research Institute"
         },
@@ -16393,7 +16394,7 @@
             "en": "Rothamsted Research"
         },
         "https://idp.bbsrc.ac.uk/scri": {
-            "en": "The James Hutton Institute (Dundee)"
+            "en": "The James Hutton Institute"
         },
         "https://idp.bbsrc.ac.uk/shibboleth": {
             "en": "BBSRC"

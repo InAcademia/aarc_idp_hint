@@ -223,6 +223,10 @@
         "en": "National Institute of Technology,Sasebo College",
         "ja": "佐世保工業高等専門学校"
     },
+    "https://knidp.sendai-nct.ac.jp/idp/shibboleth": {
+        "en": "National Institute of Technology,Sendai College,Natori",
+        "ja": "仙台高等専門学校 名取キャンパス"
+    },
     "https://ksidp.sendai-nct.ac.jp/idp/shibboleth": {
         "en": "National Institute of Technology,Sendai College,Hirose",
         "ja": "仙台高等専門学校　広瀬キャンパス"
@@ -254,6 +258,10 @@
     "https://servs.lib.meiji.ac.jp/idp/shibboleth": {
         "en": "Meiji University",
         "ja": "明治大学"
+    },
+    "https://sh-idp.riken.jp/idp/shibboleth": {
+        "en": "RIKEN",
+        "ja": "理化学研究所"
     },
     "https://shib.kumamoto-u.ac.jp/idp/shibboleth": {
         "en": "Kumamoto University",

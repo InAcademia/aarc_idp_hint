@@ -103,10 +103,6 @@
         "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
         "pt-br": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia"
     },
-    "https://cafe.idp.edu.br/idp/shibboleth": {
-        "en": "IDP - Instituto Brasiliense de Direito Publico",
-        "pt-br": "IDP - Instituto Brasiliense de Direito Publico"
-    },
     "https://cafe.iec.gov.br/idp/shibboleth": {
         "en": "IEC - Instituto Evandro Chagas",
         "pt-br": "IEC - Instituto Evandro Chagas"
@@ -702,6 +698,10 @@
     "https://idpcafe.finep.gov.br/idp/shibboleth": {
         "en": "FINEP - Financiadora de Estudos e Projetos",
         "pt-br": "FINEP - Financiadora de Estudos e Projetos"
+    },
+    "https://idpcafe.idp.edu.br/idp/shibboleth": {
+        "en": "IDP - Instituto Brasiliense de Direito Publico",
+        "pt-br": "IDP - Instituto Brasiliense de Direito Publico"
     },
     "https://idpcafe.ifsudestemg.edu.br/idp/shibboleth": {
         "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
