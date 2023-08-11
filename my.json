@@ -23,6 +23,12 @@
     "https://sifulan.utar.edu.my/idp/shibboleth": {
         "en": "Universiti Tunku Abdul Rahman"
     },
+    "https://sso-azure.sifulan.id/idp/shibboleth": {
+        "en": "SIFULAN Virtual Home Organisation (Azure)"
+    },
+    "https://sso-google.sifulan.id/idp/shibboleth": {
+        "en": "SIFULAN Virtual Home Organisation (Google)"
+    },
     "https://sso.cckk.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Kuala Kangsar"
     },
