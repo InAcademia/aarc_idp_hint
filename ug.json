@@ -17,6 +17,9 @@
     "https://idp.ucu.ac.ug/shibboleth": {
         "en": "Uganda Christian University"
     },
+    "https://idp.umu.ac.ug/simplesaml/module.php/saml/idp/metadata": {
+        "en": "Uganda Martyrs University"
+    },
     "https://idp.uvri.go.ug/shibboleth": {
         "en": "Uganda Virus Research Institute (UVRI)"
     },

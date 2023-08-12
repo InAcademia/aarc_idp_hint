@@ -475,10 +475,6 @@
         "en": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada",
         "pt-br": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada"
     },
-    "https://idp.asces.edu.br/idp/shibboleth": {
-        "en": "ASCES-UNITA - Centro Universitario Tabosa de Almeida",
-        "pt-br": "ASCES-UNITA - Centro Universitario Tabosa de Almeida"
-    },
     "https://idp.cafe.inep.gov.br/idp/shibboleth": {
         "en": "INEP - Instituto Nacional de Estudos e Pesquisas",
         "pt-br": "INEP - Instituto Nacional de Estudos e Pesquisas"
@@ -700,8 +696,8 @@
         "pt-br": "FINEP - Financiadora de Estudos e Projetos"
     },
     "https://idpcafe.idp.edu.br/idp/shibboleth": {
-        "en": "IDP - Instituto Brasiliense de Direito Publico",
-        "pt-br": "IDP - Instituto Brasiliense de Direito Publico"
+        "en": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia",
+        "pt-br": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia"
     },
     "https://idpcafe.ifsudestemg.edu.br/idp/shibboleth": {
         "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
