@@ -1735,10 +1735,6 @@
             "en": "UNISO - Universidade de Sorocaba",
             "pt-br": "UNISO - Universidade de Sorocaba"
         },
-        "https://srvpidcafe.veigadealmeida.edu.br/idp/shibboleth": {
-            "en": "UVA - Universidade Veiga de Almeida",
-            "pt-br": "UVA - Universidade Veiga de Almeida"
-        },
         "https://sso.uft.edu.br/idp/shibboleth": {
             "en": "UFT - Universidade Federal do Tocantins",
             "pt-br": "UFT - Universidade Federal do Tocantins"
@@ -4205,6 +4201,10 @@
         "https://idp.ucass.edu.cn/idp/shibboleth": {
             "en": "University of Chinese Academy of Social Sciences",
             "zh": "中国社会科学院大学(University of Chinese Academy of Social Sciences)"
+        },
+        "https://idp.uic.edu.cn/idp/shibboleth": {
+            "en": "Beijing Normal University-Hong Kong Baptist University United International College",
+            "zh": "北京师范大学-香港浸会大学联合国际学院(Beijing Normal University-Hong Kong Baptist University United International College)"
         },
         "https://idp.ujn.edu.cn/idp/shibboleth": {
             "en": "University of Jinan",
