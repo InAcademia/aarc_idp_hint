@@ -65,7 +65,7 @@
         "ga": "An Foras Riarachaín"
     },
     "https://idp.itcarlow.ie/idp/shibboleth": {
-        "en": "South East Technological University (Carlow Campus)"
+        "en": "South East Technological University (@itcarlow.ie logins)"
     },
     "https://idp.ittralee.ie/idp": {
         "en": "Institute of Technology Tralee",
@@ -120,7 +120,7 @@
         "en": "Royal Irish Academy of Music"
     },
     "https://idp.setu.ie/idp/shibboleth": {
-        "en": "SETU - Not currently available"
+        "en": "South East Technological University (@setu.ie logins)"
     },
     "https://idp.tcd.ie/idp/shibboleth": {
         "en": "Trinity College Dublin"
@@ -139,7 +139,7 @@
         "ga": "Ollscoil Luimnigh"
     },
     "https://idp.wit.ie/idp/shibboleth": {
-        "en": "South East Technological University (Waterford Campus)"
+        "en": "South East Technological University (@wit.ie logins)"
     },
     "https://idp2.dcu.ie/idp/profile/Metadata/SAML": {
         "en": "Dublin City University"

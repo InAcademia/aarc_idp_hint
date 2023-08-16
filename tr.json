@@ -223,6 +223,10 @@
         "en": "Alanya Alaaddin Keykubat University",
         "tr": "Alanya Alaaddin Keykubat Üniversitesi"
     },
+    "https://kimlik.alparslan.edu.tr/idp/shibboleth": {
+        "en": "Mus Alparslan University",
+        "tr": "Mus Alparslan Üniversitesi"
+    },
     "https://kimlik.altinbas.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Altinbas University",
         "tr": "Altınbaş Üniversitesi"
