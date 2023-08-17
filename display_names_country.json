@@ -2368,6 +2368,10 @@
             "en": "RedCLARA Proxy IdP",
             "es": "RedCLARA Proxy IdP"
         },
+        "https://samlphp.uoh.cl/simplesaml/saml2/idp/metadata.php": {
+            "en": "Universidad de O'Higgins",
+            "es": "Universidad de O'Higgins"
+        },
         "https://sso.uc.cl/cas/idp": {
             "en": "Pontificia Universidad Católica de Chile",
             "es": "Pontificia Universidad Católica de Chile"
@@ -10296,10 +10300,6 @@
             "en": "University of Sopron, Hungary",
             "hu": "Soproni Egyetem"
         },
-        "https://dev.einfra.hu/simplesaml/saml2/idp/metadata.php": {
-            "en": "KIFÜ GitLab",
-            "hu": "KIFÜ GitLab"
-        },
         "https://eduid.abtk.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Research Centre for the Humanities",
             "hu": "Bölcsészettudományi Kutatóközpont"
@@ -14100,6 +14100,9 @@
         "https://idpomren.nct.edu.om/idp": {
             "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
         },
+        "https://idpomren.su.edu.om/idp": {
+            "en": "Sohar University (Shibboleth)"
+        },
         "https://idpsrv01.squ.edu.om/idp/shibboleth": {
             "en": "Sultan Qaboos University (OM-KID)"
         },
@@ -14367,6 +14370,10 @@
         "https://saml.sggw.edu.pl/idp/shibboleth": {
             "en": "The Warsaw University of Life Sciences",
             "pl": "Szkoła Główna Gospodarstwa Wiejskiego w Warszawie"
+        },
+        "https://shib.ans.edu.pl/idp/shibboleth": {
+            "en": "The Angelus Silesius University of Applied Sciences",
+            "pl": "Akademia Nauk Stosowanych Angelusa Silesiusa"
         },
         "https://shib.awf.wroc.pl/idp/shibboleth": {
             "en": "University School of Physical Education in Wroclaw",
@@ -15706,7 +15713,7 @@
         },
         "https://kimlik.alparslan.edu.tr/idp/shibboleth": {
             "en": "Mus Alparslan University",
-            "tr": "Mus Alparslan Üniversitesi"
+            "tr": "Muş Alparslan Üniversitesi"
         },
         "https://kimlik.altinbas.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Altinbas University",

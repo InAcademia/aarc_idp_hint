@@ -23,6 +23,10 @@
         "en": "RedCLARA Proxy IdP",
         "es": "RedCLARA Proxy IdP"
     },
+    "https://samlphp.uoh.cl/simplesaml/saml2/idp/metadata.php": {
+        "en": "Universidad de O'Higgins",
+        "es": "Universidad de O'Higgins"
+    },
     "https://sso.uc.cl/cas/idp": {
         "en": "Pontificia Universidad Católica de Chile",
         "es": "Pontificia Universidad Católica de Chile"

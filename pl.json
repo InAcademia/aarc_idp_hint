@@ -222,6 +222,10 @@
         "en": "The Warsaw University of Life Sciences",
         "pl": "Szkoła Główna Gospodarstwa Wiejskiego w Warszawie"
     },
+    "https://shib.ans.edu.pl/idp/shibboleth": {
+        "en": "The Angelus Silesius University of Applied Sciences",
+        "pl": "Akademia Nauk Stosowanych Angelusa Silesiusa"
+    },
     "https://shib.awf.wroc.pl/idp/shibboleth": {
         "en": "University School of Physical Education in Wroclaw",
         "pl": "Akademia Wychowania Fizycznego we Wrocławiu"
