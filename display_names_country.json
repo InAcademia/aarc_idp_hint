@@ -7826,7 +7826,7 @@
             "es": "Fundación BCMaterials - Basque Center for Materials, Applicationsand Nanostructures"
         },
         "https://www.rediris.es/sir/bneidp": {
-            "en": "Biblioteca Nacional de Espagna",
+            "en": "National Library of Spain",
             "es": "Biblioteca Nacional de España"
         },
         "https://www.rediris.es/sir/bscidp": {
@@ -10656,8 +10656,8 @@
             "en": "National University of Ireland"
         },
         "https://idp.nuigalway.ie/shibboleth": {
-            "en": "National University of Ireland, Galway",
-            "ga": "OÉ Gaillimh"
+            "en": "University of Galway / Ollscoil na Gaillimhe",
+            "ga": "Ollscoil na Gaillimhe"
         },
         "https://idp.nuim.ie/idp/shibboleth": {
             "en": "Maynooth University"
@@ -18393,6 +18393,9 @@
         },
         "https://idp.osc.edu/realms/osc": {
             "en": "Ohio Supercomputer Center (OSC)"
+        },
+        "https://idp.oxy.edu/idp": {
+            "en": "Occidental College"
         },
         "https://idp.pct.edu/idp/shibboleth": {
             "en": "Pennsylvania College of Technology"

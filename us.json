@@ -458,6 +458,9 @@
     "https://idp.osc.edu/realms/osc": {
         "en": "Ohio Supercomputer Center (OSC)"
     },
+    "https://idp.oxy.edu/idp": {
+        "en": "Occidental College"
+    },
     "https://idp.pct.edu/idp/shibboleth": {
         "en": "Pennsylvania College of Technology"
     },
