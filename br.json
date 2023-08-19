@@ -103,6 +103,10 @@
         "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
         "pt-br": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia"
     },
+    "https://cafe.idp.edu.br/idp/shibboleth": {
+        "en": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia",
+        "pt-br": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia"
+    },
     "https://cafe.iec.gov.br/idp/shibboleth": {
         "en": "IEC - Instituto Evandro Chagas",
         "pt-br": "IEC - Instituto Evandro Chagas"
@@ -114,10 +118,6 @@
     "https://cafe.ifma.edu.br/idp/shibboleth": {
         "en": "IFMA - Instituto Federal do Maranhao",
         "pt-br": "IFMA - Instituto Federal do Maranhao"
-    },
-    "https://cafe.ifrj.edu.br/idp/shibboleth": {
-        "en": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro",
-        "pt-br": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro"
     },
     "https://cafe.ifro.edu.br/idp/shibboleth": {
         "en": "IFRO - Instituto Federal de Rondonia",
@@ -694,10 +694,6 @@
     "https://idpcafe.finep.gov.br/idp/shibboleth": {
         "en": "FINEP - Financiadora de Estudos e Projetos",
         "pt-br": "FINEP - Financiadora de Estudos e Projetos"
-    },
-    "https://idpcafe.idp.edu.br/idp/shibboleth": {
-        "en": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia",
-        "pt-br": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia"
     },
     "https://idpcafe.ifsudestemg.edu.br/idp/shibboleth": {
         "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
