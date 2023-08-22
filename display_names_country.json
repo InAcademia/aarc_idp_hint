@@ -791,6 +791,10 @@
             "en": "IFMA - Instituto Federal do Maranhao",
             "pt-br": "IFMA - Instituto Federal do Maranhao"
         },
+        "https://cafe.ifrj.edu.br/idp/shibboleth": {
+            "en": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro",
+            "pt-br": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro"
+        },
         "https://cafe.ifro.edu.br/idp/shibboleth": {
             "en": "IFRO - Instituto Federal de Rondonia",
             "pt-br": "IFRO - Instituto Federal de Rondonia"
@@ -2293,6 +2297,10 @@
         },
         "https://cern.ch/login": {
             "en": "CERN"
+        },
+        "https://eduid.ch/idp/shibboleth": {
+            "de": "SWITCH edu-ID",
+            "en": "SWITCH edu-ID"
         },
         "https://idp.chuv.ch/idp/shibboleth": {
             "en": "CHUV - Centre hospitalier universitaire vaudois",
