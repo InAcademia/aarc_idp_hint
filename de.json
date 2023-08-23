@@ -667,6 +667,10 @@
         "de": "Katholische Hochschule für Sozialwesen Berlin",
         "en": "Catholic University of Applied Sciences Berlin"
     },
+    "https://idp.klassik-stiftung.de/idp/shibboleth": {
+        "de": "IDP der Klassik Stiftung Weimar",
+        "en": "The IDP of the Klassik Stiftung Weimar"
+    },
     "https://idp.ksfh.de/idp/shibboleth": {
         "de": "Katholische Stiftungshochschule München",
         "en": "Katholische Stiftungshochschule München."
