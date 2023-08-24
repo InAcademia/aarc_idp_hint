@@ -747,6 +747,10 @@
             "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
             "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
         },
+        "https://cafe.cnpq.br/idp/shibboleth": {
+            "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
+            "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
+        },
         "https://cafe.espm.br/idp/shibboleth": {
             "en": "ESPM - Escola Superior de Propaganda e Marketing",
             "pt-br": "ESPM - Escola Superior de Propaganda e Marketing"
@@ -951,7 +955,7 @@
             "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
             "pt-br": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ"
         },
-        "https://cafe2.dti.ufv.br.cafe2.dti.ufv.br/idp/shibboleth": {
+        "https://cafe2.dti.ufv.br/idp/shibboleth": {
             "en": "UFV - Universidade Federal de Vicosa",
             "pt-br": "UFV - Universidade Federal de Vicosa"
         },
@@ -13092,6 +13096,10 @@
         "http://websso1.um.edu.mo/adfs/services/trust": {
             "en": "University of Macau",
             "zh": "澳門大學"
+        },
+        "https://aai.ceni.org.cn/saml/idp": {
+            "en": "CENI",
+            "zh": "CENI"
         },
         "https://aai.cstcloud.net/saml/idp": {
             "en": "CSTCloud AAI",

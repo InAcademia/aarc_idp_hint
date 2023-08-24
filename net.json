@@ -3,6 +3,10 @@
         "en": "University of Macau",
         "zh": "澳門大學"
     },
+    "https://aai.ceni.org.cn/saml/idp": {
+        "en": "CENI",
+        "zh": "CENI"
+    },
     "https://aai.cstcloud.net/saml/idp": {
         "en": "CSTCloud AAI",
         "zh": "中国科技云身份认证联盟(CSTCloud AAI)"
