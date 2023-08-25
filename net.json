@@ -4,8 +4,8 @@
         "zh": "澳門大學"
     },
     "https://aai.ceni.org.cn/saml/idp": {
-        "en": "CENI",
-        "zh": "CENI"
+        "en": "CENI AAI",
+        "zh": "CENI AAI"
     },
     "https://aai.cstcloud.net/saml/idp": {
         "en": "CSTCloud AAI",

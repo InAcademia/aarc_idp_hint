@@ -751,6 +751,10 @@
             "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
             "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
         },
+        "https://cafe.dti.ufv.br/idp/shibboleth": {
+            "en": "UFV - Universidade Federal de Vicosa",
+            "pt-br": "UFV - Universidade Federal de Vicosa"
+        },
         "https://cafe.espm.br/idp/shibboleth": {
             "en": "ESPM - Escola Superior de Propaganda e Marketing",
             "pt-br": "ESPM - Escola Superior de Propaganda e Marketing"
@@ -954,10 +958,6 @@
         "https://cafe2.cecierj.edu.br/idp/shibboleth": {
             "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
             "pt-br": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ"
-        },
-        "https://cafe2.dti.ufv.br/idp/shibboleth": {
-            "en": "UFV - Universidade Federal de Vicosa",
-            "pt-br": "UFV - Universidade Federal de Vicosa"
         },
         "https://cafe2.unesp.br/idp/shibboleth": {
             "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
@@ -12695,12 +12695,6 @@
         "https://sifulan.utar.edu.my/idp/shibboleth": {
             "en": "Universiti Tunku Abdul Rahman"
         },
-        "https://sso-azure.sifulan.id/idp/shibboleth": {
-            "en": "SIFULAN Virtual Home Organisation (Azure)"
-        },
-        "https://sso-google.sifulan.id/idp/shibboleth": {
-            "en": "SIFULAN Virtual Home Organisation (Google)"
-        },
         "https://sso.cckk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kuala Kangsar"
         },
@@ -13098,8 +13092,8 @@
             "zh": "澳門大學"
         },
         "https://aai.ceni.org.cn/saml/idp": {
-            "en": "CENI",
-            "zh": "CENI"
+            "en": "CENI AAI",
+            "zh": "CENI AAI"
         },
         "https://aai.cstcloud.net/saml/idp": {
             "en": "CSTCloud AAI",
@@ -17297,9 +17291,6 @@
         },
         "https://idp.tower.ac.uk/openathens": {
             "en": "New City College"
-        },
-        "https://idp.treloar.org.uk/idp/shibboleth": {
-            "en": "Treloar's"
         },
         "https://idp.turing.ac.uk/entity": {
             "en": "The Alan Turing Institute"
