@@ -79,10 +79,6 @@
         "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
         "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
     },
-    "https://cafe.dti.ufv.br/idp/shibboleth": {
-        "en": "UFV - Universidade Federal de Vicosa",
-        "pt-br": "UFV - Universidade Federal de Vicosa"
-    },
     "https://cafe.espm.br/idp/shibboleth": {
         "en": "ESPM - Escola Superior de Propaganda e Marketing",
         "pt-br": "ESPM - Escola Superior de Propaganda e Marketing"
@@ -287,6 +283,10 @@
         "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
         "pt-br": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ"
     },
+    "https://cafe2.dti.ufv.br/idp/shibboleth": {
+        "en": "UFV - Universidade Federal de Vicosa",
+        "pt-br": "UFV - Universidade Federal de Vicosa"
+    },
     "https://cafe2.unesp.br/idp/shibboleth": {
         "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
         "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
@@ -426,10 +426,6 @@
     "https://idp-cafe.ifs.edu.br/idp/shibboleth": {
         "en": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe",
         "pt-br": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe"
-    },
-    "https://idp-cafe.ifsertao-pe.edu.br/idp/shibboleth": {
-        "en": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano",
-        "pt-br": "IFSERTAOPE - Instituto Federal de Educacao, Ciencia e Tecnologia do Sertao Pernambucano"
     },
     "https://idp-cafe.inma.gov.br/idp/shibboleth": {
         "en": "INMA - Instituto Nacional da Mata Atlantica",
@@ -702,6 +698,10 @@
     "https://idpcafe.finep.gov.br/idp/shibboleth": {
         "en": "FINEP - Financiadora de Estudos e Projetos",
         "pt-br": "FINEP - Financiadora de Estudos e Projetos"
+    },
+    "https://idpcafe.ifsertao-pe.edu.br/idp/shibboleth": {
+        "en": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano",
+        "pt-br": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano"
     },
     "https://idpcafe.ifsudestemg.edu.br/idp/shibboleth": {
         "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
