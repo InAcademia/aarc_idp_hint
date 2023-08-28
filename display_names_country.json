@@ -96,10 +96,6 @@
             "de": "Gustav Mahler Privatuniversität",
             "en": "Gustav Mahler Private University"
         },
-        "https://idp.haydnkons.at/idp/shibboleth": {
-            "de": "Joseph Haydn Konservatorium",
-            "en": "Joseph Haydn Conservatory"
-        },
         "https://idp.iiasa.ac.at/idp/shibboleth": {
             "de": "International Institute for Applied Systems Analysis (IIASA)",
             "en": "International Institute for Applied Systems Analysis (IIASA)"
@@ -107,6 +103,10 @@
         "https://idp.ista.ac.at/idp/shibboleth": {
             "de": "Institute of Science and Technology Austria (ISTA)",
             "en": "Institute of Science and Technology Austria (ISTA)"
+        },
+        "https://idp.jhp.ac.at/idp/shibboleth": {
+            "de": "Joseph Haydn Privathochschule",
+            "en": "Joseph Haydn Private University"
         },
         "https://idp.kl.ac.at/idp/shibboleth": {
             "de": "Karl Landsteiner Privatuniversität für Gesundheitswissenschaften",
@@ -3589,6 +3589,10 @@
         "https://idp.mju.edu.cn/idp/shibboleth": {
             "en": "MinJiang University",
             "zh": "闽江学院(MinJiang University)"
+        },
+        "https://idp.mtc.edu.cn/idp/shibboleth": {
+            "en": "Mianyang Teachers' College",
+            "zh": "绵阳师范学院(Mianyang Teachers' College)"
         },
         "https://idp.must.edu.mo/idp/shibboleth": {
             "en": "Macau University of Science and Technology",
