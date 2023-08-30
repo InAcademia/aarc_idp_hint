@@ -1298,9 +1298,6 @@
     "https://webapp.bgsu.edu/idp/shibboleth": {
         "en": "Bowling Green State University"
     },
-    "https://webauth.auburn.edu/idp/shibboleth": {
-        "en": "Auburn University"
-    },
     "https://webauth.cedarcrest.edu/idp/shibboleth": {
         "en": "Cedar Crest College"
     },

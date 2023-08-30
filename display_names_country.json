@@ -755,6 +755,10 @@
             "en": "ESPM - Escola Superior de Propaganda e Marketing",
             "pt-br": "ESPM - Escola Superior de Propaganda e Marketing"
         },
+        "https://cafe.fmc-campos.com.br/idp/shibboleth": {
+            "en": "FMC - Faculdade de Medicina de Campos",
+            "pt-br": "FMC - Faculdade de Medicina de Campos"
+        },
         "https://cafe.fucape.br/idp/shibboleth": {
             "en": "FUCAPE - Fundacao Instituto Capixaba de Pesquisa em Cont. Econ. e Financas",
             "pt-br": "FUCAPE - Fundacao Instituto Capixaba de Pesquisa em Cont. Econ. e Financas"
@@ -1066,6 +1070,10 @@
         "https://fusion.ceub.br/idp/shibboleth": {
             "en": "UNICEUB - Centro Universitario de Brasilia",
             "pt-br": "UNICEUB - Centro Universitario de Brasilia"
+        },
+        "https://hc-idpcafe.hc.ufpr.br/idp/shibboleth": {
+            "en": "CHC-UFPR - Complexo Hospital de Clinicas",
+            "pt-br": "CHC-UFPR - Complexo Hospital de Clinicas"
         },
         "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
             "en": "IFAP - Instituto Federal do Amapa",
@@ -19259,9 +19267,6 @@
         },
         "https://webapp.bgsu.edu/idp/shibboleth": {
             "en": "Bowling Green State University"
-        },
-        "https://webauth.auburn.edu/idp/shibboleth": {
-            "en": "Auburn University"
         },
         "https://webauth.cedarcrest.edu/idp/shibboleth": {
             "en": "Cedar Crest College"
