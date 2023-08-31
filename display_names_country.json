@@ -851,6 +851,10 @@
             "en": "MS - Ministerio da Saude",
             "pt-br": "MS - Ministerio da Saude"
         },
+        "https://cafe.sbc.org.br/idp/shibboleth": {
+            "en": "SBC - Sociedade Brasileira de Computacao",
+            "pt-br": "SBC - Sociedade Brasileira de Computacao"
+        },
         "https://cafe.sede.embrapa.br/idp/shibboleth": {
             "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
             "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
@@ -970,6 +974,10 @@
         "https://cafe2.unesp.br/idp/shibboleth": {
             "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
             "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
+        },
+        "https://cafe2.unoeste.br/idp/shibboleth": {
+            "en": "UNOESTE - Universidade do Oeste Paulista",
+            "pt-br": "UNOESTE - Universidade do Oeste Paulista"
         },
         "https://cafe2022.lncc.br/idp/shibboleth": {
             "en": "LNCC - Laboratorio Nacional de Computacao Cientifica",
@@ -1482,6 +1490,10 @@
         "https://login.ufrgs.br/idp/shibboleth": {
             "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
             "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
+        },
+        "https://netsr-cafe03.unioeste.br/idp/shibboleth": {
+            "en": "UNIOESTE - Universidade Estadual do Oeste do Parana",
+            "pt-br": "UNIOESTE - Universidade Estadual do Oeste do Parana"
         },
         "https://onca.museu-goeldi.br/idp/shibboleth": {
             "en": "MPEG - Museu Paraense Emilio Goeldi",
@@ -8853,6 +8865,10 @@
             "en": "Université Catholique de Lyon",
             "fr": "Université Catholique de Lyon"
         },
+        "https://idauth.insa-lyon.fr/realms/insa-lyon": {
+            "en": "INSA Lyon (idauth)",
+            "fr": "INSA Lyon (idauth)"
+        },
         "https://ident-shib.ensc-rennes.fr/idp/shibboleth": {
             "en": "Ecole Nationale Supérieure de Chimie de Rennes",
             "fr": "Ecole Nationale Supérieure de Chimie de Rennes"
@@ -12239,6 +12255,10 @@
             "en": "Ochanomizu University",
             "ja": "お茶の水女子大学"
         },
+        "https://ush.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "University of the Sacred Heart, Tokyo",
+            "ja": "聖心女子大学"
+        },
         "https://vairocana.okinawa-u.ac.jp/idp/shibboleth": {
             "en": "Okinawa University",
             "ja": "沖縄大学"
@@ -13867,6 +13887,9 @@
         },
         "https://idp.plantandfood.co.nz/idp/shibboleth": {
             "en": "Plant and Food Research"
+        },
+        "https://idp.scionresearch.com/idp/shibboleth": {
+            "en": "Scion"
         },
         "https://idp.vuw.ac.nz/idp/shibboleth": {
             "en": "Victoria University of Wellington"
@@ -18035,6 +18058,9 @@
         "https://account.vcccd.edu": {
             "en": "Ventura County Comm College District"
         },
+        "https://ahu.edu/idp": {
+            "en": "AdventHealth University (new)"
+        },
         "https://alumidp.princeton.edu/idp/shibboleth": {
             "en": "Princeton University Alumni"
         },
@@ -19267,6 +19293,9 @@
         },
         "https://webapp.bgsu.edu/idp/shibboleth": {
             "en": "Bowling Green State University"
+        },
+        "https://webauth.auburn.edu/idp/shibboleth": {
+            "en": "Auburn University"
         },
         "https://webauth.cedarcrest.edu/idp/shibboleth": {
             "en": "Cedar Crest College"

@@ -339,6 +339,10 @@
         "en": "Ochanomizu University",
         "ja": "お茶の水女子大学"
     },
+    "https://ush.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "University of the Sacred Heart, Tokyo",
+        "ja": "聖心女子大学"
+    },
     "https://vairocana.okinawa-u.ac.jp/idp/shibboleth": {
         "en": "Okinawa University",
         "ja": "沖縄大学"

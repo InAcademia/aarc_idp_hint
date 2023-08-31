@@ -179,6 +179,10 @@
         "en": "MS - Ministerio da Saude",
         "pt-br": "MS - Ministerio da Saude"
     },
+    "https://cafe.sbc.org.br/idp/shibboleth": {
+        "en": "SBC - Sociedade Brasileira de Computacao",
+        "pt-br": "SBC - Sociedade Brasileira de Computacao"
+    },
     "https://cafe.sede.embrapa.br/idp/shibboleth": {
         "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
         "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
@@ -298,6 +302,10 @@
     "https://cafe2.unesp.br/idp/shibboleth": {
         "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
         "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
+    },
+    "https://cafe2.unoeste.br/idp/shibboleth": {
+        "en": "UNOESTE - Universidade do Oeste Paulista",
+        "pt-br": "UNOESTE - Universidade do Oeste Paulista"
     },
     "https://cafe2022.lncc.br/idp/shibboleth": {
         "en": "LNCC - Laboratorio Nacional de Computacao Cientifica",
@@ -810,6 +818,10 @@
     "https://login.ufrgs.br/idp/shibboleth": {
         "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
         "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
+    },
+    "https://netsr-cafe03.unioeste.br/idp/shibboleth": {
+        "en": "UNIOESTE - Universidade Estadual do Oeste do Parana",
+        "pt-br": "UNIOESTE - Universidade Estadual do Oeste do Parana"
     },
     "https://onca.museu-goeldi.br/idp/shibboleth": {
         "en": "MPEG - Museu Paraense Emilio Goeldi",

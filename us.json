@@ -65,6 +65,9 @@
     "https://account.vcccd.edu": {
         "en": "Ventura County Comm College District"
     },
+    "https://ahu.edu/idp": {
+        "en": "AdventHealth University (new)"
+    },
     "https://alumidp.princeton.edu/idp/shibboleth": {
         "en": "Princeton University Alumni"
     },
@@ -1297,6 +1300,9 @@
     },
     "https://webapp.bgsu.edu/idp/shibboleth": {
         "en": "Bowling Green State University"
+    },
+    "https://webauth.auburn.edu/idp/shibboleth": {
+        "en": "Auburn University"
     },
     "https://webauth.cedarcrest.edu/idp/shibboleth": {
         "en": "Cedar Crest College"

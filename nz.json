@@ -32,6 +32,9 @@
     "https://idp.plantandfood.co.nz/idp/shibboleth": {
         "en": "Plant and Food Research"
     },
+    "https://idp.scionresearch.com/idp/shibboleth": {
+        "en": "Scion"
+    },
     "https://idp.vuw.ac.nz/idp/shibboleth": {
         "en": "Victoria University of Wellington"
     },

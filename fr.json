@@ -235,6 +235,10 @@
         "en": "Université Catholique de Lyon",
         "fr": "Université Catholique de Lyon"
     },
+    "https://idauth.insa-lyon.fr/realms/insa-lyon": {
+        "en": "INSA Lyon (idauth)",
+        "fr": "INSA Lyon (idauth)"
+    },
     "https://ident-shib.ensc-rennes.fr/idp/shibboleth": {
         "en": "Ecole Nationale Supérieure de Chimie de Rennes",
         "fr": "Ecole Nationale Supérieure de Chimie de Rennes"
