@@ -9173,10 +9173,6 @@
             "en": "IPSA, Institute of Polytechnic Science and Aeronautics",
             "fr": "IPSA - Ecole d'ingénieurs aéronautique et spatiale"
         },
-        "https://idp.irstea.fr/idp/shibboleth": {
-            "en": "IRSTEA - National Research Institute of Science and Technology for Environment and Agriculture",
-            "fr": "IRSTEA - Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture"
-        },
         "https://idp.isara.fr/idp/shibboleth": {
             "en": "ISARA",
             "fr": "ISARA"
