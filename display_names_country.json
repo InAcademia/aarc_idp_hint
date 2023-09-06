@@ -1111,6 +1111,10 @@
             "en": "IFB - Instituto Federal de Brasilia",
             "pt-br": "IFB - Instituto Federal de Brasilia"
         },
+        "https://idp-cafe.ifgoiano.edu.br/idp/shibboleth": {
+            "en": "IFGOIANO - Instituto Federal Goiano",
+            "pt-br": "IFGOIANO - Instituto Federal Goiano"
+        },
         "https://idp-cafe.ifpi.edu.br/idp/shibboleth": {
             "en": "IFPI - Instituto Federal do Piaui",
             "pt-br": "IFPI - Instituto Federal do Piaui"
@@ -1122,6 +1126,10 @@
         "https://idp-cafe.inma.gov.br/idp/shibboleth": {
             "en": "INMA - Instituto Nacional da Mata Atlantica",
             "pt-br": "INMA - Instituto Nacional da Mata Atlantica"
+        },
+        "https://idp-cafe.ird.gov.br/idp/shibboleth": {
+            "en": "IRD - Instituto de Radioprotecao e Dosimetria",
+            "pt-br": "IRD - Instituto de Radioprotecao e Dosimetria"
         },
         "https://idp-cafe.uea.edu.br/idp/shibboleth": {
             "en": "UEA - Universidade do Estado do Amazonas",
@@ -2609,10 +2617,6 @@
         "https://idp-tsg.sdmc.edu.cn/idp/shibboleth": {
             "en": "Shandong Medical College",
             "zh": "山东医学高等专科学校(Shandong Medical College)"
-        },
-        "https://idp-xxglzx.ynufe.edu.cn/idp/shibboleth": {
-            "en": "Yunnan University of Finance and Economics",
-            "zh": "云南财经大学(Yunnan University of Finance and Economics)"
         },
         "https://idp.5aaa.com/idp/shibboleth": {
             "en": "University For Science & Technology Beijing",
@@ -10606,7 +10610,7 @@
             "ga": "Coláiste na hOllscoile Corcaigh"
         },
         "https://idp.ait.ie/idp/shibboleth": {
-            "en": "Technological University of the Shannon: Midlands"
+            "en": "TUS Midlands (@ait.ie logins)"
         },
         "https://idp.atu.ie/idp/shibboleth": {
             "en": "Atlantic Technological University",
@@ -10667,7 +10671,7 @@
             "ga": "Institiúid Teicneolaíochta, Trá Lí"
         },
         "https://idp.lit.ie/saml2": {
-            "en": "Technological University of the Shannon: Midwest"
+            "en": "TUS Midwest (@lit.ie logins)"
         },
         "https://idp.lyit.ie/idp/shibboleth": {
             "en": "Letterkenny Institute of Technology",
@@ -10727,7 +10731,7 @@
             "en": "TU Dublin (TU Dublin login)"
         },
         "https://idp.tus.ie/idp/shibboleth": {
-            "en": "Technological University of the Shannon: Midlands Midwest"
+            "en": "Technological University of the Shannon: Midlands Midwest (@tus.ie logins)"
         },
         "https://idp.ul.ie/idp/shibboleth": {
             "en": "University of Limerick",
@@ -11509,7 +11513,7 @@
         },
         "https://idp-intna.irccs.garr.it/idp/shibboleth": {
             "en": "IRCCS Pascale - Napoli",
-            "it": "IRCCS Istituto Nazionale Tumori \"Fondazione G. Pascale\" Napoli"
+            "it": "IRCCS Istituto Nazionale Tumori 'Fondazione G. Pascale' Napoli"
         },
         "https://idp-ior.irccs.garr.it/idp/shibboleth": {
             "en": "IRCCS Rizzoli Orthopaedic Institute - Bologna",
@@ -17993,6 +17997,9 @@
         },
         "http://adfs.nic.edu/adfs/services/trust": {
             "en": "North Idaho College"
+        },
+        "http://adfs.nku.edu/adfs/services/trust": {
+            "en": "Northern Kentucky University"
         },
         "http://adfs.nsf.gov/adfs/services/trust": {
             "en": "NSF (National Science Foundation ) Staff Login"

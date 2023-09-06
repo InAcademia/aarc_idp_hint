@@ -439,6 +439,10 @@
         "en": "IFB - Instituto Federal de Brasilia",
         "pt-br": "IFB - Instituto Federal de Brasilia"
     },
+    "https://idp-cafe.ifgoiano.edu.br/idp/shibboleth": {
+        "en": "IFGOIANO - Instituto Federal Goiano",
+        "pt-br": "IFGOIANO - Instituto Federal Goiano"
+    },
     "https://idp-cafe.ifpi.edu.br/idp/shibboleth": {
         "en": "IFPI - Instituto Federal do Piaui",
         "pt-br": "IFPI - Instituto Federal do Piaui"
@@ -450,6 +454,10 @@
     "https://idp-cafe.inma.gov.br/idp/shibboleth": {
         "en": "INMA - Instituto Nacional da Mata Atlantica",
         "pt-br": "INMA - Instituto Nacional da Mata Atlantica"
+    },
+    "https://idp-cafe.ird.gov.br/idp/shibboleth": {
+        "en": "IRD - Instituto de Radioprotecao e Dosimetria",
+        "pt-br": "IRD - Instituto de Radioprotecao e Dosimetria"
     },
     "https://idp-cafe.uea.edu.br/idp/shibboleth": {
         "en": "UEA - Universidade do Estado do Amazonas",
