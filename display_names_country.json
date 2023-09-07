@@ -2618,6 +2618,10 @@
             "en": "Shandong Medical College",
             "zh": "山东医学高等专科学校(Shandong Medical College)"
         },
+        "https://idp-xxglzx.ynufe.edu.cn/idp/shibboleth": {
+            "en": "Yunnan University of Finance and Economics",
+            "zh": "云南财经大学(Yunnan University of Finance and Economics)"
+        },
         "https://idp.5aaa.com/idp/shibboleth": {
             "en": "University For Science & Technology Beijing",
             "zh": "北京科技职业学院(University For Science & Technology Beijing)"
@@ -4245,10 +4249,6 @@
         "https://idp.ucass.edu.cn/idp/shibboleth": {
             "en": "University of Chinese Academy of Social Sciences",
             "zh": "中国社会科学院大学(University of Chinese Academy of Social Sciences)"
-        },
-        "https://idp.uic.edu.cn/idp/shibboleth": {
-            "en": "Beijing Normal University-Hong Kong Baptist University United International College",
-            "zh": "北京师范大学-香港浸会大学联合国际学院(Beijing Normal University-Hong Kong Baptist University United International College)"
         },
         "https://idp.ujn.edu.cn/idp/shibboleth": {
             "en": "University of Jinan",
@@ -6757,6 +6757,10 @@
         "https://login.hspv.nrw.de/idp/shibboleth": {
             "de": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen",
             "en": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen"
+        },
+        "https://login.kunsthochschule-bayern.de/idp/shibboleth": {
+            "de": "Kunsthochschule Bayern",
+            "en": "Kunsthochschule Bayern"
         },
         "https://login.leibniz-gemeinschaft.de/idp/shibboleth": {
             "de": "Leibniz-Gemeinschaft - Geschäftsstelle",
@@ -9592,10 +9596,6 @@
         "https://sesame.ifsttar.fr/idp/shibboleth": {
             "en": "IFSTTAR",
             "fr": "IFSTTAR"
-        },
-        "https://shib-pp.unicaen.fr/idp/shibboleth": {
-            "en": "Université de Caen Normandie - preprod",
-            "fr": "Université de Caen Normandie - preprod"
         },
         "https://shib.mines-albi.fr/idp/shibboleth": {
             "en": "IMT Mines Albi",
@@ -16236,6 +16236,9 @@
         "https://idp.idi.co.ug/shibboleth": {
             "en": "Infectious Diseases Institute"
         },
+        "https://idp.kyu.ac.ug/idp/shibboleth": {
+            "en": "Kyambogo University"
+        },
         "https://idp.lubagahospital.org/idp/shibboleth": {
             "en": "Uganda Martyrs Hospital Lubaga"
         },
@@ -16259,6 +16262,9 @@
         },
         "https://login.rhsp.org/idp/shibboleth": {
             "en": "Rakai Health Sciences Program"
+        },
+        "https://rif.mubs.ac.ug/idp/shibboleth": {
+            "en": "Makerere University Business School"
         }
     },
     "uk": {
@@ -19175,7 +19181,7 @@
             "en": "New - Milwaukee School of Engineering"
         },
         "https://sso.mssm.edu/idp": {
-            "en": "Icahn School of Medicine at Mount Sinai"
+            "en": "Icahn School of Medicine Network"
         },
         "https://sso.mtu.edu/idp/shibboleth": {
             "en": "Michigan Technological University"

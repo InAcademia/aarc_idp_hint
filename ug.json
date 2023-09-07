@@ -5,6 +5,9 @@
     "https://idp.idi.co.ug/shibboleth": {
         "en": "Infectious Diseases Institute"
     },
+    "https://idp.kyu.ac.ug/idp/shibboleth": {
+        "en": "Kyambogo University"
+    },
     "https://idp.lubagahospital.org/idp/shibboleth": {
         "en": "Uganda Martyrs Hospital Lubaga"
     },
@@ -28,5 +31,8 @@
     },
     "https://login.rhsp.org/idp/shibboleth": {
         "en": "Rakai Health Sciences Program"
+    },
+    "https://rif.mubs.ac.ug/idp/shibboleth": {
+        "en": "Makerere University Business School"
     }
 }

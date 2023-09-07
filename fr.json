@@ -959,10 +959,6 @@
         "en": "IFSTTAR",
         "fr": "IFSTTAR"
     },
-    "https://shib-pp.unicaen.fr/idp/shibboleth": {
-        "en": "Université de Caen Normandie - preprod",
-        "fr": "Université de Caen Normandie - preprod"
-    },
     "https://shib.mines-albi.fr/idp/shibboleth": {
         "en": "IMT Mines Albi",
         "fr": "IMT Mines Albi"
