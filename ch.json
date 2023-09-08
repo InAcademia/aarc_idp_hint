@@ -22,6 +22,10 @@
         "de": "EHB / HEFP / SUFFP - Die eidgenössische Hochschule für Berufsbildung",
         "en": "SFUVET - Swiss Federal University for Vocational Education and Training"
     },
+    "https://aai-login.ehsm.ch/idp/shibboleth": {
+        "de": "Eidg. Hochschule für Sport Magglingen",
+        "en": "Eidg. Hochschule für Sport Magglingen"
+    },
     "https://aai-login.euresearch.ch/idp/shibboleth": {
         "en": "Euresearch Head Office"
     },
