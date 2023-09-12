@@ -875,6 +875,10 @@
         "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications",
         "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications"
     },
+    "https://idp4.crous-lorraine.fr/idp/shibboleth": {
+        "en": "CROUS Lorraine v4",
+        "fr": "CROUS Lorraine v4"
+    },
     "https://idp4.unicaen.fr/idp/shibboleth": {
         "en": "University of Caen Normandie  V4",
         "fr": "Université de Caen Normandie V4"

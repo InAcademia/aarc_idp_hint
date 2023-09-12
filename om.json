@@ -114,7 +114,7 @@
         "en": "University of Technology and Applied Sciences - Al Musanna (shibboleth)"
     },
     "https://idp.buc.edu.om/idp": {
-        "en": "Buraimi University College"
+        "en": "Al Buraimi University College"
     },
     "https://idp.css.edu.om/idp": {
         "en": "College of Shari'a Sciences (shibb)"
@@ -241,6 +241,9 @@
     },
     "https://idpomren.majancollege.edu.om/idp": {
         "en": "Majan University College(shibboleth)"
+    },
+    "https://idpomren.moheri.edu.om/idp": {
+        "en": "Research and Education Center (Shibboleth)"
     },
     "https://idpomren.mtc.edu.om/idp": {
         "en": "Military Technological College (shibboleth)"

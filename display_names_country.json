@@ -3046,10 +3046,6 @@
             "en": "Fujian University of Traditional Chinese Medicine",
             "zh": "福建中医药大学(Fujian University of Traditional Chinese Medicine)"
         },
-        "https://idp.fjut.edu.cn/idp/shibboleth": {
-            "en": "Fujian University of Technology",
-            "zh": "福建工程学院(Fujian University of Technology)"
-        },
         "https://idp.fosu.edu.cn/idp/shibboleth": {
             "en": "Foshan University",
             "zh": "佛山科学技术学院(Foshan University)"
@@ -3449,10 +3445,6 @@
         "https://idp.jgsu.edu.cn/idp/shibboleth": {
             "en": "Jinggangshan University",
             "zh": "井冈山大学(Jinggangshan University)"
-        },
-        "https://idp.jhun.edu.cn/idp/shibboleth": {
-            "en": "Jianghan University",
-            "zh": "江汉大学(Jianghan University )"
         },
         "https://idp.jiangnan.edu.cn/idp/shibboleth": {
             "en": "Jiangnan University",
@@ -6319,8 +6311,8 @@
             "en": "Catholic University of Applied Sciences Berlin"
         },
         "https://idp.klassik-stiftung.de/idp/shibboleth": {
-            "de": "IDP der Klassik Stiftung Weimar",
-            "en": "The IDP of the Klassik Stiftung Weimar"
+            "de": "IDP der \"Klassik Stiftung Weimar\"",
+            "en": "IDP of the \"Klassik Stiftung Weimar\""
         },
         "https://idp.ksfh.de/idp/shibboleth": {
             "de": "Katholische Stiftungshochschule München",
@@ -9512,6 +9504,10 @@
         "https://idp4.cereq.fr/idp/shibboleth": {
             "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications",
             "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications"
+        },
+        "https://idp4.crous-lorraine.fr/idp/shibboleth": {
+            "en": "CROUS Lorraine v4",
+            "fr": "CROUS Lorraine v4"
         },
         "https://idp4.unicaen.fr/idp/shibboleth": {
             "en": "University of Caen Normandie  V4",
@@ -14021,7 +14017,7 @@
             "en": "University of Technology and Applied Sciences - Al Musanna (shibboleth)"
         },
         "https://idp.buc.edu.om/idp": {
-            "en": "Buraimi University College"
+            "en": "Al Buraimi University College"
         },
         "https://idp.css.edu.om/idp": {
             "en": "College of Shari'a Sciences (shibb)"
@@ -14148,6 +14144,9 @@
         },
         "https://idpomren.majancollege.edu.om/idp": {
             "en": "Majan University College(shibboleth)"
+        },
+        "https://idpomren.moheri.edu.om/idp": {
+            "en": "Research and Education Center (Shibboleth)"
         },
         "https://idpomren.mtc.edu.om/idp": {
             "en": "Military Technological College (shibboleth)"
