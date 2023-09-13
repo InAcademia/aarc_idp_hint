@@ -451,6 +451,10 @@
         "en": "China Pharmaceutical University",
         "zh": "中国药科大学(China Pharmaceutical University)"
     },
+    "https://idp.cqctcm.edu.cn/idp/shibboleth": {
+        "en": "Chongqing College Of Traditional Chinese Medicine",
+        "zh": "重庆中医药学院(Chongqing College Of Traditional Chinese Medicine)"
+    },
     "https://idp.cqie.edu.cn/idp/shibboleth": {
         "en": "Chongqing Institute Of Engineering",
         "zh": "重庆工程学院(Chongqing Institute Of Engineering)"
@@ -1918,10 +1922,6 @@
     "https://idp.wmu.edu.cn/idp/shibboleth": {
         "en": "Wenzhou Medical University",
         "zh": "温州医科大学(Wenzhou Medical University)"
-    },
-    "https://idp.wnmc.edu.cn/idp/shibboleth": {
-        "en": "Wannan Medical College",
-        "zh": "皖南医学院(Wannan Medical College)"
     },
     "https://idp.wnu.edu.cn/idp/shibboleth": {
         "en": "Weinan Normal University",

@@ -1767,6 +1767,10 @@
             "en": "UNISO - Universidade de Sorocaba",
             "pt-br": "UNISO - Universidade de Sorocaba"
         },
+        "https://srvpidpcafe.veigadealmeida.edu.br/idp/shibboleth": {
+            "en": "UVA - Universidade Veiga de Almeida",
+            "pt-br": "UVA - Universidade Veiga de Almeida"
+        },
         "https://sso.uft.edu.br/idp/shibboleth": {
             "en": "UFT - Universidade Federal do Tocantins",
             "pt-br": "UFT - Universidade Federal do Tocantins"
@@ -2869,6 +2873,10 @@
         "https://idp.cpu.edu.cn/idp/shibboleth": {
             "en": "China Pharmaceutical University",
             "zh": "中国药科大学(China Pharmaceutical University)"
+        },
+        "https://idp.cqctcm.edu.cn/idp/shibboleth": {
+            "en": "Chongqing College Of Traditional Chinese Medicine",
+            "zh": "重庆中医药学院(Chongqing College Of Traditional Chinese Medicine)"
         },
         "https://idp.cqie.edu.cn/idp/shibboleth": {
             "en": "Chongqing Institute Of Engineering",
@@ -4337,10 +4345,6 @@
         "https://idp.wmu.edu.cn/idp/shibboleth": {
             "en": "Wenzhou Medical University",
             "zh": "温州医科大学(Wenzhou Medical University)"
-        },
-        "https://idp.wnmc.edu.cn/idp/shibboleth": {
-            "en": "Wannan Medical College",
-            "zh": "皖南医学院(Wannan Medical College)"
         },
         "https://idp.wnu.edu.cn/idp/shibboleth": {
             "en": "Weinan Normal University",
@@ -13543,10 +13547,6 @@
             "en": "Netherlands eScience Center",
             "nl": "Netherlands eScience Center"
         },
-        "https://saml.nin.knaw.nl/simplesaml/saml2/idp/metadata.php": {
-            "en": "Netherlands Institute for Neuroscience (KNAW)",
-            "nl": "Nederlands Herseninstituut (KNAW)"
-        },
         "https://saml.uvt.nl/saml2/idp/metadata.php": {
             "en": "Tilburg University",
             "nl": "Universiteit van Tilburg"
@@ -13770,6 +13770,10 @@
         "https://sts.windows.net/aabe793f-b39c-440c-8e1a-0dcfb6215609/": {
             "en": "Codarts University of the Arts",
             "nl": "Codarts Hogeschool voor de Kunsten"
+        },
+        "https://sts.windows.net/ac4b0eb0-811e-4ab0-acca-8a87079290dc/": {
+            "en": "Netherlands Institute for Neuroscience (KNAW)",
+            "nl": "Nederlands Herseninstituut (KNAW)"
         },
         "https://sts.windows.net/ad78d191-1044-4303-8212-b6f4dd7874bc/": {
             "en": "Hogeschool Inholland",
