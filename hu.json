@@ -19,6 +19,10 @@
         "en": "Research Centre for the Humanities",
         "hu": "Bölcsészettudományi Kutatóközpont"
     },
+    "https://eduid.epss.hu/simplesamlphp/saml2/idp/metadata.php": {
+        "en": "Institute of Earth Physics and Space Science",
+        "hu": "Földfizikai és Űrtudományi Kutatóintézet"
+    },
     "https://eduid.kodolanyi.hu/saml2/idp/metadata.php": {
         "en": "Kodolányi János University",
         "hu": "Kodolányi János Egyetem"

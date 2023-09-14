@@ -55,6 +55,9 @@
         "af": "Universiteit van Wes-Kaapland",
         "en": "University of the Western Cape"
     },
+    "https://proxy.safire.ac.za/birk.php/saml2.sarao.ac.za/simplesamlphp/saml2/idp/metadata.php": {
+        "en": "South African Radio Astronomy Observatory"
+    },
     "https://proxy.safire.ac.za/birk.php/shib.nwu.ac.za/idp/shibboleth": {
         "en": "North-West University",
         "tn": "Yunibesiti Ya Bokone-Bophirima"

@@ -103,6 +103,10 @@
         "en": "Pomeranian University in Słupsk",
         "pl": "Akademia Pomorska w Słupsku"
     },
+    "https://idp.ipipan.waw.pl/idp/shibboleth": {
+        "en": "Institute of Computer Science PAS",
+        "pl": "Instytut Podstaw Informatyki PAN"
+    },
     "https://idp.pollub.pl/shibboleth": {
         "en": "Lublin University of Technology",
         "pl": "Politechnika Lubelska"
@@ -310,8 +314,8 @@
         "en": "Academy of Silesia",
         "pl": "Akademia Śląska"
     },
-    "https://usoscas.ath.bielsko.pl/cas/idp": {
+    "https://usoscas.ubb.edu.pl/cas/idp": {
         "en": "University of Bielsko-Biała",
-        "pl": "Akademia Techniczno-Humanistyczna w Bielsku-Białej"
+        "pl": "Uniwersytet Bielsko-Bialski"
     }
 }

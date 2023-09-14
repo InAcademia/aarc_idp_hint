@@ -268,6 +268,10 @@
             "de": "FWF Der Wissenschaftsfonds",
             "en": "Austrian Science Fund (FWF)"
         },
+        "https://sso.haup.ac.at/idp/shibboleth": {
+            "de": "Hochschule für Agrar- und Umweltpädagogik",
+            "en": "University College for Agricultural and Environmental Education"
+        },
         "https://sso.kph-es.at/idp/shibboleth": {
             "de": "Kirchliche Pädagogische Hochschule Edith Stein",
             "en": "KPH Edith Stein"
@@ -10348,6 +10352,10 @@
             "en": "Research Centre for the Humanities",
             "hu": "Bölcsészettudományi Kutatóközpont"
         },
+        "https://eduid.epss.hu/simplesamlphp/saml2/idp/metadata.php": {
+            "en": "Institute of Earth Physics and Space Science",
+            "hu": "Földfizikai és Űrtudományi Kutatóintézet"
+        },
         "https://eduid.kodolanyi.hu/saml2/idp/metadata.php": {
             "en": "Kodolányi János University",
             "hu": "Kodolányi János Egyetem"
@@ -14313,6 +14321,10 @@
             "en": "Pomeranian University in Słupsk",
             "pl": "Akademia Pomorska w Słupsku"
         },
+        "https://idp.ipipan.waw.pl/idp/shibboleth": {
+            "en": "Institute of Computer Science PAS",
+            "pl": "Instytut Podstaw Informatyki PAN"
+        },
         "https://idp.pollub.pl/shibboleth": {
             "en": "Lublin University of Technology",
             "pl": "Politechnika Lubelska"
@@ -14520,9 +14532,9 @@
             "en": "Academy of Silesia",
             "pl": "Akademia Śląska"
         },
-        "https://usoscas.ath.bielsko.pl/cas/idp": {
+        "https://usoscas.ubb.edu.pl/cas/idp": {
             "en": "University of Bielsko-Biała",
-            "pl": "Akademia Techniczno-Humanistyczna w Bielsku-Białej"
+            "pl": "Uniwersytet Bielsko-Bialski"
         }
     },
     "pt": {
@@ -19628,6 +19640,9 @@
         "https://proxy.safire.ac.za/birk.php/saml.uwc.ac.za/simplesaml/saml2/idp/metadata.php": {
             "af": "Universiteit van Wes-Kaapland",
             "en": "University of the Western Cape"
+        },
+        "https://proxy.safire.ac.za/birk.php/saml2.sarao.ac.za/simplesamlphp/saml2/idp/metadata.php": {
+            "en": "South African Radio Astronomy Observatory"
         },
         "https://proxy.safire.ac.za/birk.php/shib.nwu.ac.za/idp/shibboleth": {
             "en": "North-West University",

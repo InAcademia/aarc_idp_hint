@@ -239,6 +239,10 @@
         "de": "FWF Der Wissenschaftsfonds",
         "en": "Austrian Science Fund (FWF)"
     },
+    "https://sso.haup.ac.at/idp/shibboleth": {
+        "de": "Hochschule für Agrar- und Umweltpädagogik",
+        "en": "University College for Agricultural and Environmental Education"
+    },
     "https://sso.kph-es.at/idp/shibboleth": {
         "de": "Kirchliche Pädagogische Hochschule Edith Stein",
         "en": "KPH Edith Stein"
