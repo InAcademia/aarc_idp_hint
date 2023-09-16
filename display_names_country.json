@@ -1311,6 +1311,10 @@
             "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
             "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
         },
+        "https://idp.unifacef.edu.br/idp/shibboleth": {
+            "en": "UNI-FACEF - Centro Universitario Municipal de Franca",
+            "pt-br": "UNI-FACEF - Centro Universitario Municipal de Franca"
+        },
         "https://idp.unifap.br/idp/shibboleth": {
             "en": "UNIFAP - Universidade Federal do Amapa",
             "pt-br": "UNIFAP - Universidade Federal do Amapa"
@@ -18054,6 +18058,9 @@
         },
         "http://federate.bsu.edu/sso": {
             "en": "Ball State  University"
+        },
+        "http://fs.albmolecular.com/adfs/services/trust": {
+            "en": "Curia Global, Inc."
         },
         "http://fs.carilionclinic.org/adfs/services/trust": {
             "en": "Carilion Clinic"
