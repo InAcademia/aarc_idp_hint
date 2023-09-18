@@ -254,11 +254,11 @@
     "https://idpomren.nct.edu.om/idp": {
         "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
     },
-    "https://idpomren.su.edu.om/idp": {
-        "en": "Sohar University (Shibboleth)"
-    },
     "https://idpsrv01.squ.edu.om/idp/shibboleth": {
         "en": "Sultan Qaboos University (OM-KID)"
+    },
+    "https://su.edu.om/idp": {
+        "en": "Sohar University (Shibboleth)"
     },
     "https://trc.asu.edu.om/idp/shibboleth": {
         "en": "ASharqiyah University (OM-KID)"

@@ -23,6 +23,9 @@
     "http://adfs.jazanu.edu.sa/adfs/services/trust": {
         "en": "Jazan University"
     },
+    "http://adfs.kaust.edu.sa/adfs/services/trust": {
+        "en": "King Abdullah University of Science and Technology"
+    },
     "http://adfs.kfmc.med.sa/adfs/services/trust": {
         "en": "King Fahad Medical City"
     },

@@ -6535,8 +6535,8 @@
             "en": "University of Mannheim"
         },
         "https://idp.uni-oldenburg.de/idp/shibboleth": {
-            "de": "Universität Oldenburg",
-            "en": "Universität Oldenburg"
+            "de": "Carl von Ossietzky Universität Oldenburg",
+            "en": "Carl von Ossietzky Universitaet Oldenburg"
         },
         "https://idp.uni-paderborn.de/idp/shibboleth": {
             "de": "Universität Paderborn",
@@ -14181,11 +14181,11 @@
         "https://idpomren.nct.edu.om/idp": {
             "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
         },
-        "https://idpomren.su.edu.om/idp": {
-            "en": "Sohar University (Shibboleth)"
-        },
         "https://idpsrv01.squ.edu.om/idp/shibboleth": {
             "en": "Sultan Qaboos University (OM-KID)"
+        },
+        "https://su.edu.om/idp": {
+            "en": "Sohar University (Shibboleth)"
         },
         "https://trc.asu.edu.om/idp/shibboleth": {
             "en": "ASharqiyah University (OM-KID)"
@@ -15038,6 +15038,9 @@
         },
         "http://adfs.jazanu.edu.sa/adfs/services/trust": {
             "en": "Jazan University"
+        },
+        "http://adfs.kaust.edu.sa/adfs/services/trust": {
+            "en": "King Abdullah University of Science and Technology"
         },
         "http://adfs.kfmc.med.sa/adfs/services/trust": {
             "en": "King Fahad Medical City"
