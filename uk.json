@@ -586,6 +586,9 @@
     "https://idp.hughbaird.ac.uk/shibboleth": {
         "en": "Hugh Baird College"
     },
+    "https://idp.icr.ac.uk/idp/shibboleth": {
+        "en": "The Institute of Cancer Research"
+    },
     "https://idp.ifs.org.uk/openathens": {
         "en": "Institute for Fiscal Studies"
     },

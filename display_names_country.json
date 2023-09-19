@@ -823,6 +823,10 @@
             "en": "ITV - Instituto Tecnologico Vale",
             "pt-br": "ITV - Instituto Tecnologico Vale"
         },
+        "https://cafe.mackenzie.br/idp/shibboleth": {
+            "en": "MACKENZIE - Instituto Presbiteriano Mackenzie",
+            "pt-br": "MACKENZIE - Instituto Presbiteriano Mackenzie"
+        },
         "https://cafe.mamiraua.org.br/idp/shibboleth": {
             "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
             "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
@@ -8813,10 +8817,6 @@
             "en": "Estienne school",
             "fr": "Ecole Estienne"
         },
-        "https://federation-identite.univ-paris13.fr/idp/shibboleth": {
-            "en": "University Paris 13",
-            "fr": "Université Paris 13"
-        },
         "https://federation.ac-strasbourg.fr/idp/shibboleth": {
             "en": "Rectorat de Strasbourg",
             "fr": "Rectorat de Strasbourg"
@@ -8980,10 +8980,6 @@
         "https://idp.centralelille.fr/idp/shibboleth": {
             "en": "Centrale Lille",
             "fr": "Centrale Lille"
-        },
-        "https://idp.cirad.fr/idp/shibboleth": {
-            "en": "CIRAD",
-            "fr": "CIRAD"
         },
         "https://idp.college-de-france.fr/idp/shibboleth": {
             "en": "IdP - College de France",
@@ -16885,6 +16881,9 @@
         },
         "https://idp.hughbaird.ac.uk/shibboleth": {
             "en": "Hugh Baird College"
+        },
+        "https://idp.icr.ac.uk/idp/shibboleth": {
+            "en": "The Institute of Cancer Research"
         },
         "https://idp.ifs.org.uk/openathens": {
             "en": "Institute for Fiscal Studies"
