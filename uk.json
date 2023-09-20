@@ -451,6 +451,9 @@
     "https://idp.dunstable.ac.uk/openathens": {
         "en": "Central Bedfordshire College"
     },
+    "https://idp.dwp.gov.uk/entity": {
+        "en": "Department for Work and Pensions"
+    },
     "https://idp.eastberks.ac.uk/idp/shibboleth": {
         "en": "East Berkshire College"
     },

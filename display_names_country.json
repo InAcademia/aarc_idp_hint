@@ -2128,7 +2128,7 @@
             "en": "Coast Mountain College"
         },
         "https://sso.dal.ca/idp": {
-            "en": "Dalhousie University Authentication Bridge"
+            "en": "Dalhousie University"
         },
         "https://sso.douglascollege.ca/idp": {
             "en": "Douglas College"
@@ -3469,6 +3469,10 @@
         "https://idp.jgsu.edu.cn/idp/shibboleth": {
             "en": "Jinggangshan University",
             "zh": "井冈山大学(Jinggangshan University)"
+        },
+        "https://idp.jhun.edu.cn/idp/shibboleth": {
+            "en": "Jianghan University",
+            "zh": "江汉大学(Jianghan University)"
         },
         "https://idp.jiangnan.edu.cn/idp/shibboleth": {
             "en": "Jiangnan University",
@@ -8981,6 +8985,10 @@
             "en": "Centrale Lille",
             "fr": "Centrale Lille"
         },
+        "https://idp.cirad.fr/idp/shibboleth": {
+            "en": "CIRAD",
+            "fr": "CIRAD"
+        },
         "https://idp.college-de-france.fr/idp/shibboleth": {
             "en": "IdP - College de France",
             "fr": "IdP - Collège de France"
@@ -13511,6 +13519,10 @@
             "en": "Radboud University",
             "nl": "Radboud Universiteit"
         },
+        "https://conext2.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
+            "en": "Radboud University Nijmegen (New)",
+            "nl": "Radboud Universiteit Nijmegen (Nieuw)"
+        },
         "https://federatie.hku.nl": {
             "en": "Utrecht School of the Arts",
             "nl": "Hogeschool voor de Kunsten Utrecht"
@@ -14177,11 +14189,11 @@
         "https://idpomren.nct.edu.om/idp": {
             "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
         },
+        "https://idpomren.su.edu.om/idp": {
+            "en": "Sohar University (shibboleth)"
+        },
         "https://idpsrv01.squ.edu.om/idp/shibboleth": {
             "en": "Sultan Qaboos University (OM-KID)"
-        },
-        "https://su.edu.om/idp": {
-            "en": "Sohar University (Shibboleth)"
         },
         "https://trc.asu.edu.om/idp/shibboleth": {
             "en": "ASharqiyah University (OM-KID)"
@@ -16747,6 +16759,9 @@
         "https://idp.dunstable.ac.uk/openathens": {
             "en": "Central Bedfordshire College"
         },
+        "https://idp.dwp.gov.uk/entity": {
+            "en": "Department for Work and Pensions"
+        },
         "https://idp.eastberks.ac.uk/idp/shibboleth": {
             "en": "East Berkshire College"
         },
@@ -18168,9 +18183,6 @@
         },
         "https://cas2.tcnj.edu/cas/idp": {
             "en": "The College of New Jersey"
-        },
-        "https://casprod.lamar.edu/idp/shibboleth": {
-            "en": "Lamar University"
         },
         "https://certify.skidmore.edu/idp/shibboleth": {
             "en": "Skidmore College"

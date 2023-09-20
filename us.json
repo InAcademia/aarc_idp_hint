@@ -140,9 +140,6 @@
     "https://cas2.tcnj.edu/cas/idp": {
         "en": "The College of New Jersey"
     },
-    "https://casprod.lamar.edu/idp/shibboleth": {
-        "en": "Lamar University"
-    },
     "https://certify.skidmore.edu/idp/shibboleth": {
         "en": "Skidmore College"
     },

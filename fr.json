@@ -331,6 +331,10 @@
         "en": "Centrale Lille",
         "fr": "Centrale Lille"
     },
+    "https://idp.cirad.fr/idp/shibboleth": {
+        "en": "CIRAD",
+        "fr": "CIRAD"
+    },
     "https://idp.college-de-france.fr/idp/shibboleth": {
         "en": "IdP - College de France",
         "fr": "IdP - Collège de France"
