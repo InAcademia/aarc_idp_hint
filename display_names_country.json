@@ -249,8 +249,8 @@
             "en": "University of Applied Arts Vienna"
         },
         "https://shibboleth.vbc.ac.at/idp/shibboleth": {
-            "de": "Campus Vienna Biocenter (GMI, IMBA, IMP, VBCF)",
-            "en": "Campus Vienna Biocenter (GMI, IMBA, IMP, VBCF)"
+            "de": "Campus Vienna Biocenter (GMI, IMBA, IMP, VBCF, CLIP)",
+            "en": "Campus Vienna Biocenter (GMI, IMBA, IMP, VBCF, CLIP)"
         },
         "https://sso.fh-salzburg.ac.at/idp/shibboleth": {
             "de": "FH Salzburg",
@@ -5884,7 +5884,7 @@
         },
         "https://idp.dsm.museum/idp/shibboleth": {
             "de": "Deutsches Schifffahrtsmuseum (DSM)",
-            "en": "Deutsches Schifffahrtsmuseum (DSM)"
+            "en": "German Maritime Museum (DSM)"
         },
         "https://idp.dzne.de": {
             "de": "DZNE Deutsches Zentrum fur Neurodegenerative Erkrankungen",
@@ -11967,6 +11967,10 @@
             "en": "Yokohama National University",
             "ja": "横浜国立大学"
         },
+        "https://gakunin.aitech.ac.jp/idp/shibboleth": {
+            "en": "Aichi Institute of Technology",
+            "ja": "愛知工業大学"
+        },
         "https://gakunin1.keio.ac.jp/idp/shibboleth": {
             "en": "Keio University",
             "ja": "慶應義塾大学"
@@ -14190,7 +14194,7 @@
             "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
         },
         "https://idpomren.su.edu.om/idp": {
-            "en": "Sohar University (shibboleth)"
+            "en": "Sohar University"
         },
         "https://idpsrv01.squ.edu.om/idp/shibboleth": {
             "en": "Sultan Qaboos University (OM-KID)"
