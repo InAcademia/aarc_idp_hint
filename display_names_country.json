@@ -1135,6 +1135,10 @@
             "en": "IRD - Instituto de Radioprotecao e Dosimetria",
             "pt-br": "IRD - Instituto de Radioprotecao e Dosimetria"
         },
+        "https://idp-cafe.saude.pi.gov.br/idp/shibboleth": {
+            "en": "SESAPI - Secretaria de Estado da Saude do Piaui",
+            "pt-br": "SESAPI - Secretaria de Estado da Saude do Piaui"
+        },
         "https://idp-cafe.uea.edu.br/idp/shibboleth": {
             "en": "UEA - Universidade do Estado do Amazonas",
             "pt-br": "UEA - Universidade do Estado do Amazonas"
@@ -1306,6 +1310,10 @@
         "https://idp.ufrb.edu.br/idp/shibboleth": {
             "en": "UFRB - Universidade Federal do Reconcavo da Bahia",
             "pt-br": "UFRB - Universidade Federal do Reconcavo da Bahia"
+        },
+        "https://idp.ufsj.edu.br/idp/shibboleth": {
+            "en": "UFSJ - Universidade Federal de Sao Joao del Rei",
+            "pt-br": "UFSJ - Universidade Federal de Sao Joao del Rei"
         },
         "https://idp.uftm.edu.br/idp/shibboleth": {
             "en": "UFTM - Universidade Federal do Triangulo Mineiro",
@@ -5858,10 +5866,6 @@
             "de": "DHBW Mannheim",
             "en": "DHBW Mannheim"
         },
-        "https://idp.dhbw-vs.de/idp/shibboleth": {
-            "de": "DHBW Villingen-Schwenningen",
-            "en": "DHBW Villingen-Schwenningen"
-        },
         "https://idp.dhbw.de/idp/shibboleth": {
             "de": "DHBW Präsidium",
             "en": "DHBW Praesidium"
@@ -6645,10 +6649,6 @@
         "https://idp2.hs-augsburg.de/simplesaml": {
             "de": "Hochschule Augsburg",
             "en": "University of Applied Sciences Augsburg"
-        },
-        "https://idp2.hs-furtwangen.de/idp/shibboleth": {
-            "de": "Hochschule Furtwangen",
-            "en": "Furtwangen University"
         },
         "https://idp2.hswt.de/idp/shibboleth": {
             "de": "Hochschule Weihenstephan-Triesdorf.(IDP)",
@@ -8669,10 +8669,6 @@
             "en": "Excelia",
             "fr": "Excelia"
         },
-        "http://sso.inrs.fr/adfs/services/trust": {
-            "en": "National Research and Safety Institute (INRS - French)",
-            "fr": "Institut National de Recherche et de Sécurité (INRS - France)"
-        },
         "http://sts.kedgebs.com/adfs/services/trust": {
             "en": "Kedge Business School",
             "fr": "Kedge Business School"
@@ -8764,6 +8760,10 @@
         "https://authentification.inrae.fr/saml/metadata/idp": {
             "en": "INRAE",
             "fr": "INRAE"
+        },
+        "https://authentification.inrs.fr/adfs": {
+            "en": "National Research and Safety Institute (INRS - French)",
+            "fr": "Institut National de Recherche et de Sécurité (INRS - France)"
         },
         "https://authentification.prive.ineris.fr/nidp/saml2/metadata": {
             "en": "INERIS - Institut National de l'Environnement Industriel et des Risques",

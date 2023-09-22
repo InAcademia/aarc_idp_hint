@@ -15,10 +15,6 @@
         "en": "Excelia",
         "fr": "Excelia"
     },
-    "http://sso.inrs.fr/adfs/services/trust": {
-        "en": "National Research and Safety Institute (INRS - French)",
-        "fr": "Institut National de Recherche et de Sécurité (INRS - France)"
-    },
     "http://sts.kedgebs.com/adfs/services/trust": {
         "en": "Kedge Business School",
         "fr": "Kedge Business School"
@@ -110,6 +106,10 @@
     "https://authentification.inrae.fr/saml/metadata/idp": {
         "en": "INRAE",
         "fr": "INRAE"
+    },
+    "https://authentification.inrs.fr/adfs": {
+        "en": "National Research and Safety Institute (INRS - French)",
+        "fr": "Institut National de Recherche et de Sécurité (INRS - France)"
     },
     "https://authentification.prive.ineris.fr/nidp/saml2/metadata": {
         "en": "INERIS - Institut National de l'Environnement Industriel et des Risques",
