@@ -1635,6 +1635,10 @@
             "en": "IMPA - Instituto Nacional de Matematica Pura e Aplicada",
             "pt-br": "IMPA - Instituto Nacional de Matematica Pura e Aplicada"
         },
+        "https://shibboleth.inca.gov.br/idp/shibboleth": {
+            "en": "INCA - Instituto Nacional de Cancer",
+            "pt-br": "INCA - Instituto Nacional de Cancer"
+        },
         "https://shibboleth.insa.gov.br/idp/shibboleth": {
             "en": "INSA - Instituto Nacional do Semiarido",
             "pt-br": "INSA - Instituto Nacional do Semiarido"
@@ -11026,6 +11030,9 @@
         "https://idp.jgu.edu.in/idp/shibboleth": {
             "en": "O.P. Jindal Global University"
         },
+        "https://idp.jiit.ac.in/idp/shibboleth": {
+            "en": "Jaypee Institute of Information Technology"
+        },
         "https://idp.jit.ac.in/idp/shibboleth": {
             "en": "Jansons Institute of Technology, Coimbatore"
         },
@@ -15918,10 +15925,6 @@
         "https://kimlik.duzce.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Duzce University",
             "tr": "Düzce Üniversitesi"
-        },
-        "https://kimlik.ege.edu.tr/egesso/saml2/idp/metadata.php": {
-            "en": "Ege University",
-            "tr": "Ege Üniversitesi"
         },
         "https://kimlik.erbakan.edu.tr/idp/shibboleth": {
             "en": "Necmettin Erbakan University",

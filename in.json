@@ -236,6 +236,9 @@
     "https://idp.jgu.edu.in/idp/shibboleth": {
         "en": "O.P. Jindal Global University"
     },
+    "https://idp.jiit.ac.in/idp/shibboleth": {
+        "en": "Jaypee Institute of Information Technology"
+    },
     "https://idp.jit.ac.in/idp/shibboleth": {
         "en": "Jansons Institute of Technology, Coimbatore"
     },

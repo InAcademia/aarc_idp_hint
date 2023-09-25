@@ -959,6 +959,10 @@
         "en": "IMPA - Instituto Nacional de Matematica Pura e Aplicada",
         "pt-br": "IMPA - Instituto Nacional de Matematica Pura e Aplicada"
     },
+    "https://shibboleth.inca.gov.br/idp/shibboleth": {
+        "en": "INCA - Instituto Nacional de Cancer",
+        "pt-br": "INCA - Instituto Nacional de Cancer"
+    },
     "https://shibboleth.insa.gov.br/idp/shibboleth": {
         "en": "INSA - Instituto Nacional do Semiarido",
         "pt-br": "INSA - Instituto Nacional do Semiarido"

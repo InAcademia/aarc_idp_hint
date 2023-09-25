@@ -331,10 +331,6 @@
         "en": "Duzce University",
         "tr": "Düzce Üniversitesi"
     },
-    "https://kimlik.ege.edu.tr/egesso/saml2/idp/metadata.php": {
-        "en": "Ege University",
-        "tr": "Ege Üniversitesi"
-    },
     "https://kimlik.erbakan.edu.tr/idp/shibboleth": {
         "en": "Necmettin Erbakan University",
         "tr": "Necmettin Erbakan Üniversitesi"
