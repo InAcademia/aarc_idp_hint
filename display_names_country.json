@@ -6998,6 +6998,10 @@
             "de": "DHBW Karlsruhe",
             "en": "DHBW Karlsruhe"
         },
+        "https://shibboleth.dhge.de/idp/shibboleth": {
+            "de": "Identity Provider der DHGE",
+            "en": "Identity Provider of DHGE"
+        },
         "https://shibboleth.hs-kl.de/idp/shibboleth": {
             "de": "Hochschule Kaiserslautern",
             "en": "University of Applied Science Kaiserslautern"
@@ -7482,6 +7486,14 @@
         "https://wayfeadania.itcn.dk/simplesaml/saml2/idp/metadata.php": {
             "da": "Erhvervsakademi Dania",
             "en": "Dania Academy"
+        }
+    },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
         }
     },
     "ec": {
@@ -13531,8 +13543,8 @@
             "nl": "Radboud Universiteit"
         },
         "https://conext2.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
-            "en": "Radboud University Nijmegen (New)",
-            "nl": "Radboud Universiteit Nijmegen (Nieuw)"
+            "en": "Radboud University Nijmegen (New, No production yet)",
+            "nl": "Radboud Universiteit Nijmegen (Nieuw, nog niet in productie)"
         },
         "https://federatie.hku.nl": {
             "en": "Utrecht School of the Arts",
