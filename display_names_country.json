@@ -1875,14 +1875,13 @@
             "en": "Carleton University"
         },
         "http://fas.concordia.ca/adfs/services/trust": {
-            "en": "Concordia University",
-            "fr": "UniversitÃ© Concordia"
+            "en": "Concordia University"
         },
         "http://federation.langara.ca/adfs/services/trust": {
             "en": "Langara College"
         },
         "http://fs.cnc.bc.ca/adfs/services/trust": {
-            "en": "http://fs.cnc.bc.ca/adfs/services/trust"
+            "en": "College of New Caledonia"
         },
         "http://fs.cotr.bc.ca/adfs/services/trust": {
             "en": "College of the Rockies"
@@ -3273,6 +3272,10 @@
         "https://idp.hebeu.edu.cn/idp/shibboleth": {
             "en": "Hebei University of Engineering",
             "zh": "河北工程大学(Hebei University of Engineering)"
+        },
+        "https://idp.hebic.edu.cn/idp/shibboleth": {
+            "en": "Hebei Institute Of Communications",
+            "zh": "河北传媒学院(Hebei Institute Of Communications)"
         },
         "https://idp.hebmu.edu.cn/idp/shibboleth": {
             "en": "Hebei Medical University",
@@ -4701,6 +4704,10 @@
         "https://idp.zwu.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Wanli University",
             "zh": "浙江万里学院(Zhejiang Wanli University)"
+        },
+        "https://idp.zykj.edu.cn/idp/shibboleth": {
+            "en": "Zhongyuan Institute of Science and Technology",
+            "zh": "中原科技学院(Zhongyuan Institute of Science and Technology)"
         },
         "https://idp.zyufl.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Yuexiu University",
@@ -13543,8 +13550,8 @@
             "nl": "Radboud Universiteit"
         },
         "https://conext2.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
-            "en": "Radboud University Nijmegen (New, No production yet)",
-            "nl": "Radboud Universiteit Nijmegen (Nieuw, nog niet in productie)"
+            "en": "Radboud University Nijmegen (@-account [LDAP])",
+            "nl": "Radboud Universiteit Nijmegen (@-account [LDAP])"
         },
         "https://federatie.hku.nl": {
             "en": "Utrecht School of the Arts",

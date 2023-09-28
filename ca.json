@@ -37,14 +37,13 @@
         "en": "Carleton University"
     },
     "http://fas.concordia.ca/adfs/services/trust": {
-        "en": "Concordia University",
-        "fr": "UniversitÃ© Concordia"
+        "en": "Concordia University"
     },
     "http://federation.langara.ca/adfs/services/trust": {
         "en": "Langara College"
     },
     "http://fs.cnc.bc.ca/adfs/services/trust": {
-        "en": "http://fs.cnc.bc.ca/adfs/services/trust"
+        "en": "College of New Caledonia"
     },
     "http://fs.cotr.bc.ca/adfs/services/trust": {
         "en": "College of the Rockies"

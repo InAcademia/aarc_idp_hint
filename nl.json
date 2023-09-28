@@ -292,8 +292,8 @@
         "nl": "Radboud Universiteit"
     },
     "https://conext2.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
-        "en": "Radboud University Nijmegen (New, No production yet)",
-        "nl": "Radboud Universiteit Nijmegen (Nieuw, nog niet in productie)"
+        "en": "Radboud University Nijmegen (@-account [LDAP])",
+        "nl": "Radboud Universiteit Nijmegen (@-account [LDAP])"
     },
     "https://federatie.hku.nl": {
         "en": "Utrecht School of the Arts",
