@@ -674,6 +674,9 @@
     "https://login.iceruganda.org/idp/shibboleth": {
         "en": "ICER - Uganda"
     },
+    "https://login.iit.edu/cas/idp": {
+        "en": "Illinois Institute of Technology NEW"
+    },
     "https://login.ithaca.edu/idp/shibboleth": {
         "en": "Ithaca College"
     },

@@ -2637,6 +2637,10 @@
             "en": "Huzhou University",
             "zh": "湖州师范学院(Huzhou University)"
         },
+        "https://idp-lib.zjxu.edu.cn/idp/shibboleth": {
+            "en": "Jiaxing University",
+            "zh": "嘉兴学院(Jiaxing University)"
+        },
         "https://idp-tsg.buct.edu.cn/idp/shibboleth": {
             "en": "Beijing University of Chemical Technology",
             "zh": "北京化工大学(Beijing University of Chemical Technology)"
@@ -6872,6 +6876,10 @@
         "https://saml.hki-jena.de/idp/shibboleth": {
             "de": "Leibniz Institut für Naturstoff-Forschung und Infektionsbiologie, Hans-Knöll-Institut",
             "en": "Leibniz Institut für Naturstoff-Forschung und Infektionsbiologie, Hans-Knöll-Institut"
+        },
+        "https://saml.weizenbaum-institut.de": {
+            "de": "Weizenbaum-Institut",
+            "en": "Weizenbaum Institute"
         },
         "https://shi-idp2.rz.fh-muenchen.de/idp/shibboleth": {
             "de": "Hochschule München (HM)",
@@ -12188,6 +12196,10 @@
         "https://kidp.sasebo.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Sasebo College",
             "ja": "佐世保工業高等専門学校"
+        },
+        "https://kiidp.nc-toyama.ac.jp/idp/shibboleth": {
+            "en": "National Institute of Technology,Toyama College",
+            "ja": "富山高等専門学校"
         },
         "https://knidp.sendai-nct.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Sendai College,Natori",
@@ -18743,6 +18755,9 @@
         },
         "https://login.iceruganda.org/idp/shibboleth": {
             "en": "ICER - Uganda"
+        },
+        "https://login.iit.edu/cas/idp": {
+            "en": "Illinois Institute of Technology NEW"
         },
         "https://login.ithaca.edu/idp/shibboleth": {
             "en": "Ithaca College"

@@ -191,6 +191,10 @@
         "en": "Huzhou University",
         "zh": "湖州师范学院(Huzhou University)"
     },
+    "https://idp-lib.zjxu.edu.cn/idp/shibboleth": {
+        "en": "Jiaxing University",
+        "zh": "嘉兴学院(Jiaxing University)"
+    },
     "https://idp-tsg.buct.edu.cn/idp/shibboleth": {
         "en": "Beijing University of Chemical Technology",
         "zh": "北京化工大学(Beijing University of Chemical Technology)"

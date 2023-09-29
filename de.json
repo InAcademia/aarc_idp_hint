@@ -1187,6 +1187,10 @@
         "de": "Leibniz Institut für Naturstoff-Forschung und Infektionsbiologie, Hans-Knöll-Institut",
         "en": "Leibniz Institut für Naturstoff-Forschung und Infektionsbiologie, Hans-Knöll-Institut"
     },
+    "https://saml.weizenbaum-institut.de": {
+        "de": "Weizenbaum-Institut",
+        "en": "Weizenbaum Institute"
+    },
     "https://shi-idp2.rz.fh-muenchen.de/idp/shibboleth": {
         "de": "Hochschule München (HM)",
         "en": "University of Applied Sciences Munich (HM)"
