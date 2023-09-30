@@ -155,10 +155,6 @@
         "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
         "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
     },
-    "https://cafe.mcti.gov.br/idp/shibboleth": {
-        "en": "MCTI - Ministerio da Ciencia Tecnologia e Inovacoes",
-        "pt-br": "MCTI - Ministerio da Ciencia Tecnologia e Inovacoes"
-    },
     "https://cafe.pucgoias.edu.br/idp/shibboleth": {
         "en": "PUCGOIAS - Pontificia Universidade Catolica de Goias",
         "pt-br": "PUCGOIAS - Pontificia Universidade Catolica de Goias"
@@ -458,6 +454,10 @@
     "https://idp-cafe.ird.gov.br/idp/shibboleth": {
         "en": "IRD - Instituto de Radioprotecao e Dosimetria",
         "pt-br": "IRD - Instituto de Radioprotecao e Dosimetria"
+    },
+    "https://idp-cafe.mcti.gov.br/idp/shibboleth": {
+        "en": "MCTI - Ministerio de Ciencia Tecnologia e Inovacoes",
+        "pt-br": "MCTI - Ministerio de Ciencia Tecnologia e Inovacoes"
     },
     "https://idp-cafe.saude.pi.gov.br/idp/shibboleth": {
         "en": "SESAPI - Secretaria de Estado da Saude do Piaui",
