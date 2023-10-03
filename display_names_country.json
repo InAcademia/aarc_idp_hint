@@ -11973,6 +11973,10 @@
             "en": "Aichi Toho University",
             "ja": "愛知東邦大学"
         },
+        "https://akitau.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Akita University (New)",
+            "ja": "秋田大学（新）"
+        },
         "https://asura.seijo.ac.jp/idp/shibboleth": {
             "en": "Seijo University",
             "ja": "成城大学"
@@ -12300,6 +12304,10 @@
         "https://tuat.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "Tokyo University of Agriculture and Technology",
             "ja": "東京農工大学"
+        },
+        "https://twmu.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Tokyo Women's Medical University",
+            "ja": "東京女子医科大学"
         },
         "https://upki-idp.rikkyo.ac.jp/idp/shibboleth": {
             "en": "Rikkyo University",
@@ -14883,6 +14891,10 @@
         "https://idp.uc.pt/idp/shibboleth": {
             "en": "University of Coimbra",
             "pt": "Universidade de Coimbra"
+        },
+        "https://idp.ucp.pt/idp/shibboleth": {
+            "en": "Universidade Católica Portuguesa - Lisboa",
+            "pt": "Universidade Católica Portuguesa - Lisboa"
         },
         "https://idp.ufp.pt/idp/shibboleth": {
             "en": "University Fernando Pessoa",
