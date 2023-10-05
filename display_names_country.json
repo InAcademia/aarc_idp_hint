@@ -4919,10 +4919,6 @@
             "cs": "Vysoká škola PRIGO",
             "en": "The PRIGO University"
         },
-        "https://eduid.ujak.cz/idp/shibboleth": {
-            "cs": "Univerzita Jana Amose Komenského Praha",
-            "en": "Jan Amos Komensky University Prague"
-        },
         "https://eduid.uvn.cz/idp/shibboleth": {
             "cs": "UVN Praha",
             "en": "UVN Prague"
@@ -6200,10 +6196,6 @@
         "https://idp.hs-heilbronn.de/idp/shibboleth": {
             "de": "Hochschule Heilbronn",
             "en": "Heilbronn University"
-        },
-        "https://idp.hs-karlsruhe.de/idp/shibboleth": {
-            "de": "Hochschule Karlsruhe",
-            "en": "University of Applied Sciences Karlsruhe"
         },
         "https://idp.hs-kehl.de/idp/shibboleth": {
             "de": "Hochschule für öffentliche Verwaltung Kehl",
@@ -14098,9 +14090,6 @@
         "https://idp.act.edu.om/idp": {
             "en": "University of Technology and Applied Sciences - Al Musanna (shibboleth)"
         },
-        "https://idp.buc.edu.om/idp": {
-            "en": "Al Buraimi University College"
-        },
         "https://idp.css.edu.om/idp": {
             "en": "College of Shari'a Sciences (shibb)"
         },
@@ -14509,6 +14498,10 @@
         "https://pioneerid.ump.edu.pl/idp/shibboleth": {
             "en": "Poznan University of Medical Sciences",
             "pl": "Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu"
+        },
+        "https://pionier.wwsi.edu.pl/idp/shibboleth": {
+            "en": "Warsaw School of Computer Science",
+            "pl": "Warszawska Wyższa Szkoła Informatyki"
         },
         "https://saml.sggw.edu.pl/idp/shibboleth": {
             "en": "The Warsaw University of Life Sciences",
@@ -18870,6 +18863,9 @@
         "https://myidp.nmsu.edu": {
             "en": "New Mexico State University"
         },
+        "https://mylogin.unh.edu/secureauth74": {
+            "en": "University of New Hampshire"
+        },
         "https://myqlidp.fgcu.edu": {
             "en": "Florida Gulf Coast University"
         },
@@ -18923,9 +18919,6 @@
         },
         "https://secure.stevenson.edu/idp/shibboleth": {
             "en": "Stevenson University"
-        },
-        "https://secureauth.plymouth.edu/idp": {
-            "en": "Plymouth State University"
         },
         "https://shfed.augusta.edu/idp/shibboleth": {
             "en": "Augusta University"
@@ -19744,6 +19737,9 @@
         },
         "https://proxy.safire.ac.za/birk.php/sts.windows.net/acbcaed8-7adc-460c-ba57-028bdc80d84a/": {
             "en": "Sol Plaatje University"
+        },
+        "https://proxy.safire.ac.za/birk.php/sts.windows.net/bc5fec91-045a-4917-906e-43922049f31d/": {
+            "en": "University of Mpumalanga"
         },
         "https://proxy.safire.ac.za/birk.php/sts.windows.net/cc6148eb-d356-4f38-900f-3a4d62b954c8/": {
             "af": "Kaapse Skiereiland Universiteit van Tegnologie - Studente",

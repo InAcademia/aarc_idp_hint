@@ -71,10 +71,6 @@
         "cs": "Vysoká škola PRIGO",
         "en": "The PRIGO University"
     },
-    "https://eduid.ujak.cz/idp/shibboleth": {
-        "cs": "Univerzita Jana Amose Komenského Praha",
-        "en": "Jan Amos Komensky University Prague"
-    },
     "https://eduid.uvn.cz/idp/shibboleth": {
         "cs": "UVN Praha",
         "en": "UVN Prague"

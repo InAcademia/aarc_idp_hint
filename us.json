@@ -776,6 +776,9 @@
     "https://myidp.nmsu.edu": {
         "en": "New Mexico State University"
     },
+    "https://mylogin.unh.edu/secureauth74": {
+        "en": "University of New Hampshire"
+    },
     "https://myqlidp.fgcu.edu": {
         "en": "Florida Gulf Coast University"
     },
@@ -829,9 +832,6 @@
     },
     "https://secure.stevenson.edu/idp/shibboleth": {
         "en": "Stevenson University"
-    },
-    "https://secureauth.plymouth.edu/idp": {
-        "en": "Plymouth State University"
     },
     "https://shfed.augusta.edu/idp/shibboleth": {
         "en": "Augusta University"
