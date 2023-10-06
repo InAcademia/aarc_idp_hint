@@ -437,20 +437,14 @@
         }
     },
     "bd": {
-        "https://bauidp.tigerfed.net.bd/idp/shibboleth": {
+        "https://idp.bau.edu.bd/idp/shibboleth": {
             "en": "Bangladesh Agricultural University"
         },
-        "https://idp.bdren.net.bd/idp/shibboleth": {
-            "en": "Bangladesh Research and Education Network"
-        },
-        "https://idp.tigerfed.net.bd/idp/shibboleth": {
-            "en": "TIGERFed Federation"
-        },
-        "https://idp2.tigerfed.net.bd/idp/shibboleth": {
-            "en": "TIGERfed Organization"
-        },
-        "https://idpbuet.bdren.net.bd/idp/shibboleth": {
+        "https://idp.buet.ac.bd/idp/shibboleth": {
             "en": "Bangladesh University of Engineering and Technology"
+        },
+        "https://idp4.tigerfed.net.bd/idp/shibboleth": {
+            "en": "TIGERfed Virtual Organization"
         }
     },
     "be": {
@@ -550,6 +544,10 @@
         "https://idp.kmkg-mrah.be/idp/shibboleth": {
             "en": "Royal Museums of Art and History, Brussels",
             "fr": "Musées royaux d'Art et d'Histoire, Bruxelles"
+        },
+        "https://idp.observatory.be/saml2/idp/metadata.php": {
+            "en": "Royal Observatory of Belgium",
+            "fr": "Observatoire royal de Belgique"
         },
         "https://idp.uclouvain.be/idp/shibboleth": {
             "en": "Catholic University of Louvain",
@@ -19261,6 +19259,9 @@
         },
         "https://sso.memphis.edu/idp/shibboleth": {
             "en": "The University of Memphis"
+        },
+        "https://sso.mgb.org/idp": {
+            "en": "Mass General Brigham"
         },
         "https://sso.msoe.edu/idp": {
             "en": "New - Milwaukee School of Engineering"

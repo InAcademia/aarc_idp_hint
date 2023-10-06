@@ -1,17 +1,11 @@
 {
-    "https://bauidp.tigerfed.net.bd/idp/shibboleth": {
+    "https://idp.bau.edu.bd/idp/shibboleth": {
         "en": "Bangladesh Agricultural University"
     },
-    "https://idp.bdren.net.bd/idp/shibboleth": {
-        "en": "Bangladesh Research and Education Network"
-    },
-    "https://idp.tigerfed.net.bd/idp/shibboleth": {
-        "en": "TIGERFed Federation"
-    },
-    "https://idp2.tigerfed.net.bd/idp/shibboleth": {
-        "en": "TIGERfed Organization"
-    },
-    "https://idpbuet.bdren.net.bd/idp/shibboleth": {
+    "https://idp.buet.ac.bd/idp/shibboleth": {
         "en": "Bangladesh University of Engineering and Technology"
+    },
+    "https://idp4.tigerfed.net.bd/idp/shibboleth": {
+        "en": "TIGERfed Virtual Organization"
     }
 }

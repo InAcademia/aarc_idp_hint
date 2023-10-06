@@ -96,6 +96,10 @@
         "en": "Royal Museums of Art and History, Brussels",
         "fr": "Musées royaux d'Art et d'Histoire, Bruxelles"
     },
+    "https://idp.observatory.be/saml2/idp/metadata.php": {
+        "en": "Royal Observatory of Belgium",
+        "fr": "Observatoire royal de Belgique"
+    },
     "https://idp.uclouvain.be/idp/shibboleth": {
         "en": "Catholic University of Louvain",
         "fr": "Universite catholique de Louvain"

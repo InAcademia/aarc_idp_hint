@@ -1175,6 +1175,9 @@
     "https://sso.memphis.edu/idp/shibboleth": {
         "en": "The University of Memphis"
     },
+    "https://sso.mgb.org/idp": {
+        "en": "Mass General Brigham"
+    },
     "https://sso.msoe.edu/idp": {
         "en": "New - Milwaukee School of Engineering"
     },
