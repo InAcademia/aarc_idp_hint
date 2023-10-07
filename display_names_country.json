@@ -3287,10 +3287,6 @@
             "en": "Hebei Normal University",
             "zh": "河北师范大学(Hebei Normal University)"
         },
-        "https://idp.hebuee.edu.cn/idp/shibboleth": {
-            "en": "Hebei University of Environmental Engineering",
-            "zh": "河北环境工程学院(Hebei University of Environmental Engineering)"
-        },
         "https://idp.hebut.edu.cn/idp/shibboleth": {
             "en": "Hebei University of Technology",
             "zh": "河北工业大学(Hebei University of Technology)"
@@ -9826,6 +9822,10 @@
             "en": "Institut Supérieur de Communication et Publicité",
             "fr": "Institut Supérieur de Communication et Publicité"
         },
+        "https://sts.windows.net/9692a3d3-2a08-4ec8-a0bd-1db355eb4230/": {
+            "en": "EDHEC Business School Azure",
+            "fr": "EDHEC Business School Azure"
+        },
         "https://sts.windows.net/a1bce70e-1f36-4e8c-b4f3-48980a5f78ee/": {
             "en": "MBS - Production",
             "fr": "MBS - Production"
@@ -13718,6 +13718,10 @@
         "https://sts.windows.net/4a00b7a2-db78-4196-ad5c-0fb1f9927352/": {
             "en": "IBFD - International Bureau of Fiscal Documentation",
             "nl": "IBFD - International Bureau of Fiscal Documentation"
+        },
+        "https://sts.windows.net/53553299-7461-4b7c-b38d-a78acdd9c83e/": {
+            "en": "STC-Group [MS Azure AD]",
+            "nl": "STC-Group [MS Azure AD]"
         },
         "https://sts.windows.net/559810d7-8507-4658-b938-950c1342ba79/": {
             "en": "Openbare Bibliotheek Amsterdam (OBA)",

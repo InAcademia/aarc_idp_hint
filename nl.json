@@ -451,6 +451,10 @@
         "en": "IBFD - International Bureau of Fiscal Documentation",
         "nl": "IBFD - International Bureau of Fiscal Documentation"
     },
+    "https://sts.windows.net/53553299-7461-4b7c-b38d-a78acdd9c83e/": {
+        "en": "STC-Group [MS Azure AD]",
+        "nl": "STC-Group [MS Azure AD]"
+    },
     "https://sts.windows.net/559810d7-8507-4658-b938-950c1342ba79/": {
         "en": "Openbare Bibliotheek Amsterdam (OBA)",
         "nl": "Openbare Bibliotheek Amsterdam (OBA)"
