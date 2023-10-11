@@ -463,6 +463,10 @@
         "en": "The school of engineers in computer intelligence (EPITA)",
         "fr": "L' École pour l’informatique et les techniques avancées ( EPITA)"
     },
+    "https://idp.esadhar.fr/idp/shibboleth": {
+        "en": "Ecole Supérieure d'Art et Design Le Havre Rouen",
+        "fr": "Ecole Supérieure d'Art et Design Le Havre Rouen"
+    },
     "https://idp.esaip.org/idp/shibboleth": {
         "en": "ESAIP",
         "fr": "ESAIP"

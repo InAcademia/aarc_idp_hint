@@ -4563,10 +4563,6 @@
             "en": "Yunnan Land and Resources Vocational College",
             "zh": "云南国土资源职业学院(Yunnan Land and Resources Vocational College)"
         },
-        "https://idp.ynnu.edu.cn/idp/shibboleth": {
-            "en": "Yunnan Normal University",
-            "zh": "云南师范大学(Yunnan Normal University)"
-        },
         "https://idp.ynu.edu.cn/idp/shibboleth": {
             "en": "Yunnan University",
             "zh": "云南大学(Yunnan University)"
@@ -9138,6 +9134,10 @@
             "en": "The school of engineers in computer intelligence (EPITA)",
             "fr": "L' École pour l’informatique et les techniques avancées ( EPITA)"
         },
+        "https://idp.esadhar.fr/idp/shibboleth": {
+            "en": "Ecole Supérieure d'Art et Design Le Havre Rouen",
+            "fr": "Ecole Supérieure d'Art et Design Le Havre Rouen"
+        },
         "https://idp.esaip.org/idp/shibboleth": {
             "en": "ESAIP",
             "fr": "ESAIP"
@@ -13520,8 +13520,8 @@
             "nl": "ROC Horizon College"
         },
         "http://sts.stc-r.nl/adfs/services/trust": {
-            "en": "STC-Group",
-            "nl": "STC-Group"
+            "en": "STC-Group (Old)",
+            "nl": "STC-Group (Oud)"
         },
         "http://sts.tno.nl/adfs/services/trust": {
             "en": "TNO Innovation for life",
@@ -13724,8 +13724,8 @@
             "nl": "IBFD - International Bureau of Fiscal Documentation"
         },
         "https://sts.windows.net/53553299-7461-4b7c-b38d-a78acdd9c83e/": {
-            "en": "STC-Group [MS Azure AD]",
-            "nl": "STC-Group [MS Azure AD]"
+            "en": "STC-Group",
+            "nl": "STC-Group"
         },
         "https://sts.windows.net/559810d7-8507-4658-b938-950c1342ba79/": {
             "en": "Openbare Bibliotheek Amsterdam (OBA)",
@@ -18769,9 +18769,6 @@
         },
         "https://myidp.nmsu.edu": {
             "en": "New Mexico State University"
-        },
-        "https://mylogin.unh.edu/secureauth74": {
-            "en": "University of New Hampshire"
         },
         "https://myqlidp.fgcu.edu": {
             "en": "Florida Gulf Coast University"
