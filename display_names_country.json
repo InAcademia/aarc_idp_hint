@@ -3867,6 +3867,10 @@
             "en": "Qufu Normal University",
             "zh": "曲阜师范大学(Qufu Normal University)"
         },
+        "https://idp.qhavtc.edu.cn/idp/shibboleth": {
+            "en": "Qinghai College of Architectural Technology",
+            "zh": "青海建筑职业技术学院(Qinghai College of Architectural Technology)"
+        },
         "https://idp.qhnu.edu.cn/idp/shibboleth": {
             "en": "Qinghai Normal University",
             "zh": "青海师范大学(Qinghai Normal University )"
@@ -4562,6 +4566,10 @@
         "https://idp.yngtxy.edu.cn/idp/shibboleth": {
             "en": "Yunnan Land and Resources Vocational College",
             "zh": "云南国土资源职业学院(Yunnan Land and Resources Vocational College)"
+        },
+        "https://idp.ynnu.edu.cn/idp/shibboleth": {
+            "en": "Yunnan Normal University",
+            "zh": "云南师范大学(Yunnan Normal University)"
         },
         "https://idp.ynu.edu.cn/idp/shibboleth": {
             "en": "Yunnan University",
@@ -13194,6 +13202,9 @@
         "https://sso.university.unimas.my/idp/shibboleth": {
             "en": "Universiti Malaysia Sarawak"
         },
+        "https://umsidp.ums.edu.my/idp/shibboleth": {
+            "en": "Universiti Malaysia Sabah"
+        },
         "https://vho.sifulan.my/idp/shibboleth": {
             "en": "SIFULAN Virtual Home"
         }
@@ -18199,6 +18210,9 @@
         },
         "https://id.dri.edu/idp": {
             "en": "Desert Research Institute"
+        },
+        "https://id.nevadastate.edu/idp": {
+            "en": "Nevada State University"
         },
         "https://id.nps.edu/idp/shibboleth": {
             "en": "Naval Postgraduate School"

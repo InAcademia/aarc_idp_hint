@@ -206,6 +206,9 @@
     "https://id.dri.edu/idp": {
         "en": "Desert Research Institute"
     },
+    "https://id.nevadastate.edu/idp": {
+        "en": "Nevada State University"
+    },
     "https://id.nps.edu/idp/shibboleth": {
         "en": "Naval Postgraduate School"
     },
