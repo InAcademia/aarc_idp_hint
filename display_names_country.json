@@ -10720,8 +10720,8 @@
             "en": "South East Technological University (@itcarlow.ie logins)"
         },
         "https://idp.ittralee.ie/idp": {
-            "en": "Institute of Technology Tralee",
-            "ga": "Institiúid Teicneolaíochta, Trá Lí"
+            "en": "MTU, Kerry Campus",
+            "ga": "Ollscoil Teicneolaíochta na Mumhan"
         },
         "https://idp.lit.ie/saml2": {
             "en": "TUS Midwest (@lit.ie logins)"
@@ -17746,9 +17746,6 @@
         },
         "https://shibboleth.bexhillcollege.ac.uk/idp/shibboleth": {
             "en": "Bexhill 6th Form College"
-        },
-        "https://shibboleth.bolton-sfc.ac.uk/idp/shibboleth": {
-            "en": "Bolton Sixth Form College"
         },
         "https://shibboleth.bradfordcollege.ac.uk/idp/shibboleth": {
             "en": "Bradford College"
