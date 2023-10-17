@@ -4287,6 +4287,10 @@
             "en": "University of Chinese Academy of Social Sciences",
             "zh": "中国社会科学院大学(University of Chinese Academy of Social Sciences)"
         },
+        "https://idp.uic.edu.cn/idp/shibboleth": {
+            "en": "Beijing Normal University-Hong Kong Baptist University United International College",
+            "zh": "北京师范大学-香港浸会大学联合国际学院(Beijing Normal University-Hong Kong Baptist University United International College)"
+        },
         "https://idp.ujn.edu.cn/idp/shibboleth": {
             "en": "University of Jinan",
             "zh": "济南大学( University of Jinan)"
@@ -10389,6 +10393,10 @@
             "en": "University of Miskolc",
             "hu": "Miskolci Egyetem"
         },
+        "https://auth.tf.hu/simplesaml/saml2/idp/metadata.php": {
+            "en": "Hungarian University of Sports Science",
+            "hu": "Magyar Testnevelési és Sporttudományi Egyetem"
+        },
         "https://auth0.uni-milton.hu/idp/shibboleth": {
             "en": "Milton Friedman University",
             "hu": "Milton Friedman Egyetem"
@@ -13543,8 +13551,8 @@
             "nl": "TNO Innovation for life"
         },
         "http://sts.tue.nl/adfs/services/trust": {
-            "en": "Eindhoven University of Technology",
-            "nl": "Technische Universiteit Eindhoven"
+            "en": "Eindhoven University of Technology (Old)",
+            "nl": "Technische Universiteit Eindhoven (Oud)"
         },
         "http://sts.vumc.nl/adfs/services/trust": {
             "en": "VU medisch centrum",
@@ -13913,6 +13921,10 @@
         "https://sts.windows.net/c908cc46-554c-4131-8653-45522e68e291/": {
             "en": "ROC van Amsterdam - Flevoland",
             "nl": "ROC van Amsterdam - Flevoland"
+        },
+        "https://sts.windows.net/cc7df247-60ce-4a0f-9d75-704cf60efc64/": {
+            "en": "Eindhoven University of Technology",
+            "nl": "Technische Universiteit Eindhoven"
         },
         "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
             "en": "HAS green academy",
@@ -16586,9 +16598,6 @@
         },
         "https://idp.cambria.ac.uk/openathens": {
             "en": "Coleg Cambria"
-        },
-        "https://idp.cambridgeimaging.co.uk/entity": {
-            "en": "Imagen IdP"
         },
         "https://idp.camre.ac.uk/idp/shibboleth": {
             "en": "Cambridge Regional College"
