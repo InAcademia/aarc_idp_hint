@@ -839,6 +839,7 @@
     "https://identity.unife.it/idp/shibboleth": "University of Ferrara",
     "https://identityfor.co.uk/r4c": "SIMS ID (Staging)",
     "https://identityprovider.anl.gov/idp/shibboleth": "Argonne National Laboratory",
+    "https://idf.upm.edu.my/idp/shibboleth": "Universiti Putra Malaysia",
     "https://idp-01.federation.ke/simplesaml/saml2/idp/metadata.php": "Kenya Education Network (KENET)",
     "https://idp-acs.idpcloud.garr.it/idp/shibboleth": "Central State Archives",
     "https://idp-agrocampus-ouest.renater.fr/idp/shibboleth": "L'Institut Agro Rennes-Angers",

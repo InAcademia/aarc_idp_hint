@@ -1,4 +1,7 @@
 {
+    "https://idf.upm.edu.my/idp/shibboleth": {
+        "en": "Universiti Putra Malaysia"
+    },
     "https://idp.imu.edu.my/idp/shibboleth": {
         "en": "International Medical University"
     },
