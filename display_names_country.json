@@ -10915,6 +10915,9 @@
         "https://idp.bpsmvedp.ac.in/idp/shibboleth": {
             "en": "Bhagat Phool Singh Mahila Vishwavidyalaya"
         },
+        "https://idp.braou.ac.in/idp/shibboleth": {
+            "en": "Dr. B.R. Ambedkar Open University"
+        },
         "https://idp.bvmengineering.ac.in/idp/shibboleth": {
             "en": "Birla Vishvakarma Mahavidyalaya (BVM) Engineering College"
         },
@@ -11100,6 +11103,9 @@
         },
         "https://idp.karunya.edu/idp/shibboleth": {
             "en": "Karunya Institute of Technology and Sciences (Deemed University)"
+        },
+        "https://idp.kcesmjc.in/idp/shibboleth": {
+            "en": "KCE's M. J. College, Jalgaon"
         },
         "https://idp.kct.ac.in/idp/shibboleth": {
             "en": "Kumaraguru College of Technology"
@@ -13276,26 +13282,6 @@
             "zh": "中国科技云通行证(CSTCloud ID)"
         }
     },
-    "ng": {
-        "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
-            "en": "Eko-Konnect Research and Education Initiative"
-        },
-        "https://fugusau.eduid.ng/saml2/idp/metadata.php": {
-            "en": "Federal University Gusau"
-        },
-        "https://udusok.eduid.ng/saml2/idp/metadata.php": {
-            "en": "Usmanu Danfodiyo University"
-        },
-        "https://uniabuja.eduid.ng/saml2/idp/metadata.php": {
-            "en": "University of Abuja"
-        },
-        "https://unijos.eduid.ng/saml2/idp/metadata.php": {
-            "en": "University of Jos"
-        },
-        "https://unilag.eduid.ng/saml2/idp/metadata.php": {
-            "en": "University of Lagos"
-        }
-    },
     "nl": {
         "http://adfs-differ.differ.nl/adfs/services/trust": {
             "en": "DIFFER",
@@ -13544,6 +13530,9 @@
         "http://sts.horizoncollege.nl/adfs/services/trust": {
             "en": "ROC Horizon College",
             "nl": "ROC Horizon College"
+        },
+        "http://sts.rietveldacademie.nl/adfs/services/trust": {
+            "en": "http://sts.rietveldacademie.nl/adfs/services/trust"
         },
         "http://sts.stc-r.nl/adfs/services/trust": {
             "en": "STC-Group (Old)",

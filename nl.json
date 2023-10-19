@@ -247,6 +247,9 @@
         "en": "ROC Horizon College",
         "nl": "ROC Horizon College"
     },
+    "http://sts.rietveldacademie.nl/adfs/services/trust": {
+        "en": "http://sts.rietveldacademie.nl/adfs/services/trust"
+    },
     "http://sts.stc-r.nl/adfs/services/trust": {
         "en": "STC-Group (Old)",
         "nl": "STC-Group (Oud)"
