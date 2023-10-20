@@ -1115,10 +1115,6 @@
         "en": "CNES",
         "fr": "CNES"
     },
-    "https://sso.edhec.edu/idp/shibboleth": {
-        "en": "EDHEC Business School",
-        "fr": "EDHEC Business School"
-    },
     "https://sso.insa-strasbourg.fr/idp/shibboleth": {
         "en": "INSA Strasbourg",
         "fr": "INSA Strasbourg"
@@ -1156,8 +1152,8 @@
         "fr": "Institut Supérieur de Communication et Publicité"
     },
     "https://sts.windows.net/9692a3d3-2a08-4ec8-a0bd-1db355eb4230/": {
-        "en": "EDHEC Business School Azure",
-        "fr": "EDHEC Business School Azure"
+        "en": "EDHEC Business School",
+        "fr": "EDHEC Business School"
     },
     "https://sts.windows.net/a1bce70e-1f36-4e8c-b4f3-48980a5f78ee/": {
         "en": "MBS - Production",
