@@ -843,6 +843,10 @@
         "en": "Hebei Normal University",
         "zh": "河北师范大学(Hebei Normal University)"
     },
+    "https://idp.hebuee.edu.cn/idp/shibboleth": {
+        "en": "Hebei University of Environmental Engineering",
+        "zh": "河北环境工程学院(Hebei University of Environmental Engineering)"
+    },
     "https://idp.hebut.edu.cn/idp/shibboleth": {
         "en": "Hebei University of Technology",
         "zh": "河北工业大学(Hebei University of Technology)"

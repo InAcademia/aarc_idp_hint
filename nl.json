@@ -63,10 +63,6 @@
         "en": "Lentiz Onderwijsgroep",
         "nl": "Lentiz Onderwijsgroep"
     },
-    "http://adfs.msm.nl/adfs/services/trust": {
-        "en": "Maastricht School of Management",
-        "nl": "Maastricht School of Management"
-    },
     "http://adfs.nivel.nl/adfs/services/trust": {
         "en": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)",
         "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"

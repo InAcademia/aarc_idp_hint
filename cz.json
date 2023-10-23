@@ -159,6 +159,10 @@
         "cs": "Ústav výzkumu globální změny AV ČR, v. v. i.",
         "en": "Global Change Research Institute CAS"
     },
+    "https://idp.eli-beams.eu/idp/shibboleth": {
+        "cs": "ELI BEAMLINES",
+        "en": "ELI BEAMLINES"
+    },
     "https://idp.eu.cas.cz/idp/shibboleth": {
         "cs": "Etnologický ústav AV ČR, v. v. i.",
         "en": "The Institute of Ethnology of the Czech Academy of Sciences, v. v. i."

@@ -3287,6 +3287,10 @@
             "en": "Hebei Normal University",
             "zh": "河北师范大学(Hebei Normal University)"
         },
+        "https://idp.hebuee.edu.cn/idp/shibboleth": {
+            "en": "Hebei University of Environmental Engineering",
+            "zh": "河北环境工程学院(Hebei University of Environmental Engineering)"
+        },
         "https://idp.hebut.edu.cn/idp/shibboleth": {
             "en": "Hebei University of Technology",
             "zh": "河北工业大学(Hebei University of Technology)"
@@ -5008,6 +5012,10 @@
         "https://idp.czechglobe.cz/idp/shibboleth": {
             "cs": "Ústav výzkumu globální změny AV ČR, v. v. i.",
             "en": "Global Change Research Institute CAS"
+        },
+        "https://idp.eli-beams.eu/idp/shibboleth": {
+            "cs": "ELI BEAMLINES",
+            "en": "ELI BEAMLINES"
         },
         "https://idp.eu.cas.cz/idp/shibboleth": {
             "cs": "Etnologický ústav AV ČR, v. v. i.",
@@ -13343,10 +13351,6 @@
             "en": "Lentiz Onderwijsgroep",
             "nl": "Lentiz Onderwijsgroep"
         },
-        "http://adfs.msm.nl/adfs/services/trust": {
-            "en": "Maastricht School of Management",
-            "nl": "Maastricht School of Management"
-        },
         "http://adfs.nivel.nl/adfs/services/trust": {
             "en": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)",
             "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"
@@ -16243,6 +16247,9 @@
         },
         "https://idp.kyu.ac.ug/idp/shibboleth": {
             "en": "Kyambogo University"
+        },
+        "https://idp.lirauni.ac.ug/idp/shibboleth": {
+            "en": "Lira University"
         },
         "https://idp.lubagahospital.org/idp/shibboleth": {
             "en": "Uganda Martyrs Hospital Lubaga"
