@@ -7505,14 +7505,6 @@
             "en": "Dania Academy"
         }
     },
-    "dz": {
-        "https://idp.grid.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science GRID IDP"
-        },
-        "https://med-idp.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science MEDECINE IDP"
-        }
-    },
     "ec": {
         "https://login.caces.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces",
@@ -12434,6 +12426,9 @@
         "https://kafe.kasi.re.kr/idp/simplesamlphp": {
             "en": "Korea Astronomy and Space Science Institute"
         },
+        "https://kafe.knu.ac.kr/idp/simplesamlphp": {
+            "en": "Kyungpook National University"
+        },
         "https://kafe.krict.re.kr/idp/simplesamlphp": {
             "en": "Korea Research Institute of Chemical Technology"
         },
@@ -13815,6 +13810,10 @@
             "en": "Zuyd Hogeschool",
             "nl": "Zuyd Hogeschool"
         },
+        "https://sts.windows.net/8e600f92-30df-4667-b7c0-3f2595f3f12b/": {
+            "en": "Mediacollege Amsterdam",
+            "nl": "Mediacollege Amsterdam"
+        },
         "https://sts.windows.net/91eab56a-a91b-4c88-a4fb-eba5c3b4ebfd/": {
             "en": "Rijn IJssel",
             "nl": "Rijn IJssel"
@@ -15069,11 +15068,11 @@
         "http://sts.nu.edu.sa/adfs/services/trust": {
             "en": "Najran University"
         },
+        "http://sts.uoh.edu.sa/adfs/services/trust": {
+            "en": "University Of Hail"
+        },
         "http://sts1.ksau-hs.edu.sa/adfs/services/trust": {
             "en": "King Saud Bin Abdulaziz University for Health Sciences"
-        },
-        "http://uohsts.uoh.edu.sa/adfs/services/trust": {
-            "en": "University Of Hail"
         },
         "https://aai.lab.maeen.sa/idp/shibboleth": {
             "en": "aai.lab.maeen.sa"
@@ -15616,10 +15615,6 @@
         "https://idp.cu.edu.tr/saml2/idp/metadata.php": {
             "en": "Çukurova University",
             "tr": "Çukurova Ünivesitesi"
-        },
-        "https://idp.esenyurt.edu.tr/idp/shibboleth": {
-            "en": "Istanbul Esenyurt University",
-            "tr": "İstanbul Esenyurt Üniversitesi"
         },
         "https://idp.firat.edu.tr/idp/shibboleth": {
             "en": "Fırat University",

@@ -71,11 +71,11 @@
     "http://sts.nu.edu.sa/adfs/services/trust": {
         "en": "Najran University"
     },
+    "http://sts.uoh.edu.sa/adfs/services/trust": {
+        "en": "University Of Hail"
+    },
     "http://sts1.ksau-hs.edu.sa/adfs/services/trust": {
         "en": "King Saud Bin Abdulaziz University for Health Sciences"
-    },
-    "http://uohsts.uoh.edu.sa/adfs/services/trust": {
-        "en": "University Of Hail"
     },
     "https://aai.lab.maeen.sa/idp/shibboleth": {
         "en": "aai.lab.maeen.sa"

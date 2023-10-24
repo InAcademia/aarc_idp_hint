@@ -56,6 +56,9 @@
     "https://kafe.kasi.re.kr/idp/simplesamlphp": {
         "en": "Korea Astronomy and Space Science Institute"
     },
+    "https://kafe.knu.ac.kr/idp/simplesamlphp": {
+        "en": "Kyungpook National University"
+    },
     "https://kafe.krict.re.kr/idp/simplesamlphp": {
         "en": "Korea Research Institute of Chemical Technology"
     },
