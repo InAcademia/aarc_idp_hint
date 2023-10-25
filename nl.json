@@ -247,10 +247,6 @@
         "en": "Gerrit Rietveld Academie",
         "nl": "Gerrit Rietveld Academie"
     },
-    "http://sts.stc-r.nl/adfs/services/trust": {
-        "en": "STC-Group (Old)",
-        "nl": "STC-Group (Oud)"
-    },
     "http://sts.tno.nl/adfs/services/trust": {
         "en": "TNO Innovation for life",
         "nl": "TNO Innovation for life"

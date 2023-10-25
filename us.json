@@ -218,6 +218,9 @@
     "https://id.uakron.edu/idp/shibboleth": {
         "en": "University of Akron, Main Campus, The"
     },
+    "https://id.uwlax.edu/idp": {
+        "en": "University of Wisconsin La Crosse"
+    },
     "https://idcs-6dfbdd810afa4d509f6cfc191d612acd.identity.oraclecloud.com:443/fed": {
         "en": "University of Colorado Denver | Anschutz Medical Campus"
     },
