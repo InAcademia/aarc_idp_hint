@@ -209,6 +209,9 @@
     "https://sso.kkpmas.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Pasir Mas"
     },
+    "https://sso.kkpsa.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Pasir Salak"
+    },
     "https://sso.kkpt.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Padang Terap"
     },
