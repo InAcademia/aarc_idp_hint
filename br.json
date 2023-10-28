@@ -135,10 +135,6 @@
         "en": "IME - Instituto Militar de Engenharia",
         "pt-br": "IME - Instituto Militar de Engenharia"
     },
-    "https://cafe.incaper.es.gov.br/idp/shibboleth": {
-        "en": "INCAPER - Instituto Capixaba de Pesquisa, Assistencia Tecnica e Extensao Rural",
-        "pt-br": "INCAPER - Instituto Capixaba de Pesquisa, Assistencia Tecnica e Extensao Rural"
-    },
     "https://cafe.ita.br/idp/shibboleth": {
         "en": "ITA - Instituto Tecnologico de Aeronautica",
         "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
@@ -146,10 +142,6 @@
     "https://cafe.itvds.org/idp/shibboleth": {
         "en": "ITV - Instituto Tecnologico Vale",
         "pt-br": "ITV - Instituto Tecnologico Vale"
-    },
-    "https://cafe.mackenzie.br/idp/shibboleth": {
-        "en": "MACKENZIE - Instituto Presbiteriano Mackenzie",
-        "pt-br": "MACKENZIE - Instituto Presbiteriano Mackenzie"
     },
     "https://cafe.mamiraua.org.br/idp/shibboleth": {
         "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
@@ -174,10 +166,6 @@
     "https://cafe.saude.gov.br/idp/shibboleth": {
         "en": "MS - Ministerio da Saude",
         "pt-br": "MS - Ministerio da Saude"
-    },
-    "https://cafe.sbc.org.br/idp/shibboleth": {
-        "en": "SBC - Sociedade Brasileira de Computacao",
-        "pt-br": "SBC - Sociedade Brasileira de Computacao"
     },
     "https://cafe.sede.embrapa.br/idp/shibboleth": {
         "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
@@ -402,10 +390,6 @@
     "https://fusion.ceub.br/idp/shibboleth": {
         "en": "UNICEUB - Centro Universitario de Brasilia",
         "pt-br": "UNICEUB - Centro Universitario de Brasilia"
-    },
-    "https://hc-idpcafe.hc.ufpr.br/idp/shibboleth": {
-        "en": "CHC-UFPR - Complexo Hospital de Clinicas",
-        "pt-br": "CHC-UFPR - Complexo Hospital de Clinicas"
     },
     "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
         "en": "IFAP - Instituto Federal do Amapa",
@@ -648,8 +632,8 @@
         "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
     },
     "https://idp.unifacef.edu.br/idp/shibboleth": {
-        "en": "UNI-FACEF - Centro Universitario Municipal de Franca",
-        "pt-br": "UNI-FACEF - Centro Universitario Municipal de Franca"
+        "en": "UNI-FACEF - CENTRO UNIVERSITARIO MUNICIPAL DE FRANCA - UNI-FACEF - Centro Universitario Municipal de Franca",
+        "pt-br": "UNI-FACEF - CENTRO UNIVERSITARIO MUNICIPAL DE FRANCA - UNI-FACEF - Centro Universitario Municipal de Franca"
     },
     "https://idp.unifap.br/idp/shibboleth": {
         "en": "UNIFAP - Universidade Federal do Amapa",

@@ -672,6 +672,1140 @@
             "en": "Varna Free University Chernorizets Hrabar"
         }
     },
+    "br": {
+        "https://040cafe602.up.edu.br/idp/shibboleth": {
+            "en": "UP - Universidade Positivo",
+            "pt-br": "UP - Universidade Positivo"
+        },
+        "https://1010se17fam-v18.famerp.br/idp/shibboleth": {
+            "en": "FAMERP - Faculdade de Medicina de Rio Preto",
+            "pt-br": "FAMERP - Faculdade de Medicina de Rio Preto"
+        },
+        "https://acesso.ufabc.edu.br/idp/shibboleth": {
+            "en": "UFABC - Universidade Federal do ABC",
+            "pt-br": "UFABC - Universidade Federal do ABC"
+        },
+        "https://aclxpcafe.accamargo.org.br/idp/shibboleth": {
+            "en": "ACCAMARGO - AC Camargo Cancer Center",
+            "pt-br": "ACCAMARGO - AC Camargo Cancer Center"
+        },
+        "https://arabica.fapesp.br/idp/shibboleth": {
+            "en": "FAPESP - Fundacao de Amparo a Pesquisa do Estado de Sao Paulo",
+            "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa do Estado de Sao Paulo"
+        },
+        "https://araripe.uece.br/idp/shibboleth": {
+            "en": "UECE - Universidade Estadual do Ceara",
+            "pt-br": "UECE - Universidade Estadual do Ceara"
+        },
+        "https://azor.ufpe.br/idp/shibboleth": {
+            "en": "UFPE - Universidade Federal de Pernambuco",
+            "pt-br": "UFPE - Universidade Federal de Pernambuco"
+        },
+        "https://barista2.pucsp.br/idp/shibboleth": {
+            "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
+            "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
+        },
+        "https://cafe-01.uffs.edu.br/idp/shibboleth": {
+            "en": "UFFS - Universidade Federal da Fronteira Sul",
+            "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
+        },
+        "https://cafe-gateway.ifce.edu.br/idp/shibboleth": {
+            "en": "IFCE - Instituto Federal do Ceara",
+            "pt-br": "IFCE - Instituto Federal do Ceara"
+        },
+        "https://cafe-idp.ifnmg.edu.br/idp/shibboleth": {
+            "en": "IFNMG - Instituto Federal do Norte de Minas Gerais",
+            "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
+        },
+        "https://cafe-idp.ufrrj.br/idp/shibboleth": {
+            "en": "UFRRJ - Universidade Federal Rural do Rio de Janeiro",
+            "pt-br": "UFRRJ - Universidade Federal Rural do Rio de Janeiro"
+        },
+        "https://cafe-idp.unirio.br/idp/shibboleth": {
+            "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
+            "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
+        },
+        "https://cafe-idp.unisantos.br/idp/shibboleth": {
+            "en": "UNISANTOS - Universidade Catolica de Santos",
+            "pt-br": "UNISANTOS - Universidade Catolica de Santos"
+        },
+        "https://cafe-school.cesar.org.br/idp/shibboleth": {
+            "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
+            "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
+        },
+        "https://cafe-v3.upf.br/idp/shibboleth": {
+            "en": "UPF - Universidade de Passo Fundo",
+            "pt-br": "UPF - Universidade de Passo Fundo"
+        },
+        "https://cafe.cbpf.br/idp/shibboleth": {
+            "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
+            "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
+        },
+        "https://cafe.cefet-rj.br/idp/shibboleth": {
+            "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
+            "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
+        },
+        "https://cafe.cnpq.br/idp/shibboleth": {
+            "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
+            "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
+        },
+        "https://cafe.espm.br/idp/shibboleth": {
+            "en": "ESPM - Escola Superior de Propaganda e Marketing",
+            "pt-br": "ESPM - Escola Superior de Propaganda e Marketing"
+        },
+        "https://cafe.fmc-campos.com.br/idp/shibboleth": {
+            "en": "FMC - Faculdade de Medicina de Campos",
+            "pt-br": "FMC - Faculdade de Medicina de Campos"
+        },
+        "https://cafe.fucape.br/idp/shibboleth": {
+            "en": "FUCAPE - Fundacao Instituto Capixaba de Pesquisa em Cont. Econ. e Financas",
+            "pt-br": "FUCAPE - Fundacao Instituto Capixaba de Pesquisa em Cont. Econ. e Financas"
+        },
+        "https://cafe.fumec.br/idp/shibboleth": {
+            "en": "FUMEC - Universidade Fumec",
+            "pt-br": "FUMEC - Universidade Fumec"
+        },
+        "https://cafe.funesa.se.gov.br/idp/shibboleth": {
+            "en": "FUNESA - Fundacao Estadual de Saude",
+            "pt-br": "FUNESA - Fundacao Estadual de Saude"
+        },
+        "https://cafe.furg.br/idp/shibboleth": {
+            "en": "FURG - Universidade Federal do Rio Grande",
+            "pt-br": "FURG - Universidade Federal do Rio Grande"
+        },
+        "https://cafe.ibict.br/idp/shibboleth": {
+            "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
+            "pt-br": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia"
+        },
+        "https://cafe.idp.edu.br/idp/shibboleth": {
+            "en": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia",
+            "pt-br": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia"
+        },
+        "https://cafe.iec.gov.br/idp/shibboleth": {
+            "en": "IEC - Instituto Evandro Chagas",
+            "pt-br": "IEC - Instituto Evandro Chagas"
+        },
+        "https://cafe.ien.gov.br/idp/shibboleth": {
+            "en": "IEN - Instituto de Engenharia Nuclear",
+            "pt-br": "IEN - Instituto de Engenharia Nuclear"
+        },
+        "https://cafe.ifma.edu.br/idp/shibboleth": {
+            "en": "IFMA - Instituto Federal do Maranhao",
+            "pt-br": "IFMA - Instituto Federal do Maranhao"
+        },
+        "https://cafe.ifrj.edu.br/idp/shibboleth": {
+            "en": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro",
+            "pt-br": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro"
+        },
+        "https://cafe.ifro.edu.br/idp/shibboleth": {
+            "en": "IFRO - Instituto Federal de Rondonia",
+            "pt-br": "IFRO - Instituto Federal de Rondonia"
+        },
+        "https://cafe.ifrs.edu.br/idp/shibboleth": {
+            "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul",
+            "pt-br": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul"
+        },
+        "https://cafe.ime.eb.br/idp/shibboleth": {
+            "en": "IME - Instituto Militar de Engenharia",
+            "pt-br": "IME - Instituto Militar de Engenharia"
+        },
+        "https://cafe.ita.br/idp/shibboleth": {
+            "en": "ITA - Instituto Tecnologico de Aeronautica",
+            "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
+        },
+        "https://cafe.itvds.org/idp/shibboleth": {
+            "en": "ITV - Instituto Tecnologico Vale",
+            "pt-br": "ITV - Instituto Tecnologico Vale"
+        },
+        "https://cafe.mamiraua.org.br/idp/shibboleth": {
+            "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
+            "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
+        },
+        "https://cafe.pucgoias.edu.br/idp/shibboleth": {
+            "en": "PUCGOIAS - Pontificia Universidade Catolica de Goias",
+            "pt-br": "PUCGOIAS - Pontificia Universidade Catolica de Goias"
+        },
+        "https://cafe.pucminas.br/idp/shibboleth": {
+            "en": "PUC MINAS - pontificia Universidade Catolica de Minas Gerais",
+            "pt-br": "PUC MINAS - pontificia Universidade Catolica de Minas Gerais"
+        },
+        "https://cafe.pucpr.br/idp/shibboleth": {
+            "en": "PUCPR - Pontificia Universidade Catolica do Parana",
+            "pt-br": "PUCPR - Pontificia Universidade Catolica do Parana"
+        },
+        "https://cafe.rn.senai.br/idp/shibboleth": {
+            "en": "CTGAS-ER - Centro de Tecnologias do Gas e Energias Renovaveis",
+            "pt-br": "CTGAS-ER - Centro de Tecnologias do Gas e Energias Renovaveis"
+        },
+        "https://cafe.saude.gov.br/idp/shibboleth": {
+            "en": "MS - Ministerio da Saude",
+            "pt-br": "MS - Ministerio da Saude"
+        },
+        "https://cafe.sede.embrapa.br/idp/shibboleth": {
+            "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
+            "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
+        },
+        "https://cafe.setrem.edu.br/idp/shibboleth": {
+            "en": "SETREM - Sociedade Educacional Tres de Maio",
+            "pt-br": "SETREM - Sociedade Educacional Tres de Maio"
+        },
+        "https://cafe.sgb.gov.br/idp/shibboleth": {
+            "en": "SGB - Servico Geologico do Brasil",
+            "pt-br": "SGB - Servico Geologico do Brasil"
+        },
+        "https://cafe.ucs.br/idp/shibboleth": {
+            "en": "UCS - Universidade de Caxias do Sul",
+            "pt-br": "UCS - Universidade de Caxias do Sul"
+        },
+        "https://cafe.uemg.br/idp/shibboleth": {
+            "en": "UEMG - Universidade do Estado de Minas Gerais",
+            "pt-br": "UEMG - Universidade do Estado de Minas Gerais"
+        },
+        "https://cafe.uerr.edu.br/idp/shibboleth": {
+            "en": "UERR - Universidade Estadual De Roraima",
+            "pt-br": "UERR - Universidade Estadual De Roraima"
+        },
+        "https://cafe.ufam.edu.br/idp/shibboleth": {
+            "en": "UFAM - Universidade Federal do Amazonas",
+            "pt-br": "UFAM - Universidade Federal do Amazonas"
+        },
+        "https://cafe.ufba.br/idp/shibboleth": {
+            "en": "UFBA - Universidade Federal da Bahia",
+            "pt-br": "UFBA - Universidade Federal da Bahia"
+        },
+        "https://cafe.uff.br/idp/shibboleth": {
+            "en": "UFF - Universidade Federal Fluminense",
+            "pt-br": "UFF - Universidade Federal Fluminense"
+        },
+        "https://cafe.ufmg.br/idp/shibboleth": {
+            "en": "UFMG - Universidade Federal de Minas Gerais",
+            "pt-br": "UFMG - Universidade Federal de Minas Gerais"
+        },
+        "https://cafe.ufpa.br/idp/shibboleth": {
+            "en": "UFPA - Universidade Federal do Para",
+            "pt-br": "UFPA - Universidade Federal do Para"
+        },
+        "https://cafe.ufpb.br/idp/shibboleth": {
+            "en": "UFPB - Universidade Federal da Paraiba",
+            "pt-br": "UFPB - Universidade Federal da Paraiba"
+        },
+        "https://cafe.ufpel.edu.br/idp/shibboleth": {
+            "en": "UFPEL - Universidade Federal de Pelotas",
+            "pt-br": "UFPEL - Universidade Federal de Pelotas"
+        },
+        "https://cafe.ufpi.br/idp/shibboleth": {
+            "en": "UFPI - Universidade Federal do Piaui",
+            "pt-br": "UFPI - Universidade Federal do Piaui"
+        },
+        "https://cafe.ufsb.edu.br/idp/shibboleth": {
+            "en": "UFSB - Universidade Federal do Sul da Bahia",
+            "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
+        },
+        "https://cafe.unesc.net/idp/shibboleth": {
+            "en": "UNESC - Universidade do Extremo Sul Catarinense",
+            "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
+        },
+        "https://cafe.unicap.br/idp/shibboleth": {
+            "en": "UNICAP - Universidade Catolica de Pernambuco",
+            "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
+        },
+        "https://cafe.unicentro.br/idp/shibboleth": {
+            "en": "UNICENTRO - Universidade Estadual do Centro-Oeste",
+            "pt-br": "UNICENTRO - Universidade Estadual do Centro-Oeste"
+        },
+        "https://cafe.unifesspa.edu.br/idp/shibboleth": {
+            "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
+            "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
+        },
+        "https://cafe.unimontes.br/idp/shibboleth": {
+            "en": "UNIMONTES - Universidade Estadual de Montes Claros",
+            "pt-br": "UNIMONTES - Universidade Estadual de Montes Claros"
+        },
+        "https://cafe.unipampa.edu.br/idp/shibboleth": {
+            "en": "UNIPAMPA - Universidade Federal do Pampa",
+            "pt-br": "UNIPAMPA - Universidade Federal do Pampa"
+        },
+        "https://cafe.unitau.br/idp/shibboleth": {
+            "en": "UNITAU - Universidade de Taubate",
+            "pt-br": "UNITAU - Universidade de Taubate"
+        },
+        "https://cafe.univille.br/idp/shibboleth": {
+            "en": "UNIVILLE - Fundacao Educacional da Regiao de Joinville",
+            "pt-br": "UNIVILLE - Fundacao Educacional da Regiao de Joinville"
+        },
+        "https://cafe.unoesc.edu.br/idp/shibboleth": {
+            "en": "UNOESC - Universidade do Oeste de Santa Catarina",
+            "pt-br": "UNOESC - Universidade do Oeste de Santa Catarina"
+        },
+        "https://cafe.usf.edu.br/idp/shibboleth": {
+            "en": "USF - Universidade Sao Francisco",
+            "pt-br": "USF - Universidade Sao Francisco"
+        },
+        "https://cafe02.ifes.edu.br/idp/shibboleth": {
+            "en": "IFES - Instituto Federal do Espirito Santo",
+            "pt-br": "IFES - Instituto Federal do Espirito Santo"
+        },
+        "https://cafe02.unicamp.br/idp/shibboleth": {
+            "en": "UNICAMP - Universidade Estadual de Campinas",
+            "pt-br": "UNICAMP - Universidade Estadual de Campinas"
+        },
+        "https://cafe2.cecierj.edu.br/idp/shibboleth": {
+            "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
+            "pt-br": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ"
+        },
+        "https://cafe2.dti.ufv.br/idp/shibboleth": {
+            "en": "UFV - Universidade Federal de Vicosa",
+            "pt-br": "UFV - Universidade Federal de Vicosa"
+        },
+        "https://cafe2.unesp.br/idp/shibboleth": {
+            "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
+            "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
+        },
+        "https://cafe2.unoeste.br/idp/shibboleth": {
+            "en": "UNOESTE - Universidade do Oeste Paulista",
+            "pt-br": "UNOESTE - Universidade do Oeste Paulista"
+        },
+        "https://cafe2022.lncc.br/idp/shibboleth": {
+            "en": "LNCC - Laboratorio Nacional de Computacao Cientifica",
+            "pt-br": "LNCC - Laboratorio Nacional de Computacao Cientifica"
+        },
+        "https://cafe4.ifms.edu.br/idp/shibboleth": {
+            "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
+            "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
+        },
+        "https://cafe4.udesc.br/idp/shibboleth": {
+            "en": "UDESC - Universidade do Estado de Santa Catarina",
+            "pt-br": "UDESC - Universidade do Estado de Santa Catarina"
+        },
+        "https://cafe4.ufal.br/idp/shibboleth": {
+            "en": "UFAL - Universidade Federal de Alagoas",
+            "pt-br": "UFAL - Universidade Federal de Alagoas"
+        },
+        "https://cafe4.ufes.br/idp/shibboleth": {
+            "en": "UFES - Universidade Federal do Espirito Santo",
+            "pt-br": "UFES - Universidade Federal do Espirito Santo"
+        },
+        "https://cafe4.ufsc.br/idp/shibboleth": {
+            "en": "UFSC - Universidade Federal de Santa Catarina",
+            "pt-br": "UFSC - Universidade Federal de Santa Catarina"
+        },
+        "https://cafeidp.ufdpar.edu.br/idp/shibboleth": {
+            "en": "UFDPAR - Universidade Federal do Delta do Parnaiba",
+            "pt-br": "UFDPAR - Universidade Federal do Delta do Parnaiba"
+        },
+        "https://cafeidp.unemat.br/idp/shibboleth": {
+            "en": "UNEMAT - Universidade do Estado de Mato Grosso",
+            "pt-br": "UNEMAT - Universidade do Estado de Mato Grosso"
+        },
+        "https://cafernp.fesfsus.ba.gov.br/idp/shibboleth": {
+            "en": "FESFSUS - Fundacao Estatal Saude da Familia",
+            "pt-br": "FESFSUS - Fundacao Estatal Saude da Familia"
+        },
+        "https://cafernp.imip.org.br/idp/shibboleth": {
+            "en": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira",
+            "pt-br": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira"
+        },
+        "https://cafernp1.ipt.br/idp/shibboleth": {
+            "en": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo",
+            "pt-br": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo"
+        },
+        "https://cafev3.unochapeco.edu.br/idp/shibboleth": {
+            "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
+            "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
+        },
+        "https://cafeweb.cetene.gov.br/idp/shibboleth": {
+            "en": "CETENE - Centro de Tecnologias e Estrategicas do Nordeste",
+            "pt-br": "CETENE - Centro de Tecnologias e Estrategicas do Nordeste"
+        },
+        "https://capes.fcmsantacasasp.edu.br/idp/shibboleth": {
+            "en": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa",
+            "pt-br": "FCMSCSP - Faculdade de Ciencia Medicas Santa Casa"
+        },
+        "https://capuccino.ifba.edu.br/idp/shibboleth": {
+            "en": "IFBA - Instituto Federal da Bahia",
+            "pt-br": "IFBA - Instituto Federal da Bahia"
+        },
+        "https://capuccino2.iff.edu.br/idp/shibboleth": {
+            "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
+            "pt-br": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense"
+        },
+        "https://cardio.net.br/idp/shibboleth": {
+            "en": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul",
+            "pt-br": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul"
+        },
+        "https://catuai.ufop.br/idp/shibboleth": {
+            "en": "UFOP - Universidade Federal de Ouro Preto",
+            "pt-br": "UFOP - Universidade Federal de Ouro Preto"
+        },
+        "https://dourado2023.ufs.br/idp/shibboleth": {
+            "en": "UFS - Universidade Federal de Sergipe",
+            "pt-br": "UFS - Universidade Federal de Sergipe"
+        },
+        "https://epamigrnp.epamig.br/idp/shibboleth": {
+            "en": "EPAMIG - Empresa de de Pesquisa Agropecuaria de Minas Gerais",
+            "pt-br": "EPAMIG - Empresa de de Pesquisa Agropecuaria de Minas Gerais"
+        },
+        "https://federacao-1.hcpa.edu.br/idp/shibboleth": {
+            "en": "HCPA - Hospital de Clinicas de Porto Alegre",
+            "pt-br": "HCPA - Hospital de Clinicas de Porto Alegre"
+        },
+        "https://federacao2.uvanet.br/idp/shibboleth": {
+            "en": "UVA - Universidade Estadual Vale do Acarau",
+            "pt-br": "UVA - Universidade Estadual Vale do Acarau"
+        },
+        "https://fjncafe.fundaj.gov.br/idp/shibboleth": {
+            "en": "FUNDAJ - Fundacao Joaquim Nabuco",
+            "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"
+        },
+        "https://fjscafe.fjs.org.br/idp/shibboleth": {
+            "en": "FJS - Fundacao Jose Silveira",
+            "pt-br": "FJS - Fundacao Jose Silveira"
+        },
+        "https://fusion.ceub.br/idp/shibboleth": {
+            "en": "UNICEUB - Centro Universitario de Brasilia",
+            "pt-br": "UNICEUB - Centro Universitario de Brasilia"
+        },
+        "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
+            "en": "IFAP - Instituto Federal do Amapa",
+            "pt-br": "IFAP - Instituto Federal do Amapa"
+        },
+        "https://idp-cafe-v2.uerj.br/idp/shibboleth": {
+            "en": "UERJ - Universidade do Estado do Rio de Janeiro",
+            "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
+        },
+        "https://idp-cafe.cemaden.gov.br/idp/shibboleth": {
+            "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
+            "pt-br": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais"
+        },
+        "https://idp-cafe.cp2.g12.br/idp/shibboleth": {
+            "en": "CP2 - Colegio Pedro II",
+            "pt-br": "CP2 - Colegio Pedro II"
+        },
+        "https://idp-cafe.ghc.com.br/idp/shibboleth": {
+            "en": "GHC - Grupo Hospitalar Conceicao",
+            "pt-br": "GHC - Grupo Hospitalar Conceicao"
+        },
+        "https://idp-cafe.hmv.org.br/idp/shibboleth": {
+            "en": "HMV - Associacao Hospitalar Moinhos de Vento",
+            "pt-br": "HMV - Associacao Hospitalar Moinhos de Vento"
+        },
+        "https://idp-cafe.ifb.edu.br/idp/shibboleth": {
+            "en": "IFB - Instituto Federal de Brasilia",
+            "pt-br": "IFB - Instituto Federal de Brasilia"
+        },
+        "https://idp-cafe.ifgoiano.edu.br/idp/shibboleth": {
+            "en": "IFGOIANO - Instituto Federal Goiano",
+            "pt-br": "IFGOIANO - Instituto Federal Goiano"
+        },
+        "https://idp-cafe.ifpi.edu.br/idp/shibboleth": {
+            "en": "IFPI - Instituto Federal do Piaui",
+            "pt-br": "IFPI - Instituto Federal do Piaui"
+        },
+        "https://idp-cafe.ifs.edu.br/idp/shibboleth": {
+            "en": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe",
+            "pt-br": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe"
+        },
+        "https://idp-cafe.inma.gov.br/idp/shibboleth": {
+            "en": "INMA - Instituto Nacional da Mata Atlantica",
+            "pt-br": "INMA - Instituto Nacional da Mata Atlantica"
+        },
+        "https://idp-cafe.ird.gov.br/idp/shibboleth": {
+            "en": "IRD - Instituto de Radioprotecao e Dosimetria",
+            "pt-br": "IRD - Instituto de Radioprotecao e Dosimetria"
+        },
+        "https://idp-cafe.mcti.gov.br/idp/shibboleth": {
+            "en": "MCTI - Ministerio de Ciencia Tecnologia e Inovacoes",
+            "pt-br": "MCTI - Ministerio de Ciencia Tecnologia e Inovacoes"
+        },
+        "https://idp-cafe.saude.pi.gov.br/idp/shibboleth": {
+            "en": "SESAPI - Secretaria de Estado da Saude do Piaui",
+            "pt-br": "SESAPI - Secretaria de Estado da Saude do Piaui"
+        },
+        "https://idp-cafe.uea.edu.br/idp/shibboleth": {
+            "en": "UEA - Universidade do Estado do Amazonas",
+            "pt-br": "UEA - Universidade do Estado do Amazonas"
+        },
+        "https://idp-cafe.ufc.br/idp/shibboleth": {
+            "en": "UFC - Universidade Federal do Ceara",
+            "pt-br": "UFC - Universidade Federal do Ceara"
+        },
+        "https://idp-cafe.ufcspa.edu.br/idp/shibboleth": {
+            "en": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre",
+            "pt-br": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre"
+        },
+        "https://idp-cafe.ufra.edu.br/idp/shibboleth": {
+            "en": "UFRA - Universidade Federal Rural da Amazonia",
+            "pt-br": "UFRA - Universidade Federal Rural da Amazonia"
+        },
+        "https://idp-cafe.unifal-mg.edu.br/idp/shibboleth": {
+            "en": "UNIFAL-MG - Universidade Federal de Alfenas",
+            "pt-br": "UNIFAL-MG - Universidade Federal de Alfenas"
+        },
+        "https://idp-cafe.unisc.br/idp/shibboleth": {
+            "en": "UNISC - Universidade de Santa Cruz do Sul",
+            "pt-br": "UNISC - Universidade de Santa Cruz do Sul"
+        },
+        "https://idp-cafe.unisinos.br/idp/shibboleth": {
+            "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
+            "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
+        },
+        "https://idp-novo.uncisal.edu.br/idp/shibboleth": {
+            "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas",
+            "pt-br": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas"
+        },
+        "https://idp-shib4.uespi.br/idp/shibboleth": {
+            "en": "UESPI - Universidade Estadual do Piaui",
+            "pt-br": "UESPI - Universidade Estadual do Piaui"
+        },
+        "https://idp-shib421.funpec.br/idp/shibboleth": {
+            "en": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura",
+            "pt-br": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura"
+        },
+        "https://idp-shib421.unichristus.edu.br/idp/shibboleth": {
+            "en": "UNICHRISTUS - Centro Universitario Unichristus",
+            "pt-br": "UNICHRISTUS - Centro Universitario Unichristus"
+        },
+        "https://idp-v4.ceitec-sa.com/idp/shibboleth": {
+            "en": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada",
+            "pt-br": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada"
+        },
+        "https://idp.cafe.inep.gov.br/idp/shibboleth": {
+            "en": "INEP - Instituto Nacional de Estudos e Pesquisas",
+            "pt-br": "INEP - Instituto Nacional de Estudos e Pesquisas"
+        },
+        "https://idp.capes.gov.br/idp/shibboleth": {
+            "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior",
+            "pt-br": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior"
+        },
+        "https://idp.cefetmg.br/idp/shibboleth": {
+            "en": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais",
+            "pt-br": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais"
+        },
+        "https://idp.cnen.gov.br/idp/shibboleth": {
+            "en": "CNEN - Comissao Nacional de Energia Nuclear",
+            "pt-br": "CNEN - Comissao Nacional de Energia Nuclear"
+        },
+        "https://idp.dr.ufu.br/idp/shibboleth": {
+            "en": "UFU - Universidade Federal de Uberlandia",
+            "pt-br": "UFU - Universidade Federal de Uberlandia"
+        },
+        "https://idp.esd.gov.br/idp/shibboleth": {
+            "en": "ESD - Escola Superior de Defesa",
+            "pt-br": "ESD - Escola Superior de Defesa"
+        },
+        "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
+            "en": "SOBERANA - Faculdade de Saude de Petrolina",
+            "pt-br": "SOBERANA - Faculdade de Saude de Petrolina"
+        },
+        "https://idp.fapeal.br/idp/shibboleth": {
+            "en": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas",
+            "pt-br": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas"
+        },
+        "https://idp.fapes.es.gov.br/idp/shibboleth": {
+            "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
+            "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
+        },
+        "https://idp.fiocruz.br/idp/shibboleth": {
+            "en": "FIOCRUZ - Fundacao Oswaldo Cruz",
+            "pt-br": "FIOCRUZ - Fundacao Oswaldo Cruz"
+        },
+        "https://idp.fmu.br/idp/shibboleth": {
+            "en": "FMU - Faculdades Metropolitanas Unidas Educacao",
+            "pt-br": "FMU - Faculdades Metropolitanas Unidas Educacao"
+        },
+        "https://idp.ifac.edu.br/idp/shibboleth": {
+            "en": "IFAC - Instituto Federal do Acre",
+            "pt-br": "IFAC - Instituto Federal do Acre"
+        },
+        "https://idp.ifg.edu.br/idp/shibboleth": {
+            "en": "IFG - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DE GOIAS",
+            "pt-br": "IFG - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DE GOIAS"
+        },
+        "https://idp.ifpb.edu.br/idp/shibboleth": {
+            "en": "IFPB - Instituto Federal da Paraiba",
+            "pt-br": "IFPB - Instituto Federal da Paraiba"
+        },
+        "https://idp.ifsp.edu.br/idp/shibboleth": {
+            "en": "IFSP - Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo",
+            "pt-br": "IFSP - Instituto Federal de Educacao, Ciencia e Tecnologia de Sao Paulo"
+        },
+        "https://idp.ifsuldeminas.edu.br/idp/shibboleth": {
+            "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
+            "pt-br": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais"
+        },
+        "https://idp.incor.usp.br/idp/shibboleth": {
+            "en": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo",
+            "pt-br": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo"
+        },
+        "https://idp.inpa.gov.br/idp/shibboleth": {
+            "en": "INPA - Instituto Nacional de Pesquisas da Amazonia",
+            "pt-br": "INPA - Instituto Nacional de Pesquisas da Amazonia"
+        },
+        "https://idp.int.gov.br/idp/shibboleth": {
+            "en": "INT - Instituto Nacional de Tecnologia",
+            "pt-br": "INT - Instituto Nacional de Tecnologia"
+        },
+        "https://idp.mast.br/idp/shibboleth": {
+            "en": "MAST - Museu de Astronomia e Ciencias Afins",
+            "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
+        },
+        "https://idp.puc-campinas.edu.br/idp/shibboleth": {
+            "en": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas",
+            "pt-br": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas"
+        },
+        "https://idp.rnp.br/idp/shibboleth": {
+            "en": "RNP - Rede Nacional de Ensino e Pesquisa",
+            "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
+        },
+        "https://idp.uel.br/idp/shibboleth": {
+            "en": "UEL - Universidade Estadual de Londrina",
+            "pt-br": "UEL - Universidade Estadual de Londrina"
+        },
+        "https://idp.uema.br/idp/shibboleth": {
+            "en": "UEMA - Universidade Estadual do Maranhao",
+            "pt-br": "UEMA - Universidade Estadual do Maranhao"
+        },
+        "https://idp.uenf.br/idp/shibboleth": {
+            "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
+            "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
+        },
+        "https://idp.ufac.br/idp/shibboleth": {
+            "en": "UFAC - Universidade Federal do Acre",
+            "pt-br": "UFAC - Universidade Federal do Acre"
+        },
+        "https://idp.ufcat.edu.br/idp/shibboleth": {
+            "en": "UFCAT - Universidade Federal de Catalao",
+            "pt-br": "UFCAT - Universidade Federal de Catalao"
+        },
+        "https://idp.ufgd.edu.br/idp/shibboleth": {
+            "en": "UFGD - Universidade Federal da Grande Dourados",
+            "pt-br": "UFGD - Universidade Federal da Grande Dourados"
+        },
+        "https://idp.ufjf.br/idp/shibboleth": {
+            "en": "UFJF - Universidade Federal de Juiz de Fora",
+            "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
+        },
+        "https://idp.ufr.edu.br/idp/shibboleth": {
+            "en": "UFR - Universidade Federal de Rondonopolis",
+            "pt-br": "UFR - Universidade Federal de Rondonopolis"
+        },
+        "https://idp.ufrb.edu.br/idp/shibboleth": {
+            "en": "UFRB - Universidade Federal do Reconcavo da Bahia",
+            "pt-br": "UFRB - Universidade Federal do Reconcavo da Bahia"
+        },
+        "https://idp.ufsj.edu.br/idp/shibboleth": {
+            "en": "UFSJ - Universidade Federal de Sao Joao del Rei",
+            "pt-br": "UFSJ - Universidade Federal de Sao Joao del Rei"
+        },
+        "https://idp.uftm.edu.br/idp/shibboleth": {
+            "en": "UFTM - Universidade Federal do Triangulo Mineiro",
+            "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
+        },
+        "https://idp.ufvjm.edu.br/idp/shibboleth": {
+            "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
+            "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
+        },
+        "https://idp.unifacef.edu.br/idp/shibboleth": {
+            "en": "UNI-FACEF - CENTRO UNIVERSITARIO MUNICIPAL DE FRANCA - UNI-FACEF - Centro Universitario Municipal de Franca",
+            "pt-br": "UNI-FACEF - CENTRO UNIVERSITARIO MUNICIPAL DE FRANCA - UNI-FACEF - Centro Universitario Municipal de Franca"
+        },
+        "https://idp.unifap.br/idp/shibboleth": {
+            "en": "UNIFAP - Universidade Federal do Amapa",
+            "pt-br": "UNIFAP - Universidade Federal do Amapa"
+        },
+        "https://idp.unifesp.br/idp/shibboleth": {
+            "en": "UNIFESP - Universidade Federal de Sao Paulo",
+            "pt-br": "UNIFESP - Universidade Federal de Sao Paulo"
+        },
+        "https://idp.unijorge.edu.br/idp/shibboleth": {
+            "en": "UNIJORGE - Centro Universitario Jorge Amado",
+            "pt-br": "UNIJORGE - Centro Universitario Jorge Amado"
+        },
+        "https://idp.unijui.edu.br/idp/shibboleth": {
+            "en": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
+            "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul"
+        },
+        "https://idp.unir.br/idp/shibboleth": {
+            "en": "UNIR - Fundacao Universidade Federal de Rondonia",
+            "pt-br": "UNIR - Fundacao Universidade Federal de Rondonia"
+        },
+        "https://idp.unirv.edu.br/idp/shibboleth": {
+            "en": "UNIRV - Universidade de Rio Verde",
+            "pt-br": "UNIRV - Universidade de Rio Verde"
+        },
+        "https://idp.unis.edu.br/idp/shibboleth": {
+            "en": "UNIS - Centro Universitario do Sul de Minas",
+            "pt-br": "UNIS - Centro Universitario do Sul de Minas"
+        },
+        "https://idp.unisanta.br/idp/shibboleth": {
+            "en": "UNISANTA - Instituto Superior de Educacao Santa Cecilia",
+            "pt-br": "UNISANTA - Instituto Superior de Educacao Santa Cecilia"
+        },
+        "https://idp.unitins.br/idp/shibboleth": {
+            "en": "UNITINS - Universidade Estadual do Tocantins",
+            "pt-br": "UNITINS - Universidade Estadual do Tocantins"
+        },
+        "https://idp.uscs.edu.br/idp/shibboleth": {
+            "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
+            "pt-br": "USCS - Universidade Municipal de Sao Caetano do Sul"
+        },
+        "https://idp01.linea.org.br/idp/shibboleth": {
+            "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
+            "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
+        },
+        "https://idp02.ifc.edu.br/idp/shibboleth": {
+            "en": "IFC - Instituto Federal Catarinense",
+            "pt-br": "IFC - Instituto Federal Catarinense"
+        },
+        "https://idp02.ufsm.br/idp/shibboleth": {
+            "en": "UFSM - Universidade Federal de Santa Maria",
+            "pt-br": "UFSM - Universidade Federal de Santa Maria"
+        },
+        "https://idp03-prd-jne.ufca.edu.br/idp/shibboleth": {
+            "en": "UFCA - Universidade Federal do Cariri",
+            "pt-br": "UFCA - Universidade Federal do Cariri"
+        },
+        "https://idp1.uepb.edu.br/idp/shibboleth": {
+            "en": "UEPB - Universidade Estadual da Paraiba",
+            "pt-br": "UEPB - Universidade Estadual da Paraiba"
+        },
+        "https://idp2.dmz.inpe.br/idp/shibboleth": {
+            "en": "INPE - Instituto Nacional de Pesquisas Espaciais",
+            "pt-br": "INPE - Instituto Nacional de Pesquisas Espaciais"
+        },
+        "https://idp2.ifmg.edu.br/idp/shibboleth": {
+            "en": "IFMG - Instituto Federal de Minas Gerais",
+            "pt-br": "IFMG - Instituto Federal de Minas Gerais"
+        },
+        "https://idp2.ufmt.br/idp/shibboleth": {
+            "en": "UFMT - Universidade Federal de Mato Grosso",
+            "pt-br": "UFMT - Universidade Federal de Mato Grosso"
+        },
+        "https://idp3.ifpe.edu.br/idp/shibboleth": {
+            "en": "IFPE - Instituto Federal de Pernambuco",
+            "pt-br": "IFPE - Instituto Federal de Pernambuco"
+        },
+        "https://idp4.uepg.br/idp/shibboleth": {
+            "en": "UEPG - Universidade Estadual de Ponta Grossa",
+            "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
+        },
+        "https://idp59.furb.br/idp/shibboleth": {
+            "en": "FURB - Fundacao Universidade Regional de Blumenau",
+            "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
+        },
+        "https://idpcafe.finep.gov.br/idp/shibboleth": {
+            "en": "FINEP - Financiadora de Estudos e Projetos",
+            "pt-br": "FINEP - Financiadora de Estudos e Projetos"
+        },
+        "https://idpcafe.ifsertao-pe.edu.br/idp/shibboleth": {
+            "en": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano",
+            "pt-br": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano"
+        },
+        "https://idpcafe.ifsudestemg.edu.br/idp/shibboleth": {
+            "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
+            "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
+        },
+        "https://idpcafe.uepa.br/idp/shibboleth": {
+            "en": "UEPA - Universidade do Estado do Para",
+            "pt-br": "UEPA - Universidade do Estado do Para"
+        },
+        "https://idpcafe.ufscar.br/idp/shibboleth": {
+            "en": "UFSCAR - Universidade Federal de Sao Carlos",
+            "pt-br": "UFSCAR - Universidade Federal de Sao Carlos"
+        },
+        "https://idpcafe.unifran.br/idp/shibboleth": {
+            "en": "UNIFRAN - Universidade de Franca",
+            "pt-br": "UNIFRAN - Universidade de Franca"
+        },
+        "https://idpcafe.uniube.br/idp/shibboleth": {
+            "en": "UNIUBE - Universidade de Uberaba",
+            "pt-br": "UNIUBE - Universidade de Uberaba"
+        },
+        "https://idpcafe.upe.br/idp/shibboleth": {
+            "en": "UPE - Universidade de Pernambuco",
+            "pt-br": "UPE - Universidade de Pernambuco"
+        },
+        "https://idpcafe.usp.br/idp/shibboleth": {
+            "en": "USP - Universidade de Sao Paulo",
+            "pt-br": "USP - Universidade de Sao Paulo"
+        },
+        "https://idpcafe2022.ipen.br/idp/shibboleth": {
+            "en": "IPEN - Instituto de Pesquisas Energeticas e Nucleares",
+            "pt-br": "IPEN - Instituto de Pesquisas Energeticas e Nucleares"
+        },
+        "https://idpfapepi.fapepi.pi.gov.br/idp/shibboleth": {
+            "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui",
+            "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui"
+        },
+        "https://idprnp.univates.br/idp/shibboleth": {
+            "en": "UNIVATES - Universidade UNIVATES",
+            "pt-br": "UNIVATES - Universidade UNIVATES"
+        },
+        "https://idpsaocamilosp.saocamilo-sp.br/idp/shibboleth": {
+            "en": "CUSC - Centro Universitario Sao Camilo",
+            "pt-br": "CUSC - Centro Universitario Sao Camilo"
+        },
+        "https://idpuemasul.uemasul.edu.br/idp/shibboleth": {
+            "en": "UEMASUL - Uni.Estadual Reg.Tocantina do Maranhao",
+            "pt-br": "UEMASUL - Uni.Estadual Reg.Tocantina do Maranhao"
+        },
+        "https://idpv-cafe.secti.ba.gov.br/idp/shibboleth": {
+            "en": "SECTI/BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia",
+            "pt-br": "SECTI/BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia"
+        },
+        "https://idpv3-hsr.hsr.com.br/idp/shibboleth": {
+            "en": "HSR - Hospital Sao Rafael",
+            "pt-br": "HSR - Hospital Sao Rafael"
+        },
+        "https://idpv3.lna.br/idp/shibboleth": {
+            "en": "LNA - Laboratorio Nacional de Astrofisica",
+            "pt-br": "LNA - Laboratorio Nacional de Astrofisica"
+        },
+        "https://ifs00sv056.ifsul.edu.br/idp/shibboleth": {
+            "en": "IFSUL - Instituto Federal Sul-rio-grandense",
+            "pt-br": "IFSUL - Instituto Federal Sul-rio-grandense"
+        },
+        "https://infra031.umc.br/idp/shibboleth": {
+            "en": "UMC - Universidade de Mogi das Cruzes",
+            "pt-br": "UMC - Universidade de Mogi das Cruzes"
+        },
+        "https://ipameri.cti.gov.br/idp/shibboleth": {
+            "en": "CTI - Centro de Tecnologia da Informacao Renato Archer",
+            "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
+        },
+        "https://isd-rnp.isd.org.br/idp/shibboleth": {
+            "en": "ISD - Instituto Santos Dumont",
+            "pt-br": "ISD - Instituto Santos Dumont"
+        },
+        "https://itacare.bahiana.edu.br/idp/shibboleth": {
+            "en": "EBMSP - Escola Bahiana de Medicina e Saude Publica",
+            "pt-br": "EBMSP - Escola Bahiana de Medicina e Saude Publica"
+        },
+        "https://itapicuru.uneb.br/idp/shibboleth": {
+            "en": "UNEB - Universidade do Estado da Bahia",
+            "pt-br": "UNEB - Universidade do Estado da Bahia"
+        },
+        "https://josue.uenp.edu.br/idp/shibboleth": {
+            "en": "UENP - Universidade Estadual do Norte do Parana",
+            "pt-br": "UENP - Universidade Estadual do Norte do Parana"
+        },
+        "https://login-cafe.ifrr.edu.br/idp/shibboleth": {
+            "en": "IFRR - Instituto Federal de Roraima",
+            "pt-br": "IFRR - Instituto Federal de Roraima"
+        },
+        "https://login.ufrgs.br/idp/shibboleth": {
+            "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
+            "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
+        },
+        "https://netsr-cafe03.unioeste.br/idp/shibboleth": {
+            "en": "UNIOESTE - Universidade Estadual do Oeste do Parana",
+            "pt-br": "UNIOESTE - Universidade Estadual do Oeste do Parana"
+        },
+        "https://onca.museu-goeldi.br/idp/shibboleth": {
+            "en": "MPEG - Museu Paraense Emilio Goeldi",
+            "pt-br": "MPEG - Museu Paraense Emilio Goeldi"
+        },
+        "https://palheiro.univasf.edu.br/idp/shibboleth": {
+            "en": "UNIVASF - Universidade Federal do Vale do Sao Francisco",
+            "pt-br": "UNIVASF - Universidade Federal do Vale do Sao Francisco"
+        },
+        "https://pandora.unifei.edu.br/idp/shibboleth": {
+            "en": "UNIFEI - Universidade Federal de Itajuba",
+            "pt-br": "UNIFEI - Universidade Federal de Itajuba"
+        },
+        "https://pct-guama-idp-cafe.fundacaoguama.org.br/idp/shibboleth": {
+            "en": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
+            "pt-br": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
+        },
+        "https://planck.cdtn.br/idp/shibboleth": {
+            "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
+            "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
+        },
+        "https://plv037.mcom.gov.br/idp/shibboleth": {
+            "en": "MCOM - Ministerio das Comunicacoes",
+            "pt-br": "MCOM - Ministerio das Comunicacoes"
+        },
+        "https://poa01idp02.pucrs.br/idp/shibboleth": {
+            "en": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul",
+            "pt-br": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul"
+        },
+        "https://prdidm01.mec.gov.br/idp/shibboleth": {
+            "en": "MEC - Ministerio da Educacao",
+            "pt-br": "MEC - Ministerio da Educacao"
+        },
+        "https://pro-vm-lcafe-01.fnde.gov.br/idp/shibboleth": {
+            "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
+            "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"
+        },
+        "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
+            "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
+            "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
+        },
+        "https://redecafe.enap.gov.br/idp/shibboleth": {
+            "en": "ENAP - Escola Nacional de Administracao Publica",
+            "pt-br": "ENAP - Escola Nacional de Administracao Publica"
+        },
+        "https://redecafe.gigacandanga.net.br/idp/shibboleth": {
+            "en": "GIGA - Associacao GigaCandanga",
+            "pt-br": "GIGA - Associacao GigaCandanga"
+        },
+        "https://rnp2.unip.br/idp/shibboleth": {
+            "en": "UNIP - Universidade Paulista",
+            "pt-br": "UNIP - Universidade Paulista"
+        },
+        "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
+            "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
+            "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
+        },
+        "https://servercafe.iftm.edu.br/idp/shibboleth": {
+            "en": "IFTM - Instituto Federal do Triangulo Mineiro",
+            "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
+        },
+        "https://shib.unila.edu.br/idp/shibboleth": {
+            "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
+            "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
+        },
+        "https://shibboleth-s1.ufersa.edu.br/idp/shibboleth": {
+            "en": "UFERSA - Universidade Federal Rural Do Semi-Arido",
+            "pt-br": "UFERSA - Universidade Federal Rural Do Semi-Arido"
+        },
+        "https://shibboleth.ansp.br/idp/shibboleth": {
+            "en": "ANSP - an Academic Network at Sao Paulo",
+            "pt-br": "ANSP - an Academic Network at Sao Paulo"
+        },
+        "https://shibboleth.cetem.gov.br/idp/shibboleth": {
+            "en": "CETEM - Centro de Tecnologia Mineral",
+            "pt-br": "CETEM - Centro de Tecnologia Mineral"
+        },
+        "https://shibboleth.embrapii.org.br/idp/shibboleth": {
+            "en": "EMBRAPII - Empresa Brasileira de Pesquisa e Inovacao Industrial",
+            "pt-br": "EMBRAPII - Empresa Brasileira de Pesquisa e Inovacao Industrial"
+        },
+        "https://shibboleth.faculdadesantacasabh.org.br/idp/shibboleth": {
+            "en": "FSCBH - Faculdade Santa Casa BH",
+            "pt-br": "FSCBH - Faculdade Santa Casa BH"
+        },
+        "https://shibboleth.ifal.edu.br/idp/shibboleth": {
+            "en": "IFAL - Instituto Federal de Alagoas",
+            "pt-br": "IFAL - Instituto Federal de Alagoas"
+        },
+        "https://shibboleth.ifam.edu.br/idp/shibboleth": {
+            "en": "IFAM - Instituto Federal do Amazonas",
+            "pt-br": "IFAM - Instituto Federal do Amazonas"
+        },
+        "https://shibboleth.ifbaiano.edu.br/idp/shibboleth": {
+            "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
+            "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
+        },
+        "https://shibboleth.iffarroupilha.edu.br/idp/shibboleth": {
+            "en": "IFFAR - Instituto Federal Farroupilha",
+            "pt-br": "IFFAR - Instituto Federal Farroupilha"
+        },
+        "https://shibboleth.ifrn.edu.br/idp/shibboleth": {
+            "en": "IFRN - Instituto Federal do Rio Grande do Norte",
+            "pt-br": "IFRN - Instituto Federal do Rio Grande do Norte"
+        },
+        "https://shibboleth.ifsc.edu.br/idp/shibboleth": {
+            "en": "IFSC - Instituto Federal de Santa Catarina",
+            "pt-br": "IFSC - Instituto Federal de Santa Catarina"
+        },
+        "https://shibboleth.ifto.edu.br/idp/shibboleth": {
+            "en": "IFTO - Instituto Federal de Educacao do Tocantins",
+            "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
+        },
+        "https://shibboleth.impa.br/idp/shibboleth": {
+            "en": "IMPA - Instituto Nacional de Matematica Pura e Aplicada",
+            "pt-br": "IMPA - Instituto Nacional de Matematica Pura e Aplicada"
+        },
+        "https://shibboleth.inca.gov.br/idp/shibboleth": {
+            "en": "INCA - Instituto Nacional de Cancer",
+            "pt-br": "INCA - Instituto Nacional de Cancer"
+        },
+        "https://shibboleth.insa.gov.br/idp/shibboleth": {
+            "en": "INSA - Instituto Nacional do Semiarido",
+            "pt-br": "INSA - Instituto Nacional do Semiarido"
+        },
+        "https://shibboleth.on.br/idp/shibboleth": {
+            "en": "ON - Observatorio Nacional",
+            "pt-br": "ON - Observatorio Nacional"
+        },
+        "https://shibboleth.ufg.br/idp/shibboleth": {
+            "en": "UFG - Universidade Federal de Goias",
+            "pt-br": "UFG - Universidade Federal de Goias"
+        },
+        "https://shibboleth.ufj.edu.br/idp/shibboleth": {
+            "en": "UFJ - Universidade Federal de Jatai",
+            "pt-br": "UFJ - Universidade Federal de Jatai"
+        },
+        "https://shibboleth.ufla.br/idp/shibboleth": {
+            "en": "UFLA - Universidade Federal de Lavras",
+            "pt-br": "UFLA - Universidade Federal de Lavras"
+        },
+        "https://shibboleth.ufma.br/idp/shibboleth": {
+            "en": "UFMA - Universidade Federal do Maranhao",
+            "pt-br": "UFMA - Universidade Federal do Maranhao"
+        },
+        "https://shibboleth.ufopa.edu.br/idp/shibboleth": {
+            "en": "UFOPA - Universidade Federal do Oeste do Para",
+            "pt-br": "UFOPA - Universidade Federal do Oeste do Para"
+        },
+        "https://shibboleth.ufrj.br/idp/shibboleth": {
+            "en": "UFRJ - Universidade Federal do Rio de Janeiro",
+            "pt-br": "UFRJ - Universidade Federal do Rio de Janeiro"
+        },
+        "https://shibboleth.unb.br/idp/shibboleth": {
+            "en": "UNB - Universidade de Brasilia",
+            "pt-br": "UNB - Universidade de Brasilia"
+        },
+        "https://shibboleth.unespar.edu.br/idp/shibboleth": {
+            "en": "UNESPAR - Universidade Estadual do Parana",
+            "pt-br": "UNESPAR - Universidade Estadual do Parana"
+        },
+        "https://shibboleth.unifacs.br/idp/shibboleth": {
+            "en": "UNIFACS - Universidade Salvador",
+            "pt-br": "UNIFACS - Universidade Salvador"
+        },
+        "https://shibboleth.unifor.br/idp/shibboleth": {
+            "en": "UNIFOR - Universidade de Fortaleza",
+            "pt-br": "UNIFOR - Universidade de Fortaleza"
+        },
+        "https://shibboleth.uninta.edu.br/idp/shibboleth": {
+            "en": "UNINTA - Centro Universitario INTA",
+            "pt-br": "UNINTA - Centro Universitario INTA"
+        },
+        "https://shibboleth.uniritter.edu.br/idp/shibboleth": {
+            "en": "UNIRITTER - Sociedade de Educacao Ritter dos Reis LTDA",
+            "pt-br": "UNIRITTER - Sociedade de Educacao Ritter dos Reis LTDA"
+        },
+        "https://shibboleth.unisul.br/idp/shibboleth": {
+            "en": "UNISUL - Universidade do Sul de Santa Catarina",
+            "pt-br": "UNISUL - Universidade do Sul de Santa Catarina"
+        },
+        "https://shibboleth.univale.br/idp/shibboleth": {
+            "en": "UNIVALE - Universidade Vale do Rio Doce",
+            "pt-br": "UNIVALE - Universidade Vale do Rio Doce"
+        },
+        "https://shibboleth.univap.br/idp/shibboleth": {
+            "en": "UNIVAP - Universidade do Vale do Paraiba",
+            "pt-br": "UNIVAP - Universidade do Vale do Paraiba"
+        },
+        "https://shibboleth.unp.br/idp/shibboleth": {
+            "en": "UNP - Universidade Potiguar",
+            "pt-br": "UNP - Universidade Potiguar"
+        },
+        "https://shibboleth02.uergs.edu.br/idp/shibboleth": {
+            "en": "UERGS - Universidade Estadual do Rio Grande do Sul",
+            "pt-br": "UERGS - Universidade Estadual do Rio Grande do Sul"
+        },
+        "https://shibboleth1.feevale.br/idp/shibboleth": {
+            "en": "FEEVALE - Universidade Feevale",
+            "pt-br": "FEEVALE - Universidade Feevale"
+        },
+        "https://shibboleth1.uesc.br/idp/shibboleth": {
+            "en": "UESC - Universidade Estadual de Santa Cruz",
+            "pt-br": "UESC - Universidade Estadual de Santa Cruz"
+        },
+        "https://shibboleth1p.sipam.gov.br/idp/shibboleth": {
+            "en": "CENSIPAM - Sistema de Protecao da Amazonia",
+            "pt-br": "CENSIPAM - Sistema de Protecao da Amazonia"
+        },
+        "https://shibboleth2.ifmt.edu.br/idp/shibboleth": {
+            "en": "IFMT - Instituto Federal de Mato Grosso",
+            "pt-br": "IFMT - Instituto Federal de Mato Grosso"
+        },
+        "https://shibboleth4.cnpem.br/idp/shibboleth": {
+            "en": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais",
+            "pt-br": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais"
+        },
+        "https://shibboleth4.ueg.br/idp/shibboleth": {
+            "en": "UEG - Universidade Estadual de Goias",
+            "pt-br": "UEG - Universidade Estadual de Goias"
+        },
+        "https://shibboleth4.uem.br/idp/shibboleth": {
+            "en": "UEM - Universidade Estadual de Maringa",
+            "pt-br": "UEM - Universidade Estadual de Maringa"
+        },
+        "https://shibboleth4.ufms.br/idp/shibboleth": {
+            "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
+            "pt-br": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul"
+        },
+        "https://shibboleth4.utfpr.edu.br/idp/shibboleth": {
+            "en": "UTFPR - Universidade Tecnologica Federal do Parana",
+            "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
+        },
+        "https://shibboleth5.ufrn.edu.br/idp/shibboleth": {
+            "en": "UFRN - Universidade Federal do Rio Grande do Norte",
+            "pt-br": "UFRN - Universidade Federal do Rio Grande do Norte"
+        },
+        "https://shibbolethidp.ifpr.edu.br/idp/shibboleth": {
+            "en": "IFPR - Instituto Federal do Parana",
+            "pt-br": "IFPR - Instituto Federal do Parana"
+        },
+        "https://shibv4.unilab.edu.br/idp/shibboleth": {
+            "en": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira",
+            "pt-br": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira"
+        },
+        "https://siaiap61.univali.br/idp/shibboleth": {
+            "en": "UNIVALI - Universidade do Vale do Itajai",
+            "pt-br": "UNIVALI - Universidade do Vale do Itajai"
+        },
+        "https://slm00-shibboleth.slmandic.edu.br/idp/shibboleth": {
+            "en": "SLM - Sao Leopoldo Mandic",
+            "pt-br": "SLM - Sao Leopoldo Mandic"
+        },
+        "https://srv-ems-cafe.emescam.br/idp/shibboleth": {
+            "en": "EMESCAM - Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria",
+            "pt-br": "EMESCAM - Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria"
+        },
+        "https://srv-idp-shib421.uefs.br/idp/shibboleth": {
+            "en": "UEFS - Universidade Estadual de Feira de Santana",
+            "pt-br": "UEFS - Universidade Estadual de Feira de Santana"
+        },
+        "https://srv-idp.fepecs.edu.br/idp/shibboleth": {
+            "en": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude",
+            "pt-br": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude"
+        },
+        "https://srvcafe.cgee.org.br/idp/shibboleth": {
+            "en": "CGEE - Centro de Gestao e Estudos Estrategicos",
+            "pt-br": "CGEE - Centro de Gestao e Estudos Estrategicos"
+        },
+        "https://srvcafe.uniso.br/idp/shibboleth": {
+            "en": "UNISO - Universidade de Sorocaba",
+            "pt-br": "UNISO - Universidade de Sorocaba"
+        },
+        "https://srvpidpcafe.veigadealmeida.edu.br/idp/shibboleth": {
+            "en": "UVA - Universidade Veiga de Almeida",
+            "pt-br": "UVA - Universidade Veiga de Almeida"
+        },
+        "https://sso.uft.edu.br/idp/shibboleth": {
+            "en": "UFT - Universidade Federal do Tocantins",
+            "pt-br": "UFT - Universidade Federal do Tocantins"
+        },
+        "https://st1-rnp-01.fundacaowilsonpicler.org.br/idp/shibboleth": {
+            "en": "FWP - Fundacao Wilson Picler",
+            "pt-br": "FWP - Fundacao Wilson Picler"
+        },
+        "https://svlapshibboleth.aeb.gov.br/idp/shibboleth": {
+            "en": "AEB - Agencia Espacial Brasileira",
+            "pt-br": "AEB - Agencia Espacial Brasileira"
+        },
+        "https://svr-apl57.unilasalle.edu.br/idp/shibboleth": {
+            "en": "UNILASALLE - Universidade La Salle",
+            "pt-br": "UNILASALLE - Universidade La Salle"
+        },
+        "https://uricafe.uricer.edu.br/idp/shibboleth": {
+            "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
+            "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
+        },
+        "https://uter.ufob.edu.br/idp/shibboleth": {
+            "en": "UFOB - Universidade Federal do Oeste da Bahia",
+            "pt-br": "UFOB - Universidade Federal do Oeste da Bahia"
+        },
+        "https://vmshib64.ufrpe.br/idp/shibboleth": {
+            "en": "UFRPE - Universidade Federal Rural de Pernambuco",
+            "pt-br": "UFRPE - Universidade Federal Rural de Pernambuco"
+        }
+    },
     "by": {
         "https://febas.basnet.by/idp/shibboleth": {
             "en": "UIIP NASB / BASNET"
