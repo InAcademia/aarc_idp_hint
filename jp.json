@@ -15,6 +15,9 @@
         "en": "Akita University",
         "ja": "秋田大学"
     },
+    "https://auth.jaist.ac.jp/sso-s/shibboleth": {
+        "en": "https://auth.jaist.ac.jp/sso-s/shibboleth"
+    },
     "https://authidp1.iimc.kyoto-u.ac.jp/idp/shibboleth": {
         "en": "Kyoto University",
         "ja": "京都大学"

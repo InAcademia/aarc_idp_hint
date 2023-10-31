@@ -6187,10 +6187,6 @@
             "de": "Hochschule für Gesundheit",
             "en": "Hochschule für Gesundheit"
         },
-        "https://idp.hs-hannover.de/idp/shibboleth": {
-            "de": "Hochschule Hannover",
-            "en": "Hochschule Hannover"
-        },
         "https://idp.hs-harz.de/shibboleth": {
             "de": "Hochschule Harz",
             "en": "Hochschule Harz"
@@ -7495,6 +7491,14 @@
         "https://wayfeadania.itcn.dk/simplesaml/saml2/idp/metadata.php": {
             "da": "Erhvervsakademi Dania",
             "en": "Dania Academy"
+        }
+    },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
         }
     },
     "ec": {
@@ -11993,6 +11997,9 @@
             "en": "Akita University",
             "ja": "秋田大学"
         },
+        "https://auth.jaist.ac.jp/sso-s/shibboleth": {
+            "en": "https://auth.jaist.ac.jp/sso-s/shibboleth"
+        },
         "https://authidp1.iimc.kyoto-u.ac.jp/idp/shibboleth": {
             "en": "Kyoto University",
             "ja": "京都大学"
@@ -15332,6 +15339,9 @@
         },
         "https://sp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "SP - Singapore Polytechnic"
+        },
+        "https://suss.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+            "en": "SUSS - Singapore University of Social Sciences"
         },
         "https://sutd.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "SUTD - Singapore University of Technology and Design"
