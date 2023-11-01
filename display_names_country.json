@@ -13284,26 +13284,6 @@
             "zh": "中国科技云通行证(CSTCloud ID)"
         }
     },
-    "ng": {
-        "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
-            "en": "Eko-Konnect Research and Education Initiative"
-        },
-        "https://fugusau.eduid.ng/saml2/idp/metadata.php": {
-            "en": "Federal University Gusau"
-        },
-        "https://udusok.eduid.ng/saml2/idp/metadata.php": {
-            "en": "Usmanu Danfodiyo University"
-        },
-        "https://uniabuja.eduid.ng/saml2/idp/metadata.php": {
-            "en": "University of Abuja"
-        },
-        "https://unijos.eduid.ng/saml2/idp/metadata.php": {
-            "en": "University of Jos"
-        },
-        "https://unilag.eduid.ng/saml2/idp/metadata.php": {
-            "en": "University of Lagos"
-        }
-    },
     "nl": {
         "http://adfs-differ.differ.nl/adfs/services/trust": {
             "en": "DIFFER",
