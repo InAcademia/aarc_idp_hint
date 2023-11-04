@@ -231,6 +231,10 @@
         "en": "University of Veterinary Medicine Budapest",
         "hu": "Állatorvostudományi Egyetem"
     },
+    "https://idp.vmri.hu/simplesaml/module.php/saml/idp/metadata": {
+        "en": "Veterinary Medical Research Institute",
+        "hu": "Állatorvostudományi Kutatóintézet"
+    },
     "https://idp2.duf.hu/idp/shibboleth": {
         "en": "University of Dunaújváros",
         "hu": "Dunaújvárosi Egyetem"
