@@ -322,6 +322,10 @@
         "en": "Professional College of Arts and Tourism",
         "ja": "芸術文化観光専門職大学"
     },
+    "https://sso.reitaku-u.ac.jp/idp/shibboleth": {
+        "en": "Reitaku University",
+        "ja": "麗澤大学"
+    },
     "https://sso.sugiyama-u.ac.jp/idp/shibboleth": {
         "en": "Sugiyama Jogakuen University",
         "ja": "椙山女学園大学"

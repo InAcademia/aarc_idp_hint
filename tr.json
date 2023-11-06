@@ -107,10 +107,6 @@
         "en": "Izmir University of Economics",
         "tr": "İzmir Ekonomi Üniversitesi"
     },
-    "https://idp.izu.edu.tr/idp/shibboleth": {
-        "en": "Istanbul Sabahattin Zaim University",
-        "tr": "İstanbul Sabahattin Zaim Üniversitesi"
-    },
     "https://idp.kimlik.erzurum.edu.tr/yetkim/metadata.xml": {
         "en": "Erzurum Technical University",
         "tr": "Erzurum Teknik Üniversitesi"
@@ -630,10 +626,6 @@
     "https://yetkim.okan.edu.tr/idp/shibboleth": {
         "en": "Istanbul Okan University",
         "tr": "İstanbul Okan Üniversitesi"
-    },
-    "https://yetkim.ostimteknik.edu.tr/idp/shibboleth": {
-        "en": "OSTIM Technical University",
-        "tr": "OSTİM Teknik Üniversitesi"
     },
     "https://yetkim.ozyegin.edu.tr/idp/shibboleth": {
         "en": "Ozyegin University",
