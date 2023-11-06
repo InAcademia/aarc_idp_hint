@@ -15,10 +15,6 @@
         "en": "Atasehir Adiguzel Vocational School",
         "tr": "Ataşehir Adıgüzel Meslek Yüksekokulu"
     },
-    "https://idp.adiyaman.edu.tr/idp/shibboleth": {
-        "en": "Adiyaman University",
-        "tr": "Adıyaman Üniversitesi"
-    },
     "https://idp.agri.edu.tr/idp/shibboleth": {
         "en": "Agri Ibrahim Cecen University",
         "tr": "Ağrı İbrahim Çeçen Üniversitesi"
@@ -34,10 +30,6 @@
     "https://idp.arel.edu.tr/idp/shibboleth": {
         "en": "Istanbul Arel University",
         "tr": "İstanbul Arel Üniversitesi"
-    },
-    "https://idp.atu.edu.tr/idp/shibboleth": {
-        "en": "Adana Alparslan Türkeş Science and Technology University",
-        "tr": "Adana Alparslan Türkeş Bilim veTeknoloji Üniversitesi"
     },
     "https://idp.baskent.edu.tr/idp/shibboleth": {
         "en": "Baskent University",
