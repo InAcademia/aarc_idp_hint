@@ -9106,10 +9106,6 @@
             "en": "ENIB - Ecole Nationale d'Ingénieurs de Brest",
             "fr": "ENIB - Ecole Nationale d'Ingénieurs de Brest"
         },
-        "https://idp.enit.fr/idp/shibboleth": {
-            "en": "ENIT Ancien",
-            "fr": "ENIT Ancien"
-        },
         "https://idp.enitab.fr/idp/shibboleth": {
             "en": "Bordeaux Sciences Agro",
             "fr": "Bordeaux Sciences Agro"
@@ -9541,10 +9537,6 @@
         "https://idp3.mnhn.fr/idp/shibboleth": {
             "en": "Muséum National d'Histoire Naturelle (MNHN)",
             "fr": "Muséum National d'Histoire Naturelle (MNHN)"
-        },
-        "https://idp3.unicaen.fr/idp/shibboleth": {
-            "en": "University of Caen Normandie",
-            "fr": "Université de Caen Normandie"
         },
         "https://idp3.univ-avignon.fr/idp/shibboleth": {
             "en": "Université d'Avignon",
