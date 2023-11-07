@@ -340,8 +340,8 @@
         "nl": "Netherlands eScience Center"
     },
     "https://saml.uvt.nl/saml2/idp/metadata.php": {
-        "en": "Tilburg University",
-        "nl": "Universiteit van Tilburg"
+        "en": "Tilburg University (Old)",
+        "nl": "Universiteit van Tilburg (Oud)"
     },
     "https://secure.ahk.nl/nidp/saml2/metadata": {
         "en": "Amsterdam University of the Arts",
@@ -496,8 +496,8 @@
         "nl": "Alfa-college"
     },
     "https://sts.windows.net/7a5561df-6599-4898-8a20-cce41db3b44f/": {
-        "en": "Tilburg University (MS Azure AD)",
-        "nl": "Universiteit van Tilburg (MS Azure AD)"
+        "en": "Tilburg University",
+        "nl": "Universiteit van Tilburg"
     },
     "https://sts.windows.net/8171367b-3418-48da-a7bb-9dc1d300c5e8/": {
         "en": "SaNS Expertisecentrum",
