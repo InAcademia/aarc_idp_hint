@@ -2587,6 +2587,10 @@
             "en": "Southwest Petroleum University",
             "zh": "西南石油大学(Southwest Petroleum University)"
         },
+        "https://idp-lib.tjtc.edu.cn/idp/shibboleth": {
+            "en": "Tianjin Vocational Institute",
+            "zh": "天津职业大学(Tianjin Vocational Institute)"
+        },
         "https://idp-lib.uestc.edu.cn/idp/shibboleth": {
             "en": "University of Electronic Science and Technology of China",
             "zh": "电子科技大学(University of Electronic Science and Technology of China)"
@@ -4694,6 +4698,10 @@
         "https://idp.zucc.edu.cn/idp/shibboleth": {
             "en": "zhejiang university city college",
             "zh": "浙大城市学院(zhejiang university city college)"
+        },
+        "https://idp.zueb.edu.cn/idp/shibboleth": {
+            "en": "Zhengzhou University of Economics and Business",
+            "zh": "郑州经贸学院(Zhengzhou University of Economics and Business)"
         },
         "https://idp.zuel.edu.cn/idp/shibboleth": {
             "en": "Zhongnan University of Economics and Law",
