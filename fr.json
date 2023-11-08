@@ -872,8 +872,8 @@
         "fr": "CROUS Lorraine v4"
     },
     "https://idp4.unicaen.fr/idp/shibboleth": {
-        "en": "University of Caen Normandie  V4",
-        "fr": "Université de Caen Normandie V4"
+        "en": "University of Caen Normandie",
+        "fr": "Université de Caen Normandie"
     },
     "https://idpprod.ciep.fr/idp/shibboleth": {
         "en": "CIEP / France Education International",
