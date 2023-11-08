@@ -15602,6 +15602,10 @@
             "en": "Istanbul Arel University",
             "tr": "İstanbul Arel Üniversitesi"
         },
+        "https://idp.atu.edu.tr/idp/shibboleth": {
+            "en": "Adana Alparslan Türkeş Science and Technology University",
+            "tr": "Adana Alparslan Türkeş Bilim veTeknoloji Üniversitesi"
+        },
         "https://idp.baskent.edu.tr/idp/shibboleth": {
             "en": "Baskent University",
             "tr": "Başkent Üniversitesi"
