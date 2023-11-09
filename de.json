@@ -967,6 +967,10 @@
         "de": "Hochschule Augsburg",
         "en": "University of Applied Sciences Augsburg"
     },
+    "https://idp2.hs-furtwangen.de/idp/shibboleth": {
+        "de": "Hochschule Furtwangen",
+        "en": "Furtwangen University"
+    },
     "https://idp2.hswt.de/idp/shibboleth": {
         "de": "Hochschule Weihenstephan-Triesdorf.(IDP)",
         "en": "Weihenstephan-Triesdorf university of applied sciences. (IDP)"
