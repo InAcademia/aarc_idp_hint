@@ -2063,6 +2063,10 @@
         "en": "Xi'an Medical University",
         "zh": "西安医学院(Xi'an Medical University)"
     },
+    "https://idp.xjmu.edu.cn/idp/shibboleth": {
+        "en": "Xinjiang Medical University",
+        "zh": "新疆医科大学(Xinjiang Medical University)"
+    },
     "https://idp.xjnu.edu.cn/idp/shibboleth": {
         "en": "Xinjiang Normal University",
         "zh": "新疆师范大学(Xinjiang Normal University)"
