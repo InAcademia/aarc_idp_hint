@@ -1518,9 +1518,5 @@
     "https://zividp.uni-muenster.de/idp/shibboleth": {
         "de": "Universität Münster",
         "en": "Universität Münster"
-    },
-    "https://zoom-sso.conf.dfn.de/idp/shibboleth": {
-        "de": "DFnconf Zoom SSO",
-        "en": "DFnconf Zoom SSO"
     }
 }
