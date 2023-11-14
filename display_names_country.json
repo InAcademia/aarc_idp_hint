@@ -2194,7 +2194,7 @@
         },
         "https://aai-login.ph-gr.ch/idp/shibboleth": {
             "de": "PHGR - Pädagogische Hochschule Graubünden",
-            "en": "PHGR - University of Teacher Education Graubünden"
+            "en": "PHGR – University of Teacher Education of the Grisons"
         },
         "https://aai-login.phbern.ch/idp/shibboleth": {
             "de": "PHBern - Pädagogische Hochschule Bern",
@@ -4179,6 +4179,10 @@
         "https://idp.szai.edu.cn/idp/shibboleth": {
             "en": "Suzhou Polytechnic Institute of Agriculture",
             "zh": "苏州农业职业技术学院(Suzhou Polytechnic Institute of Agriculture)"
+        },
+        "https://idp.szcu.edu.cn/idp/shibboleth": {
+            "en": "Suzhou City University",
+            "zh": "苏州城市学院(Suzhou City University)"
         },
         "https://idp.szhct.edu.cn/idp/shibboleth": {
             "en": "Suzhou Vocational Health College",
