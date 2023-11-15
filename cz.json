@@ -740,8 +740,8 @@
         "en": "Municipal Library in Varnsdorf"
     },
     "https://mojeid.cz/saml/idp.xml": {
-        "cs": "mojeID",
-        "en": "mojeID"
+        "cs": "MojeID",
+        "en": "MojeID"
     },
     "https://muzeumcaslav.cz/idp/shibboleth": {
         "cs": "Městské muzeum a knihovna Čáslav",

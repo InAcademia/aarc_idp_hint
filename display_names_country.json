@@ -5611,8 +5611,8 @@
             "en": "Municipal Library in Varnsdorf"
         },
         "https://mojeid.cz/saml/idp.xml": {
-            "cs": "mojeID",
-            "en": "mojeID"
+            "cs": "MojeID",
+            "en": "MojeID"
         },
         "https://muzeumcaslav.cz/idp/shibboleth": {
             "cs": "Městské muzeum a knihovna Čáslav",
@@ -8502,6 +8502,10 @@
         "https://www.rediris.es/sir/vhiridp": {
             "ca": "Vall d'Hebron Research Institute",
             "en": "Vall d'Hebron Research Institute"
+        },
+        "https://www.rediris.es/sir/villanuevaidp": {
+            "en": "Universidad de Villanueva",
+            "es": "Universidad de Villanueva"
         },
         "https://www.rediris.es/sir/zlcidp": {
             "en": "Zaragoza Logistics Center",
@@ -15007,8 +15011,8 @@
             "sr": "RCUB"
         },
         "https://idp.bg.ac.rs/idp/shibboleth": {
-            "en": "University of Belgrade",
-            "sr": "Univerzitet u Beogradu"
+            "en": "University of Belgrade for Erasmus",
+            "sr": "Univerzitet u Beogradu za Erazmus"
         },
         "https://iguest.amres.ac.rs/idp/shibboleth": {
             "en": "AMRES Guest",

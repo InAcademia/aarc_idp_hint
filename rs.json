@@ -12,8 +12,8 @@
         "sr": "RCUB"
     },
     "https://idp.bg.ac.rs/idp/shibboleth": {
-        "en": "University of Belgrade",
-        "sr": "Univerzitet u Beogradu"
+        "en": "University of Belgrade for Erasmus",
+        "sr": "Univerzitet u Beogradu za Erazmus"
     },
     "https://iguest.amres.ac.rs/idp/shibboleth": {
         "en": "AMRES Guest",
