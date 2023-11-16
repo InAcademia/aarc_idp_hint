@@ -254,6 +254,9 @@
     "https://sso.kkselayang.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Selayang"
     },
+    "https://sso.kksibu.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Sibu"
+    },
     "https://sso.kksik.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Sik"
     },
