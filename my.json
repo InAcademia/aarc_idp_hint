@@ -131,6 +131,9 @@
     "https://sso.kkkjeli.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Jeli"
     },
+    "https://sso.kkkla.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Kuala Langat"
+    },
     "https://sso.kkklang.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Klang"
     },
@@ -250,9 +253,6 @@
     },
     "https://sso.kkselayang.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Selayang"
-    },
-    "https://sso.kksibu.edu.my/idp/shibboleth": {
-        "en": "Kolej Komuniti Sibu"
     },
     "https://sso.kksik.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Sik"

@@ -4357,8 +4357,8 @@
             "zh": "武汉商学院(Wuhan Business University)"
         },
         "https://idp.westlake.edu.cn/idp/shibboleth": {
-            "en": "Westlake Universtiy",
-            "zh": "西湖大学(Westlake Universtiy)"
+            "en": "Westlake University",
+            "zh": "西湖大学(Westlake University)"
         },
         "https://idp.wfmc.edu.cn/idp/shibboleth": {
             "en": "Weifang Medical University",
@@ -12969,6 +12969,9 @@
         "https://sso.kkkjeli.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Jeli"
         },
+        "https://sso.kkkla.edu.my/idp/shibboleth": {
+            "en": "Kolej Komuniti Kuala Langat"
+        },
         "https://sso.kkklang.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Klang"
         },
@@ -13088,9 +13091,6 @@
         },
         "https://sso.kkselayang.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Selayang"
-        },
-        "https://sso.kksibu.edu.my/idp/shibboleth": {
-            "en": "Kolej Komuniti Sibu"
         },
         "https://sso.kksik.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Sik"
