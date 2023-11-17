@@ -10691,9 +10691,6 @@
             "en": "University College Cork",
             "ga": "Coláiste na hOllscoile Corcaigh"
         },
-        "https://idp.ait.ie/idp/shibboleth": {
-            "en": "TUS Midlands (@ait.ie logins)"
-        },
         "https://idp.atu.ie/idp/shibboleth": {
             "en": "Atlantic Technological University",
             "ga": "Ollscoil Teicneolaíochta an Atlantaigh"
@@ -10751,9 +10748,6 @@
         "https://idp.ittralee.ie/idp": {
             "en": "MTU, Kerry Campus",
             "ga": "Ollscoil Teicneolaíochta na Mumhan"
-        },
-        "https://idp.lit.ie/saml2": {
-            "en": "TUS Midwest (@lit.ie logins)"
         },
         "https://idp.lyit.ie/idp/shibboleth": {
             "en": "Letterkenny Institute of Technology",
