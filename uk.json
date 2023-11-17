@@ -1082,6 +1082,9 @@
     "https://idp.ucb.ac.uk/shibboleth": {
         "en": "University College Birmingham"
     },
+    "https://idp.ucg.ac.uk/idp/shibboleth": {
+        "en": "United Colleges Group"
+    },
     "https://idp.ucreative.ac.uk/shibboleth": {
         "en": "University for the Creative Arts"
     },
