@@ -13227,6 +13227,9 @@
         "https://sso.psis.edu.my/idp/shibboleth": {
             "en": "Politeknik Sultan Idris Shah"
         },
+        "https://sso.psmza.edu.my/idp/shibboleth": {
+            "en": "Politeknik Sultan Mizan Zainal Abidin"
+        },
         "https://sso.psp.edu.my/idp/shibboleth": {
             "en": "Politeknik Seberang Perai"
         },
