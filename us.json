@@ -1226,9 +1226,6 @@
     "https://sso.southwestern.edu/idp": {
         "en": "Southwestern University"
     },
-    "https://sso.stkate.edu/idp": {
-        "en": "St. Catherine University Single Sign-On"
-    },
     "https://sso.trinity.edu/idp/shibboleth": {
         "en": "Trinity University"
     },
