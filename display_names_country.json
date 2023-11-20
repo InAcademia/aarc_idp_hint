@@ -17251,6 +17251,9 @@
         "https://idp.shu.ac.uk/shibboleth": {
             "en": "Sheffield Hallam University"
         },
+        "https://idp.slc.ac.uk/idp/shibboleth": {
+            "en": "South Lanarkshire College"
+        },
         "https://idp.slcollege.ac.uk/idp/shibboleth": {
             "en": "South Leicestershire College (Shibboleth)"
         },
