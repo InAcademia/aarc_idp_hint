@@ -5222,6 +5222,10 @@
             "cs": "Studijní a vědecká knihovna Plzeňského kraje",
             "en": "The Education and Research Library of the Pilsener Region"
         },
+        "https://idp.szu.cz/idp/shibboleth": {
+            "cs": "Státní zdravotní ústav",
+            "en": "The National Institute of Public Health"
+        },
         "https://idp.tacr.cz/idp/shibboleth": {
             "cs": "Technologická agentura České republiky",
             "en": "Technology Agency of the Czech Republic"
