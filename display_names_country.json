@@ -14397,6 +14397,10 @@
         "https://login.aai.pionier.net.pl/IdP/saml2/idp/metadata.php": {
             "en": "PIONIER Consortium"
         },
+        "https://login.at.edu.pl/idp": {
+            "en": "National Academy of Dramatic Art in Warsaw",
+            "pl": "Akademia Teatralna w Warszawie"
+        },
         "https://login.kozminski.edu.pl": {
             "en": "Kozminski University",
             "pl": "Akademia Leona Koźmińskiego"
