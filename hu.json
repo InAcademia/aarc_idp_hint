@@ -231,7 +231,7 @@
         "en": "University of Veterinary Medicine Budapest",
         "hu": "Állatorvostudományi Egyetem"
     },
-    "https://idp.vmri.hu/simplesaml/module.php/saml/idp/metadata": {
+    "https://idp.vmri.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Veterinary Medical Research Institute",
         "hu": "Állatorvostudományi Kutatóintézet"
     },
