@@ -11951,7 +11951,7 @@
             "it": "Università degli Studi di Catania"
         },
         "https://login.fmach.eu/idp/shibboleth": {
-            "en": "Edmund Mach Foundation - Istituto Agrario di San Michele all'Adige",
+            "en": "Fondazione Edmund Mach - Istituto Agrario di San Michele all'Adige",
             "it": "Fondazione Edmund Mach - Istituto Agrario di San Michele all'Adige"
         },
         "https://minosse.unime.it/simplesaml/saml2/idp/metadata.php": {
@@ -16255,6 +16255,9 @@
             "en": "Kyambogo University"
         },
         "https://idp.lirauni.ac.ug/idp/shibboleth": {
+            "en": "Lira University"
+        },
+        "https://idp.lirauni.ac.ug/simplesaml/module.php/saml/idp/metadata": {
             "en": "Lira University"
         },
         "https://idp.lubagahospital.org/idp/shibboleth": {
