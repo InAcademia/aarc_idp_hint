@@ -299,6 +299,9 @@
     "https://sso.kktk.edu.my/idp/shibboleth": {
         "en": "Kolej Komuniti Tanjong Karang"
     },
+    "https://sso.kktns.edu.my/idp/shibboleth": {
+        "en": "Kolej Komuniti Tampin"
+    },
     "https://sso.mypolycc.edu.my/idp/shibboleth": {
         "en": "Jabatan Pendidikan Politeknik Dan Kolej Komuniti"
     },
