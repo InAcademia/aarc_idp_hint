@@ -100,6 +100,10 @@
         "en": "Royal Observatory of Belgium",
         "fr": "Observatoire royal de Belgique"
     },
+    "https://idp.uclouvain.be/idp/shibboleth": {
+        "en": "Catholic University of Louvain",
+        "fr": "Universite catholique de Louvain"
+    },
     "https://idp.uhasselt.be:443/idp/shibboleth": {
         "en": "Hasselt University",
         "nl": "Universiteit Hasselt"
