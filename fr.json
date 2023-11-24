@@ -271,6 +271,10 @@
         "en": "INUC - Institut national universitaire Jean-François Champollion",
         "fr": "INUC - Institut national universitaire Jean-François Champollion"
     },
+    "https://identity.ensta-bretagne.fr/idp/shibboleth": {
+        "en": "ENSTA Bretagne IdP (IT staff use only)",
+        "fr": "ENSTA Bretagne IdP (usage DSI uniquement)"
+    },
     "https://idp-agrocampus-ouest.renater.fr/idp/shibboleth": {
         "en": "L'Institut Agro Rennes-Angers",
         "fr": "L'Institut Agro Rennes-Angers"

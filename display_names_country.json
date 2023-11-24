@@ -4308,6 +4308,10 @@
             "en": "Jiangsu University",
             "zh": "江苏大学(Jiangsu University)"
         },
+        "https://idp.uor.edu.cn/idp/shibboleth": {
+            "en": "University of Health and Rehabilitation Sciences",
+            "zh": "康复大学（筹）(University of Health and Rehabilitation Sciences)"
+        },
         "https://idp.upc.edu.cn/idp/shibboleth": {
             "en": "China University of Petroleum(East China)",
             "zh": "中国石油大学（华东）(China University of Petroleum(East China))"
@@ -8990,6 +8994,10 @@
         "https://identities.univ-jfc.fr/idp/prod": {
             "en": "INUC - Institut national universitaire Jean-François Champollion",
             "fr": "INUC - Institut national universitaire Jean-François Champollion"
+        },
+        "https://identity.ensta-bretagne.fr/idp/shibboleth": {
+            "en": "ENSTA Bretagne IdP (IT staff use only)",
+            "fr": "ENSTA Bretagne IdP (usage DSI uniquement)"
         },
         "https://idp-agrocampus-ouest.renater.fr/idp/shibboleth": {
             "en": "L'Institut Agro Rennes-Angers",
