@@ -44,6 +44,9 @@
     "http://fs.uwp.edu/adfs/services/trust": {
         "en": "University of Wisconsin-Parkside"
     },
+    "http://ksufed.kennesaw.edu/adfs/services/trust": {
+        "en": "Kennesaw State University"
+    },
     "http://login.mayo.edu/adfs/services/trust": {
         "en": "Mayo Clinic"
     },
@@ -247,9 +250,6 @@
     },
     "https://idp-prod.cc.ucf.edu/idp/shibboleth": {
         "en": "University of Central Florida"
-    },
-    "https://idp-samlprod3.kennesaw.edu": {
-        "en": "Kennesaw State University"
     },
     "https://idp-staging.fsu.edu": {
         "en": "Florida State University - Staging"
