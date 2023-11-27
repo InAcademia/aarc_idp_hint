@@ -447,6 +447,10 @@
         "en": "City University of Macau",
         "zh": "澳門城市大學(City University of Macau)"
     },
+    "https://idp.cjxy.edu.cn/idp/shibboleth": {
+        "en": "Changjiang Polytechnic",
+        "zh": "长江职业学院(Changjiang Polytechnic)"
+    },
     "https://idp.cmu.edu.cn/idp/shibboleth": {
         "en": "China Medical University",
         "zh": "中国医科大学(China Medical University)"

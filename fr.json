@@ -63,6 +63,10 @@
         "en": "CROUS Clermont Auvergne V3",
         "fr": "CROUS Clermont Auvergne V3"
     },
+    "https://auth.crous-creteil.fr/idp/shibboleth": {
+        "en": "Corporate CROUS Creteil-Personnels V3",
+        "fr": "CROUS Créteil-Personnels V3"
+    },
     "https://auth.crous-lyon.fr/idp/shibboleth": {
         "en": "CROUS Lyon-Personnels",
         "fr": "CROUS Lyon-Personnels"
