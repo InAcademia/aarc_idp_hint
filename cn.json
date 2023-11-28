@@ -1407,6 +1407,10 @@
         "en": "Nanyang Institute of Technology",
         "zh": "南阳理工学院(Nanyang Institute of Technology)"
     },
+    "https://idp.nynu.edu.cn/idp/shibboleth": {
+        "en": "Nanyang Normal University",
+        "zh": "南阳师范学院(Nanyang Normal University)"
+    },
     "https://idp.ouc.edu.cn/idp/shibboleth": {
         "en": "Ocean University of China",
         "zh": "中国海洋大学(Ocean University of China)"

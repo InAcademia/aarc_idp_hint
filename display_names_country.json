@@ -3836,6 +3836,10 @@
             "en": "Nanyang Institute of Technology",
             "zh": "南阳理工学院(Nanyang Institute of Technology)"
         },
+        "https://idp.nynu.edu.cn/idp/shibboleth": {
+            "en": "Nanyang Normal University",
+            "zh": "南阳师范学院(Nanyang Normal University)"
+        },
         "https://idp.ouc.edu.cn/idp/shibboleth": {
             "en": "Ocean University of China",
             "zh": "中国海洋大学(Ocean University of China)"
@@ -12871,6 +12875,9 @@
         "https://idp3.umt.edu.my/idp/shibboleth": {
             "en": "Universiti Malaysia Terengganu"
         },
+        "https://shib-idp.uitm.edu.my/idp/shibboleth": {
+            "en": "Universiti Teknologi MARA"
+        },
         "https://shib-idp.um.edu.my/idp/shibboleth": {
             "en": "Universiti Malaya (Pilot)"
         },
@@ -13952,6 +13959,10 @@
         "https://sts.windows.net/b5c9c18a-44f0-434b-85fb-951322bf0eac/": {
             "en": "ROC Midden Nederland",
             "nl": "ROC Midden Nederland"
+        },
+        "https://sts.windows.net/bbf63f12-ffda-40f9-93ee-a4e59d1649cf/": {
+            "en": "ROC van Twente (New)",
+            "nl": "ROC van Twente (Nieuw)"
         },
         "https://sts.windows.net/c2e4234e-9ccc-490e-8151-acd2ed2b1779/": {
             "en": "ArtEZ University of the Arts",
