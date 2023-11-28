@@ -15208,6 +15208,10 @@
             "en": "Swedish Defence University",
             "sv": "Försvarshögskolan"
         },
+        "http://sso.kb.se/adfs/services/trust": {
+            "en": "National Library of Sweden",
+            "sv": "Kungliga biblioteket"
+        },
         "http://sts.mau.se/adfs/services/trust": {
             "en": "Malmö University - MFA",
             "sv": "Malmö universitet - MFA"

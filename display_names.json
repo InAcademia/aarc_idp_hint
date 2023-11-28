@@ -219,6 +219,7 @@
     "http://sm.imamu.edu.sa/adfs/services/trust": "Imam Mohammad Ibn Saud Islamic University - SM",
     "http://ssl.crkn.ca/adfs/services/trust": "Canadian Research Knowledge Network",
     "http://sso.effatuniversity.edu.sa/adfs/services/trust": "Effat University",
+    "http://sso.kb.se/adfs/services/trust": "National Library of Sweden",
     "http://sso.quinnipiac.edu/adfs/services/trust": "Quinnipiac University",
     "http://sso.sunderland.ac.uk/auth/metadata": "University of Sunderland",
     "http://ssologin.cei.edu/adfs/services/trust": "College of Eastern Idaho",
