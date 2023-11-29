@@ -13430,10 +13430,6 @@
             "en": "Onderwijsgroep Noord",
             "nl": "Onderwijsgroep Noord"
         },
-        "http://adfs.rocvantwente.nl/adfs/services/trust": {
-            "en": "ROC van Twente",
-            "nl": "ROC van Twente"
-        },
         "http://adfs01.kempel.nl/adfs/services/trust": {
             "en": "Hogeschool de Kempel",
             "nl": "Hogeschool de Kempel"
@@ -13967,8 +13963,8 @@
             "nl": "ROC Midden Nederland"
         },
         "https://sts.windows.net/bbf63f12-ffda-40f9-93ee-a4e59d1649cf/": {
-            "en": "ROC van Twente (New)",
-            "nl": "ROC van Twente (Nieuw)"
+            "en": "ROC van Twente",
+            "nl": "ROC van Twente"
         },
         "https://sts.windows.net/c2e4234e-9ccc-490e-8151-acd2ed2b1779/": {
             "en": "ArtEZ University of the Arts",
