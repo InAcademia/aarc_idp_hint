@@ -291,6 +291,10 @@
         "en": "Canakkale Onsekiz Mart University",
         "tr": "Çanakkale Onsekiz Mart Üniversitesi"
     },
+    "https://kimlik.cumhuriyet.edu.tr/idp/shibboleth": {
+        "en": "Sivas Cumhuriyet University",
+        "tr": "Sivas Cumhuriyet Üniversitesi"
+    },
     "https://kimlik.deu.edu.tr/idp/shibboleth": {
         "en": "Dokuz Eylul University",
         "tr": "Dokuz Eylül Üniversitesi"
