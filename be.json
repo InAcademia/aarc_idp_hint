@@ -108,6 +108,10 @@
         "en": "Hasselt University",
         "nl": "Universiteit Hasselt"
     },
+    "https://idp.umons.ac.be/idp/shibboleth": {
+        "en": "University of Mons (UMONS)",
+        "fr": "Universite de Mons (UMONS)"
+    },
     "https://idp.vliz.be/idp/shibboleth": {
         "en": "Flanders Marine Institute (VLIZ)"
     },
