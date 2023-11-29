@@ -557,10 +557,6 @@
             "en": "Hasselt University",
             "nl": "Universiteit Hasselt"
         },
-        "https://idp.umons.ac.be/idp/shibboleth": {
-            "en": "University of Mons (UMONS)",
-            "fr": "Universite de Mons (UMONS)"
-        },
         "https://idp.vliz.be/idp/shibboleth": {
             "en": "Flanders Marine Institute (VLIZ)"
         },
@@ -6137,7 +6133,7 @@
             "en": "HfG Hochschule für Gestaltung Schwäbisch Gmünd"
         },
         "https://idp.hfg-offenbach.de/idp/shibboleth": {
-            "de": "HfG Offenbach - Hochschule für Gestaltung Offenbach am Main",
+            "de": "HfG - Hochschule für Gestaltung Offenbach am Main",
             "en": "HfG Offenbach - University of Art and Design Offenbach am Main"
         },
         "https://idp.hfmdk-frankfurt.de/idp/shibboleth": {
