@@ -10762,10 +10762,6 @@
         "https://idp.gcd.ie/idp/shibboleth": {
             "en": "Griffith College"
         },
-        "https://idp.gmit.ie/idp/shibboleth": {
-            "en": "Galway-Mayo Institute of Technology",
-            "ga": "Institúid Teicneolaíochta na Gaillimhe-Maigh Eo"
-        },
         "https://idp.hea.ie/idp/shibboleth": {
             "en": "Higher Education Authority"
         },
