@@ -111,6 +111,10 @@
         "en": "Kirikkale University",
         "tr": "Kırıkkale Üniversitesi"
     },
+    "https://idp.kmu.edu.tr/idp/shibboleth": {
+        "en": "Karamanoglu Mehmetbey University",
+        "tr": "Karamanoğlu Mehmetbey Üniversitesi"
+    },
     "https://idp.ksbu.edu.tr/idp/shibboleth": {
         "en": "Kütahya Health Sciences University",
         "tr": "Kütahya Sağlık Bilimleri Üniversitesi"
