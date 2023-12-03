@@ -12908,6 +12908,9 @@
         "https://sifulan.utar.edu.my/idp/shibboleth": {
             "en": "Universiti Tunku Abdul Rahman"
         },
+        "https://sifulan.uthm.edu.my/idp/shibboleth": {
+            "en": "Universiti Tun Hussein Onn Malaysia"
+        },
         "https://sso.cckk.edu.my/idp/shibboleth": {
             "en": "Kolej Komuniti Kuala Kangsar"
         },
