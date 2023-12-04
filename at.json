@@ -236,8 +236,8 @@
         "en": "St. Pölten University of Applied Sciences"
     },
     "https://sso.fwf.ac.at/auth/realms/sso": {
-        "de": "FWF Der Wissenschaftsfonds",
-        "en": "Austrian Science Fund (FWF)"
+        "de": "FWF Österreichischer Wissenschaftsfonds",
+        "en": "FWF Austrian Science Fund"
     },
     "https://sso.haup.ac.at/idp/shibboleth": {
         "de": "Hochschule für Agrar- und Umweltpädagogik",

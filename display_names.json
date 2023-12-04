@@ -4602,7 +4602,7 @@
     "https://sso.fhgooe.ac.at/idp/shibboleth": "University of Applied Sciences for Health Professions Upper Austria",
     "https://sso.fhstp.ac.at/idp/shibboleth": "St. Pölten University of Applied Sciences",
     "https://sso.ftmc.lt/auth/saml2/idp/metadata.php": "State research institute Center for Physical Sciences and Technology",
-    "https://sso.fwf.ac.at/auth/realms/sso": "Austrian Science Fund (FWF)",
+    "https://sso.fwf.ac.at/auth/realms/sso": "FWF Austrian Science Fund",
     "https://sso.gac.edu/idp/shibboleth": "Gustavus Adolphus College",
     "https://sso.gc.cuny.edu/idp/shibboleth": "CUNY Graduate Center",
     "https://sso.gumed.pl/saml2/idp/metadata.php": "Medical University of Gdańsk",
