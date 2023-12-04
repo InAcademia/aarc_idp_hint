@@ -2436,6 +2436,10 @@
             "en": "Zhaoqing University",
             "zh": "肇庆学院(Zhaoqing University)"
         },
+        "https://carsiidp.gench.edu.cn/idp/shibboleth": {
+            "en": "Shanghai Jian Qiao University",
+            "zh": "上海建桥学院(Shanghai Jian Qiao University)"
+        },
         "https://carsiidp.swu.edu.cn/idp/shibboleth": {
             "en": "Southwest University",
             "zh": "西南大学(Southwest University)"
@@ -4211,6 +4215,10 @@
         "https://idp.szhct.edu.cn/idp/shibboleth": {
             "en": "Suzhou Vocational Health College",
             "zh": "苏州卫生职业技术学院(Suzhou Vocational Health College)"
+        },
+        "https://idp.szsit.edu.cn/idp/shibboleth": {
+            "en": "Shenzhen Institute of Technology",
+            "zh": "深圳技师学院(Shenzhen Institute of Technology)"
         },
         "https://idp.sztu.edu.cn/idp/shibboleth": {
             "en": "Shenzhen Technology University",
