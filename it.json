@@ -303,6 +303,10 @@
         "en": "University of Chieti-Pescara",
         "it": "Università degli Studi G. D'Annunzio Chieti-Pescara"
     },
+    "https://idp-uninsubria-prod.cineca.it/idp/shibboleth": {
+        "en": "Università degli studi dell'Insubria",
+        "it": "Università degli studi dell'Insubria"
+    },
     "https://idp-unito-prod.cineca.it/idp/shibboleth": {
         "en": "University of Turin",
         "it": "Università di Torino"
