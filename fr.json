@@ -867,10 +867,6 @@
         "en": "Université Toulouse Capitole",
         "fr": "Université Toulouse Capitole"
     },
-    "https://idp4.bordeaux-inp.fr/idp/shibboleth": {
-        "en": "Test Bordeaux INP",
-        "fr": "Test Bordeaux INP"
-    },
     "https://idp4.cereq.fr/idp/shibboleth": {
         "en": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications",
         "fr": "CEREQ - Centre d'Etudes et de Recherches sur les Qualifications"
