@@ -560,6 +560,7 @@
     "https://cas.ans.pila.pl/cas/idp": "Stanisław Staszic State University of Applied Sciencies in Piła",
     "https://cas.byu.edu/cas/idp/metadata": "Brigham Young University",
     "https://cas.cbs.dk/saml/saml2/idp/metadata.php": "Copenhagen Business School",
+    "https://cas.coloradocollege.edu/cas/idp": "Colorado College SSO",
     "https://cas.conncoll.edu/idp/shibboleth": "Connecticut College",
     "https://cas.cuni.cz/idp/shibboleth": "Charles University",
     "https://cas.esigelec.fr/cas/idp": "Idp Esigelec",

@@ -134,6 +134,9 @@
     "https://cas.byu.edu/cas/idp/metadata": {
         "en": "Brigham Young University"
     },
+    "https://cas.coloradocollege.edu/cas/idp": {
+        "en": "Colorado College SSO"
+    },
     "https://cas.conncoll.edu/idp/shibboleth": {
         "en": "Connecticut College"
     },
