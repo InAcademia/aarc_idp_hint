@@ -1107,6 +1107,10 @@
         "en": "CentraleSupelec (1)",
         "fr": "CentraleSupelec (1)"
     },
+    "https://sso.bordeaux-inp.fr/idp/shibboleth": {
+        "en": "Institut Polytechnique of Bdx",
+        "fr": "Institut Polytechnique de Bdx"
+    },
     "https://sso.cnes.fr": {
         "en": "CNES",
         "fr": "CNES"

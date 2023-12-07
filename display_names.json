@@ -4571,6 +4571,7 @@
     "https://sso.augsburg.edu/simplesaml/saml2/idp/metadata.php": "Augsburg University",
     "https://sso.bergen.edu/idp": "Bergen Community College (Cirrus)",
     "https://sso.bfarm.de:8443/auth/realms/DFNConf": "Federal Institute for Drugs and Medical Devices",
+    "https://sso.bordeaux-inp.fr/idp/shibboleth": "Institut Polytechnique of Bdx",
     "https://sso.brown.edu/idp/shibboleth": "Brown University",
     "https://sso.bsfc.ac.uk/idp/shibboleth": "Birkenhead Sixth Form College",
     "https://sso.capilanou.ca/idp": "Capilano University",
