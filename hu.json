@@ -103,6 +103,10 @@
         "en": "Eötvös Loránd University Budapest",
         "hu": "Eötvös Loránd Tudományegyetem"
     },
+    "https://idp.gde.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Dennis Gabor University",
+        "hu": "Gábor Dénes Egyetem"
+    },
     "https://idp.ibs-b.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "International Business School",
         "hu": "IBS Nemzetközi Üzleti Főiskola"
