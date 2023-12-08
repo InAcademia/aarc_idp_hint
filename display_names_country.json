@@ -16620,6 +16620,9 @@
         "https://idp.bmetc.ac.uk/idp/shibboleth": {
             "en": "Birmingham Metropolitan College"
         },
+        "https://idp.bolton-sfc.ac.uk/idp": {
+            "en": "The Sixth Form Bolton"
+        },
         "https://idp.bolton.ac.uk/idp/shibboleth": {
             "en": "University of Bolton"
         },
