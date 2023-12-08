@@ -3228,6 +3228,10 @@
             "en": "HAINAN NORMAL UNIVERSITY",
             "zh": "海南师范大学(HAINAN NORMAL UNIVERSITY)"
         },
+        "https://idp.hait.edu.cn/idp/shibboleth": {
+            "en": "henan institute of technology",
+            "zh": "河南工学院(henan institute of technology)"
+        },
         "https://idp.haust.edu.cn/idp/shibboleth": {
             "en": "Henan University of Science and Technology",
             "zh": "河南科技大学(Henan University of Science and Technology)"
