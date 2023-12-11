@@ -1569,6 +1569,10 @@
             "en": "UFERSA - Universidade Federal Rural Do Semi-Arido",
             "pt-br": "UFERSA - Universidade Federal Rural Do Semi-Arido"
         },
+        "https://shibboleth.abc.org.br/idp/shibboleth": {
+            "en": "ABC - Academia Brasileira de Ciencias",
+            "pt-br": "ABC - Academia Brasileira de Ciencias"
+        },
         "https://shibboleth.ansp.br/idp/shibboleth": {
             "en": "ANSP - an Academic Network at Sao Paulo",
             "pt-br": "ANSP - an Academic Network at Sao Paulo"
