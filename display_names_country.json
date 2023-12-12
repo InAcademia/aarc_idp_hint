@@ -749,6 +749,10 @@
             "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
             "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
         },
+        "https://cafe.cruzeirodosul.edu.br/idp/shibboleth": {
+            "en": "UNICSUL - Universidade Cruzeiro do Sul",
+            "pt-br": "UNICSUL - Universidade Cruzeiro do Sul"
+        },
         "https://cafe.espm.br/idp/shibboleth": {
             "en": "ESPM - Escola Superior de Propaganda e Marketing",
             "pt-br": "ESPM - Escola Superior de Propaganda e Marketing"
