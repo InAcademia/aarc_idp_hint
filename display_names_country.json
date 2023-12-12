@@ -3815,6 +3815,10 @@
             "en": "National University of Defense and Technology",
             "zh": "国防科技大学(National University of Defense and Technology)"
         },
+        "https://idp.nue.edu.cn/idp/shibboleth": {
+            "en": "Naval University of Engineering",
+            "zh": "海军工程大学(Naval University of Engineering)"
+        },
         "https://idp.nvu.edu.cn/idp/shibboleth": {
             "en": "Nanchang Vocational University",
             "zh": "南昌职业大学(Nanchang Vocational University)"
