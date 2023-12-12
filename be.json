@@ -36,6 +36,9 @@
         "en": "University of Namur",
         "fr": "Universite de Namur"
     },
+    "https://idp-acc.he-ferrer.eu/idp/shibboleth": {
+        "en": "IdP 01 He-ferrer"
+    },
     "https://idp-ef.provincedeliege.be/idp": {
         "en": "Higher Education Institution of the Province of Liege (HEPL)",
         "fr": "Haute Ecole de la Province de Liege (HEPL)"
