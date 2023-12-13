@@ -3648,6 +3648,10 @@
             "en": "LeShan Normal University",
             "zh": "乐山师范学院(LeShan Normal University)"
         },
+        "https://idp.lsu.edu.cn/idp/shibboleth": {
+            "en": "Lishui University",
+            "zh": "丽水学院(Lishui University)"
+        },
         "https://idp.ltzy.edu.cn/idp/shibboleth": {
             "en": "Liuzhou Railway Vocational Technical College",
             "zh": "柳州铁道职业技术学院(Liuzhou Railway Vocational Technical College)"
@@ -4607,10 +4611,6 @@
         "https://idp.xxmu.edu.cn/idp/shibboleth": {
             "en": "Xinxiang Medical University",
             "zh": "新乡医学院(Xinxiang Medical University)"
-        },
-        "https://idp.xxu.edu.cn/idp/shibboleth": {
-            "en": "Xinxiang University",
-            "zh": "新乡学院(Xinxiang University)"
         },
         "https://idp.xzhmu.edu.cn/idp/shibboleth": {
             "en": "XuZhou Medical University",
