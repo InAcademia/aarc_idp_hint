@@ -1225,6 +1225,10 @@
             "en": "IFG - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DE GOIAS",
             "pt-br": "IFG - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DE GOIAS"
         },
+        "https://idp.ifpa.edu.br/idp/shibboleth": {
+            "en": "IFPA - Instituto Federal do Para",
+            "pt-br": "IFPA - Instituto Federal do Para"
+        },
         "https://idp.ifpb.edu.br/idp/shibboleth": {
             "en": "IFPB - Instituto Federal da Paraiba",
             "pt-br": "IFPB - Instituto Federal da Paraiba"
