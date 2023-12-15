@@ -7040,6 +7040,10 @@
             "de": "Johannes Gutenberg-Universität Mainz",
             "en": "Johannes Gutenberg University Mainz"
         },
+        "https://shib01.abk-stuttgart.de/idp/shibboleth": {
+            "de": "Staatliche Akademie der Bildenden Künste Stuttgart",
+            "en": "Stuttgart State Academy of Art and Design"
+        },
         "https://shib1.rz.htwk-leipzig.de/idp/shibboleth": {
             "de": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
             "en": "Hochschule für Technik, Wirtschaft und Kultur Leipzig"
