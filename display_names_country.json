@@ -12163,6 +12163,10 @@
             "en": "Asahi University",
             "ja": "朝日大学"
         },
+        "https://idp.asahikawa-med.ac.jp/idp/shibboleth": {
+            "en": "Asahikawa Medical University",
+            "ja": "旭川医科大学"
+        },
         "https://idp.auth.tohoku.ac.jp/idp/shibboleth": {
             "en": "Tohoku University",
             "ja": "東北大学"
