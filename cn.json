@@ -59,6 +59,10 @@
         "en": "Guangxi Medical University",
         "zh": "广西医科大学(Guangxi Medical University)"
     },
+    "https://idp-lib.gzhmu.edu.cn/idp/shibboleth": {
+        "en": "Guangzhou Medical University",
+        "zh": "广州医科大学(Guangzhou Medical University)"
+    },
     "https://idp-lib.gzhu.edu.cn/idp/shibboleth": {
         "en": "Guangzhou University",
         "zh": "广州大学(Guangzhou University)"
