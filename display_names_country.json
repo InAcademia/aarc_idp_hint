@@ -6296,6 +6296,10 @@
             "de": "Hochschule Heilbronn",
             "en": "Heilbronn University"
         },
+        "https://idp.hs-karlsruhe.de/idp/shibboleth": {
+            "de": "Hochschule Karlsruhe",
+            "en": "University of Applied Sciences Karlsruhe"
+        },
         "https://idp.hs-kehl.de/idp/shibboleth": {
             "de": "Hochschule für öffentliche Verwaltung Kehl",
             "en": "University of Applied Sciences Kehl"
