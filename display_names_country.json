@@ -13368,10 +13368,6 @@
         }
     },
     "net": {
-        "http://websso1.um.edu.mo/adfs/services/trust": {
-            "en": "University of Macau",
-            "zh": "澳門大學"
-        },
         "https://aai.ceni.org.cn/saml/idp": {
             "en": "CENI AAI",
             "zh": "CENI AAI"
