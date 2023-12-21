@@ -8906,6 +8906,10 @@
             "en": "Université de Paris 7 - Denis Diderot",
             "fr": "Université de Paris 7 - Denis Diderot"
         },
+        "https://auth.uttop.fr/saml/metadata": {
+            "en": "UTTOP Université de Technologie de Tarbes",
+            "fr": "UTTOP Université de Technologie de Tarbes"
+        },
         "https://authentification.inrae.fr/saml/metadata/idp": {
             "en": "INRAE",
             "fr": "INRAE"

@@ -433,6 +433,7 @@
     "https://auth.unk.edu/idp/shibboleth": "University of Nebraska At Kearney",
     "https://auth.unomaha.edu/idp": "University of Nebraska at Omaha",
     "https://auth.ut.ee/idp/saml2/idp/metadata.php": "University of Tartu",
+    "https://auth.uttop.fr/saml/metadata": "UTTOP Université de Technologie de Tarbes",
     "https://auth.vifa-recht.de/idp/shibboleth": "FID-Recht (VHO)",
     "https://auth.wszib.edu.pl/idp/shibboleth": "The School of Banking and Management in Cracow",
     "https://auth.yale.edu/idp/shibboleth": "Yale University",
