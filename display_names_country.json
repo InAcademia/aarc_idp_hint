@@ -13738,10 +13738,6 @@
             "en": "Radboud University",
             "nl": "Radboud Universiteit"
         },
-        "https://conext2.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
-            "en": "Radboud University Nijmegen (@-account [LDAP])",
-            "nl": "Radboud Universiteit Nijmegen (@-account [LDAP])"
-        },
         "https://federatie.hku.nl": {
             "en": "Utrecht School of the Arts",
             "nl": "Hogeschool voor de Kunsten Utrecht"
