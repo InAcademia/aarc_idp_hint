@@ -95,9 +95,6 @@
     "http://fs.trc.gov.om/adfs/services/trust": {
         "en": "Research and Innovation Center"
     },
-    "http://fs.unizwa.edu.om/adfs/services/trust": {
-        "en": "University of Nizwa"
-    },
     "http://lync.mec.edu.om/adfs/services/trust": {
         "en": "Middle East College"
     },
