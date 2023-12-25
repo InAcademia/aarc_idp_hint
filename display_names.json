@@ -3938,6 +3938,7 @@
     "https://login.uniklinikum-dresden.de/idp/shibboleth": "University Hospital Carl Gustav Carus, Dresden",
     "https://login.unl.cedia.edu.ec/saml2/idp/metadata.php": "Universidad Nacional de Loja - unl",
     "https://login.unlv.edu/FIM/sps/MyShib/saml20": "University of Nevada-Las Vegas",
+    "https://login.uns.ac.rs/idp/metadata": "University of Novi Sad",
     "https://login.uoc.gr/idp/shibboleth": "University of Crete",
     "https://login.uos.ac.uk/saml2/idp/metadata.php": "University of Suffolk",
     "https://login.upacifico.cedia.edu.ec/saml2/idp/metadata.php": "Universidad del Pacífico - upacifico",
