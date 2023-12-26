@@ -1511,6 +1511,10 @@
         "en": "QILU UNIVERSITY OF TECHNOLOGY",
         "zh": "齐鲁工业大学(QILU UNIVERSITY OF TECHNOLOGY)"
     },
+    "https://idp.qust.edu.cn/idp/shibboleth": {
+        "en": "Qingdao University of Science & Technology",
+        "zh": "青岛科技大学(Qingdao University of Science & Technology)"
+    },
     "https://idp.qzc.edu.cn/idp/shibboleth": {
         "en": "Quzhou College",
         "zh": "衢州学院(Quzhou College)"
