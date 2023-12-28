@@ -2578,6 +2578,10 @@
             "en": "Northwest A and F University",
             "zh": "西北农林科技大学(Northwest A and F University)"
         },
+        "https://idp-lib.qlit.edu.cn/idp/shibboleth": {
+            "en": "Qilu Institute of Technology",
+            "zh": "齐鲁理工学院(Qilu Institute of Technology)"
+        },
         "https://idp-lib.sdnu.edu.cn/idp/shibboleth": {
             "en": "Shandong Normal University",
             "zh": "山东师范大学(Shandong Normal University)"
