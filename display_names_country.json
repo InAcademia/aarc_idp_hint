@@ -11115,6 +11115,9 @@
         "https://idp.gbu.ac.in/idp/shibboleth": {
             "en": "Gautam Buddha University (Delhi NCR)"
         },
+        "https://idp.gbu.edu.in/idp/shibboleth": {
+            "en": "Gujarat Biotechnology University"
+        },
         "https://idp.gitam.edu/idp/shibboleth": {
             "en": "GITAM Deemed to be University"
         },
@@ -11307,6 +11310,9 @@
         "https://idp.nita.ac.in/idp/shibboleth": {
             "en": "National Institute of Technology Agartala"
         },
+        "https://idp.nitc.ac.in/idp/shibboleth": {
+            "en": "National Institute of Technology Calicut"
+        },
         "https://idp.nitdelhi.ac.in/idp/shibboleth": {
             "en": "National Institute of Technology Delhi"
         },
@@ -11337,6 +11343,9 @@
         "https://idp.nluo.ac.in/idp/shibboleth": {
             "en": "National Law University Odisha"
         },
+        "https://idp.nprcet.org/idp/shibboleth": {
+            "en": "NPR College of Engineering and Technology"
+        },
         "https://idp.pes.edu/idp/shibboleth": {
             "en": "PES University"
         },
@@ -11354,6 +11363,9 @@
         },
         "https://idp.rgu.ac.in/idp/shibboleth": {
             "en": "Rajiv Gandhi University"
+        },
+        "https://idp.ritindia.edu/idp/shibboleth": {
+            "en": "Rajarambapu Institute of Technology, Rajaramnagar"
         },
         "https://idp.ruralunivlibrary.ac.in/idp/shibboleth": {
             "en": "Gandhigram Rural Institute, Tamil Nadu"
