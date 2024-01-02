@@ -6506,6 +6506,10 @@
             "de": "Kunstakademie Düsseldorf",
             "en": "Art Academy of Duesseldorf"
         },
+        "https://idp.leibniz-liv.de/idp/shibboleth": {
+            "de": "Leibniz LIV",
+            "en": "Leibniz LIV"
+        },
         "https://idp.lrz.de/idp/shibboleth": {
             "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
             "en": "Leibniz Supercomputing Centre (LRZ)"
