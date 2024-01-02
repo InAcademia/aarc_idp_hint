@@ -10696,6 +10696,10 @@
             "en": "Library and Information Centre of MTA borrowers",
             "hu": "MTA Könyvtár és Információs Központ olvasók"
         },
+        "https://idp.omgk.hu/simplesaml/saml2/idp/metadata.php": {
+            "en": "Museum and Library of Hungarian Agriculture",
+            "hu": "Magyar Mezőgazdasági Múzeum és Könyvtár"
+        },
         "https://idp.oszk.hu/saml/saml2/idp/metadata.php": {
             "en": "National Széchényi Library",
             "hu": "Országos Széchényi Könyvtár"
