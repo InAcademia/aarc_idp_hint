@@ -18484,6 +18484,9 @@
         "https://idp.aub.edu.lb/idp/shibboleth": {
             "en": "American University of Beirut"
         },
+        "https://idp.bgsu.edu/idp": {
+            "en": "Bowling Green State University - New"
+        },
         "https://idp.bnl.gov/idp/shibboleth": {
             "en": "Brookhaven National Laboratory"
         },
