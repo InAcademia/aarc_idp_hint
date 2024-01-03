@@ -16,7 +16,7 @@
         "nl": "Grafisch Lyceum Utrecht"
     },
     "http://adfs.hanze.nl/adfs/services/trust": {
-        "en": "Hanze University Groningen",
+        "en": "Hanze University of Applied Sciences Groningen",
         "nl": "Hanzehogeschool Groningen"
     },
     "http://adfs.hdh.nl/adfs/services/trust": {
@@ -92,7 +92,7 @@
         "nl": "ROC Rivor"
     },
     "http://login.hva.nl/adfs/services/trust": {
-        "en": "Hogeschool van Amsterdam",
+        "en": "Amsterdam University of Applied Sciences",
         "nl": "Hogeschool van Amsterdam"
     },
     "http://login.maastrichtuniversity.nl/adfs/services/trust": {
