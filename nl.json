@@ -239,6 +239,10 @@
         "en": "ROC Horizon College",
         "nl": "ROC Horizon College"
     },
+    "http://sts.regiocollege.nl/adfs/services/trust": {
+        "en": "ROC Regio College",
+        "nl": "ROC Regio College"
+    },
     "http://sts.rietveldacademie.nl/adfs/services/trust": {
         "en": "Gerrit Rietveld Academie",
         "nl": "Gerrit Rietveld Academie"
