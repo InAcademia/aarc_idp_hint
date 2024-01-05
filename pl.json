@@ -55,6 +55,10 @@
         "en": "Kazimierz Wielki University",
         "pl": "Uniwersytet Kazimierza Wielkiego"
     },
+    "https://cas.urk.edu.pl/cas/idp/metadata": {
+        "en": "University of Agriculture in Krakow",
+        "pl": "Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie"
+    },
     "https://cas.uwb.edu.pl/cas/idp/metadata": {
         "en": "University of Bialystok",
         "pl": "Uniwersytet w Białymstoku"
