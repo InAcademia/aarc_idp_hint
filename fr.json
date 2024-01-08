@@ -411,6 +411,10 @@
         "en": "EHESP - Ecole des hautes études en santé publique",
         "fr": "EHESP - Ecole des hautes études en santé publique"
     },
+    "https://idp.eigsi.fr/idp/shibboleth": {
+        "en": "EIGSI La Rochelle",
+        "fr": "EIGSI La Rochelle"
+    },
     "https://idp.em-normandie.fr/idp/shibboleth": {
         "en": "Ecole de Management de Normandie",
         "fr": "Ecole de Management de Normandie"

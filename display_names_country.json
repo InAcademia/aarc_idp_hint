@@ -7643,14 +7643,6 @@
             "en": "Dania Academy"
         }
     },
-    "dz": {
-        "https://idp.grid.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science GRID IDP"
-        },
-        "https://med-idp.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science MEDECINE IDP"
-        }
-    },
     "ec": {
         "https://login.caces.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces",
@@ -9247,6 +9239,10 @@
         "https://idp.ehesp.fr/idp/shibboleth": {
             "en": "EHESP - Ecole des hautes études en santé publique",
             "fr": "EHESP - Ecole des hautes études en santé publique"
+        },
+        "https://idp.eigsi.fr/idp/shibboleth": {
+            "en": "EIGSI La Rochelle",
+            "fr": "EIGSI La Rochelle"
         },
         "https://idp.em-normandie.fr/idp/shibboleth": {
             "en": "Ecole de Management de Normandie",
