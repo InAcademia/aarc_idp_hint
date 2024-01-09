@@ -698,10 +698,6 @@
             "en": "ACCAMARGO - AC Camargo Cancer Center",
             "pt-br": "ACCAMARGO - AC Camargo Cancer Center"
         },
-        "https://arabica.fapesp.br/idp/shibboleth": {
-            "en": "FAPESP - Fundacao de Amparo a Pesquisa do Estado de Sao Paulo",
-            "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa do Estado de Sao Paulo"
-        },
         "https://araripe.uece.br/idp/shibboleth": {
             "en": "UECE - Universidade Estadual do Ceara",
             "pt-br": "UECE - Universidade Estadual do Ceara"
@@ -1073,6 +1069,10 @@
         "https://fusion.ceub.br/idp/shibboleth": {
             "en": "UNICEUB - Centro Universitario de Brasilia",
             "pt-br": "UNICEUB - Centro Universitario de Brasilia"
+        },
+        "https://hibonite.fapesp.br/idp/shibboleth": {
+            "en": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo",
+            "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo"
         },
         "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
             "en": "IFAP - Instituto Federal do Amapa",
