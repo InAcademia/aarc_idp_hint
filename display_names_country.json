@@ -16273,9 +16273,6 @@
         "https://idp.lirauni.ac.ug/idp/shibboleth": {
             "en": "Lira University"
         },
-        "https://idp.lirauni.ac.ug/simplesaml/module.php/saml/idp/metadata": {
-            "en": "Lira University"
-        },
         "https://idp.lubagahospital.org/idp/shibboleth": {
             "en": "Uganda Martyrs Hospital Lubaga"
         },
