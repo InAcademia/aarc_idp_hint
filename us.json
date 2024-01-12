@@ -224,6 +224,9 @@
     "https://id.nshe.nevada.edu/idp": {
         "en": "Nevada System of Higher Education - SA/SCS"
     },
+    "https://id.tmcc.edu/idp": {
+        "en": "Truckee Meadows Community College"
+    },
     "https://id.uakron.edu/idp/shibboleth": {
         "en": "University of Akron, Main Campus, The"
     },
