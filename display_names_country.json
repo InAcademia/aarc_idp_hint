@@ -477,6 +477,9 @@
             "en": "Universite Saint-Louis - Bruxelles",
             "fr": "Universite Saint-Louis - Bruxelles"
         },
+        "https://edugain.ichec.be/idp": {
+            "en": "ICHEC Brussels Management School"
+        },
         "https://edugain.vinci.be/adfs/services/trust": {
             "en": "Haute Ecole Léonard de Vinci"
         },
@@ -533,6 +536,9 @@
         "https://idp.hainaut-promsoc.be/idp/shibboleth": {
             "en": "Hainaut PromSoc",
             "fr": "Hainaut PromSoc"
+        },
+        "https://idp.he-ferrer.eu/idp/shibboleth": {
+            "en": "IdP 01 He-ferrer"
         },
         "https://idp.he2b.be/idp/shibboleth": {
             "en": "Haute École Bruxelles-Brabant (HE2B)"
@@ -4508,10 +4514,6 @@
         "https://idp.wtbu.edu.cn/idp/shibboleth": {
             "en": "Wuhan Technology and Business University",
             "zh": "武汉工商学院(Wuhan Technology and Business University)"
-        },
-        "https://idp.wtc.edu.cn/idp/shibboleth": {
-            "en": "Wuhan Polytechnic",
-            "zh": "武汉职业技术学院(Wuhan Polytechnic)"
         },
         "https://idp.wtu.edu.cn/idp/shibboleth": {
             "en": "WUHAN TEXTILE UNIVERSITY",
