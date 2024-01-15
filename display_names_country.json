@@ -12605,6 +12605,9 @@
         "https://kafe.kaist.ac.kr/idp/simplesamlphp": {
             "en": "Korea Advanced Institute of Science and Technology"
         },
+        "https://kafe.kangwon.ac.kr/idp/simplesamlphp": {
+            "en": "Kangwon National University"
+        },
         "https://kafe.kari.re.kr/idp/simplesamlphp": {
             "en": "Korea Aerospace Research Institute"
         },
