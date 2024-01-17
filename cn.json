@@ -2067,6 +2067,10 @@
         "en": "Wuhan Technology and Business University",
         "zh": "武汉工商学院(Wuhan Technology and Business University)"
     },
+    "https://idp.wtc.edu.cn/idp/shibboleth": {
+        "en": "Wuhan Polytechnic",
+        "zh": "武汉职业技术学院(Wuhan Polytechnic)"
+    },
     "https://idp.wtu.edu.cn/idp/shibboleth": {
         "en": "WUHAN TEXTILE UNIVERSITY",
         "zh": "武汉纺织大学(WUHAN TEXTILE UNIVERSITY)"
@@ -2190,10 +2194,6 @@
     "https://idp.xnai.edu.cn/idp/shibboleth": {
         "en": "Xiamen National Accounting Institute",
         "zh": "厦门国家会计学院(Xiamen National Accounting Institute)"
-    },
-    "https://idp.xnvtc.edu.cn/idp/shibboleth": {
-        "en": "Xianning Vocaltional Technical College",
-        "zh": "咸宁职业技术学院(Xianning Vocaltional Technical College)"
     },
     "https://idp.xsyu.edu.cn/idp/shibboleth": {
         "en": "Xi'an Shiyou University",
