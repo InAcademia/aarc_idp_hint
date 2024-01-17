@@ -13809,6 +13809,10 @@
             "en": "Max Planck Institute for Psycholinguistics",
             "nl": "Max Planck Instituut voor Psycholinguistiek"
         },
+        "https://idp.nlda.nl/adfs/services/trust": {
+            "en": "Ministerie van Defensie - NLDA",
+            "nl": "Ministerie van Defensie - NLDA"
+        },
         "https://login.loi.nl/saml2/idp/metadata.php": {
             "en": "Leidse Onderwijsinstellingen - 1",
             "nl": "Leidse Onderwijsinstellingen - 1"
