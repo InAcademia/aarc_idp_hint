@@ -607,6 +607,10 @@
         "en": "UFCAT - Universidade Federal de Catalao",
         "pt-br": "UFCAT - Universidade Federal de Catalao"
     },
+    "https://idp.ufgd.edu.br/idp/shibboleth": {
+        "en": "UFGD - Universidade Federal da Grande Dourados",
+        "pt-br": "UFGD - Universidade Federal da Grande Dourados"
+    },
     "https://idp.ufjf.br/idp/shibboleth": {
         "en": "UFJF - Universidade Federal de Juiz de Fora",
         "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
