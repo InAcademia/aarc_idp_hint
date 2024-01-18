@@ -556,9 +556,6 @@
         "https://idp.hogent.be/idp": {
             "en": "Hogent"
         },
-        "https://idp.howest.be/idp/shibboleth": {
-            "en": "Hogeschool West-Vlaanderen"
-        },
         "https://idp.kmkg-mrah.be/idp/shibboleth": {
             "en": "Royal Museums of Art and History, Brussels",
             "fr": "Musées royaux d'Art et d'Histoire, Bruxelles"
@@ -3542,6 +3539,10 @@
         "https://idp.jgsu.edu.cn/idp/shibboleth": {
             "en": "Jinggangshan University",
             "zh": "井冈山大学(Jinggangshan University)"
+        },
+        "https://idp.jhc.edu.cn/idp/shibboleth": {
+            "en": "Jinhua Polytechnic",
+            "zh": "金华职业技术学院(Jinhua Polytechnic)"
         },
         "https://idp.jhun.edu.cn/idp/shibboleth": {
             "en": "Jianghan University",
