@@ -9447,6 +9447,10 @@
             "en": "Normandie Université",
             "fr": "Normandie Université"
         },
+        "https://idp.oniris-nantes.fr/realms/master": {
+            "en": "OnirisV3 - École Vétérinaire, Agroalimentaire et de l'Alimentation de Loire-Atlantique",
+            "fr": "OnirisV3 - École Vétérinaire, Agroalimentaire et de l'Alimentation de Loire-Atlantique"
+        },
         "https://idp.paris-lavillette.archi.fr/idp/shibboleth": {
             "en": "Ecole Nationale Supérieure d'Architecture de Paris - La Villette",
             "fr": "Ecole Nationale Supérieure d'Architecture de Paris - La Villette"
