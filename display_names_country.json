@@ -16506,9 +16506,6 @@
         "https://login.rhsp.org/idp/shibboleth": {
             "en": "Rakai Health Sciences Program"
         },
-        "https://rif.iucea.org/idp/shibboleth": {
-            "en": "Inter-University Council of East Africa (IUCEA)"
-        },
         "https://rif.mubs.ac.ug/idp/shibboleth": {
             "en": "Makerere University Business School"
         }
