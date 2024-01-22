@@ -11,6 +11,9 @@
     "https://idp.just.edu.bd/idp/shibboleth": {
         "en": "Jashore University of Science and Technology"
     },
+    "https://idp.kuet.ac.bd/idp/shibboleth": {
+        "en": "Khulna University of Engineering and Technology"
+    },
     "https://idp.sau.edu.bd/idp/shibboleth": {
         "en": "Sher-e-Bangla Agricultural University"
     },
