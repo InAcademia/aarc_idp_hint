@@ -556,6 +556,7 @@
     "https://carsiidp.swu.edu.cn/idp/shibboleth": "Southwest University",
     "https://cas.ac-martinique.fr/idp/shibboleth": "Rectorat de la Martinique",
     "https://cas.ans.pila.pl/cas/idp": "Stanisław Staszic State University of Applied Sciencies in Piła",
+    "https://cas.auth.sc.edu/cas/idp": "University of South Carolina - CAS",
     "https://cas.byu.edu/cas/idp/metadata": "Brigham Young University",
     "https://cas.cbs.dk/saml/saml2/idp/metadata.php": "Copenhagen Business School",
     "https://cas.coloradocollege.edu/cas/idp": "Colorado College",

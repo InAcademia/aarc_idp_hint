@@ -131,6 +131,9 @@
     "https://caneid.miami.edu/idp/shibboleth": {
         "en": "University of Miami"
     },
+    "https://cas.auth.sc.edu/cas/idp": {
+        "en": "University of South Carolina - CAS"
+    },
     "https://cas.byu.edu/cas/idp/metadata": {
         "en": "Brigham Young University"
     },
