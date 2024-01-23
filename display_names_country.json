@@ -2042,9 +2042,6 @@
         "https://idp.unb.ca/idp/shibboleth": {
             "en": "University of New Brunswick"
         },
-        "https://idp.unbc.ca/idp/shibboleth": {
-            "en": "University of Northern British Columbia"
-        },
         "https://idp.upei.ca/idp/shibboleth": {
             "en": "University of Prince Edward Island"
         },
@@ -2161,6 +2158,9 @@
         },
         "https://sso.royalroads.ca/idp": {
             "en": "Royal Roads University"
+        },
+        "https://sso.unbc.ca/idp": {
+            "en": "University of Northern British Columbia"
         },
         "https://sso.vcc.ca/idp": {
             "en": "Vancouver Community College"
