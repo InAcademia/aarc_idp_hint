@@ -12447,8 +12447,8 @@
             "ja": "福山大学"
         },
         "https://mfa-idp.shiga-med.ac.jp/idp/shibboleth": {
-            "en": "Shiga University of Medical Science (in prep)",
-            "ja": "滋賀医科大学 (移行中 新IdP)"
+            "en": "Shiga University of Medical Science (new IdP)",
+            "ja": "滋賀医科大学 (新IdP)"
         },
         "https://nifsacjp.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "National Institute for Fusion Science (extic)",
