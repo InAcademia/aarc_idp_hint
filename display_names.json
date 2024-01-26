@@ -103,7 +103,7 @@
     "http://adfs.vordingborg-gym.dk/adfs/services/trust": "Vordingborg Gymnasium & HF",
     "http://adfs.zbc.dk/adfs/services/trust": "ZBC – Zealand Business College",
     "http://adfs01.kempel.nl/adfs/services/trust": "Hogeschool de Kempel",
-    "http://adfs01.naturalsciences.be/adfs/ls/": "Royal Belgian Institute of Natural Sciences",
+    "http://adfs01.naturalsciences.be/adfs/services/trust": "Royal Belgian Institute of Natural Sciences",
     "http://adfs1.uwr.edu.pl/adfs/services/trust": "University of Wroclaw",
     "http://adfs2019.caftest.canarie.ca/adfs/services/trust": "Z- ADFSToolkit IdP - adfs2019",
     "http://adfs3.fmi.ch/adfs/services/trust": "FMI - Friedrich Miescher Institute",
