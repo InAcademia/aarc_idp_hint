@@ -463,7 +463,7 @@
         "http://adfs.ilvo.be/adfs/services/trust": {
             "en": "Instituut voor Landbouw-, Visserij- en Voedingsonderzoek"
         },
-        "http://adfs01.naturalsciences.be/adfs/services/trust": {
+        "http://adfs01.naturalsciences.be/adfs/ls": {
             "en": "Royal Belgian Institute of Natural Sciences"
         },
         "http://federation.helb-prigogine.be/adfs/services/trust": {
