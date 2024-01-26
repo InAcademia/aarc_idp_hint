@@ -4,7 +4,7 @@
     },
     "http://adfs-bci.ubishops.ca/adfs/services/trust": {
         "en": "Bishops University",
-        "fr": "UniversitÃ© Bishops"
+        "fr": "Université Bishop’s"
     },
     "http://adfs.brocku.ca/adfs/services/trust": {
         "en": "Brock University"
@@ -110,7 +110,7 @@
     },
     "https://cas.uqtr.ca/uqtr/idp": {
         "en": "University of Quebec at Trois-Rivieres",
-        "fr": "UniversitÃ© du QuÃ©bec Ã  Trois-RiviÃ¨res"
+        "fr": "Université du Québec à Trois-Rivières"
     },
     "https://connect.laurentian.ca/idp": {
         "en": "Laurentian University"
@@ -177,7 +177,7 @@
     },
     "https://idp.teluq.ca/saml-idp/saml2/idp/metadata.php": {
         "en": "TELUQ University",
-        "fr": "UniversitÃ© TELUQ"
+        "fr": "Université TÉLUQ"
     },
     "https://idp.torontomu.ca/idp/shibboleth": {
         "en": "Toronto Metropolitan University"
