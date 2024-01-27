@@ -1255,10 +1255,6 @@
             "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
             "pt-br": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais"
         },
-        "https://idp.incor.usp.br/idp/shibboleth": {
-            "en": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo",
-            "pt-br": "INCOR HCFMUSP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo"
-        },
         "https://idp.inpa.gov.br/idp/shibboleth": {
             "en": "INPA - Instituto Nacional de Pesquisas da Amazonia",
             "pt-br": "INPA - Instituto Nacional de Pesquisas da Amazonia"
@@ -1366,10 +1362,6 @@
         "https://idp.unitins.br/idp/shibboleth": {
             "en": "UNITINS - Universidade Estadual do Tocantins",
             "pt-br": "UNITINS - Universidade Estadual do Tocantins"
-        },
-        "https://idp.uscs.edu.br/idp/shibboleth": {
-            "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
-            "pt-br": "USCS - Universidade Municipal de Sao Caetano do Sul"
         },
         "https://idp01.linea.org.br/idp/shibboleth": {
             "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
