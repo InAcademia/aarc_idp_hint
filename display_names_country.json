@@ -452,6 +452,9 @@
         "https://idp.kuet.ac.bd/idp/shibboleth": {
             "en": "Khulna University of Engineering and Technology"
         },
+        "https://idp.nu.ac.bd/idp/shibboleth": {
+            "en": "National University Bangladesh"
+        },
         "https://idp.sau.edu.bd/idp/shibboleth": {
             "en": "Sher-e-Bangla Agricultural University"
         },
