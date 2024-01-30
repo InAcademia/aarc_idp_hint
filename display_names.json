@@ -1522,6 +1522,7 @@
     "https://idp.ens-rennes.fr/idp/shibboleth": "ENS Rennes",
     "https://idp.ensae.fr/saml2/idp/metadata.php": "ENSAE - École Nationale de la Statistique et de l'Administration Économique",
     "https://idp.ensam.eu/idp/shibboleth": "Ecole Nationale Supérieure d'Arts et Métiers - MFA",
+    "https://idp.ensci.com/idp/shibboleth": "ENSCI",
     "https://idp.enscm.fr/idp/shibboleth": "ENSCM - Ecole Nationale Supérieure de Chimie de Montpellier",
     "https://idp.ensfea.fr/idp/shibboleth": "ENSFEA",
     "https://idp.ensma.fr/idp/shibboleth": "ENSMA - Ecole Nationale Supérieure de Mécanique et d'Aérotechnique",

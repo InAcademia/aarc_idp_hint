@@ -451,6 +451,10 @@
         "en": "Ecole Nationale Supérieure d'Arts et Métiers - MFA",
         "fr": "Ecole Nationale Supérieure d'Arts et Métiers - MFA"
     },
+    "https://idp.ensci.com/idp/shibboleth": {
+        "en": "ENSCI",
+        "fr": "ENSCI"
+    },
     "https://idp.enscm.fr/idp/shibboleth": {
         "en": "ENSCM - Ecole Nationale Supérieure de Chimie de Montpellier",
         "fr": "ENSCM - Ecole Nationale Supérieure de Chimie de Montpellier"
