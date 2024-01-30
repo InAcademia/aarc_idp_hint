@@ -4873,6 +4873,10 @@
             "en": "Zhengzhou University of Light Industry",
             "zh": "郑州轻工业大学(Zhengzhou University of Light Industry)"
         },
+        "https://idp.zzut.edu.cn/idp/shibboleth": {
+            "en": "Zhengzhou University of Technology",
+            "zh": "郑州工程技术学院(Zhengzhou University of Technology)"
+        },
         "https://idp2.tongji.edu.cn/idp/shibboleth": {
             "en": "Tongji University",
             "zh": "同济大学(Tongji University)"
