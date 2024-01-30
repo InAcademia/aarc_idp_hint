@@ -7179,7 +7179,7 @@
         },
         "https://shibboleth-idp.uni-wuerzburg.de/idp/shibboleth": {
             "de": "Universität Würzburg",
-            "en": "University of Wuerzburg"
+            "en": "University of Wuerzburg (Würzburg)"
         },
         "https://shibboleth.dhbw-karlsruhe.de/idp/shibboleth": {
             "de": "DHBW Karlsruhe",
@@ -8029,10 +8029,6 @@
         "https://id.artun.ee/simplesaml/saml2/idp/metadata.php": {
             "en": "IdP of Estonian Academy of Arts",
             "et": "Eesti Kunstiakadeemia IdP"
-        },
-        "https://idp.taltech.ee/saml-idp-taat": {
-            "en": "TalTech",
-            "et": "TalTech"
         },
         "https://idp.ttu.ee/simplesaml/saml2/idp/metadata.php": {
             "en": "TalTech",
@@ -13603,10 +13599,6 @@
             "en": "Lentiz Onderwijsgroep",
             "nl": "Lentiz Onderwijsgroep"
         },
-        "http://adfs.nivel.nl/adfs/services/trust": {
-            "en": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)",
-            "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"
-        },
         "http://adfs.onderwijsgroepnoord.nl/adfs/services/trust": {
             "en": "Onderwijsgroep Noord",
             "nl": "Onderwijsgroep Noord"
@@ -14182,6 +14174,10 @@
         "https://sts.windows.net/d463b487-b035-4a2c-9e71-b8d599eb3d0f/": {
             "en": "Theologische Universiteit Kampen",
             "nl": "Theologische Universiteit Kampen"
+        },
+        "https://sts.windows.net/dde2f31a-0733-4e4e-8460-14217d31ded5/": {
+            "en": "Netherlands Institute for Health Services Research (NIVEL)",
+            "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"
         },
         "https://sts.windows.net/e3b461c3-cfd0-4566-b686-df4ec047ebd8/": {
             "en": "Zadkine",
