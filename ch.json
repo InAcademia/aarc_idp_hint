@@ -121,8 +121,8 @@
         "en": "SLSP - Swiss Library Service Platform Staff"
     },
     "https://aai-logon.switch.ch/idp/shibboleth": {
-        "de": "SWITCH Mitarbeitende",
-        "en": "SWITCH Staff"
+        "de": "Switch Mitarbeitende",
+        "en": "Switch Staff"
     },
     "https://aai-logon.uni.li/idp/shibboleth": {
         "de": "Universität Liechtenstein",
