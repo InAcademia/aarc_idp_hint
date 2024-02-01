@@ -375,6 +375,10 @@
         "de": "DHBW Heilbronn",
         "en": "DHBW Heilbronn"
     },
+    "https://idp.helmholtz-berlin.de/idp/shibboleth": {
+        "de": "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB)",
+        "en": "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB)"
+    },
     "https://idp.helmholtz-hzi.de/idp/shibboleth": {
         "de": "Helmholtz-Zentrum für Infektionsforschung GmbH [HZI]",
         "en": "Helmholtz Centre for Infection Research GmbH [HZI]"
