@@ -134,6 +134,10 @@
         "en": "Saitama University",
         "ja": "埼玉大学"
     },
+    "https://idp.kindai.ac.jp/idp/shibboleth": {
+        "en": "Kindai University",
+        "ja": "近畿大学"
+    },
     "https://idp.kochi-tech.ac.jp/idp/shibboleth": {
         "en": "Kochi University of Technology",
         "ja": "高知工科大学"

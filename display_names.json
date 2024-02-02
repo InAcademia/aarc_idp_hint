@@ -2106,6 +2106,7 @@
     "https://idp.kif.kg/simplesaml/saml2/idp/metadata.php": "KIF-IDP",
     "https://idp.kigam.re.kr/idp/simplesamlphp": "Korea Institute of Geoscience and Mineral resources",
     "https://idp.kimlik.erzurum.edu.tr/yetkim/metadata.xml": "Erzurum Technical University",
+    "https://idp.kindai.ac.jp/idp/shibboleth": "Kindai University",
     "https://idp.kingston-college.ac.uk/idp/shibboleth": "South Thames Colleges Group",
     "https://idp.kingston.ac.uk/shibboleth": "Kingston University London",
     "https://idp.kirkleescollege.ac.uk/entity": "Kirklees College",
