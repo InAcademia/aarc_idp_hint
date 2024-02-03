@@ -544,8 +544,8 @@
         "pt-br": "IFAC - Instituto Federal do Acre"
     },
     "https://idp.ifg.edu.br/idp/shibboleth": {
-        "en": "IFG - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DE GOIAS",
-        "pt-br": "IFG - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DE GOIAS"
+        "en": "IFG - Instituto Federal de Educacao Ciencia e Tecnologia de Goias",
+        "pt-br": "IFG - Instituto Federal de Educacao Ciencia e Tecnologia de Goias"
     },
     "https://idp.ifpa.edu.br/idp/shibboleth": {
         "en": "IFPA - Instituto Federal do Para",
@@ -632,8 +632,8 @@
         "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
     },
     "https://idp.unifacef.edu.br/idp/shibboleth": {
-        "en": "UNI-FACEF - CENTRO UNIVERSITARIO MUNICIPAL DE FRANCA - UNI-FACEF - Centro Universitario Municipal de Franca",
-        "pt-br": "UNI-FACEF - CENTRO UNIVERSITARIO MUNICIPAL DE FRANCA - UNI-FACEF - Centro Universitario Municipal de Franca"
+        "en": "UNI-FACEF - Centro Universitario Municipal de Franca",
+        "pt-br": "UNI-FACEF - Centro Universitario Municipal de Franca"
     },
     "https://idp.unifap.br/idp/shibboleth": {
         "en": "UNIFAP - Universidade Federal do Amapa",
