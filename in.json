@@ -536,6 +536,9 @@
     "https://library.nid.ac.in/idp/shibboleth": {
         "en": "National Institute of Design, Andhra Pradesh"
     },
+    "https://library.vbu.ac.in/idp/shibboleth": {
+        "en": "Vinoba Bhave University"
+    },
     "https://libraryidp.iisc.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Science, Bengaluru"
     },
