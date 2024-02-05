@@ -55,6 +55,10 @@
         "en": "China West Normal University",
         "zh": "西华师范大学(China West Normal University)"
     },
+    "https://idp-lib.gmc.edu.cn/idp/shibboleth": {
+        "en": "Guizhou Medical University",
+        "zh": "贵州医科大学(Guizhou Medical University)"
+    },
     "https://idp-lib.gxmu.edu.cn/idp/shibboleth": {
         "en": "Guangxi Medical University",
         "zh": "广西医科大学(Guangxi Medical University)"
