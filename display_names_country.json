@@ -18396,6 +18396,9 @@
         "https://auth.owens.edu": {
             "en": "Owens Community College"
         },
+        "https://auth.sbcc.edu": {
+            "en": "Santa Barbara City College"
+        },
         "https://auth.unk.edu/idp/shibboleth": {
             "en": "University of Nebraska At Kearney"
         },
@@ -18797,9 +18800,6 @@
         },
         "https://idp.rice.edu/idp/shibboleth": {
             "en": "Rice University"
-        },
-        "https://idp.sbcc.edu/idp/shibboleth": {
-            "en": "Santa Barbara City College"
         },
         "https://idp.scccd.edu/idp/shibboleth": {
             "en": "State Center Community College District"
