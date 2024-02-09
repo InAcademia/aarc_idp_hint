@@ -12404,6 +12404,10 @@
             "en": "Osaka University of Economics",
             "ja": "大阪経済大学"
         },
+        "https://idp.pub.ous.ac.jp/idp/shibboleth": {
+            "en": "Okayama University of Science",
+            "ja": "岡山理科大学"
+        },
         "https://idp.scu.ac.jp/idp/shibboleth": {
             "en": "Sapporo City University",
             "ja": "札幌市立大学"
@@ -12455,6 +12459,10 @@
         "https://kidp.sasebo.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Sasebo College",
             "ja": "佐世保工業高等専門学校"
+        },
+        "https://kidp.yonago-k.ac.jp/idp/shibboleth": {
+            "en": "National Institute of Technology,Yonago College",
+            "ja": "米子工業高等専門学校"
         },
         "https://kiidp.nc-toyama.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Toyama College",
