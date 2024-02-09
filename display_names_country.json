@@ -1258,6 +1258,10 @@
             "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
             "pt-br": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais"
         },
+        "https://idp.incor.usp.br/idp/shibboleth": {
+            "en": "INCOR USP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo",
+            "pt-br": "INCOR USP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo"
+        },
         "https://idp.inpa.gov.br/idp/shibboleth": {
             "en": "INPA - Instituto Nacional de Pesquisas da Amazonia",
             "pt-br": "INPA - Instituto Nacional de Pesquisas da Amazonia"
