@@ -132,7 +132,7 @@
         "nl": "HZ University of Applied Sciences"
     },
     "http://fs.pbl.nl/adfs/services/trust": {
-        "en": "Planbureau voor de Leefomgeving",
+        "en": "PBL Netherlands Environmental Assessment Agency",
         "nl": "Planbureau voor de Leefomgeving"
     },
     "http://fs.rivm.nl/adfs/services/trust": {
@@ -188,7 +188,7 @@
         "nl": "Hogeschool Saxion"
     },
     "http://login.scp.nl/adfs/services/trust": {
-        "en": "Sociaal en Cultureel Planbureau",
+        "en": "The Netherlands Institute for Social Research",
         "nl": "Sociaal en Cultureel Planbureau"
     },
     "http://login.surf.nl/adfs/services/trust": {
@@ -360,7 +360,7 @@
         "nl": "ROC Gilde Opleidingen"
     },
     "https://sts.hu.nl/adfs/services/trust": {
-        "en": "Hogeschool Utrecht",
+        "en": "University of Applied Sciences Utrecht",
         "nl": "Hogeschool Utrecht"
     },
     "https://sts.windows.net/016a9e48-ba0b-49f4-97f8-a88352164e58/": {
