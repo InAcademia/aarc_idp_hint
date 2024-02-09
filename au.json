@@ -14,6 +14,9 @@
     "https://idp.actorscentreaustralia.com.au/idp/shibboleth": {
         "en": "Actors Centre Australia"
     },
+    "https://idp.canberra.edu.au/idp/shibboleth": {
+        "en": "University of Canberra"
+    },
     "https://idp.caudit.edu.au/idp/shibboleth": {
         "en": "CAUDIT"
     },
