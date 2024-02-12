@@ -1119,6 +1119,10 @@
         "de": "Leibniz-Gemeinschaft - Geschäftsstelle",
         "en": "Leibniz-Association - Headquarters"
     },
+    "https://login.lin-magdeburg.de/idp/shibboleth": {
+        "de": "Leibniz-Institut fuer Neurobiologie",
+        "en": "Leibniz Institute for Neurobiology"
+    },
     "https://login.rz.rwth-aachen.de/shibboleth": {
         "de": "RWTH Aachen University",
         "en": "RWTH Aachen University"
