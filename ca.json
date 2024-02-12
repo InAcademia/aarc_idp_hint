@@ -102,7 +102,7 @@
         "fr": "Université du Québec en Outaouais"
     },
     "https://caf-fsso.smu.ca/idp/shibboleth": {
-        "en": "Saint Mary's University Federated Single Sign-On(SSO)"
+        "en": "Saint Mary&#039;s University Authentication Bridge"
     },
     "https://cas.hec.ca/idp/metadata": {
         "en": "HEC Montreal",
