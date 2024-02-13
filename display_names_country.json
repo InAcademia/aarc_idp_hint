@@ -14612,6 +14612,10 @@
             "en": "Pomeranian University in Słupsk",
             "pl": "Akademia Pomorska w Słupsku"
         },
+        "https://idp.ifj.edu.pl/": {
+            "en": "Institute of Nuclear Physics Polish Academy of Sciences",
+            "pl": "Instytut Fizyki Jądrowej Polskiej Akademii Nauk"
+        },
         "https://idp.ipipan.waw.pl/idp/shibboleth": {
             "en": "Institute of Computer Science PAS",
             "pl": "Instytut Podstaw Informatyki PAN"
@@ -14631,6 +14635,10 @@
         "https://idp.task.gda.pl/idp/shibboleth": {
             "en": "TASK Gdansk",
             "pl": "TASK Gdańsk"
+        },
+        "https://idp.ue.poznan.pl/idp/shibboleth": {
+            "en": "Poznan University of Economics and Business",
+            "pl": "Uniwersytet Ekonomiczny w Poznaniu"
         },
         "https://idp.ug.edu.pl/idp/shibboleth": {
             "en": "University of Gdańsk",
