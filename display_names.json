@@ -5029,6 +5029,7 @@
     "https://swamid2.shh.se/idp/shibboleth": "Sophiahemmet University",
     "https://taat.eamt.ee/taat/saml2/idp/metadata.php": "Estonian Academy of Music and Theatre",
     "https://taat2.tktk.ee/simplesamlphp/saml2/idp/metadata.php": "Tallinna Tehnikakõrgkool",
+    "https://taatleja.eenet.ee/sso/saml2/idp/metadata.php": "EENet",
     "https://tamana.msh-paris.fr/idp/shibboleth": "FMSH Fondation Maison des Sciences de l'Homme",
     "https://telambu.rjt.ac.lk/idp/shibboleth": "Rajarata University of Sri Lanka",
     "https://tgu.u-gakugei.ac.jp/idp/shibboleth": "Tokyo Gakugei University",

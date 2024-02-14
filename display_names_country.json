@@ -8090,6 +8090,10 @@
         "https://taat2.tktk.ee/simplesamlphp/saml2/idp/metadata.php": {
             "en": "Tallinna Tehnikakõrgkool",
             "et": "TTK University of Applied Sciences"
+        },
+        "https://taatleja.eenet.ee/sso/saml2/idp/metadata.php": {
+            "en": "EENet",
+            "et": "EENet"
         }
     },
     "es": {
