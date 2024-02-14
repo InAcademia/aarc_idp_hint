@@ -2367,8 +2367,8 @@
             "en": "CERN"
         },
         "https://eduid.ch/idp/shibboleth": {
-            "de": "SWITCH edu-ID",
-            "en": "SWITCH edu-ID"
+            "de": "Switch edu-ID",
+            "en": "Switch edu-ID"
         },
         "https://idp.chuv.ch/idp/shibboleth": {
             "en": "CHUV - Centre hospitalier universitaire vaudois",
