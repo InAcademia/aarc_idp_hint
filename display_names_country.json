@@ -11841,6 +11841,10 @@
             "en": "IRCCS Istituto Tumori 'Giovanni Paolo II' - Bari",
             "it": "IRCCS Istituto Tumori 'Giovanni Paolo II' - Bari"
         },
+        "https://idp-izs-sardegna.idpcloud.garr.it/metadata": {
+            "en": "IZS della Sardegna",
+            "it": "IZS della Sardegna"
+        },
         "https://idp-maugeri.irccs.garr.it/idp/shibboleth": {
             "en": "IRCCS ICS Maugeri - Pavia",
             "it": "IRCCS ICS Maugeri - Pavia"
