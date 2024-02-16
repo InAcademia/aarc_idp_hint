@@ -9221,6 +9221,10 @@
             "en": "Université de Guyane",
             "fr": "Université de Guyane"
         },
+        "https://idp-v4.univ-montp3.fr/idp/shibboleth": {
+            "en": "university of Montpellier 3",
+            "fr": "Université Paul-Valéry Montpellier 3"
+        },
         "https://idp.beauxartsnantes.fr/idp/shibboleth": {
             "en": "Ecole des beaux-arts de Nantes Saint-Nazaire",
             "fr": "Ecole des beaux-arts de Nantes Saint-Nazaire"
