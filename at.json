@@ -145,7 +145,7 @@
     },
     "https://idp.zid.tuwien.ac.at/saml2": {
         "de": "Technische Universität Wien",
-        "en": "Vienna University of Technology"
+        "en": "TU Wien"
     },
     "https://login.bruckneruni.at/idp/shibboleth": {
         "de": "Anton Bruckner Privatuniversität",
