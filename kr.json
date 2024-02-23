@@ -74,6 +74,9 @@
     "https://kafe.unist.ac.kr/idp/simplesamlphp": {
         "en": "Ulsan National Institute of Science and Technology"
     },
+    "https://kafe.yonsei.ac.kr/idp/simplesamlphp": {
+        "en": "Yonsei University"
+    },
     "https://kafegw.snu.ac.kr/idp/simplesamlphp": {
         "en": "Seoul National University"
     },
