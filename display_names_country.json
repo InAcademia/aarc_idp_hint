@@ -13634,10 +13634,6 @@
             "en": "Hotelschool The Hague",
             "nl": "Hotelschool The Hague"
         },
-        "http://adfs.hsmarnix.nl/adfs/services/trust": {
-            "en": "Marnix Academie (Old)",
-            "nl": "Marnix Academie (Oud)"
-        },
         "http://adfs.hvhl.nl/adfs/services/trust": {
             "en": "Van Hall Larenstein, University of Applied Sciences",
             "nl": "Hogeschool Van Hall Larenstein"
@@ -14257,6 +14253,10 @@
         "https://sts.windows.net/feb69ed2-ab8f-43da-966d-d7d6248b769e/": {
             "en": "Vista College",
             "nl": "Vista College"
+        },
+        "https://sts.windows.net/ff56fa76-957f-4630-9137-388f9de7f854/": {
+            "en": "Marnix Academie",
+            "nl": "Marnix Academie"
         }
     },
     "no": {
