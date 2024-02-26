@@ -19173,9 +19173,6 @@
         "https://rushib.rockefeller.edu/idp/shibboleth": {
             "en": "Rockefeller University"
         },
-        "https://saml.adu.edu": {
-            "en": "AdventHealth University"
-        },
         "https://saml.nelnet.net": {
             "en": "Nelnet Business Solutions"
         },
@@ -19400,9 +19397,6 @@
         },
         "https://shibidp.utrgv.edu/idp/shibboleth": {
             "en": "University of Texas Rio Grande Valley"
-        },
-        "https://shibidp.uwgb.edu/idp/shibboleth": {
-            "en": "University of Wisconsin - Green Bay"
         },
         "https://shibidp.wcupa.edu/idp/shibboleth": {
             "en": "West Chester University of Pennsylvania"
