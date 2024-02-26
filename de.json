@@ -835,6 +835,10 @@
         "de": "Universität der Künste Berlin",
         "en": "The Berlin University of the Arts"
     },
+    "https://idp.uk-augsburg.de/idp/shibboleth": {
+        "de": "Universitätsklinikum Augsburg",
+        "en": "University Hospital of Augsburg"
+    },
     "https://idp.uni-bayreuth.de/idp/shibboleth": {
         "de": "Universität Bayreuth",
         "en": "University of Bayreuth"
