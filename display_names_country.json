@@ -8048,8 +8048,8 @@
             "et": "EENet SSO"
         },
         "https://id.artun.ee/simplesaml/saml2/idp/metadata.php": {
-            "en": "IdP of Estonian Academy of Arts",
-            "et": "Eesti Kunstiakadeemia IdP"
+            "en": "Estonian Academy of Arts",
+            "et": "Eesti Kunstiakadeemia"
         },
         "https://idp.taltech.ee/simplesaml/module.php/saml/idp/metadata": {
             "en": "Tallinn University of Technology (TalTech)",
