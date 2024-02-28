@@ -233,6 +233,9 @@
     "https://id.uakron.edu/idp/shibboleth": {
         "en": "University of Akron, Main Campus, The"
     },
+    "https://id.uwgb.edu/idp": {
+        "en": "University of Wisconsin - Green Bay"
+    },
     "https://id.uwlax.edu/idp": {
         "en": "University of Wisconsin La Crosse"
     },
