@@ -135,10 +135,6 @@
         "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul",
         "pt-br": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul"
     },
-    "https://cafe.ifsc.edu.br/idp/shibboleth": {
-        "en": "IFSC - Instituto Federal de Santa Catarina",
-        "pt-br": "IFSC - Instituto Federal de Santa Catarina"
-    },
     "https://cafe.ime.eb.br/idp/shibboleth": {
         "en": "IME - Instituto Militar de Engenharia",
         "pt-br": "IME - Instituto Militar de Engenharia"
@@ -938,6 +934,10 @@
     "https://shibboleth.ifrn.edu.br/idp/shibboleth": {
         "en": "IFRN - Instituto Federal do Rio Grande do Norte",
         "pt-br": "IFRN - Instituto Federal do Rio Grande do Norte"
+    },
+    "https://shibboleth.ifsc.edu.br/idp/shibboleth": {
+        "en": "IFSC - Instituto Federal de Santa Catarina",
+        "pt-br": "IFSC - Instituto Federal de Santa Catarina"
     },
     "https://shibboleth.ifto.edu.br/idp/shibboleth": {
         "en": "IFTO - Instituto Federal de Educacao do Tocantins",
