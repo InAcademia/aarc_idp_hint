@@ -563,6 +563,10 @@
         "cs": "Městská knihovna Kutná Hora",
         "en": "Municipal Library Kutná Hora"
     },
+    "https://knihovna-kunovice.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Kunovice",
+        "en": "Municipal Library Kunovice"
+    },
     "https://knihovna-litvinov.cz/idp/shibboleth": {
         "cs": "Městská knihovna Litvínov",
         "en": "Municipal Library in Litvinov"
@@ -675,6 +679,10 @@
         "cs": "Městská knihovna Neratovice",
         "en": "Municipal Library Neratovice"
     },
+    "https://knihovnanpaka.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Nová Paka",
+        "en": "Municipal Library Nová Paka"
+    },
     "https://knihovnaprerov.cz/idp/shibboleth": {
         "cs": "Městská knihovna v Přerově",
         "en": "Municipal Library Přerov"
@@ -682,6 +690,10 @@
     "https://knihovnapv.cz/idp/shibboleth": {
         "cs": "Městská knihovna Prostějov",
         "en": "Municipal Library Prostějov"
+    },
+    "https://knihovnasedlecprcice.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Sedlec Prčice",
+        "en": "Municipal Library Sedlec Prčice"
     },
     "https://knihovnasemily.cz/idp/shibboleth": {
         "cs": "Městská knihovna Semily",
@@ -726,6 +738,10 @@
     "https://marisa.uochb.cas.cz/simplesaml/saml2/idp/metadata.php": {
         "cs": "Ústav organické chemie a biochemie AV ČR",
         "en": "Institute of Organic Chemistry and Biochemistry AS CR"
+    },
+    "https://mkjbc.cz/idp/shibboleth": {
+        "cs": "Městská knihovna Jablonec nad Nisou",
+        "en": "Municipal Library Jablonec nad Nisou"
     },
     "https://mkkl.cz/idp/shibboleth": {
         "cs": "Městská knihovna Kladno",

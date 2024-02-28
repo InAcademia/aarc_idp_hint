@@ -79,6 +79,10 @@
         "en": "Vilnius Gediminas Technical University",
         "lt": "Vilniaus Gedimino technikos universitetas"
     },
+    "https://sso.vilniustech.lt/saml2/idp/metadata.php": {
+        "en": "VilniusTech",
+        "lt": "VilniusTech"
+    },
     "https://sso.vu.lt/SSO/saml2/idp/metadata.php": {
         "en": "Vilnius University",
         "lt": "Vilniaus universitetas"
