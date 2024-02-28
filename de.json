@@ -507,6 +507,10 @@
         "de": "Hochschule für Gesundheit",
         "en": "Hochschule für Gesundheit"
     },
+    "https://idp.hs-hannover.de/idp/shibboleth": {
+        "de": "Hochschule Hannover",
+        "en": "Hochschule Hannover"
+    },
     "https://idp.hs-harz.de/shibboleth": {
         "de": "Hochschule Harz",
         "en": "Hochschule Harz"
