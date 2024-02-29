@@ -17220,6 +17220,9 @@
         "https://idp.ifs.org.uk/openathens": {
             "en": "Institute for Fiscal Studies"
         },
+        "https://idp.istitutomarangoni.com/openathens": {
+            "en": "Istituto Marangoni Limited"
+        },
         "https://idp.istructe.org/idp/shibboleth": {
             "en": "The Institution of Structural Engineers"
         },
@@ -17804,7 +17807,7 @@
             "en": "Writtle University College"
         },
         "https://idp.wsc.ac.uk/oala/metadata": {
-            "en": "West Suffolk College"
+            "en": "Eastern Education Group"
         },
         "https://idp.www.bimm.co.uk/openathens": {
             "en": "BIMM Institute"
