@@ -14142,6 +14142,10 @@
             "en": "Mediacollege Amsterdam",
             "nl": "Mediacollege Amsterdam"
         },
+        "https://sts.windows.net/910c787e-4fb6-4a2b-9563-777b5461517a/": {
+            "en": "Trimbos Instituut (MS Azure AD)",
+            "nl": "Trimbos Instituut (MS Azure AD)"
+        },
         "https://sts.windows.net/91eab56a-a91b-4c88-a4fb-eba5c3b4ebfd/": {
             "en": "Rijn IJssel",
             "nl": "Rijn IJssel"
@@ -17221,7 +17225,7 @@
             "en": "Institute for Fiscal Studies"
         },
         "https://idp.istitutomarangoni.com/openathens": {
-            "en": "Istituto Marangoni Limited"
+            "en": "Istituto Marangoni S.r.l"
         },
         "https://idp.istructe.org/idp/shibboleth": {
             "en": "The Institution of Structural Engineers"
