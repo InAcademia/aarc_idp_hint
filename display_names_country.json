@@ -738,6 +738,10 @@
             "en": "UFRRJ - Universidade Federal Rural do Rio de Janeiro",
             "pt-br": "UFRRJ - Universidade Federal Rural do Rio de Janeiro"
         },
+        "https://cafe-idp.unicentro.br/idp/shibboleth": {
+            "en": "UNICENTRO - Universidade Estadual do Centro-Oeste",
+            "pt-br": "UNICENTRO - Universidade Estadual do Centro-Oeste"
+        },
         "https://cafe-idp.unirio.br/idp/shibboleth": {
             "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
             "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
@@ -925,10 +929,6 @@
         "https://cafe.unicap.br/idp/shibboleth": {
             "en": "UNICAP - Universidade Catolica de Pernambuco",
             "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
-        },
-        "https://cafe.unicentro.br/idp/shibboleth": {
-            "en": "UNICENTRO - Universidade Estadual do Centro-Oeste",
-            "pt-br": "UNICENTRO - Universidade Estadual do Centro-Oeste"
         },
         "https://cafe.unifesspa.edu.br/idp/shibboleth": {
             "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
