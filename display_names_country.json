@@ -858,10 +858,6 @@
             "en": "PUCPR - Pontificia Universidade Catolica do Parana",
             "pt-br": "PUCPR - Pontificia Universidade Catolica do Parana"
         },
-        "https://cafe.rn.senai.br/idp/shibboleth": {
-            "en": "CTGAS-ER - Centro de Tecnologias do Gas e Energias Renovaveis",
-            "pt-br": "CTGAS-ER - Centro de Tecnologias do Gas e Energias Renovaveis"
-        },
         "https://cafe.saude.gov.br/idp/shibboleth": {
             "en": "MS - Ministerio da Saude",
             "pt-br": "MS - Ministerio da Saude"
@@ -1793,10 +1789,6 @@
         "https://srvcafe.cgee.org.br/idp/shibboleth": {
             "en": "CGEE - Centro de Gestao e Estudos Estrategicos",
             "pt-br": "CGEE - Centro de Gestao e Estudos Estrategicos"
-        },
-        "https://srvcafe.uniso.br/idp/shibboleth": {
-            "en": "UNISO - Universidade de Sorocaba",
-            "pt-br": "UNISO - Universidade de Sorocaba"
         },
         "https://srvpidpcafe.veigadealmeida.edu.br/idp/shibboleth": {
             "en": "UVA - Universidade Veiga de Almeida",
