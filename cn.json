@@ -1615,6 +1615,10 @@
         "en": "Shandong University",
         "zh": "山东大学(Shandong University)"
     },
+    "https://idp.sdust.edu.cn/idp/shibboleth": {
+        "en": "Shandong University of Science and Technology",
+        "zh": "山东科技大学(Shandong University of Science and Technology)"
+    },
     "https://idp.sdutcm.edu.cn/idp/shibboleth": {
         "en": "Shandong University of Traditional Chinese Medicine",
         "zh": "山东中医药大学(Shandong University of Traditional Chinese Medicine)"
