@@ -92,7 +92,6 @@
     "http://adfs.tec.dk/adfs/services/trust": "TEC",
     "http://adfs.umu.se/adfs/services/trust": "Umea University",
     "http://adfs.uni.gl/adfs/services/trust": "http://adfs.uni.gl/adfs/services/trust",
-    "http://adfs.uob.edu.om/adfs/services/trust": "University of Buraimi",
     "http://adfs.uqar.ca/adfs/services/trust": "Université du Québec Ã Rimouski (UQAR)",
     "http://adfs.uqat.ca/adfs/services/trust": "Université du Québec en Abitibi-Témiscamingue",
     "http://adfs.uwsp.edu/adfs/services/trust": "University of Wisconsin - Stevens Point",
