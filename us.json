@@ -1226,6 +1226,9 @@
     "https://sso.rhoworld.com/idp": {
         "en": "Rho Federal Systems Division, Inc."
     },
+    "https://sso.rockefeller.edu": {
+        "en": "Rockefeller University (Fischer SSO)"
+    },
     "https://sso.sjeccd.edu": {
         "en": "San Jose - Evergreen Community College District"
     },
