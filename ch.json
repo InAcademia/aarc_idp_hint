@@ -226,10 +226,6 @@
         "de": "Universität Genf",
         "en": "Université de Genève"
     },
-    "https://login-idp.libraries.ch/idp/shibboleth": {
-        "de": "libraries.ch",
-        "en": "libraries.ch"
-    },
     "https://login2.supsi.ch/idp/shibboleth": {
         "en": "SUPSI - Scuola Universitaria Professionale della Svizzera Italiana",
         "it": "SUPSI - Scuola Universitaria Professionale della Svizzera Italiana"

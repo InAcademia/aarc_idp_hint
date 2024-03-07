@@ -2394,10 +2394,6 @@
             "de": "Universität Genf",
             "en": "Université de Genève"
         },
-        "https://login-idp.libraries.ch/idp/shibboleth": {
-            "de": "libraries.ch",
-            "en": "libraries.ch"
-        },
         "https://login2.supsi.ch/idp/shibboleth": {
             "en": "SUPSI - Scuola Universitaria Professionale della Svizzera Italiana",
             "it": "SUPSI - Scuola Universitaria Professionale della Svizzera Italiana"
@@ -3469,6 +3465,10 @@
         "https://idp.hue.edu.cn/idp/shibboleth": {
             "en": "Hubei University of Education",
             "zh": "湖北第二师范学院(Hubei University of Education)"
+        },
+        "https://idp.huel.edu.cn/idp/shibboleth": {
+            "en": "Henan University of Economics and Law",
+            "zh": "河南财经政法大学(Henan University of Economics and Law)"
         },
         "https://idp.hufe.edu.cn/idp/shibboleth": {
             "en": "HUNAN UNIVERSITY OF FINANCE AND ECONOMICS",
