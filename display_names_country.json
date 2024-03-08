@@ -1155,6 +1155,10 @@
             "en": "UFRA - Universidade Federal Rural da Amazonia",
             "pt-br": "UFRA - Universidade Federal Rural da Amazonia"
         },
+        "https://idp-cafe.uneb.br/idp/shibboleth": {
+            "en": "UNEB - Universidade do Estado da Bahia",
+            "pt-br": "UNEB - Universidade do Estado da Bahia"
+        },
         "https://idp-cafe.unifal-mg.edu.br/idp/shibboleth": {
             "en": "UNIFAL-MG - Universidade Federal de Alfenas",
             "pt-br": "UNIFAL-MG - Universidade Federal de Alfenas"
@@ -1498,10 +1502,6 @@
         "https://itacare.bahiana.edu.br/idp/shibboleth": {
             "en": "EBMSP - Escola Bahiana de Medicina e Saude Publica",
             "pt-br": "EBMSP - Escola Bahiana de Medicina e Saude Publica"
-        },
-        "https://itapicuru.uneb.br/idp/shibboleth": {
-            "en": "UNEB - Universidade do Estado da Bahia",
-            "pt-br": "UNEB - Universidade do Estado da Bahia"
         },
         "https://josue.uenp.edu.br/idp/shibboleth": {
             "en": "UENP - Universidade Estadual do Norte do Parana",
