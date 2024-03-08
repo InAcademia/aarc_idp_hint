@@ -3466,6 +3466,10 @@
             "en": "Hubei University of Education",
             "zh": "湖北第二师范学院(Hubei University of Education)"
         },
+        "https://idp.huel.edu.cn/idp/shibboleth": {
+            "en": "Henan University of Economics and Law",
+            "zh": "河南财经政法大学(Henan University of Economics and Law)"
+        },
         "https://idp.hufe.edu.cn/idp/shibboleth": {
             "en": "HUNAN UNIVERSITY OF FINANCE AND ECONOMICS",
             "zh": "湖南财政经济学院(HUNAN UNIVERSITY OF FINANCE AND ECONOMICS)"
@@ -11002,8 +11006,8 @@
             "en": "National University of Ireland"
         },
         "https://idp.nuigalway.ie/shibboleth": {
-            "en": "University of Galway",
-            "ga": "Ollscoil na Gaillimhe"
+            "en": "Ollscoil na Gaillimhe - University of Galway",
+            "ga": "Ollscoil na Gaillimhe - University of Galway"
         },
         "https://idp.nuim.ie/idp/shibboleth": {
             "en": "Maynooth University"
