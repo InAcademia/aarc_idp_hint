@@ -3151,6 +3151,10 @@
             "en": "Guangdong University of Finance and Economics",
             "zh": "广东财经大学(Guangdong University of Finance and Economics)"
         },
+        "https://idp.gdust.edu.cn/idp/shibboleth": {
+            "en": "Guangdong University of Science & Technology",
+            "zh": "广东科技学院(Guangdong University of Science & Technology)"
+        },
         "https://idp.gkd.edu.cn/idp/shibboleth": {
             "en": "Guangzhou Vocational and Technical University of Science and Technology",
             "zh": "广州科技职业技术大学(Guangzhou Vocational and Technical University of Science and Technology)"
@@ -3934,6 +3938,10 @@
         "https://idp.pxu.edu.cn/idp/shibboleth": {
             "en": "Pingxiang University",
             "zh": "萍乡学院(Pingxiang University)"
+        },
+        "https://idp.pymc.edu.cn/idp/shibboleth": {
+            "en": "Puyang Medical College",
+            "zh": "濮阳医学高等专科学校(Puyang Medical College)"
         },
         "https://idp.qdbhu.edu.cn/idp/shibboleth": {
             "en": "QingDao BinHai University",
