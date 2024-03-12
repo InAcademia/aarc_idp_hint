@@ -1791,6 +1791,10 @@
             "en": "CGEE - Centro de Gestao e Estudos Estrategicos",
             "pt-br": "CGEE - Centro de Gestao e Estudos Estrategicos"
         },
+        "https://srvcafe.uniso.br/idp/shibboleth": {
+            "en": "UNISO - Universidade de Sorocaba",
+            "pt-br": "UNISO - Universidade de Sorocaba"
+        },
         "https://srvpidpcafe.veigadealmeida.edu.br/idp/shibboleth": {
             "en": "UVA - Universidade Veiga de Almeida",
             "pt-br": "UVA - Universidade Veiga de Almeida"
