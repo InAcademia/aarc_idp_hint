@@ -7079,10 +7079,6 @@
             "de": "Filmuniversität Babelsberg KONRAD WOLF",
             "en": "Filmuniversity Babelsberg KONRAD WOLF"
         },
-        "https://radius.ice.mpg.de/idp/shibboleth": {
-            "de": "Max Planck Institut fuer chemische Oekologie",
-            "en": "Max Planck Institute for Chemical Ecology"
-        },
         "https://saml.daad.de/saml2/idp/metadata.php": {
             "de": "DAAD-ID",
             "en": "DAAD ID"
