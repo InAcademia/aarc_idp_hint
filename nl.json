@@ -95,10 +95,6 @@
         "en": "Leids Universitair Medisch Centrum",
         "nl": "Leids Universitair Medisch Centrum"
     },
-    "http://federatie.trimbos.nl/adfs/services/trust": {
-        "en": "Trimbos Instituut (Old)",
-        "nl": "Trimbos Instituut (Oud)"
-    },
     "http://federation.graafschapcollege.nl/adfs/services/trust": {
         "en": "Graafschap College",
         "nl": "Graafschap College"
