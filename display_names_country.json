@@ -8088,10 +8088,6 @@
             "en": "Estonian Academy of Arts",
             "et": "Eesti Kunstiakadeemia"
         },
-        "https://idp.taltech.ee/simplesaml/module.php/saml/idp/metadata": {
-            "en": "Tallinn University of Technology (TalTech)",
-            "et": "Tallinna Tehnikaülikool (TalTech)"
-        },
         "https://idp.ttu.ee/simplesaml/saml2/idp/metadata.php": {
             "en": "TalTech",
             "et": "TalTech"
