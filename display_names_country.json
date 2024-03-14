@@ -731,6 +731,10 @@
             "en": "IFNMG - Instituto Federal do Norte de Minas Gerais",
             "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
         },
+        "https://cafe-idp.ufc.br/idp/shibboleth": {
+            "en": "UFC - Universidade Federal do Ceara",
+            "pt-br": "UFC - Universidade Federal do Ceara"
+        },
         "https://cafe-idp.ufrrj.br/idp/shibboleth": {
             "en": "UFRRJ - Universidade Federal Rural do Rio de Janeiro",
             "pt-br": "UFRRJ - Universidade Federal Rural do Rio de Janeiro"
@@ -1142,10 +1146,6 @@
         "https://idp-cafe.uea.edu.br/idp/shibboleth": {
             "en": "UEA - Universidade do Estado do Amazonas",
             "pt-br": "UEA - Universidade do Estado do Amazonas"
-        },
-        "https://idp-cafe.ufc.br/idp/shibboleth": {
-            "en": "UFC - Universidade Federal do Ceara",
-            "pt-br": "UFC - Universidade Federal do Ceara"
         },
         "https://idp-cafe.ufcspa.edu.br/idp/shibboleth": {
             "en": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre",
