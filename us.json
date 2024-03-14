@@ -410,6 +410,9 @@
     "https://idp.iastate.edu/shibboleth": {
         "en": "Iowa State University"
     },
+    "https://idp.iit.edu/idp": {
+        "en": "Illinois Institute of Technology"
+    },
     "https://idp.jefferson.edu/idp/shibboleth": {
         "en": "Thomas Jefferson University"
     },
