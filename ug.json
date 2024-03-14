@@ -20,6 +20,9 @@
     "https://idp.mengohospital.org/idp/shibboleth": {
         "en": "Mengo Hospital"
     },
+    "https://idp.ndu.ac.ug/idp/shibboleth": {
+        "en": "Ndejje University IdP"
+    },
     "https://idp.renu.ac.ug/shibboleth": {
         "en": "Research and Education Network for Uganda"
     },
