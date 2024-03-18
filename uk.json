@@ -379,9 +379,6 @@
     "https://idp.citysun.ac.uk/shibboleth": {
         "en": "Education Partnership North East"
     },
-    "https://idp.cnwl.ac.uk/idp/shibboleth": {
-        "en": "College North West London"
-    },
     "https://idp.col-westanglia.ac.uk/openathens": {
         "en": "The College of West Anglia"
     },
@@ -426,9 +423,6 @@
     },
     "https://idp.cumbria.ac.uk/idp/shibboleth": {
         "en": "University of Cumbria"
-    },
-    "https://idp.cwc.ac.uk/idp/shibboleth": {
-        "en": "City of Westminster College"
     },
     "https://idp.darlington.ac.uk/openathens": {
         "en": "Darlington College"

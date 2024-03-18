@@ -9407,8 +9407,8 @@
             "fr": "ENSMA - Ecole Nationale Supérieure de Mécanique et d'Aérotechnique"
         },
         "https://idp.ent.dauphine.fr/idp/shibboleth": {
-            "en": "Université de Paris 9 - Dauphine",
-            "fr": "Université de Paris 9 - Dauphine"
+            "en": "Université Dauphine - PSL",
+            "fr": "Université Dauphine - PSL"
         },
         "https://idp.epita.fr/idp/shibboleth": {
             "en": "The school of engineers in computer intelligence (EPITA)",
@@ -17045,9 +17045,6 @@
         "https://idp.citysun.ac.uk/shibboleth": {
             "en": "Education Partnership North East"
         },
-        "https://idp.cnwl.ac.uk/idp/shibboleth": {
-            "en": "College North West London"
-        },
         "https://idp.col-westanglia.ac.uk/openathens": {
             "en": "The College of West Anglia"
         },
@@ -17092,9 +17089,6 @@
         },
         "https://idp.cumbria.ac.uk/idp/shibboleth": {
             "en": "University of Cumbria"
-        },
-        "https://idp.cwc.ac.uk/idp/shibboleth": {
-            "en": "City of Westminster College"
         },
         "https://idp.darlington.ac.uk/openathens": {
             "en": "Darlington College"
