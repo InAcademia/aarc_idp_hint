@@ -136,10 +136,6 @@
         "da": "Region Sjælland",
         "en": "Region Zealand"
     },
-    "https://accounts.google.com/o/saml2?idpid=C01p3gepr": {
-        "da": "Det Danske Sprog- og Litteraturselskab",
-        "en": "Society for Danish Language and Literature"
-    },
     "https://adfs.smk.dk/adfs/services/trust": {
         "da": "Statens Museum for Kunst – SMK",
         "en": "National Gallery of Denmark – SMK"
@@ -269,6 +265,10 @@
     "https://wayf.drcmr.dk/auth": {
         "da": "MR-Forskningssektionen (DRCMR)",
         "en": "Danish Research Centre for Magnetic Resonance"
+    },
+    "https://wayf.dsl.dk/saml2/idp/metadata.php": {
+        "da": "Det Danske Sprog- og Litteraturselskab",
+        "en": "Society for Danish Language and Literature"
     },
     "https://wayf.itu.dk/saml2/idp/metadata.php": {
         "da": "IT-Universitetet i København",

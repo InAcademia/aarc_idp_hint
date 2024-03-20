@@ -7,6 +7,10 @@
         "en": "National Archives Service",
         "sv": "Riksarkivet"
     },
+    "http://fs.psshp.fi/adfs/services/trust": {
+        "en": "Kuopio University Hospital",
+        "sv": "Kuopio universitetssjukhus"
+    },
     "http://fs.valtori.fi/adfs/services/trust": {
         "en": "Government ICT Centre Valtori",
         "sv": "Statens center för informations- och kommunikationsteknik"
@@ -170,10 +174,6 @@
     "https://sso.utu.fi/auth/realms/fed": {
         "en": "University of Turku",
         "sv": "Åbo universitet"
-    },
-    "https://sts.psshp.fi/idp/haka": {
-        "en": "Kuopio University Hospital",
-        "sv": "Kuopio universitetssjukhus"
     },
     "https://tullbommen.arcada.fi/simplesaml/": {
         "en": "Arcada",

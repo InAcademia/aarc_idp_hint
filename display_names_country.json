@@ -7582,10 +7582,6 @@
             "da": "Region Sjælland",
             "en": "Region Zealand"
         },
-        "https://accounts.google.com/o/saml2?idpid=C01p3gepr": {
-            "da": "Det Danske Sprog- og Litteraturselskab",
-            "en": "Society for Danish Language and Literature"
-        },
         "https://adfs.smk.dk/adfs/services/trust": {
             "da": "Statens Museum for Kunst – SMK",
             "en": "National Gallery of Denmark – SMK"
@@ -7715,6 +7711,10 @@
         "https://wayf.drcmr.dk/auth": {
             "da": "MR-Forskningssektionen (DRCMR)",
             "en": "Danish Research Centre for Magnetic Resonance"
+        },
+        "https://wayf.dsl.dk/saml2/idp/metadata.php": {
+            "da": "Det Danske Sprog- og Litteraturselskab",
+            "en": "Society for Danish Language and Literature"
         },
         "https://wayf.itu.dk/saml2/idp/metadata.php": {
             "da": "IT-Universitetet i København",
@@ -8744,6 +8744,10 @@
             "en": "National Archives Service",
             "sv": "Riksarkivet"
         },
+        "http://fs.psshp.fi/adfs/services/trust": {
+            "en": "Kuopio University Hospital",
+            "sv": "Kuopio universitetssjukhus"
+        },
         "http://fs.valtori.fi/adfs/services/trust": {
             "en": "Government ICT Centre Valtori",
             "sv": "Statens center för informations- och kommunikationsteknik"
@@ -8907,10 +8911,6 @@
         "https://sso.utu.fi/auth/realms/fed": {
             "en": "University of Turku",
             "sv": "Åbo universitet"
-        },
-        "https://sts.psshp.fi/idp/haka": {
-            "en": "Kuopio University Hospital",
-            "sv": "Kuopio universitetssjukhus"
         },
         "https://tullbommen.arcada.fi/simplesaml/": {
             "en": "Arcada",
@@ -10081,6 +10081,10 @@
         "https://sts.windows.net/538dc00c-d9ba-4814-ab23-584b8a2baac7/": {
             "en": "Burgundy School Of Business",
             "fr": "Burgundy School Of Business"
+        },
+        "https://sts.windows.net/64b29456-0126-4baf-a07f-ec7eee1b1604/": {
+            "en": "PURPAN's Engineering School",
+            "fr": "Ecole d'Ingénieurs de PURPAN"
         },
         "https://sts.windows.net/672488e0-d004-4859-a645-9ecd3e55bf74/": {
             "en": "Rennes School of Business",
