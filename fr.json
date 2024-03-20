@@ -303,6 +303,10 @@
         "en": "INSA Centre Val de Loire",
         "fr": "INSA Centre Val de Loire"
     },
+    "https://idp-irsn.renater.fr/idp/shibboleth": {
+        "en": "IRSN - Institut de Radioprotection et de Sûreté Nucléaire",
+        "fr": "IRSN - Institut de Radioprotection et de Sûreté Nucléaire"
+    },
     "https://idp-ng.univ-st-etienne.fr/idp/shibboleth": {
         "en": "University of Saint-Etienne - Jean Monnet",
         "fr": "Université de Saint-Etienne - Jean Monnet"
