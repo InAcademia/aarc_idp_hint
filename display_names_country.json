@@ -15064,6 +15064,10 @@
             "en": "Instituto Hidrográfico",
             "pt": "Instituto Hidrográfico"
         },
+        "https://idp.iave.pt/idp/shibboleth": {
+            "en": "Instituto de Avaliação Educativa",
+            "pt": "Instituto de Avaliação Educativa"
+        },
         "https://idp.ibet.pt/idp/shibboleth": {
             "en": "Instituto da Biologia Experimental e Tecnológica",
             "pt": "Instituto da Biologia Experimental e Tecnológica"
@@ -18642,6 +18646,9 @@
         },
         "https://id.uwlax.edu/idp": {
             "en": "University of Wisconsin La Crosse"
+        },
+        "https://id.uwp.edu/idp": {
+            "en": "University of Wisconsin - Parkside"
         },
         "https://id.wnc.edu/idp": {
             "en": "Western Nevada College"
