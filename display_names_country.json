@@ -867,10 +867,6 @@
             "en": "MS - Ministerio da Saude",
             "pt-br": "MS - Ministerio da Saude"
         },
-        "https://cafe.secti.ba.gov.br/idp/shibboleth": {
-            "en": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia",
-            "pt-br": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia"
-        },
         "https://cafe.sede.embrapa.br/idp/shibboleth": {
             "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
             "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
@@ -1474,6 +1470,10 @@
         "https://idpsaocamilosp.saocamilo-sp.br/idp/shibboleth": {
             "en": "CUSC - Centro Universitario Sao Camilo",
             "pt-br": "CUSC - Centro Universitario Sao Camilo"
+        },
+        "https://idpv-cafe.redesecti.ba.gov.br/idp/shibboleth": {
+            "en": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia",
+            "pt-br": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia"
         },
         "https://idpv-cafe.secti.ba.gov.br/idp/shibboleth": {
             "en": "SECTI/BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia",
