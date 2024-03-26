@@ -703,6 +703,7 @@
     "https://fedlogin.ou.nl/fedou/saml2/idp/metadata.php": "Open Juridische hogeschool,  SchakelZone OJH",
     "https://ffunam.fairfield.edu:8443/nidp/saml2/metadata": "Fairfield University IDM",
     "https://fid.usms.ac.ma/idp/shibboleth": "USMS",
+    "https://fido.flatironinstitute.org/idp": "Flatiron Institute FIDO",
     "https://fim.temple.edu/idp/shibboleth": "Temple University",
     "https://fircroft.ac.uk/idp": "Fircroft College of Adult Education",
     "https://fjncafe.fundaj.gov.br/idp/shibboleth": "FUNDAJ - Fundacao Joaquim Nabuco",

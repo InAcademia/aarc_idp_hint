@@ -194,6 +194,9 @@
     "https://ffunam.fairfield.edu:8443/nidp/saml2/metadata": {
         "en": "Fairfield University IDM"
     },
+    "https://fido.flatironinstitute.org/idp": {
+        "en": "Flatiron Institute FIDO"
+    },
     "https://fim.temple.edu/idp/shibboleth": {
         "en": "Temple University"
     },
