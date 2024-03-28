@@ -3571,6 +3571,10 @@
             "en": "Jilin Engineering Normal University",
             "zh": "吉林工程技术师范学院(Jilin Engineering Normal University)"
         },
+        "https://idp.jlnu.edu.cn/idp/shibboleth": {
+            "en": "Jilin Normal University",
+            "zh": "吉林师范大学(Jilin Normal University)"
+        },
         "https://idp.jlsu.edu.cn/idp/shibboleth": {
             "en": "JILIN sport university",
             "zh": "吉林体育学院(JILIN sport university)"
@@ -4766,6 +4770,10 @@
         "https://idp.zafu.edu.cn/idp/shibboleth": {
             "en": "Zhejiang A&F University",
             "zh": "浙江农林大学(Zhejiang A&F University)"
+        },
+        "https://idp.zbu.edu.cn/idp/shibboleth": {
+            "en": "Zhengzhou Business University",
+            "zh": "郑州商学院(Zhengzhou Business University)"
         },
         "https://idp.zcmu.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Chinese Medical  University",
