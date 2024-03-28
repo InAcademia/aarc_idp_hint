@@ -254,6 +254,10 @@
         "en": "National Institute of Technology,Ishikawa College",
         "ja": "石川工業高等専門学校"
     },
+    "https://kidp.kct.ac.jp/idp/shibboleth": {
+        "en": "National Institute of Technology,Kitakyushu College",
+        "ja": "北九州工業高等専門学校"
+    },
     "https://kidp.sasebo.ac.jp/idp/shibboleth": {
         "en": "National Institute of Technology,Sasebo College",
         "ja": "佐世保工業高等専門学校"
