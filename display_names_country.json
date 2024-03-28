@@ -3,6 +3,9 @@
         "https://asren-iam.asren.org/idp/shibboleth": {
             "en": "ASREN"
         },
+        "https://asren-idp.asren.net/auth/realms/asren": {
+            "en": "Arab State Research and Education Network"
+        },
         "https://proxy.eduid.africa/idp/saml2": {
             "en": "eduID.africa Proxy IdP"
         },
@@ -16362,10 +16365,6 @@
         "https://kimlik.karatay.edu.tr/idp/shibboleth": {
             "en": "KTO Karatay University",
             "tr": "KTO Karatay Üniversitesi"
-        },
-        "https://kimlik.karatekin.edu.tr/idp/shibboleth": {
-            "en": "Cankiri Karatekin University",
-            "tr": "Çankırı Karatekin Üniversitesi"
         },
         "https://kimlik.kilis.edu.tr/idp/shibboleth": {
             "en": "Kilis 7 Aralik University",

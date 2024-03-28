@@ -2,6 +2,9 @@
     "https://asren-iam.asren.org/idp/shibboleth": {
         "en": "ASREN"
     },
+    "https://asren-idp.asren.net/auth/realms/asren": {
+        "en": "Arab State Research and Education Network"
+    },
     "https://proxy.eduid.africa/idp/saml2": {
         "en": "eduID.africa Proxy IdP"
     },
