@@ -374,6 +374,10 @@
         "en": "Tokyo University of Agriculture and Technology",
         "ja": "東京農工大学"
     },
+    "https://twcu.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Tokyo Woman's Christian University",
+        "ja": "東京女子大学"
+    },
     "https://twmu.ex-tic.com/auth/gakunin/saml2/assertions": {
         "en": "Tokyo Women's Medical University",
         "ja": "東京女子医科大学"

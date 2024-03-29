@@ -5068,6 +5068,7 @@
     "https://tunnistus.mpkkfu.fi/idp/shibboleth": "National Defence University",
     "https://tunnistus.pelastusopisto.fi/idp/shibboleth": "The Emergency Services College",
     "https://tunnistus.smedu.fi/idp/shibboleth": "Police University College",
+    "https://twcu.ex-tic.com/auth/gakunin/saml2/assertions": "Tokyo Woman's Christian University",
     "https://twmu.ex-tic.com/auth/gakunin/saml2/assertions": "Tokyo Women's Medical University",
     "https://ubuntunet.eduid.africa/saml2/idp/metadata.php": "UbuntuNet Alliance Staff IdP",
     "https://ucanridp.ucanr.edu/idp/shibboleth": "University of California, Agriculture and Natural Resources",
