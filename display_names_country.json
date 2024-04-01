@@ -15030,6 +15030,10 @@
             "en": "Escola Naval - Marinha Portuguesa",
             "pt": "Escola Naval - Marinha Portuguesa"
         },
+        "https://idp.esec.pt/idp/shibboleth": {
+            "en": "IPC - Escola Superior de Educação de Coimbra",
+            "pt": "IPC - Escola Superior de Educação de Coimbra"
+        },
         "https://idp.esenf.pt/idp/shibboleth": {
             "en": "Escola Superior de Enfermagem do Porto",
             "pt": "Escola Superior de Enfermagem do Porto"
@@ -15045,6 +15049,10 @@
         "https://idp.essv.ipv.pt/idp/shibboleth": {
             "en": "Escola Superior de Saude de Viseu",
             "pt": "Escola Superior de Saude de Viseu"
+        },
+        "https://idp.estescoimbra.pt/idp/shibboleth": {
+            "en": "IPC - College of Health Technology",
+            "pt": "IPC - Escola Superior de Tecnologia de Saúde"
         },
         "https://idp.estgl.ipv.pt/idp/shibboleth": {
             "en": "Escola Superior de Tecnologia e Gestão de Lamego",
