@@ -16626,6 +16626,10 @@
             "en": "Yildiz Technical University",
             "tr": "Yıldız Teknik Üniversitesi"
         },
+        "https://yetkim.yyu.edu.tr/idp/shibboleth": {
+            "en": "Van Yüzüncü Yıl University",
+            "tr": "Van Yüzüncü Yıl Üniversitesi"
+        },
         "https://yetkimidp.ku.edu.tr/idp/shibboleth": {
             "en": "Koc University",
             "tr": "Koç Üniversitesi"
