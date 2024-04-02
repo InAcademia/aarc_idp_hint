@@ -505,6 +505,10 @@
         "en": "Roma Tre University IdP",
         "it": "Università Roma Tre IdP"
     },
+    "https://idp.uniroma4.it/idp/shibboleth": {
+        "en": "University of Rome \"Foro Italico\"",
+        "it": "Università degli Studi di Roma \"Foro Italico\""
+    },
     "https://idp.unisannio.it/idp/shibboleth": {
         "en": "University of Sannio",
         "it": "Università degli Studi del Sannio"
