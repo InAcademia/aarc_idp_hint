@@ -302,6 +302,10 @@
         "en": "Okayama University",
         "ja": "岡山大学"
     },
+    "https://olive.unii.ac.jp/idp/shibboleth": {
+        "en": "University of Niigata Prefecture",
+        "ja": "新潟県立大学"
+    },
     "https://servs.lib.meiji.ac.jp/idp/shibboleth": {
         "en": "Meiji University",
         "ja": "明治大学"
