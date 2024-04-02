@@ -556,8 +556,8 @@
         "fr": "INSHEA - Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés"
     },
     "https://idp.ipb.fr/idp/shibboleth": {
-        "en": "Bordeaux INP",
-        "fr": "Bordeaux INP"
+        "en": "Bordeaux Polytechnic Institute",
+        "fr": "Institut Polytechnique de Bordeaux"
     },
     "https://idp.ipsa.fr/idp/shibboleth": {
         "en": "IPSA, Institute of Polytechnic Science and Aeronautics",
@@ -1120,8 +1120,8 @@
         "fr": "CentraleSupelec (1)"
     },
     "https://sso.bordeaux-inp.fr/idp/shibboleth": {
-        "en": "Institut Polytechnique of Bdx",
-        "fr": "Institut Polytechnique de Bdx"
+        "en": "Bordeaux INP",
+        "fr": "Bordeaux INP"
     },
     "https://sso.cnes.fr": {
         "en": "CNES",
