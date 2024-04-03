@@ -13022,11 +13022,11 @@
             "fr": "RESTENA Employees"
         },
         "https://eduID.uni.lu/simplesaml/saml2/idp/metadata.php": {
-            "en": "University of Luxembourg"
+            "en": "University of Luxembourg - Production"
         },
         "https://login.restena.lu/simplesamlphp/saml2/idp/metadata.php": {
-            "en": "Restena Users",
-            "fr": "Restena Utilisateurs"
+            "en": "RESTENA Users",
+            "fr": "RESTENA Utilisateurs"
         },
         "https://ssl.education.lu/saml/saml2/idp/metadata.php": {
             "en": "MENJE - CGIE IAM Users",
