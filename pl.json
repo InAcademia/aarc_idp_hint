@@ -95,6 +95,10 @@
         "en": "Kazimierz Pułaski University of Technology and Humanities in Radom",
         "pl": "Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu"
     },
+    "https://idm.kpu.krosno.pl/cas/idp/metadata": {
+        "en": "State University of Applied Sciences in Krosno",
+        "pl": "Państwowa Akademia Nauk Stosowanych w Krośnie"
+    },
     "https://idp.akademiasztuki.eu/idp/shibboleth": {
         "en": "Academy of Art in Szczecin",
         "pl": "Akademia Sztuki w Szczecinie"
