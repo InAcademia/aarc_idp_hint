@@ -3,8 +3,8 @@
         "en": "Luxembourg School of Business"
     },
     "https://clueless.restena.lu/simplesamlphp/saml2/idp/metadata.php": {
-        "en": "Restena Staff",
-        "fr": "Restena Employees"
+        "en": "RESTENA Staff",
+        "fr": "RESTENA Employees"
     },
     "https://eduID.uni.lu/simplesaml/saml2/idp/metadata.php": {
         "en": "University of Luxembourg"
