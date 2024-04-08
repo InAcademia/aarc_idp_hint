@@ -4006,6 +4006,10 @@
             "en": "RENMIN UNIVERSITY OF CHINA",
             "zh": "中国人民大学(RENMIN UNIVERSITY OF CHINA)"
         },
+        "https://idp.sandau.edu.cn/idp/shibboleth": {
+            "en": "Sanda University",
+            "zh": "上海杉达学院(Sanda University)"
+        },
         "https://idp.sau.edu.cn/idp/shibboleth": {
             "en": "Shenyang Aerospace University",
             "zh": "沈阳航空航天大学(Shenyang Aerospace University)"
