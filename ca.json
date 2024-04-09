@@ -172,6 +172,9 @@
     "https://idp.sfu.ca/entity": {
         "en": "Simon Fraser University"
     },
+    "https://idp.sl.on.ca/idp": {
+        "en": "St. Lawrence College of Applied Arts and Technology"
+    },
     "https://idp.stfx.ca/idp/shibboleth": {
         "en": "St. Francis Xavier University"
     },
