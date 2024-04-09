@@ -320,6 +320,9 @@
     "https://idp.modyuniversity.ac.in/idp/shibboleth": {
         "en": "Mody University of Science and Technology"
     },
+    "https://idp.msuniv.ac.in/idp/shibboleth": {
+        "en": "Manonmaniam Sundaranar University"
+    },
     "https://idp.nagalanduniversity.ac.in/idp/shibboleth": {
         "en": "Nagaland University"
     },
