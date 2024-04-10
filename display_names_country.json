@@ -1246,6 +1246,10 @@
             "en": "IFAC - Instituto Federal do Acre",
             "pt-br": "IFAC - Instituto Federal do Acre"
         },
+        "https://idp.ifg.edu.br/idp/shibboleth": {
+            "en": "IFG - Instituto Federal de Educacao Ciencia e Tecnologia de Goias",
+            "pt-br": "IFG - Instituto Federal de Educacao Ciencia e Tecnologia de Goias"
+        },
         "https://idp.ifpa.edu.br/idp/shibboleth": {
             "en": "IFPA - Instituto Federal do Para",
             "pt-br": "IFPA - Instituto Federal do Para"
