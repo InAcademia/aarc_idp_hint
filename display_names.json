@@ -4049,6 +4049,7 @@
     "https://logon.skd.museum/idp/shibboleth": "Staatliche Kunstsammlungen Dresden",
     "https://logowanie.man.pcz.pl/idp/shibboleth": "Czestochowa University of Technology",
     "https://logowanie.pg.edu.pl/idp": "Gdańsk University of Technology",
+    "https://logowanie.uek.krakow.pl/cas/idp": "Cracow University of Economics",
     "https://logowanie.us.edu.pl/idp/saml2/idp/metadata.php": "University of Silesia",
     "https://logowanie.wat.edu.pl/cas/idp/metadata": "Military University of Technology",
     "https://lse.ac.uk/idp": "LSE - London School of Economics and Political Science",

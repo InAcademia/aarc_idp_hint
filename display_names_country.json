@@ -14881,6 +14881,10 @@
             "en": "Gdańsk University of Technology",
             "pl": "Politechnika Gdańska"
         },
+        "https://logowanie.uek.krakow.pl/cas/idp": {
+            "en": "Cracow University of Economics",
+            "pl": "Uniwersytet Ekonomiczny w Krakowie"
+        },
         "https://logowanie.us.edu.pl/idp/saml2/idp/metadata.php": {
             "en": "University of Silesia",
             "pl": "Uniwersytet Śląski"
