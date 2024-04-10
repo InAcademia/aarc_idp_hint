@@ -9260,6 +9260,10 @@
             "en": "INSA Centre Val de Loire",
             "fr": "INSA Centre Val de Loire"
         },
+        "https://idp-inseamm.renater.fr/idp/shibboleth": {
+            "en": "Marseille-Méditerrannée National Institute for Artistic Studies",
+            "fr": "INSEAMM - Institut National Supérieur d'enseignement Artistique Marseille - Méditerranée"
+        },
         "https://idp-irsn.renater.fr/idp/shibboleth": {
             "en": "IRSN - Institut de Radioprotection et de Sûreté Nucléaire",
             "fr": "IRSN - Institut de Radioprotection et de Sûreté Nucléaire"
@@ -14333,6 +14337,10 @@
         "https://sts.windows.net/bbf63f12-ffda-40f9-93ee-a4e59d1649cf/": {
             "en": "ROC van Twente",
             "nl": "ROC van Twente"
+        },
+        "https://sts.windows.net/bc851b19-33cd-4f49-9d20-af45e899437b/": {
+            "en": "Leidse Instrumentmakers School",
+            "nl": "Leidse Instrumentmakers School"
         },
         "https://sts.windows.net/c2e4234e-9ccc-490e-8151-acd2ed2b1779/": {
             "en": "ArtEZ University of the Arts",
