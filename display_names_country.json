@@ -12408,6 +12408,10 @@
             "en": "Niigata University",
             "ja": "新潟大学"
         },
+        "https://idp.cc.iwate-u.ac.jp/idp/shibboleth": {
+            "en": "Iwate University",
+            "ja": "岩手大学"
+        },
         "https://idp.cis.kit.ac.jp/idp/shibboleth": {
             "en": "Kyoto Institute of Technology",
             "ja": "京都工芸繊維大学"
@@ -12579,6 +12583,10 @@
         "https://kidp.kct.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Kitakyushu College",
             "ja": "北九州工業高等専門学校"
+        },
+        "https://kidp.niihama-nct.ac.jp/idp/shibboleth": {
+            "en": "National Institute of Technology,Niihama College",
+            "ja": "新居浜工業高等専門学校"
         },
         "https://kidp.sasebo.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Sasebo College",
