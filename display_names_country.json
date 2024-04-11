@@ -4017,6 +4017,10 @@
             "en": "Quzhou College",
             "zh": "衢州学院(Quzhou College)"
         },
+        "https://idp.qzct.edu.cn/idp/shibboleth": {
+            "en": "Quzhou College of Technology",
+            "zh": "衢州职业技术学院(Quzhou College of Technology)"
+        },
         "https://idp.ruc.edu.cn/idp/shibboleth": {
             "en": "RENMIN UNIVERSITY OF CHINA",
             "zh": "中国人民大学(RENMIN UNIVERSITY OF CHINA)"
