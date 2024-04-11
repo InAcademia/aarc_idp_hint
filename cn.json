@@ -435,6 +435,10 @@
         "en": "Changchun Humanities and Sciences College",
         "zh": "长春人文学院(Changchun Humanities and Sciences College)"
     },
+    "https://idp.ccsfu.edu.cn/idp/shibboleth": {
+        "en": "Changchun Normal University",
+        "zh": "长春师范大学(Changchun Normal University)"
+    },
     "https://idp.ccu.edu.cn/idp/shibboleth": {
         "en": "CHANGCHUN UNIVERSITY",
         "zh": "长春大学(CHANGCHUN UNIVERSITY)"
@@ -1530,6 +1534,10 @@
     "https://idp.qdhhc.edu.cn/idp/shibboleth": {
         "en": "Qingdao Huanghai University",
         "zh": "青岛黄海学院(Qingdao Huanghai University)"
+    },
+    "https://idp.qdhxu.edu.cn/idp/shibboleth": {
+        "en": "HENGXING  UNIVERSITY",
+        "zh": "青岛恒星科技学院(HENGXING  UNIVERSITY)"
     },
     "https://idp.qdu.edu.cn/idp/shibboleth": {
         "en": "Qingdao University",
