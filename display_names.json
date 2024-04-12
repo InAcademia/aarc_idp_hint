@@ -4657,6 +4657,7 @@
     "https://sso-ciation-rennes.centralesupelec.fr/idp/shibboleth": "CentraleSupelec (3)",
     "https://sso-ciation-saclay.centralesupelec.fr/idp/shibboleth": "CentraleSupelec (1)",
     "https://sso-login.vanderbilt.edu": "Vanderbilt University (VU)",
+    "https://sso-rnp.insper.edu.br/idp/shibboleth": "INSPER - Instituto de Ensino e Pesquisa",
     "https://sso.agh.edu.pl/saml/metadata": "AGH University of Science and Technology",
     "https://sso.amnh.org/idp": "American Museum of Natural History - Richard Gilder Graduate School",
     "https://sso.amu.edu.pl/simplesaml/saml2/idp/metadata.php": "Adam Mickiewicz University",
