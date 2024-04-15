@@ -683,6 +683,10 @@
         "en": "UNITINS - Universidade Estadual do Tocantins",
         "pt-br": "UNITINS - Universidade Estadual do Tocantins"
     },
+    "https://idp.uscs.edu.br/idp/shibboleth": {
+        "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
+        "pt-br": "USCS - Universidade Municipal de Sao Caetano do Sul"
+    },
     "https://idp01.linea.org.br/idp/shibboleth": {
         "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
         "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
