@@ -536,6 +536,9 @@
     "https://inproxy.inflibnet.ac.in/idp/shibboleth": {
         "en": "Inproxy-INFLIBNET Centre"
     },
+    "https://iris.nitk.ac.in/saml/v2": {
+        "en": "https://iris.nitk.ac.in/saml/v2"
+    },
     "https://ldp.iiests.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Engineering Science and Technology, Shibpur"
     },
