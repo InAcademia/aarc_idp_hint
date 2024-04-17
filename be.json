@@ -141,9 +141,6 @@
     "https://secure.etnic.be/nidp/saml2/metadata": {
         "en": "FWB"
     },
-    "https://shibboleth.ephec.be/idp/shibboleth": {
-        "en": "EPHEC"
-    },
     "https://sso.irc.ugent.be/auth/realms/irc": {
         "en": "VIB-UGent IRC"
     },
