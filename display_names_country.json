@@ -569,6 +569,10 @@
             "en": "Royal Museums of Art and History, Brussels",
             "fr": "Musées royaux d'Art et d'Histoire, Bruxelles"
         },
+        "https://idp.labo.ephec.be/idp/shibboleth": {
+            "en": "EPHEC",
+            "fr": "EPHEC"
+        },
         "https://idp.observatory.be/saml2/idp/metadata.php": {
             "en": "Royal Observatory of Belgium",
             "fr": "Observatoire royal de Belgique"
@@ -8654,7 +8658,7 @@
             "es": "Universidad Nacional de Educación a Distancia"
         },
         "https://www.rediris.es/sir/unexidp": {
-            "en": "Universidad de Extremadura",
+            "en": "Universidad de Extremadura (via SIR2 Federation)",
             "es": "Universidad de Extremadura"
         },
         "https://www.rediris.es/sir/uniaidp": {
@@ -8714,7 +8718,7 @@
             "es": "Universidad Politécnica de Madrid"
         },
         "https://www.rediris.es/sir/upnaidp": {
-            "en": "Public University of Navarra",
+            "en": "Public University of Navarra (via SIR2 Federation)",
             "es": "Universidad Pública de Navarra"
         },
         "https://www.rediris.es/sir/upoidp": {
