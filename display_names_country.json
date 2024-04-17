@@ -15829,6 +15829,9 @@
         "https://nus.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "NUS - National University of Singapore"
         },
+        "https://nyp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+            "en": "NYP - Nanyang Polytechnic"
+        },
         "https://rp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "RP - Republic Polytechnic"
         },
