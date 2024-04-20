@@ -6186,6 +6186,10 @@
             "de": "ESMT Berlin",
             "en": "ESMT Berlin"
         },
+        "https://idp.eso.org/idp/shibboleth": {
+            "de": "ESO - European Southern Observatory",
+            "en": "ESO - European Southern Observatory"
+        },
         "https://idp.europa-uni.de/idp/shibboleth": {
             "de": "Europa-Universität Viadrina",
             "en": "Europa-Universität Viadrina"
