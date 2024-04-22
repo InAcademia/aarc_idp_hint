@@ -878,9 +878,6 @@
     "https://shib.bucknell.edu/idp/shibboleth": {
         "en": "Bucknell University"
     },
-    "https://shib.calu.edu/idp/shibboleth": {
-        "en": "California University of Pennsylvania"
-    },
     "https://shib.csub.edu/idp/shibboleth": {
         "en": "California State University, Bakersfield"
     },
