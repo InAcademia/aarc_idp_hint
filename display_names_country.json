@@ -10197,10 +10197,6 @@
             "en": "ESPCI Paris",
             "fr": "ESPCI Paris"
         },
-        "https://vm-idp.paris-sorbonne.fr/idp/shibboleth": {
-            "en": "Paris-Sorbonne Universite",
-            "fr": "Paris-Sorbonne Universite"
-        },
         "https://websso.esrf.fr/auth/realms/ESRF": {
             "en": "ESRF - European Synchrotron Radiation Facility",
             "fr": "ESRF - European Synchrotron Radiation Facility"
