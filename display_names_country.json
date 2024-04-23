@@ -9978,8 +9978,8 @@
             "fr": "Université de la Nouvelle-Calédonie (UNC)"
         },
         "https://shib3.mines-ales.fr/idp/shibboleth": {
-            "en": "IMT Mines Alès - Ecole Mines-Télécom",
-            "fr": "IMT Mines Alès - Ecole Mines-Télécom"
+            "en": "IMT Mines Alès",
+            "fr": "IMT Mines Alès"
         },
         "https://shibb01.ensait.fr/idp/shibboleth": {
             "en": "ENSAIT - Roubaix",
@@ -14217,6 +14217,10 @@
         "https://sts.windows.net/6200b37c-a03e-4996-ab02-6f5b017bb20f/": {
             "en": "Iselinge university of applied sciences",
             "nl": "Iselinge Hogeschool"
+        },
+        "https://sts.windows.net/6201b9c8-5a2a-430b-9419-0e3501d5eabe/": {
+            "en": "Firda",
+            "nl": "Firda"
         },
         "https://sts.windows.net/635b05eb-66c7-48e1-a94f-b4b05a1b058b/": {
             "en": "Rijksmuseum Amsterdam",
