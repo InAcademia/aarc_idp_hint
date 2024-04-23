@@ -491,6 +491,10 @@
         "en": "China Medical University",
         "zh": "中国医科大学(China Medical University)"
     },
+    "https://idp.cnaes.edu.cn/idp/shibboleth": {
+        "en": "China National Academy of Educational Sciences",
+        "zh": "中国教育科学研究院(China National Academy of Educational Sciences)"
+    },
     "https://idp.cnu.edu.cn/idp/shibboleth": {
         "en": "Capital Normal University",
         "zh": "首都师范大学(Capital Normal University)"
