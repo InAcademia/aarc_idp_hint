@@ -487,6 +487,10 @@
         "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas",
         "pt-br": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas"
     },
+    "https://idp-shib-urca.urca.br/idp/shibboleth": {
+        "en": "URCA - Universidade Regional do Cariri",
+        "pt-br": "URCA - Universidade Regional do Cariri"
+    },
     "https://idp-shib4.uespi.br/idp/shibboleth": {
         "en": "UESPI - Universidade Estadual do Piaui",
         "pt-br": "UESPI - Universidade Estadual do Piaui"
