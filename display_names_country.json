@@ -11701,7 +11701,7 @@
             "en": "Inproxy-INFLIBNET Centre"
         },
         "https://iris.nitk.ac.in/saml/v2": {
-            "en": "National Institute of Technology Karnataka, Surathkal"
+            "en": "https://iris.nitk.ac.in/saml/v2"
         },
         "https://ldp.iiests.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Engineering Science and Technology, Shibpur"
@@ -13807,8 +13807,8 @@
             "nl": "Grafisch Lyceum Utrecht"
         },
         "http://adfs.hanze.nl/adfs/services/trust": {
-            "en": "Hanze University of Applied Sciences Groningen",
-            "nl": "Hanzehogeschool Groningen"
+            "en": "Hanze University of Applied Sciences",
+            "nl": "Hanze"
         },
         "http://adfs.hdh.nl/adfs/services/trust": {
             "en": "Hotelschool The Hague",
