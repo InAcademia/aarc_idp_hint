@@ -9553,10 +9553,6 @@
             "en": "INSHEA - Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés",
             "fr": "INSHEA - Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés"
         },
-        "https://idp.ipb.fr/idp/shibboleth": {
-            "en": "Bordeaux Polytechnic Institute",
-            "fr": "Institut Polytechnique de Bordeaux"
-        },
         "https://idp.ipsa.fr/idp/shibboleth": {
             "en": "IPSA, Institute of Polytechnic Science and Aeronautics",
             "fr": "IPSA - Ecole d'ingénieurs aéronautique et spatiale"
@@ -12623,6 +12619,10 @@
         "https://jaxagakunin.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "Japan Aerospace Exploration Agency",
             "ja": "宇宙航空研究開発機構"
+        },
+        "https://kidp.anan-nct.ac.jp/idp/shibboleth": {
+            "en": "National Institute of Technology,Anan College",
+            "ja": "阿南工業高等専門学校"
         },
         "https://kidp.ishikawa-nct.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Ishikawa College",

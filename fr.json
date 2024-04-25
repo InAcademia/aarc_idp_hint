@@ -559,10 +559,6 @@
         "en": "INSHEA - Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés",
         "fr": "INSHEA - Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés"
     },
-    "https://idp.ipb.fr/idp/shibboleth": {
-        "en": "Bordeaux Polytechnic Institute",
-        "fr": "Institut Polytechnique de Bordeaux"
-    },
     "https://idp.ipsa.fr/idp/shibboleth": {
         "en": "IPSA, Institute of Polytechnic Science and Aeronautics",
         "fr": "IPSA - Ecole d'ingénieurs aéronautique et spatiale"
