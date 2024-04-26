@@ -91,6 +91,10 @@
         "en": "SWOV Institute for Road Safety Research",
         "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
     },
+    "http://fed.cpb.nl/adfs/services/trust": {
+        "en": "CPB Netherlands Bureau for Economic Policy Analysis",
+        "nl": "Centraal Planbureau"
+    },
     "http://federatie.lumc.nl/adfs/services/trust": {
         "en": "Leids Universitair Medisch Centrum",
         "nl": "Leids Universitair Medisch Centrum"
@@ -98,6 +102,10 @@
     "http://federation.graafschapcollege.nl/adfs/services/trust": {
         "en": "Graafschap College",
         "nl": "Graafschap College"
+    },
+    "http://fs.amphia.nl/adfs/services/trust": {
+        "en": "Amphia Hospital",
+        "nl": "Amphia Ziekenhuis"
     },
     "http://fs.dezb.nl/adfs/services/trust": {
         "en": "ZB Bibliotheek van Zeeland",
@@ -266,6 +274,10 @@
     "https://accounts.google.com/o/saml2?idpid=C02a9wwtv": {
         "en": "Netherlands Institute for Sound & Vision",
         "nl": "Nederlands Instituut voor Beeld & Geluid"
+    },
+    "https://adfs.cog.nl/adfs/services/trust": {
+        "en": "COG Vallei & Gelderland - Midden",
+        "nl": "COG Vallei & Gelderland - Midden"
     },
     "https://conext.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
         "en": "Radboud University",
@@ -611,6 +623,10 @@
         "en": "ROC Midden Nederland",
         "nl": "ROC Midden Nederland"
     },
+    "https://sts.windows.net/b79a547e-3653-4501-b7db-1368c2807f47/": {
+        "en": "Biblionet Groningen",
+        "nl": "Biblionet Groningen"
+    },
     "https://sts.windows.net/bbf63f12-ffda-40f9-93ee-a4e59d1649cf/": {
         "en": "ROC van Twente",
         "nl": "ROC van Twente"
@@ -666,6 +682,14 @@
     "https://sts.windows.net/ed9f3ca1-097f-493e-a129-5002e9c16d65/": {
         "en": "Princess Máxima Center",
         "nl": "Prinses Máxima Centrum"
+    },
+    "https://sts.windows.net/f0b5af24-fc09-4438-91e8-5b3d4d1742be/": {
+        "en": "Algemene Onderwijsbond",
+        "nl": "Algemene Onderwijsbond"
+    },
+    "https://sts.windows.net/f8275f3b-e146-4fc6-8151-56fef93f3c06/": {
+        "en": "Academie Artemis",
+        "nl": "Academie Artemis"
     },
     "https://sts.windows.net/fba70c80-16c2-4415-a402-fca38335609a/": {
         "en": "Yuverta",
