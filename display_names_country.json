@@ -11709,7 +11709,7 @@
             "en": "Inproxy-INFLIBNET Centre"
         },
         "https://iris.nitk.ac.in/saml/v2": {
-            "en": "https://iris.nitk.ac.in/saml/v2"
+            "en": "National Institute of Technology Karnataka, Surathkal"
         },
         "https://ldp.iiests.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Engineering Science and Technology, Shibpur"
@@ -12639,6 +12639,14 @@
         "https://kidp.kct.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Kitakyushu College",
             "ja": "北九州工業高等専門学校"
+        },
+        "https://kidp.kochi-ct.ac.jp/idp/shibboleth": {
+            "en": "National Institute of Technology,Kochi College",
+            "ja": "高知工業高等専門学校"
+        },
+        "https://kidp.kurume-nct.ac.jp/idp/shibboleth": {
+            "en": "National Institute of Technology,Kurume College",
+            "ja": "久留米工業高等専門学校"
         },
         "https://kidp.niihama-nct.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Niihama College",
