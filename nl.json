@@ -23,10 +23,6 @@
         "en": "Cito",
         "nl": "Cito"
     },
-    "http://adfs.driestar-educatief.nl/adfs/services/trust": {
-        "en": "Driestar educatief",
-        "nl": "Driestar educatief"
-    },
     "http://adfs.fryske-akademy.nl/adfs/services/trust": {
         "en": "Fryske Akademy (KNAW)",
         "nl": "Fryske Akademy (KNAW)"
@@ -608,8 +604,8 @@
         "nl": "Hoornbeeck College, Van Lodenstein College en SORG"
     },
     "https://sts.windows.net/9860fd9f-826f-475e-8862-6f2568a34e83/": {
-        "en": "Driestar educatief (New)",
-        "nl": "Driestar educatief (Nieuw)"
+        "en": "Driestar educatief",
+        "nl": "Driestar educatief"
     },
     "https://sts.windows.net/99193bd4-318d-47c6-a896-24e15f7a7e1b/": {
         "en": "Royal Tropical Institute",
