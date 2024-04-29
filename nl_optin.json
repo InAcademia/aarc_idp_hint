@@ -7,10 +7,6 @@
         "en": "Cibap Vocational College of Design",
         "nl": "Cibap vakschool voor vormgeving"
     },
-    "http://adfs.driestar-educatief.nl/adfs/services/trust": {
-        "en": "Driestar educatief",
-        "nl": "Driestar educatief"
-    },
     "http://adfs.glu.nl/adfs/services/trust": {
         "en": "Grafisch Lyceum Utrecht",
         "nl": "Grafisch Lyceum Utrecht"
@@ -278,6 +274,10 @@
     "https://sts.windows.net/91eab56a-a91b-4c88-a4fb-eba5c3b4ebfd/": {
         "en": "Rijn IJssel",
         "nl": "Rijn IJssel"
+    },
+    "https://sts.windows.net/9860fd9f-826f-475e-8862-6f2568a34e83/": {
+        "en": "Driestar educatief (New)",
+        "nl": "Driestar educatief (Nieuw)"
     },
     "https://sts.windows.net/9a1651bf-58af-435b-86a8-3e9334b4b732/": {
         "en": "Royal Netherlands Institute for Sea Research (NIOZ)",
