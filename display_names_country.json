@@ -1207,6 +1207,10 @@
             "en": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada",
             "pt-br": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada"
         },
+        "https://idp-v421.ifsp.edu.br/idp/shibboleth": {
+            "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
+            "pt-br": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo"
+        },
         "https://idp.cafe.inep.gov.br/idp/shibboleth": {
             "en": "INEP - Instituto Nacional de Estudos e Pesquisas",
             "pt-br": "INEP - Instituto Nacional de Estudos e Pesquisas"
