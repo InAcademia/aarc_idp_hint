@@ -325,10 +325,6 @@
         "el": "Σχολή Ικάρων",
         "en": "Hellenic Air Force Academy"
     },
-    "https://login.hna.gr/idp/shibboleth": {
-        "el": "Σχολή Ναυτικών Δοκίμων",
-        "en": "Hellenic Naval Academy"
-    },
     "https://login.iasa.gr/auth/saml2/idp/metadata.php": {
         "el": "Ινστιτούτο Επιταχυντικών Συστημάτων και Εφαρμογών - ΙΕΣΕ",
         "en": "Institute of Accelerating Systems and Applications - IASA"
