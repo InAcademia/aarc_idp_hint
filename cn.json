@@ -583,6 +583,10 @@
         "en": "The Chinese University of Hong Kong, Shenzhen",
         "zh": "香港中文大学（深圳）(The Chinese University of Hong Kong, Shenzhen)"
     },
+    "https://idp.cuit.edu.cn/idp/shibboleth": {
+        "en": "Chengdu University of Information Technology",
+        "zh": "成都信息工程大学(Chengdu University of Information Technology)"
+    },
     "https://idp.cumt.edu.cn/idp/shibboleth": {
         "en": "China University of Mining and Technology",
         "zh": "中国矿业大学(China University of Mining and Technology)"
