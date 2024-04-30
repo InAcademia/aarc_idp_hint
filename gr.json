@@ -372,6 +372,10 @@
         "el": "Εθνική Βιβλιοθήκη της Ελλάδος",
         "en": "National Library of Greece"
     },
+    "https://ssoidp.hna.gr/idp/shibboleth": {
+        "el": "Σχολή Ναυτικών Δοκίμων",
+        "en": "Hellenic Naval Academy"
+    },
     "https://vho.grnet.gr/idp/shibboleth": {
         "en": "https://vho.grnet.gr/idp/shibboleth"
     }
