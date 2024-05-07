@@ -218,6 +218,10 @@
         "de": "PHLU - Pädagogische Hochschule Luzern",
         "en": "PHLU - Pädagogische Hochschule Luzern"
     },
+    "https://idp.phsh.ch/idp/shibboleth": {
+        "de": "Pädagogische Hochschule Schaffhausen",
+        "en": "Pädagogische Hochschule Schaffhausen"
+    },
     "https://idp.phsz.ch/idp/shibboleth": {
         "de": "PHSZ - Pädagogische Hochschule Schwyz",
         "en": "PHSZ - Pädagogische Hochschule Schwyz"
