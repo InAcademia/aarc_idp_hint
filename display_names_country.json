@@ -18923,6 +18923,9 @@
         "https://id.uwp.edu/idp": {
             "en": "University of Wisconsin - Parkside"
         },
+        "https://id.uwsp.edu/idp": {
+            "en": "University of Wisconsin - Stevens Point - 1"
+        },
         "https://id.wnc.edu/idp": {
             "en": "Western Nevada College"
         },
