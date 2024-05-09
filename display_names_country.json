@@ -12114,6 +12114,10 @@
             "en": "https://idp.eurac.edu/idp/shibboleth",
             "it": "EURAC"
         },
+        "https://idp.fbk.eu/idp/shibboleth": {
+            "en": "Fondazione Bruno Kessler",
+            "it": "Fondazione Bruno Kessler"
+        },
         "https://idp.ictp.it/simplesaml/saml2/idp/metadata.php": {
             "en": "The Abdus Salam International Centre for Theoretical Physics (ICTP)",
             "it": "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
