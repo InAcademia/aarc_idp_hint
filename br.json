@@ -1131,6 +1131,10 @@
         "en": "UNILASALLE - Universidade La Salle",
         "pt-br": "UNILASALLE - Universidade La Salle"
     },
+    "https://svr-cafev4.unaerp.br/idp/shibboleth": {
+        "en": "UNAERP - Associacao de Ensino de Ribeirao Preto",
+        "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto"
+    },
     "https://uricafe.uricer.edu.br/idp/shibboleth": {
         "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
         "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
