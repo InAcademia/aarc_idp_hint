@@ -1083,6 +1083,10 @@
         "en": "UNIVALI - Universidade do Vale do Itajai",
         "pt-br": "UNIVALI - Universidade do Vale do Itajai"
     },
+    "https://sistema-rnp.rdc.puc-rio.br/idp/shibboleth": {
+        "en": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro",
+        "pt-br": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro"
+    },
     "https://slm00-shibboleth.slmandic.edu.br/idp/shibboleth": {
         "en": "SLM - Sao Leopoldo Mandic",
         "pt-br": "SLM - Sao Leopoldo Mandic"

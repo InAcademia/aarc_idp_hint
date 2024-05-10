@@ -4646,6 +4646,7 @@
     "https://sipuli.fmi.fi/idp/shibboleth": "Finnish Meteorological Institute",
     "https://sisekaitse.ois.ee/simplesamlphp/saml2/idp/metadata.php": "Estonian Academy of Security Sciences",
     "https://siseveeb.nooruse.ee/sso/saml2/idp/metadata.php": "Tartu Healthcare College",
+    "https://sistema-rnp.rdc.puc-rio.br/idp/shibboleth": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro",
     "https://sit.singaren.net.sg/simplesaml/saml2/idp/metadata.php": "SIT - Singapore Institute Of Technology",
     "https://skmms-idp.lanet.lv": "Riga Red Cross Medical College",
     "https://slateford.support.ukfederation.org.uk/idp/shibboleth": "Slateford support IdP for UK federation",
