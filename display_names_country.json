@@ -18797,6 +18797,9 @@
         "https://auth.yale.edu/idp/shibboleth": {
             "en": "Yale University"
         },
+        "https://auth1.isu.edu/idp": {
+            "en": "Idaho State University New"
+        },
         "https://authentic.txstate.edu/idp/shibboleth": {
             "en": "Texas State University"
         },
