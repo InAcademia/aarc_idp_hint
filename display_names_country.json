@@ -16510,10 +16510,6 @@
             "en": "Bayburt University",
             "tr": "Bayburt Üniversitesi"
         },
-        "https://kimlik.beun.edu.tr/idp/saml2/idp/metadata.php": {
-            "en": "Zonguldak Bülent Ecevit University",
-            "tr": "Zonguldak Bülent Ecevit Üniversitesi"
-        },
         "https://kimlik.bilecik.edu.tr/idp/shibboleth": {
             "en": "Bilecik Şeyh Edebali University",
             "tr": "Bilecik Şeyh Edebali Üniversitesi"
@@ -16617,10 +16613,6 @@
         "https://kimlik.kafkas.edu.tr/idp/shibboleth": {
             "en": "Kafkas University",
             "tr": "Kafkas Üniversitesi"
-        },
-        "https://kimlik.karabuk.edu.tr/idp/shibboleth": {
-            "en": "Karabuk University",
-            "tr": "Karabük Üniversitesi"
         },
         "https://kimlik.karatay.edu.tr/idp/shibboleth": {
             "en": "KTO Karatay University",
@@ -16757,10 +16749,6 @@
         "https://yetkim.balikesir.edu.tr/idp/shibboleth": {
             "en": "Balikesir University",
             "tr": "Balıkesir Üniversitesi"
-        },
-        "https://yetkim.biruni.edu.tr/idp/shibboleth": {
-            "en": "Biruni University",
-            "tr": "Biruni Üniversitesi"
         },
         "https://yetkim.ebyu.edu.tr/idp/shibboleth": {
             "en": "Erzincan Binali Yildirim University",
