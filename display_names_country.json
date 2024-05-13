@@ -3204,6 +3204,10 @@
             "en": "Guangdong Medical University",
             "zh": "广东医科大学(Guangdong Medical University)"
         },
+        "https://idp.gdou.edu.cn/idp/shibboleth": {
+            "en": "GuangDong Ocean University",
+            "zh": "广东海洋大学(GuangDong Ocean University)"
+        },
         "https://idp.gdpu.edu.cn/idp/shibboleth": {
             "en": "Guangdong Pharmaceutical University",
             "zh": "广东药科大学(Guangdong Pharmaceutical University)"
