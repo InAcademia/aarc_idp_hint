@@ -170,6 +170,9 @@
     "https://idp.iiitd.edu.in/idp/shibboleth": {
         "en": "Indraprastha Institute of Information Technology Delhi (IIIT-Delhi)"
     },
+    "https://idp.iiitdm.ac.in/idp/shibboleth": {
+        "en": "IIITDM Kancheepuram"
+    },
     "https://idp.iiitdmj.ac.in/idp/shibboleth": {
         "en": "IIITDM Jabalpur"
     },
