@@ -1393,6 +1393,10 @@
             "en": "UNITINS - Universidade Estadual do Tocantins",
             "pt-br": "UNITINS - Universidade Estadual do Tocantins"
         },
+        "https://idp.univasf.edu.br/idp/shibboleth": {
+            "en": "UNIVASF - Universidade Federal do Vale do Sao Francisco",
+            "pt-br": "UNIVASF - Universidade Federal do Vale do Sao Francisco"
+        },
         "https://idp.uscs.edu.br/idp/shibboleth": {
             "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
             "pt-br": "USCS - Universidade Municipal de Sao Caetano do Sul"
