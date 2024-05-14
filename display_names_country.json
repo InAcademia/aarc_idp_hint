@@ -4432,6 +4432,10 @@
             "en": "Tianjin University of Commerce",
             "zh": "天津商业大学(Tianjin University of Commerce)"
         },
+        "https://idp.tjlivtc.edu.cn/idp/shibboleth": {
+            "en": "Tianjin Light Industry Vocational Technical College",
+            "zh": "天津轻工职业技术学院(Tianjin Light Industry Vocational Technical College)"
+        },
         "https://idp.tjnu.edu.cn/idp/shibboleth": {
             "en": "TianJin Normal University",
             "zh": "天津师范大学(TianJin Normal University)"
