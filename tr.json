@@ -271,6 +271,10 @@
         "en": "Bayburt University",
         "tr": "Bayburt Üniversitesi"
     },
+    "https://kimlik.beun.edu.tr/idp/saml2/idp/metadata.php": {
+        "en": "Zonguldak Bülent Ecevit University",
+        "tr": "Zonguldak Bülent Ecevit Üniversitesi"
+    },
     "https://kimlik.bilecik.edu.tr/idp/shibboleth": {
         "en": "Bilecik Şeyh Edebali University",
         "tr": "Bilecik Şeyh Edebali Üniversitesi"
