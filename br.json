@@ -267,10 +267,6 @@
         "en": "UNOESC - Universidade do Oeste de Santa Catarina",
         "pt-br": "UNOESC - Universidade do Oeste de Santa Catarina"
     },
-    "https://cafe.usf.edu.br/idp/shibboleth": {
-        "en": "USF - Universidade Sao Francisco",
-        "pt-br": "USF - Universidade Sao Francisco"
-    },
     "https://cafe02.ifes.edu.br/idp/shibboleth": {
         "en": "IFES - Instituto Federal do Espirito Santo",
         "pt-br": "IFES - Instituto Federal do Espirito Santo"
@@ -1026,6 +1022,10 @@
     "https://shibboleth.unp.br/idp/shibboleth": {
         "en": "UNP - Universidade Potiguar",
         "pt-br": "UNP - Universidade Potiguar"
+    },
+    "https://shibboleth.usf.edu.br/idp/shibboleth": {
+        "en": "USF - Universidade Sao Francisco",
+        "pt-br": "USF - Universidade Sao Francisco"
     },
     "https://shibboleth02.uergs.edu.br/idp/shibboleth": {
         "en": "UERGS - Universidade Estadual do Rio Grande do Sul",
