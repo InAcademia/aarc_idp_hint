@@ -9875,6 +9875,10 @@
             "en": "CROUS Limoges V3",
             "fr": "CROUS Limoges V3"
         },
+        "https://idp2.crous-montpellier.fr/idp/shibboleth": {
+            "en": "CROUS Montpellier",
+            "fr": "CROUS Montpellier"
+        },
         "https://idp2.crous-toulouse.fr/idp/shibboleth": {
             "en": "CROUS Toulouse - Personnels",
             "fr": "CROUS Toulouse - Personnels"
