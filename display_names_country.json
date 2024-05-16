@@ -7184,6 +7184,10 @@
             "de": "Hochschule Mittweida",
             "en": "Hochschule Mittweida"
         },
+        "https://meet-sso.conf.dfn.de/idp/shibboleth": {
+            "de": "DFNconf eduMEET SSO",
+            "en": "DFNconf eduMEET SSO"
+        },
         "https://my.arthistoricum.net": {
             "de": "Arthistoricum.net - Fachinformationsdienst Kunst, Fotographie, Design",
             "en": "Arthistoricum.net - Fachinformationsdienst Kunst, Fotographie, Design"
