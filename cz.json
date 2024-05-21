@@ -127,6 +127,10 @@
         "cs": "Anglo-americká vysoká škola, z.ú.",
         "en": "Anglo-american University"
     },
+    "https://idp.ambis.cz/idp/shibboleth": {
+        "cs": "AMBIS vysoká škola, a.s.",
+        "en": "AMBIS University"
+    },
     "https://idp.amu.cz/idp/shibboleth": {
         "cs": "Akademie múzických umění v Praze",
         "en": "Academy of Performing Arts in Prague"
