@@ -419,7 +419,7 @@
     "https://auth.henallux.be": "Henallux",
     "https://auth.ibs.re.kr/idp/simplesamlphp": "Institute for Basic Science",
     "https://auth.id.sorbonne-universite.fr/saml/metadata": "Sorbonne University",
-    "https://auth.isu.edu/idp/shibboleth": "Idaho State University",
+    "https://auth.isu.edu/idp/shibboleth": "Idaho State University old",
     "https://auth.it.marist.edu/idp": "Marist College",
     "https://auth.jaist.ac.jp/sso-s/shibboleth": "https://auth.jaist.ac.jp/sso-s/shibboleth",
     "https://auth.kpu.ca/idp/shibboleth": "Kwantlen Polytechnic University",
