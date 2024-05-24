@@ -398,6 +398,10 @@
         "en": "Shiga University of Medical Science",
         "ja": "滋賀医科大学"
     },
+    "https://sus.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Suwa University of Science",
+        "ja": "公立諏訪東京理科大学"
+    },
     "https://tgu.u-gakugei.ac.jp/idp/shibboleth": {
         "en": "Tokyo Gakugei University",
         "ja": "東京学芸大学"
