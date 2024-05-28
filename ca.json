@@ -104,6 +104,9 @@
     "https://caf-fsso.smu.ca/idp/shibboleth": {
         "en": "Saint Mary's University"
     },
+    "https://caf-sso.upei.ca/idp": {
+        "en": "University of Prince Edward Island"
+    },
     "https://cas.hec.ca/idp/metadata": {
         "en": "HEC Montreal",
         "fr": "HEC Montreal"
