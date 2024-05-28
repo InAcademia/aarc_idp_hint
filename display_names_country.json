@@ -11222,9 +11222,6 @@
         "https://sso.ucd.ie/idp/shibboleth": {
             "en": "University College Dublin",
             "ga": "An Coláiste Ollscoile, Baile Átha Cliath"
-        },
-        "https://webauth.dbs.ie/idp/shibboleth": {
-            "en": "Dublin Business School (decommissioned)"
         }
     },
     "il": {
