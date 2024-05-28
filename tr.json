@@ -383,6 +383,10 @@
         "en": "Kafkas University",
         "tr": "Kafkas Üniversitesi"
     },
+    "https://kimlik.karabuk.edu.tr/idp/shibboleth": {
+        "en": "Karabuk University",
+        "tr": "Karabük Üniversitesi"
+    },
     "https://kimlik.karatay.edu.tr/idp/shibboleth": {
         "en": "KTO Karatay University",
         "tr": "KTO Karatay Üniversitesi"
