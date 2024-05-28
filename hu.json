@@ -20,8 +20,8 @@
         "hu": "Soproni Egyetem"
     },
     "https://eduid.abtk.hu/simplesaml/saml2/idp/metadata.php": {
-        "en": "Research Centre for the Humanities",
-        "hu": "Bölcsészettudományi Kutatóközpont"
+        "en": "HUN-REN Research Centre for the Humanities",
+        "hu": "HUN-REN Bölcsészettudományi Kutatóközpont"
     },
     "https://eduid.epss.hu/simplesamlphp/saml2/idp/metadata.php": {
         "en": "Institute of Earth Physics and Space Science",
