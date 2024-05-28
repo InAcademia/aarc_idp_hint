@@ -19932,6 +19932,9 @@
         "https://sso.lsuhsc.edu/idp": {
             "en": "Louisiana State University Health Sciences Center - New Orleans"
         },
+        "https://sso.marquette.edu/idp": {
+            "en": "Marquette University IDP"
+        },
         "https://sso.memphis.edu/idp/shibboleth": {
             "en": "The University of Memphis"
         },
