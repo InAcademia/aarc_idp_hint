@@ -7191,6 +7191,10 @@
             "de": "Hochschule Mittweida",
             "en": "Hochschule Mittweida"
         },
+        "https://logon.skd.museum/idp/shibboleth": {
+            "de": "Staatliche Kunstsammlungen Dresden",
+            "en": "Staatliche Kunstsammlungen Dresden"
+        },
         "https://meet-sso.conf.dfn.de/idp/shibboleth": {
             "de": "DFNconf eduMEET SSO",
             "en": "DFNconf eduMEET SSO"
