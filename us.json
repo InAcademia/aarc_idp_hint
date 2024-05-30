@@ -1238,6 +1238,9 @@
     "https://sso.rockefeller.edu": {
         "en": "Rockefeller University (Fischer SSO)"
     },
+    "https://sso.sdccd.edu/idp": {
+        "en": "San Diego Community College District"
+    },
     "https://sso.sjeccd.edu": {
         "en": "San Jose - Evergreen Community College District"
     },
