@@ -366,6 +366,10 @@
         "en": "The University of Electro-Communications",
         "ja": "電気通信大学"
     },
+    "https://shibboleth.lib.kitami-it.ac.jp/idp/shibboleth": {
+        "en": "Kitami Institute of Technology",
+        "ja": "北見工業大学"
+    },
     "https://shibboleth.nihon-u.ac.jp/idp/shibboleth": {
         "en": "Nihon University",
         "ja": "日本大学"
