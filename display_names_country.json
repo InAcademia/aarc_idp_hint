@@ -3535,6 +3535,10 @@
             "en": "HuangShan University",
             "zh": "黄山学院(HuangShan University)"
         },
+        "https://idp.hsxy.edu.cn/idp/shibboleth": {
+            "en": "Huishang Vocational College",
+            "zh": "徽商职业学院(Huishang Vocational College)"
+        },
         "https://idp.htc.edu.cn/idp/shibboleth": {
             "en": "HeFei Technological College",
             "zh": "合肥职业技术学院(HeFei Technological College)"
