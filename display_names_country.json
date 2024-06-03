@@ -7146,6 +7146,10 @@
             "de": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen",
             "en": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen"
         },
+        "https://login.iwt-bremen.de/idp/shibboleth": {
+            "de": "Leibniz-Institut für Werkstofforientierte Technologien IWT",
+            "en": "Leibniz Institute for Materials Engineering - IWT"
+        },
         "https://login.kunsthochschule-bayern.de/idp/shibboleth": {
             "de": "Kunsthochschule Bayern",
             "en": "Kunsthochschule Bayern"
