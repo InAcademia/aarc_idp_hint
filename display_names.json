@@ -4738,6 +4738,7 @@
     "https://sso.ewu.edu/idp/shibboleth": "Eastern Washington University",
     "https://sso.fau.edu/idp/shibboleth": "Florida Atlantic University",
     "https://sso.fcm.unl.pt/idp/shibboleth": "UNL - Faculdade de Ciências Médicas",
+    "https://sso.fgcu.edu/idp": "Florida Gulf Coast University (Cirrus Bridge)",
     "https://sso.fh-salzburg.ac.at/idp/shibboleth": "Salzburg University of Applied Sciences",
     "https://sso.fhgooe.ac.at/idp/shibboleth": "University of Applied Sciences for Health Professions Upper Austria",
     "https://sso.fhstp.ac.at/idp/shibboleth": "St. Pölten University of Applied Sciences",
