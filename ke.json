@@ -2,7 +2,10 @@
     "https://idp-01.federation.ke/simplesaml/saml2/idp/metadata.php": {
         "en": "Kenya Education Network (KENET)"
     },
-    "https://idp-k3.federation.ke/simplesaml/saml2/idp/metadata.php": {
-        "en": "KENET Staff Identity Provider"
+    "https://idp.ku.ac.ke/simplesaml/saml2/idp/metadata.php": {
+        "en": "Kenyatta University"
+    },
+    "https://strathmore.edu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Strathmore University"
     }
 }
