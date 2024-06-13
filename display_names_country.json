@@ -18871,9 +18871,6 @@
         "https://auth.geneseo.edu/simplesaml/saml2/idp/metadata.php": {
             "en": "SUNY Geneseo"
         },
-        "https://auth.isu.edu/idp/shibboleth": {
-            "en": "Idaho State University old"
-        },
         "https://auth.it.marist.edu/idp": {
             "en": "Marist College"
         },
