@@ -251,6 +251,10 @@
         "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
         "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
     },
+    "https://cafe.unifor.br/idp/shibboleth": {
+        "en": "UNIFOR - Universidade de Fortaleza",
+        "pt-br": "UNIFOR - Universidade de Fortaleza"
+    },
     "https://cafe.unimontes.br/idp/shibboleth": {
         "en": "UNIMONTES - Universidade Estadual de Montes Claros",
         "pt-br": "UNIMONTES - Universidade Estadual de Montes Claros"
@@ -998,10 +1002,6 @@
     "https://shibboleth.unifacs.br/idp/shibboleth": {
         "en": "UNIFACS - Universidade Salvador",
         "pt-br": "UNIFACS - Universidade Salvador"
-    },
-    "https://shibboleth.unifor.br/idp/shibboleth": {
-        "en": "UNIFOR - Universidade de Fortaleza",
-        "pt-br": "UNIFOR - Universidade de Fortaleza"
     },
     "https://shibboleth.uninta.edu.br/idp/shibboleth": {
         "en": "UNINTA - Centro Universitario INTA",
