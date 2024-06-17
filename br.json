@@ -967,6 +967,10 @@
         "en": "ON - Observatorio Nacional",
         "pt-br": "ON - Observatorio Nacional"
     },
+    "https://shibboleth.ufcg.edu.br/idp/shibboleth": {
+        "en": "UFCG - Universidade Federal de Campina Grande",
+        "pt-br": "UFCG - Universidade Federal de Campina Grande"
+    },
     "https://shibboleth.ufg.br/idp/shibboleth": {
         "en": "UFG - Universidade Federal de Goias",
         "pt-br": "UFG - Universidade Federal de Goias"
