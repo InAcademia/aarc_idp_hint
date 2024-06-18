@@ -14257,10 +14257,6 @@
             "en": "Netherlands eScience Center",
             "nl": "Netherlands eScience Center"
         },
-        "https://saml.uvt.nl/saml2/idp/metadata.php": {
-            "en": "Tilburg University (Old)",
-            "nl": "Universiteit van Tilburg (Oud)"
-        },
         "https://secure.ahk.nl/nidp/saml2/metadata": {
             "en": "Amsterdam University of the Arts",
             "nl": "Amsterdamse Hogeschool voor de Kunsten"

@@ -4264,7 +4264,6 @@
     "https://saml.sggw.edu.pl/idp/shibboleth": "The Warsaw University of Life Sciences",
     "https://saml.signon.ruc.dk/idp": "Roskilde University (RUC)",
     "https://saml.sys.kth.se/idp/shibboleth": "KTH Royal Institute of Technology",
-    "https://saml.uvt.nl/saml2/idp/metadata.php": "Tilburg University (Old)",
     "https://saml.weizenbaum-institut.de": "Weizenbaum Institute",
     "https://samlid.bilgi.edu.tr/idp/shibboleth": "Istanbul Bilgi University",
     "https://samlphp.uoh.cl/simplesaml/saml2/idp/metadata.php": "Universidad de O'Higgins",
