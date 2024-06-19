@@ -1644,6 +1644,10 @@
             "en": "IFFAR - Instituto Federal Farroupilha",
             "pt-br": "IFFAR - Instituto Federal Farroupilha"
         },
+        "https://shibboleth.ifpe.edu.br/idp/shibboleth": {
+            "en": "IFPE - Instituto Federal de Pernambuco",
+            "pt-br": "IFPE - Instituto Federal de Pernambuco"
+        },
         "https://shibboleth.ifrn.edu.br/idp/shibboleth": {
             "en": "IFRN - Instituto Federal do Rio Grande do Norte",
             "pt-br": "IFRN - Instituto Federal do Rio Grande do Norte"
