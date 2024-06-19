@@ -287,6 +287,9 @@
     "https://idp.khongnangthabauniversity.org/idp/shibboleth": {
         "en": "Khongnangthaba University"
     },
+    "https://idp.kohacloud.in/idp/shibboleth": {
+        "en": "Visva Bharati"
+    },
     "https://idp.kongu.edu/idp/shibboleth": {
         "en": "Kongu Engineering College"
     },
