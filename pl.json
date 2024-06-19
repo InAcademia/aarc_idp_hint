@@ -163,6 +163,10 @@
         "en": "University of Economics and Human Sciences in Warsaw",
         "pl": "Akademia Ekonomiczno-Humanistyczna w Warszawie"
     },
+    "https://idp.wsei.pl/idp/shibboleth": {
+        "en": "WSEI University",
+        "pl": "Lubelska Akademia WSEI"
+    },
     "https://idp.zut.edu.pl/idp/shibboleth": {
         "en": "West Pomeranian University of Technology in Szczecin",
         "pl": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie"
