@@ -601,6 +601,7 @@
     "https://comet.esher.ac.uk/shibboleth": "Esher Sixth Form College",
     "https://conext.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": "Radboud University (USEZ-account)",
     "https://connect.drexel.edu/idp": "Drexel University",
+    "https://connect.eduid.se/konstfack": "Konstfack - eduID",
     "https://connect.eduid.se/sunet": "SUNET - Connect",
     "https://connect.laurentian.ca/idp": "Laurentian University",
     "https://connect.paris-belleville.archi.fr/saml/metadata": "National school of architecture Paris-Belleville",
