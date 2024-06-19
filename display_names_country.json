@@ -14072,10 +14072,6 @@
             "en": "Máxima MC",
             "nl": "Máxima MC"
         },
-        "http://login.hbo-academy.nl/adfs/services/trust": {
-            "en": "HBO Academy",
-            "nl": "HBO Academy"
-        },
         "http://login.hva.nl/adfs/services/trust": {
             "en": "Amsterdam University of Applied Sciences",
             "nl": "Hogeschool van Amsterdam"
@@ -14571,6 +14567,10 @@
         "https://sts.windows.net/b22efcc5-4674-4e3c-83e4-0a9982ce09cd/": {
             "en": "Hout- en Meubileringscollege",
             "nl": "Hout- en Meubileringscollege"
+        },
+        "https://sts.windows.net/b32e5641-874d-4ad1-901d-fc4ed23ae3e4/": {
+            "en": "HBO Academy",
+            "nl": "HBO Academy"
         },
         "https://sts.windows.net/b3b856ea-0398-4010-81aa-c916cb0e3647/": {
             "en": "Hubrecht Institute & Westerdijk Fungal Biodiversity Institute (KNAW)",
