@@ -400,6 +400,10 @@
         "en": "LUM Giuseppe Degennaro University",
         "it": "Università LUM Giuseppe Degennaro"
     },
+    "https://idp.lumsa.it/idp/shibboleth": {
+        "en": "LUMSA Università",
+        "it": "LUMSA Università"
+    },
     "https://idp.museogalileo.it/idp/shibboleth": {
         "en": "Museo Galileo - Istituto e Museo di Storia della Scienza",
         "it": "Museo Galileo - Istituto e Museo di Storia della Scienza"

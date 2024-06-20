@@ -9524,10 +9524,6 @@
             "en": "EIGSI La Rochelle",
             "fr": "EIGSI La Rochelle"
         },
-        "https://idp.em-normandie.fr/idp/shibboleth": {
-            "en": "Ecole de Management de Normandie",
-            "fr": "Ecole de Management de Normandie"
-        },
         "https://idp.enac.fr/idp/shibboleth": {
             "en": "ENAC - Ecole Nationale de l'Aviation Civile",
             "fr": "ENAC - Ecole Nationale de l'Aviation Civile"
@@ -12259,6 +12255,10 @@
         "https://idp.lum.it/idp/shibboleth": {
             "en": "LUM Giuseppe Degennaro University",
             "it": "Università LUM Giuseppe Degennaro"
+        },
+        "https://idp.lumsa.it/idp/shibboleth": {
+            "en": "LUMSA Università",
+            "it": "LUMSA Università"
         },
         "https://idp.museogalileo.it/idp/shibboleth": {
             "en": "Museo Galileo - Istituto e Museo di Storia della Scienza",

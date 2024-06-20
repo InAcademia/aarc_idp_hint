@@ -427,10 +427,6 @@
         "en": "EIGSI La Rochelle",
         "fr": "EIGSI La Rochelle"
     },
-    "https://idp.em-normandie.fr/idp/shibboleth": {
-        "en": "Ecole de Management de Normandie",
-        "fr": "Ecole de Management de Normandie"
-    },
     "https://idp.enac.fr/idp/shibboleth": {
         "en": "ENAC - Ecole Nationale de l'Aviation Civile",
         "fr": "ENAC - Ecole Nationale de l'Aviation Civile"
