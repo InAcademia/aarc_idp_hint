@@ -19046,6 +19046,9 @@
         "https://id.uwsp.edu/idp": {
             "en": "University of Wisconsin - Stevens Point - 1"
         },
+        "https://id.uwstout.edu/idp": {
+            "en": "University of Wisconsin - Stout - Okta"
+        },
         "https://id.wnc.edu/idp": {
             "en": "Western Nevada College"
         },
@@ -19643,9 +19646,6 @@
         "https://prdidp.uncg.edu/idp/shibboleth": {
             "en": "University of North Carolina at Greensboro"
         },
-        "https://rushib.rockefeller.edu/idp/shibboleth": {
-            "en": "Rockefeller University"
-        },
         "https://saml.nelnet.net": {
             "en": "Nelnet Business Solutions"
         },
@@ -20034,7 +20034,7 @@
             "en": "Rho Federal Systems Division, Inc."
         },
         "https://sso.rockefeller.edu": {
-            "en": "Rockefeller University (Fischer SSO)"
+            "en": "Rockefeller University"
         },
         "https://sso.sdccd.edu/idp": {
             "en": "San Diego Community College District"
