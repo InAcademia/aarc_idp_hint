@@ -175,10 +175,6 @@
         "en": "Amsterdam University of Applied Sciences",
         "nl": "Hogeschool van Amsterdam"
     },
-    "http://login.kienict.nl/adfs/services/trust": {
-        "en": "Coöperatie KIEN",
-        "nl": "Coöperatie KIEN"
-    },
     "http://login.maastrichtuniversity.nl/adfs/services/trust": {
         "en": "Maastricht University",
         "nl": "Universiteit Maastricht"
@@ -702,6 +698,10 @@
     "https://sts.windows.net/bc851b19-33cd-4f49-9d20-af45e899437b/": {
         "en": "Leidse Instrumentmakers School",
         "nl": "Leidse Instrumentmakers School"
+    },
+    "https://sts.windows.net/c2ae7a8e-69db-4c87-834a-ed5cffd8b353/": {
+        "en": "Coöperatie KIEN",
+        "nl": "Coöperatie KIEN"
     },
     "https://sts.windows.net/c2e4234e-9ccc-490e-8151-acd2ed2b1779/": {
         "en": "ArtEZ University of the Arts",
