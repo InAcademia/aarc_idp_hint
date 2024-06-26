@@ -23,6 +23,10 @@
         "en": "Cito",
         "nl": "Cito"
     },
+    "http://adfs.dcterra.nl/adfs/services/trust": {
+        "en": "DCTerra",
+        "nl": "DCTerra"
+    },
     "http://adfs.fryske-akademy.nl/adfs/services/trust": {
         "en": "Fryske Akademy (KNAW)",
         "nl": "Fryske Akademy (KNAW)"
