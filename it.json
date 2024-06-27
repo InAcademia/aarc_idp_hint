@@ -59,6 +59,10 @@
         "en": "European University Institute",
         "it": "Istituto Universitario Europeo"
     },
+    "https://idem.ingv.it/idp/shibboleth": {
+        "en": "Istituto Nazionale di Geofisica e Vulcanologia",
+        "it": "Istituto Nazionale di Geofisica e Vulcanologia"
+    },
     "https://idem.iss.it/idp/shibboleth": {
         "en": "ISS - National Health Institute",
         "it": "ISS - Istituto Superiore di Sanità"

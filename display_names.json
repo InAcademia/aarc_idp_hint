@@ -827,6 +827,7 @@
     "https://idem.ced.inaf.it/idp/shibboleth": "National Institute for Astrophysics - INAF",
     "https://idem.elettra.eu/idp/shibboleth": "Elettra Sincrotrone Trieste S.C.p.A",
     "https://idem.eui.eu/idp/shibboleth": "European University Institute",
+    "https://idem.ingv.it/idp/shibboleth": "Istituto Nazionale di Geofisica e Vulcanologia",
     "https://idem.iss.it/idp/shibboleth": "ISS - National Health Institute",
     "https://idem.polito.it/idp/shibboleth": "Politecnico of Torino",
     "https://idem.unikore.it/idp/shibboleth": "Enna Kore University",
