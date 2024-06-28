@@ -67,10 +67,6 @@
         "en": "Firda (formely Friesland College)",
         "nl": "Firda (voorheen Friesland College)"
     },
-    "http://fs.kienict.nl/adfs/services/trust": {
-        "en": "ROC Da Vinci",
-        "nl": "ROC Da Vinci"
-    },
     "http://fs.loi.nl/adfs/services/trust": {
         "en": "Leidse Onderwijsinstellingen - 2",
         "nl": "Leidse Onderwijsinstellingen - 2"
@@ -258,6 +254,10 @@
     "https://sts.windows.net/7860f465-6e93-42ac-ad36-6d422bebee52/": {
         "en": "ROC Gilde Opleidingen",
         "nl": "ROC Gilde Opleidingen"
+    },
+    "https://sts.windows.net/794249f4-dce0-487e-81b7-bacce850a9e2/": {
+        "en": "ROC Da Vinci (New)",
+        "nl": "ROC Da Vinci (Nieuw)"
     },
     "https://sts.windows.net/7a5561df-6599-4898-8a20-cce41db3b44f/": {
         "en": "Tilburg University",
