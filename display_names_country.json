@@ -8172,10 +8172,6 @@
             "en": "Universidad Politecnica Salesiana - ups",
             "es": "Universidad Politecnica Salesiana - ups"
         },
-        "https://login.upse.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Estatal Península de Santa Elena - upse",
-            "es": "Universidad Estatal Península de Santa Elena - upse"
-        },
         "https://login.usfq.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad San Francisco de Quito - usfq",
             "es": "Universidad San Francisco de Quito - usfq"
