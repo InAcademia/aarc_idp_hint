@@ -1652,9 +1652,6 @@
     "https://sso.bsfc.ac.uk/idp/shibboleth": {
         "en": "Birkenhead Sixth Form College"
     },
-    "https://sso.kgv.ac.uk/idp/shibboleth": {
-        "en": "King George V College, Southport"
-    },
     "https://sso.loucoll.ac.uk/shibboleth": {
         "en": "Loughborough College"
     },
