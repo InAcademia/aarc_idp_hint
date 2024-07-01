@@ -519,10 +519,6 @@
         "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
         "pt-br": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo"
     },
-    "https://idp.cafe.inep.gov.br/idp/shibboleth": {
-        "en": "INEP - Instituto Nacional de Estudos e Pesquisas",
-        "pt-br": "INEP - Instituto Nacional de Estudos e Pesquisas"
-    },
     "https://idp.capes.gov.br/idp/shibboleth": {
         "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior",
         "pt-br": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior"
