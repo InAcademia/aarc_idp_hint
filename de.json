@@ -359,6 +359,10 @@
         "de": "HAWK Hochschule Hildesheim/Holzminden/Göttingen",
         "en": "HAWK University Hildesheim/Holzminden/Göttingen"
     },
+    "https://idp.hbksaar.de/idp/shibboleth": {
+        "de": "Hochschule der Bildenden Künste Saar",
+        "en": "Hochschule der Bildenden Künste Saar"
+    },
     "https://idp.hcu-hamburg.de/idp/shibboleth": {
         "de": "HafenCity Universität Hamburg",
         "en": "HafenCity Universität Hamburg"
