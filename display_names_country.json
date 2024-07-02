@@ -954,6 +954,10 @@
             "en": "UNESC - Universidade do Extremo Sul Catarinense",
             "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
         },
+        "https://cafe.unicamp.br/idp/shibboleth": {
+            "en": "UNICAMP - Universidade Estadual de Campinas",
+            "pt-br": "UNICAMP - Universidade Estadual de Campinas"
+        },
         "https://cafe.unicap.br/idp/shibboleth": {
             "en": "UNICAP - Universidade Catolica de Pernambuco",
             "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
@@ -989,10 +993,6 @@
         "https://cafe02.ifes.edu.br/idp/shibboleth": {
             "en": "IFES - Instituto Federal do Espirito Santo",
             "pt-br": "IFES - Instituto Federal do Espirito Santo"
-        },
-        "https://cafe02.unicamp.br/idp/shibboleth": {
-            "en": "UNICAMP - Universidade Estadual de Campinas",
-            "pt-br": "UNICAMP - Universidade Estadual de Campinas"
         },
         "https://cafe2.cecierj.edu.br/idp/shibboleth": {
             "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
