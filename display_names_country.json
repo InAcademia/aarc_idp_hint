@@ -19909,6 +19909,9 @@
         "https://singlesignon.gwu.edu/idp/shibboleth": {
             "en": "The George Washington University"
         },
+        "https://smidp.uwstout.edu/idp/shibboleth": {
+            "en": "University of Wisconsin - Stout"
+        },
         "https://sonny.furman.edu/idp": {
             "en": "Furman University"
         },
