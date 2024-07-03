@@ -10790,6 +10790,9 @@
         "https://idp1.cityu.edu.hk/idp/shibboleth": {
             "en": "City University of Hong Kong"
         },
+        "https://idp2.cityu.edu.hk/idp/shibboleth": {
+            "en": "City University of Hong Kong (new Shibboleth)"
+        },
         "https://luidp01.ln.edu.hk/idp/shibboleth": {
             "en": "Lingnan University"
         },
