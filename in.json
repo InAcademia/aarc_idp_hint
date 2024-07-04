@@ -65,6 +65,9 @@
     "https://idp.bdu.ac.in/idp/shibboleth": {
         "en": "Bharathidasan University"
     },
+    "https://idp.bgu.ac.in/idp/shibboleth": {
+        "en": "Birla Global University (BGU), Bhubaneswar"
+    },
     "https://idp.bhu.edu.in/idp/shibboleth": {
         "en": "Banaras Hindu University"
     },
@@ -217,6 +220,9 @@
     },
     "https://idp.iitram.ac.in/idp/shibboleth": {
         "en": "Institute of Infrastructure Technology Research and Management"
+    },
+    "https://idp.iitrpr.ac.in/idp/shibboleth": {
+        "en": "Indian Institute Of Technology–Ropar (IIT–Ropar)"
     },
     "https://idp.indiraedu.com/idp/shibboleth": {
         "en": "Indira Group Of Institute, Pune"
