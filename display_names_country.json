@@ -15346,6 +15346,10 @@
             "en": "Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação",
             "pt": "Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação"
         },
+        "https://idp.biodata.pt/idp/shibboleth": {
+            "en": "BioData PT",
+            "pt": "BioData PT"
+        },
         "https://idp.biopolis.pt/idp/shibboleth": {
             "en": "Associação BIOPOLIS | CIBIO - InBIO",
             "pt": "Associação BIOPOLIS | CIBIO - InBIO"
