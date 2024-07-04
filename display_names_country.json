@@ -581,10 +581,6 @@
             "en": "Royal Museums of Art and History, Brussels",
             "fr": "Musées royaux d'Art et d'Histoire, Bruxelles"
         },
-        "https://idp.labo.ephec.be/idp/shibboleth": {
-            "en": "EPHEC",
-            "fr": "EPHEC"
-        },
         "https://idp.observatory.be/saml2/idp/metadata.php": {
             "en": "Royal Observatory of Belgium",
             "fr": "Observatoire royal de Belgique"
