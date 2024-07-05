@@ -9100,8 +9100,8 @@
             "fr": "CEA {SILAB}"
         },
         "http://lg.excelia-group.com/adfs/services/trust": {
-            "en": "Excelia",
-            "fr": "Excelia"
+            "en": "Excelia_Old",
+            "fr": "Excelia_Old"
         },
         "http://sts.kedgebs.com/adfs/services/trust": {
             "en": "Kedge Business School",
