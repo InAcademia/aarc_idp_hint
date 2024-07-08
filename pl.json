@@ -59,6 +59,10 @@
         "en": "University of Agriculture in Krakow",
         "pl": "Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie"
     },
+    "https://cas.usos.pw.edu.pl/cas/idp/metadata": {
+        "en": "Warsaw University of Technology",
+        "pl": "Politechnika Warszawska"
+    },
     "https://cas.uwb.edu.pl/cas/idp/metadata": {
         "en": "University of Bialystok",
         "pl": "Uniwersytet w Białymstoku"
