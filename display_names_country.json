@@ -17610,6 +17610,9 @@
         "https://idp.gateshead.ac.uk/shibboleth": {
             "en": "Gateshead College"
         },
+        "https://idp.gateway.ac.uk/entity": {
+            "en": "Gateway Sixth Form College"
+        },
         "https://idp.geolsoc.org.uk/openathens": {
             "en": "The Geological Society Of London"
         },
@@ -17711,6 +17714,9 @@
         },
         "https://idp.johnruskin.ac.uk/shibboleth": {
             "en": "John Ruskin College"
+        },
+        "https://idp.ke6n.ac.uk/entity": {
+            "en": "King Edward VI College"
         },
         "https://idp.kidderminster.ac.uk/idp/shibboleth": {
             "en": "Kidderminster College"
@@ -18138,6 +18144,9 @@
         },
         "https://idp.stcharles.ac.uk/shibboleth": {
             "en": "St Charles Catholic Sixth Form College"
+        },
+        "https://idp.stdoms.ac.uk/entity": {
+            "en": "St Dominics Sixth Form College"
         },
         "https://idp.sthelens.ac.uk/idp/shibboleth": {
             "en": "St Helens College"
