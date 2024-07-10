@@ -13263,6 +13263,10 @@
         "https://eduID.uni.lu/simplesaml/saml2/idp/metadata.php": {
             "en": "University of Luxembourg - Production"
         },
+        "https://eduid-test.uni.lu/simplesaml/saml2/idp/metadata.php": {
+            "en": "University of Luxembourg Staff and Students",
+            "fr": "Universite du Luxembourg Employees et etudiants"
+        },
         "https://login.restena.lu/simplesamlphp/saml2/idp/metadata.php": {
             "en": "RESTENA Users",
             "fr": "RESTENA Utilisateurs"
