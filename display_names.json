@@ -1951,6 +1951,7 @@
     "https://idp.ibt.cas.cz/idp/shibboleth": "Institute of Biotechnology CAS, v.v.i.",
     "https://idp.ibu.edu.tr/idp/shibboleth": "Bolu Abant Izzet Baysal University",
     "https://idp.iccs.gr/idp/shibboleth": "Institute of Communication and Computer Systems",
+    "https://idp.icipe.org/simplesaml/saml2/idp/metadata.php": "icipe",
     "https://idp.icm-institute.org/idp/shibboleth": "University Hospitals Institute - ICM",
     "https://idp.icn-artem.com/idp": "ICN BUSINESS SCHOOL",
     "https://idp.icpf.cas.cz/idp/shibboleth": "Institute of Chemical Process Fundamentals of the AS CR",
