@@ -695,6 +695,10 @@
         "en": "Fujian Normal University",
         "zh": "福建师范大学(Fujian Normal University)"
     },
+    "https://idp.fjny.edu.cn/idp/shibboleth": {
+        "en": "Fujian Vocational College of Agriculture",
+        "zh": "福建农业职业技术学院(Fujian Vocational College of Agriculture)"
+    },
     "https://idp.fjsmu.edu.cn/idp/shibboleth": {
         "en": "Sanming University",
         "zh": "三明学院(Sanming University)"
