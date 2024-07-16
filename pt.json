@@ -19,6 +19,10 @@
         "en": "Universidade de Lisboa",
         "pt": "Universidade de Lisboa"
     },
+    "https://idp.a3es.pt/idp/shibboleth": {
+        "en": "Agência de Avaliação e Acreditação do Ensino Superior",
+        "pt": "Agência de Avaliação e Acreditação do Ensino Superior"
+    },
     "https://idp.acad-ciencias.pt/idp/shibboleth": {
         "en": "Academia das Ciências de Lisboa",
         "pt": "Academia das Ciências de Lisboa"
