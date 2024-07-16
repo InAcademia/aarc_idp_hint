@@ -314,6 +314,7 @@
     "https://aai.dhv-speyer.de/idp/shibboleth": "Universität Speyer",
     "https://aai.eawag.ch/idp/shibboleth": "Eawag",
     "https://aai.empa.ch/idp/shibboleth": "Empa",
+    "https://aai.goscloud.net/saml/idp": "GOSC AAI",
     "https://aai.heal-link.gr/proxy/saml2/idp/metadata.php": "HEAL-Link",
     "https://aai.helmholtz-muenchen.de/idp/shibboleth": "Helmholtz Zentrum Muenchen GmbH (HMGU)",
     "https://aai.hfk-bremen.de/idp/shibboleth": "University of the Arts Bremen",

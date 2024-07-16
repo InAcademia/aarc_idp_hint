@@ -11,6 +11,10 @@
         "en": "CSTCloud AAI",
         "zh": "中国科技云身份认证联盟(CSTCloud AAI)"
     },
+    "https://aai.goscloud.net/saml/idp": {
+        "en": "GOSC AAI",
+        "zh": "GOSC AAI"
+    },
     "https://idp.baafs.net.cn/idp/shibboleth": {
         "en": "Beijing Academy of Agriculture and Forestry Sciences",
         "zh": "北京市农林科学院"
