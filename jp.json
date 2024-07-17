@@ -410,6 +410,10 @@
         "en": "Tokyo Gakugei University",
         "ja": "東京学芸大学"
     },
+    "https://tmgknn.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Tokyo Metropolitan Tama Medical Center",
+        "ja": "東京都立多摩総合医療センター"
+    },
     "https://tuat.ex-tic.com/auth/gakunin/saml2/assertions": {
         "en": "Tokyo University of Agriculture and Technology",
         "ja": "東京農工大学"
