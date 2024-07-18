@@ -83,10 +83,6 @@
         "de": "Ferdinand-Braun-Institut, Leibniz-Institut für Höchstfrequenztechnik",
         "en": "Ferdinand-Braun-Institute, Leibniz-Institut fuer Hoechstfrequenztechnik"
     },
-    "https://hertie.sso.academiccloud.de/simplesaml/saml2/idp/metadata.php": {
-        "de": "Hertie School",
-        "en": "Hertie School"
-    },
     "https://hotaai.fbn-dummerstorf.de/idp/shibboleth": {
         "de": "Forschungsinstitut für Nutztierbiologie (FBN)",
         "en": "Research Institute for farm animal biology (FBN)"

@@ -6128,10 +6128,6 @@
             "de": "Ferdinand-Braun-Institut, Leibniz-Institut für Höchstfrequenztechnik",
             "en": "Ferdinand-Braun-Institute, Leibniz-Institut fuer Hoechstfrequenztechnik"
         },
-        "https://hertie.sso.academiccloud.de/simplesaml/saml2/idp/metadata.php": {
-            "de": "Hertie School",
-            "en": "Hertie School"
-        },
         "https://hotaai.fbn-dummerstorf.de/idp/shibboleth": {
             "de": "Forschungsinstitut für Nutztierbiologie (FBN)",
             "en": "Research Institute for farm animal biology (FBN)"
@@ -14696,8 +14692,8 @@
             "nl": "ROC Rivor"
         },
         "https://sts.windows.net/d463b487-b035-4a2c-9e71-b8d599eb3d0f/": {
-            "en": "Theologische Universiteit Kampen",
-            "nl": "Theologische Universiteit Kampen"
+            "en": "Theological University Utrecht",
+            "nl": "Theologische Universiteit Utrecht"
         },
         "https://sts.windows.net/dde2f31a-0733-4e4e-8460-14217d31ded5/": {
             "en": "Netherlands Institute for Health Services Research (NIVEL)",
