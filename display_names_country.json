@@ -585,7 +585,7 @@
             "en": "Royal Observatory of Belgium",
             "fr": "Observatoire royal de Belgique"
         },
-        "https://idp.orsi.be/shibboleth": {
+        "https://idp.orsi.be/simplesaml": {
             "en": "Orsi Academy"
         },
         "https://idp.uclouvain.be/idp/shibboleth": {
@@ -16228,8 +16228,8 @@
             "sl": "Univerza v Mariboru"
         },
         "https://idp.almamater.si/idp/20110921": {
-            "en": "Alma Mater Europaea ECM",
-            "sl": "Alma Mater Europaea ECM"
+            "en": "University Alma Mater Europaea",
+            "sl": "Alma Mater Europaea Univerza"
         },
         "https://idp.doba.si/idp/20110921": {
             "en": "DOBA",
