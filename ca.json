@@ -229,6 +229,9 @@
     "https://idpz.utorauth.utoronto.ca/shibboleth": {
         "en": "University of Toronto"
     },
+    "https://jmp.bccrc.ca/idp": {
+        "en": "BC Cancer Research Centre"
+    },
     "https://login.fanshawec.ca/idp/shibboleth": {
         "en": "Fanshawe College",
         "fr": "Fanshawe College"
