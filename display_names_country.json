@@ -8905,18 +8905,6 @@
         }
     },
     "fi": {
-        "http://fs.kavi.fi/adfs/services/trust": {
-            "en": "National Audiovisual institute",
-            "sv": "Nationella audiovisuella institutet"
-        },
-        "http://fs.narc.fi/adfs/services/trust": {
-            "en": "National Archives Service",
-            "sv": "Riksarkivet"
-        },
-        "http://fs.psshp.fi/adfs/services/trust": {
-            "en": "Kuopio University Hospital",
-            "sv": "Kuopio universitetssjukhus"
-        },
         "http://fs.valtori.fi/adfs/services/trust": {
             "en": "Government ICT Centre Valtori",
             "sv": "Statens center för informations- och kommunikationsteknik"
@@ -8952,10 +8940,6 @@
         "https://idp.diak.fi/idp/shibboleth": {
             "en": "Diaconia University of Applied Sciences",
             "sv": "Diakonia-ammattikorkeakoulu"
-        },
-        "https://idp.funidata.fi/idp/shibboleth": {
-            "en": "Funidata IDP",
-            "sv": "Funidata IDP"
         },
         "https://idp.ha.ax/idp/shibboleth": {
             "en": "Åland University of Applied Sciences",
@@ -9004,10 +8988,6 @@
         "https://idp.shh.fi/idp/shibboleth": {
             "en": "Hanken School of Economics",
             "sv": "Hanken Svenska handelshögskolan"
-        },
-        "https://idp.tsv.fi/saml2/saml2/idp/metadata.php": {
-            "en": "Federation of Finnish Learned Societies",
-            "sv": "Vetenskapliga samfundens delegation"
         },
         "https://idp.tuni.fi/idp/shibboleth": {
             "en": "Tampere Universities",
@@ -9061,10 +9041,6 @@
             "en": "University of Vaasa",
             "sv": "Vasa Universitet"
         },
-        "https://rap.humak.fi/idp/shibboleth": {
-            "en": "HUMAK University of Applied Sciences",
-            "sv": "Humanistiska Yrkeshögskola"
-        },
         "https://salpa.certia.fi/idp/shibboleth": {
             "en": "Certia Oy",
             "sv": "Certia Oy"
@@ -9084,18 +9060,6 @@
         "https://tullbommen.arcada.fi/simplesaml/": {
             "en": "Arcada",
             "sv": "Arcada"
-        },
-        "https://tunnistus.mpkkfu.fi/idp/shibboleth": {
-            "en": "National Defence University",
-            "sv": "Förvarshögskolan"
-        },
-        "https://tunnistus.pelastusopisto.fi/idp/shibboleth": {
-            "en": "The Emergency Services College",
-            "sv": "Räddningsinstitutet"
-        },
-        "https://tunnistus.smedu.fi/idp/shibboleth": {
-            "en": "Police University College",
-            "sv": "Polisyrkeshögskolan"
         },
         "https://xidp.xamk.fi/idp/shibboleth": {
             "en": "South-Eastern Finland University of Applied Sciences",
