@@ -13081,9 +13081,6 @@
         }
     },
     "lk": {
-        "https://iam.gwai.kln.ac.lk/idp/shibboleth": {
-            "en": "Gampaha Wickramarachchi Ayurveda Institute, University of Kelaniya"
-        },
         "https://iam.vpa.ac.lk/idp/shibboleth": {
             "en": "University of the Visual and Performing Arts"
         },
