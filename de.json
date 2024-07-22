@@ -395,6 +395,10 @@
         "de": "Helmholtz-Zentrum hereon GmbH",
         "en": "Helmholtz-Zentrum hereon GmbH"
     },
+    "https://idp.hertie-school.org/idp/shibboleth": {
+        "de": "Hertie School - School of Governance",
+        "en": "Hertie School - School of Governance"
+    },
     "https://idp.hfbk-dresden.de/idp/shibboleth": {
         "de": "Hochschule für Bildende Künste Dresden",
         "en": "Academy of Fine Arts Dresden"
