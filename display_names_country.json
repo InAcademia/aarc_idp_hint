@@ -8034,6 +8034,10 @@
             "en": "Pontificia Universidad Catolica del Ecuador  Ibarra - pucesi",
             "es": "Pontificia Universidad Catolica del Ecuador  Ibarra - pucesi"
         },
+        "https://login.pucesm.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Pontificia Universidad Catolica del Ecuador Manabi - pucesm",
+            "es": "Pontificia Universidad Catolica del Ecuador Manabi - pucesm"
+        },
         "https://login.salesianos.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Salesianos Casa Inspectorial Quito - salesianos",
             "es": "Salesianos Casa Inspectorial Quito - salesianos"
