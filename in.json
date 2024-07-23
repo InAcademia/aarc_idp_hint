@@ -242,6 +242,9 @@
     "https://idp.iucaa.in/idp/shibboleth": {
         "en": "IUCAA"
     },
+    "https://idp.iucte.ac.in/idp/shibboleth": {
+        "en": "Inter University Centre for Teacher Education, BHU"
+    },
     "https://idp.jaipur.manipal.edu/idp/shibboleth": {
         "en": "Manipal University Jaipur"
     },
