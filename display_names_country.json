@@ -19513,6 +19513,9 @@
         "https://idp.uwm.edu/idp/shibboleth": {
             "en": "University of Wisconsin-Milwaukee"
         },
+        "https://idp.va.gov/idp/liblynx": {
+            "en": "Department of Veterans Affairs"
+        },
         "https://idp.weber.edu/idp": {
             "en": "Weber State University"
         },
