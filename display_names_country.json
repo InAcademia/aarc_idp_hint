@@ -2012,6 +2012,9 @@
         "https://identity.concordia.ab.ca/idp/shibboleth": {
             "en": "Concordia University of Edmonton"
         },
+        "https://idp-prod.mta.ca/idp": {
+            "en": "https://idp-prod.mta.ca/idp"
+        },
         "https://idp.alliancecan.ca/idp/shibboleth": {
             "en": "Digital Research Alliance of Canada - Staff",
             "fr": "Alliance de recherche numérique du Canada - Personnel"
@@ -2196,6 +2199,9 @@
         },
         "https://sso.jibc.ca/idp": {
             "en": "Justice Institute of British Columbia"
+        },
+        "https://sso.kpu.ca/idp": {
+            "en": "Kwantlen Polytechnic University"
         },
         "https://sso.mcmaster.ca/idp/shibboleth": {
             "en": "McMaster University"
