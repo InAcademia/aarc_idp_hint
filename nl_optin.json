@@ -99,14 +99,6 @@
         "en": "Wageningen University & Research (WUR)",
         "nl": "Wageningen University & Research (WUR)"
     },
-    "http://sclogin.kabk.nl/adfs/services/trust": {
-        "en": "Royal Academy of Art",
-        "nl": "Koninklijke Academie van Beeldende Kunsten"
-    },
-    "http://sclogin.koncon.nl/adfs/services/trust": {
-        "en": "Royal Conservatoire The Hague",
-        "nl": "Koninklijk Conservatorium Den Haag"
-    },
     "http://sts.drenthecollege.nl/adfs/services/trust": {
         "en": "Drenthe College",
         "nl": "Drenthe College"
@@ -210,6 +202,10 @@
     "https://sts.windows.net/486427f8-ee3e-42b3-96d2-bf1b8a0ee220/": {
         "en": "Nimeto",
         "nl": "Nimeto"
+    },
+    "https://sts.windows.net/496e7d4d-a026-4e7e-87c3-176f39bc8238/": {
+        "en": "University of the Arts The Hague",
+        "nl": "Hogeschool der Kunsten Den Haag"
     },
     "https://sts.windows.net/49d50454-13ed-4a49-9fb0-7d99214fadf4/": {
         "en": "Hogeschool KPZ",
