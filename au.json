@@ -11,6 +11,9 @@
     "https://federation.sydney.edu.au/idp/shibboleth": {
         "en": "The University of Sydney"
     },
+    "https://idp-aaf.qimrberghofer.edu.au/idp/adfs": {
+        "en": "QIMR Berghofer"
+    },
     "https://idp.actorscentreaustralia.com.au/idp/shibboleth": {
         "en": "Actors Centre Australia"
     },

@@ -863,6 +863,7 @@
     "https://idf.upm.edu.my/idp/shibboleth": "Universiti Putra Malaysia",
     "https://idm.kpu.krosno.pl/cas/idp/metadata": "State University of Applied Sciences in Krosno",
     "https://idp-01.federation.ke/simplesaml/saml2/idp/metadata.php": "Kenya Education Network (KENET)",
+    "https://idp-aaf.qimrberghofer.edu.au/idp/adfs": "QIMR Berghofer",
     "https://idp-acc.he-ferrer.eu/idp/shibboleth": "IdP 01 He-ferrer",
     "https://idp-acs.idpcloud.garr.it/idp/shibboleth": "Central State Archives",
     "https://idp-agrocampus-ouest.renater.fr/idp/shibboleth": "L'Institut Agro Rennes-Angers",
