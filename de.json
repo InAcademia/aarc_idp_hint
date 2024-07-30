@@ -219,6 +219,10 @@
         "de": "Deutsches Schifffahrtsmuseum (DSM)",
         "en": "German Maritime Museum (DSM)"
     },
+    "https://idp.dzne.de": {
+        "de": "DZNE Deutsches Zentrum fur Neurodegenerative Erkrankungen",
+        "en": "DZNE Deutsches Zentrum fur Neurodegenerative Erkrankungen"
+    },
     "https://idp.eah-jena.de/idp/shibboleth": {
         "de": "Ernst-Abbe-Hochschule Jena",
         "en": "Ernst-Abbe-Hochschule Jena"

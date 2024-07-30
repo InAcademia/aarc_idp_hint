@@ -6284,6 +6284,10 @@
             "de": "Deutsches Schifffahrtsmuseum (DSM)",
             "en": "German Maritime Museum (DSM)"
         },
+        "https://idp.dzne.de": {
+            "de": "DZNE Deutsches Zentrum fur Neurodegenerative Erkrankungen",
+            "en": "DZNE Deutsches Zentrum fur Neurodegenerative Erkrankungen"
+        },
         "https://idp.eah-jena.de/idp/shibboleth": {
             "de": "Ernst-Abbe-Hochschule Jena",
             "en": "Ernst-Abbe-Hochschule Jena"
@@ -17117,26 +17121,14 @@
         }
     },
     "ug": {
-        "https://idp.bsu.ac.ug/idp/shibboleth": {
-            "en": "Bishop Stuart University"
-        },
-        "https://idp.idi.co.ug/shibboleth": {
-            "en": "Infectious Diseases Institute"
-        },
         "https://idp.kyu.ac.ug/idp/shibboleth": {
             "en": "Kyambogo University"
         },
         "https://idp.lirauni.ac.ug/idp/shibboleth": {
             "en": "Lira University"
         },
-        "https://idp.lubagahospital.org/idp/shibboleth": {
-            "en": "Uganda Martyrs Hospital Lubaga"
-        },
         "https://idp.mak.ac.ug/idp/shibboleth": {
             "en": "Makerere University"
-        },
-        "https://idp.mengohospital.org/idp/shibboleth": {
-            "en": "Mengo Hospital"
         },
         "https://idp.ndu.ac.ug/idp/shibboleth": {
             "en": "Ndejje University IdP"
@@ -17149,12 +17141,6 @@
         },
         "https://idp.umu.ac.ug/simplesaml/module.php/saml/idp/metadata": {
             "en": "Uganda Martyrs University"
-        },
-        "https://idp.uvri.go.ug/shibboleth": {
-            "en": "Uganda Virus Research Institute (UVRI)"
-        },
-        "https://login.ace.ac.ug/idp/shibboleth": {
-            "en": "African Center of Excellence in Bioinformatics - Uganda"
         },
         "https://login.rhsp.org/idp/shibboleth": {
             "en": "Rakai Health Sciences Program"
