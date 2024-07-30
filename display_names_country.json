@@ -11404,6 +11404,9 @@
         "https://idp.cmr.edu.in/idp/shibboleth": {
             "en": "CMR University"
         },
+        "https://idp.cottonuniversity.ac.in/idp/shibboleth": {
+            "en": "Cotton University"
+        },
         "https://idp.cuhimachal.ac.in/idp/shibboleth": {
             "en": "Central University of Himachal Pradesh"
         },
