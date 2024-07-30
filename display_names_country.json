@@ -1669,6 +1669,10 @@
             "en": "INCA - Instituto Nacional de Cancer",
             "pt-br": "INCA - Instituto Nacional de Cancer"
         },
+        "https://shibboleth.ines.gov.br/idp/shibboleth": {
+            "en": "INES - Instituto Nacional de Educacao de Surdos",
+            "pt-br": "INES - Instituto Nacional de Educacao de Surdos"
+        },
         "https://shibboleth.insa.gov.br/idp/shibboleth": {
             "en": "INSA - Instituto Nacional do Semiarido",
             "pt-br": "INSA - Instituto Nacional do Semiarido"
