@@ -4724,7 +4724,6 @@
     "https://srvshibboleth.asfc.ac.uk/shibboleth": "Ashton Sixth Form College",
     "https://sse-idp.lanet.lv": "Stockholm School of Economics in Riga",
     "https://sshibo.at-hyogo.ac.jp/idp/shibboleth": "Professional College of Arts and Tourism",
-    "https://ssl.education.lu/saml/saml2/idp/metadata.php": "MENJE - CGIE IAM Users",
     "https://sso-ciation-metz.centralesupelec.fr/idp/shibboleth": "CentraleSupelec (2)",
     "https://sso-ciation-rennes.centralesupelec.fr/idp/shibboleth": "CentraleSupelec (3)",
     "https://sso-ciation-saclay.centralesupelec.fr/idp/shibboleth": "CentraleSupelec (1)",
@@ -5607,5 +5606,6 @@
     "urn:mace:incommon:virginia.edu": "University of Virginia",
     "urn:mace:incommon:vt.edu": "Virginia Tech",
     "urn:mace:incommon:washington.edu": "University of Washington",
-    "urn:mace:kuleuven.be:kulassoc:kuleuven.be": "KU Leuven Association"
+    "urn:mace:kuleuven.be:kulassoc:kuleuven.be": "KU Leuven Association",
+    "urn:x-iam-education-lu:auth": "MENJE - CGIE IAM Users"
 }

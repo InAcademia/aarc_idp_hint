@@ -17,14 +17,14 @@
         "en": "RESTENA Users",
         "fr": "RESTENA Utilisateurs"
     },
-    "https://ssl.education.lu/saml/saml2/idp/metadata.php": {
-        "en": "MENJE - CGIE IAM Users",
-        "fr": "MENJE - CGIE IAM Utilisateurs"
-    },
     "https://sts.windows.net/487175ce-c313-4417-91bc-dc3b6721b8ee/": {
         "en": "LISER"
     },
     "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/": {
         "en": "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/"
+    },
+    "urn:x-iam-education-lu:auth": {
+        "en": "MENJE - CGIE IAM Users",
+        "fr": "MENJE - CGIE IAM Utilisateurs"
     }
 }
