@@ -103,6 +103,10 @@
         "en": "Drenthe College",
         "nl": "Drenthe College"
     },
+    "http://sts.talland.nl/adfs/services/trust": {
+        "en": "Talland College",
+        "nl": "Talland College"
+    },
     "http://sts.windesheim.nl/adfs/services/trust": {
         "en": "Windesheim University of Applied Sciences",
         "nl": "Hogeschool Windesheim"
@@ -170,6 +174,10 @@
     "https://sts.windows.net/016a9e48-ba0b-49f4-97f8-a88352164e58/": {
         "en": "NHL Stenden",
         "nl": "NHL Stenden"
+    },
+    "https://sts.windows.net/084578d9-400d-4a5a-a7c7-e76ca47af400/": {
+        "en": "Radboud University",
+        "nl": "Radboud University"
     },
     "https://sts.windows.net/0a33589b-0036-4fe8-a829-3ed0926af886/": {
         "en": "Breda University of Applied Sciences",
