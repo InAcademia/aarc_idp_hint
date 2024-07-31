@@ -14242,6 +14242,10 @@
             "en": "Gerrit Rietveld Academie",
             "nl": "Gerrit Rietveld Academie"
         },
+        "http://sts.talland.nl/adfs/services/trust": {
+            "en": "Talland College",
+            "nl": "Talland College"
+        },
         "http://sts.tno.nl/adfs/services/trust": {
             "en": "TNO Innovation for life",
             "nl": "TNO Innovation for life"
@@ -14377,6 +14381,10 @@
         "https://sts.windows.net/01ef09a2-c608-4fc7-af66-836e50ddde2c/": {
             "en": "Koninklijke Bibliotheek",
             "nl": "Koninklijke Bibliotheek"
+        },
+        "https://sts.windows.net/084578d9-400d-4a5a-a7c7-e76ca47af400/": {
+            "en": "Radboud University",
+            "nl": "Radboud University"
         },
         "https://sts.windows.net/0a33589b-0036-4fe8-a829-3ed0926af886/": {
             "en": "Breda University of Applied Sciences",
