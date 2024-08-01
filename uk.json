@@ -953,6 +953,9 @@
     "https://idp.s-cheshire.ac.uk/shibboleth": {
         "en": "Cheshire College South & West"
     },
+    "https://idp.sandwell.ac.uk/idp/shibboleth": {
+        "en": "Sandwell College"
+    },
     "https://idp.sanger.ac.uk/idp/shibboleth": {
         "en": "Wellcome Trust Sanger Institute"
     },
@@ -1252,9 +1255,6 @@
     },
     "https://idpv3.btc.ac.uk/idp/shibboleth": {
         "en": "Bridgwater & Taunton College"
-    },
-    "https://idpv3.sandwell.ac.uk/idp/shibboleth": {
-        "en": "Sandwell College"
     },
     "https://idpv3.stc.ac.uk/idp/shibboleth": {
         "en": "Tyne Coast College"
