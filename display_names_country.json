@@ -446,6 +446,9 @@
         "https://idp.apacfilesender.asia/idp/shibboleth": {
             "en": "APAC Virtual Home"
         },
+        "https://idp.aust.edu/idp/shibboleth": {
+            "en": "Ahsanullah University of Science and Technology"
+        },
         "https://idp.bau.edu.bd/idp/shibboleth": {
             "en": "Bangladesh Agricultural University"
         },
@@ -475,6 +478,12 @@
         },
         "https://idp.tigerfed.com.bd/idp/shibboleth": {
             "en": "TIEGRfedcom"
+        },
+        "https://idp.uiu.ac.bd/idp/shibboleth": {
+            "en": "United International University"
+        },
+        "https://idp.wub.edu.bd/idp/shibboleth": {
+            "en": "World University of Bangladesh"
         },
         "https://idp4.tigerfed.net.bd/idp/shibboleth": {
             "en": "TIGERfed Virtual Organization"
