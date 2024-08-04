@@ -15021,9 +15021,6 @@
         }
     },
     "pk": {
-        "https://idp.bahria.edu.pk/idp/shibboleth": {
-            "en": "Bahria University Pakistan"
-        },
         "https://idp.bbsul.edu.pk/idp/shibboleth": {
             "en": "Benazir Bhutto Shaheed University Lyari"
         },
