@@ -17171,6 +17171,9 @@
         "https://idp.umu.ac.ug/simplesaml/module.php/saml/idp/metadata": {
             "en": "Uganda Martyrs University"
         },
+        "https://login.ace.ac.ug/idp/shibboleth": {
+            "en": "African Center of Excellence in Bioinformatics - Uganda"
+        },
         "https://login.rhsp.org/idp/shibboleth": {
             "en": "Rakai Health Sciences Program"
         },

@@ -3892,6 +3892,7 @@
     "https://login.aai.pionier.net.pl/IdP/saml2/idp/metadata.php": "PIONIER Consortium",
     "https://login.aaiedu.hr/edugain/saml2/idp/metadata.php": "AAI@EduHr Single Sign-On Service",
     "https://login.academyofathens.gr/idp/shibboleth": "Academy of Athens",
+    "https://login.ace.ac.ug/idp/shibboleth": "African Center of Excellence in Bioinformatics - Uganda",
     "https://login.at.edu.pl/idp": "National Academy of Dramatic Art in Warsaw",
     "https://login.athena-innovation.gr/idp/shibboleth": "Athena - Research and Innovation Center",
     "https://login.aus.edu/idp/shibboleth": "American University of Sharjah",
