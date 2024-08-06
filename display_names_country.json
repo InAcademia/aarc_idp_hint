@@ -3289,6 +3289,10 @@
             "en": "Gannan  Normal University",
             "zh": "赣南师范大学(Gannan  Normal University)"
         },
+        "https://idp.gpnu.edu.cn/idp/shibboleth": {
+            "en": "Guangdong Polytechnic Normal University",
+            "zh": "广东技术师范大学(Guangdong Polytechnic Normal University)"
+        },
         "https://idp.gtiit.edu.cn/idp/shibboleth": {
             "en": "Guangdong Technion-Israel Institute of Technology",
             "zh": "广东以色列理工学院(Guangdong Technion-Israel Institute of Technology)"
@@ -17162,8 +17166,8 @@
         "https://idp.ndu.ac.ug/idp/shibboleth": {
             "en": "Ndejje University IdP"
         },
-        "https://idp.renu.ac.ug/shibboleth": {
-            "en": "Research and Education Network for Uganda"
+        "https://idp.renu.ac.ug/idp/shibboleth": {
+            "en": "RENU IdP"
         },
         "https://idp.ucu.ac.ug/shibboleth": {
             "en": "Uganda Christian University"
