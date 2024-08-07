@@ -131,10 +131,6 @@
         "en": "Stichting Kennisnet",
         "nl": "Stichting Kennisnet"
     },
-    "http://fs.kienict.nl/adfs/services/trust": {
-        "en": "ROC Da Vinci (Old)",
-        "nl": "ROC Da Vinci (Oud)"
-    },
     "http://fs.knmi.nl/adfs/services/trust": {
         "en": "KNMI",
         "nl": "KNMI"
