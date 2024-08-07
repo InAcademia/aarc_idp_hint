@@ -128,7 +128,7 @@
         "en": "Concordia University of Edmonton"
     },
     "https://idp-prod.mta.ca/idp": {
-        "en": "https://idp-prod.mta.ca/idp"
+        "en": "Mount Allison University"
     },
     "https://idp.alliancecan.ca/idp/shibboleth": {
         "en": "Digital Research Alliance of Canada - Staff",
@@ -196,10 +196,6 @@
     },
     "https://idp.uleth.ca/idp/shibboleth": {
         "en": "University of Lethbridge"
-    },
-    "https://idp.umoncton.ca/idp/shibboleth": {
-        "en": "Université de Moncton",
-        "fr": "Université de Moncton"
     },
     "https://idp.unb.ca/idp/shibboleth": {
         "en": "University of New Brunswick"

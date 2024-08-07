@@ -823,8 +823,8 @@
             "pt-br": "FUCAPE - Fundacao Instituto Capixaba de Pesquisa em Cont. Econ. e Financas"
         },
         "https://cafe.fumec.br/idp/shibboleth": {
-            "en": "FUMEC - Universidade Fumec",
-            "pt-br": "FUMEC - Universidade Fumec"
+            "en": "FUMEC - Fundacao Mineira de Educacao e Cultura",
+            "pt-br": "FUMEC - Fundacao Mineira de Educacao e Cultura"
         },
         "https://cafe.funesa.se.gov.br/idp/shibboleth": {
             "en": "FUNESA - Fundacao Estadual de Saude",
@@ -2029,7 +2029,7 @@
             "en": "Concordia University of Edmonton"
         },
         "https://idp-prod.mta.ca/idp": {
-            "en": "https://idp-prod.mta.ca/idp"
+            "en": "Mount Allison University"
         },
         "https://idp.alliancecan.ca/idp/shibboleth": {
             "en": "Digital Research Alliance of Canada - Staff",
@@ -2097,10 +2097,6 @@
         },
         "https://idp.uleth.ca/idp/shibboleth": {
             "en": "University of Lethbridge"
-        },
-        "https://idp.umoncton.ca/idp/shibboleth": {
-            "en": "Université de Moncton",
-            "fr": "Université de Moncton"
         },
         "https://idp.unb.ca/idp/shibboleth": {
             "en": "University of New Brunswick"
