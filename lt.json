@@ -1,8 +1,4 @@
 {
-    "https://ak.sso.litnet.lt/auth/saml2/idp/metadata.php": {
-        "en": "Alytus University of Applied Sciences",
-        "lt": "Alytaus kolegija"
-    },
     "https://auth.svako.lt/sso/saml2/idp/metadata.php": {
         "en": "Siauliai State College",
         "lt": "Šiaulių valstybinė kolegija"
