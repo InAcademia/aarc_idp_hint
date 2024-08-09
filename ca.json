@@ -163,9 +163,6 @@
     "https://idp.lakeheadu.ca/idp/shibboleth": {
         "en": "Lakehead University"
     },
-    "https://idp.mta.ca/idp/shibboleth": {
-        "en": "Mount Allison University"
-    },
     "https://idp.nbcc.ca/idp": {
         "en": "New Brunswick Communuity College"
     },
