@@ -659,6 +659,10 @@
         "en": "UNIFAP - Universidade Federal do Amapa",
         "pt-br": "UNIFAP - Universidade Federal do Amapa"
     },
+    "https://idp.unifatea.edu.br/idp/shibboleth": {
+        "en": "UNIFATEA - Centro Universitario Teresa D Avila",
+        "pt-br": "UNIFATEA - Centro Universitario Teresa D Avila"
+    },
     "https://idp.unifesp.br/idp/shibboleth": {
         "en": "UNIFESP - Universidade Federal de Sao Paulo",
         "pt-br": "UNIFESP - Universidade Federal de Sao Paulo"
