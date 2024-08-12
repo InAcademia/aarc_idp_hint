@@ -115,6 +115,10 @@
         "en": "CUNEF Universidad",
         "es": "CUNEF Universidad"
     },
+    "https://www.rediris.es/sir/descubreidp": {
+        "en": "Fundacion Andaluza para Divulgacion de la Innovacion y el Conocimiento",
+        "es": "Fundación Andaluza para Divulgación de la Innovación y el Conocimiento"
+    },
     "https://www.rediris.es/sir/deustoidp": {
         "en": "Universidad de Deusto",
         "eu": "Universidad de Deusto"
@@ -198,6 +202,10 @@
     "https://www.rediris.es/sir/icfoidp": {
         "en": "ICFO – The Institute of Photonic Sciences",
         "es": "ICFO – The Institute of Photonic Sciences"
+    },
+    "https://www.rediris.es/sir/icn2idp": {
+        "ca": "Instituto Catalan de Nanociencia y Nanotecnologia",
+        "en": "Instituto Catalan de Nanociencia y Nanotecnologia"
     },
     "https://www.rediris.es/sir/ieecidp": {
         "ca": "Institut d'Estudis Espacials de Catalunya",
