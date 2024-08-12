@@ -2225,6 +2225,9 @@
         "https://sso.royalroads.ca/idp": {
             "en": "Royal Roads University"
         },
+        "https://sso.tru.ca/idp": {
+            "en": "Thompson Rivers University"
+        },
         "https://sso.unbc.ca/idp": {
             "en": "University of Northern British Columbia"
         },
