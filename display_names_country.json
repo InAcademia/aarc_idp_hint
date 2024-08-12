@@ -1618,10 +1618,6 @@
             "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
             "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
         },
-        "https://shibboleth-s1.ufersa.edu.br/idp/shibboleth": {
-            "en": "UFERSA - Universidade Federal Rural Do Semi-Arido",
-            "pt-br": "UFERSA - Universidade Federal Rural Do Semi-Arido"
-        },
         "https://shibboleth.abc.org.br/idp/shibboleth": {
             "en": "ABC - Academia Brasileira de Ciencias",
             "pt-br": "ABC - Academia Brasileira de Ciencias"
@@ -1697,6 +1693,10 @@
         "https://shibboleth.ufcg.edu.br/idp/shibboleth": {
             "en": "UFCG - Universidade Federal de Campina Grande",
             "pt-br": "UFCG - Universidade Federal de Campina Grande"
+        },
+        "https://shibboleth.ufersa.edu.br/idp/shibboleth": {
+            "en": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI ARIDO",
+            "pt-br": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI ARIDO"
         },
         "https://shibboleth.ufg.br/idp/shibboleth": {
             "en": "UFG - Universidade Federal de Goias",
