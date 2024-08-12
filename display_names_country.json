@@ -6348,7 +6348,7 @@
         },
         "https://idp.fh-muenster.de/idp/shibboleth": {
             "de": "FH Münster",
-            "en": "FH Münster"
+            "en": "FH Muenster"
         },
         "https://idp.fh-offenburg.de/idp/shibboleth": {
             "de": "Hochschule Offenburg",
@@ -10108,10 +10108,6 @@
         "https://login.insa-lyon.fr/idp/shibboleth": {
             "en": "INSA Lyon",
             "fr": "INSA Lyon"
-        },
-        "https://multipass.imt-lille-douai.fr/idp/shibboleth": {
-            "en": "IMT Nord Europe",
-            "fr": "IMT Nord Europe"
         },
         "https://multipass.imt-nord-europe.fr/idp/shibboleth": {
             "en": "IMT Nord Europe (v4)",

@@ -947,10 +947,6 @@
         "en": "INSA Lyon",
         "fr": "INSA Lyon"
     },
-    "https://multipass.imt-lille-douai.fr/idp/shibboleth": {
-        "en": "IMT Nord Europe",
-        "fr": "IMT Nord Europe"
-    },
     "https://multipass.imt-nord-europe.fr/idp/shibboleth": {
         "en": "IMT Nord Europe (v4)",
         "fr": "IMT Nord Europe (v4)"
