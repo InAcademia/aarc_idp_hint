@@ -948,8 +948,8 @@
         "fr": "INSA Lyon"
     },
     "https://multipass.imt-nord-europe.fr/idp/shibboleth": {
-        "en": "IMT Nord Europe (v4)",
-        "fr": "IMT Nord Europe (v4)"
+        "en": "IMT Nord Europe",
+        "fr": "IMT Nord Europe"
     },
     "https://papangue.vetagro-sup.fr/idp/shibboleth": {
         "en": "IDP vetagro sup PROD",

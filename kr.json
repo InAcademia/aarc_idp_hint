@@ -3,7 +3,7 @@
         "en": "Institute for Basic Science"
     },
     "https://coreen-idp.kreonet.net/idp/simplesamlphp": {
-        "en": "COREEN set.ID by KAFE"
+        "en": "COREEN set.ID by KAFE (비회원기관 로그인)"
     },
     "https://iam.kfe.re.kr/idp/simplesamlphp": {
         "en": "Korea Institute of Fusion Energy"

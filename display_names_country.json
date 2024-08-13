@@ -10113,8 +10113,8 @@
             "fr": "INSA Lyon"
         },
         "https://multipass.imt-nord-europe.fr/idp/shibboleth": {
-            "en": "IMT Nord Europe (v4)",
-            "fr": "IMT Nord Europe (v4)"
+            "en": "IMT Nord Europe",
+            "fr": "IMT Nord Europe"
         },
         "https://papangue.vetagro-sup.fr/idp/shibboleth": {
             "en": "IDP vetagro sup PROD",
@@ -13056,7 +13056,7 @@
             "en": "Institute for Basic Science"
         },
         "https://coreen-idp.kreonet.net/idp/simplesamlphp": {
-            "en": "COREEN set.ID by KAFE"
+            "en": "COREEN set.ID by KAFE (비회원기관 로그인)"
         },
         "https://iam.kfe.re.kr/idp/simplesamlphp": {
             "en": "Korea Institute of Fusion Energy"
