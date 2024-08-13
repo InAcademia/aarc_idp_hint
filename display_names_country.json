@@ -18382,6 +18382,9 @@
         "https://idp.worc.ac.uk/oala/metadata": {
             "en": "University of Worcester"
         },
+        "https://idp.worcestershire.gov.uk/entity": {
+            "en": "Worcestershire County Council"
+        },
         "https://idp.writtle.ac.uk/shibboleth": {
             "en": "Writtle University College"
         },
