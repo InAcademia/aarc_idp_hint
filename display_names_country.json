@@ -11782,6 +11782,9 @@
         "https://idp.sjec.ac.in/idp/shibboleth": {
             "en": "St Joseph Engineering College, Mangalore"
         },
+        "https://idp.sju.edu.in/idp/shibboleth": {
+            "en": "St Joseph's University, Bengaluru"
+        },
         "https://idp.skcet.ac.in/idp/shibboleth": {
             "en": "Sri Krishna College of Engineering and Technology"
         },
@@ -13053,7 +13056,7 @@
             "en": "Institute for Basic Science"
         },
         "https://coreen-idp.kreonet.net/idp/simplesamlphp": {
-            "en": "COREEN set.ID by KAFE (비회원기관 로그인)"
+            "en": "COREEN set.ID by KAFE | 비회원기관 로그인"
         },
         "https://iam.kfe.re.kr/idp/simplesamlphp": {
             "en": "Korea Institute of Fusion Energy"

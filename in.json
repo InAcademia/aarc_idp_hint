@@ -449,6 +449,9 @@
     "https://idp.sjec.ac.in/idp/shibboleth": {
         "en": "St Joseph Engineering College, Mangalore"
     },
+    "https://idp.sju.edu.in/idp/shibboleth": {
+        "en": "St Joseph's University, Bengaluru"
+    },
     "https://idp.skcet.ac.in/idp/shibboleth": {
         "en": "Sri Krishna College of Engineering and Technology"
     },
