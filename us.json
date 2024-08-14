@@ -1175,9 +1175,6 @@
     "https://sso.gac.edu/idp/shibboleth": {
         "en": "Gustavus Adolphus College"
     },
-    "https://sso.gc.cuny.edu/idp/shibboleth": {
-        "en": "CUNY Graduate Center"
-    },
     "https://sso.humboldt.edu/idp/metadata": {
         "en": "Cal Poly Humboldt"
     },
