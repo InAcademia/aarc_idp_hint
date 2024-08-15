@@ -119,10 +119,6 @@
         "en": "Rotterdam University of Applied Sciences",
         "nl": "Hogeschool Rotterdam"
     },
-    "https://conext.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
-        "en": "Radboud University (USEZ-account)",
-        "nl": "Radboud Universiteit (USEZ-account)"
-    },
     "https://federatie.hku.nl": {
         "en": "Utrecht School of the Arts",
         "nl": "Hogeschool voor de Kunsten Utrecht"
