@@ -111,6 +111,10 @@
         "en": "International Business School",
         "hu": "IBS Nemzetközi Üzleti Főiskola"
     },
+    "https://idp.koki.hu/default-idp": {
+        "en": "HUN-REN Institute of Experimental Medicine",
+        "hu": "HUN-REN Kísérleti Orvostudományi Kutatóintézet"
+    },
     "https://idp.konyvtar.mta.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Library and Information Centre of the Hungarian Academy of Sciences",
         "hu": "Magyar Tudományos Akadémia Könyvtár és Információs Központ"
