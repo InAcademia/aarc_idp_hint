@@ -14644,7 +14644,7 @@
             "nl": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)"
         },
         "https://sts.windows.net/a2586b9b-f867-4b3c-9363-5b435c5dbc45/": {
-            "en": "The Hague University of Applied Science (THUAS)",
+            "en": "The Hague University of Applied Sciences (THUAS)",
             "nl": "De Haagse Hogeschool (HHS)"
         },
         "https://sts.windows.net/a55886c4-2e41-4058-8118-ddeff4e87eec/": {
@@ -17166,6 +17166,9 @@
         }
     },
     "ug": {
+        "https://idp-mgd-ksnm.renu.ac.ug/idp/shibboleth": {
+            "en": "Kyetume School of Nursing and Midwifery"
+        },
         "https://idp.kyu.ac.ug/idp/shibboleth": {
             "en": "Kyambogo University"
         },
