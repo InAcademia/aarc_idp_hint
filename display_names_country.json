@@ -950,6 +950,10 @@
             "en": "UFPI - Universidade Federal do Piaui",
             "pt-br": "UFPI - Universidade Federal do Piaui"
         },
+        "https://cafe.ufrj.br/idp/shibboleth": {
+            "en": "UFRJ - Universidade Federal do Rio de Janeiro",
+            "pt-br": "UFRJ - Universidade Federal do Rio de Janeiro"
+        },
         "https://cafe.ufsb.edu.br/idp/shibboleth": {
             "en": "UFSB - Universidade Federal do Sul da Bahia",
             "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
