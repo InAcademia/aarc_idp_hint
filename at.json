@@ -23,6 +23,10 @@
         "de": "FH CAMPUS 02",
         "en": "FH CAMPUS 02"
     },
+    "https://eduid.geosphere.at/idp/entity": {
+        "de": "GeoSphere Austria",
+        "en": "GeoSphere Austria"
+    },
     "https://eduid.ph-kaernten.ac.at/idp/shibboleth": {
         "de": "Pädagogische Hochschule Kärnten",
         "en": "University College of Teacher Education Carinthia"
@@ -61,7 +65,7 @@
     },
     "https://idp.fh-wien.ac.at/idp/shibboleth": {
         "de": "FH Wien der WKW",
-        "en": "FH Wien -- University of Applied Sciences for Management & Communication"
+        "en": "FH Wien – University of Applied Sciences for Management & Communication"
     },
     "https://idp.gmpu.ac.at/idp/shibboleth": {
         "de": "Gustav Mahler Privatuniversität",
