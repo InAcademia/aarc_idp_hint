@@ -27,10 +27,6 @@
         "en": "KBFI",
         "et": "KBFI"
     },
-    "https://passwd.tlu.ee/taatauth/saml2/idp/metadata.php": {
-        "en": "Tallinn University",
-        "et": "Tallinna Ülikool"
-    },
     "https://simplesaml.eek.ee/saml2/idp/metadata.php": {
         "en": "Estonian Entrepreneurship University Of Applied Sciences",
         "et": "Eesti Ettevõtluskõrgkool Mainor"

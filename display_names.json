@@ -4216,7 +4216,6 @@
     "https://passport.escience.cn/idp/shibboleth": "CSTCloud ID",
     "https://passport.pitt.edu/idp/shibboleth": "University of Pittsburgh",
     "https://passport01.leeds.ac.uk/idp/shibboleth": "University of Leeds",
-    "https://passwd.tlu.ee/taatauth/saml2/idp/metadata.php": "Tallinn University",
     "https://pceidp01.nempk.cz/idp/shibboleth": "Nemocnice Pardubického kraje, a.s.",
     "https://pct-guama-idp-cafe.fundacaoguama.org.br/idp/shibboleth": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
     "https://peridot.truman.edu/idp": "Truman State University",
