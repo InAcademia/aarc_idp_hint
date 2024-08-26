@@ -8271,6 +8271,14 @@
         }
     },
     "ee": {
+        "http://adfs.ebs.ee/adfs/services/trust": {
+            "en": "Estonian Business School",
+            "et": "Estonian Business School"
+        },
+        "https://auth.ut.ee/idp/saml2/idp/metadata.php": {
+            "en": "University of Tartu",
+            "et": "Tartu Ülikool"
+        },
         "https://eenet.harid.ee/sso/saml2/idp/metadata.php": {
             "en": "EENet SSO",
             "et": "EENet SSO"
@@ -8278,6 +8286,14 @@
         "https://id.artun.ee/simplesaml/saml2/idp/metadata.php": {
             "en": "Estonian Academy of Arts",
             "et": "Eesti Kunstiakadeemia"
+        },
+        "https://idp.taltech.ee/simplesaml/module.php/saml/idp/metadata": {
+            "en": "TalTech",
+            "et": "TalTech"
+        },
+        "https://idp.ttu.ee/simplesaml/saml2/idp/metadata.php": {
+            "en": "TalTech Legacy",
+            "et": "TalTech Legacy"
         },
         "https://memm.hep.kbfi.ee/saml2/idp/metadata.php": {
             "en": "KBFI",
