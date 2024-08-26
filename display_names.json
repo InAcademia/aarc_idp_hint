@@ -941,6 +941,7 @@
     "https://idp-isnb.irccs.garr.it/idp/shibboleth": "IRCCS Istituto delle Scienze Neurologiche - Bologna",
     "https://idp-istba.irccs.garr.it/idp/shibboleth": "IRCCS Istituto Tumori 'Giovanni Paolo II' - Bari",
     "https://idp-izs-sardegna.idpcloud.garr.it/metadata": "IZS della Sardegna",
+    "https://idp-k3.federation.ke/simplesaml/saml2/idp/metadata.php": "KENET Staff Identity Provider",
     "https://idp-lib.abtu.edu.cn/idp/shibboleth": "Aba Teachers University",
     "https://idp-lib.bjut.edu.cn/idp/shibboleth": "Beijing University of Technology",
     "https://idp-lib.cau.edu.cn/idp/shibboleth": "China Agricultural University",
