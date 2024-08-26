@@ -1,12 +1,4 @@
 {
-    "http://adfs.ebs.ee/adfs/services/trust": {
-        "en": "Estonian Business School",
-        "et": "Estonian Business School"
-    },
-    "https://auth.ut.ee/idp/saml2/idp/metadata.php": {
-        "en": "University of Tartu",
-        "et": "Tartu Ülikool"
-    },
     "https://eenet.harid.ee/sso/saml2/idp/metadata.php": {
         "en": "EENet SSO",
         "et": "EENet SSO"
@@ -15,17 +7,29 @@
         "en": "Estonian Academy of Arts",
         "et": "Eesti Kunstiakadeemia"
     },
-    "https://idp.taltech.ee/simplesaml/module.php/saml/idp/metadata": {
-        "en": "TalTech",
-        "et": "TalTech"
-    },
-    "https://idp.ttu.ee/simplesaml/saml2/idp/metadata.php": {
-        "en": "TalTech Legacy",
-        "et": "TalTech Legacy"
-    },
     "https://memm.hep.kbfi.ee/saml2/idp/metadata.php": {
         "en": "KBFI",
         "et": "KBFI"
+    },
+    "https://passwd.tlu.ee/taatauth/saml2/idp/metadata.php": {
+        "en": "Tallinn University",
+        "et": "Tallinna Ülikool"
+    },
+    "https://simplesaml.eek.ee/saml2/idp/metadata.php": {
+        "en": "Estonian Entrepreneurship University Of Applied Sciences",
+        "et": "Eesti Ettevõtluskõrgkool Mainor"
+    },
+    "https://sisekaitse.ois.ee/simplesamlphp/saml2/idp/metadata.php": {
+        "en": "Estonian Academy of Security Sciences",
+        "et": "Sisekaitseakadeemia"
+    },
+    "https://siseveeb.nooruse.ee/sso/saml2/idp/metadata.php": {
+        "en": "Tartu Healthcare College",
+        "et": "Tartu Tervishoiu Kõrgkool"
+    },
+    "https://ssp.eava.ee/saml2/idp/metadata.php": {
+        "en": "Estonian Aviation Academy",
+        "et": "Eesti Lennuakadeemia"
     },
     "https://taat.eamt.ee/taat/saml2/idp/metadata.php": {
         "en": "Estonian Academy of Music and Theatre",
