@@ -8299,22 +8299,6 @@
             "en": "KBFI",
             "et": "KBFI"
         },
-        "https://simplesaml.eek.ee/saml2/idp/metadata.php": {
-            "en": "Estonian Entrepreneurship University Of Applied Sciences",
-            "et": "Eesti Ettevõtluskõrgkool Mainor"
-        },
-        "https://sisekaitse.ois.ee/simplesamlphp/saml2/idp/metadata.php": {
-            "en": "Estonian Academy of Security Sciences",
-            "et": "Sisekaitseakadeemia"
-        },
-        "https://siseveeb.nooruse.ee/sso/saml2/idp/metadata.php": {
-            "en": "Tartu Healthcare College",
-            "et": "Tartu Tervishoiu Kõrgkool"
-        },
-        "https://ssp.eava.ee/saml2/idp/metadata.php": {
-            "en": "Estonian Aviation Academy",
-            "et": "Eesti Lennuakadeemia"
-        },
         "https://taat.eamt.ee/taat/saml2/idp/metadata.php": {
             "en": "Estonian Academy of Music and Theatre",
             "et": "Eesti Muusika- ja Teatriakadeemia"
