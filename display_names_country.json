@@ -19625,6 +19625,9 @@
         "https://login.brockport.edu": {
             "en": "SUNY The College at Brockport"
         },
+        "https://login.bshp.edu": {
+            "en": "Baptist Health System School of Health Professions"
+        },
         "https://login.cmu.edu/idp/shibboleth": {
             "en": "Carnegie Mellon University"
         },
@@ -20104,6 +20107,9 @@
         },
         "https://sso.gac.edu/idp/shibboleth": {
             "en": "Gustavus Adolphus College"
+        },
+        "https://sso.gvsu.edu/idp": {
+            "en": "Grand Valley State University"
         },
         "https://sso.humboldt.edu/idp/metadata": {
             "en": "Cal Poly Humboldt"
