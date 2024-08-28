@@ -8245,10 +8245,6 @@
             "en": "Universidad UTE - ute",
             "es": "Universidad UTE - ute"
         },
-        "https://login.utelvt.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Universidad Técnica Luis Vargas Torres - utelvt",
-            "es": "Universidad Universidad Técnica Luis Vargas Torres - utelvt"
-        },
         "https://login.uti.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Tecnologica Indoamerica - uti",
             "es": "Universidad Tecnologica Indoamerica - uti"
