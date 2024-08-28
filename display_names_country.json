@@ -12595,6 +12595,10 @@
             "en": "Shiga University",
             "ja": "滋賀大学"
         },
+        "https://eduroam.meijigakuin.ac.jp/idp/shibboleth": {
+            "en": "Meiji Gakuin University",
+            "ja": "明治学院大学"
+        },
         "https://gakunin-idp.c.chuo-u.ac.jp/idp/shibboleth": {
             "en": "Chuo University",
             "ja": "中央大学"

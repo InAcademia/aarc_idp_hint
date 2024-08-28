@@ -659,6 +659,7 @@
     "https://eduid.vstecb.cz/idp/shibboleth": "Institute of Technology and Business in České Budějovice",
     "https://eduid.vumop.cz/idp/shibboleth": "VÚMOP, v.v.i.",
     "https://edulidp01.hants.gov.uk/idp/shibboleth": "Hampshire County Council",
+    "https://eduroam.meijigakuin.ac.jp/idp/shibboleth": "Meiji Gakuin University",
     "https://eenet.harid.ee/sso/saml2/idp/metadata.php": "EENet SSO",
     "https://ehu.sso.litnet.lt/auth/saml2/idp/metadata.php": "European Humanities University",
     "https://eid.swu.bg/idp/shibboleth": "South-West Unversity \"Neofit Rilski\"",
