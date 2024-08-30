@@ -800,9 +800,6 @@
     "https://miracosta.fedgw.com/gateway": {
         "en": "MiraCosta College"
     },
-    "https://my.atsu.edu/swPublicSSO/SAML/incommon": {
-        "en": "A. T. Still University"
-    },
     "https://mycomidp.marin.edu": {
         "en": "Marin Community College District"
     },
@@ -1234,6 +1231,9 @@
     },
     "https://sso.pdx.edu/idp/shibboleth": {
         "en": "Portland State University"
+    },
+    "https://sso.redlands.edu/idp": {
+        "en": "University of Redlands"
     },
     "https://sso.rhoworld.com/idp": {
         "en": "Rho Federal Systems Division, Inc."
