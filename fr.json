@@ -436,8 +436,8 @@
         "fr": "Bordeaux Sciences Agro"
     },
     "https://idp.enpc.fr/saml/metadata": {
-        "en": "Ecole des Ponts ParisTech",
-        "fr": "École des Ponts ParisTech"
+        "en": "Ecole nationale des ponts et chaussees",
+        "fr": "École nationale des ponts et chaussées"
     },
     "https://idp.ens-lyon.fr/idp/shibboleth": {
         "en": "ENS de Lyon",

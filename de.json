@@ -127,6 +127,10 @@
         "de": "Berufliche Hochschule Hamburg",
         "en": "Berufliche Hochschule Hamburg"
     },
+    "https://idp.bib.de/idp/shibboleth": {
+        "de": "bib International College",
+        "en": "bib International College"
+    },
     "https://idp.biochem.mpg.de/idp/shibboleth": {
         "de": "MPI fuer Biochemie",
         "en": "MPI of Biochemistry"

@@ -6219,6 +6219,10 @@
             "de": "Berufliche Hochschule Hamburg",
             "en": "Berufliche Hochschule Hamburg"
         },
+        "https://idp.bib.de/idp/shibboleth": {
+            "de": "bib International College",
+            "en": "bib International College"
+        },
         "https://idp.biochem.mpg.de/idp/shibboleth": {
             "de": "MPI fuer Biochemie",
             "en": "MPI of Biochemistry"
@@ -9587,8 +9591,8 @@
             "fr": "Bordeaux Sciences Agro"
         },
         "https://idp.enpc.fr/saml/metadata": {
-            "en": "Ecole des Ponts ParisTech",
-            "fr": "École des Ponts ParisTech"
+            "en": "Ecole nationale des ponts et chaussees",
+            "fr": "École nationale des ponts et chaussées"
         },
         "https://idp.ens-lyon.fr/idp/shibboleth": {
             "en": "ENS de Lyon",
