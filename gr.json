@@ -228,10 +228,6 @@
         "el": "Ιόνιο Πανεπιστήμιο (πρώην ΤΕΙ Ιονίων Νήσων)",
         "en": "Ionian University (former TEI of Ionian Islands)"
     },
-    "https://idp.teikoz.gr/idp/shibboleth": {
-        "el": "Πανεπιστήμιο Δυτικής Μακεδονίας (πρώην Τεχνολογικό Εκπαιδευτικό Ίδρυμα Δυτικής Μακεδονίας)",
-        "en": "University of Western Macedonia (former Technological Educational Institute of Western Macedonia)"
-    },
     "https://idp.trikalahospital.gr/idp/shibboleth": {
         "en": "https://idp.trikalahospital.gr/idp/shibboleth"
     },
