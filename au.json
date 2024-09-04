@@ -8,6 +8,9 @@
     "https://aaf1-idp.its.utas.edu.au/idp/shibboleth": {
         "en": "University of Tasmania"
     },
+    "https://aafidp.tafensw.edu.au/idp/shibboleth": {
+        "en": "TAFE NSW"
+    },
     "https://federation.sydney.edu.au/idp/shibboleth": {
         "en": "The University of Sydney"
     },
