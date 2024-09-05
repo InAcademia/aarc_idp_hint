@@ -1,4 +1,8 @@
 {
+    "https://aai.e-uvt.ro/sso/module.php/saml/idp/metadata": {
+        "en": "West University of Timisoara",
+        "ro": "Universitatea de Vest din Timisoara"
+    },
     "https://accounts.ulbsibiu.ro/myaccount-provider/saml2/idp/metadata.php": {
         "en": "Lucian Blaga University of Sibiu IdP",
         "ro": "Universitatea Lucian Blaga din Sibiu IdP"
@@ -49,10 +53,6 @@
     "https://idp.utcb.ro/idp/shibboleth": {
         "en": "Technical University of Civil Engineering Bucharest IdP",
         "ro": "IdP al Universitatii Tehnice de Constructii Bucuresti"
-    },
-    "https://login.e-uvt.ro/aai/saml2/idp/metadata.php": {
-        "en": "West University of Timișoara IdP",
-        "ro": "IdP al Universității de Vest din Timișoara"
     },
     "https://splp.snspa.ro/smplp/saml2/idp/metadata.php": {
         "en": "National School of Political Science and Public Administration",
