@@ -2,6 +2,9 @@
     "https://idp.apacfilesender.asia/idp/shibboleth": {
         "en": "APAC Virtual Home"
     },
+    "https://idp.aub.ac.bd/idp/shibboleth": {
+        "en": "ASIAN UNIVERSITY OF BANGLADESH"
+    },
     "https://idp.aust.edu/idp/shibboleth": {
         "en": "Ahsanullah University of Science and Technology"
     },

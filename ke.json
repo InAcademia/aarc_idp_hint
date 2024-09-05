@@ -11,7 +11,7 @@
     "https://idp.ku.ac.ke/simplesaml/saml2/idp/metadata.php": {
         "en": "Kenyatta University"
     },
-    "https://strathmore.edu/simplesaml/saml2/idp/metadata.php": {
+    "https://rafiki.strathmore.edu/simplesaml/saml2/idp/metadata.php": {
         "en": "Strathmore University"
     }
 }

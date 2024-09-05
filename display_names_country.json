@@ -453,6 +453,9 @@
         "https://idp.apacfilesender.asia/idp/shibboleth": {
             "en": "APAC Virtual Home"
         },
+        "https://idp.aub.ac.bd/idp/shibboleth": {
+            "en": "ASIAN UNIVERSITY OF BANGLADESH"
+        },
         "https://idp.aust.edu/idp/shibboleth": {
             "en": "Ahsanullah University of Science and Technology"
         },
@@ -13025,7 +13028,7 @@
         "https://idp.ku.ac.ke/simplesaml/saml2/idp/metadata.php": {
             "en": "Kenyatta University"
         },
-        "https://strathmore.edu/simplesaml/saml2/idp/metadata.php": {
+        "https://rafiki.strathmore.edu/simplesaml/saml2/idp/metadata.php": {
             "en": "Strathmore University"
         }
     },
@@ -14380,8 +14383,8 @@
             "nl": "Hogeschool Utrecht"
         },
         "https://sts.windows.net/016a9e48-ba0b-49f4-97f8-a88352164e58/": {
-            "en": "NHL Stenden",
-            "nl": "NHL Stenden"
+            "en": "NHL Stenden University of Applied Sciences",
+            "nl": "NHL Stenden Hogeschool"
         },
         "https://sts.windows.net/01ef09a2-c608-4fc7-af66-836e50ddde2c/": {
             "en": "Koninklijke Bibliotheek",
