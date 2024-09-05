@@ -724,8 +724,8 @@
         "fr": "Université d'Artois"
     },
     "https://idp.univ-cotedazur.fr/idp/shibboleth": {
-        "en": "Université Côte d'Azur (new idp)",
-        "fr": "Université Côte d'Azur (nouvel idp)"
+        "en": "Université Côte d'Azur",
+        "fr": "Université Côte d'Azur"
     },
     "https://idp.univ-eiffel.fr/idp/shibboleth": {
         "en": "Gustave Eiffel University",
@@ -1218,10 +1218,6 @@
     "urn:mace:cru.fr:federation:uhb.fr": {
         "en": "Université Rennes 2",
         "fr": "Université Rennes 2"
-    },
-    "urn:mace:cru.fr:federation:unice.fr": {
-        "en": "Université Côte d'Azur",
-        "fr": "Université Côte d'Azur"
     },
     "urn:mace:cru.fr:federation:unilim.fr": {
         "en": "Université de Limoges",
