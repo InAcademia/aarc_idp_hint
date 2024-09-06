@@ -19884,6 +19884,9 @@
         "https://shibboleth-2.baylor.edu/idp/shibboleth": {
             "en": "Baylor University"
         },
+        "https://shibboleth-test.nypl.org/idp/shibboleth": {
+            "en": "New York Public Library"
+        },
         "https://shibboleth.aws.eckerd.edu/idp/shibboleth": {
             "en": "Eckerd College"
         },
