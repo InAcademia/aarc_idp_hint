@@ -7385,6 +7385,10 @@
             "de": "Pädagogische Hochschule Heidelberg",
             "en": "Pädagogische Hochschule Heidelberg"
         },
+        "https://shib.rsh-duesseldorf.de/idp": {
+            "de": "Robert Schumann Hochschule Düsseldorf",
+            "en": "Robert Schumann Hochschule Düsseldorf"
+        },
         "https://shib.rz.tu-harburg.de/idp/shibboleth": {
             "de": "TU Hamburg (TUHH)",
             "en": "Hamburg University of Technology (TUHH)"
