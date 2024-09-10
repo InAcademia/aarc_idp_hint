@@ -19395,6 +19395,9 @@
         "https://idp.lsuhs.edu/idp/shibboleth": {
             "en": "LSU Health Shreveport"
         },
+        "https://idp.ltcc.edu/idp/shibboleth": {
+            "en": "Lake Tahoe Community College"
+        },
         "https://idp.maine.edu/idp/shibboleth": {
             "en": "University of Maine System"
         },
@@ -20063,9 +20066,6 @@
         },
         "https://singlesignon.gwu.edu/idp/shibboleth": {
             "en": "The George Washington University"
-        },
-        "https://smidp.uwstout.edu/idp/shibboleth": {
-            "en": "University of Wisconsin - Stout"
         },
         "https://sonny.furman.edu/idp": {
             "en": "Furman University"
