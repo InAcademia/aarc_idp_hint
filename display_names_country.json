@@ -7992,6 +7992,10 @@
             "en": "Domingo Comin - domingocomin",
             "es": "Domingo Comin - domingocomin"
         },
+        "https://login.donboscolatola.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola",
+            "es": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola"
+        },
         "https://login.donboscomacas.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas",
             "es": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas"
@@ -8043,6 +8047,10 @@
         "https://login.ipac.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Particular Abdón Calderón - ipac",
             "es": "Instituto Particular Abdón Calderón - ipac"
+        },
+        "https://login.iste.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Instituto Tecnologico Superior Universitario España - iste",
+            "es": "Instituto Tecnologico Superior Universitario España - iste"
         },
         "https://login.ister.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Tecnológico Superior Rumiñahui - ister",
@@ -8180,6 +8188,10 @@
             "en": "Universidad Estatal de Bolivar - ueb",
             "es": "Universidad Estatal de Bolivar - ueb"
         },
+        "https://login.uesmae.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Unidad Educativa Salesiana María Auxiliadora Esmeraldas - uesmae",
+            "es": "Unidad Educativa Salesiana María Auxiliadora Esmeraldas - uesmae"
+        },
         "https://login.uestar.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Santo Tomas Apostol Riobamba - uestar",
             "es": "Unidad Educativa Santo Tomas Apostol Riobamba - uestar"
@@ -8207,6 +8219,10 @@
         "https://login.unae.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Nacional de Educacion - unae",
             "es": "Universidad Nacional de Educacion - unae"
+        },
+        "https://login.unesum.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad Estatal del Sur de Manabi - unesum",
+            "es": "Universidad Estatal del Sur de Manabi - unesum"
         },
         "https://login.uniandes.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Regional Autonoma de los Andes - uniandes",
@@ -8247,6 +8263,14 @@
         "https://login.ute.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad UTE - ute",
             "es": "Universidad UTE - ute"
+        },
+        "https://login.utelvt.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad Universidad Técnica Luis Vargas Torres - utelvt",
+            "es": "Universidad Universidad Técnica Luis Vargas Torres - utelvt"
+        },
+        "https://login.uteq.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad Tecnica Estatal de Quevedo - uteq",
+            "es": "Universidad Tecnica Estatal de Quevedo - uteq"
         },
         "https://login.uti.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Tecnologica Indoamerica - uti",
