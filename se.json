@@ -72,8 +72,8 @@
         "sv": "Sveriges lantbruksuniversitet"
     },
     "https://idp-v2.konstfack.se/adfs/services/trust": {
-        "en": "Konstfack",
-        "sv": "Konstfack"
+        "en": "Konstfack - University account",
+        "sv": "Konstfack - University account"
     },
     "https://idp-v2.suni.se/adfs/services/trust": {
         "en": "Södertörn University",
