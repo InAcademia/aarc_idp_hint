@@ -17239,6 +17239,9 @@
         "https://afbi-shib.ads.qub.ac.uk/idp/shibboleth": {
             "en": "AFBI: Agri-Food Biosciences Institute"
         },
+        "https://alumni-idp.is.ed.ac.uk/idp/shibboleth": {
+            "en": "University of Edinburgh Identity Provider (Alumni Only)"
+        },
         "https://amf.idp.ukri.org/idp": {
             "en": "UK Research and Innovation"
         },
