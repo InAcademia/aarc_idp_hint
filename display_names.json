@@ -4911,6 +4911,7 @@
     "https://sso.mcmaster.ca/idp/shibboleth": "McMaster University",
     "https://sso.memphis.edu/idp/shibboleth": "The University of Memphis",
     "https://sso.mgb.org/idp": "Mass General Brigham",
+    "https://sso.miami.edu/idp": "University of Miami - Authentication",
     "https://sso.mpic.de/auth/saml2/idp/metadata.php": "Max-Planck-Institute for Chemistry",
     "https://sso.msoe.edu/idp": "Milwaukee School of Engineering",
     "https://sso.mssm.edu/idp": "Icahn School of Medicine Network",

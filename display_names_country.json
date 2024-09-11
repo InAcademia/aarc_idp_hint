@@ -20167,6 +20167,9 @@
         "https://sso.mgb.org/idp": {
             "en": "Mass General Brigham"
         },
+        "https://sso.miami.edu/idp": {
+            "en": "University of Miami - Authentication"
+        },
         "https://sso.msoe.edu/idp": {
             "en": "Milwaukee School of Engineering"
         },
