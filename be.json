@@ -106,6 +106,9 @@
         "en": "Royal Observatory of Belgium",
         "fr": "Observatoire royal de Belgique"
     },
+    "https://idp.orsi.be/shibboleth": {
+        "en": "Orsi Academy"
+    },
     "https://idp.uclouvain.be/idp/shibboleth": {
         "en": "Catholic University of Louvain",
         "fr": "Universite catholique de Louvain"
