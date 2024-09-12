@@ -7317,6 +7317,10 @@
             "de": "Max Planck Institut fuer chemische Oekologie",
             "en": "Max Planck Institute for Chemical Ecology"
         },
+        "https://rakorium.iamo.de/idp/shibboleth": {
+            "de": "Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)",
+            "en": "Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)"
+        },
         "https://saml.daad.de/saml2/idp/metadata.php": {
             "de": "DAAD-ID",
             "en": "DAAD ID"
