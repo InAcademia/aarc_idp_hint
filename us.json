@@ -77,6 +77,9 @@
     "https://alumidp.princeton.edu/idp/shibboleth": {
         "en": "Princeton University Alumni"
     },
+    "https://amidp.drew.edu/nidp/saml2/metadata": {
+        "en": "Drew University"
+    },
     "https://auth-incommon.siu.edu": {
         "en": "Southern Illinois University"
     },

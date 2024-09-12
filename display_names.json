@@ -374,6 +374,7 @@
     "https://alumidp.princeton.edu/idp/shibboleth": "Princeton University Alumni",
     "https://alumni-idp.is.ed.ac.uk/idp/shibboleth": "University of Edinburgh Identity Provider (Alumni Only)",
     "https://amf.idp.ukri.org/idp": "UK Research and Innovation",
+    "https://amidp.drew.edu/nidp/saml2/metadata": "Drew University",
     "https://amtapidp.renam.md": "AMTAP-MD",
     "https://anelisplus.utcluj.ro/simplesaml/saml2/idp/metadata.php": "Technical University of Cluj-Napoca",
     "https://apps.univ-lr.fr/idp/shibboleth": "La Rochelle University",
