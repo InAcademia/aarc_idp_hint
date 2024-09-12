@@ -13057,6 +13057,9 @@
         "https://idp-k3.federation.ke/simplesaml/saml2/idp/metadata.php": {
             "en": "KENET Staff Identity Provider"
         },
+        "https://idp-k4.federation.ke/idp/shibboleth": {
+            "en": "Kenya Education Network"
+        },
         "https://idp.icipe.org/simplesaml/saml2/idp/metadata.php": {
             "en": "icipe"
         },
