@@ -9,8 +9,8 @@
         "en": "Riga Technical University"
     },
     "https://idp.laife.lv/saml-idp": {
-        "en": "Latvian academic identity federation (LAIFE)",
-        "lv": "Latvijas akadēmiskās identitātes federācija (LAIFE)"
+        "en": "LAIFE (Latvian academic identity federation)",
+        "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
     },
     "https://idp.llu.lv/idp/shibboleth": {
         "en": "Latvia University of Agriculture"
