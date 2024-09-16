@@ -2552,6 +2552,7 @@
     "https://idp.okstate.edu/idp/shibboleth": "Oklahoma State University Main Campus",
     "https://idp.olvaso.konyvtar.mta.hu/simplesaml/saml2/idp/metadata.php": "Library and Information Centre of MTA borrowers",
     "https://idp.omgk.hu/simplesaml/saml2/idp/metadata.php": "Museum and Library of Hungarian Agriculture",
+    "https://idp.omnipasskey.com/idp/shibboleth": "OmniPasskey",
     "https://idp.omren.om/idp": "OMREN-shib",
     "https://idp.oniris-nantes.fr/realms/master": "Oniris – VetAgroBio Nantes - ECOLE NATIONALE",
     "https://idp.open.ac.uk/openathens": "The Open University (UK)",

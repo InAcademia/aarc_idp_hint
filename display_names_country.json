@@ -19477,6 +19477,9 @@
         "https://idp.okstate.edu/idp/shibboleth": {
             "en": "Oklahoma State University Main Campus"
         },
+        "https://idp.omnipasskey.com/idp/shibboleth": {
+            "en": "OmniPasskey"
+        },
         "https://idp.ornl.gov/idp": {
             "en": "Oak Ridge National Laboratory"
         },
