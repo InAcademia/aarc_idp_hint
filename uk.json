@@ -514,6 +514,9 @@
     "https://idp.gateway.ac.uk/entity": {
         "en": "Gateway Sixth Form College"
     },
+    "https://idp.gcu.ac.uk/idp/shibboleth": {
+        "en": "Glasgow Caledonian University"
+    },
     "https://idp.geolsoc.org.uk/openathens": {
         "en": "The Geological Society Of London"
     },
@@ -1420,9 +1423,6 @@
     },
     "https://shib.fra.ac.uk/idp/shibboleth": {
         "en": "Fashion Retail Academy"
-    },
-    "https://shib.gcu.ac.uk/idp/shibboleth": {
-        "en": "Glasgow Caledonian University"
     },
     "https://shib.highlands.ac.uk/idp": {
         "en": "Highlands College"
