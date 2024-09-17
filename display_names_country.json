@@ -880,6 +880,10 @@
             "en": "IME - Instituto Militar de Engenharia",
             "pt-br": "IME - Instituto Militar de Engenharia"
         },
+        "https://cafe.ipa.br/idp/shibboleth": {
+            "en": "IPA - Instituto Agronomico de Pernambuco",
+            "pt-br": "IPA - Instituto Agronomico de Pernambuco"
+        },
         "https://cafe.ita.br/idp/shibboleth": {
             "en": "ITA - Instituto Tecnologico de Aeronautica",
             "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
