@@ -19054,6 +19054,9 @@
         "http://ssologin.cei.edu/adfs/services/trust": {
             "en": "College of Eastern Idaho"
         },
+        "http://sts.clackamas.edu/adfs/services/trust": {
+            "en": "Clackamas Community College"
+        },
         "http://sts.uidaho.edu/adfs/services/trust": {
             "en": "University of Idaho"
         },

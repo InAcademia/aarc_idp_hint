@@ -225,6 +225,7 @@
     "http://sts.amc.nl/adfs/services/trust": "Academisch Medisch Centrum (AMC)",
     "http://sts.amsterdamumc.nl/adfs/services/trust": "Amsterdam UMC",
     "http://sts.cencol.ca/adfs/services/trust": "Centennial College",
+    "http://sts.clackamas.edu/adfs/services/trust": "Clackamas Community College",
     "http://sts.dc-uoit.ca/adfs/services/trust": "Durham College and Ontario Tech University",
     "http://sts.drenthecollege.nl/adfs/services/trust": "Drenthe College",
     "http://sts.ju.edu.sa/adfs/services/trust": "Jouf University",
