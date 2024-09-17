@@ -14220,10 +14220,6 @@
             "en": "Maastricht University",
             "nl": "Universiteit Maastricht"
         },
-        "http://login.mborijnland.nl/adfs/services/trust": {
-            "en": "mboRijnland",
-            "nl": "mboRijnland"
-        },
         "http://login.nki.nl/adfs/services/trust": {
             "en": "Antoni van Leeuwenhoek - Netherlands Cancer Institute",
             "nl": "Antoni van Leeuwenhoek - Nederlands Kanker Instituut"
@@ -15932,6 +15928,10 @@
         "https://idp.bg.ac.rs/idp/shibboleth": {
             "en": "University of Belgrade for Erasmus",
             "sr": "Univerzitet u Beogradu za Erazmus"
+        },
+        "https://idp.fil.bg.ac.rs/idp/shibboleth": {
+            "en": "Faculty of Philology. University of Belgrade",
+            "sr": "Filoloski fakultet Univerziteta u Beogradu"
         },
         "https://idp.np.ac.rs/idp/shibboleth": {
             "en": "State university of Novi Pazar",

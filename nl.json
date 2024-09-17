@@ -175,10 +175,6 @@
         "en": "Maastricht University",
         "nl": "Universiteit Maastricht"
     },
-    "http://login.mborijnland.nl/adfs/services/trust": {
-        "en": "mboRijnland",
-        "nl": "mboRijnland"
-    },
     "http://login.nki.nl/adfs/services/trust": {
         "en": "Antoni van Leeuwenhoek - Netherlands Cancer Institute",
         "nl": "Antoni van Leeuwenhoek - Nederlands Kanker Instituut"

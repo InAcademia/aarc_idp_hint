@@ -15,6 +15,10 @@
         "en": "University of Belgrade for Erasmus",
         "sr": "Univerzitet u Beogradu za Erazmus"
     },
+    "https://idp.fil.bg.ac.rs/idp/shibboleth": {
+        "en": "Faculty of Philology. University of Belgrade",
+        "sr": "Filoloski fakultet Univerziteta u Beogradu"
+    },
     "https://idp.np.ac.rs/idp/shibboleth": {
         "en": "State university of Novi Pazar",
         "sr": "Drzavni univerzitet u Novom Pazaru"
