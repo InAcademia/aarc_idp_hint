@@ -17203,6 +17203,9 @@
         }
     },
     "ug": {
+        "https://idp-auth.sun.ac.ug/idp/shibboleth": {
+            "en": "Soroti University"
+        },
         "https://idp-mgd-ksnm.renu.ac.ug/idp/shibboleth": {
             "en": "Kyetume School of Nursing and Midwifery"
         },
@@ -17214,6 +17217,9 @@
         },
         "https://idp.mak.ac.ug/idp/shibboleth": {
             "en": "Makerere University"
+        },
+        "https://idp.mru.ac.ug/idp/shibboleth": {
+            "en": "Muteesa Royal University (MRU)"
         },
         "https://idp.ndu.ac.ug/idp/shibboleth": {
             "en": "Ndejje University IdP"
