@@ -819,6 +819,10 @@
         "en": "Guangxi University Of Foreign Languages",
         "zh": "广西外国语学院(Guangxi University Of Foreign Languages)"
     },
+    "https://idp.gxust.edu.cn/idp/shibboleth": {
+        "en": "Guangxi University of Science and Technology",
+        "zh": "广西科技大学(Guangxi University of Science and Technology)"
+    },
     "https://idp.gxwzy.edu.cn/idp/shibboleth": {
         "en": "Guangxi Medical Collage",
         "zh": "广西卫生职业技术学院(Guangxi Medical Collage)"
