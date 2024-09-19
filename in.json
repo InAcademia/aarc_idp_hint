@@ -206,6 +206,9 @@
     "https://idp.iitd.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Technology Delhi"
     },
+    "https://idp.iitdh.ac.in/idp/shibboleth": {
+        "en": "Indian Institute Of Technology Dharwad"
+    },
     "https://idp.iitgoa.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Technology, Goa"
     },
@@ -403,6 +406,9 @@
     },
     "https://idp.pes.edu/idp/shibboleth": {
         "en": "PES University"
+    },
+    "https://idp.piet.co.in/idp/shibboleth": {
+        "en": "Panipat Institute of Engineering and Technology"
     },
     "https://idp.pmulibrary.org/idp/shibboleth": {
         "en": "Periyar Maniammai Institute of Science and Technology"
