@@ -8365,6 +8365,10 @@
             "en": "Estonian Aviation Academy",
             "et": "Eesti Lennuakadeemia"
         },
+        "https://sts.windows.net/85a5c3b9-b2bd-4bbc-ad62-7a0e4d77e87f/": {
+            "en": "EMKTS Microsoft ENTRA",
+            "et": "EMKTS Microsoft ENTRA"
+        },
         "https://taat.eamt.ee/taat/saml2/idp/metadata.php": {
             "en": "Estonian Academy of Music and Theatre",
             "et": "Eesti Muusika- ja Teatriakadeemia"
