@@ -103,6 +103,10 @@
         "en": "The School of Management",
         "sk": "Vysoká škola manažmentu"
     },
+    "https://idp.vsmu.sk/idp/shibboleth": {
+        "en": "The Academy of Performing Arts in Bratislava",
+        "sk": "Vysoká škola múzických umení v Bratislave"
+    },
     "https://idp.vsvu.sk/idp/shibboleth": {
         "en": "Academy of Fine Arts and Design in Bratislava",
         "sk": "Vysoká škola výtvarných umení v Bratislave"
