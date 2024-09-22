@@ -11349,11 +11349,6 @@
             "ga": "An Coláiste Ollscoile, Baile Átha Cliath"
         }
     },
-    "il": {
-        "https://iif-ng.iucc.ac.il/sp/saml2/idp/metadata.php": {
-            "en": "Inter University Computation Center(IUCCng)"
-        }
-    },
     "in": {
         "https://dl.crescent.education/idp/shibboleth": {
             "en": "B.S.Abdur Rahman Crescent Institute of Science and Technology"
