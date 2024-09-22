@@ -3687,6 +3687,7 @@
     "https://ids.gist.ac.kr/idp/simplesamlphp": "Gwangju Institute of Science and Technology",
     "https://ifs00sv056.ifsul.edu.br/idp/shibboleth": "IFSUL - Instituto Federal Sul-rio-grandense",
     "https://iguest.amres.ac.rs/idp/shibboleth": "AMRES Guest",
+    "https://iif-ng.iucc.ac.il/sp/saml2/idp/metadata.php": "Inter University Computation Center(IUCCng)",
     "https://iir.cz/idp/shibboleth": "Institute of International Relations",
     "https://ims.ahievran.edu.tr": "Kirsehir Ahi Evran University",
     "https://ims.hbv.edu.tr": "Ankara Haci Bayram Veli University",
