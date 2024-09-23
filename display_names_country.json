@@ -20744,8 +20744,8 @@
         "https://idp.clce.ac.zm/idp/shibboleth": {
             "en": "Charles Lwanga College of Education"
         },
-        "https://idp.zamren.zm/simplesaml/saml2/idp/metadata.php": {
-            "en": "Zambia Research and Education Network"
+        "https://sso.zamren.zm/idp/shibboleth": {
+            "en": "Zambia Research Education Network"
         }
     }
 }
