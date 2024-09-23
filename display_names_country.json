@@ -8317,10 +8317,6 @@
             "en": "University of Tartu",
             "et": "Tartu Ülikool"
         },
-        "https://eenet.harid.ee/sso/saml2/idp/metadata.php": {
-            "en": "EENet SSO",
-            "et": "EENet SSO"
-        },
         "https://id.artun.ee/simplesaml/saml2/idp/metadata.php": {
             "en": "Estonian Academy of Arts",
             "et": "Eesti Kunstiakadeemia"
@@ -8990,6 +8986,11 @@
         "https://www.rediris.es/sir/zlcidp": {
             "en": "Zaragoza Logistics Center",
             "es": "Zaragoza Logistics Center"
+        }
+    },
+    "et": {
+        "https://idp.ethernet.edu.et/idp/shibboleth": {
+            "en": "Ethiopian Education and Research Network (EthERNet)"
         }
     },
     "fi": {
