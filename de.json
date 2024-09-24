@@ -63,6 +63,10 @@
         "de": "THGA Bochum",
         "en": "THGA Bochum"
     },
+    "https://chip.is.mpg.de/idp/shibboleth": {
+        "de": "Max-Planck-Institut für Intelligente Systeme",
+        "en": "Max-Planck-Institute for Intelligent Systems"
+    },
     "https://crux.hrz.tu-freiberg.de/shibboleth": {
         "de": "TU Bergakademie Freiberg",
         "en": "TU Bergakademie Freiberg"
