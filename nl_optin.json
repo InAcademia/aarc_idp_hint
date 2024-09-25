@@ -1,8 +1,4 @@
 {
-    "http://adfs-p.summacollege.nl/adfs/services/trust": {
-        "en": "Summa College",
-        "nl": "Summa College"
-    },
     "http://adfs.cibap.nl/adfs/services/trust": {
         "en": "Cibap Vocational College of Design",
         "nl": "Cibap vakschool voor vormgeving"
