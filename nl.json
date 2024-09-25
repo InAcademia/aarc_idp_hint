@@ -4,8 +4,8 @@
         "nl": "DIFFER"
     },
     "http://adfs-p.summacollege.nl/adfs/services/trust": {
-        "en": "Summa College",
-        "nl": "Summa College"
+        "en": "Summa College (Old)",
+        "nl": "Summa College (Oud)"
     },
     "http://adfs.aeres.nl/adfs/services/trust": {
         "en": "Aeres",

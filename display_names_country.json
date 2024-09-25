@@ -3760,6 +3760,10 @@
             "en": "Jiangsu Vocational Institute of Architectural Technology",
             "zh": "江苏建筑职业技术学院(Jiangsu Vocational Institute of Architectural Technology)"
         },
+        "https://idp.jxnyi.edu.cn/idp/shibboleth": {
+            "en": "Jiaxing Nanyang Polytechnic Institute",
+            "zh": "嘉兴南洋职业技术学院(Jiaxing Nanyang Polytechnic Institute)"
+        },
         "https://idp.jxuas.edu.cn/idp/shibboleth": {
             "en": "Jiangxi University of Applied Science",
             "zh": "江西应用科技学院(Jiangxi University of Applied Science)"
@@ -14072,8 +14076,8 @@
             "nl": "DIFFER"
         },
         "http://adfs-p.summacollege.nl/adfs/services/trust": {
-            "en": "Summa College",
-            "nl": "Summa College"
+            "en": "Summa College (Old)",
+            "nl": "Summa College (Oud)"
         },
         "http://adfs.aeres.nl/adfs/services/trust": {
             "en": "Aeres",
