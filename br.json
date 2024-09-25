@@ -159,6 +159,10 @@
         "en": "ITA - Instituto Tecnologico de Aeronautica",
         "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
     },
+    "https://cafe.itaipuparquetec.org.br/idp/shibboleth": {
+        "en": "FPTI - Fundacao Parque Tecnologico Itaipu",
+        "pt-br": "FPTI - Fundacao Parque Tecnologico Itaipu"
+    },
     "https://cafe.itvds.org/idp/shibboleth": {
         "en": "ITV - Instituto Tecnologico Vale",
         "pt-br": "ITV - Instituto Tecnologico Vale"
