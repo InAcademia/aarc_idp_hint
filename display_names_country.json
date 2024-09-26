@@ -1120,6 +1120,10 @@
             "en": "EPAMIG - Empresa de de Pesquisa Agropecuaria de Minas Gerais",
             "pt-br": "EPAMIG - Empresa de de Pesquisa Agropecuaria de Minas Gerais"
         },
+        "https://facape-vp-cafe.facape.br/idp/shibboleth": {
+            "en": "FACAPE - Faculdade de Petrolina",
+            "pt-br": "FACAPE - Faculdade de Petrolina"
+        },
         "https://federacao-1.hcpa.edu.br/idp/shibboleth": {
             "en": "HCPA - Hospital de Clinicas de Porto Alegre",
             "pt-br": "HCPA - Hospital de Clinicas de Porto Alegre"
