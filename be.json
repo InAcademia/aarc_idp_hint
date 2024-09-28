@@ -147,6 +147,9 @@
     "https://sso.irc.ugent.be/auth/realms/irc": {
         "en": "VIB-UGent IRC"
     },
+    "https://sts.windows.net/2d5e4aeb-342c-4a81-9613-e9c0294096ae/": {
+        "en": "Royal Museum of Fine Arts of Belgium"
+    },
     "https://sts.windows.net/9e2777ed-8237-4ab9-9278-2c144d6f6da3/": {
         "en": "VITO"
     },
