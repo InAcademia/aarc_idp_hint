@@ -52,8 +52,8 @@
         "sv": "Kungliga biblioteket"
     },
     "http://sts.mau.se/adfs/services/trust": {
-        "en": "Malmö University - MFA",
-        "sv": "Malmö universitet - MFA"
+        "en": "Malmö University",
+        "sv": "Malmö universitet"
     },
     "http://webproxysrv.uniarts.se/adfs/services/trust": {
         "en": "Stockholm University of the Arts",
@@ -118,10 +118,6 @@
     "https://idp.ltu.se/idp/shibboleth": {
         "en": "Lulea University of Technology",
         "sv": "Luleå tekniska universitet"
-    },
-    "https://idp.mah.se/idp/shibboleth": {
-        "en": "Malmö University",
-        "sv": "Malmö universitet"
     },
     "https://idp.mdh.se/idp/shibboleth": {
         "en": "Mälardalen University",
