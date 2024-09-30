@@ -59,10 +59,6 @@
         "en": "Lentiz Onderwijsgroep",
         "nl": "Lentiz Onderwijsgroep"
     },
-    "http://adfs.onderwijsgroepnoord.nl/adfs/services/trust": {
-        "en": "Terra",
-        "nl": "Terra"
-    },
     "http://adfs.tio.nl/adfs/services/trust": {
         "en": "Tio Business School",
         "nl": "Tio Business School"
@@ -222,10 +218,6 @@
     "http://sts.amsterdamumc.nl/adfs/services/trust": {
         "en": "Amsterdam UMC",
         "nl": "Amsterdam UMC"
-    },
-    "http://sts.drenthecollege.nl/adfs/services/trust": {
-        "en": "Drenthe College",
-        "nl": "Drenthe College"
     },
     "http://sts.kw1c.nl/adfs/services/trust": {
         "en": "Koning Willem I College",
