@@ -3,10 +3,6 @@
         "en": "DIFFER",
         "nl": "DIFFER"
     },
-    "http://adfs-p.summacollege.nl/adfs/services/trust": {
-        "en": "Summa College (Old)",
-        "nl": "Summa College (Oud)"
-    },
     "http://adfs.aeres.nl/adfs/services/trust": {
         "en": "Aeres",
         "nl": "Aeres"
@@ -414,6 +410,10 @@
     "https://sts.windows.net/15f3fe0e-d712-4981-bc7c-fe949af215bb/": {
         "en": "Deltares",
         "nl": "Deltares"
+    },
+    "https://sts.windows.net/2259cb87-9540-474f-9e96-2f4bde46bb52/": {
+        "en": "Summa College",
+        "nl": "Summa College"
     },
     "https://sts.windows.net/25f04329-7216-46b8-91ff-d1f44baa2a21/": {
         "en": "Vonk",
