@@ -136,8 +136,8 @@
         "en": "University of Innsbruck"
     },
     "https://idp.umit-tirol.at/idp/shibboleth": {
-        "de": "UMIT Tirol - Die Tiroler Privatuniversität",
-        "en": "UMIT Tirol - The Tyrolean Private University"
+        "de": "UMIT Tirol – Die Tiroler Privatuniversität",
+        "en": "UMIT Tirol – The Tyrolean Private University"
     },
     "https://idp.vu-wien.ac.at/idp/shibboleth": {
         "de": "Veterinärmedizinische Universität Wien",
@@ -157,7 +157,7 @@
     },
     "https://login.fh-campuswien.ac.at/idp/shibboleth": {
         "de": "FH Campus Wien",
-        "en": "FH Campus Wien - University of Applied Sciences"
+        "en": "FH Campus Wien – University of Applied Sciences"
     },
     "https://login.fhv.at/shibboleth": {
         "de": "FH Vorarlberg",
