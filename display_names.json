@@ -3805,6 +3805,7 @@
     "https://kimlik.korkutata.edu.tr/idp/shibboleth": "Osmaniye Korkut Ata University",
     "https://kimlik.ktu.edu.tr/idp/shibboleth": "Karadeniz Technical University",
     "https://kimlik.ktun.edu.tr/idp/shibboleth": "Konya Technical University",
+    "https://kimlik.mef.edu.tr/simplesaml/saml2/idp/metadata.php": "MEF University",
     "https://kimlik.mehmetakif.edu.tr/simplesaml/saml2/idp/metadata.php": "Burdur Mehmet Akif Ersoy University",
     "https://kimlik.mersin.edu.tr/idp/shibboleth": "Mersin University",
     "https://kimlik.munzur.edu.tr/idp/shibboleth": "Munzur University",

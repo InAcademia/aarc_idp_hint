@@ -411,6 +411,10 @@
         "en": "Konya Technical University",
         "tr": "Konya Teknik Üniversitesi"
     },
+    "https://kimlik.mef.edu.tr/simplesaml/saml2/idp/metadata.php": {
+        "en": "MEF University",
+        "tr": "MEF Üniversitesi"
+    },
     "https://kimlik.mehmetakif.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Burdur Mehmet Akif Ersoy University",
         "tr": "Burdur Mehmet Akif Ersoy Üniversitesi"
