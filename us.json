@@ -689,9 +689,6 @@
     "https://jidp.jlab.org/idp/shibboleth": {
         "en": "Thomas Jefferson National Accelerator Facility"
     },
-    "https://junebug2.mcc.edu/idp/shibboleth": {
-        "en": "Mott Community College"
-    },
     "https://login.aus.edu/idp/shibboleth": {
         "en": "American University of Sharjah"
     },
@@ -964,9 +961,6 @@
     },
     "https://shibboleth-2.baylor.edu/idp/shibboleth": {
         "en": "Baylor University"
-    },
-    "https://shibboleth-test.nypl.org/idp/shibboleth": {
-        "en": "New York Public Library"
     },
     "https://shibboleth.aws.eckerd.edu/idp/shibboleth": {
         "en": "Eckerd College"
