@@ -13120,6 +13120,9 @@
         "https://idp.ku.ac.ke/simplesaml/saml2/idp/metadata.php": {
             "en": "Kenyatta University"
         },
+        "https://idp.uonbi.ac.ke/saml2/idp/metadata.php": {
+            "en": "University of Nairobi"
+        },
         "https://rafiki.strathmore.edu/simplesaml/saml2/idp/metadata.php": {
             "en": "Strathmore University"
         }
