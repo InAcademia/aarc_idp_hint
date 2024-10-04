@@ -689,6 +689,9 @@
     "https://jidp.jlab.org/idp/shibboleth": {
         "en": "Thomas Jefferson National Accelerator Facility"
     },
+    "https://junebug2.mcc.edu/idp/shibboleth": {
+        "en": "Mott Community College"
+    },
     "https://login.aus.edu/idp/shibboleth": {
         "en": "American University of Sharjah"
     },
@@ -997,6 +1000,9 @@
     },
     "https://shibboleth.main.ad.rit.edu/idp/shibboleth": {
         "en": "Rochester Institute of Technology"
+    },
+    "https://shibboleth.nypl.org/idp/shibboleth": {
+        "en": "New York Public Library"
     },
     "https://shibboleth.pace.edu/idp/shibboleth": {
         "en": "Pace University"
