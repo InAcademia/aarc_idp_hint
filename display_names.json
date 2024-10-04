@@ -640,7 +640,6 @@
     "https://edugain.vinci.be/adfs/services/trust": "Haute Ecole Léonard de Vinci",
     "https://edugain.wum.edu.pl/idp/shibboleth": "Medical University of Warsaw",
     "https://edugate.itb.ie/idp/shibboleth": "TU Dublin - Blanchardstown Campus",
-    "https://eduid-test.uni.lu/simplesaml/saml2/idp/metadata.php": "University of Luxembourg Staff and Students",
     "https://eduid.abtk.hu/simplesaml/saml2/idp/metadata.php": "HUN-REN Research Centre for the Humanities",
     "https://eduid.campus02.at/idp/shibboleth": "FH CAMPUS 02",
     "https://eduid.ch/idp/shibboleth": "Switch edu-ID",
