@@ -7467,10 +7467,6 @@
             "de": "Max Planck Institut für Quantenoptik (MPQ)",
             "en": "Max Planck Institute for Quantum Optics (MPQ)"
         },
-        "https://shibb.zalf.de/idp/shibboleth": {
-            "de": "ZALF Müncheberg IdP",
-            "en": "ZALF Müncheberg IdP"
-        },
         "https://shibbo.hfm-weimar.de/idp/shibboleth": {
             "de": "Hochschule für Musik Weimar",
             "en": "Hochschule für Musik Weimar"
@@ -7582,10 +7578,6 @@
         "https://sso.bfarm.de:8443/auth/realms/DFNConf": {
             "de": "Bundesinstitut für Arzneimittel und Medizinprodukte",
             "en": "Federal Institute for Drugs and Medical Devices"
-        },
-        "https://sso.dshs-koeln.de/idp/shibboleth": {
-            "de": "Deutsche Sporthochschule Köln",
-            "en": "German Sport University Cologne"
         },
         "https://sso.h-da.de/idp/shibboleth": {
             "de": "Hochschule Darmstadt, University of Applied Sciences",
