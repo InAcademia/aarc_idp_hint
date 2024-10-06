@@ -1703,10 +1703,6 @@
             "en": "IFTO - Instituto Federal de Educacao do Tocantins",
             "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
         },
-        "https://shibboleth.impa.br/idp/shibboleth": {
-            "en": "IMPA - Instituto Nacional de Matematica Pura e Aplicada",
-            "pt-br": "IMPA - Instituto Nacional de Matematica Pura e Aplicada"
-        },
         "https://shibboleth.inca.gov.br/idp/shibboleth": {
             "en": "INCA - Instituto Nacional de Cancer",
             "pt-br": "INCA - Instituto Nacional de Cancer"
