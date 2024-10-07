@@ -7575,6 +7575,10 @@
             "de": "Bundesinstitut für Arzneimittel und Medizinprodukte",
             "en": "Federal Institute for Drugs and Medical Devices"
         },
+        "https://sso.dshs-koeln.de/idp/shibboleth": {
+            "de": "Deutsche Sporthochschule Köln",
+            "en": "German Sport University Cologne"
+        },
         "https://sso.h-da.de/idp/shibboleth": {
             "de": "Hochschule Darmstadt, University of Applied Sciences",
             "en": "Hochschule Darmstadt, University of Applied Sciences"
