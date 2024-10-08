@@ -1382,9 +1382,6 @@
     "https://webauth.kgi.edu/idp/shibboleth": {
         "en": "Keck Graduate Institute of Applied Life Sciences"
     },
-    "https://webauth.meredith.edu/idp/shibboleth": {
-        "en": "Meredith College"
-    },
     "https://webauth.njit.edu/idp/shibboleth": {
         "en": "New Jersey Institute of Technology"
     },
