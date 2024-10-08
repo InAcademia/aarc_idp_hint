@@ -12787,6 +12787,10 @@
             "en": "Kochi University of Technology",
             "ja": "高知工科大学"
         },
+        "https://idp.kochi-u.ac.jp/idp/shibboleth": {
+            "en": "Kochi University",
+            "ja": "高知大学"
+        },
         "https://idp.kpu-m.ac.jp/idp/shibboleth": {
             "en": "Kyoto Prefectural University of Medicine",
             "ja": "京都府立医科大学"

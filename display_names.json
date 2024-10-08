@@ -2205,6 +2205,7 @@
     "https://idp.knihovna-uo.cz/saml2/idp/metadata.php": "Municipal Library Ústí nad Orlicí",
     "https://idp.knowsleycollege.ac.uk/idp/shibboleth": "Knowsley College",
     "https://idp.kochi-tech.ac.jp/idp/shibboleth": "Kochi University of Technology",
+    "https://idp.kochi-u.ac.jp/idp/shibboleth": "Kochi University",
     "https://idp.kohacloud.in/idp/shibboleth": "Visva Bharati",
     "https://idp.koki.hu/default-idp": "HUN-REN Institute of Experimental Medicine",
     "https://idp.kolas.basnet.by/idp/saml2/idp/metadata.php": "CSL NAS Belarus",
