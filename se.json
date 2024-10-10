@@ -139,6 +139,10 @@
         "en": "University College Stockholm",
         "sv": "Enskilda Högskolan Stockholm"
     },
+    "https://idp.uniarts.se/idp/shibboleth": {
+        "en": "Stockholm University of the Arts - uniarts",
+        "sv": "Stockholms konstnärliga högskola - uniarts"
+    },
     "https://idp01.gih.se/idp/shibboleth": {
         "en": "The Swedish School of Sport and Health Sciences",
         "sv": "Gymnastik- och idrottshögskolan"
