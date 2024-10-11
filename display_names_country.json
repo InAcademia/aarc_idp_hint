@@ -4126,6 +4126,10 @@
             "en": "Puyang Medical College",
             "zh": "濮阳医学高等专科学校(Puyang Medical College)"
         },
+        "https://idp.qau.edu.cn/idp/shibboleth": {
+            "en": "Qingdao Agricultural University",
+            "zh": "青岛农业大学(Qingdao Agricultural University)"
+        },
         "https://idp.qchm.edu.cn/idp/shibboleth": {
             "en": "Qingdao Vocational and Technical College of Hotel Management",
             "zh": "青岛酒店管理职业技术学院(Qingdao Vocational and Technical College of Hotel Management)"
@@ -7609,6 +7613,10 @@
         "https://sso.hs-regensburg.de/idp/shibboleth": {
             "de": "Ostbayerische Technische Hochschule Regensburg",
             "en": "Ostbayerische Technische Hochschule Regensburg"
+        },
+        "https://sso.ibs-ol.de": {
+            "de": "IBS Oldenburg - IdP",
+            "en": "IBS Oldenburg - IdP"
         },
         "https://sso.idm.uni-hannover.de/idp/shibboleth": {
             "de": "Leibniz Universität Hannover",

@@ -1479,6 +1479,10 @@
         "de": "Ostbayerische Technische Hochschule Regensburg",
         "en": "Ostbayerische Technische Hochschule Regensburg"
     },
+    "https://sso.ibs-ol.de": {
+        "de": "IBS Oldenburg - IdP",
+        "en": "IBS Oldenburg - IdP"
+    },
     "https://sso.idm.uni-hannover.de/idp/shibboleth": {
         "de": "Leibniz Universität Hannover",
         "en": "Leibniz Universität Hannover"
