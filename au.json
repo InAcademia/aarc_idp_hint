@@ -14,6 +14,9 @@
     "https://federation.sydney.edu.au/idp/shibboleth": {
         "en": "The University of Sydney"
     },
+    "https://idp-aaf-prd.usq.edu.au/idp/shibboleth": {
+        "en": "University of Southern Queensland"
+    },
     "https://idp-aaf.qimrberghofer.edu.au/idp/adfs": {
         "en": "QIMR Berghofer"
     },
