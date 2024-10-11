@@ -9516,7 +9516,7 @@
         },
         "https://idp-feder.pleiade.education.fr/idp/shibboleth": {
             "en": "Head office of french Ministries of Education, Higher Education, Research and Sports",
-            "fr": "Administration centrale MENJ/MESR/MSJOP"
+            "fr": "Administration centrale MEN/MESR/MSJVA"
         },
         "https://idp-ihes.renater.fr/idp/shibboleth": {
             "en": "IHES - Institut des Hautes Études Scientifiques",
@@ -12781,6 +12781,10 @@
         "https://idp.itc.saitama-u.ac.jp/idp/shibboleth": {
             "en": "Saitama University",
             "ja": "埼玉大学"
+        },
+        "https://idp.jcga.ac.jp/idp/shibboleth": {
+            "en": "Japan Coast Guard Academy",
+            "ja": "海上保安大学校"
         },
         "https://idp.kindai.ac.jp/idp/shibboleth": {
             "en": "Kindai University",

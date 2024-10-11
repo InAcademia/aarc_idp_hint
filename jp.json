@@ -146,6 +146,10 @@
         "en": "Saitama University",
         "ja": "埼玉大学"
     },
+    "https://idp.jcga.ac.jp/idp/shibboleth": {
+        "en": "Japan Coast Guard Academy",
+        "ja": "海上保安大学校"
+    },
     "https://idp.kindai.ac.jp/idp/shibboleth": {
         "en": "Kindai University",
         "ja": "近畿大学"
