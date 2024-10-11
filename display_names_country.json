@@ -10531,10 +10531,6 @@
         "https://edugain-proxy.igtf.net/simplesaml/saml2/idp/metadata.php": {
             "en": "IGTF Certificate Proxy"
         },
-        "https://giant.cedefop.europa.eu/idp/shibboleth": {
-            "el": "CEDEFOP",
-            "en": "CEDEFOP"
-        },
         "https://gn-vho.grnet.gr/idp/shibboleth": {
             "el": "Εικονικός Οικείος Φορέας (VHO) του ΕΔΕΤ για το GÉANT",
             "en": "GRNET Virtual Home Organization (VHO) for GÉANT"
@@ -10547,30 +10543,9 @@
             "el": "Εθνικό Δίκτυο Υποδομών Τεχνολογίας και Έρευνας - ΕΔΥΤΕ",
             "en": "National Infrastructures for Research and Technology - GRNET"
         },
-        "https://idp.aeaa.gr/idp/shibboleth": {
-            "en": "https://idp.aeaa.gr/idp/shibboleth"
-        },
-        "https://idp.aeahk.gr/idp/shibboleth": {
-            "el": "Πατριαρχική Ανώτατη Εκκλησιαστική Ακαδημία Κρήτης",
-            "en": "Patriarchal University Ecclesiastical Academy of Crete"
-        },
-        "https://idp.aeath.gr/idp/shibboleth": {
-            "el": "Ανώτατη Εκκλησιαστική Ακαδημία Θεσσαλονίκης",
-            "en": "University Ecclesiastical Academy of Thessaloniki"
-        },
-        "https://idp.aeavellas.gr/idp/shibboleth": {
-            "el": "Ανώτατη Εκκλησιαστική Ακαδημία Βελλάς Ιωαννίνων",
-            "en": "University Ecclesiastical Academy of Vella of Ioannina"
-        },
         "https://idp.aegean.gr/idp/shibboleth": {
             "el": "Πανεπιστήμιο Αιγαίου",
             "en": "University of the Aegean"
-        },
-        "https://idp.aenmak.edu.gr/idp/shibboleth": {
-            "en": "https://idp.aenmak.edu.gr/idp/shibboleth"
-        },
-        "https://idp.agandreashosp.gr/idp/shibboleth": {
-            "en": "https://idp.agandreashosp.gr/idp/shibboleth"
         },
         "https://idp.ariadne-t.gr/idp/shibboleth": {
             "el": "ΕΚΕΦΕ ΔΗΜΟΚΡΙΤΟΣ",
@@ -10596,19 +10571,9 @@
             "el": "Ίδρυμα Ιατροβιολογικών Ερευνών Ακαδημίας Αθηνών",
             "en": "Biomedical Research Foundation - Academy of Athens"
         },
-        "https://idp.bpi.gr/idp/shibboleth": {
-            "el": "Μπενάκειο Φυτοπαθολογικό Ινστιτούτο - ΜΦΙ",
-            "en": "Benaki Phytopathological Institute - BPI"
-        },
-        "https://idp.chaniahospital.gr/idp/shibboleth": {
-            "en": "https://idp.chaniahospital.gr/idp/shibboleth"
-        },
         "https://idp.cti.gr/idp/shibboleth": {
             "el": "ΙΤΥΕ \"Διόφαντος\"",
             "en": "CTI \"Diophantus\""
-        },
-        "https://idp.dramahospital.gr/idp/shibboleth": {
-            "en": "https://idp.dramahospital.gr/idp/shibboleth"
         },
         "https://idp.eie.gr/idp/shibboleth": {
             "el": "Εθνικό Ίδρυμα Ερευνών",
@@ -10618,36 +10583,9 @@
             "el": "Εθνικό Κέντρο Κοινωνικών Ερευνών",
             "en": "National Center for Social Research"
         },
-        "https://idp.ekt.gr/idp/shibboleth": {
-            "el": "Εθνικό Κέντρο Τεκμηρίωσης",
-            "en": "National Documentation Centre"
-        },
-        "https://idp.ellak.gr/idp/shibboleth": {
-            "el": "Οργανισμός Ανοιχτών Τεχνολογιών",
-            "en": "Open Technologies Alliance"
-        },
         "https://idp.eurecapro.tuc.gr/idp/shibboleth": {
             "el": "EURECA-PRO IdP",
             "en": "EURECA-PRO IdP"
-        },
-        "https://idp.ghl.gr/idp/shibboleth": {
-            "en": "https://idp.ghl.gr/idp/shibboleth"
-        },
-        "https://idp.ghv.gr/idp/shibboleth": {
-            "en": "https://idp.ghv.gr/idp/shibboleth"
-        },
-        "https://idp.gnartas.gr/idp/shibboleth": {
-            "en": "https://idp.gnartas.gr/idp/shibboleth"
-        },
-        "https://idp.gni-hatzikosta.gr/idp/shibboleth": {
-            "en": "https://idp.gni-hatzikosta.gr/idp/shibboleth"
-        },
-        "https://idp.gnkerkyras.gr/idp/shibboleth": {
-            "en": "https://idp.gnkerkyras.gr/idp/shibboleth"
-        },
-        "https://idp.greek-language.gr/saml2/idp/metadata.php": {
-            "el": "Κέντρο Ελληνικής Γλώσσας",
-            "en": "Centre for the Greek Language"
         },
         "https://idp.hmu.gr/idp/shibboleth": {
             "el": "Ελληνικό Μεσογειακό Πανεπιστήμιο",
@@ -10657,22 +10595,9 @@
             "el": "Εθνική Μετεωρολογική Υπηρεσία - ΕΜΥ",
             "en": "Hellenic National Meteorological Service - HNMS"
         },
-        "https://idp.hosp-xanthi.gr/idp/shibboleth": {
-            "en": "https://idp.hosp-xanthi.gr/idp/shibboleth"
-        },
-        "https://idp.hospital-agrinio.gr/idp/shibboleth": {
-            "en": "https://idp.hospital-agrinio.gr/idp/shibboleth"
-        },
-        "https://idp.hospkorinthos.gr/idp/shibboleth": {
-            "en": "https://idp.hospkorinthos.gr/idp/shibboleth"
-        },
         "https://idp.iccs.gr/idp/shibboleth": {
             "el": "Ερευνητικό Πανεπιστημιακό Ινστιτούτο Συστημάτων Επικοινωνιών Υπολογιστών",
             "en": "Institute of Communication and Computer Systems"
-        },
-        "https://idp.iep.edu.gr/idp/shibboleth": {
-            "el": "Ινστιτούτο Εκπαιδευτικής Πολιτικής",
-            "en": "Institute of Educational Policy"
         },
         "https://idp.ihu.gr/idp/shibboleth": {
             "el": "Διεθνές Πανεπιστήμιο της Ελλάδος",
@@ -10682,56 +10607,9 @@
             "el": "Ιόνιο Πανεπιστήμιο",
             "en": "Ionian University"
         },
-        "https://idp.karamandaneio.hidm-grnet.gr/idp/shibboleth": {
-            "en": "https://idp.karamandaneio.hidm-grnet.gr/idp/shibboleth"
-        },
-        "https://idp.kavalahospital.gr/idp/shibboleth": {
-            "en": "https://idp.kavalahospital.gr/idp/shibboleth"
-        },
-        "https://idp.komotini-hospital.gr/idp/shibboleth": {
-            "en": "https://idp.komotini-hospital.gr/idp/shibboleth"
-        },
-        "https://idp.limnoshospital.hidm-grnet.gr/idp/shibboleth": {
-            "en": "https://idp.limnoshospital.hidm-grnet.gr/idp/shibboleth"
-        },
-        "https://idp.messolonghihospital.hidm-grnet.gr/idp/shibboleth": {
-            "en": "https://idp.messolonghihospital.hidm-grnet.gr/idp/shibboleth"
-        },
-        "https://idp.noskard.gr/idp/shibboleth": {
-            "en": "https://idp.noskard.gr/idp/shibboleth"
-        },
-        "https://idp.nosokomeiokalamatas.gr/idp/shibboleth": {
-            "en": "https://idp.nosokomeiokalamatas.gr/idp/shibboleth"
-        },
-        "https://idp.nosthorpatras.hidm-grnet.gr/idp/shibboleth": {
-            "en": "https://idp.nosthorpatras.hidm-grnet.gr/idp/shibboleth"
-        },
-        "https://idp.pagni.gr/idp/shibboleth": {
-            "en": "https://idp.pagni.gr/idp/shibboleth"
-        },
-        "https://idp.panarkadiko.eu/idp/shibboleth": {
-            "en": "https://idp.panarkadiko.eu/idp/shibboleth"
-        },
         "https://idp.panteion.gr/idp/shibboleth": {
             "el": "Πάντειο Πανεπιστήμιο Κοινωνικών και Πολιτικών Επιστημών",
             "en": "Panteion University of social and political sciences"
-        },
-        "https://idp.pasteur.gr/idp/shibboleth": {
-            "el": "Ελληνικό Ινστιτούτο Παστέρ",
-            "en": "Hellenic Pasteur Institute"
-        },
-        "https://idp.pgna.gr/idp/shibboleth": {
-            "en": "https://idp.pgna.gr/idp/shibboleth"
-        },
-        "https://idp.pgnp.gr/idp/shibboleth": {
-            "en": "https://idp.pgnp.gr/idp/shibboleth"
-        },
-        "https://idp.psp.org.gr/idp/shibboleth": {
-            "el": "Επιστημονικό Πάρκο Πατρών - ΕΠΠ",
-            "en": "Patras Science Park - PSP"
-        },
-        "https://idp.rethymnohospital.gr/idp/shibboleth": {
-            "en": "https://idp.rethymnohospital.gr/idp/shibboleth"
         },
         "https://idp.snfcc.org/idp/shibboleth": {
             "el": "ΚΠΙΣΝ",
@@ -10741,22 +10619,9 @@
             "el": "Τεχνολογικό Εκπαιδευτικό Ίδρυμα Κρήτης",
             "en": "Technological Educational Institute of Crete"
         },
-        "https://idp.teiion.gr/idp/shibboleth": {
-            "el": "Ιόνιο Πανεπιστήμιο (πρώην ΤΕΙ Ιονίων Νήσων)",
-            "en": "Ionian University (former TEI of Ionian Islands)"
-        },
-        "https://idp.trikalahospital.gr/idp/shibboleth": {
-            "en": "https://idp.trikalahospital.gr/idp/shibboleth"
-        },
         "https://idp.tuc.gr/idp/shibboleth": {
             "el": "Πολυτεχνείο Κρήτης",
             "en": "Technical University of Crete"
-        },
-        "https://idp.uhi.gr/idp/shibboleth": {
-            "en": "https://idp.uhi.gr/idp/shibboleth"
-        },
-        "https://idp.uhl.gr/idp/shibboleth": {
-            "en": "https://idp.uhl.gr/idp/shibboleth"
         },
         "https://idp.unipi.gr/idp/shibboleth": {
             "el": "Πανεπιστήμιο Πειραιώς",
@@ -10790,18 +10655,6 @@
             "el": "Πανεπιστήμιο Θεσσαλίας",
             "en": "University of Thessaly"
         },
-        "https://idp.venizeleio.gr/idp/shibboleth": {
-            "en": "https://idp.venizeleio.gr/idp/shibboleth"
-        },
-        "https://idp.vostanio.gr/idp/shibboleth": {
-            "en": "https://idp.vostanio.gr/idp/shibboleth"
-        },
-        "https://idp.xioshosp.gr/idp/shibboleth": {
-            "en": "https://idp.xioshosp.gr/idp/shibboleth"
-        },
-        "https://idp.zante-hospital.gr/idp/shibboleth": {
-            "en": "https://idp.zante-hospital.gr/idp/shibboleth"
-        },
         "https://idp2.hua.gr/idp/shibboleth": {
             "el": "Χαροκόπειο Πανεπιστήμιο",
             "en": "Harokopio University"
@@ -10814,10 +10667,6 @@
             "el": "Ε.ΚΕ.Β.Ε. Αλέξανδρος Φλέμινγκ",
             "en": "Alexander Fleming Biomedical Sciences Research Center"
         },
-        "https://login.academyofathens.gr/idp/shibboleth": {
-            "el": "Ακαδημία Αθηνών",
-            "en": "Academy of Athens"
-        },
         "https://login.athena-innovation.gr/idp/shibboleth": {
             "el": "Αθηνά - Ερευνητικό Κέντρο Καινοτομίας",
             "en": "Athena - Research and Innovation Center"
@@ -10829,10 +10678,6 @@
         "https://login.eap.gr/idp/shibboleth": {
             "el": "Ελληνικό Ανοικτό Πανεπιστήμιο",
             "en": "Hellenic Open University"
-        },
-        "https://login.eugenfound.edu.gr/idp/shibboleth": {
-            "el": "Ίδρυμα Ευγενίδου",
-            "en": "Eugenides Foundation"
         },
         "https://login.hafa.gr/idp/shibboleth": {
             "el": "Σχολή Ικάρων",
@@ -10858,20 +10703,9 @@
             "el": "Εθνικό Μετσόβιο Πολυτεχνείο",
             "en": "National Technical University of Athens"
         },
-        "https://login.sse.gr/idp/shibboleth": {
-            "el": "Στρατιωτική Σχολή Ευελπίδων",
-            "en": "Hellenic Army Academy"
-        },
         "https://login.uoc.gr/idp/shibboleth": {
             "el": "Πανεπιστήμιο Κρήτης",
             "en": "University of Crete"
-        },
-        "https://rciam-pre.vm.grnet.gr/auth/realms/grnet-sps": {
-            "en": "https://rciam-pre.vm.grnet.gr/auth/realms/grnet-sps"
-        },
-        "https://shib.elinyae.gr/idp/shibboleth": {
-            "el": "ΕΛ.ΙΝ.Υ.Α.Ε.",
-            "en": "EL.IN.Y.A.E."
         },
         "https://shibboleth-idp.ics.forth.gr/idp/shibboleth/": {
             "el": "Ίδρυμα Τεχνολογίας και Έρευνας - ΙΤΕ",
@@ -10884,9 +10718,6 @@
         "https://ssoidp.hna.gr/idp/shibboleth": {
             "el": "Σχολή Ναυτικών Δοκίμων",
             "en": "Hellenic Naval Academy"
-        },
-        "https://vho.grnet.gr/idp/shibboleth": {
-            "en": "https://vho.grnet.gr/idp/shibboleth"
         }
     },
     "hk": {
