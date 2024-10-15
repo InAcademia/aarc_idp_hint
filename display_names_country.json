@@ -11943,6 +11943,9 @@
         "https://idp.velsuniv.ac.in/idp/shibboleth": {
             "en": "Vels Institute of Science, Technology and Advanced Studies (VISTAS)"
         },
+        "https://idp.veltech.edu.in/idp/shibboleth": {
+            "en": "Vel Tech Rangarajan Dr. Sagunthala R and D Institute of Science and Technology"
+        },
         "https://idp.vidyasagar.ac.in/idp/shibboleth": {
             "en": "Vidyasagar University"
         },
