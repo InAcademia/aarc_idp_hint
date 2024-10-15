@@ -411,6 +411,10 @@
         "de": "Hochschule fuer bildende Kuenste Hamburg HFBK",
         "en": "Hochschule fuer bildende Kuenste Hamburg HFBK"
     },
+    "https://idp.hfg-gmuend.de/idp/shibboleth": {
+        "de": "HfG Hochschule für Gestaltung Schwäbisch Gmünd",
+        "en": "HfG Hochschule für Gestaltung Schwäbisch Gmünd"
+    },
     "https://idp.hfg-offenbach.de/idp/shibboleth": {
         "de": "HfG - Hochschule für Gestaltung Offenbach am Main",
         "en": "HfG Offenbach - University of Art and Design Offenbach am Main"
