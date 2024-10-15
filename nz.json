@@ -20,6 +20,9 @@
     "https://idp.aut.ac.nz/idp/shibboleth": {
         "en": "AUT University"
     },
+    "https://idp.canterbury.ac.nz/idp/shibboleth": {
+        "en": "University of Canterbury"
+    },
     "https://idp.lincoln.ac.nz/idp/shibboleth": {
         "en": "Lincoln University"
     },
