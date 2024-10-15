@@ -723,6 +723,10 @@
         "en": "Fuyang Normal University",
         "zh": "阜阳师范大学(Fuyang Normal University)"
     },
+    "https://idp.fzfu.edu.cn/idp/shibboleth": {
+        "en": "Fuzhou University of International Studies and Trade",
+        "zh": "福州外语外贸学院(Fuzhou University of International Studies and Trade)"
+    },
     "https://idp.fzu.edu.cn/idp/shibboleth": {
         "en": "Fuzhou University",
         "zh": "福州大学(Fuzhou University)"
