@@ -46,6 +46,10 @@
         "en": "University of Oradea",
         "ro": "Universitatea din Oradea"
     },
+    "https://idp.upet.ro/idp/shibboleth": {
+        "en": "University of Petrosani - Shibboleth IdP",
+        "ro": "Universitatea din Petroșani - Shibboleth IdP"
+    },
     "https://idp.upg-ploiesti.ro/simplesaml/saml2/idp/metadata.php": {
         "en": "Petroleum Gas University of Ploiesti",
         "ro": "Universitatea Petrol-Gaze din Ploiesti"
