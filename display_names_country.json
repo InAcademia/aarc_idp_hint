@@ -379,6 +379,9 @@
         "https://idp.cc.swin.edu.au/idp/shibboleth": {
             "en": "Swinburne University of Technology"
         },
+        "https://idp.cmri.org.au/idp/shibboleth": {
+            "en": "Children’s Medical Research Institute"
+        },
         "https://idp.flinders.edu.au/idp/shibboleth": {
             "en": "Flinders University"
         },
