@@ -887,6 +887,10 @@
         "en": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul",
         "pt-br": "PUCRS - Pontificia Universidade Catolica do Rio Grande do Sul"
     },
+    "https://prdidm01.mec.gov.br/idp/shibboleth": {
+        "en": "MEC - Ministerio da Educacao",
+        "pt-br": "MEC - Ministerio da Educacao"
+    },
     "https://pro-vm-lcafe-01.fnde.gov.br/idp/shibboleth": {
         "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
         "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"

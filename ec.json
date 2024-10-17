@@ -275,6 +275,10 @@
         "en": "Universidad Nacional de Loja - unl",
         "es": "Universidad Nacional de Loja - unl"
     },
+    "https://login.uotavalo.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Universidad de Otavalo - uotavalo",
+        "es": "Universidad de Otavalo - uotavalo"
+    },
     "https://login.upacifico.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad del Pacífico - upacifico",
         "es": "Universidad del Pacífico - upacifico"
