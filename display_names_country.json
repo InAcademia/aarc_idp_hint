@@ -16218,6 +16218,10 @@
             "en": "Stockholm University",
             "sv": "Stockholms universitet"
         },
+        "https://idp.kkh.se/idp/shibboleth": {
+            "en": "Royal Institute of Art -New",
+            "sv": "Kungl. Konsthögskolan - Ny"
+        },
         "https://idp.kmh.se/idp/shibboleth": {
             "en": "Royal College of Music in Stockholm",
             "sv": "Kungliga Musikhögskolan i Stockholm"
