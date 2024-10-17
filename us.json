@@ -1226,6 +1226,9 @@
     "https://sso.nationwidechildrens.org/idp": {
         "en": "Nationwide Children's Hospital"
     },
+    "https://sso.nhsc.edu/idp": {
+        "en": "Nueta Hidatsa Sahnish College"
+    },
     "https://sso.noirlab.edu/idp": {
         "en": "NSF’s National Optical-Infrared Astronomy Research Laboratory (NOIRLab)"
     },
