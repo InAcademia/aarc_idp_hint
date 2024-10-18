@@ -4125,6 +4125,7 @@
     "https://login.uni-siegen.de/idp/shibboleth": "University of Siegen",
     "https://login.uni.lodz.pl/cas/idp/metadata": "University of Lodz",
     "https://login.uniandes.cedia.edu.ec/saml2/idp/metadata.php": "Universidad Regional Autonoma de los Andes - uniandes",
+    "https://login.unibe.cedia.edu.ec/saml2/idp/metadata.php": "Universidad Iberoamericana del Ecuador - unibe",
     "https://login.uniklinikum-dresden.de/idp/shibboleth": "University Hospital Carl Gustav Carus, Dresden",
     "https://login.unl.cedia.edu.ec/saml2/idp/metadata.php": "Universidad Nacional de Loja - unl",
     "https://login.unlv.edu/FIM/sps/MyShib/saml20": "University of Nevada-Las Vegas",
