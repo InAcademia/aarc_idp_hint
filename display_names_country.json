@@ -16922,10 +16922,6 @@
             "en": "Dicle University",
             "tr": "Dicle Üniversitesi"
         },
-        "https://kimlik.dogus.edu.tr/idp/shibboleth": {
-            "en": "Dogus University",
-            "tr": "Doğuş Üniversitesi"
-        },
         "https://kimlik.duzce.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Duzce University",
             "tr": "Düzce Üniversitesi"
