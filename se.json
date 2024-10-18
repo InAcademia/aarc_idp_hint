@@ -20,8 +20,8 @@
         "sv": "Umeå universitet"
     },
     "http://fds.idp.hhs.se/adfs/services/trust": {
-        "en": "DO NOT USE - Stockholm School of Economics [ADFS]",
-        "sv": "DO NOT USE - Handelshögskolan i Stockholm [ADFS]"
+        "en": "Stockholm School of Economics",
+        "sv": "Handelshögskolan i Stockholm"
     },
     "http://fs.bth.se/adfs/services/trust": {
         "en": "Blekinge Institute of Technology",
@@ -180,8 +180,8 @@
         "sv": "eduID Sverige"
     },
     "https://login.idp.hhs.se/idp/shibboleth": {
-        "en": "Stockholm School of Economics IdP",
-        "sv": "Handelshögskolan i Stockholm IdP"
+        "en": "DEPRECATED Stockholm School of Economics [Shibboleth]",
+        "sv": "UTFASAD Handelshögskolan i Stockholm [Shibboleth]"
     },
     "https://login.ki.se/idp/shibboleth": {
         "en": "Karolinska Institutet",
