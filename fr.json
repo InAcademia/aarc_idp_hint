@@ -1075,10 +1075,6 @@
         "en": "Université de Technologie de Troyes - UTT",
         "fr": "Université de Technologie de Troyes - UTT"
     },
-    "https://shibbolethv3.univ-evry.fr/idp/shibboleth": {
-        "en": "Université d'Evry Val d'Essonne V3 (old)",
-        "fr": "Université d'Evry Val d'Essonne V3 (ancien)"
-    },
     "https://shibbov3-vm.ec-nantes.fr/idp/shibboleth": {
         "en": "Centrale Nantes",
         "fr": "Centrale Nantes"
