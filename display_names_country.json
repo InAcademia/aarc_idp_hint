@@ -20325,6 +20325,9 @@
         "https://sso.sdccd.edu/idp": {
             "en": "San Diego Community College District"
         },
+        "https://sso.sittingbull.edu/idp": {
+            "en": "Sitting Bull College"
+        },
         "https://sso.sjeccd.edu": {
             "en": "San Jose - Evergreen Community College District"
         },
