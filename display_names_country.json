@@ -14251,8 +14251,8 @@
             "nl": "KNMI"
         },
         "http://fs.loi.nl/adfs/services/trust": {
-            "en": "Leidse Onderwijsinstellingen - 2",
-            "nl": "Leidse Onderwijsinstellingen - 2"
+            "en": "Leidse Onderwijsinstellingen",
+            "nl": "Leidse Onderwijsinstellingen"
         },
         "http://fs.myhz.nl/adfs/services/trust": {
             "en": "HZ University of Applied Sciences",
@@ -14425,10 +14425,6 @@
         "https://idp.nscr.nl/simplesaml/saml2/idp/metadata.php": {
             "en": "NSCR",
             "nl": "NSCR"
-        },
-        "https://login.loi.nl/saml2/idp/metadata.php": {
-            "en": "Leidse Onderwijsinstellingen - 1",
-            "nl": "Leidse Onderwijsinstellingen - 1"
         },
         "https://login.ou.nl/am": {
             "en": "Open Universiteit",
