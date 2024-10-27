@@ -468,10 +468,13 @@
         "https://idp.bau.edu.bd/idp/shibboleth": {
             "en": "Bangladesh Agricultural University"
         },
+        "https://idp.bdren.net.bd/idp/shibboleth": {
+            "en": "Bangladesh Research and Education Network"
+        },
         "https://idp.buet.ac.bd/idp/shibboleth": {
             "en": "Bangladesh University of Engineering and Technology"
         },
-        "https://idp.green.edu.bd/idp/shibboleth": {
+        "https://idp.green.ac.bd/idp/shibboleth": {
             "en": "Green University of Bangladesh"
         },
         "https://idp.iiuc.ac.bd/idp/shibboleth": {
