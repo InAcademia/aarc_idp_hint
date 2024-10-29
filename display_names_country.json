@@ -16321,6 +16321,10 @@
             "en": "KTH Royal Institute of Technology",
             "sv": "Kungliga Tekniska högskolan (KTH)"
         },
+        "https://shib-idp-1.oru.se/idp/shibboleth": {
+            "en": "Örebro University New",
+            "sv": "Örebro universitet Ny"
+        },
         "https://swamid2.shh.se/idp/shibboleth": {
             "en": "Sophiahemmet University",
             "sv": "Sophiahemmet Högskola"
