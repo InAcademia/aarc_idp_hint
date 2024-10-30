@@ -378,6 +378,7 @@
     "https://ashibi.agropolis.fr/idp/shibboleth": "Agropolis International",
     "https://asren-iam.asren.org/idp/shibboleth": "ASREN",
     "https://asren-idp.asren.net/auth/realms/asren": "Arab State Research and Education Network",
+    "https://astem.ex-tic.com/auth/gakunin/saml2/assertions": "ASTEM RI",
     "https://asura.seijo.ac.jp/idp/shibboleth": "Seijo University",
     "https://athens.londonexternal.ac.uk/OpenAthens": "University of London: External System (ATHENS)",
     "https://athens.petroc.ac.uk/oala/metadata": "Petroc",

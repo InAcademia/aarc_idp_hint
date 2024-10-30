@@ -12679,6 +12679,10 @@
             "en": "Akita University (New)",
             "ja": "秋田大学（新）"
         },
+        "https://astem.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "ASTEM RI",
+            "ja": "京都高度技術研究所"
+        },
         "https://asura.seijo.ac.jp/idp/shibboleth": {
             "en": "Seijo University",
             "ja": "成城大学"
