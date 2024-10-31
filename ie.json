@@ -35,9 +35,6 @@
     "https://idp.erc.ie/idp/shibboleth": {
         "en": "Educational Research Centre"
     },
-    "https://idp.gcd.ie/idp/shibboleth": {
-        "en": "Griffith College"
-    },
     "https://idp.hea.ie/idp/shibboleth": {
         "en": "Higher Education Authority"
     },
