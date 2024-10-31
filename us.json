@@ -1277,6 +1277,9 @@
     "https://sso.tarleton.edu/idp/shibboleth": {
         "en": "Tarleton State University"
     },
+    "https://sso.tm.edu/idp": {
+        "en": "Turtle Mountain College"
+    },
     "https://sso.trinity.edu/idp/shibboleth": {
         "en": "Trinity University"
     },
