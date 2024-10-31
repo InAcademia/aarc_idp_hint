@@ -527,6 +527,10 @@
         "en": "Balikesir University",
         "tr": "Balıkesir Üniversitesi"
     },
+    "https://yetkim.biruni.edu.tr/idp/shibboleth": {
+        "en": "Biruni University",
+        "tr": "Biruni Üniversitesi"
+    },
     "https://yetkim.ebyu.edu.tr/idp/shibboleth": {
         "en": "Erzincan Binali Yildirim University",
         "tr": "Erzincan Binali Yıldırım Üniversitesi"
