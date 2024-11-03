@@ -35,9 +35,6 @@
     "http://adfs.mcbs.edu.om/adfs/services/trust": {
         "en": "Modern College of Business & Science"
     },
-    "http://adfs.mtc.edu.om/adfs/services/trust": {
-        "en": "Military Technological College"
-    },
     "http://adfs.muscatcollege.edu.om/adfs/services/trust": {
         "en": "Muscat College"
     },
