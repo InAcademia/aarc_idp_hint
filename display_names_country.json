@@ -16202,10 +16202,6 @@
             "en": "SUNET - Connect",
             "sv": "SUNET - Connect"
         },
-        "https://idp-shib.slu.se/idp": {
-            "en": "Swedish University of Agricultural Sciences",
-            "sv": "Sveriges lantbruksuniversitet"
-        },
         "https://idp-v2.konstfack.se/adfs/services/trust": {
             "en": "Konstfack - University account",
             "sv": "Konstfack - University account"
