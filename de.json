@@ -1199,6 +1199,10 @@
         "de": "Staatliche Kunstsammlungen Dresden",
         "en": "Staatliche Kunstsammlungen Dresden"
     },
+    "https://maxweberstiftung.sso.academiccloud.de/idp": {
+        "de": "Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland",
+        "en": "Max Weber Foundation - German Humanities Institutes Abroad"
+    },
     "https://meet-sso.conf.dfn.de/idp/shibboleth": {
         "de": "DFNconf eduMEET SSO",
         "en": "DFNconf eduMEET SSO"
