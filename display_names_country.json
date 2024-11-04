@@ -6460,6 +6460,10 @@
             "de": "Fraunhofer-Gesellschaft",
             "en": "Fraunhofer-Gesellschaft"
         },
+        "https://idp.fv-berlin.de": {
+            "de": "Forschungsverbund Berlin e.V.",
+            "en": "Forschungsverbund Berlin e.V."
+        },
         "https://idp.fzi.de/idp/shibboleth": {
             "de": "FZI Forschungszentrum Informatik",
             "en": "FZI Forschungszentrum Informatik"
