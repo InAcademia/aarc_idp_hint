@@ -7993,6 +7993,10 @@
             "en": "National University Hospital of Iceland",
             "is": "Landspítali"
         },
+        "https://sts.windows.net/fcd01dec-c99e-43dc-927f-c3e610738729/": {
+            "da": "ROCKWOOL Fonden",
+            "en": "ROCKWOOL Foundation"
+        },
         "https://wayf.aams.dk/simplesaml/saml2/idp/metadata.php": {
             "da": "Aarhus Maskinmesterskole",
             "en": "Aarhus School of Marine and Technical Engineering"
