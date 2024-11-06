@@ -208,8 +208,8 @@
         "hu": "Színház- és Filmművészeti Egyetem"
     },
     "https://idp.szie.hu/idp/shibboleth": {
-        "en": "Szent István University",
-        "hu": "Szent István Egyetem"
+        "en": "Hungarian University of Agriculture and Life Sciences",
+        "hu": "Magyar Agrár- és Élettudományi Egyetem"
     },
     "https://idp.tkbf.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Dharma Gate Buddhist College",
@@ -270,10 +270,6 @@
     "https://seka.semmelweis-univ.hu/idp/shibboleth": {
         "en": "Semmelweis University Central Authentication",
         "hu": "Semmelweis Egyetem Központi Azonosítás (SeKA)"
-    },
-    "https://srv-eduid01.ke.hu/simplesaml/saml2/idp/metadata.php": {
-        "en": "Kaposvár University",
-        "hu": "Kaposvári Egyetem"
     },
     "https://sso.elkh.org/idp": {
         "en": "ELKH Eötvös Loránd Research Network",
