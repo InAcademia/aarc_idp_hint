@@ -12919,6 +12919,10 @@
             "en": "National Institute of Technology, Suzuka College",
             "ja": "鈴鹿工業高等専門学校"
         },
+        "https://idp.tachibana-u.ac.jp/idp/shibboleth": {
+            "en": "Kyoto Tachibana University",
+            "ja": "京都橘大学"
+        },
         "https://idp.tau.ac.jp/idp/shibboleth": {
             "en": "Tokyo Ariake University of Medical and Health Sciences",
             "ja": "東京有明医療大学"
@@ -12930,6 +12934,10 @@
         "https://idp.tohoku-mpu.ac.jp/idp/shibboleth": {
             "en": "Tohoku Medical and Pharmaceutical University",
             "ja": "東北医科薬科大学"
+        },
+        "https://idp.tohtech.ac.jp/idp/shibboleth": {
+            "en": "Tohoku Institute of Technology",
+            "ja": "東北工業大学"
         },
         "https://idp.toyaku.ac.jp/idp/shibboleth": {
             "en": "Tokyo University of Pharmacy and Life Sciences",
