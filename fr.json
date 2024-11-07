@@ -819,6 +819,10 @@
         "en": "AMUE - Agence de Mutualisation des Universités et Etablissements",
         "fr": "AMUE - Agence de Mutualisation des Universités et Etablissements"
     },
+    "https://idp2.brgm.fr/idp/shibboleth": {
+        "en": "BRGM2-NEXT",
+        "fr": "BRGM2-NEXT- Bureau de Recherches Géologiques et Minières"
+    },
     "https://idp2.crous-aix-marseille.fr/idp/shibboleth": {
         "en": "CROUS Aix-Marseille",
         "fr": "CROUS Aix-Marseille"
