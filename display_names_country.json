@@ -18546,6 +18546,9 @@
         "https://idp.worcestershire.gov.uk/entity": {
             "en": "Worcestershire County Council"
         },
+        "https://idp.wqe.ac.uk/entity": {
+            "en": "WQE College"
+        },
         "https://idp.writtle.ac.uk/shibboleth": {
             "en": "Writtle University College"
         },
@@ -18989,9 +18992,6 @@
         },
         "https://shibidp.wnc.ac.uk/idp/shibboleth": {
             "en": "West Nottinghamshire College"
-        },
-        "https://shibidp.wqeic.ac.uk/shibboleth": {
-            "en": "Wyggeston & QEI College"
         },
         "https://shiblogin.hull.ac.uk/idp/shibboleth": {
             "en": "University of Hull"
