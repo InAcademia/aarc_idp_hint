@@ -1100,6 +1100,10 @@
             "en": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo",
             "pt-br": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo"
         },
+        "https://cafeuri.uricer.edu.br/idp/shibboleth": {
+            "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
+            "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
+        },
         "https://cafev3.unochapeco.edu.br/idp/shibboleth": {
             "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
             "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
@@ -1911,10 +1915,6 @@
         "https://svr-cafe.unaerp.br/idp/shibboleth": {
             "en": "UNAERP - Associacao de Ensino de Ribeirao Preto",
             "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto"
-        },
-        "https://uricafe.uricer.edu.br/idp/shibboleth": {
-            "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
-            "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
         },
         "https://uter.ufob.edu.br/idp/shibboleth": {
             "en": "UFOB - Universidade Federal do Oeste da Bahia",
@@ -10179,10 +10179,6 @@
         "https://idpr4.imtbs-tsp.eu/idp/shibboleth": {
             "en": "Institut Mines Telecom Business School and Telecom SudParis (v4)",
             "fr": "Institut Mines Telecom Business School et Telecom SudParis (v4)"
-        },
-        "https://idpv3.crous-reims.fr/idp/shibboleth": {
-            "en": "Reims IDP V3",
-            "fr": "Reims IDP V3"
         },
         "https://idpv3.crous-versailles.fr/idp/shibboleth": {
             "en": "CROUS Versailles V3",

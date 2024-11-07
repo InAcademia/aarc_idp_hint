@@ -359,6 +359,10 @@
         "en": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo",
         "pt-br": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo"
     },
+    "https://cafeuri.uricer.edu.br/idp/shibboleth": {
+        "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
+        "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
+    },
     "https://cafev3.unochapeco.edu.br/idp/shibboleth": {
         "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
         "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
@@ -1170,10 +1174,6 @@
     "https://svr-cafe.unaerp.br/idp/shibboleth": {
         "en": "UNAERP - Associacao de Ensino de Ribeirao Preto",
         "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto"
-    },
-    "https://uricafe.uricer.edu.br/idp/shibboleth": {
-        "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
-        "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
     },
     "https://uter.ufob.edu.br/idp/shibboleth": {
         "en": "UFOB - Universidade Federal do Oeste da Bahia",

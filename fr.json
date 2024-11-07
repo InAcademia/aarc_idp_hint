@@ -903,10 +903,6 @@
         "en": "Institut Mines Telecom Business School and Telecom SudParis (v4)",
         "fr": "Institut Mines Telecom Business School et Telecom SudParis (v4)"
     },
-    "https://idpv3.crous-reims.fr/idp/shibboleth": {
-        "en": "Reims IDP V3",
-        "fr": "Reims IDP V3"
-    },
     "https://idpv3.crous-versailles.fr/idp/shibboleth": {
         "en": "CROUS Versailles V3",
         "fr": "CROUS Versailles V3"
