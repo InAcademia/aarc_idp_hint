@@ -19100,9 +19100,6 @@
         "http://adfs.nku.edu/adfs/services/trust": {
             "en": "Northern Kentucky University"
         },
-        "http://adfs.nsf.gov/adfs/services/trust": {
-            "en": "NSF (National Science Foundation ) Staff Login"
-        },
         "http://adfs.otc.edu/adfs/services/trust": {
             "en": "Ozarks Technical Community College"
         },
