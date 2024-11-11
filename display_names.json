@@ -4346,6 +4346,7 @@
     "https://sblt.fh-krems.ac.at/idp/shibboleth": "IMC University of Applied Sciences Krems/Austria",
     "https://scgidp.shrewsbury.ac.uk/idp/shibboleth": "Shrewsbury Colleges Group",
     "https://school.c2kni.net/shibboleth": "C2k (Western Education Library Board)",
+    "https://scudna.ex-tic.com/auth/gakunin/saml2/assertions": "Sapporo City University (New)",
     "https://secure-acc.etnic.be/nidp/saml2/metadata": "MFWB",
     "https://secure.ahk.nl/nidp/saml2/metadata": "Amsterdam University of the Arts",
     "https://secure.etnic.be/nidp/saml2/metadata": "FWB",
