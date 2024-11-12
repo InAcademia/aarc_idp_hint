@@ -2062,6 +2062,9 @@
             "en": "University of Quebec at Trois-Rivieres",
             "fr": "Université du Québec à Trois-Rivières"
         },
+        "https://cbuidp.cbu.ca/idp/shibboleth": {
+            "en": "Cape Breton University"
+        },
         "https://connect.laurentian.ca/idp": {
             "en": "Laurentian University"
         },
@@ -2106,6 +2109,9 @@
         },
         "https://idp.identity.uoguelph.ca/idp/shibboleth": {
             "en": "University of Guelph"
+        },
+        "https://idp.inrs.ca/idp": {
+            "en": "https://idp.inrs.ca/idp"
         },
         "https://idp.lakeheadu.ca/idp/shibboleth": {
             "en": "Lakehead University"
