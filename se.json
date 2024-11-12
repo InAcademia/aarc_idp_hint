@@ -127,10 +127,6 @@
         "en": "NORDUnet",
         "sv": "NORDUnet"
     },
-    "https://idp.oru.se/idp/shibboleth": {
-        "en": "Örebro University",
-        "sv": "Örebro universitet"
-    },
     "https://idp.sunet.se/idp": {
         "en": "SUNET - Google",
         "sv": "SUNET - Google"
@@ -192,8 +188,8 @@
         "sv": "Kungliga Tekniska högskolan (KTH)"
     },
     "https://shib-idp-1.oru.se/idp/shibboleth": {
-        "en": "Örebro University New",
-        "sv": "Örebro universitet Ny"
+        "en": "Örebro University.",
+        "sv": "Örebro universitet."
     },
     "https://swamid2.shh.se/idp/shibboleth": {
         "en": "Sophiahemmet University",
