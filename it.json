@@ -581,6 +581,10 @@
         "en": "Campus Bio-Medico University of Rome",
         "it": "Università Campus Bio-Medico di Roma"
     },
+    "https://shibboleth.liuc.it/idp/shibboleth": {
+        "en": "LIUC - Cattaneo University",
+        "it": "Università Carlo cattaneo - LIUC"
+    },
     "https://shibboleth.unifi.it/idp/shibboleth": {
         "en": "University of Florence",
         "it": "Università di Firenze"
