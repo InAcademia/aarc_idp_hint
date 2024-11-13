@@ -4746,6 +4746,10 @@
             "en": "Wuhan Sports University",
             "zh": "武汉体育学院(Wuhan Sports University)"
         },
+        "https://idp.whtcc.edu.cn/idp/shibboleth": {
+            "en": "Wuhan Technical College Of Communication",
+            "zh": "武汉交通职业学院(Wuhan Technical College Of Communication)"
+        },
         "https://idp.whu.edu.cn/idp/shibboleth": {
             "en": "Wuhan University",
             "zh": "武汉大学(Wuhan University)"
@@ -4873,6 +4877,10 @@
         "https://idp.xiyi.edu.cn/idp/shibboleth": {
             "en": "Xi'an Medical University",
             "zh": "西安医学院(Xi'an Medical University)"
+        },
+        "https://idp.xjie.edu.cn/idp/shibboleth": {
+            "en": "XinjiangInstituteofEngineering",
+            "zh": "新疆工程学院(XinjiangInstituteofEngineering)"
         },
         "https://idp.xjmu.edu.cn/idp/shibboleth": {
             "en": "Xinjiang Medical University",
