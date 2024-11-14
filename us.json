@@ -47,6 +47,9 @@
     "http://login.mayo.edu/adfs/services/trust": {
         "en": "Mayo Clinic"
     },
+    "http://sso.oit.edu/idp": {
+        "en": "Oregon Institute of Technology"
+    },
     "http://sso.quinnipiac.edu/adfs/services/trust": {
         "en": "Quinnipiac University"
     },
