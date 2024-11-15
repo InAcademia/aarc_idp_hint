@@ -13686,6 +13686,9 @@
         "https://idp3.umt.edu.my/idp/shibboleth": {
             "en": "Universiti Malaysia Terengganu"
         },
+        "https://proxy-idp.mypolycc.edu.my/Saml2IDP/proxy.xml": {
+            "en": "Jabatan Politeknik dan Kolej Komuniti"
+        },
         "https://shib-idp.uitm.edu.my/idp/shibboleth": {
             "en": "Universiti Teknologi MARA"
         },
@@ -13981,7 +13984,7 @@
             "en": "Kolej Komuniti Tampin"
         },
         "https://sso.mypolycc.edu.my/idp/shibboleth": {
-            "en": "Jabatan Pendidikan Politeknik Dan Kolej Komuniti"
+            "en": "Jabatan Pendidikan Politeknik Dan Kolej Komuniti (HQ)"
         },
         "https://sso.myren.net.my/idp/shibboleth": {
             "en": "Malaysian Research and Education Network (MYREN)"
