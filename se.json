@@ -171,10 +171,6 @@
         "en": "eduID Sweden",
         "sv": "eduID Sverige"
     },
-    "https://login.idp.hhs.se/idp/shibboleth": {
-        "en": "DEPRECATED Stockholm School of Economics [Shibboleth]",
-        "sv": "UTFASAD Handelshögskolan i Stockholm [Shibboleth]"
-    },
     "https://login.ki.se/idp/shibboleth": {
         "en": "Karolinska Institutet",
         "sv": "Karolinska Institutet"

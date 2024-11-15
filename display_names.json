@@ -4005,7 +4005,6 @@
     "https://login.icermali.org/idp/shibboleth": "ICER - Mali",
     "https://login.iceruganda.org/idp/shibboleth": "ICER - Uganda",
     "https://login.idp.eduid.se/idp.xml": "eduID Sweden",
-    "https://login.idp.hhs.se/idp/shibboleth": "DEPRECATED Stockholm School of Economics [Shibboleth]",
     "https://login.igepn.cedia.edu.ec/saml2/idp/metadata.php": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn",
     "https://login.iit.edu/cas/idp": "Illinois Institute of Technology NEW",
     "https://login.ikiam.cedia.edu.ec/saml2/idp/metadata.php": "Universidad Regional Amazónica Ikiam - ikiam",
