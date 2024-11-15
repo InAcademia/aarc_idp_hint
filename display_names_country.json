@@ -6290,6 +6290,10 @@
             "de": "Hfoed - FB AIV",
             "en": "Hfoed - FB AIV"
         },
+        "https://idp.ash-berlin.eu/idp/shibboleth": {
+            "de": "Alice-Salomon-Hochschule Berlin",
+            "en": "Alice-Salomon-Hochschule Berlin"
+        },
         "https://idp.ba-sachsen.de/idp/shibboleth": {
             "de": "Berufsakademie Sachsen",
             "en": "Berufsakademie Sachsen"
