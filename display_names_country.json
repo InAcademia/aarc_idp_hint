@@ -3598,10 +3598,6 @@
             "en": "Hunan University",
             "zh": "湖南大学(Hunan University)"
         },
-        "https://idp.hnuahe.edu.cn/idp/shibboleth": {
-            "en": "Henan University of Animal Husbandry and Economy",
-            "zh": "河南牧业经济学院(Henan University of Animal Husbandry and Economy)"
-        },
         "https://idp.hnuu.edu.cn/idp/shibboleth": {
             "en": "Huainan Union University",
             "zh": "淮南联合大学(Huainan Union University)"
@@ -11412,7 +11408,7 @@
             "en": "TU Dublin (TU Dublin login)"
         },
         "https://idp.tus.ie/idp/shibboleth": {
-            "en": "Technological University of the Shannon: Midlands Midwest (@tus.ie logins)"
+            "en": "Technological University of the Shannon: Midlands Midwest"
         },
         "https://idp.ul.ie/idp/shibboleth": {
             "en": "University of Limerick",
