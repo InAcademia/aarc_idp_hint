@@ -6890,10 +6890,6 @@
             "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
             "en": "Leibniz Supercomputing Centre (LRZ)"
         },
-        "https://idp.mh-trossingen.de/idp/shibboleth": {
-            "de": "Staatliche Hochschule für Musik Trossingen",
-            "en": "Trossingen University of Music"
-        },
         "https://idp.mis.mpg.de/simplesamlphp/saml2/idp/metadata.php": {
             "de": "Max-Planck-Institut für Mathematik in den Naturwissenschaften",
             "en": "Max Planck Institute for Mathematics in the Sciences"
