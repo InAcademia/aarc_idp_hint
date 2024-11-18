@@ -35,9 +35,6 @@
     "http://fs.carilionclinic.org/adfs/services/trust": {
         "en": "Carilion Clinic"
     },
-    "http://fs.uwlax.edu/adfs/services/trust": {
-        "en": "University of Wisconsin - La Crosse"
-    },
     "http://fs.uwp.edu/adfs/services/trust": {
         "en": "University of Wisconsin-Parkside"
     },
