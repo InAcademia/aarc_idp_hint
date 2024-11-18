@@ -17340,8 +17340,14 @@
         "https://idp-auth.sun.ac.ug/idp/shibboleth": {
             "en": "Soroti University"
         },
+        "https://idp-entebbess.renu.ac.ug/idp/shibboleth": {
+            "en": "Entebbe Secondary School"
+        },
         "https://idp-mgd-ksnm.renu.ac.ug/idp/shibboleth": {
             "en": "Kyetume School of Nursing and Midwifery"
+        },
+        "https://idp-stmaryscollegekisubi.renu.ac.ug/idp/shibboleth": {
+            "en": "St Mary's College Kisubi (SMACK)"
         },
         "https://idp.kyu.ac.ug/idp/shibboleth": {
             "en": "Kyambogo University"
