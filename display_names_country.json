@@ -12773,6 +12773,10 @@
             "en": "The University of Tokyo",
             "ja": "東京大学"
         },
+        "https://gk-idp.auth.osaka-u.ac.jp/idp/shibboleth": {
+            "en": "The University of Osaka",
+            "ja": "大阪大学"
+        },
         "https://gknidp.ict.nitech.ac.jp/idp/shibboleth": {
             "en": "Nagoya Institute of Technology",
             "ja": "名古屋工業大学"
