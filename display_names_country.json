@@ -20418,6 +20418,9 @@
         "https://sso.tm.edu/idp": {
             "en": "Turtle Mountain College"
         },
+        "https://sso.touro.edu/idp": {
+            "en": "Touro University"
+        },
         "https://sso.trinity.edu/idp/shibboleth": {
             "en": "Trinity University"
         },
