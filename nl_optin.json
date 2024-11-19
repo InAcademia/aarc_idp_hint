@@ -35,10 +35,6 @@
         "en": "Lentiz Onderwijsgroep",
         "nl": "Lentiz Onderwijsgroep"
     },
-    "http://adfs01.kempel.nl/adfs/services/trust": {
-        "en": "Hogeschool de Kempel",
-        "nl": "Hogeschool de Kempel"
-    },
     "http://adfs3prod.aventus.nl/adfs/services/trust": {
         "en": "ROC Aventus",
         "nl": "ROC Aventus"
