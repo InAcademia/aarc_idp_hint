@@ -719,6 +719,9 @@
         "de": "Leibniz-Institut für Virologie (LIV)",
         "en": "Leibniz Institute of Virology (LIV)"
     },
+    "https://idp.li-hamburg.de/idp/shibboleth": {
+        "en": "LI-Hamburg (Landesinstitut fuer Lehrerbildung und Schulentwicklung)"
+    },
     "https://idp.lrz.de/idp/shibboleth": {
         "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
         "en": "Leibniz Supercomputing Centre (LRZ)"
