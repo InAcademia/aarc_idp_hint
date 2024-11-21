@@ -1601,6 +1601,9 @@
     "https://shibboleth.serc.ac.uk/shibboleth": {
         "en": "South Eastern Regional College"
     },
+    "https://shibboleth.shcg.ac.uk/idp/shibboleth": {
+        "en": "South Hampshire College Group"
+    },
     "https://shibboleth.shipley.ac.uk/idp/shibboleth": {
         "en": "Shipley College (Shibboleth)"
     },
