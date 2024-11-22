@@ -19350,6 +19350,9 @@
         "https://fim.temple.edu/idp/shibboleth": {
             "en": "Temple University"
         },
+        "https://fsr.uchc.edu/adfs/services/trust": {
+            "en": "UCONN HEALTH"
+        },
         "https://hartnell.edu/idp": {
             "en": "Hartnell Community College District"
         },
@@ -19514,6 +19517,9 @@
         },
         "https://idp.depauw.edu/openathens": {
             "en": "DePauw University InCommon IDP"
+        },
+        "https://idp.du.edu/idp/shibboleth": {
+            "en": "The University of Denver"
         },
         "https://idp.duq.edu/idp/shibboleth": {
             "en": "Duquesne University"
