@@ -74,6 +74,10 @@
         "en": "Nagoya Institute of Technology",
         "ja": "名古屋工業大学"
     },
+    "https://hoshi.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Hoshi University",
+        "ja": "星薬科大学"
+    },
     "https://iaidp.ia.waseda.jp/idp/shibboleth": {
         "en": "Waseda University",
         "ja": "早稲田大学"

@@ -761,6 +761,7 @@
     "https://hidp.ucc.ie/idp/shibboleth": "University College Cork",
     "https://hkafidp.hku.hk/idp/shibboleth": "The University of Hong Kong",
     "https://hopwood.ac.uk/idp": "Hopwood Hall College",
+    "https://hoshi.ex-tic.com/auth/gakunin/saml2/assertions": "Hoshi University",
     "https://hosted-login.tuakiri.ac.nz/hosting/cawthron.org.nz/idp/shibboleth": "Cawthron Institute",
     "https://hosted-login.tuakiri.ac.nz/hosting/malaghan.org.nz/idp/shibboleth": "Malaghan Institute of Medical Research",
     "https://hosted-login.tuakiri.ac.nz/hosting/reannz.co.nz/idp/shibboleth": "REANNZ",
