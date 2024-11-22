@@ -16231,8 +16231,8 @@
             "sv": "Linköpings universitet"
         },
         "http://idp-fs.slu.se/adfs/services/trust": {
-            "en": "New Swedish University of Agricultural Sciences",
-            "sv": "Ny Sveriges lantbruksuniversitet"
+            "en": "Swedish University of Agricultural Sciences",
+            "sv": "Sveriges lantbruksuniversitet"
         },
         "http://idp.chalmers.se/adfs/services/trust": {
             "en": "Chalmers",
