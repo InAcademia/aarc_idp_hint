@@ -11252,6 +11252,10 @@
             "en": "University of Dunaújváros",
             "hu": "Dunaújvárosi Egyetem"
         },
+        "https://krtk.hun-ren.hu/simplesaml": {
+            "en": "HUN-REN Centre for Economic and Regional Studies",
+            "hu": "HUN-REN Közgazdaság- és Regionális Tudományi Kutatóközpont"
+        },
         "https://l-aai.sztaki.hu/idp": {
             "en": "SZTAKI staff",
             "hu": "SZTAKI Munkatársak"
