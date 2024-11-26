@@ -6893,10 +6893,6 @@
             "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
             "en": "Leibniz Supercomputing Centre (LRZ)"
         },
-        "https://idp.mis.mpg.de/simplesamlphp/saml2/idp/metadata.php": {
-            "de": "Max-Planck-Institut für Mathematik in den Naturwissenschaften",
-            "en": "Max Planck Institute for Mathematics in the Sciences"
-        },
         "https://idp.mpi-bremen.de/idp/shibboleth": {
             "de": "Max-Planck-Institut für Marine Mikrobiologie",
             "en": "Max Planck Institute for Marine  Microbiology"
