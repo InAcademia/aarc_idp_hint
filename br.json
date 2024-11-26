@@ -1039,6 +1039,10 @@
         "en": "UNIFACS - Universidade Salvador",
         "pt-br": "UNIFACS - Universidade Salvador"
     },
+    "https://shibboleth.unifapce.edu.br/idp/shibboleth": {
+        "en": "UNIFAPCE - Centro Universitario Paraiso",
+        "pt-br": "UNIFAPCE - Centro Universitario Paraiso"
+    },
     "https://shibboleth.uninta.edu.br/idp/shibboleth": {
         "en": "UNINTA - Centro Universitario INTA",
         "pt-br": "UNINTA - Centro Universitario INTA"
