@@ -722,6 +722,10 @@
         "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
         "en": "Leibniz Supercomputing Centre (LRZ)"
     },
+    "https://idp.mh-trossingen.de/idp/shibboleth": {
+        "de": "Staatliche Hochschule für Musik Trossingen",
+        "en": "Trossingen University of Music"
+    },
     "https://idp.mpi-bremen.de/idp/shibboleth": {
         "de": "Max-Planck-Institut für Marine Mikrobiologie",
         "en": "Max Planck Institute for Marine  Microbiology"
