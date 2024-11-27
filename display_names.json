@@ -3838,6 +3838,7 @@
     "https://kimlik.pau.edu.tr/idp/shibboleth": "Pamukkale University",
     "https://kimlik.rumeli.edu.tr/idp/shibboleth": "Istanbul Rumeli University",
     "https://kimlik.sakarya.edu.tr/simplesaml/saml2/idp/metadata.php": "Sakarya University",
+    "https://kimlik.sanko.edu.tr/idp/shibboleth": "SANKO University",
     "https://kimlik.selcuk.edu.tr/simplesaml/saml2/idp/metadata.php": "Selcuk University",
     "https://kimlik.topkapi.edu.tr/simplesaml/saml2/idp/metadata.php": "Istanbul Topkapi University",
     "https://kimlik.toros.edu.tr/simplesaml/saml2/idp/metadata.php": "Toros University",

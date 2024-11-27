@@ -447,6 +447,10 @@
         "en": "Sakarya University",
         "tr": "Sakarya Üniversitesi"
     },
+    "https://kimlik.sanko.edu.tr/idp/shibboleth": {
+        "en": "SANKO University",
+        "tr": "SANKO Üniversitesi"
+    },
     "https://kimlik.selcuk.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Selcuk University",
         "tr": "Selçuk Üniversitesi"
