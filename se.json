@@ -55,10 +55,6 @@
         "en": "Malmö University",
         "sv": "Malmö universitet"
     },
-    "http://webproxysrv.uniarts.se/adfs/services/trust": {
-        "en": "Stockholm University of the Arts",
-        "sv": "Stockholms konstnärliga högskola"
-    },
     "https://connect.eduid.se/konstfack": {
         "en": "Konstfack - eduID",
         "sv": "Konstfack - eduID"
