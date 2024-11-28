@@ -2926,6 +2926,10 @@
             "en": "Beijing Forestry University",
             "zh": "北京林业大学(Beijing Forestry University)"
         },
+        "https://idp.bjpc.edu.cn/idp/shibboleth": {
+            "en": "Beijing Police College",
+            "zh": "北京警察学院(Beijing Police College)"
+        },
         "https://idp.bjtu.edu.cn/idp/shibboleth": {
             "en": "BEIJING JIAOTONG UNIVERSITY",
             "zh": "北京交通大学(BEIJING JIAOTONG UNIVERSITY)"
