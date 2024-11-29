@@ -4289,6 +4289,7 @@
     "https://prdshib.macewan.ca/idp/shibboleth": "MacEwan University",
     "https://pro-vm-lcafe-01.fnde.gov.br/idp/shibboleth": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
     "https://proxy-idp.mypolycc.edu.my/Saml2IDP/proxy.xml": "Jabatan Pendidikan Politeknik dan Kolej Komuniti (eBook)",
+    "https://proxy.edu-id.dfn.de/idp/shibboleth": "DFN edu-ID",
     "https://proxy.eduid.africa/idp/saml2": "eduID.africa Proxy IdP",
     "https://proxy.redclara.net/idp": "RedCLARA Proxy IdP",
     "https://proxy.safire.ac.za/birk.php/googleidp.sanren.ac.za/simplesaml/saml2/idp/metadata.php": "SANReN Competency Area",
