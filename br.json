@@ -203,6 +203,10 @@
         "en": "UCS - Universidade de Caxias do Sul",
         "pt-br": "UCS - Universidade de Caxias do Sul"
     },
+    "https://cafe.ucsal.br/idp/shibboleth": {
+        "en": "UCSAL - Universidade Catolica do Salvador",
+        "pt-br": "UCSAL - Universidade Catolica do Salvador"
+    },
     "https://cafe.uemg.br/idp/shibboleth": {
         "en": "UEMG - Universidade do Estado de Minas Gerais",
         "pt-br": "UEMG - Universidade do Estado de Minas Gerais"
