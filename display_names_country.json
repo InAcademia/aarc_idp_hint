@@ -6322,10 +6322,6 @@
             "de": "Berufliche Hochschule Hamburg",
             "en": "Berufliche Hochschule Hamburg"
         },
-        "https://idp.bib.de/idp/shibboleth": {
-            "de": "bib International College",
-            "en": "bib International College"
-        },
         "https://idp.biochem.mpg.de/idp/shibboleth": {
             "de": "MPI fuer Biochemie",
             "en": "MPI of Biochemistry"
@@ -6854,10 +6850,6 @@
             "de": "Leibniz-Institut fuer Analytische Wissenschaften - ISAS - e.V.",
             "en": "Leibniz-Institut fuer Analytische Wissenschaften - ISAS - e.V."
         },
-        "https://idp.ism.de/idp/shibboleth": {
-            "de": "ISM International School of Management",
-            "en": "ISM International School of Management"
-        },
         "https://idp.itmc.tu-dortmund.de/idp/shibboleth": {
             "de": "Technische Universität Dortmund",
             "en": "Technische Universität Dortmund"
@@ -7224,10 +7216,6 @@
         "https://idp2.rfh-koeln.de/idp/shibboleth": {
             "de": "Rheinische Hochschule Köln gGmbH",
             "en": "Rheinische Hochschule Köln gGmbH"
-        },
-        "https://idp4.tiho-hannover.de/idp/shibboleth": {
-            "de": "Stiftung Tieraerztliche Hochschule Hannover (eduGAIN)",
-            "en": "University of Veterinary Medicine Hannover (eduGAIN)"
         },
         "https://idpc.th-ab.de/idp/shibboleth": {
             "de": "Technische Hochschule Aschaffenburg",
@@ -7744,10 +7732,6 @@
         "https://wwuvidp.uni-muenster.de/idp/shibboleth": {
             "de": "Meta-Videoportal unterrichtsvideos.net",
             "en": "Meta-Videoportal unterrichtsvideos.net"
-        },
-        "https://www.apollon-campus.de/idp/shibboleth": {
-            "de": "APOLLON Hochschule Bremen",
-            "en": "APOLLON Hochschule Bremen"
         },
         "https://www.b-tu.de/idp/shibboleth": {
             "de": "BTU Cottbus - Senftenberg",
