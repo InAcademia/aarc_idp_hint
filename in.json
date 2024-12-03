@@ -83,6 +83,9 @@
     "https://idp.bpsmvedp.ac.in/idp/shibboleth": {
         "en": "Bhagat Phool Singh Mahila Vishwavidyalaya"
     },
+    "https://idp.brabu.ac.in/idp/shibboleth": {
+        "en": "Babasaheb Bhimrao Ambedkar Bihar University"
+    },
     "https://idp.braou.ac.in/idp/shibboleth": {
         "en": "Dr. B.R. Ambedkar Open University"
     },
