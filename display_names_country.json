@@ -6,9 +6,6 @@
         "https://asren-idp.asren.net/auth/realms/asren": {
             "en": "Arab State Research and Education Network"
         },
-        "https://idp.cloud.bonafid.africa/idp/shibboleth": {
-            "en": "BonafID Proxy Identity Provider"
-        },
         "https://proxy.eduid.africa/idp/saml2": {
             "en": "eduID.africa Proxy IdP"
         },
