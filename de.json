@@ -1034,6 +1034,10 @@
         "de": "Rheinische Hochschule Köln gGmbH",
         "en": "Rheinische Hochschule Köln gGmbH"
     },
+    "https://idp4.tiho-hannover.de/idp/shibboleth": {
+        "de": "Stiftung Tieraerztliche Hochschule Hannover (eduGAIN)",
+        "en": "University of Veterinary Medicine Hannover (eduGAIN)"
+    },
     "https://idpc.th-ab.de/idp/shibboleth": {
         "de": "Technische Hochschule Aschaffenburg",
         "en": "Technische Hochschule Aschaffenburg"

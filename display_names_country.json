@@ -7221,6 +7221,10 @@
             "de": "Rheinische Hochschule Köln gGmbH",
             "en": "Rheinische Hochschule Köln gGmbH"
         },
+        "https://idp4.tiho-hannover.de/idp/shibboleth": {
+            "de": "Stiftung Tieraerztliche Hochschule Hannover (eduGAIN)",
+            "en": "University of Veterinary Medicine Hannover (eduGAIN)"
+        },
         "https://idpc.th-ab.de/idp/shibboleth": {
             "de": "Technische Hochschule Aschaffenburg",
             "en": "Technische Hochschule Aschaffenburg"
@@ -12123,10 +12127,6 @@
         "https://id.istat.it/idp/shibboleth": {
             "en": "ISTAT - Italian National Institute of Statistics",
             "it": "ISTAT - Istituto Nazionale di Statistica"
-        },
-        "https://idea.ifc.cnr.it/idp/shibboleth": {
-            "en": "CNR Institute of Clinical Physiology",
-            "it": "CNR Istituto di Fisiologia Clinica"
         },
         "https://idem-idp.ilc.cnr.it/idp/shibboleth": {
             "en": "CNR Institute for Computational Linguistics \"Antonio Zampolli\"",

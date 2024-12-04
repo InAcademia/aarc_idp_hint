@@ -31,10 +31,6 @@
         "en": "ISTAT - Italian National Institute of Statistics",
         "it": "ISTAT - Istituto Nazionale di Statistica"
     },
-    "https://idea.ifc.cnr.it/idp/shibboleth": {
-        "en": "CNR Institute of Clinical Physiology",
-        "it": "CNR Istituto di Fisiologia Clinica"
-    },
     "https://idem-idp.ilc.cnr.it/idp/shibboleth": {
         "en": "CNR Institute for Computational Linguistics \"Antonio Zampolli\"",
         "it": "CNR Istituto di Linguistica Computazionale \"Antonio Zampolli\""
