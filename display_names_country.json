@@ -14289,10 +14289,6 @@
             "en": "Maastricht University Medical Center",
             "nl": "Academisch Ziekenhuis Maastricht"
         },
-        "http://auth.nwo.nl/adfs/services/trust": {
-            "en": "NWO",
-            "nl": "NWO"
-        },
         "http://demeter.wp.swov.nl/adfs/services/trust": {
             "en": "SWOV Institute for Road Safety Research",
             "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
@@ -14736,6 +14732,10 @@
         "https://sts.windows.net/8171367b-3418-48da-a7bb-9dc1d300c5e8/": {
             "en": "SaNS Expertisecentrum",
             "nl": "SaNS Expertisecentrum"
+        },
+        "https://sts.windows.net/81e63bdd-534e-4aaf-855a-4c017eec7126/": {
+            "en": "NWO",
+            "nl": "NWO"
         },
         "https://sts.windows.net/850f9344-e078-467e-9c5e-84d82f208ac7/": {
             "en": "University of Applied Sciences Leiden",
