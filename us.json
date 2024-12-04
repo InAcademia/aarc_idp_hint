@@ -773,6 +773,9 @@
     "https://login.stolaf.edu/idp/shibboleth": {
         "en": "St. Olaf College"
     },
+    "https://login.system.tamus.edu/adfs/services/trust": {
+        "en": "Texas A&M University System Offices"
+    },
     "https://login.uc.edu/idp/shibboleth": {
         "en": "University of Cincinnati Main Campus"
     },
@@ -1228,6 +1231,9 @@
     },
     "https://sso.nhsc.edu/idp": {
         "en": "Nueta Hidatsa Sahnish College"
+    },
+    "https://sso.nist.gov/idp": {
+        "en": "NIST (National Institute of Standards and Technology)"
     },
     "https://sso.noirlab.edu/idp": {
         "en": "NSF’s National Optical-Infrared Astronomy Research Laboratory (NOIRLab)"
