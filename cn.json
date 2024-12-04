@@ -539,6 +539,10 @@
         "en": "Chongqing Jiaotong University",
         "zh": "重庆交通大学(Chongqing Jiaotong University)"
     },
+    "https://idp.cqjzc.edu.cn/idp/shibboleth": {
+        "en": "ChongQing JianZhu College",
+        "zh": "重庆建筑工程职业学院(ChongQing JianZhu College)"
+    },
     "https://idp.cqmu.edu.cn/idp/shibboleth": {
         "en": "Chongqing Medical University",
         "zh": "重庆医科大学(Chongqing Medical University)"
