@@ -38,6 +38,9 @@
     "https://idp.sau.edu.bd/idp/shibboleth": {
         "en": "Sher-e-Bangla Agricultural University"
     },
+    "https://idp.stamforduniversity.edu.bd/idp/shibboleth": {
+        "en": "Stamford University Bangladesh"
+    },
     "https://idp.tigerfed.com.bd/idp/shibboleth": {
         "en": "TIEGRfedcom"
     },
