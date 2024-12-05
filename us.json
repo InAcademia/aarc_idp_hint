@@ -1331,6 +1331,9 @@
     "https://sso.wistar.org/idp": {
         "en": "The Wistar Institute"
     },
+    "https://sso.xula.edu/idp": {
+        "en": "Xavier University of LA"
+    },
     "https://sso.yc.edu/idp": {
         "en": "Yavapai College"
     },
