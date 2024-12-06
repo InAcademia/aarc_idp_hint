@@ -919,6 +919,10 @@
             "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
             "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
         },
+        "https://cafe.prefeitura.sp.gov.br/idp/shibboleth": {
+            "en": "SMS - Secretaria Municipal da Saude - SP",
+            "pt-br": "SMS - Secretaria Municipal da Saude - SP"
+        },
         "https://cafe.pucgoias.edu.br/idp/shibboleth": {
             "en": "PUCGOIAS - Pontificia Universidade Catolica de Goias",
             "pt-br": "PUCGOIAS - Pontificia Universidade Catolica de Goias"
