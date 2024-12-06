@@ -20012,9 +20012,6 @@
         "https://neuidmsso.neu.edu/idp/shibboleth": {
             "en": "Northeastern University"
         },
-        "https://oneaccess.lehman.edu/CloudAccessManager/RPSTS": {
-            "en": "Lehman College of the City University of New York"
-        },
         "https://passport.pitt.edu/idp/shibboleth": {
             "en": "University of Pittsburgh"
         },
@@ -20425,6 +20422,9 @@
         },
         "https://sso.redlands.edu/idp": {
             "en": "University of Redlands"
+        },
+        "https://sso.rellis.tamus.edu/idp": {
+            "en": "Texas A&M-RELLIS"
         },
         "https://sso.rhoworld.com/idp": {
             "en": "Rho Federal Systems Division, Inc."
