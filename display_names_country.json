@@ -3341,6 +3341,10 @@
             "en": "Guangdong University of Finance and Economics",
             "zh": "广东财经大学(Guangdong University of Finance and Economics)"
         },
+        "https://idp.gdufs.edu.cn/idp/shibboleth": {
+            "en": "GuangDong University of Foreign Studies",
+            "zh": "广东外语外贸大学(GuangDong University of Foreign Studies)"
+        },
         "https://idp.gdust.edu.cn/idp/shibboleth": {
             "en": "Guangdong University of Science & Technology",
             "zh": "广东科技学院(Guangdong University of Science & Technology)"
@@ -3708,6 +3712,10 @@
         "https://idp.hzau.edu.cn/idp/shibboleth": {
             "en": "Huazhong Agricultural University",
             "zh": "华中农业大学(Huazhong Agricultural University)"
+        },
+        "https://idp.hzhsp.edu.cn/idp/shibboleth": {
+            "en": "Huizhou Health Sciences Polytechnic",
+            "zh": "惠州卫生职业技术学院(Huizhou Health Sciences Polytechnic)"
         },
         "https://idp.hznu.edu.cn/idp/shibboleth": {
             "en": "Hangzhou Normal University",
