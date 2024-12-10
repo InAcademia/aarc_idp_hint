@@ -1006,6 +1006,10 @@
         "de": "Helmholtz-Zentrum für Umweltforschung GmbH - UFZ IdP",
         "en": "Helmholtz-Zentrum für Umweltforschung GmbH - UFZ IdP"
     },
+    "https://idp2.dife.de/idp/shibboleth": {
+        "de": "DIfE - Deutsches Institut für Ernährungsforschung",
+        "en": "DIfE - German Institute of Human Nutrition"
+    },
     "https://idp2.hs-augsburg.de/simplesaml": {
         "de": "Hochschule Augsburg",
         "en": "University of Applied Sciences Augsburg"

@@ -4773,10 +4773,6 @@
             "en": "Wuhan Technical College Of Communication",
             "zh": "武汉交通职业学院(Wuhan Technical College Of Communication)"
         },
-        "https://idp.whu.edu.cn/idp/shibboleth": {
-            "en": "Wuhan University",
-            "zh": "武汉大学(Wuhan University)"
-        },
         "https://idp.whut.edu.cn/idp/shibboleth": {
             "en": "Wuhan University of Technology",
             "zh": "武汉理工大学(Wuhan University of Technology)"
@@ -7199,6 +7195,10 @@
         "https://idp1.ufz.de/idp/shibboleth": {
             "de": "Helmholtz-Zentrum für Umweltforschung GmbH - UFZ IdP",
             "en": "Helmholtz-Zentrum für Umweltforschung GmbH - UFZ IdP"
+        },
+        "https://idp2.dife.de/idp/shibboleth": {
+            "de": "DIfE - Deutsches Institut für Ernährungsforschung",
+            "en": "DIfE - German Institute of Human Nutrition"
         },
         "https://idp2.hs-augsburg.de/simplesaml": {
             "de": "Hochschule Augsburg",
