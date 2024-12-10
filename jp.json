@@ -290,6 +290,10 @@
         "en": "University of Toyama",
         "ja": "富山大学"
     },
+    "https://ipcm2.nagaokaut.ac.jp/idp/shibboleth": {
+        "en": "Nagaoka University of Technology",
+        "ja": "長岡技術科学大学"
+    },
     "https://jaxagakunin.ex-tic.com/auth/gakunin/saml2/assertions": {
         "en": "Japan Aerospace Exploration Agency",
         "ja": "宇宙航空研究開発機構"
