@@ -450,6 +450,10 @@
         "en": "Sugiyama Jogakuen University",
         "ja": "椙山女学園大学"
     },
+    "https://ssoidp.cc.saga-u.ac.jp/idp/shibboleth": {
+        "en": "Saga University",
+        "ja": "佐賀大学"
+    },
     "https://sumsidp.shiga-med.ac.jp/idp/shibboleth": {
         "en": "Shiga University of Medical Science",
         "ja": "滋賀医科大学"
