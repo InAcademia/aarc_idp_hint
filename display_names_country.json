@@ -13712,28 +13712,6 @@
             "en": "University of Malta"
         }
     },
-    "mx": {
-        "https://idp.fenix.org.mx/idp/": {
-            "en": "FENIX",
-            "es": "FENIX"
-        },
-        "https://idp.ucol.mx/saml20/": {
-            "en": "University of Colima",
-            "es": "Universidad de Colima"
-        },
-        "https://idp.udg.mx": {
-            "en": "Universidad de Guadalajara",
-            "es": "Universidad de Guadalajara"
-        },
-        "https://idp.unam.mx": {
-            "en": "UNAM",
-            "es": "UNAM"
-        },
-        "https://wayf.fenix.org.mx/wayf/": {
-            "en": "Federacion Nacional de Identidades Mexicanas (FENIX)",
-            "es": "Federacion Nacional de Identidades Mexicanas (FENIX)"
-        }
-    },
     "my": {
         "https://idf.upm.edu.my/idp/shibboleth": {
             "en": "Universiti Putra Malaysia"
