@@ -222,6 +222,9 @@
     "https://idp.wlu.ca/idp/shibboleth": {
         "en": "Wilfrid Laurier University"
     },
+    "https://idp2.nbcc.ca/idp/shibboleth": {
+        "en": "New Brunswick Community College"
+    },
     "https://idpp.bcit.ca/idp/shibboleth": {
         "en": "British Columbia Institute of Technology"
     },
