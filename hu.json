@@ -1,4 +1,8 @@
 {
+    "https://aai.blki.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Balaton Limnological Research Institute",
+        "hu": "Balatoni Limnológiai Kutatóintézet"
+    },
     "https://aai.nytud.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Hungarian Research Centre for Linguistics",
         "hu": "Nyelvtudományi Kutatóközpont"
