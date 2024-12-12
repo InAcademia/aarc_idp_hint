@@ -19332,9 +19332,6 @@
         "https://awsanubis.ringling.edu/idp/shibboleth": {
             "en": "Ringling College of Art and Design"
         },
-        "https://caneid.miami.edu/idp/shibboleth": {
-            "en": "University of Miami"
-        },
         "https://cas.auth.sc.edu/cas/idp": {
             "en": "University of South Carolina - CAS"
         },
