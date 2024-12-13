@@ -1100,9 +1100,6 @@
     "https://sidp.wwu.edu/idp/shibboleth": {
         "en": "Western Washington University"
     },
-    "https://signin.cedarville.edu/idp": {
-        "en": "Cedarville University"
-    },
     "https://signin.k-state.edu/idp/shibboleth": {
         "en": "Kansas State University"
     },
@@ -1229,7 +1226,7 @@
     "https://sso.nist.gov/idp": {
         "en": "NIST (National Institute of Standards and Technology)"
     },
-    "https://sso.noirlab.edu/idp": {
+    "https://sso.noirlab.edu": {
         "en": "NSF’s National Optical-Infrared Astronomy Research Laboratory (NOIRLab)"
     },
     "https://sso.nygenome.org/auth/realms/nygenome": {
