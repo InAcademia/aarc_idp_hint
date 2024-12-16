@@ -11047,8 +11047,8 @@
     },
     "hu": {
         "https://aai.blki.hu/simplesaml/saml2/idp/metadata.php": {
-            "en": "Balaton Limnological Research Institute",
-            "hu": "Balatoni Limnológiai Kutatóintézet"
+            "en": "HUN-REN Balaton Limnological Research Institute",
+            "hu": "HUN-REN Balatoni Limnológiai Kutatóintézet"
         },
         "https://aai.nytud.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Hungarian Research Centre for Linguistics",
@@ -14817,10 +14817,6 @@
         "https://sts.windows.net/91eab56a-a91b-4c88-a4fb-eba5c3b4ebfd/": {
             "en": "Rijn IJssel",
             "nl": "Rijn IJssel"
-        },
-        "https://sts.windows.net/9213f802-7bee-4ecd-8b7b-44310b156caa/": {
-            "en": "Firda (formely ROC Friese Poort)",
-            "nl": "Firda (voorheen ROC Friese Poort)"
         },
         "https://sts.windows.net/95b42833-48dc-4164-aa86-cba6390366e2/": {
             "en": "Hoornbeeck College, Van Lodenstein College en SORG",
