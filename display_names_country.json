@@ -11351,9 +11351,6 @@
         "http://adfs.edenireland.ie/adfs/services/trust": {
             "en": "Environmental Protection Agency"
         },
-        "https://auth.imi.ie": {
-            "en": "Irish Management Institute - (Authstack)"
-        },
         "https://edugate.itb.ie/idp/shibboleth": {
             "en": "TU Dublin - Blanchardstown Campus",
             "ga": "OT Baile Átha Cliath -  Campas Baile Bhlainséir"
