@@ -8682,6 +8682,10 @@
             "en": "ESIC University",
             "es": "ESIC Universidades"
         },
+        "https://www.rediris.es/sir/fggidp": {
+            "en": "Fundación Galileo Galilei - INAF",
+            "es": "Fundación Galileo Galilei - INAF"
+        },
         "https://www.rediris.es/sir/floridauniidp": {
             "en": "Florida Universitària",
             "es": "Florida Universitària"
@@ -9600,8 +9604,8 @@
             "fr": "Shom"
         },
         "https://identification.univ-toulouse.fr": {
-            "en": "Université de Toulouse",
-            "fr": "Université de Toulouse"
+            "en": "COMUE de Toulouse",
+            "fr": "COMUE de Toulouse"
         },
         "https://identite.ensta-bretagne.fr/idp/shibboleth": {
             "en": "ENSTA Bretagne",
