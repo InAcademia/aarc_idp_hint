@@ -152,6 +152,9 @@
     "https://certify.skidmore.edu/idp/shibboleth": {
         "en": "Skidmore College"
     },
+    "https://chaffey.ondemandlogin.com": {
+        "en": "Chaffey Community College"
+    },
     "https://cma-shibboleth.csum.edu/idp/shibboleth": {
         "en": "California Maritime Academy"
     },
