@@ -10235,6 +10235,10 @@
             "en": "CROUS Lorraine v4",
             "fr": "CROUS Lorraine v4"
         },
+        "https://idp4.pulsalys.fr/idp/shibboleth": {
+            "en": "PULSALYS - SATT Lyon Saint-Etienne - v4",
+            "fr": "PULSALYS - SATT Lyon Saint-Etienne - v4"
+        },
         "https://idp4.unicaen.fr/idp/shibboleth": {
             "en": "University of Caen Normandie",
             "fr": "Université de Caen Normandie"
