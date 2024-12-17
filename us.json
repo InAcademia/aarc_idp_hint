@@ -1439,6 +1439,9 @@
     "https://websso.pomona.edu/": {
         "en": "Pomona College"
     },
+    "https://www.sacredheart.edu/InCommon": {
+        "en": "Sacred Heart University SSO"
+    },
     "urn:mace:incommon:alaska.edu": {
         "en": "University of Alaska Statewide System"
     },
