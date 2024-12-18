@@ -8306,26 +8306,6 @@
             "en": "Universidad Catolica Santiago de Guayaquil - ucsg",
             "es": "Universidad Catolica Santiago de Guayaquil - ucsg"
         },
-        "https://login.ucuenca.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad de Cuenca - ucuenca",
-            "es": "Universidad de Cuenca - ucuenca"
-        },
-        "https://login.udla.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad de las Americas - udla",
-            "es": "Universidad de las Americas - udla"
-        },
-        "https://login.uea.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Estatal Amazónica - uea",
-            "es": "Universidad Estatal Amazónica - uea"
-        },
-        "https://login.ueas.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Agronomico Salesiano - ueas",
-            "es": "Unidad Educativa Agronomico Salesiano - ueas"
-        },
-        "https://login.ueb.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Estatal de Bolivar - ueb",
-            "es": "Universidad Estatal de Bolivar - ueb"
-        },
         "https://login.uesmae.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Salesiana María Auxiliadora Esmeraldas - uesmae",
             "es": "Unidad Educativa Salesiana María Auxiliadora Esmeraldas - uesmae"
