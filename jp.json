@@ -58,6 +58,10 @@
         "en": "Shibaura Institute of Technology",
         "ja": "芝浦工業大学"
     },
+    "https://gakuninidp.yokohama-cu.ac.jp/idp/shibboleth": {
+        "en": "Yokohama City University",
+        "ja": "横浜市立大学"
+    },
     "https://gakuninshib.tmu.ac.jp/idp/shibboleth": {
         "en": "Tokyo Metropolitan University",
         "ja": "東京都立大学"
