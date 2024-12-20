@@ -1013,7 +1013,6 @@
     "https://idp-opbg.irccs.garr.it/idp/shibboleth": "IRCCS OPBG - ROMA",
     "https://idp-ospedalesanmartino.irccs.garr.it/idp/shibboleth": "IRCCS San Martino University Hospital",
     "https://idp-phf.etn.hu/saml2/idp/metadata.php": "Episcopal Theological College of Pécs",
-    "https://idp-pilot.hs-karlsruhe.de/idp/shibboleth": "(do not yet use) University of Applied Sciences Karlsruhe, Germany",
     "https://idp-portici.izs.garr.it/idp/shibboleth": "IZS del Mezzogiorno",
     "https://idp-prod.cc.ucf.edu/idp/shibboleth": "University of Central Florida",
     "https://idp-prod.mta.ca/idp": "Mount Allison University",

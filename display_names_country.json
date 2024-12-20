@@ -6308,10 +6308,6 @@
             "de": "DHBW Mosbach",
             "en": "DHBW Mosbach"
         },
-        "https://idp-pilot.hs-karlsruhe.de/idp/shibboleth": {
-            "de": "(do not yet use) Hochschule Karlsruhe - Technik und Wirtschaft",
-            "en": "(do not yet use) University of Applied Sciences Karlsruhe, Germany"
-        },
         "https://idp-serv.uni-magdeburg.de/idp/shibboleth": {
             "de": "Otto-von-Guericke-Universität Magdeburg",
             "en": "Otto-von-Guericke-University Magdeburg"
