@@ -12105,6 +12105,9 @@
         "https://nlistidp.inflibnet.ac.in/idp/shibboleth": {
             "en": "NLIST - INFLIBNET"
         },
+        "https://oca.onos.gov.in/idp/shibboleth": {
+            "en": "ONOS, INFLIBNET Centre"
+        },
         "https://parichay.inflibnet.ac.in/idp/shibboleth": {
             "en": "NLIST Users [Parichay Identity Service]"
         },
