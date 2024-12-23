@@ -262,6 +262,10 @@
         "en": "Tokyo Dental College",
         "ja": "東京歯科大学"
     },
+    "https://idp.thu.ac.jp/idp/shibboleth": {
+        "en": "Teikyo Heisei University",
+        "ja": "帝京平成大学"
+    },
     "https://idp.tohoku-mpu.ac.jp/idp/shibboleth": {
         "en": "Tohoku Medical and Pharmaceutical University",
         "ja": "東北医科薬科大学"
