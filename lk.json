@@ -44,6 +44,9 @@
     "https://idp.nerdc.lk/idp/shibboleth": {
         "en": "NERD Centre"
     },
+    "https://idp.nie.ac.lk/idp/shibboleth": {
+        "en": "National Institute of Education"
+    },
     "https://idp.pdn.ac.lk/idp/shibboleth": {
         "en": "University of Peradeniya"
     },
