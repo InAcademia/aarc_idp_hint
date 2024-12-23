@@ -643,6 +643,10 @@
         "en": "Donghua University",
         "zh": "东华大学(Donghua University)"
     },
+    "https://idp.djtu.edu.cn/idp/shibboleth": {
+        "en": "Dalian Jiaotong University",
+        "zh": "大连交通大学(Dalian Jiaotong University)"
+    },
     "https://idp.dlnu.edu.cn/idp/shibboleth": {
         "en": "Dalian Minzu University",
         "zh": "大连民族大学(Dalian Minzu University)"
