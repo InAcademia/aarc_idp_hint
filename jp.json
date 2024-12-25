@@ -94,6 +94,10 @@
         "en": "University of Tsukuba",
         "ja": "筑波大学"
     },
+    "https://idp.admin.tus.ac.jp/idp/shibboleth": {
+        "en": "Tokyo University of Science",
+        "ja": "東京理科大学"
+    },
     "https://idp.asahi-u.ac.jp/idp/shibboleth": {
         "en": "Asahi University",
         "ja": "朝日大学"
