@@ -382,6 +382,10 @@
         "en": "National Institute of Polar Research",
         "ja": "国立極地研究所"
     },
+    "https://nit.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Nippon Institute of Technology",
+        "ja": "日本工業大学"
+    },
     "https://odidp.cc.okayama-u.ac.jp/idp/shibboleth": {
         "en": "Okayama University",
         "ja": "岡山大学"
