@@ -13723,21 +13723,27 @@
     },
     "ma": {
         "https://fid.usms.ac.ma/idp/shibboleth": {
+            "ar": "جامعة السلطان مولاي سليمان",
             "en": "USMS"
         },
         "https://idp-server.enim.ac.ma/idp/shibboleth": {
+            "ar": "المدرسة الوطنية للصناعات المعدنية",
             "en": "ENIM"
         },
         "https://idp.cnrst.ma/idp/shibboleth": {
+            "ar": "المركز الوطني للبحث العلمي والتقني",
             "en": "CNRST"
         },
         "https://idp.marwan.ma/idp/shibboleth": {
+            "ar": "مروان",
             "en": "MARWAN"
         },
         "https://idp.uit.ac.ma/idp/shibboleth": {
+            "ar": "جامعة ابن طفيل",
             "en": "UIT"
         },
         "https://idp.um5.ac.ma/idp/shibboleth": {
+            "ar": "جامعة محمد الخامس",
             "en": "UM5"
         }
     },
