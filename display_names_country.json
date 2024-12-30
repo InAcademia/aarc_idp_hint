@@ -9648,8 +9648,8 @@
             "fr": "EnsAD - École nationale supérieure des Arts Décoratifs"
         },
         "https://idp-feder.pleiade.education.fr/idp/shibboleth": {
-            "en": "Head office of french Ministries of Education, Higher Education, Research and Sports",
-            "fr": "Administration centrale MEN/MESR/MSJVA"
+            "en": "Head office of french Ministries of Education, Higher Education, Research and Sports (a.k.a. administration centrale MENESR/MSJVA)",
+            "fr": "Administration centrale MENESR/MSJVA"
         },
         "https://idp-ihes.renater.fr/idp/shibboleth": {
             "en": "IHES - Institut des Hautes Études Scientifiques",
