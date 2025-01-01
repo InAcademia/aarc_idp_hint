@@ -11,6 +11,9 @@
     "https://ubuntunet.eduid.africa/saml2/idp/metadata.php": {
         "en": "UbuntuNet Alliance Staff IdP"
     },
+    "https://udus.eduid.ng/saml2/idp/metadata.php": {
+        "en": "Usmanu Danfodiyo University Sokoto"
+    },
     "https://wacren.wacren.eduid.africa/saml2/idp/metadata.php": {
         "en": "WACREN IDP"
     }
