@@ -5365,10 +5365,6 @@
             "cs": "Ústav zemědělské ekonomiky a informací",
             "en": "Institute of Agricultural Economics and Information"
         },
-        "https://aleph20.knihovna-pardubice.cz/idp/shibboleth": {
-            "cs": "Krajská knihovna v Pardubicích",
-            "en": "Regional Library in Pardubice"
-        },
         "https://auth.nfa.cz:4443/idp/shibboleth": {
             "cs": "Národní filmový archiv",
             "en": "National film archive Prague"
