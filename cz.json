@@ -84,8 +84,8 @@
         "en": "Institute of Technology and Business in České Budějovice"
     },
     "https://eduid.vumop.cz/idp/shibboleth": {
-        "cs": "VÚMOP, v.v.i.",
-        "en": "VÚMOP, v.v.i."
+        "cs": "Výzkumný ústav monitoringu a ochrany půdy",
+        "en": "Research Institute for Soil and Water Conservation"
     },
     "https://eris.avu.cz/idp/shibboleth": {
         "cs": "AVU",
@@ -502,6 +502,10 @@
     "https://kkdvyskov.cz/idp/shibboleth": {
         "cs": "Knihovna Karla Dvořáčka",
         "en": "Karel Dvoracek Library"
+    },
+    "https://kkpce.tritius.cz/idp/shibboleth": {
+        "cs": "Krajská knihovna v Pardubicích",
+        "en": "Regional Library in Pardubice"
     },
     "https://kkvysociny.cz/idp/shibboleth": {
         "cs": "Krajská knihovna Vysočiny",
