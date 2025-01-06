@@ -19414,9 +19414,6 @@
         "https://connect.drexel.edu/idp": {
             "en": "Drexel University"
         },
-        "https://csupidp.csupueblo.edu/idp/shibboleth": {
-            "en": "Colorado State University - Pueblo"
-        },
         "https://cumin.plu.edu/idp/shibboleth": {
             "en": "Pacific Lutheran University"
         },
@@ -20173,6 +20170,9 @@
         "https://shib.unf.edu/idp/shibboleth": {
             "en": "UNF InCommon"
         },
+        "https://shib.uni.edu/idp/shibboleth": {
+            "en": "University of Northern Iowa"
+        },
         "https://shib.unl.edu/idp/shibboleth": {
             "en": "University of Nebraska-Lincoln"
         },
@@ -20321,7 +20321,7 @@
             "en": "Cornell University"
         },
         "https://shibidp.colostate.edu/idp/shibboleth": {
-            "en": "Colorado State University"
+            "en": "Colorado State University System"
         },
         "https://shibidp.ku.edu/idp/shibboleth": {
             "en": "University of Kansas"
