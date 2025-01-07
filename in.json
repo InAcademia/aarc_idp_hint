@@ -173,6 +173,9 @@
     "https://idp.ignou.ac.in/idp/shibboleth": {
         "en": "Indira Gandhi National Open University (IGNOU)"
     },
+    "https://idp.igntu.ac.in/idp/shibboleth": {
+        "en": "Indira Gandhi National Tribal University"
+    },
     "https://idp.iiitb.ac.in/idp/shibboleth": {
         "en": "International Institute of Information Technology Bangalore"
     },
