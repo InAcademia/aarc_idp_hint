@@ -28,6 +28,9 @@
     "https://edugain.vinci.be/adfs/services/trust": {
         "en": "Haute Ecole Léonard de Vinci"
     },
+    "https://fdr2.itg.be/idp/shibboleth": {
+        "en": "Instituut voor Tropische Geneeskunde Identity Provider"
+    },
     "https://identity.howest.be/idp/shibboleth": {
         "en": "Howest"
     },
