@@ -124,8 +124,8 @@
         "sv": "NORDUnet"
     },
     "https://idp.sunet.se/idp": {
-        "en": "SUNET - Google",
-        "sv": "SUNET - Google"
+        "en": "Sunet - Google - Being phased out, use Sunet - Connect!",
+        "sv": "Sunet - Google - Under avveckling, använd Sunet - Connect!"
     },
     "https://idp.ths.se/idp/shibboleth": {
         "en": "University College Stockholm",
