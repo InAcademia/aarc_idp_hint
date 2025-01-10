@@ -13609,7 +13609,7 @@
             "lt": "Mykolo Romerio universitetas"
         },
         "https://login.utenos-kolegija.lt/SAML/IdP": {
-            "en": "Utenos kolegija Higher Education Institution",
+            "en": "Utenos kolegija",
             "lt": "Utenos kolegija"
         },
         "https://lsmu.sso.litnet.lt/auth/saml2/idp/metadata.php": {
