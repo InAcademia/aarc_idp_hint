@@ -7,20 +7,12 @@
         "el": "Εθνικό Κέντρο Έρευνας και Τεχνολογικής Ανάπτυξης.",
         "en": "Centre for Research and Technology Hellas."
     },
-    "https://aai.heal-link.gr/proxy/saml2/idp/metadata.php": {
-        "el": "HEAL-Link",
-        "en": "HEAL-Link"
-    },
     "https://edugain-proxy.igtf.net/simplesaml/saml2/idp/metadata.php": {
         "en": "IGTF Certificate Proxy"
     },
     "https://giant.cedefop.europa.eu/idp/shibboleth": {
         "el": "CEDEFOP",
         "en": "CEDEFOP"
-    },
-    "https://gn-vho.grnet.gr/idp/shibboleth": {
-        "el": "Εικονικός Οικείος Φορέας (VHO) του ΕΔΕΤ για το GÉANT",
-        "en": "GRNET Virtual Home Organization (VHO) for GÉANT"
     },
     "https://grnetbox.duth.gr/idp/shibboleth": {
         "el": "Δημοκρίτειο Πανεπιστήμιο Θράκης",
@@ -108,10 +100,6 @@
     "https://idp.ellak.gr/idp/shibboleth": {
         "el": "Οργανισμός Ανοιχτών Τεχνολογιών",
         "en": "Open Technologies Alliance"
-    },
-    "https://idp.eurecapro.tuc.gr/idp/shibboleth": {
-        "el": "EURECA-PRO IdP",
-        "en": "EURECA-PRO IdP"
     },
     "https://idp.ghl.gr/idp/shibboleth": {
         "en": "https://idp.ghl.gr/idp/shibboleth"
@@ -219,10 +207,6 @@
     "https://idp.snfcc.org/idp/shibboleth": {
         "el": "ΚΠΙΣΝ",
         "en": "SNFCC"
-    },
-    "https://idp.teicrete.gr/idp/shibboleth": {
-        "el": "Τεχνολογικό Εκπαιδευτικό Ίδρυμα Κρήτης",
-        "en": "Technological Educational Institute of Crete"
     },
     "https://idp.teiion.gr/idp/shibboleth": {
         "el": "Ιόνιο Πανεπιστήμιο (πρώην ΤΕΙ Ιονίων Νήσων)",
