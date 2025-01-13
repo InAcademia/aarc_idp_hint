@@ -207,10 +207,6 @@
         "de": "Deutsche Hochschule der Polizei",
         "en": "German Police University"
     },
-    "https://idp.dhsn.de/saml/metadata": {
-        "de": "Duale Hochschule Sachsen (Test)",
-        "en": "https://idp.dhsn.de/saml/metadata"
-    },
     "https://idp.dkrz.de/idp/shibboleth": {
         "de": "Deutsches Klimarechenzentrum GmbH (DKRZ)",
         "en": "Deutsches Klimarechenzentrum GmbH (DKRZ)"
