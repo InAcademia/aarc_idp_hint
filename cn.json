@@ -483,6 +483,10 @@
         "en": "ChengDu University of Technology",
         "zh": "成都理工大学(ChengDu University of Technology)"
     },
+    "https://idp.cfxy.edu.cn/idp/shibboleth": {
+        "en": "Chifeng University",
+        "zh": "赤峰学院(Chifeng University)"
+    },
     "https://idp.chd.edu.cn/idp/shibboleth": {
         "en": "Chang'an University",
         "zh": "长安大学(Chang'an University)"
@@ -1818,6 +1822,10 @@
     "https://idp.shanghaitech.edu.cn/idp/shibboleth": {
         "en": "ShanghaiTech University",
         "zh": "上海科技大学(ShanghaiTech University)"
+    },
+    "https://idp.shcmc.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Construction Management Vocational College",
+        "zh": "上海建设管理职业技术学院(Shanghai Construction Management Vocational College)"
     },
     "https://idp.shec.edu.cn/idp/shibboleth": {
         "en": "Information Center of SMEC",
