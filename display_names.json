@@ -3709,6 +3709,7 @@
     "https://idpsaocamilosp.saocamilo-sp.br/idp/shibboleth": "CUSC - Centro Universitario Sao Camilo",
     "https://idpserver.wyb.ac.lk/idp/shibboleth": "Wayamba University of Sri Lanka - Kuliyapitiya Premises",
     "https://idpshibboleth.irf.se/idp/shibboleth": "Swedish Institute of Space Physics",
+    "https://idpsso.haw-landshut.de/idp/shibboleth": "University of Applied Sciences Landshut -2FA",
     "https://idptoo.osu.cz/simplesaml/saml2/idp/metadata.php": "University of Ostrava",
     "https://idpu.ucp.pt/idp/shibboleth": "Universidade Católica Portuguesa",
     "https://idpuniba.uniba.it/simplesaml/saml2/idp/metadata.php": "University of Bari Aldo Moro",

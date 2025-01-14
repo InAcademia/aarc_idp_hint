@@ -7293,6 +7293,10 @@
             "de": "Kunstakademie Münster",
             "en": "Kunstakademie Münster"
         },
+        "https://idpsso.haw-landshut.de/idp/shibboleth": {
+            "de": "Hochschule Landshut - 2FA",
+            "en": "University of Applied Sciences Landshut -2FA"
+        },
         "https://lmuidp.lrz.de/idp/shibboleth": {
             "de": "Universität München (LMU)",
             "en": "University of Munich (LMU)"
