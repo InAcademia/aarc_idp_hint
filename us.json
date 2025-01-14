@@ -860,6 +860,9 @@
     "https://saml.nelnet.net": {
         "en": "Nelnet Business Solutions"
     },
+    "https://satosa-dev.es.net/satosafrontend/proxy.xml": {
+        "en": "ESnet Satosa-Dev"
+    },
     "https://secure.stevenson.edu/idp/shibboleth": {
         "en": "Stevenson University"
     },
