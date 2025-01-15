@@ -3202,6 +3202,10 @@
             "en": "China University of Mining and Technology",
             "zh": "中国矿业大学(China University of Mining and Technology)"
         },
+        "https://idp.cumtb.edu.cn/idp/shibboleth": {
+            "en": "China University of Mining Technology-Beijing",
+            "zh": "中国矿业大学（北京）(China University of Mining Technology-Beijing)"
+        },
         "https://idp.cup.edu.cn/idp/shibboleth": {
             "en": "China University of Petroleum",
             "zh": "中国石油大学（北京）(China University of Petroleum)"
