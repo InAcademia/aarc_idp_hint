@@ -291,6 +291,10 @@
         "en": "Head office of french Ministries of Education, Higher Education, Research and Sports (a.k.a. adminis",
         "fr": "Administration centrale MENESR/MSJVA"
     },
+    "https://idp-genci.renater.fr/idp/shibboleth": {
+        "en": "National High-Performance Computing Equipment - GENCI",
+        "fr": "GENCI - Grand Equipement National du Calcul Intensif"
+    },
     "https://idp-ihes.renater.fr/idp/shibboleth": {
         "en": "IHES - Institut des Hautes Études Scientifiques",
         "fr": "IHES - Institut des Hautes Études Scientifiques"
