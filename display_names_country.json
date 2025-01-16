@@ -8140,6 +8140,10 @@
         }
     },
     "ec": {
+        "https://login.caces.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces",
+            "es": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces"
+        },
         "https://login.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
             "es": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia"
@@ -8391,6 +8395,14 @@
         "https://login.uleam.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Laica Eloy Alfaro de Manabí - uleam",
             "es": "Universidad Laica Eloy Alfaro de Manabí - uleam"
+        },
+        "https://login.unach.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad Nacional de Chimborazo - unach",
+            "es": "Universidad Nacional de Chimborazo - unach"
+        },
+        "https://login.unae.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Universidad Nacional de Educacion - unae",
+            "es": "Universidad Nacional de Educacion - unae"
         },
         "https://login.unesum.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Estatal del Sur de Manabi - unesum",
