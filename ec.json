@@ -3,6 +3,10 @@
         "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
         "es": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia"
     },
+    "https://login.comunidadsanjuanbosco.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Comunidad San Juan Bosco - comunidadsanjuanbosco",
+        "es": "Comunidad San Juan Bosco - comunidadsanjuanbosco"
+    },
     "https://login.cordillera.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Instituto Cordillera - cordillera",
         "es": "Instituto Cordillera - cordillera"
@@ -322,5 +326,21 @@
     "https://login.utm.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad Técnica de Manabi - utm",
         "es": "Universidad Técnica de Manabi - utm"
+    },
+    "https://login.utmachala.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Universidad Técnica de Machala - utmachala",
+        "es": "Universidad Técnica de Machala - utmachala"
+    },
+    "https://login.utn.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Universidad Técnica del Norte - utn",
+        "es": "Universidad Técnica del Norte - utn"
+    },
+    "https://login.utpl.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Universidad Técnica Particular de Loja - utpl",
+        "es": "Universidad Técnica Particular de Loja - utpl"
+    },
+    "https://login.yachaytech.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Universidad YachayTech - yachaytech",
+        "es": "Universidad YachayTech - yachaytech"
     }
 }
