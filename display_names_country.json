@@ -8144,9 +8144,9 @@
             "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
             "es": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia"
         },
-        "https://login.cotopaxi.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Academia Cotopaxi - cotopaxi",
-            "es": "Academia Cotopaxi - cotopaxi"
+        "https://login.comunidadsanjuanbosco.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Comunidad San Juan Bosco - comunidadsanjuanbosco",
+            "es": "Comunidad San Juan Bosco - comunidadsanjuanbosco"
         },
         "https://login.cristobalcolon.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Salesiana Cristóbal Colón - cristobalcolon",
@@ -8163,22 +8163,6 @@
         "https://login.donboscolatola.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola",
             "es": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola"
-        },
-        "https://login.donboscomacas.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas",
-            "es": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas"
-        },
-        "https://login.dsavio.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio",
-            "es": "Unidad Educativa Salesiana Domingo Savio Guayaquil - dsavio"
-        },
-        "https://login.epn.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Escuela Politécnica Nacional - epn",
-            "es": "Escuela Politécnica Nacional - epn"
-        },
-        "https://login.espam.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Escuela Superior Politecnica Agropecuaria de Manabi - espam",
-            "es": "Escuela Superior Politecnica Agropecuaria de Manabi - espam"
         },
         "https://login.espe.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad de las Fuerzas Armadas ESPE - espe",
@@ -8199,14 +8183,6 @@
         "https://login.ikiam.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Regional Amazónica Ikiam - ikiam",
             "es": "Universidad Regional Amazónica Ikiam - ikiam"
-        },
-        "https://login.inocar.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Oceanográfico y Antártico de la Armada - inocar",
-            "es": "Instituto Oceanográfico y Antártico de la Armada - inocar"
-        },
-        "https://login.insteclrg.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg",
-            "es": "Instituto Superior Tecnológico Luis Rogelio González - insteclrg"
         },
         "https://login.internacional.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Internacional del Ecuador - internacional",
@@ -14830,6 +14806,10 @@
         "https://sts.windows.net/723246a1-c3f5-43c5-acdc-43adb404ac4d/": {
             "en": "University of Twente",
             "nl": "Universiteit Twente"
+        },
+        "https://sts.windows.net/73d894c8-38d5-47ee-83e0-ddcbff33a602/": {
+            "en": "Hogeschool IPABO (New)",
+            "nl": "Hogeschool IPABO (Nieuw)"
         },
         "https://sts.windows.net/76fd1191-d586-4fe3-8242-c0b1bba18f4f/": {
             "en": "Ter AA",
