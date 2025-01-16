@@ -8140,21 +8140,9 @@
         }
     },
     "ec": {
-        "https://login.caces.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces",
-            "es": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces"
-        },
         "https://login.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
             "es": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia"
-        },
-        "https://login.comunidadsanjuanbosco.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Comunidad San Juan Bosco - comunidadsanjuanbosco",
-            "es": "Comunidad San Juan Bosco - comunidadsanjuanbosco"
-        },
-        "https://login.cordillera.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Cordillera - cordillera",
-            "es": "Instituto Cordillera - cordillera"
         },
         "https://login.cotopaxi.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Academia Cotopaxi - cotopaxi",
