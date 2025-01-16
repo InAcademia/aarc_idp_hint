@@ -135,10 +135,6 @@
         "en": "Utrecht University",
         "nl": "Universiteit Utrecht"
     },
-    "https://secure.ahk.nl/nidp/saml2/metadata": {
-        "en": "Amsterdam University of the Arts",
-        "nl": "Amsterdamse Hogeschool voor de Kunsten"
-    },
     "https://signon.rug.nl/nidp/saml2/metadata": {
         "en": "University of Groningen",
         "nl": "Rijksuniversiteit Groningen"
@@ -218,6 +214,10 @@
     "https://sts.windows.net/6201b9c8-5a2a-430b-9419-0e3501d5eabe/": {
         "en": "Firda",
         "nl": "Firda"
+    },
+    "https://sts.windows.net/6572d2c2-3e99-4784-a466-235eb1d580e9/": {
+        "en": "Amsterdam University of the Arts",
+        "nl": "Amsterdamse Hogeschool voor de Kunsten"
     },
     "https://sts.windows.net/672799eb-10ac-4a8b-aeae-e288e053f500/": {
         "en": "Nyenrode Business Universiteit",
