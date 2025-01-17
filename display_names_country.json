@@ -17500,23 +17500,116 @@
         "https://idp-auth.sun.ac.ug/idp/shibboleth": {
             "en": "Soroti University"
         },
+        "https://idp-bcsd.renu.ac.ug/idp/shibboleth": {
+            "en": "BCSD"
+        },
+        "https://idp-bukoolicollege.renu.ac.ug/idp/shibboleth": {
+            "en": "Bukooli College"
+        },
+        "https://idp-cyberschooltech.renu.ac.ug/idp/shibboleth": {
+            "en": "Cyber School Technology Solutions"
+        },
+        "https://idp-ebenezerschools.renu.ac.ug/idp/shibboleth": {
+            "en": "Ebenezer Schools"
+        },
+        "https://idp-ediofegirls.renu.ac.ug/idp/shibboleth": {
+            "en": "Ediofe Girls Secondary School"
+        },
+        "https://idp-education.renu.ac.ug/idp/shibboleth": {
+            "en": "Ministry of Education and Sports"
+        },
         "https://idp-entebbess.renu.ac.ug/idp/shibboleth": {
             "en": "Entebbe Secondary School"
         },
         "https://idp-gayazahs.renu.ac.ug/idp/shibboleth": {
             "en": "Gayaza High School"
         },
+        "https://idp-kabulubuluss.renu.ac.ug/idp/shibboleth": {
+            "en": "Kabulubulu Secondary School"
+        },
+        "https://idp-kaggulwess.renu.ac.ug/idp/shibboleth": {
+            "en": "Kaggulwe Secondary School"
+        },
+        "https://idp-kansangaseedsecschool.renu.ac.ug/idp/shibboleth": {
+            "en": "Kansanga Seed Secondary School"
+        },
+        "https://idp-kigezihigh.renu.ac.ug/idp/shibboleth": {
+            "en": "Kigezi High School"
+        },
+        "https://idp-kisubischools.renu.ac.ug/idp/shibboleth": {
+            "en": "Kisubi Schools"
+        },
         "https://idp-kitebiss.renu.ac.ug/idp/shibboleth": {
             "en": "Kitebi Secondary School"
+        },
+        "https://idp-kojjass.renu.ac.ug/idp/shibboleth": {
+            "en": "Kojja Secondary School"
+        },
+        "https://idp-kyambogocollege.renu.ac.ug/idp/shibboleth": {
+            "en": "Kyambogo College School"
+        },
+        "https://idp-kyeizoobagirls.renu.ac.ug/idp/shibboleth": {
+            "en": "Kyeizooba Girls Secondary School"
         },
         "https://idp-kyoteracentralss.renu.ac.ug/idp/shibboleth": {
             "en": "Kyotera Central Secondary School"
         },
+        "https://idp-liratowncollege.renu.ac.ug/idp/shibboleth": {
+            "en": "Lira Town College"
+        },
+        "https://idp-masindiss.renu.ac.ug/idp/shibboleth": {
+            "en": "Masindi School"
+        },
         "https://idp-mbararahigh.renu.ac.ug/idp/shibboleth": {
             "en": "Mbarara High School"
         },
+        "https://idp-mpungwess.renu.ac.ug/idp/shibboleth": {
+            "en": "Mpungwe Secondary School"
+        },
+        "https://idp-mwiri.renu.ac.ug/idp/shibboleth": {
+            "en": "Busoga College Mwiri"
+        },
+        "https://idp-ndagwesss.renu.ac.ug/idp/shibboleth": {
+            "en": "Ndagwe Secondary School"
+        },
+        "https://idp-ngoragirlsss.renu.ac.ug/idp/shibboleth": {
+            "en": "Ngora Girls Secondary School"
+        },
+        "https://idp-ntungamoghs.renu.ac.ug/idp/shibboleth": {
+            "en": "Ntungamo Girls High School"
+        },
+        "https://idp-nyahukass.renu.ac.ug/idp/shibboleth": {
+            "en": "Nyahuka Secondary School"
+        },
+        "https://idp-nyakaglobal.renu.ac.ug/idp/shibboleth": {
+            "en": "Nyaka AIDS Orphans Project"
+        },
+        "https://idp-paramedicalinstitute.renu.ac.ug/idp/shibboleth": {
+            "en": "Paramedical Institute"
+        },
+        "https://idp-plustwohighschool.renu.ac.ug/idp/shibboleth": {
+            "en": "Plus Two High School"
+        },
+        "https://idp-ruforum.renu.ac.ug/idp/shibboleth": {
+            "en": "Regional Universities Forum for Capacity Building in Agriculture"
+        },
+        "https://idp-sthenryskitovu.renu.ac.ug/idp/shibboleth": {
+            "en": "St Henrys College Kitovu"
+        },
+        "https://idp-stjoseph-naggalama.renu.ac.ug/idp/shibboleth": {
+            "en": "St. Joseph's Secondary School Naggalama"
+        },
+        "https://idp-stjosephlayibi.renu.ac.ug/idp/shibboleth": {
+            "en": "St. Joseph's College Layibi"
+        },
         "https://idp-stpeterandpaul.renu.ac.ug/idp/shibboleth": {
             "en": "St Peter and Paul Seminary"
+        },
+        "https://idp-uvcf.renu.ac.ug/idp/shibboleth": {
+            "en": "Uganda Vice Chancellors Forum"
+        },
+        "https://idp-wanyangegirlsss.renu.ac.ug/idp/shibboleth": {
+            "en": "Wanyange Girls Secondary School"
         },
         "https://idp.kyu.ac.ug/idp/shibboleth": {
             "en": "Kyambogo University"
