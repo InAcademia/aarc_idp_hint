@@ -14388,8 +14388,8 @@
             "nl": "Hogeschool Van Hall Larenstein"
         },
         "http://adfs.ipabo.nl/adfs/services/trust": {
-            "en": "Hogeschool IPABO",
-            "nl": "Hogeschool IPABO"
+            "en": "Hogeschool IPABO (Old)",
+            "nl": "Hogeschool IPABO (Oud)"
         },
         "http://adfs.knaw.nl/adfs/services/trust": {
             "en": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)",
