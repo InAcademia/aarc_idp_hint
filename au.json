@@ -38,6 +38,9 @@
     "https://idp.flinders.edu.au/idp/shibboleth": {
         "en": "Flinders University"
     },
+    "https://idp.jcu.edu.au/idp/shibboleth": {
+        "en": "James Cook University"
+    },
     "https://idp.monash.edu.au/idp/shibboleth": {
         "en": "Monash University"
     },
