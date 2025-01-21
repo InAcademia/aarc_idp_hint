@@ -5975,6 +5975,10 @@
             "cs": "Městská knihovna Holešov",
             "en": "Municipal Library Holešov"
         },
+        "https://knihovna.lovosice.com/idp/shibboleth": {
+            "cs": "Městská knihovna Lovosice",
+            "en": "Municipal Library Lovosice"
+        },
         "https://knihovna.mesto-klimkovice.cz/idp/shibboleth": {
             "cs": "Městská knihovna Klimkovice",
             "en": "Municipal Library Klimkovice"
@@ -8579,10 +8583,6 @@
             "en": "CARTIF Researcn Centre",
             "es": "Centro Tecnológico CARTIF"
         },
-        "https://www.rediris.es/sir/cbugidp": {
-            "en": "Consorcio de Bibliotecas Universitarias de Galicia",
-            "es": "Consorcio de Bibliotecas Universitarias de Galicia"
-        },
         "https://www.rediris.es/sir/ccnidp": {
             "en": "Centro Criptologico Nacional",
             "es": "Centro Criptológico Nacional"
@@ -8626,6 +8626,10 @@
         "https://www.rediris.es/sir/cirpidp": {
             "en": "Centro Ramon Pinieiro para Investigacion en Humanidades",
             "es": "Centro Ramón Piñeiro para Investigación en Humanidades"
+        },
+        "https://www.rediris.es/sir/cisugidp": {
+            "en": "Consorcio Interuniversitario do Sistema Universitario de Galicia",
+            "es": "Consorcio Interuniversitario do Sistema Universitario de Galicia"
         },
         "https://www.rediris.es/sir/citaidp": {
             "en": "Centro de Investigación y Tecnología Agroalimentaria de Aragón",

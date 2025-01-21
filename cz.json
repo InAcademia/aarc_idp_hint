@@ -603,6 +603,10 @@
         "cs": "Městská knihovna Holešov",
         "en": "Municipal Library Holešov"
     },
+    "https://knihovna.lovosice.com/idp/shibboleth": {
+        "cs": "Městská knihovna Lovosice",
+        "en": "Municipal Library Lovosice"
+    },
     "https://knihovna.mesto-klimkovice.cz/idp/shibboleth": {
         "cs": "Městská knihovna Klimkovice",
         "en": "Municipal Library Klimkovice"
