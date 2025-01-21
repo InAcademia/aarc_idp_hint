@@ -1144,6 +1144,10 @@
             "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
             "pt-br": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense"
         },
+        "https://cardio.net.br/idp/shibboleth": {
+            "en": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul",
+            "pt-br": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul"
+        },
         "https://catuai.ufop.br/idp/shibboleth": {
             "en": "UFOP - Universidade Federal de Ouro Preto",
             "pt-br": "UFOP - Universidade Federal de Ouro Preto"
@@ -1299,10 +1303,6 @@
         "https://idp.capes.gov.br/idp/shibboleth": {
             "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior",
             "pt-br": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior"
-        },
-        "https://idp.cardio.net.br/idp/shibboleth": {
-            "en": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul",
-            "pt-br": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul"
         },
         "https://idp.cefetmg.br/idp/shibboleth": {
             "en": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais",
