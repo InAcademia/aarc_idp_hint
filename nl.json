@@ -107,10 +107,6 @@
         "en": "ZB Bibliotheek van Zeeland",
         "nl": "ZB Bibliotheek van Zeeland"
     },
-    "http://fs.fcroc.nl/adfs/services/trust": {
-        "en": "Firda (formely Friesland College)",
-        "nl": "Firda (voorheen Friesland College)"
-    },
     "http://fs.kennisnet.org/adfs/services/trust": {
         "en": "Stichting Kennisnet",
         "nl": "Stichting Kennisnet"
