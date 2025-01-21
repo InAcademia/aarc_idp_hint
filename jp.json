@@ -533,5 +533,9 @@
     "https://wagner.isc.chubu.ac.jp/idp/shibboleth": {
         "en": "CHUBU UNIVERSITY",
         "ja": "中部大学"
+    },
+    "https://ygakugei.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Yamaguchi Gakugei University",
+        "ja": "山口学芸大学"
     }
 }
