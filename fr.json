@@ -407,6 +407,10 @@
         "en": "CROUS Paris",
         "fr": "CROUS Paris"
     },
+    "https://idp.crous-reims.fr/idp/shibboleth": {
+        "en": "CROUS REIMS - IDP v5",
+        "fr": "CROUS REIMS - IDP v5"
+    },
     "https://idp.crous-toulouse.fr/idp/shibboleth": {
         "en": "CROUS Toulouse - Personnels v4 en validation",
         "fr": "CROUS Toulouse - Personnels v4 en validation"

@@ -1615,6 +1615,7 @@
     "https://idp.crous-nantes.fr/idp/shibboleth": "CROUS de Nantes",
     "https://idp.crous-normandie.fr/idp/shibboleth": "CROUS Normandie - Personnels v3",
     "https://idp.crous-paris.fr/idp/shibboleth": "CROUS Paris",
+    "https://idp.crous-reims.fr/idp/shibboleth": "CROUS REIMS - IDP v5",
     "https://idp.crous-toulouse.fr/idp/shibboleth": "CROUS Toulouse - Personnels v4 en validation",
     "https://idp.croydon.ac.uk/shibboleth": "Croydon College",
     "https://idp.cs.cas.cz/idp/shibboleth": "Institute of Computer Science AS CR",
