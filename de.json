@@ -1259,8 +1259,8 @@
         "en": "Weizenbaum Institute"
     },
     "https://shi-idp2.rz.fh-muenchen.de/idp/shibboleth": {
-        "de": "Hochschule München (HM)",
-        "en": "Munich University of Applied Sciences (HM)"
+        "de": "HM Hochschule München University of Applied Sciences",
+        "en": "HM Hochschule München University of Applied Sciences"
     },
     "https://shib-idp-srv1.hs-gm.de/idp/shibboleth": {
         "de": "Hochschule Geisenheim University",
