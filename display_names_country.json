@@ -14276,10 +14276,6 @@
         }
     },
     "net": {
-        "https://aaaa.cstcloud.cn/saml/idp": {
-            "en": "SDG AAI",
-            "zh": "SDG统一认证系统"
-        },
         "https://aai.cstcloud.net/saml/idp": {
             "en": "CSTCloud AAI",
             "zh": "中国科技云身份认证联盟(CSTCloud AAI)"
