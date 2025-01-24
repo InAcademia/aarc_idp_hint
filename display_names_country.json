@@ -16458,10 +16458,6 @@
             "en": "NORDUnet",
             "sv": "NORDUnet"
         },
-        "https://idp.sunet.se/idp": {
-            "en": "Sunet - Google - Being phased out, use Sunet - Connect!",
-            "sv": "Sunet - Google - Under avveckling, använd Sunet - Connect!"
-        },
         "https://idp.ths.se/idp/shibboleth": {
             "en": "University College Stockholm",
             "sv": "Enskilda Högskolan Stockholm"
