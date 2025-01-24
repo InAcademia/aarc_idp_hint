@@ -1372,10 +1372,6 @@
             "en": "INT - Instituto Nacional de Tecnologia",
             "pt-br": "INT - Instituto Nacional de Tecnologia"
         },
-        "https://idp.mast.br/idp/shibboleth": {
-            "en": "MAST - Museu de Astronomia e Ciencias Afins",
-            "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
-        },
         "https://idp.puc-campinas.edu.br/idp/shibboleth": {
             "en": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas",
             "pt-br": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas"
@@ -1791,10 +1787,6 @@
         "https://shibboleth.unespar.edu.br/idp/shibboleth": {
             "en": "UNESPAR - Universidade Estadual do Parana",
             "pt-br": "UNESPAR - Universidade Estadual do Parana"
-        },
-        "https://shibboleth.unifacs.br/idp/shibboleth": {
-            "en": "UNIFACS - Universidade Salvador",
-            "pt-br": "UNIFACS - Universidade Salvador"
         },
         "https://shibboleth.unifapce.edu.br/idp/shibboleth": {
             "en": "UNIFAPCE - Centro Universitario Paraiso",
