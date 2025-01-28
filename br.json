@@ -531,6 +531,10 @@
         "en": "URCA - Universidade Regional do Cariri",
         "pt-br": "URCA - Universidade Regional do Cariri"
     },
+    "https://idp-shib4.uespi.br/idp/shibboleth": {
+        "en": "UESPI - Universidade Estadual do Piaui",
+        "pt-br": "UESPI - Universidade Estadual do Piaui"
+    },
     "https://idp-shib421.funpec.br/idp/shibboleth": {
         "en": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura",
         "pt-br": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura"
