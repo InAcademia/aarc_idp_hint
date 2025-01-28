@@ -19590,6 +19590,9 @@
         "http://adfs.ppd.com/adfs/services/trust": {
             "en": "PPD"
         },
+        "http://adfs.sdstate.edu/adfs/services/trust": {
+            "en": "South Dakota State University-New"
+        },
         "http://adfs.sso.passhe.edu/adfs/services/trust": {
             "en": "PA State System of Higher Education"
         },
