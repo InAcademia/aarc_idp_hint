@@ -332,6 +332,9 @@
     "https://sso.vcc.ca/idp": {
         "en": "Vancouver Community College"
     },
+    "https://sso.yukonu.ca/idp": {
+        "en": "Yukon University"
+    },
     "https://utility.acorn-ns.ca/idp/shibboleth": {
         "en": "ACORN NS"
     },
