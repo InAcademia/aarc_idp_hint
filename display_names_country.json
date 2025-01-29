@@ -8195,6 +8195,10 @@
             "en": "Escuela Superior Politecnica del Litoral - espol",
             "es": "Escuela Superior Politecnica del Litoral - espol"
         },
+        "https://login.iaen.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Instituto de Altos Estudios Nacionales - iaen",
+            "es": "Instituto de Altos Estudios Nacionales - iaen"
+        },
         "https://login.igepn.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn",
             "es": "Instituto Geofísico de la Escuela Politécnica Nacional - igepn"

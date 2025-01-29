@@ -4136,6 +4136,7 @@
     "https://login.hs-ulm.de/shibboleth-idp": "Technische Hochschule Ulm",
     "https://login.hsbi.de/nidp/saml2/metadata": "Hochschule Bielefeld",
     "https://login.hspv.nrw.de/idp/shibboleth": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen",
+    "https://login.iaen.cedia.edu.ec/saml2/idp/metadata.php": "Instituto de Altos Estudios Nacionales - iaen",
     "https://login.iamres.amres.ac.rs/simplesaml/saml2/idp/metadata.php": "iAMRES Web Single Sign-on Portal",
     "https://login.iasa.gr/auth/saml2/idp/metadata.php": "Institute of Accelerating Systems and Applications - IASA",
     "https://login.icermali.org/idp/shibboleth": "ICER - Mali",
