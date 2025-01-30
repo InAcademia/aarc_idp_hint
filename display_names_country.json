@@ -12839,6 +12839,10 @@
         "https://auth.jaist.ac.jp/sso-s/shibboleth": {
             "en": "https://auth.jaist.ac.jp/sso-s/shibboleth"
         },
+        "https://auth.socu.ac.jp/idp/shibboleth": {
+            "en": "Sanyo-Onoda City University",
+            "ja": "山陽小野田市立山口東京理科大学"
+        },
         "https://authidp1.iimc.kyoto-u.ac.jp/idp/shibboleth": {
             "en": "Kyoto University",
             "ja": "京都大学"

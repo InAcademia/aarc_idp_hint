@@ -387,6 +387,7 @@
     "https://auth.nfa.cz:4443/idp/shibboleth": "National film archive Prague",
     "https://auth.owens.edu": "Owens Community College",
     "https://auth.ph-noe.ac.at/idp/shibboleth": "University College of Teacher Education in Lower Austria",
+    "https://auth.socu.ac.jp/idp/shibboleth": "Sanyo-Onoda City University",
     "https://auth.svako.lt/sso/saml2/idp/metadata.php": "Siauliai State College",
     "https://auth.tf.hu/simplesaml/saml2/idp/metadata.php": "Hungarian University of Sports Science",
     "https://auth.u-paris.fr/idp/shibboleth": "Université Paris Cité",
