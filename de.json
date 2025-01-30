@@ -219,7 +219,7 @@
         "de": "DLR - Deutsches Zentrum fuer Luft- und Raumfahrt e.V.",
         "en": "DLR - Deutsches Zentrum fuer Luft- und Raumfahrt e.V."
     },
-    "https://idp.drfz.de": {
+    "https://idp.drfz.de/idp/shibboleth": {
         "de": "Deutsches Rheuma-Forschungszentrum Berlin",
         "en": "Deutsches Rheuma-Forschungszentrum Berlin"
     },

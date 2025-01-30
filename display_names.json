@@ -1679,7 +1679,7 @@
     "https://idp.donau-uni.ac.at/idp/shibboleth": "Danube University Krems",
     "https://idp.dr.ufu.br/idp/shibboleth": "UFU - Universidade Federal de Uberlandia",
     "https://idp.dramahospital.gr/idp/shibboleth": "https://idp.dramahospital.gr/idp/shibboleth",
-    "https://idp.drfz.de": "Deutsches Rheuma-Forschungszentrum Berlin",
+    "https://idp.drfz.de/idp/shibboleth": "Deutsches Rheuma-Forschungszentrum Berlin",
     "https://idp.drhe.hu/simplesaml/saml2/idp/metadata.php": "Debrecen Reformed Theological University",
     "https://idp.dsm.museum/idp/shibboleth": "German Maritime Museum (DSM)",
     "https://idp.dti.sk/idp/shibboleth": "DTI University",
