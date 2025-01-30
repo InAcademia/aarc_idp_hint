@@ -134,8 +134,6 @@
     "http://fs.via.dk/adfs/services/trust": "VIA University College",
     "http://fs.ymparisto.fi/adfs/services/trust": "Finnish Environment Institute",
     "http://fs.zea.dk/adfs/services/trust": "Zealand",
-    "http://fs4.grenaa-gym.dk/adfs/services/trust": "Grenaa Gymnasium",
-    "http://fs4.paderup-gym.dk/adfs/services/trust": "Paderup Gymnasium",
     "http://glr-adfs.glr.nl/adfs/services/trust": "Grafisch Lyceum Rotterdam",
     "http://i-idd.silab.cea.fr/adfs/services/trust": "CEA {SILAB}",
     "http://iam.auckland.ac.nz/idp": "The University of Auckland",
