@@ -9700,10 +9700,6 @@
             "en": "University of Saint-Etienne - Jean Monnet",
             "fr": "Université de Saint-Etienne - Jean Monnet"
         },
-        "https://idp-renater.pulsalys.fr/idp/shibboleth": {
-            "en": "PULSALYS - SATT Lyon Saint-Etienne",
-            "fr": "PULSALYS - SATT Lyon Saint-Etienne"
-        },
         "https://idp-sciencespo-grenoble.renater.fr/idp/shibboleth": {
             "en": "Sciences Po Grenoble",
             "fr": "Sciences Po Grenoble"
