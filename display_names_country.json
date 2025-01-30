@@ -12408,6 +12408,10 @@
             "en": "IRCCS MultiMedica - Milano",
             "it": "IRCCS MultiMedica - Milano"
         },
+        "https://idp-neurolesi.izs.garr.it/metadata": {
+            "en": "IRCCS Centro Neurolesi 'Bonino Pulejo' - Messina",
+            "it": "IRCCS Centro Neurolesi 'Bonino Pulejo' - Messina"
+        },
         "https://idp-neuromed.irccs.garr.it/idp/shibboleth": {
             "en": "IRCCS Neuromed Pozzilli (IS)",
             "it": "IRCCS Neuromed Pozzilli (IS)"
