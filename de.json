@@ -1394,10 +1394,6 @@
         "de": "DHBW Karlsruhe",
         "en": "DHBW Karlsruhe"
     },
-    "https://shibboleth.dhge.de/idp/shibboleth": {
-        "de": "Identity Provider der DHGE",
-        "en": "Identity Provider of DHGE"
-    },
     "https://shibboleth.hs-kl.de/idp/shibboleth": {
         "de": "Hochschule Kaiserslautern",
         "en": "University of Applied Science Kaiserslautern"
