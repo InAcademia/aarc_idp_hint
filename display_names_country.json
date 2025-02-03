@@ -13187,6 +13187,10 @@
             "en": "National Institute for Fusion Science (extic)",
             "ja": "核融合科学研究所 (extic)"
         },
+        "https://nig.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "National Institute of Genetics",
+            "ja": "国立遺伝学研究所"
+        },
         "https://nipr.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "National Institute of Polar Research",
             "ja": "国立極地研究所"
@@ -13246,6 +13250,10 @@
         "https://shibboleth.nihon-u.ac.jp/idp/shibboleth": {
             "en": "Nihon University",
             "ja": "日本大学"
+        },
+        "https://shikokuu.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Shikoku University",
+            "ja": "四国大学"
         },
         "https://sib-idp.obihiro.ac.jp/idp/shibboleth": {
             "en": "Obihiro University of Agriculture and Veterinary Medicine",
