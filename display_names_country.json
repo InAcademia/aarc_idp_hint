@@ -10141,8 +10141,8 @@
             "fr": "Université de Toulon"
         },
         "https://idp.univ-tlse3.fr/idp/shibboleth": {
-            "en": "Universite Toulouse III - Paul Sabatier",
-            "fr": "Université Toulouse III - Paul Sabatier"
+            "en": "Toulouse University",
+            "fr": "Université de Toulouse"
         },
         "https://idp.univ-tours.fr/idp/shibboleth": {
             "en": "University of Tours",
@@ -15419,7 +15419,7 @@
             "pl": "Uniwersytet Medyczny w Białymstoku"
         },
         "https://sso.agh.edu.pl/saml/metadata": {
-            "en": "AGH University of Science and Technology",
+            "en": "AGH University of Krakow",
             "pl": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie"
         },
         "https://sso.amu.edu.pl/simplesaml/saml2/idp/metadata.php": {
