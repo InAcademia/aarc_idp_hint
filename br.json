@@ -1035,6 +1035,10 @@
         "en": "UNESPAR - Universidade Estadual do Parana",
         "pt-br": "UNESPAR - Universidade Estadual do Parana"
     },
+    "https://shibboleth.unifacs.br/idp/shibboleth": {
+        "en": "UNIFACS - Universidade Salvador",
+        "pt-br": "UNIFACS - Universidade Salvador"
+    },
     "https://shibboleth.unifapce.edu.br/idp/shibboleth": {
         "en": "UNIFAPCE - Centro Universitario Paraiso",
         "pt-br": "UNIFAPCE - Centro Universitario Paraiso"
