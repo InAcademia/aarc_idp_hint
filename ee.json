@@ -15,10 +15,6 @@
         "en": "TalTech",
         "et": "TalTech"
     },
-    "https://idp.ttu.ee/simplesaml/saml2/idp/metadata.php": {
-        "en": "TalTech Legacy",
-        "et": "TalTech Legacy"
-    },
     "https://memm.hep.kbfi.ee/saml2/idp/metadata.php": {
         "en": "KBFI",
         "et": "KBFI"
