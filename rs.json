@@ -38,5 +38,9 @@
     "https://login.uns.ac.rs/idp/metadata": {
         "en": "University of Novi Sad",
         "sr": "Univerzitert u Novom Sadu"
+    },
+    "https://portal.filum.kg.ac.rs/idp/shibboleth": {
+        "en": "Faculty of Philology and Arts",
+        "sr": "Filološko-umetnički fakultet"
     }
 }

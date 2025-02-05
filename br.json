@@ -83,6 +83,10 @@
         "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
         "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
     },
+    "https://cafe.cpqd.com.br/idp/shibboleth": {
+        "en": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes",
+        "pt-br": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes"
+    },
     "https://cafe.cruzeirodosul.edu.br/idp/shibboleth": {
         "en": "UNICSUL - Universidade Cruzeiro do Sul",
         "pt-br": "UNICSUL - Universidade Cruzeiro do Sul"
