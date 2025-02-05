@@ -191,6 +191,9 @@
     "https://idp.iiitn.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Information Technology, Nagpur"
     },
+    "https://idp.iiitp.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Information Technology, Pune (IIIT Pune)"
+    },
     "https://idp.iima.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Management, Ahmedabad"
     },
