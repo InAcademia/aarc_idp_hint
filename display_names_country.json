@@ -7479,10 +7479,6 @@
             "de": "Filmuniversität Babelsberg KONRAD WOLF",
             "en": "Filmuniversity Babelsberg KONRAD WOLF"
         },
-        "https://proxy.edu-id.dfn.de/idp/shibboleth": {
-            "de": "DFN edu-ID",
-            "en": "DFN edu-ID"
-        },
         "https://radius.ice.mpg.de/idp/shibboleth": {
             "de": "Max Planck Institut fuer chemische Oekologie",
             "en": "Max Planck Institute for Chemical Ecology"
@@ -14980,8 +14976,8 @@
             "nl": "Thomas More Hogeschool"
         },
         "https://sts.windows.net/e8e5eb49-74bd-45b9-905a-1193cb5a9913/": {
-            "en": "Stichting Landstede (LandstedeMBO, Menso Alting, Thomas a Kempis, JenaXL, Talentstad, Centre for Sports & Education en Startcollege)",
-            "nl": "Stichting Landstede (LandstedeMBO, Menso Alting, Thomas a Kempis, JenaXL, Talentstad, Centre for Sports & Education en Startcollege)"
+            "en": "Landstede Groep (Landstede MBO, mbo Menso Alting, CSE Topsportacademie, StartCollege)",
+            "nl": "Landstede Groep (Landstede MBO, mbo Menso Alting, CSE Topsportacademie, StartCollege)"
         },
         "https://sts.windows.net/ea39d597-c395-4a33-b8bc-2c01f8e147e5/": {
             "en": "Centerdata",
@@ -17216,10 +17212,6 @@
             "en": "Yildiz Technical University",
             "tr": "Yıldız Teknik Üniversitesi"
         },
-        "https://yetkim.yyu.edu.tr/idp/shibboleth": {
-            "en": "Van Yüzüncü Yıl University",
-            "tr": "Van Yüzüncü Yıl Üniversitesi"
-        },
         "https://yetkimidp.isikun.edu.tr/idp/shibboleth": {
             "en": "FMV Işık University",
             "tr": "FMV Işık Üniversitesi"
@@ -17269,17 +17261,11 @@
         "https://idp-uvcf.renu.ac.ug/idp/shibboleth": {
             "en": "Uganda Vice Chancellors Forum"
         },
-        "https://idp.kyu.ac.ug/idp/shibboleth": {
-            "en": "Kyambogo University"
-        },
         "https://idp.mru.ac.ug/idp/shibboleth": {
             "en": "Muteesa Royal University (MRU)"
         },
         "https://idp.renu.ac.ug/shibboleth": {
             "en": "Research and Education Network for Uganda"
-        },
-        "https://idp.umu.ac.ug/simplesaml/module.php/saml/idp/metadata": {
-            "en": "Uganda Martyrs University"
         },
         "https://login.rhsp.org/idp/shibboleth": {
             "en": "Rakai Health Sciences Program"
@@ -20512,9 +20498,6 @@
         },
         "urn:mace:incommon:duke.edu": {
             "en": "Duke University"
-        },
-        "urn:mace:incommon:humboldt.edu": {
-            "en": "HSU Legacy"
         },
         "urn:mace:incommon:internet2.edu": {
             "en": "Internet2"

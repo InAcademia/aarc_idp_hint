@@ -26,17 +26,11 @@
     "https://idp-uvcf.renu.ac.ug/idp/shibboleth": {
         "en": "Uganda Vice Chancellors Forum"
     },
-    "https://idp.kyu.ac.ug/idp/shibboleth": {
-        "en": "Kyambogo University"
-    },
     "https://idp.mru.ac.ug/idp/shibboleth": {
         "en": "Muteesa Royal University (MRU)"
     },
     "https://idp.renu.ac.ug/shibboleth": {
         "en": "Research and Education Network for Uganda"
-    },
-    "https://idp.umu.ac.ug/simplesaml/module.php/saml/idp/metadata": {
-        "en": "Uganda Martyrs University"
     },
     "https://login.rhsp.org/idp/shibboleth": {
         "en": "Rakai Health Sciences Program"

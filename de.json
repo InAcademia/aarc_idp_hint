@@ -1230,10 +1230,6 @@
         "de": "Filmuniversität Babelsberg KONRAD WOLF",
         "en": "Filmuniversity Babelsberg KONRAD WOLF"
     },
-    "https://proxy.edu-id.dfn.de/idp/shibboleth": {
-        "de": "DFN edu-ID",
-        "en": "DFN edu-ID"
-    },
     "https://radius.ice.mpg.de/idp/shibboleth": {
         "de": "Max Planck Institut fuer chemische Oekologie",
         "en": "Max Planck Institute for Chemical Ecology"
