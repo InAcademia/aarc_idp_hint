@@ -549,6 +549,10 @@
         "en": "University of Politecnica delle Marche",
         "it": "Università Politecnica delle Marche"
     },
+    "https://idp01.areasciencepark.it/idp/shibboleth": {
+        "en": "Area Science Park",
+        "it": "Area Science Park"
+    },
     "https://idp02.ogs.it/idp/shibboleth": {
         "en": "National Institute of Oceanography and Applied Geophysics - OGS",
         "it": "Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS"

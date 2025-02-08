@@ -1380,6 +1380,10 @@
             "en": "INT - Instituto Nacional de Tecnologia",
             "pt-br": "INT - Instituto Nacional de Tecnologia"
         },
+        "https://idp.mast.br/idp/shibboleth": {
+            "en": "MAST - Museu de Astronomia e Ciencias Afins",
+            "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
+        },
         "https://idp.puc-campinas.edu.br/idp/shibboleth": {
             "en": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas",
             "pt-br": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas"
@@ -11429,7 +11433,7 @@
             "en": "Dun Laoghaire Institute of Art Design and Technology"
         },
         "https://idp.imi.ie/saml2/idp/metadata.php": {
-            "en": "Irish Management Institute"
+            "en": "Irish Management Institute (old)"
         },
         "https://idp.ipa.ie/idp/shibboleth": {
             "en": "Institute of Public Administration",
@@ -12723,6 +12727,10 @@
         "https://idp.univpm.it/idp/shibboleth": {
             "en": "University of Politecnica delle Marche",
             "it": "Università Politecnica delle Marche"
+        },
+        "https://idp01.areasciencepark.it/idp/shibboleth": {
+            "en": "Area Science Park",
+            "it": "Area Science Park"
         },
         "https://idp02.ogs.it/idp/shibboleth": {
             "en": "National Institute of Oceanography and Applied Geophysics - OGS",
