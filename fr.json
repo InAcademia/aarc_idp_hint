@@ -123,10 +123,6 @@
         "en": "Brest Business School",
         "fr": "Brest Business School"
     },
-    "https://boulle-idps.hesam.eu/idp/shibboleth": {
-        "en": "École Boulle",
-        "fr": "École Boulle"
-    },
     "https://cas.ac-martinique.fr/idp/shibboleth": {
         "en": "Rectorat de la Martinique",
         "fr": "Rectorat de la Martinique"
@@ -162,14 +158,6 @@
     "https://eliot.isae.fr/idp/shibboleth": {
         "en": "ISAE",
         "fr": "ISAE Institut Supérieur de l'Aéronautique et de l'Espace"
-    },
-    "https://ensaama-idps.hesam.eu/idp/shibboleth": {
-        "en": "ENSAAMA - School of Art & Design",
-        "fr": "ENSAAMA - École nationale supérieure des arts appliqués et des métiers d’art"
-    },
-    "https://estienne-idps.hesam.eu/idp/shibboleth": {
-        "en": "Estienne school",
-        "fr": "Ecole Estienne"
     },
     "https://federation.ac-strasbourg.fr/idp/shibboleth": {
         "en": "Rectorat de Strasbourg",
@@ -655,10 +643,6 @@
         "en": "SIGMA CLERMONT",
         "fr": "SIGMA Clermont"
     },
-    "https://idp.srv.hesam.eu/idp/shibboleth": {
-        "en": "HESAM",
-        "fr": "HESAM"
-    },
     "https://idp.st-etienne.archi.fr/idp/shibboleth": {
         "en": "ENSASE - Ecole nationale supérieure d'architecture de Saint-Étienne",
         "fr": "ENSASE - École nationale supérieure d'architecture de Saint-Étienne"
@@ -1020,8 +1004,8 @@
         "fr": "ENSICAEN"
     },
     "https://shibboleth.ensiie.fr/idp/shibboleth": {
-        "en": "ENSIIE",
-        "fr": "ENSIIE"
+        "en": "ensIIE",
+        "fr": "ensIIE"
     },
     "https://shibboleth.ensta.fr/idp/shibboleth": {
         "en": "ENSTA Paris - Ecole Nationale Supérieure de Techniques Avancées",
