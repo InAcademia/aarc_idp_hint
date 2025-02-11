@@ -15,9 +15,6 @@
     "https://idp.llu.lv/idp/shibboleth": {
         "en": "Latvia University of Agriculture"
     },
-    "https://idp.rtu.lv": {
-        "en": "Riga Technical University (Office 365)"
-    },
     "https://lanet-idp.lanet.lv": {
         "en": "LANET"
     },

@@ -141,7 +141,7 @@
         "en": "BCNET"
     },
     "https://idp.camosun.ca/idp/shibboleth": {
-        "en": "Camosun College"
+        "en": "Camosun College (old)"
     },
     "https://idp.canarie.ca/idp/shibboleth": {
         "en": "CANARIE"
@@ -257,7 +257,7 @@
         "en": "Humber College"
     },
     "https://shib.camosun.ca/idp/shibboleth": {
-        "en": "Camosun College (New)"
+        "en": "Camosun College"
     },
     "https://shib.cmaisonneuve.qc.ca/idp/shibboleth": {
         "en": "Collège de Maisonneuve",

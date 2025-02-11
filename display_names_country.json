@@ -2112,7 +2112,7 @@
             "en": "BCNET"
         },
         "https://idp.camosun.ca/idp/shibboleth": {
-            "en": "Camosun College"
+            "en": "Camosun College (old)"
         },
         "https://idp.canarie.ca/idp/shibboleth": {
             "en": "CANARIE"
@@ -2228,7 +2228,7 @@
             "en": "Humber College"
         },
         "https://shib.camosun.ca/idp/shibboleth": {
-            "en": "Camosun College (New)"
+            "en": "Camosun College"
         },
         "https://shib.cmaisonneuve.qc.ca/idp/shibboleth": {
             "en": "Collège de Maisonneuve",
@@ -8117,6 +8117,14 @@
             "en": "Dania Academy"
         }
     },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
+        }
+    },
     "ec": {
         "https://login.caces.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces",
@@ -10078,6 +10086,10 @@
         "https://idp.univ-artois.fr/idp/shibboleth": {
             "en": "Université d'Artois",
             "fr": "Université d'Artois"
+        },
+        "https://idp.univ-avignon.fr/idp/shibboleth": {
+            "en": "Avignon Université",
+            "fr": "Avignon Université"
         },
         "https://idp.univ-cotedazur.fr/idp/shibboleth": {
             "en": "Université Côte d'Azur",
@@ -13460,6 +13472,110 @@
             "en": "Korea University"
         }
     },
+    "lk": {
+        "https://iam.vpa.ac.lk/idp/shibboleth": {
+            "en": "University of the Visual and Performing Arts"
+        },
+        "https://idp.accmt.ac.lk/idp/shibboleth": {
+            "en": "Arthur C Clarke Institute for Modern Technologies"
+        },
+        "https://idp.cmb.ac.lk/idp/shibboleth": {
+            "en": "University of Colombo, Sri Lanka"
+        },
+        "https://idp.eduid.lk/idp/shibboleth": {
+            "en": "eduID Sri Lanka"
+        },
+        "https://idp.esn.ac.lk/idp/shibboleth": {
+            "en": "Eastern University Sri Lanka"
+        },
+        "https://idp.ibmbb.cmb.ac.lk/idp/shibboleth": {
+            "en": "Institute of Biochemistry, Molecular Biology and Biotechnology"
+        },
+        "https://idp.iti.lk/idp/shibboleth": {
+            "en": "Industrial Technology Institute - Sri Lanka"
+        },
+        "https://idp.itum.mrt.ac.lk/idp/shibboleth": {
+            "en": "Institute of Technology, University of Moratuwa"
+        },
+        "https://idp.jfn.ac.lk/idp/shibboleth": {
+            "en": "University of Jaffna"
+        },
+        "https://idp.kdu.ac.lk/idp/shibboleth": {
+            "en": "Kotelawala Defence University"
+        },
+        "https://idp.kln.ac.lk/idp/shibboleth": {
+            "en": "University of Kelaniya - Sri Lanka"
+        },
+        "https://idp.learn.ac.lk/idp/shibboleth": {
+            "en": "LEARN - Sri Lanka"
+        },
+        "https://idp.medi.ruh.ac.lk/idp/shibboleth": {
+            "en": "Faculty of Medicine, University of Ruhuna"
+        },
+        "https://idp.mohe.ac.lk/idp/shibboleth": {
+            "en": "Ministry of Higher Education - Sri Lanka"
+        },
+        "https://idp.nerdc.lk/idp/shibboleth": {
+            "en": "NERD Centre"
+        },
+        "https://idp.nie.ac.lk/idp/shibboleth": {
+            "en": "National Institute of Education"
+        },
+        "https://idp.pdn.ac.lk/idp/shibboleth": {
+            "en": "University of Peradeniya"
+        },
+        "https://idp.ruh.ac.lk/idp/shibboleth": {
+            "en": "University of Ruhuna (Wellamadama Site)"
+        },
+        "https://idp.sab.ac.lk/idp/shibboleth": {
+            "en": "Sabaragamuwa University of Sri Lanka"
+        },
+        "https://idp.seu.ac.lk/idp/shibboleth": {
+            "en": "South Eastern University of Sri Lanka"
+        },
+        "https://idp.sjp.ac.lk/idp/shibboleth": {
+            "en": "University of Sri Jayewardenepura"
+        },
+        "https://idp.sltc.ac.lk/idp/shibboleth": {
+            "en": "Sri Lanka Technological Campus"
+        },
+        "https://idp.svias.esn.ac.lk/idp/shibboleth": {
+            "en": "Swami Vipulananda Institute of Aesthetic Studies(SVIAS),EUSL"
+        },
+        "https://idp.tc.esn.ac.lk/idp/shibboleth": {
+            "en": "Trincomalee Campus, EUSL"
+        },
+        "https://idp.tec.ruh.ac.lk/idp/shibboleth": {
+            "en": "Faculty of Technology, University of Ruhuna, Sri Lanka"
+        },
+        "https://idp.ucsc.cmb.ac.lk/idp/shibboleth": {
+            "en": "University of Colombo School of Computing"
+        },
+        "https://idp.ugc.ac.lk/idp/shibboleth": {
+            "en": "University Grants Commission - Sri Lanka"
+        },
+        "https://idp.uom.lk/idp/shibboleth": {
+            "en": "University of Moratuwa"
+        },
+        "https://idp.uwu.ac.lk/idp/shibboleth": {
+            "en": "Uva Wellassa University"
+        },
+        "https://idpserver.wyb.ac.lk/idp/shibboleth": {
+            "en": "Wayamba University of Sri Lanka - Kuliyapitiya Premises"
+        },
+        "https://ims.ou.ac.lk/idp/shibboleth": {
+            "en": "The Open University of Sri Lanka"
+        },
+        "https://samanala.agri.ruh.ac.lk/idp/shibboleth": {
+            "en": "Faculty of Agriculture, University of Ruhuna"
+        },
+        "https://shiboidp.eng.ruh.ac.lk/idp/shibboleth": {
+            "en": "Faculty of Engineering, University of Ruhuna"
+        },
+        "https://telambu.rjt.ac.lk/idp/shibboleth": {
+            "en": "Rajarata University of Sri Lanka"
+        }
+    },
     "lt": {
         "https://auth.svako.lt/sso/saml2/idp/metadata.php": {
             "en": "Siauliai State College",
@@ -13595,9 +13711,6 @@
         },
         "https://idp.llu.lv/idp/shibboleth": {
             "en": "Latvia University of Agriculture"
-        },
-        "https://idp.rtu.lv": {
-            "en": "Riga Technical University (Office 365)"
         },
         "https://lanet-idp.lanet.lv": {
             "en": "LANET"
@@ -17640,9 +17753,6 @@
         },
         "https://idp-rae.renu.ac.ug/idp/shibboleth": {
             "en": "Research and Education Agency"
-        },
-        "https://idp-rhspregion.renu.ac.ug/idp/shibboleth": {
-            "en": "Regional Rakai Health Services Program"
         },
         "https://idp-righttoplay.renu.ac.ug/idp/shibboleth": {
             "en": "Right to Play"

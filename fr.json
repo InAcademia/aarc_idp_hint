@@ -711,6 +711,10 @@
         "en": "Université d'Artois",
         "fr": "Université d'Artois"
     },
+    "https://idp.univ-avignon.fr/idp/shibboleth": {
+        "en": "Avignon Université",
+        "fr": "Avignon Université"
+    },
     "https://idp.univ-cotedazur.fr/idp/shibboleth": {
         "en": "Université Côte d'Azur",
         "fr": "Université Côte d'Azur"
