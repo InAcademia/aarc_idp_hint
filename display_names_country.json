@@ -4632,6 +4632,10 @@
             "en": "Shenzhen University",
             "zh": "深圳大学(Shenzhen University)"
         },
+        "https://idp.taru.edu.cn/idp/shibboleth": {
+            "en": "TarimUniversity",
+            "zh": "塔里木大学(TarimUniversity)"
+        },
         "https://idp.tfswufe.edu.cn/idp/shibboleth": {
             "en": "Tianfu College of Southwest University of Finance and Economics",
             "zh": "西南财经大学天府学院(Tianfu College of Southwest University of Finance and Economics)"
@@ -6473,8 +6477,8 @@
             "en": "DLR - Deutsches Zentrum fuer Luft- und Raumfahrt e.V."
         },
         "https://idp.drfz.de/idp/shibboleth": {
-            "de": "Deutsches Rheuma-Forschungszentrum Berlin",
-            "en": "Deutsches Rheuma-Forschungszentrum Berlin"
+            "de": "Deutsches Rheuma-Forschungszentrum Berlin (DRFZ)",
+            "en": "Deutsches Rheuma-Forschungszentrum Berlin (DRFZ)"
         },
         "https://idp.dsm.museum/idp/shibboleth": {
             "de": "Deutsches Schifffahrtsmuseum (DSM)",
@@ -8126,6 +8130,10 @@
         }
     },
     "ec": {
+        "https://login.armada.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Armada del Ecuador - armada",
+            "es": "Armada del Ecuador - armada"
+        },
         "https://login.caces.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces",
             "es": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces"
@@ -11223,8 +11231,8 @@
             "hu": "Magyar Táncművészeti Egyetem"
         },
         "https://idp.niif.hu/shibboleth": {
-            "en": "Pro-M",
-            "hu": "Pro-M"
+            "en": "Pro-M (Hungarian NREN)",
+            "hu": "Pro-M (Magyar NREN)"
         },
         "https://idp.nje.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Neumann Janos Egyetem",
@@ -11816,6 +11824,9 @@
         },
         "https://idp.kalingauniversity.ac.in/idp/shibboleth": {
             "en": "Kalinga University Raipur"
+        },
+        "https://idp.kannuruniversity.ac.in/idp/shibboleth": {
+            "en": "KANNUR UNIVERSITY"
         },
         "https://idp.karunya.edu/idp/shibboleth": {
             "en": "Karunya Institute of Technology and Sciences (Deemed University)"
@@ -13696,75 +13707,9 @@
         }
     },
     "lv": {
-        "https://du-idp.lanet.lv": {
-            "en": "Daugavpils University"
-        },
-        "https://id.lndb.lv": {
-            "en": "LNB"
-        },
-        "https://id2.rtu.lv:443/openam": {
-            "en": "Riga Technical University"
-        },
         "https://idp.laife.lv/saml-idp": {
             "en": "LAIFE (Latvian academic identity federation)",
             "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
-        },
-        "https://idp.llu.lv/idp/shibboleth": {
-            "en": "Latvia University of Agriculture"
-        },
-        "https://lanet-idp.lanet.lv": {
-            "en": "LANET"
-        },
-        "https://liepu-idp.lanet.lv": {
-            "en": "Liepaja University"
-        },
-        "https://lka-idp.lanet.lv": {
-            "en": "Latvian Academy of Culture"
-        },
-        "https://lkk-idp.lanet.lv": {
-            "en": "Latvian College of Culture at the Latvian Academy of Culture"
-        },
-        "https://lma-idp.lanet.lv": {
-            "en": "Art Academy of Latvia"
-        },
-        "https://lmuza-idp.lanet.lv": {
-            "en": "Latvian Academy of Music"
-        },
-        "https://lnna-idp.lanet.lv": {
-            "en": "National Defence Academy of Latvia"
-        },
-        "https://lu-idp.lu.lv": {
-            "en": "University of Latvia"
-        },
-        "https://lumii-idp.lanet.lv": {
-            "en": "Institute of Mathematics and Computer Science, University of Latvia"
-        },
-        "https://overleaf-idp.lu.lv": {
-            "en": "LU OverLeaf users IdP"
-        },
-        "https://psk-idp.lanet.lv": {
-            "en": "Pauls Stradins Medical College of the University of Latvia"
-        },
-        "https://ra-idp.lanet.lv": {
-            "en": "Rezekne Academy of Technologies"
-        },
-        "https://rja-idp.lanet.lv": {
-            "en": "Riga Graduate School of Law"
-        },
-        "https://rmk-idp.lanet.lv": {
-            "en": "Riga Medical College"
-        },
-        "https://skmms-idp.lanet.lv": {
-            "en": "Riga Red Cross Medical College"
-        },
-        "https://sse-idp.lanet.lv": {
-            "en": "Stockholm School of Economics in Riga"
-        },
-        "https://va-idp.lanet.lv": {
-            "en": "Vidzeme University of Applied Sciences"
-        },
-        "https://vea-idp.lanet.lv": {
-            "en": "Ventspils University College"
         }
     },
     "ma": {
@@ -15163,6 +15108,161 @@
         },
         "https://virtualhome.tuakiri.ac.nz/idp/shibboleth": {
             "en": "Tuakiri Virtual Home"
+        }
+    },
+    "om": {
+        "http://Adfs.hct.edu.om/adfs/services/trust": {
+            "en": "University of Technology and Applied Sciences - Muscat"
+        },
+        "http://adfs.asu.edu.om/adfs/services/trust": {
+            "en": "A’Sharqiyah University"
+        },
+        "http://adfs.brm-vtc.edu.om/adfs/services/trust": {
+            "en": "Al Buraimi Vocational College"
+        },
+        "http://adfs.du.edu.om/adfs/services/trust": {
+            "en": "Dhofar University"
+        },
+        "http://adfs.ftik.edu.om/adfs/services/trust": {
+            "en": "vocational college of marine science (Al khaboura)"
+        },
+        "http://adfs.gutech.edu.om/adfs/services/trust": {
+            "en": "German University of Technology"
+        },
+        "http://adfs.ibrict.edu.om/adfs/services/trust": {
+            "en": "University of Technology and Applied Science - Ibri"
+        },
+        "http://adfs.ibrivtc.edu.om/adfs/services/trust": {
+            "en": "Ibri Vocational College"
+        },
+        "http://adfs.ict.edu.om/adfs/services/trust": {
+            "en": "University of technology and applied science (Ibra)"
+        },
+        "http://adfs.imco.edu.om/adfs/services/trust": {
+            "en": "International Maritime College Oman (IMCO)"
+        },
+        "http://adfs.majancollege.edu.om/adfs/services/trust": {
+            "en": "Majan University College"
+        },
+        "http://adfs.mcbs.edu.om/adfs/services/trust": {
+            "en": "Modern College of Business & Science"
+        },
+        "http://adfs.muscatcollege.edu.om/adfs/services/trust": {
+            "en": "Muscat College"
+        },
+        "http://adfs.muscatuniversity.edu.om/adfs/services/trust": {
+            "en": "MUSCAT UNIVERSITY"
+        },
+        "http://adfs.nct.edu.om/adfs/services/trust": {
+            "en": "University of Technology and Applied Sciences - Nizwa"
+        },
+        "http://adfs.ndc.edu.om/adfs/services/trust": {
+            "en": "National Defense College"
+        },
+        "http://adfs.nu.edu.om/adfs/services/trust": {
+            "en": "National University of Science and Technology"
+        },
+        "http://adfs.otc.edu.om/adfs/services/trust": {
+            "en": "Oman Tourism College"
+        },
+        "http://adfs.sahamvtc.edu.om/adfs/services/trust": {
+            "en": "Saham Vocational College"
+        },
+        "http://adfs.sct.edu.om/adfs/services/trust": {
+            "en": "University of Technology and Applied Sciences - Salalah"
+        },
+        "http://adfs.seebvc.edu.om/adfs/services/trust": {
+            "en": "Seeb Vocational College"
+        },
+        "http://adfs.shct.edu.om/adfs/services/trust": {
+            "en": "University of Technology and Applied Science - Shinas"
+        },
+        "http://adfs.shinasvc.edu.om/adfs/services/trust": {
+            "en": "Shinas Vocational College"
+        },
+        "http://adfs.squ.edu.om/adfs/services/trust": {
+            "en": "Sultan Qaboos University"
+        },
+        "http://adfs.suc.edu.om/adfs/services/trust": {
+            "en": "Sur University College"
+        },
+        "http://adfs.svc.edu.om/adfs/services/trust": {
+            "en": "Salalah Vocational College"
+        },
+        "http://fs.css.edu.om/adfs/services/trust": {
+            "en": "College of Sharia Sciences"
+        },
+        "http://fs.trc.gov.om/adfs/services/trust": {
+            "en": "Research and Innovation Center"
+        },
+        "http://lync.mec.edu.om/adfs/services/trust": {
+            "en": "Middle East College"
+        },
+        "https://accounts.google.com/o/saml2?idpid=C02afc2g7": {
+            "en": "University of Technology and Applied Sciences"
+        },
+        "https://idp.act.edu.om/idp": {
+            "en": "University of Technology and Applied Sciences - Al Musanna (shibboleth)"
+        },
+        "https://idp.css.edu.om/idp": {
+            "en": "College of Shari'a Sciences (shibb)"
+        },
+        "https://idp.mec.edu.om/idp": {
+            "en": "Middle East College (shibboleth)"
+        },
+        "https://idp.met.gov.om/idp": {
+            "en": "Directorate General Of Meteorology"
+        },
+        "https://idp.nu.edu.om/idp": {
+            "en": "National University of Science and Technology (shibbloth)"
+        },
+        "https://idp.omren.om/idp": {
+            "en": "OMREN-shib"
+        },
+        "https://idp.sarh.om/idp": {
+            "en": "Sarh"
+        },
+        "https://idp.squ.edu.om/idp": {
+            "en": "Sultan Qaboos University (shibboleth)"
+        },
+        "https://idp.suc.edu.om/idp": {
+            "en": "Sur University College (shibb)"
+        },
+        "https://idp.unizwa.edu.om/idp": {
+            "en": "University of Nizwa(shibboleth)"
+        },
+        "https://idp.uob.edu.om/idp": {
+            "en": "University of Buraimi (shibboleth)"
+        },
+        "https://idp02.ibrict.edu.om/idp": {
+            "en": "University of Technology and Applied Science - Ibri (Shibboleth)"
+        },
+        "https://idpomren.gutech.edu.om/idp": {
+            "en": "German University of Technology in Oman - GUtech (Shibboleth)"
+        },
+        "https://idpomren.hct.edu.om/idp": {
+            "en": "University of Technology and Applied Sciences - Muscat (shibboleth)"
+        },
+        "https://idpomren.ict.edu.om/idp": {
+            "en": "University of technology and applied science, ibra (shibboleth)"
+        },
+        "https://idpomren.majancollege.edu.om/idp": {
+            "en": "Majan University College(shibboleth)"
+        },
+        "https://idpomren.moheri.edu.om/idp": {
+            "en": "Research and Education Center (Shibboleth)"
+        },
+        "https://idpomren.mtc.edu.om/idp": {
+            "en": "Military Technology College (shibboleth)"
+        },
+        "https://idpomren.muscatcollege.edu.om/idp": {
+            "en": "Muscat College (shibboleth)"
+        },
+        "https://idpomren.nct.edu.om/idp": {
+            "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
+        },
+        "https://idpomren.su.edu.om/idp": {
+            "en": "Sohar University (shibboleth)"
         }
     },
     "org": {

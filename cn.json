@@ -2039,6 +2039,10 @@
         "en": "Shenzhen University",
         "zh": "深圳大学(Shenzhen University)"
     },
+    "https://idp.taru.edu.cn/idp/shibboleth": {
+        "en": "TarimUniversity",
+        "zh": "塔里木大学(TarimUniversity)"
+    },
     "https://idp.tfswufe.edu.cn/idp/shibboleth": {
         "en": "Tianfu College of Southwest University of Finance and Economics",
         "zh": "西南财经大学天府学院(Tianfu College of Southwest University of Finance and Economics)"

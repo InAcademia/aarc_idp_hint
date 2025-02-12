@@ -1,4 +1,8 @@
 {
+    "https://login.armada.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Armada del Ecuador - armada",
+        "es": "Armada del Ecuador - armada"
+    },
     "https://login.caces.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces",
         "es": "Consejo de Aseguramiento de la Calidad de la Educación Superior - caces"
