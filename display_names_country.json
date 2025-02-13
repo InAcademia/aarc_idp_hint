@@ -752,10 +752,6 @@
         }
     },
     "br": {
-        "https://040cafe602.up.edu.br/idp/shibboleth": {
-            "en": "UP - Universidade Positivo",
-            "pt-br": "UP - Universidade Positivo"
-        },
         "https://1010se17fam-v18.famerp.br/idp/shibboleth": {
             "en": "FAMERP - Faculdade de Medicina de Rio Preto",
             "pt-br": "FAMERP - Faculdade de Medicina de Rio Preto"
@@ -2154,6 +2150,9 @@
         },
         "https://idp.stfx.ca/idp/shibboleth": {
             "en": "St. Francis Xavier University"
+        },
+        "https://idp.stmu.ca/idp": {
+            "en": "St. Mary’s University"
         },
         "https://idp.teluq.ca/saml-idp/saml2/idp/metadata.php": {
             "en": "TELUQ University",
@@ -11231,8 +11230,8 @@
             "hu": "Magyar Táncművészeti Egyetem"
         },
         "https://idp.niif.hu/shibboleth": {
-            "en": "Pro-M (Hungarian NREN)",
-            "hu": "Pro-M (Magyar NREN)"
+            "en": "ProM.hu (Hungarian NREN)",
+            "hu": "ProM.hu (Magyar NREN)"
         },
         "https://idp.nje.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Neumann Janos Egyetem",
@@ -13707,9 +13706,78 @@
         }
     },
     "lv": {
+        "https://du-idp.lanet.lv": {
+            "en": "Daugavpils University"
+        },
+        "https://id.lndb.lv": {
+            "en": "LNB"
+        },
+        "https://id2.rtu.lv:443/openam": {
+            "en": "Riga Technical University"
+        },
         "https://idp.laife.lv/saml-idp": {
             "en": "LAIFE (Latvian academic identity federation)",
             "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
+        },
+        "https://idp.llu.lv/idp/shibboleth": {
+            "en": "Latvia University of Agriculture"
+        },
+        "https://idp.rtu.lv": {
+            "en": "Riga Technical University (Office 365)"
+        },
+        "https://lanet-idp.lanet.lv": {
+            "en": "LANET"
+        },
+        "https://liepu-idp.lanet.lv": {
+            "en": "Liepaja University"
+        },
+        "https://lka-idp.lanet.lv": {
+            "en": "Latvian Academy of Culture"
+        },
+        "https://lkk-idp.lanet.lv": {
+            "en": "Latvian College of Culture at the Latvian Academy of Culture"
+        },
+        "https://lma-idp.lanet.lv": {
+            "en": "Art Academy of Latvia"
+        },
+        "https://lmuza-idp.lanet.lv": {
+            "en": "Latvian Academy of Music"
+        },
+        "https://lnna-idp.lanet.lv": {
+            "en": "National Defence Academy of Latvia"
+        },
+        "https://lu-idp.lu.lv": {
+            "en": "University of Latvia"
+        },
+        "https://lumii-idp.lanet.lv": {
+            "en": "Institute of Mathematics and Computer Science, University of Latvia"
+        },
+        "https://overleaf-idp.lu.lv": {
+            "en": "LU OverLeaf users IdP"
+        },
+        "https://psk-idp.lanet.lv": {
+            "en": "Pauls Stradins Medical College of the University of Latvia"
+        },
+        "https://ra-idp.lanet.lv": {
+            "en": "Rezekne Academy of Technologies"
+        },
+        "https://rja-idp.lanet.lv": {
+            "en": "Riga Graduate School of Law"
+        },
+        "https://rmk-idp.lanet.lv": {
+            "en": "Riga Medical College"
+        },
+        "https://skmms-idp.lanet.lv": {
+            "en": "Riga Red Cross Medical College"
+        },
+        "https://sse-idp.lanet.lv": {
+            "en": "Stockholm School of Economics in Riga"
+        },
+        "https://va-idp.lanet.lv": {
+            "en": "Vidzeme University of Applied Sciences"
+        },
+        "https://vea-idp.lanet.lv": {
+            "en": "Ventspils University College"
         }
     },
     "ma": {
@@ -14317,10 +14385,6 @@
             "en": "Hanze University of Applied Sciences",
             "nl": "Hanze"
         },
-        "http://adfs.hdh.nl/adfs/services/trust": {
-            "en": "Hotelschool The Hague",
-            "nl": "Hotelschool The Hague"
-        },
         "http://adfs.hetscheepvaartmuseum.nl/adfs/services/trust": {
             "en": "The National Maritime Museum",
             "nl": "Het Scheepvaartmuseum"
@@ -14780,6 +14844,10 @@
         "https://sts.windows.net/73d894c8-38d5-47ee-83e0-ddcbff33a602/": {
             "en": "Hogeschool IPABO (New)",
             "nl": "Hogeschool IPABO (Nieuw)"
+        },
+        "https://sts.windows.net/76fa7ce1-3aee-4a50-9446-7e4e352770e7/": {
+            "en": "Hotelschool The Hague",
+            "nl": "Hotelschool The Hague"
         },
         "https://sts.windows.net/76fd1191-d586-4fe3-8242-c0b1bba18f4f/": {
             "en": "Ter AA",

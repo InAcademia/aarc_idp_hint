@@ -152,8 +152,8 @@
         "hu": "Magyar Táncművészeti Egyetem"
     },
     "https://idp.niif.hu/shibboleth": {
-        "en": "Pro-M (Hungarian NREN)",
-        "hu": "Pro-M (Magyar NREN)"
+        "en": "ProM.hu (Hungarian NREN)",
+        "hu": "ProM.hu (Magyar NREN)"
     },
     "https://idp.nje.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Neumann Janos Egyetem",

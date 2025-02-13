@@ -35,10 +35,6 @@
         "en": "Hanze University of Applied Sciences",
         "nl": "Hanze"
     },
-    "http://adfs.hdh.nl/adfs/services/trust": {
-        "en": "Hotelschool The Hague",
-        "nl": "Hotelschool The Hague"
-    },
     "http://adfs.hetscheepvaartmuseum.nl/adfs/services/trust": {
         "en": "The National Maritime Museum",
         "nl": "Het Scheepvaartmuseum"
@@ -498,6 +494,10 @@
     "https://sts.windows.net/73d894c8-38d5-47ee-83e0-ddcbff33a602/": {
         "en": "Hogeschool IPABO (New)",
         "nl": "Hogeschool IPABO (Nieuw)"
+    },
+    "https://sts.windows.net/76fa7ce1-3aee-4a50-9446-7e4e352770e7/": {
+        "en": "Hotelschool The Hague",
+        "nl": "Hotelschool The Hague"
     },
     "https://sts.windows.net/76fd1191-d586-4fe3-8242-c0b1bba18f4f/": {
         "en": "Ter AA",

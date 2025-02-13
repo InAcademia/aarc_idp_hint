@@ -184,6 +184,9 @@
     "https://idp.stfx.ca/idp/shibboleth": {
         "en": "St. Francis Xavier University"
     },
+    "https://idp.stmu.ca/idp": {
+        "en": "St. Mary’s University"
+    },
     "https://idp.teluq.ca/saml-idp/saml2/idp/metadata.php": {
         "en": "TELUQ University",
         "fr": "Université TÉLUQ"
