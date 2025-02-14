@@ -13817,6 +13817,9 @@
         }
     },
     "mk": {
+        "https://idp.seeu.edu.mk": {
+            "en": "https://idp.seeu.edu.mk"
+        },
         "https://idp.ukim.mk/idp/shibboleth": {
             "en": "Ss. Cyril and Methodius University in Skopje"
         },
