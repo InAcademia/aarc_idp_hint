@@ -11,6 +11,10 @@
         "bg": "Университет по библиотекознание и информационни технологии.",
         "en": "University of Library Studies and Information technologies"
     },
+    "https://idp.au-plovdiv.bg/idp/shibboleth": {
+        "bg": "Аграрен Университет - Пловдив",
+        "en": "Agricultural University - Plovdiv"
+    },
     "https://idp.bas.bg/idp/shibboleth": {
         "bg": "Българска Академия на Науките",
         "en": "Bulgarian Academy of Science"
@@ -22,6 +26,10 @@
     "https://idp.cc.bas.bg/idp/shibboleth": {
         "bg": "Лабораторията по телематика",
         "en": "Laboratory of Telematics"
+    },
+    "https://idp.natfiz.bg:8888/idp/shibboleth": {
+        "bg": "Националната академия за театрално и филмово изкуство - Кръстьо Сарафов",
+        "en": "National Academy of Theater and Film Arts - Kr. Sarafov"
     },
     "https://idp.naval-acad.bg/idp/shibboleth": {
         "bg": "Висше военноморско училище \"Н. Й. Вапцаров\"",
