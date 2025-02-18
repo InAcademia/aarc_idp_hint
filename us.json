@@ -686,6 +686,9 @@
     "https://incommon.esu.edu/idp/shibboleth": {
         "en": "East Stroudsburg University of Pennsylvania"
     },
+    "https://incommon.uncw.edu/": {
+        "en": "University of North Carolina Wilmington"
+    },
     "https://infp-shib-01.uthct.edu/idp/shibboleth": {
         "en": "University of Texas Health Science Center At Tyler"
     },
