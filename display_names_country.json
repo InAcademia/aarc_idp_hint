@@ -760,6 +760,10 @@
         }
     },
     "br": {
+        "https://040cafe602.up.edu.br/idp/shibboleth": {
+            "en": "UP - Universidade Positivo",
+            "pt-br": "UP - Universidade Positivo"
+        },
         "https://1010se17fam-v18.famerp.br/idp/shibboleth": {
             "en": "FAMERP - Faculdade de Medicina de Rio Preto",
             "pt-br": "FAMERP - Faculdade de Medicina de Rio Preto"
@@ -9550,6 +9554,10 @@
             "en": "ISAE",
             "fr": "ISAE Institut Supérieur de l'Aéronautique et de l'Espace"
         },
+        "https://emauth.em-lyon.com/adfs/services/trust": {
+            "en": "emlyon business school",
+            "fr": "emlyon business school"
+        },
         "https://federation.ac-strasbourg.fr/idp/shibboleth": {
             "en": "Rectorat de Strasbourg",
             "fr": "Rectorat de Strasbourg"
@@ -10253,10 +10261,6 @@
         "https://idp3.mnhn.fr/idp/shibboleth": {
             "en": "Muséum National d'Histoire Naturelle (MNHN)",
             "fr": "Muséum National d'Histoire Naturelle (MNHN)"
-        },
-        "https://idp3.univ-avignon.fr/idp/shibboleth": {
-            "en": "Université d'Avignon",
-            "fr": "Université d'Avignon"
         },
         "https://idp3.univ-lorraine.fr/idp/shibboleth": {
             "en": "Université de Lorraine",
