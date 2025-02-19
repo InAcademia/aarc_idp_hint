@@ -135,10 +135,6 @@
         "en": "Nikhef",
         "nl": "Nikhef"
     },
-    "https://sts.hu.nl/adfs/services/trust": {
-        "en": "University of Applied Sciences Utrecht",
-        "nl": "Hogeschool Utrecht"
-    },
     "https://sts.windows.net/016a9e48-ba0b-49f4-97f8-a88352164e58/": {
         "en": "NHL Stenden University of Applied Sciences",
         "nl": "NHL Stenden Hogeschool"
@@ -262,6 +258,10 @@
     "https://sts.windows.net/9860fd9f-826f-475e-8862-6f2568a34e83/": {
         "en": "Driestar educatief",
         "nl": "Driestar educatief"
+    },
+    "https://sts.windows.net/98932909-9a5a-4d18-ace4-7236b5b5e11d/": {
+        "en": "University of Applied Sciences Utrecht (New)",
+        "nl": "Hogeschool Utrecht (Nieuw)"
     },
     "https://sts.windows.net/9a1651bf-58af-435b-86a8-3e9334b4b732/": {
         "en": "Royal Netherlands Institute for Sea Research (NIOZ)",
