@@ -6761,7 +6761,7 @@
         },
         "https://idp.hs-bochum.de/idp/shibboleth": {
             "de": "Hochschule Bochum",
-            "en": "Bochum University Of Applied Sciences"
+            "en": "Hochschule Bochum (University Of Applied Sciences)"
         },
         "https://idp.hs-bremen.de/idp/shibboleth": {
             "de": "Hochschule Bremen",
@@ -14336,7 +14336,8 @@
             "zh": "中国科学院文献情报中心"
         },
         "https://idp.redclara.net/saml2/idp/metadata.php": {
-            "en": "https://idp.redclara.net/saml2/idp/metadata.php"
+            "en": "RedCLARA (Proxy)",
+            "es": "RedCLARA (Proxy)"
         },
         "https://idp.scholarin.cn/idp/shibboleth": {
             "en": "Scholarin ID",
