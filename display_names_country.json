@@ -5211,10 +5211,6 @@
             "en": "Zhengzhou University of Aeronautics",
             "zh": "郑州航空工业管理学院(Zhengzhou University of Aeronautics)"
         },
-        "https://idp.zucc.edu.cn/idp/shibboleth": {
-            "en": "zhejiang university city college",
-            "zh": "浙大城市学院(zhejiang university city college)"
-        },
         "https://idp.zueb.edu.cn/idp/shibboleth": {
             "en": "Zhengzhou University of Economics and Business",
             "zh": "郑州经贸学院(Zhengzhou University of Economics and Business)"
@@ -12085,6 +12081,9 @@
         "https://idp.unigoa.ac.in/idp/shibboleth": {
             "en": "Goa University"
         },
+        "https://idp.unipune.ac.in/idp/shibboleth": {
+            "en": "Savitribai Phule Pune University"
+        },
         "https://idp.unishivaji.ac.in/idp/shibboleth": {
             "en": "Shivaji University"
         },
@@ -13135,6 +13134,10 @@
             "en": "Nagaoka University of Technology",
             "ja": "長岡技術科学大学"
         },
+        "https://iuhw.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "International University of Health and Welfare",
+            "ja": "国際医療福祉大学"
+        },
         "https://jaxagakunin.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "Japan Aerospace Exploration Agency",
             "ja": "宇宙航空研究開発機構"
@@ -13829,6 +13832,9 @@
         }
     },
     "mk": {
+        "https://idp-proxy.ugd.edu.mk": {
+            "en": "https://idp-proxy.ugd.edu.mk"
+        },
         "https://idp.seeu.edu.mk": {
             "en": "https://idp.seeu.edu.mk"
         },
@@ -15795,6 +15801,10 @@
         "https://idp.cairo.unl.pt/idp/shibboleth": {
             "en": "UNL - NOVA CAIRO",
             "pt": "UNL - NOVA CAIRO"
+        },
+        "https://idp.ceiia.com/idp/shibboleth": {
+            "en": "CEiiA – Centro de Engenharia e Desenvolvimento",
+            "pt": "CEiiA – Centro de Engenharia e Desenvolvimento"
         },
         "https://idp.cespu.pt/idp/shibboleth": {
             "en": "CESPU - Cooperativa de Ensino Superior Politécnico e Universitário",
@@ -20431,9 +20441,6 @@
         },
         "https://idp.tcu.edu/idp": {
             "en": "Texas Christian University"
-        },
-        "https://idp.touro.edu/idp/shibboleth": {
-            "en": "Touro College"
         },
         "https://idp.tulane.edu/idp/shibboleth": {
             "en": "Tulane University"

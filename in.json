@@ -545,6 +545,9 @@
     "https://idp.unigoa.ac.in/idp/shibboleth": {
         "en": "Goa University"
     },
+    "https://idp.unipune.ac.in/idp/shibboleth": {
+        "en": "Savitribai Phule Pune University"
+    },
     "https://idp.unishivaji.ac.in/idp/shibboleth": {
         "en": "Shivaji University"
     },

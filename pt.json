@@ -51,6 +51,10 @@
         "en": "UNL - NOVA CAIRO",
         "pt": "UNL - NOVA CAIRO"
     },
+    "https://idp.ceiia.com/idp/shibboleth": {
+        "en": "CEiiA – Centro de Engenharia e Desenvolvimento",
+        "pt": "CEiiA – Centro de Engenharia e Desenvolvimento"
+    },
     "https://idp.cespu.pt/idp/shibboleth": {
         "en": "CESPU - Cooperativa de Ensino Superior Politécnico e Universitário",
         "pt": "CESPU - Cooperativa de Ensino Superior Politécnico e Universitário"
