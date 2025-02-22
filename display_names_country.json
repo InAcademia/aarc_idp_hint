@@ -9918,10 +9918,6 @@
             "en": "Toulouse INP - Institut National Polytechnique de Toulouse",
             "fr": "Toulouse INP - Institut National Polytechnique de Toulouse"
         },
-        "https://idp.inra.fr/idp/shibboleth": {
-            "en": "INRA - Institut National de la Recherche Agronomique",
-            "fr": "INRA - Institut National de la Recherche Agronomique"
-        },
         "https://idp.insa-rennes.fr/idp/shibboleth": {
             "en": "INSA Rennes",
             "fr": "INSA Rennes"
@@ -21215,9 +21211,6 @@
         },
         "https://ssosw.losrios.edu/idp/shibboleth": {
             "en": "Los Rios Single Sign On"
-        },
-        "https://thelonious.campusguard.com/idp/shibboleth": {
-            "en": "Merchant Preservation Services"
         },
         "https://ucanridp.ucanr.edu/idp/shibboleth": {
             "en": "University of California, Agriculture and Natural Resources"
