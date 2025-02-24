@@ -195,10 +195,6 @@
         "en": "PUCPR - Pontificia Universidade Catolica do Parana",
         "pt-br": "PUCPR - Pontificia Universidade Catolica do Parana"
     },
-    "https://cafe.saude.gov.br/idp/shibboleth": {
-        "en": "MS - Ministerio da Saude",
-        "pt-br": "MS - Ministerio da Saude"
-    },
     "https://cafe.sede.embrapa.br/idp/shibboleth": {
         "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
         "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"

@@ -956,10 +956,6 @@
             "en": "PUCPR - Pontificia Universidade Catolica do Parana",
             "pt-br": "PUCPR - Pontificia Universidade Catolica do Parana"
         },
-        "https://cafe.saude.gov.br/idp/shibboleth": {
-            "en": "MS - Ministerio da Saude",
-            "pt-br": "MS - Ministerio da Saude"
-        },
         "https://cafe.sede.embrapa.br/idp/shibboleth": {
             "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
             "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
@@ -2675,6 +2671,10 @@
             "en": "Guangzhou University",
             "zh": "广州大学(Guangzhou University)"
         },
+        "https://idp-lib.hbmu.edu.cn/idp/shibboleth": {
+            "en": "Hubei University of Medicine",
+            "zh": "湖北医药学院(Hubei University of Medicine)"
+        },
         "https://idp-lib.hlju.edu.cn/idp/shibboleth": {
             "en": "Heilongjiang University",
             "zh": "黑龙江大学(Heilongjiang University)"
@@ -3162,10 +3162,6 @@
         "https://idp.cqupt.edu.cn/idp/shibboleth": {
             "en": "Chongqing University of Posts and Telecommunications",
             "zh": "重庆邮电大学(Chongqing University of Posts and Telecommunications)"
-        },
-        "https://idp.cqut.edu.cn/idp/shibboleth": {
-            "en": "Chongqing University of Technology",
-            "zh": "重庆理工大学(Chongqing University of Technology)"
         },
         "https://idp.cqwu.edu.cn/idp/shibboleth": {
             "en": "Chongqing University of Arts and Sciences",
@@ -3711,10 +3707,6 @@
             "en": "HeFei Technological College",
             "zh": "合肥职业技术学院(HeFei Technological College)"
         },
-        "https://idp.htu.edu.cn/idp/shibboleth": {
-            "en": "Henan Normal University",
-            "zh": "河南师范大学(Henan Normal University)"
-        },
         "https://idp.huanghuai.edu.cn/idp/shibboleth": {
             "en": "Huanghuai University",
             "zh": "黄淮学院(Huanghuai University)"
@@ -3871,6 +3863,10 @@
             "en": "Jiangsu Vocational Institute of Architectural Technology",
             "zh": "江苏建筑职业技术学院(Jiangsu Vocational Institute of Architectural Technology)"
         },
+        "https://idp.jxnhu.edu.cn/idp/shibboleth": {
+            "en": "Jiaxing Nanhu University",
+            "zh": "嘉兴南湖学院(Jiaxing Nanhu University)"
+        },
         "https://idp.jxnyi.edu.cn/idp/shibboleth": {
             "en": "Jiaxing Nanyang Polytechnic Institute",
             "zh": "嘉兴南洋职业技术学院(Jiaxing Nanyang Polytechnic Institute)"
@@ -3962,10 +3958,6 @@
         "https://idp.lnutcm.edu.cn/idp/shibboleth": {
             "en": "Liaoning University of Traditional Chinese Medicine",
             "zh": "辽宁中医药大学(Liaoning University of Traditional Chinese Medicine)"
-        },
-        "https://idp.lsnu.edu.cn/idp/shibboleth": {
-            "en": "LeShan Normal University",
-            "zh": "乐山师范学院(LeShan Normal University)"
         },
         "https://idp.lsu.edu.cn/idp/shibboleth": {
             "en": "Lishui University",
