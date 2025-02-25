@@ -95,6 +95,9 @@
     "https://idp.bvuict.in/idp/shibboleth": {
         "en": "Bharati Vidyapeeth University,Pune"
     },
+    "https://idp.caluniv.ac.in/idp/shibboleth": {
+        "en": "University of Calcutta"
+    },
     "https://idp.cept.ac.in/idp/shibboleth": {
         "en": "CEPT University"
     },

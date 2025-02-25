@@ -307,10 +307,6 @@
         "en": "Netherlands eScience Center",
         "nl": "Netherlands eScience Center"
     },
-    "https://secure.ahk.nl/nidp/saml2/metadata": {
-        "en": "Amsterdam University of the Arts (Old)",
-        "nl": "Amsterdamse Hogeschool voor de Kunsten (Oud)"
-    },
     "https://signon.rug.nl/nidp/saml2/metadata": {
         "en": "University of Groningen",
         "nl": "Rijksuniversiteit Groningen"

@@ -60,8 +60,8 @@
         "sv": "Konstfack - eduID"
     },
     "https://connect.eduid.se/sunet": {
-        "en": "SUNET - Connect",
-        "sv": "SUNET - Connect"
+        "en": "Sunet",
+        "sv": "Sunet"
     },
     "https://idp-v2.konstfack.se/adfs/services/trust": {
         "en": "Konstfack - University account",

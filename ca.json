@@ -140,9 +140,6 @@
     "https://idp.bc.net/idp/shibboleth": {
         "en": "BCNET"
     },
-    "https://idp.camosun.ca/idp/shibboleth": {
-        "en": "Camosun College (old)"
-    },
     "https://idp.canarie.ca/idp/shibboleth": {
         "en": "CANARIE"
     },
