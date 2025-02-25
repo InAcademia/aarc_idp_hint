@@ -11,3 +11,6 @@ Institutions will sometimes change the technical infrastructure InAcademia relie
 In the event that a merchant request includes a stale or invalid IdP hint, the session will redirect to the merchant redirect_uri.
 
 Please refer to https://inacademia.org/oidc-implementation-for-inacademia/ and https://inacademia.org/inacademia-implementation-guidelines/ for more information on implementation, features, design and desired behaviours.
+
+# Permitted use
+This content may only be utilised by organisations in posession of an executed service agreement to access InAcademia
