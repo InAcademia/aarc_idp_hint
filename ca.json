@@ -91,9 +91,6 @@
         "en": "École nationale d'administration publique",
         "fr": "École nationale d'administration publique"
     },
-    "https://auth.kpu.ca/idp/shibboleth": {
-        "en": "Kwantlen Polytechnic University"
-    },
     "https://authentication.ubc.ca": {
         "en": "University of British Columbia"
     },
@@ -161,7 +158,7 @@
         "en": "University of Guelph"
     },
     "https://idp.inrs.ca/idp": {
-        "en": "https://idp.inrs.ca/idp"
+        "en": "Institut national de la recherche scientifique (INRS)"
     },
     "https://idp.lakeheadu.ca/idp/shibboleth": {
         "en": "Lakehead University"
@@ -196,9 +193,6 @@
     },
     "https://idp.unb.ca/idp/shibboleth": {
         "en": "University of New Brunswick"
-    },
-    "https://idp.upei.ca/idp/shibboleth": {
-        "en": "University of Prince Edward Island"
     },
     "https://idp.uqam.ca/idp/shibboleth": {
         "en": "UQAM | Université du Québec à Montréal",

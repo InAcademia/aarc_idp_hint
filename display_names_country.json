@@ -1468,6 +1468,10 @@
             "en": "UNIR - Fundacao Universidade Federal de Rondonia",
             "pt-br": "UNIR - Fundacao Universidade Federal de Rondonia"
         },
+        "https://idp.unirv.edu.br/idp/shibboleth": {
+            "en": "UNIRV - Universidade de Rio Verde",
+            "pt-br": "UNIRV - Universidade de Rio Verde"
+        },
         "https://idp.unis.edu.br/idp/shibboleth": {
             "en": "UNIS - Centro Universitario do Sul de Minas",
             "pt-br": "UNIS - Centro Universitario do Sul de Minas"
@@ -2066,9 +2070,6 @@
             "en": "École nationale d'administration publique",
             "fr": "École nationale d'administration publique"
         },
-        "https://auth.kpu.ca/idp/shibboleth": {
-            "en": "Kwantlen Polytechnic University"
-        },
         "https://authentication.ubc.ca": {
             "en": "University of British Columbia"
         },
@@ -2136,7 +2137,7 @@
             "en": "University of Guelph"
         },
         "https://idp.inrs.ca/idp": {
-            "en": "https://idp.inrs.ca/idp"
+            "en": "Institut national de la recherche scientifique (INRS)"
         },
         "https://idp.lakeheadu.ca/idp/shibboleth": {
             "en": "Lakehead University"
@@ -2171,9 +2172,6 @@
         },
         "https://idp.unb.ca/idp/shibboleth": {
             "en": "University of New Brunswick"
-        },
-        "https://idp.upei.ca/idp/shibboleth": {
-            "en": "University of Prince Edward Island"
         },
         "https://idp.uqam.ca/idp/shibboleth": {
             "en": "UQAM | Université du Québec à Montréal",
@@ -2672,6 +2670,10 @@
             "en": "Hubei University of Medicine",
             "zh": "湖北医药学院(Hubei University of Medicine)"
         },
+        "https://idp-lib.hifa.edu.cn/idp/shibboleth": {
+            "en": "Hubei Institute of Fine Arts",
+            "zh": "湖北美术学院(Hubei Institute of Fine Arts)"
+        },
         "https://idp-lib.hlju.edu.cn/idp/shibboleth": {
             "en": "Heilongjiang University",
             "zh": "黑龙江大学(Heilongjiang University)"
@@ -2884,10 +2886,6 @@
             "en": "Anhui University",
             "zh": "安徽大学(Anhui University)"
         },
-        "https://idp.ahut.edu.cn/idp/shibboleth": {
-            "en": "Anhui University of Technology",
-            "zh": "安徽工业大学(Anhui University of Technology)"
-        },
         "https://idp.aiit.edu.cn/idp/shibboleth": {
             "en": "Anhui Institute of Information Technology",
             "zh": "安徽信息工程学院(Anhui Institute of Information Technology)"
@@ -2967,6 +2965,10 @@
         "https://idp.bjtu.edu.cn/idp/shibboleth": {
             "en": "BEIJING JIAOTONG UNIVERSITY",
             "zh": "北京交通大学(BEIJING JIAOTONG UNIVERSITY)"
+        },
+        "https://idp.bsu.edu.cn/idp/shibboleth": {
+            "en": "Beijing Sport  University",
+            "zh": "北京体育大学(Beijing Sport  University)"
         },
         "https://idp.btmc.edu.cn/idp/shibboleth": {
             "en": "Baotou Medical College",
@@ -3740,6 +3742,10 @@
             "en": "Huazhong University of Science and Technology",
             "zh": "华中科技大学(Huazhong University of Science and Technology)"
         },
+        "https://idp.hxxy.edu.cn/idp/shibboleth": {
+            "en": "Xiamen Huaxia University",
+            "zh": "厦门华厦学院(Xiamen Huaxia University)"
+        },
         "https://idp.hyit.edu.cn/idp/shibboleth": {
             "en": "Huaiyin Institute of Technology",
             "zh": "淮阴工学院(Huaiyin Institute of Technology)"
@@ -3751,6 +3757,10 @@
         "https://idp.hzau.edu.cn/idp/shibboleth": {
             "en": "Huazhong Agricultural University",
             "zh": "华中农业大学(Huazhong Agricultural University)"
+        },
+        "https://idp.hzcu.edu.cn/idp/shibboleth": {
+            "en": "Hangzhou City University",
+            "zh": "浙大城市学院(Hangzhou City University)"
         },
         "https://idp.hzhsp.edu.cn/idp/shibboleth": {
             "en": "Huizhou Health Sciences Polytechnic",
@@ -4391,6 +4401,10 @@
         "https://idp.sdutcm.edu.cn/idp/shibboleth": {
             "en": "Shandong University of Traditional Chinese Medicine",
             "zh": "山东中医药大学(Shandong University of Traditional Chinese Medicine)"
+        },
+        "https://idp.sdvcst.edu.cn/idp/shibboleth": {
+            "en": "Shandong Vocational College of Science&Technology",
+            "zh": "山东科技职业学院(Shandong Vocational College of Science&Technology)"
         },
         "https://idp.sdwm.edu.cn/idp/shibboleth": {
             "en": "Shandong Foreign Trade Vocational College",
@@ -5080,6 +5094,10 @@
             "en": "Shaoxing University Yuanpei College",
             "zh": "绍兴文理学院元培学院(Shaoxing University Yuanpei College)"
         },
+        "https://idp.ypi.edu.cn/idp/shibboleth": {
+            "en": "Yangzhou Polytechnic Institute",
+            "zh": "扬州工业职业技术学院(Yangzhou Polytechnic Institute)"
+        },
         "https://idp.yrcti.edu.cn/idp/shibboleth": {
             "en": "Yellow River Conservancy Technical Institute",
             "zh": "黄河水利职业技术学院(Yellow River Conservancy Technical Institute)"
@@ -5319,10 +5337,6 @@
         "https://jaccount.sjtu.edu.cn/idp/shibboleth": {
             "en": "Shanghai Jiao Tong University",
             "zh": "上海交通大学(Shanghai Jiao Tong University)"
-        },
-        "https://libidp.niit.edu.cn/idp/shibboleth": {
-            "en": "Nanjing Vocational University of Industry Technology",
-            "zh": "南京工业职业技术大学(Nanjing Vocational University of Industry Technology)"
         },
         "https://libidp.nufe.edu.cn/idp/shibboleth": {
             "en": "Nanjing University of Finance & Economics",
@@ -9508,8 +9522,8 @@
             "fr": "Rectorat de la Martinique"
         },
         "https://cas.esigelec.fr/cas/idp": {
-            "en": "Idp Esigelec",
-            "fr": "Idp Esigelec"
+            "en": "Esigelec",
+            "fr": "Esigelec"
         },
         "https://cas.st-cyr.terre.defense.gouv.fr/idp/shibboleth": {
             "en": "Académie militaire de Saint-Cyr Coëtquidan",
