@@ -83,10 +83,6 @@
         "en": "CROUS Strasbourg V3",
         "fr": "CROUS Strasbourg V3"
     },
-    "https://auth.enit.fr/saml/metadata": {
-        "en": "ENIT Ecole Nationale Ingénieurs Tarbes",
-        "fr": "ENIT Ecole Nationale Ingénieurs Tarbes"
-    },
     "https://auth.id.sorbonne-universite.fr/saml/metadata": {
         "en": "Sorbonne University",
         "fr": "Sorbonne Université"

@@ -1295,10 +1295,6 @@
         "en": "Jiangxi University of Science and Technology",
         "zh": "江西理工大学(Jiangxi University of Science and Technology)"
     },
-    "https://idp.jxutcm.edu.cn/idp/shibboleth": {
-        "en": "Jiangxi University of Traditional Chinese Medicine",
-        "zh": "江西中医药大学(Jiangxi University of Traditional Chinese Medicine)"
-    },
     "https://idp.jxvtc.edu.cn/idp/shibboleth": {
         "en": "Jiaxing Vocational & Technical College",
         "zh": "嘉兴职业技术学院(Jiaxing Vocational & Technical College)"
@@ -2754,6 +2750,10 @@
     "https://jaccount.sjtu.edu.cn/idp/shibboleth": {
         "en": "Shanghai Jiao Tong University",
         "zh": "上海交通大学(Shanghai Jiao Tong University)"
+    },
+    "https://libidp.cjlu.edu.cn/idp/shibboleth": {
+        "en": "China JiLiang University",
+        "zh": "中国计量大学(China JiLiang University)"
     },
     "https://libidp.nufe.edu.cn/idp/shibboleth": {
         "en": "Nanjing University of Finance & Economics",

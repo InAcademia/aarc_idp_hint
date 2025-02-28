@@ -1532,7 +1532,7 @@
             "en": "UEPG - Universidade Estadual de Ponta Grossa",
             "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
         },
-        "https://idp59.furb.br/idp/shibboleth": {
+        "https://idp60.furb.br/idp/shibboleth": {
             "en": "FURB - Fundacao Universidade Regional de Blumenau",
             "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
         },
@@ -3890,10 +3890,6 @@
             "en": "Jiangxi University of Science and Technology",
             "zh": "江西理工大学(Jiangxi University of Science and Technology)"
         },
-        "https://idp.jxutcm.edu.cn/idp/shibboleth": {
-            "en": "Jiangxi University of Traditional Chinese Medicine",
-            "zh": "江西中医药大学(Jiangxi University of Traditional Chinese Medicine)"
-        },
         "https://idp.jxvtc.edu.cn/idp/shibboleth": {
             "en": "Jiaxing Vocational & Technical College",
             "zh": "嘉兴职业技术学院(Jiaxing Vocational & Technical College)"
@@ -5349,6 +5345,10 @@
         "https://jaccount.sjtu.edu.cn/idp/shibboleth": {
             "en": "Shanghai Jiao Tong University",
             "zh": "上海交通大学(Shanghai Jiao Tong University)"
+        },
+        "https://libidp.cjlu.edu.cn/idp/shibboleth": {
+            "en": "China JiLiang University",
+            "zh": "中国计量大学(China JiLiang University)"
         },
         "https://libidp.nufe.edu.cn/idp/shibboleth": {
             "en": "Nanjing University of Finance & Economics",
@@ -9488,10 +9488,6 @@
         "https://auth.crous-strasbourg.fr/idp/shibboleth": {
             "en": "CROUS Strasbourg V3",
             "fr": "CROUS Strasbourg V3"
-        },
-        "https://auth.enit.fr/saml/metadata": {
-            "en": "ENIT Ecole Nationale Ingénieurs Tarbes",
-            "fr": "ENIT Ecole Nationale Ingénieurs Tarbes"
         },
         "https://auth.id.sorbonne-universite.fr/saml/metadata": {
             "en": "Sorbonne University",
@@ -16258,6 +16254,10 @@
             "en": "University of Belgrade for Erasmus",
             "sr": "Univerzitet u Beogradu za Erazmus"
         },
+        "https://idp.chem.bg.ac.rs/idp/shibboleth": {
+            "en": "University of Belgrade - Faculty of Chemistry",
+            "sr": "Univerzitet u Beogradu - Hemijski fakultet"
+        },
         "https://idp.fil.bg.ac.rs/idp/shibboleth": {
             "en": "Faculty of Philology. University of Belgrade",
             "sr": "Filoloski fakultet Univerziteta u Beogradu"
@@ -20005,6 +20005,9 @@
         "https://awsanubis.ringling.edu/idp/shibboleth": {
             "en": "Ringling College of Art and Design"
         },
+        "https://campusguard.com/idp": {
+            "en": "CampusGuard's Customer Compliance Portal"
+        },
         "https://cas.auth.sc.edu/cas/idp": {
             "en": "University of South Carolina - CAS"
         },
@@ -20553,9 +20556,6 @@
         },
         "https://incommon.esu.edu/idp/shibboleth": {
             "en": "East Stroudsburg University of Pennsylvania"
-        },
-        "https://incommon.uncw.edu/": {
-            "en": "University of North Carolina Wilmington"
         },
         "https://infp-shib-01.uthct.edu/idp/shibboleth": {
             "en": "University of Texas Health Science Center At Tyler"
@@ -21180,6 +21180,9 @@
         },
         "https://sso.unco.edu/idp": {
             "en": "University of Northern Colorado"
+        },
+        "https://sso.uncw.edu/idp": {
+            "en": "University of North Carolina -  Wilmington"
         },
         "https://sso.union.edu/idp/shibboleth": {
             "en": "Union College"

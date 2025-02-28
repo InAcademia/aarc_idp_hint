@@ -134,6 +134,9 @@
     "https://awsanubis.ringling.edu/idp/shibboleth": {
         "en": "Ringling College of Art and Design"
     },
+    "https://campusguard.com/idp": {
+        "en": "CampusGuard's Customer Compliance Portal"
+    },
     "https://cas.auth.sc.edu/cas/idp": {
         "en": "University of South Carolina - CAS"
     },
@@ -682,9 +685,6 @@
     },
     "https://incommon.esu.edu/idp/shibboleth": {
         "en": "East Stroudsburg University of Pennsylvania"
-    },
-    "https://incommon.uncw.edu/": {
-        "en": "University of North Carolina Wilmington"
     },
     "https://infp-shib-01.uthct.edu/idp/shibboleth": {
         "en": "University of Texas Health Science Center At Tyler"
@@ -1309,6 +1309,9 @@
     },
     "https://sso.unco.edu/idp": {
         "en": "University of Northern Colorado"
+    },
+    "https://sso.uncw.edu/idp": {
+        "en": "University of North Carolina -  Wilmington"
     },
     "https://sso.union.edu/idp/shibboleth": {
         "en": "Union College"

@@ -15,6 +15,10 @@
         "en": "University of Belgrade for Erasmus",
         "sr": "Univerzitet u Beogradu za Erazmus"
     },
+    "https://idp.chem.bg.ac.rs/idp/shibboleth": {
+        "en": "University of Belgrade - Faculty of Chemistry",
+        "sr": "Univerzitet u Beogradu - Hemijski fakultet"
+    },
     "https://idp.fil.bg.ac.rs/idp/shibboleth": {
         "en": "Faculty of Philology. University of Belgrade",
         "sr": "Filoloski fakultet Univerziteta u Beogradu"
