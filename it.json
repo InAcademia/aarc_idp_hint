@@ -352,6 +352,10 @@
         "en": "Fondazione Bruno Kessler",
         "it": "Fondazione Bruno Kessler"
     },
+    "https://idp.hunimed.eu/idp/shibboleth": {
+        "en": "Humanitas University",
+        "it": "Humanitas University"
+    },
     "https://idp.ictp.it/simplesaml/saml2/idp/metadata.php": {
         "en": "The Abdus Salam International Centre for Theoretical Physics (ICTP)",
         "it": "The Abdus Salam International Centre for Theoretical Physics (ICTP)"

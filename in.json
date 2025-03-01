@@ -431,6 +431,9 @@
     "https://idp.pmulibrary.org/idp/shibboleth": {
         "en": "Periyar Maniammai Institute of Science and Technology"
     },
+    "https://idp.presiuniv.ac.in/idp/shibboleth": {
+        "en": "Presidency University"
+    },
     "https://idp.psgitech.ac.in/idp/shibboleth": {
         "en": "PSG Institute of Technology and Applied Research (PSG iTech)"
     },

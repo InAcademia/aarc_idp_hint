@@ -1027,6 +1027,10 @@
         "en": "Hohai University",
         "zh": "河海大学(Hohai University)"
     },
+    "https://idp.hist.edu.cn/idp/shibboleth": {
+        "en": "Henan Institute of Science and Technology",
+        "zh": "河南科技学院(Henan Institute of Science and Technology)"
+    },
     "https://idp.hit.edu.cn/idp/shibboleth": {
         "en": "Harbin Institute of Technology",
         "zh": "哈尔滨工业大学(Harbin Institute of Technology)"
@@ -1111,6 +1115,10 @@
         "en": "HeFei Technological College",
         "zh": "合肥职业技术学院(HeFei Technological College)"
     },
+    "https://idp.htu.edu.cn/idp/shibboleth": {
+        "en": "Henan Normal University",
+        "zh": "河南师范大学(Henan Normal University)"
+    },
     "https://idp.huanghuai.edu.cn/idp/shibboleth": {
         "en": "Huanghuai University",
         "zh": "黄淮学院(Huanghuai University)"
@@ -1142,6 +1150,10 @@
     "https://idp.hust.edu.cn/idp/shibboleth": {
         "en": "Huazhong University of Science and Technology",
         "zh": "华中科技大学(Huazhong University of Science and Technology)"
+    },
+    "https://idp.huuc.edu.cn/idp/shibboleth": {
+        "en": "Henan Unviersity of Urban Construction",
+        "zh": "河南城建学院(Henan Unviersity of Urban Construction)"
     },
     "https://idp.hxxy.edu.cn/idp/shibboleth": {
         "en": "Xiamen Huaxia University",
@@ -1267,13 +1279,13 @@
         "en": "Jiangsu College Of Nursing",
         "zh": "江苏护理职业学院(Jiangsu College Of Nursing)"
     },
+    "https://idp.jshvc.edu.cn/idp/shibboleth": {
+        "en": "Jiangsu Health Vocational College",
+        "zh": "江苏卫生健康职业学院(Jiangsu Health Vocational College)"
+    },
     "https://idp.jsit.edu.cn/idp/shibboleth": {
         "en": "Jiangsu Vocational College of Information Technology",
         "zh": "江苏信息职业技术学院(Jiangsu Vocational College of Information Technology)"
-    },
-    "https://idp.jsviat.edu.cn/idp/shibboleth": {
-        "en": "Jiangsu Vocational Institute of Architectural Technology",
-        "zh": "江苏建筑职业技术学院(Jiangsu Vocational Institute of Architectural Technology)"
     },
     "https://idp.jxnhu.edu.cn/idp/shibboleth": {
         "en": "Jiaxing Nanhu University",
@@ -1294,6 +1306,10 @@
     "https://idp.jxust.edu.cn/idp/shibboleth": {
         "en": "Jiangxi University of Science and Technology",
         "zh": "江西理工大学(Jiangxi University of Science and Technology)"
+    },
+    "https://idp.jxutcm.edu.cn/idp/shibboleth": {
+        "en": "Jiangxi University of Chinese Medicine",
+        "zh": "江西中医药大学(Jiangxi University of Chinese Medicine)"
     },
     "https://idp.jxvtc.edu.cn/idp/shibboleth": {
         "en": "Jiaxing Vocational & Technical College",
@@ -1442,6 +1458,10 @@
     "https://idp.nau.edu.cn/idp/shibboleth": {
         "en": "Nanjing Audit University",
         "zh": "南京审计大学(Nanjing Audit University)"
+    },
+    "https://idp.nbt.edu.cn/idp/shibboleth": {
+        "en": "NingboTech University",
+        "zh": "浙大宁波理工学院(NingboTech University)"
     },
     "https://idp.nbu.edu.cn/idp/shibboleth": {
         "en": "Ningbo University",
@@ -1670,10 +1690,6 @@
     "https://idp.qhavtc.edu.cn/idp/shibboleth": {
         "en": "Qinghai College of Architectural Technology",
         "zh": "青海建筑职业技术学院(Qinghai College of Architectural Technology)"
-    },
-    "https://idp.qhnu.edu.cn/idp/shibboleth": {
-        "en": "Qinghai Normal University",
-        "zh": "青海师范大学(Qinghai Normal University )"
     },
     "https://idp.qhu.edu.cn/idp/shibboleth": {
         "en": "Qinghai University",
@@ -2243,6 +2259,10 @@
         "en": "Wuhu Institute of Technology",
         "zh": "芜湖职业技术学院(Wuhu Institute of Technology)"
     },
+    "https://idp.whmc.edu.cn/idp/shibboleth": {
+        "en": "Wuhan University of Communication",
+        "zh": "武汉传媒学院(Wuhan University of Communication)"
+    },
     "https://idp.whpa.edu.cn/idp/shibboleth": {
         "en": "Wuhan Police Vocational College",
         "zh": "武汉警官职业学院(Wuhan Police Vocational College)"
@@ -2582,6 +2602,10 @@
     "https://idp.zjou.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Ocean University",
         "zh": "浙江海洋大学(Zhejiang Ocean University)"
+    },
+    "https://idp.zjpu.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Pharmaceutical University",
+        "zh": "浙江药科职业大学(Zhejiang Pharmaceutical University)"
     },
     "https://idp.zjsru.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Shuren University",
