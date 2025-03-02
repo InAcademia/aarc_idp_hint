@@ -16370,6 +16370,9 @@
         "http://fs.ut.edu.sa/adfs/services/trust": {
             "en": "University of Tabuk"
         },
+        "http://iauauth.iau.edu.sa/adfs/services/trust": {
+            "en": "Imam Abdulrahman Bin Faisal University"
+        },
         "http://idm.sr.edu.sa/adfs/services/trust": {
             "en": "Sulaiman Alrajhi University"
         },
@@ -16411,9 +16414,6 @@
         },
         "https://mysso.kku.edu.sa/idp": {
             "en": "King Khalid University"
-        },
-        "https://udsts.ud.edu.sa/adfs/services/trust": {
-            "en": "Imam Abdulrahman Bin Faisal University"
         }
     },
     "se": {
