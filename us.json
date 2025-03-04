@@ -135,7 +135,7 @@
         "en": "Ringling College of Art and Design"
     },
     "https://campusguard.com/idp": {
-        "en": "CampusGuard's Customer Compliance Portal"
+        "en": "CampusGuard LLC"
     },
     "https://cas.auth.sc.edu/cas/idp": {
         "en": "University of South Carolina - CAS"
@@ -1311,7 +1311,7 @@
         "en": "University of Northern Colorado"
     },
     "https://sso.uncw.edu/idp": {
-        "en": "University of North Carolina -  Wilmington"
+        "en": "University of North Carolina Wilmington"
     },
     "https://sso.union.edu/idp/shibboleth": {
         "en": "Union College"

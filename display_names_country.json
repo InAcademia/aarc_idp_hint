@@ -661,7 +661,7 @@
             "fr": "Institut royal d'Aéronomie Spatiale de Belgique"
         },
         "https://secure-acc.etnic.be/nidp/saml2/metadata": {
-            "en": "MFWB"
+            "en": "FWB-Validation"
         },
         "https://secure.etnic.be/nidp/saml2/metadata": {
             "en": "FWB"
@@ -3034,10 +3034,6 @@
             "en": "Chongqing College of International Business and Economics",
             "zh": "重庆对外经贸学院(Chongqing College of International Business and Economics)"
         },
-        "https://idp.ccit.edu.cn/idp/shibboleth": {
-            "en": "Changchun Institute of Technology",
-            "zh": "长春工程学院(Changchun Institute of Technology)"
-        },
         "https://idp.ccmc.edu.cn/idp/shibboleth": {
             "en": "Changchun Medical College",
             "zh": "长春医学高等专科学校(Changchun Medical College)"
@@ -3493,6 +3489,10 @@
         "https://idp.hactcm.edu.cn/idp/shibboleth": {
             "en": "Henan University of Chinese Medicine",
             "zh": "河南中医药大学(Henan University of Chinese Medicine)"
+        },
+        "https://idp.hafu.edu.cn/idp/shibboleth": {
+            "en": "Henan Finance University",
+            "zh": "河南财政金融学院(Henan Finance University)"
         },
         "https://idp.hainanu.edu.cn/idp/shibboleth": {
             "en": "Hainan University",
@@ -4306,6 +4306,10 @@
             "en": "Qinghai College of Architectural Technology",
             "zh": "青海建筑职业技术学院(Qinghai College of Architectural Technology)"
         },
+        "https://idp.qhnu.edu.cn/idp/shibboleth": {
+            "en": "Qinghai Normal University",
+            "zh": "青海师范大学(Qinghai Normal University)"
+        },
         "https://idp.qhu.edu.cn/idp/shibboleth": {
             "en": "Qinghai University",
             "zh": "青海大学(Qinghai University)"
@@ -4461,10 +4465,6 @@
         "https://idp.sdycu.edu.cn/idp/shibboleth": {
             "en": "Shandong Yingcai University",
             "zh": "山东英才学院(Shandong Yingcai University)"
-        },
-        "https://idp.sdyu.edu.cn/idp/shibboleth": {
-            "en": "ShanDong Youth University of Ploitical Science",
-            "zh": "山东青年政治学院(ShanDong Youth University of Ploitical Science)"
         },
         "https://idp.seu.edu.cn/idp/shibboleth": {
             "en": "Southeast University",
@@ -4906,10 +4906,6 @@
             "en": "Wuhan Vocational College of Software and Engineering",
             "zh": "武汉软件工程职业学院(Wuhan Vocational College of Software and Engineering)"
         },
-        "https://idp.wit.edu.cn/idp/shibboleth": {
-            "en": "Wuhan Institute of Technology",
-            "zh": "武汉工程大学(Wuhan Institute of Technology)"
-        },
         "https://idp.wmu.edu.cn/idp/shibboleth": {
             "en": "Wenzhou Medical University",
             "zh": "温州医科大学(Wenzhou Medical University)"
@@ -5026,6 +5022,10 @@
             "en": "Xi'an Medical University",
             "zh": "西安医学院(Xi'an Medical University)"
         },
+        "https://idp.xjau.edu.cn/idp/shibboleth": {
+            "en": "Xinjiang Agricultural University",
+            "zh": "新疆农业大学(Xinjiang Agricultural University)"
+        },
         "https://idp.xjie.edu.cn/idp/shibboleth": {
             "en": "XinjiangInstituteofEngineering",
             "zh": "新疆工程学院(XinjiangInstituteofEngineering)"
@@ -5045,6 +5045,10 @@
         "https://idp.xjtu.edu.cn/idp/shibboleth": {
             "en": "Xi'an Jiaotong University",
             "zh": "西安交通大学(Xi'an Jiaotong University)"
+        },
+        "https://idp.xju.edu.cn/idp/shibboleth": {
+            "en": "XinJiang University",
+            "zh": "新疆大学(XinJiang University)"
         },
         "https://idp.xjufe.edu.cn/idp/shibboleth": {
             "en": "Xinjiang University Of Finance and Economics",
@@ -7529,7 +7533,7 @@
             "de": "Westfälische Hochschule",
             "en": "Westfälische Hochschule, University of Applied Sciences"
         },
-        "https://login4.hs-mittweida.de/idp/shibboleth": {
+        "https://login5.hs-mittweida.de/idp/shibboleth": {
             "de": "Hochschule Mittweida",
             "en": "Hochschule Mittweida"
         },
@@ -8620,6 +8624,10 @@
         }
     },
     "es": {
+        "https://www.rediris.es/sir/achucarroidp": {
+            "en": "Achucarro Basque Center for Neuroscience",
+            "es": "Achucarro Basque Center for Neuroscience"
+        },
         "https://www.rediris.es/sir/anecaidp": {
             "en": "National Agency for Quality Assessment and Accreditation of Spain",
             "es": "Agencia Nacional de Evaluación de la Calidad y Acreditación"
@@ -10040,6 +10048,10 @@
         "https://idp.normandie-univ.fr/idp/shibboleth": {
             "en": "Normandie Université",
             "fr": "Normandie Université"
+        },
+        "https://idp.oca.eu/idp/shibboleth": {
+            "en": "Observatoire de la Côte d'Azur (preprod)",
+            "fr": "Observatoire de la Côte d'Azur (preprod)"
         },
         "https://idp.oniris-nantes.fr/realms/master": {
             "en": "Oniris – VetAgroBio Nantes - ECOLE NATIONALE",
@@ -20065,7 +20077,7 @@
             "en": "Ringling College of Art and Design"
         },
         "https://campusguard.com/idp": {
-            "en": "CampusGuard's Customer Compliance Portal"
+            "en": "CampusGuard LLC"
         },
         "https://cas.auth.sc.edu/cas/idp": {
             "en": "University of South Carolina - CAS"
@@ -21241,7 +21253,7 @@
             "en": "University of Northern Colorado"
         },
         "https://sso.uncw.edu/idp": {
-            "en": "University of North Carolina -  Wilmington"
+            "en": "University of North Carolina Wilmington"
         },
         "https://sso.union.edu/idp/shibboleth": {
             "en": "Union College"

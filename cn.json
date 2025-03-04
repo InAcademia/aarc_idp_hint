@@ -439,10 +439,6 @@
         "en": "Chongqing College of International Business and Economics",
         "zh": "重庆对外经贸学院(Chongqing College of International Business and Economics)"
     },
-    "https://idp.ccit.edu.cn/idp/shibboleth": {
-        "en": "Changchun Institute of Technology",
-        "zh": "长春工程学院(Changchun Institute of Technology)"
-    },
     "https://idp.ccmc.edu.cn/idp/shibboleth": {
         "en": "Changchun Medical College",
         "zh": "长春医学高等专科学校(Changchun Medical College)"
@@ -898,6 +894,10 @@
     "https://idp.hactcm.edu.cn/idp/shibboleth": {
         "en": "Henan University of Chinese Medicine",
         "zh": "河南中医药大学(Henan University of Chinese Medicine)"
+    },
+    "https://idp.hafu.edu.cn/idp/shibboleth": {
+        "en": "Henan Finance University",
+        "zh": "河南财政金融学院(Henan Finance University)"
     },
     "https://idp.hainanu.edu.cn/idp/shibboleth": {
         "en": "Hainan University",
@@ -1711,6 +1711,10 @@
         "en": "Qinghai College of Architectural Technology",
         "zh": "青海建筑职业技术学院(Qinghai College of Architectural Technology)"
     },
+    "https://idp.qhnu.edu.cn/idp/shibboleth": {
+        "en": "Qinghai Normal University",
+        "zh": "青海师范大学(Qinghai Normal University)"
+    },
     "https://idp.qhu.edu.cn/idp/shibboleth": {
         "en": "Qinghai University",
         "zh": "青海大学(Qinghai University)"
@@ -1866,10 +1870,6 @@
     "https://idp.sdycu.edu.cn/idp/shibboleth": {
         "en": "Shandong Yingcai University",
         "zh": "山东英才学院(Shandong Yingcai University)"
-    },
-    "https://idp.sdyu.edu.cn/idp/shibboleth": {
-        "en": "ShanDong Youth University of Ploitical Science",
-        "zh": "山东青年政治学院(ShanDong Youth University of Ploitical Science)"
     },
     "https://idp.seu.edu.cn/idp/shibboleth": {
         "en": "Southeast University",
@@ -2311,10 +2311,6 @@
         "en": "Wuhan Vocational College of Software and Engineering",
         "zh": "武汉软件工程职业学院(Wuhan Vocational College of Software and Engineering)"
     },
-    "https://idp.wit.edu.cn/idp/shibboleth": {
-        "en": "Wuhan Institute of Technology",
-        "zh": "武汉工程大学(Wuhan Institute of Technology)"
-    },
     "https://idp.wmu.edu.cn/idp/shibboleth": {
         "en": "Wenzhou Medical University",
         "zh": "温州医科大学(Wenzhou Medical University)"
@@ -2431,6 +2427,10 @@
         "en": "Xi'an Medical University",
         "zh": "西安医学院(Xi'an Medical University)"
     },
+    "https://idp.xjau.edu.cn/idp/shibboleth": {
+        "en": "Xinjiang Agricultural University",
+        "zh": "新疆农业大学(Xinjiang Agricultural University)"
+    },
     "https://idp.xjie.edu.cn/idp/shibboleth": {
         "en": "XinjiangInstituteofEngineering",
         "zh": "新疆工程学院(XinjiangInstituteofEngineering)"
@@ -2450,6 +2450,10 @@
     "https://idp.xjtu.edu.cn/idp/shibboleth": {
         "en": "Xi'an Jiaotong University",
         "zh": "西安交通大学(Xi'an Jiaotong University)"
+    },
+    "https://idp.xju.edu.cn/idp/shibboleth": {
+        "en": "XinJiang University",
+        "zh": "新疆大学(XinJiang University)"
     },
     "https://idp.xjufe.edu.cn/idp/shibboleth": {
         "en": "Xinjiang University Of Finance and Economics",

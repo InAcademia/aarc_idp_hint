@@ -583,6 +583,10 @@
         "en": "Normandie Université",
         "fr": "Normandie Université"
     },
+    "https://idp.oca.eu/idp/shibboleth": {
+        "en": "Observatoire de la Côte d'Azur (preprod)",
+        "fr": "Observatoire de la Côte d'Azur (preprod)"
+    },
     "https://idp.oniris-nantes.fr/realms/master": {
         "en": "Oniris – VetAgroBio Nantes - ECOLE NATIONALE",
         "fr": "Oniris – VetAgroBio Nantes - ECOLE NATIONALE"
