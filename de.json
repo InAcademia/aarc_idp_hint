@@ -726,6 +726,10 @@
         "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
         "en": "Leibniz Supercomputing Centre (LRZ)"
     },
+    "https://idp.medizin.uni-leipzig.de/idp/shibboleth": {
+        "de": "Universitätsklinikum Leipzig",
+        "en": "https://idp.medizin.uni-leipzig.de/idp/shibboleth"
+    },
     "https://idp.mh-trossingen.de/idp/shibboleth": {
         "de": "Staatliche Hochschule für Musik Trossingen",
         "en": "Trossingen University of Music"
