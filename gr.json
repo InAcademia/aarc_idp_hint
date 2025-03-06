@@ -18,10 +18,6 @@
         "el": "CEDEFOP",
         "en": "CEDEFOP"
     },
-    "https://gn-vho.grnet.gr/idp/shibboleth": {
-        "el": "Εικονικός Οικείος Φορέας (VHO) του ΕΔΕΤ για το GÉANT",
-        "en": "GRNET Virtual Home Organization (VHO) for GÉANT"
-    },
     "https://grnetbox.duth.gr/idp/shibboleth": {
         "el": "Δημοκρίτειο Πανεπιστήμιο Θράκης",
         "en": "Democritus University of Thrace"

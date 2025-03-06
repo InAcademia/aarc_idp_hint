@@ -203,6 +203,9 @@
     "https://idp.iimsirmaur.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Management Sirmaur"
     },
+    "https://idp.iimv.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Management Visakhapatnam"
+    },
     "https://idp.iipe.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Petroleum and Energy (IIPE)"
     },

@@ -422,6 +422,9 @@
     "https://idp.gsu.edu/idp/shibboleth": {
         "en": "Georgia State University"
     },
+    "https://idp.hampshire.edu/idp/shibboleth": {
+        "en": "Hampshire College"
+    },
     "https://idp.haverford.edu/idp/shibboleth": {
         "en": "Haverford College"
     },

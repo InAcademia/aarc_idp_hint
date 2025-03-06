@@ -232,8 +232,8 @@
         "nl": "Vrije Universiteit Amsterdam"
     },
     "http://toegang.educatie.zone/adfs/services/trust": {
-        "en": "Zone.College",
-        "nl": "Zone.College"
+        "en": "Zone.College (Old)",
+        "nl": "Zone.College (Oud)"
     },
     "https://access.hro.nl/simplesaml/saml2/idp/metadata.php": {
         "en": "Rotterdam University of Applied Sciences",
@@ -374,6 +374,10 @@
     "https://sts.windows.net/2259cb87-9540-474f-9e96-2f4bde46bb52/": {
         "en": "Summa College",
         "nl": "Summa College"
+    },
+    "https://sts.windows.net/25443702-039b-4485-b8ae-3054dde1ed25/": {
+        "en": "Zone.College",
+        "nl": "Zone.College"
     },
     "https://sts.windows.net/25f04329-7216-46b8-91ff-d1f44baa2a21/": {
         "en": "Vonk",

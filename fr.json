@@ -584,8 +584,8 @@
         "fr": "Normandie Université"
     },
     "https://idp.oca.eu/idp/shibboleth": {
-        "en": "Observatoire de la Côte d'Azur (preprod)",
-        "fr": "Observatoire de la Côte d'Azur (preprod)"
+        "en": "Observatoire de la Côte d'Azur",
+        "fr": "Observatoire de la Côte d'Azur"
     },
     "https://idp.oniris-nantes.fr/realms/master": {
         "en": "Oniris – VetAgroBio Nantes - ECOLE NATIONALE",
@@ -1080,8 +1080,8 @@
         "fr": "EC-NANT3b"
     },
     "https://shibidp.oca.eu/idp/shibboleth": {
-        "en": "Observatoire de la Côte d'Azur",
-        "fr": "Observatoire de la Côte d'Azur"
+        "en": "Observatoire de la Côte d'Azur (legacy)",
+        "fr": "Observatoire de la Côte d'Azur (legacy)"
     },
     "https://shibone.univ-catholille.fr/idp/shibboleth": {
         "en": "Catholic University of Lille",

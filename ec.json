@@ -271,10 +271,6 @@
         "en": "Universidad Nacional de Educacion - unae",
         "es": "Universidad Nacional de Educacion - unae"
     },
-    "https://login.unesum.cedia.edu.ec/saml2/idp/metadata.php": {
-        "en": "Universidad Estatal del Sur de Manabi - unesum",
-        "es": "Universidad Estatal del Sur de Manabi - unesum"
-    },
     "https://login.uniandes.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Universidad Regional Autonoma de los Andes - uniandes",
         "es": "Universidad Regional Autonoma de los Andes - uniandes"

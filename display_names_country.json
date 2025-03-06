@@ -3538,6 +3538,10 @@
             "en": "Henan Vocational University of Science and Technology",
             "zh": "河南科技职业大学(Henan Vocational University of Science and Technology)"
         },
+        "https://idp.hbcit.edu.cn/idp/shibboleth": {
+            "en": "Hebei Vocational University of Industry and Technology",
+            "zh": "河北工业职业技术大学(Hebei Vocational University of Industry and Technology)"
+        },
         "https://idp.hbmzu.edu.cn/idp/shibboleth": {
             "en": "Hubei Minzu University",
             "zh": "湖北民族大学(Hubei Minzu University)"
@@ -3898,6 +3902,10 @@
             "en": "Jining University",
             "zh": "济宁学院(Jining University)"
         },
+        "https://idp.jsahvc.edu.cn/idp/shibboleth": {
+            "en": "Jiangsu Agri-animal Husbandry Vocational College",
+            "zh": "江苏农牧科技职业学院(Jiangsu Agri-animal Husbandry Vocational College)"
+        },
         "https://idp.jscn.edu.cn/idp/shibboleth": {
             "en": "Jiangsu College Of Nursing",
             "zh": "江苏护理职业学院(Jiangsu College Of Nursing)"
@@ -4150,10 +4158,6 @@
             "en": "Northeastern University at Qinhuangdao",
             "zh": "东北大学秦皇岛分校(Northeastern University at Qinhuangdao)"
         },
-        "https://idp.neusoft.edu.cn/idp/shibboleth": {
-            "en": "Dalian Neusoft University of Information",
-            "zh": "大连东软信息学院(Dalian Neusoft University of Information)"
-        },
         "https://idp.njau.edu.cn/idp/shibboleth": {
             "en": "Nanjing Agricultural University",
             "zh": "南京农业大学(Nanjing Agricultural University)"
@@ -4329,6 +4333,10 @@
         "https://idp.qhnu.edu.cn/idp/shibboleth": {
             "en": "Qinghai Normal University",
             "zh": "青海师范大学(Qinghai Normal University)"
+        },
+        "https://idp.qhou.edu.cn/idp/shibboleth": {
+            "en": "Qinghai Open University",
+            "zh": "青海开放大学(Qinghai Open University)"
         },
         "https://idp.qhu.edu.cn/idp/shibboleth": {
             "en": "Qinghai University",
@@ -4598,6 +4606,10 @@
             "en": "Shanghai Publishing And Printing College",
             "zh": "上海出版印刷高等专科学校(Shanghai Publishing And Printing College)"
         },
+        "https://idp.sqnu.edu.cn/idp/shibboleth": {
+            "en": "Shangqiu Normal University",
+            "zh": "商丘师范学院(Shangqiu Normal University)"
+        },
         "https://idp.squ.edu.cn/idp/shibboleth": {
             "en": "Suqian University",
             "zh": "宿迁学院(Suqian University)"
@@ -4778,6 +4790,10 @@
             "en": "Tongling University",
             "zh": "铜陵学院(Tongling University)"
         },
+        "https://idp.tmmu.edu.cn/idp/shibboleth": {
+            "en": "Army Medical University",
+            "zh": "中国人民解放军陆军军医大学(Army Medical University)"
+        },
         "https://idp.tmu.edu.cn/idp/shibboleth": {
             "en": "Tianjin Medical University",
             "zh": "天津医科大学(Tianjin Medical University)"
@@ -4830,6 +4846,10 @@
             "en": "University of Chinese Academy of Social Sciences",
             "zh": "中国社会科学院大学(University of Chinese Academy of Social Sciences)"
         },
+        "https://idp.uhrs.edu.cn/idp/shibboleth": {
+            "en": "University of Health and Rehabilitation Sciences",
+            "zh": "康复大学(University of Health and Rehabilitation Sciences)"
+        },
         "https://idp.uic.edu.cn/idp/shibboleth": {
             "en": "Beijing Normal University-Hong Kong Baptist University United International College",
             "zh": "北京师范大学-香港浸会大学联合国际学院(Beijing Normal University-Hong Kong Baptist University United International College)"
@@ -4841,6 +4861,10 @@
         "https://idp.ujs.edu.cn/idp/shibboleth": {
             "en": "Jiangsu University",
             "zh": "江苏大学(Jiangsu University)"
+        },
+        "https://idp.unn.edu.cn/idp/shibboleth": {
+            "en": "Nanning University",
+            "zh": "南宁学院(Nanning University)"
         },
         "https://idp.upc.edu.cn/idp/shibboleth": {
             "en": "China University of Petroleum(East China)",
@@ -4997,6 +5021,10 @@
         "https://idp.xaau.edu.cn/idp/shibboleth": {
             "en": "Xihang University",
             "zh": "西安航空学院(Xihang University)"
+        },
+        "https://idp.xacxz.edu.cn/idp/shibboleth": {
+            "en": "Xing Zhi College of Xi'an University of Finance and Economics",
+            "zh": "西安财经大学行知学院(Xing Zhi College of Xi'an University of Finance and Economics)"
         },
         "https://idp.xaiu.edu.cn/idp/shibboleth": {
             "en": "Xi'an International University",
@@ -5157,6 +5185,10 @@
         "https://idp.ymu.edu.cn/idp/shibboleth": {
             "en": "Yunnan Minzu University",
             "zh": "云南民族大学(Yunnan Minzu University)"
+        },
+        "https://idp.ynart.edu.cn/idp/shibboleth": {
+            "en": "Yunnan Arts University",
+            "zh": "云南艺术学院(Yunnan Arts University)"
         },
         "https://idp.ynftc.edu.cn/idp/shibboleth": {
             "en": "Yunnan Forestry Technological College",
@@ -5346,6 +5378,10 @@
             "en": "Zhengzhou College of Finance and Economics",
             "zh": "郑州财经学院(Zhengzhou College of Finance and Economics)"
         },
+        "https://idp.zzjc.edu.cn/idp/shibboleth": {
+            "en": "Zhijiang College of Zhejiang University of Technology",
+            "zh": "浙江工业大学之江学院(Zhijiang College of Zhejiang University of Technology)"
+        },
         "https://idp.zznu.edu.cn/idp/shibboleth": {
             "en": "Zhengzhou Normal University",
             "zh": "郑州师范学院(Zhengzhou Normal University)"
@@ -5389,6 +5425,10 @@
         "https://idpcarsi.jsnu.edu.cn/idp/shibboleth": {
             "en": "Jiangsu Normal University",
             "zh": "江苏师范大学(Jiangsu Normal University)"
+        },
+        "https://idpcarsi.lzcu.edu.cn/idp/shibboleth": {
+            "en": "Lanzhou City University",
+            "zh": "兰州城市学院(Lanzhou City University)"
         },
         "https://idpcarsi.qhmu.edu.cn/idp/shibboleth": {
             "en": "Qinghai Minzu University",
@@ -8524,10 +8564,6 @@
             "en": "Universidad Nacional de Educacion - unae",
             "es": "Universidad Nacional de Educacion - unae"
         },
-        "https://login.unesum.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad Estatal del Sur de Manabi - unesum",
-            "es": "Universidad Estatal del Sur de Manabi - unesum"
-        },
         "https://login.uniandes.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Regional Autonoma de los Andes - uniandes",
             "es": "Universidad Regional Autonoma de los Andes - uniandes"
@@ -10094,8 +10130,8 @@
             "fr": "Normandie Université"
         },
         "https://idp.oca.eu/idp/shibboleth": {
-            "en": "Observatoire de la Côte d'Azur (preprod)",
-            "fr": "Observatoire de la Côte d'Azur (preprod)"
+            "en": "Observatoire de la Côte d'Azur",
+            "fr": "Observatoire de la Côte d'Azur"
         },
         "https://idp.oniris-nantes.fr/realms/master": {
             "en": "Oniris – VetAgroBio Nantes - ECOLE NATIONALE",
@@ -10590,8 +10626,8 @@
             "fr": "EC-NANT3b"
         },
         "https://shibidp.oca.eu/idp/shibboleth": {
-            "en": "Observatoire de la Côte d'Azur",
-            "fr": "Observatoire de la Côte d'Azur"
+            "en": "Observatoire de la Côte d'Azur (legacy)",
+            "fr": "Observatoire de la Côte d'Azur (legacy)"
         },
         "https://shibone.univ-catholille.fr/idp/shibboleth": {
             "en": "Catholic University of Lille",
@@ -10797,10 +10833,6 @@
         "https://giant.cedefop.europa.eu/idp/shibboleth": {
             "el": "CEDEFOP",
             "en": "CEDEFOP"
-        },
-        "https://gn-vho.grnet.gr/idp/shibboleth": {
-            "el": "Εικονικός Οικείος Φορέας (VHO) του ΕΔΕΤ για το GÉANT",
-            "en": "GRNET Virtual Home Organization (VHO) for GÉANT"
         },
         "https://grnetbox.duth.gr/idp/shibboleth": {
             "el": "Δημοκρίτειο Πανεπιστήμιο Θράκης",
@@ -11853,6 +11885,9 @@
         },
         "https://idp.iimsirmaur.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Management Sirmaur"
+        },
+        "https://idp.iimv.ac.in/idp/shibboleth": {
+            "en": "Indian Institute of Management Visakhapatnam"
         },
         "https://idp.iipe.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Petroleum and Energy (IIPE)"
@@ -14729,8 +14764,8 @@
             "nl": "Vrije Universiteit Amsterdam"
         },
         "http://toegang.educatie.zone/adfs/services/trust": {
-            "en": "Zone.College",
-            "nl": "Zone.College"
+            "en": "Zone.College (Old)",
+            "nl": "Zone.College (Oud)"
         },
         "https://access.hro.nl/simplesaml/saml2/idp/metadata.php": {
             "en": "Rotterdam University of Applied Sciences",
@@ -14871,6 +14906,10 @@
         "https://sts.windows.net/2259cb87-9540-474f-9e96-2f4bde46bb52/": {
             "en": "Summa College",
             "nl": "Summa College"
+        },
+        "https://sts.windows.net/25443702-039b-4485-b8ae-3054dde1ed25/": {
+            "en": "Zone.College",
+            "nl": "Zone.College"
         },
         "https://sts.windows.net/25f04329-7216-46b8-91ff-d1f44baa2a21/": {
             "en": "Vonk",
@@ -20407,6 +20446,9 @@
         },
         "https://idp.gsu.edu/idp/shibboleth": {
             "en": "Georgia State University"
+        },
+        "https://idp.hampshire.edu/idp/shibboleth": {
+            "en": "Hampshire College"
         },
         "https://idp.haverford.edu/idp/shibboleth": {
             "en": "Haverford College"
