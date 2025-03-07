@@ -231,10 +231,6 @@
         "en": "Vrije Universiteit Amsterdam",
         "nl": "Vrije Universiteit Amsterdam"
     },
-    "http://toegang.educatie.zone/adfs/services/trust": {
-        "en": "Zone.College (Old)",
-        "nl": "Zone.College (Oud)"
-    },
     "https://access.hro.nl/simplesaml/saml2/idp/metadata.php": {
         "en": "Rotterdam University of Applied Sciences",
         "nl": "Hogeschool Rotterdam"

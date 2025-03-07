@@ -722,6 +722,10 @@
     "https://idp.li-hamburg.de/idp/shibboleth": {
         "en": "HLB Hamburg (Landesinstitut für Lehrerbildung und Schulentwicklung)"
     },
+    "https://idp.lifbi.de/idp/shibboleth": {
+        "de": "Leibniz Institut für Bildungsverläufe - LIfBi",
+        "en": "Leibniz Institut for Educational Trajectories  - LIfBi"
+    },
     "https://idp.lrz.de/idp/shibboleth": {
         "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
         "en": "Leibniz Supercomputing Centre (LRZ)"

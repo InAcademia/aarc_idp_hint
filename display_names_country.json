@@ -3030,6 +3030,10 @@
             "en": "Chongqing College of International Business and Economics",
             "zh": "重庆对外经贸学院(Chongqing College of International Business and Economics)"
         },
+        "https://idp.ccit.edu.cn/idp/shibboleth": {
+            "en": "Changchun Institute of Technology",
+            "zh": "长春工程学院(Changchun Institute of Technology)"
+        },
         "https://idp.ccmc.edu.cn/idp/shibboleth": {
             "en": "Changchun Medical College",
             "zh": "长春医学高等专科学校(Changchun Medical College)"
@@ -3638,6 +3642,10 @@
             "en": "Huanggang Normal University",
             "zh": "黄冈师范学院(Huanggang Normal University)"
         },
+        "https://idp.hgpu.edu.cn/idp/shibboleth": {
+            "en": "Huanggang Polytechnic College",
+            "zh": "黄冈职业技术学院(Huanggang Polytechnic College)"
+        },
         "https://idp.hgu.edu.cn/idp/shibboleth": {
             "en": "Hebei GEO University",
             "zh": "河北地质大学(Hebei GEO University)"
@@ -3733,6 +3741,10 @@
         "https://idp.hstc.edu.cn/idp/shibboleth": {
             "en": "hanshan normal university",
             "zh": "韩山师范学院(hanshan normal university)"
+        },
+        "https://idp.hsu.edu.cn/idp/shibboleth": {
+            "en": "HuangShan University",
+            "zh": "黄山学院(HuangShan University)"
         },
         "https://idp.hsxy.edu.cn/idp/shibboleth": {
             "en": "Huishang Vocational College",
@@ -3917,6 +3929,10 @@
         "https://idp.jsit.edu.cn/idp/shibboleth": {
             "en": "Jiangsu Vocational College of Information Technology",
             "zh": "江苏信息职业技术学院(Jiangsu Vocational College of Information Technology)"
+        },
+        "https://idp.jsmc.edu.cn/idp/shibboleth": {
+            "en": "Jiangsu  Medical  College",
+            "zh": "江苏医药职业学院(Jiangsu  Medical  College)"
         },
         "https://idp.jssnu.edu.cn/idp/shibboleth": {
             "en": "Jiangsu Second Normal University",
@@ -4494,6 +4510,10 @@
             "en": "Shandong Yingcai University",
             "zh": "山东英才学院(Shandong Yingcai University)"
         },
+        "https://idp.sdyu.edu.cn/idp/shibboleth": {
+            "en": "ShanDong Youth University of Political Science",
+            "zh": "山东青年政治学院(ShanDong Youth University of Political Science)"
+        },
         "https://idp.seu.edu.cn/idp/shibboleth": {
             "en": "Southeast University",
             "zh": "东南大学(Southeast University)"
@@ -4761,6 +4781,10 @@
         "https://idp.tjcu.edu.cn/idp/shibboleth": {
             "en": "Tianjin University of Commerce",
             "zh": "天津商业大学(Tianjin University of Commerce)"
+        },
+        "https://idp.tjise.edu.cn/idp/shibboleth": {
+            "en": "TianJin Institute of Software Engineering",
+            "zh": "天津市大学软件学院(TianJin Institute of Software Engineering)"
         },
         "https://idp.tjlivtc.edu.cn/idp/shibboleth": {
             "en": "Tianjin Light Industry Vocational Technical College",
@@ -5182,6 +5206,10 @@
             "en": "YanCheng Teachers University",
             "zh": "盐城师范学院(YanCheng Teachers University)"
         },
+        "https://idp.ylnu.edu.cn/idp/shibboleth": {
+            "en": "Yili Normal University",
+            "zh": "伊犁师范大学(Yili Normal University)"
+        },
         "https://idp.ymu.edu.cn/idp/shibboleth": {
             "en": "Yunnan Minzu University",
             "zh": "云南民族大学(Yunnan Minzu University)"
@@ -5285,6 +5313,10 @@
         "https://idp.zjiet.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Institute of Economics and Trade",
             "zh": "浙江经贸职业技术学院(Zhejiang Institute of Economics and Trade)"
+        },
+        "https://idp.zjjy.edu.cn/idp/shibboleth": {
+            "en": "Zhejiang Police Vocational Academy",
+            "zh": "浙江警官职业学院(Zhejiang Police Vocational Academy)"
         },
         "https://idp.zjnu.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Normal University",
@@ -7136,6 +7168,10 @@
         },
         "https://idp.li-hamburg.de/idp/shibboleth": {
             "en": "HLB Hamburg (Landesinstitut für Lehrerbildung und Schulentwicklung)"
+        },
+        "https://idp.lifbi.de/idp/shibboleth": {
+            "de": "Leibniz Institut für Bildungsverläufe - LIfBi",
+            "en": "Leibniz Institut for Educational Trajectories  - LIfBi"
         },
         "https://idp.lrz.de/idp/shibboleth": {
             "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
@@ -10433,6 +10469,10 @@
             "en": "University of Caen Normandie",
             "fr": "Université de Caen Normandie"
         },
+        "https://idp5.hec.fr/idp/shibboleth": {
+            "en": "HEC Paris V5",
+            "fr": "HEC Paris V5"
+        },
         "https://idpprod.ciep.fr/idp/shibboleth": {
             "en": "CIEP / France Education International",
             "fr": "CIEP / France Education International"
@@ -12053,6 +12093,9 @@
         },
         "https://idp.nagalanduniversity.ac.in/idp/shibboleth": {
             "en": "Nagaland University"
+        },
+        "https://idp.ncl.res.in/idp/shibboleth": {
+            "en": "CSIR - National Chemical Laboratory (NCL)"
         },
         "https://idp.nec.edu.in/idp/shibboleth": {
             "en": "National Engineering College"
@@ -14762,10 +14805,6 @@
         "http://stsfed.login.vu.nl/adfs/services/trust": {
             "en": "Vrije Universiteit Amsterdam",
             "nl": "Vrije Universiteit Amsterdam"
-        },
-        "http://toegang.educatie.zone/adfs/services/trust": {
-            "en": "Zone.College (Old)",
-            "nl": "Zone.College (Oud)"
         },
         "https://access.hro.nl/simplesaml/saml2/idp/metadata.php": {
             "en": "Rotterdam University of Applied Sciences",
@@ -19596,9 +19635,6 @@
         "https://login.northumbria.ac.uk/idp/shibboleth": {
             "en": "Northumbria University"
         },
-        "https://login.ucs.ac.uk/saml2/idp/metadata.php": {
-            "en": "University of Suffolk (Legacy)"
-        },
         "https://login.uea.ac.uk/entity": {
             "en": "University of East Anglia (UEA)"
         },
@@ -21698,9 +21734,6 @@
         },
         "http://proxy.safire.ac.za/birk.php/sso.vut.ac.za/adfs/services/trust": {
             "en": "Vaal University of Technology - Staff (VUT)"
-        },
-        "http://proxy.safire.ac.za/birk.php/tutfs.tut.ac.za/adfs/services/trust": {
-            "en": "Tshwane University of Technology"
         },
         "https://proxy.safire.ac.za/birk.php/googleidp.sanren.ac.za/simplesaml/saml2/idp/metadata.php": {
             "en": "SANReN Competency Area"

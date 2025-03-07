@@ -1307,9 +1307,6 @@
     "https://login.northumbria.ac.uk/idp/shibboleth": {
         "en": "Northumbria University"
     },
-    "https://login.ucs.ac.uk/saml2/idp/metadata.php": {
-        "en": "University of Suffolk (Legacy)"
-    },
     "https://login.uea.ac.uk/entity": {
         "en": "University of East Anglia (UEA)"
     },

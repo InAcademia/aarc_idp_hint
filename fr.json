@@ -887,6 +887,10 @@
         "en": "University of Caen Normandie",
         "fr": "Université de Caen Normandie"
     },
+    "https://idp5.hec.fr/idp/shibboleth": {
+        "en": "HEC Paris V5",
+        "fr": "HEC Paris V5"
+    },
     "https://idpprod.ciep.fr/idp/shibboleth": {
         "en": "CIEP / France Education International",
         "fr": "CIEP / France Education International"

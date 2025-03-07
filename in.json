@@ -371,6 +371,9 @@
     "https://idp.nagalanduniversity.ac.in/idp/shibboleth": {
         "en": "Nagaland University"
     },
+    "https://idp.ncl.res.in/idp/shibboleth": {
+        "en": "CSIR - National Chemical Laboratory (NCL)"
+    },
     "https://idp.nec.edu.in/idp/shibboleth": {
         "en": "National Engineering College"
     },

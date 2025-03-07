@@ -22,9 +22,6 @@
     "http://proxy.safire.ac.za/birk.php/sso.vut.ac.za/adfs/services/trust": {
         "en": "Vaal University of Technology - Staff (VUT)"
     },
-    "http://proxy.safire.ac.za/birk.php/tutfs.tut.ac.za/adfs/services/trust": {
-        "en": "Tshwane University of Technology"
-    },
     "https://proxy.safire.ac.za/birk.php/googleidp.sanren.ac.za/simplesaml/saml2/idp/metadata.php": {
         "en": "SANReN Competency Area"
     },
