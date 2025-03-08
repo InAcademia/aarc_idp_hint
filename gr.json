@@ -220,10 +220,6 @@
         "el": "Τεχνολογικό Εκπαιδευτικό Ίδρυμα Κρήτης",
         "en": "Technological Educational Institute of Crete"
     },
-    "https://idp.teiion.gr/idp/shibboleth": {
-        "el": "Ιόνιο Πανεπιστήμιο (πρώην ΤΕΙ Ιονίων Νήσων)",
-        "en": "Ionian University (former TEI of Ionian Islands)"
-    },
     "https://idp.trikalahospital.gr/idp/shibboleth": {
         "en": "https://idp.trikalahospital.gr/idp/shibboleth"
     },
