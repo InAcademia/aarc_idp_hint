@@ -5748,6 +5748,10 @@
             "cs": "Filosofický ústav AV ČR",
             "en": "Institute of Philosophy AS CR"
         },
+        "https://idp.fnplzen.cz/idp/shibboleth": {
+            "cs": "Fakultní nemocnice Plzeň",
+            "en": "Faculty hospital Plzeň"
+        },
         "https://idp.fnusa.cz/idp/shibboleth": {
             "cs": "Fakultní nemocnice u sv.Anny v Brně",
             "en": "St.Anne's University Hospital Brno"
