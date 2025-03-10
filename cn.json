@@ -703,6 +703,10 @@
         "en": "Dongbei University of Finance and Economics",
         "zh": "东北财经大学(Dongbei University of Finance and Economics)"
     },
+    "https://idp.dzu.edu.cn/idp/shibboleth": {
+        "en": "Dezhou University",
+        "zh": "德州学院(Dezhou University)"
+    },
     "https://idp.dzvc.edu.cn/idp/shibboleth": {
         "en": "Dezhou Vocational and Technical College",
         "zh": "德州职业技术学院(Dezhou Vocational and Technical College)"
@@ -802,6 +806,10 @@
     "https://idp.gdpu.edu.cn/idp/shibboleth": {
         "en": "Guangdong Pharmaceutical University",
         "zh": "广东药科大学(Guangdong Pharmaceutical University)"
+    },
+    "https://idp.gdtzy.edu.cn/idp/shibboleth": {
+        "en": "Guangdong Vocational Institute of Sport",
+        "zh": "广东体育职业技术学院(Guangdong Vocational Institute of Sport)"
     },
     "https://idp.gdufe.edu.cn/idp/shibboleth": {
         "en": "Guangdong University of Finance and Economics",
@@ -958,6 +966,10 @@
     "https://idp.hbnu.edu.cn/idp/shibboleth": {
         "en": "Hubei Normal University",
         "zh": "湖北师范大学(Hubei Normal University)"
+    },
+    "https://idp.hbpu.edu.cn/idp/shibboleth": {
+        "en": "Hubei Polytechnic University",
+        "zh": "湖北理工学院(Hubei Polytechnic University)"
     },
     "https://idp.hbu.edu.cn/idp/shibboleth": {
         "en": "Hebei University",
@@ -1471,6 +1483,10 @@
         "en": "Longyan University",
         "zh": "龙岩学院(Longyan University)"
     },
+    "https://idp.lyvc.edu.cn/idp/shibboleth": {
+        "en": "Linyi Vocational College",
+        "zh": "临沂职业学院(Linyi Vocational College)"
+    },
     "https://idp.lzhit.edu.cn/idp/shibboleth": {
         "en": "Liuzhou Institute of Technology",
         "zh": "柳州工学院(Liuzhou Institute of Technology)"
@@ -1578,6 +1594,10 @@
     "https://idp.neuq.edu.cn/idp/shibboleth": {
         "en": "Northeastern University at Qinhuangdao",
         "zh": "东北大学秦皇岛分校(Northeastern University at Qinhuangdao)"
+    },
+    "https://idp.neusoft.edu.cn/idp/shibboleth": {
+        "en": "Dalian Neusoft University of Information",
+        "zh": "大连东软信息学院(Dalian Neusoft University of Information)"
     },
     "https://idp.njau.edu.cn/idp/shibboleth": {
         "en": "Nanjing Agricultural University",
@@ -2090,6 +2110,10 @@
     "https://idp.swust.edu.cn/idp/shibboleth": {
         "en": "Southwest University of  Science  and Technology",
         "zh": "西南科技大学(Southwest University of  Science  and Technology)"
+    },
+    "https://idp.sxit.edu.cn/idp/shibboleth": {
+        "en": "Shanxi Institute Of Technology",
+        "zh": "山西工程技术学院(Shanxi Institute Of Technology)"
     },
     "https://idp.sxmu.edu.cn/idp/shibboleth": {
         "en": "Shanxi Medical University",
@@ -2730,6 +2754,10 @@
     "https://idp.zjou.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Ocean University",
         "zh": "浙江海洋大学(Zhejiang Ocean University)"
+    },
+    "https://idp.zjpc.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Police College",
+        "zh": "浙江警察学院(Zhejiang Police College)"
     },
     "https://idp.zjpu.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Pharmaceutical University",
