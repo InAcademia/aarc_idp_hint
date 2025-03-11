@@ -2750,6 +2750,10 @@
             "en": "Shandong Normal University",
             "zh": "山东师范大学(Shandong Normal University)"
         },
+        "https://idp-lib.shcac.edu.cn/idp/shibboleth": {
+            "en": "Shanghai Civil Aviation College",
+            "zh": "上海民航职业技术学院(Shanghai Civil Aviation College)"
+        },
         "https://idp-lib.shcc.edu.cn/idp/shibboleth": {
             "en": "Shanghai Customs College",
             "zh": "上海海关学院(Shanghai Customs College)"
@@ -3329,6 +3333,10 @@
         "https://idp.fafu.edu.cn/idp/shibboleth": {
             "en": "Fujian Agriculture and Forestry University",
             "zh": "福建农林大学(Fujian Agriculture and Forestry University)"
+        },
+        "https://idp.fjbu.edu.cn/idp/shibboleth": {
+            "en": "Fujian Business University",
+            "zh": "福建商学院(Fujian Business University)"
         },
         "https://idp.fjjxu.edu.cn/idp/shibboleth": {
             "en": "Fujian Jiangxia University",
@@ -4002,6 +4010,10 @@
             "en": "Liaocheng University Dongchang College",
             "zh": "聊城大学东昌学院(Liaocheng University Dongchang College)"
         },
+        "https://idp.liaodongu.edu.cn/idp/shibboleth": {
+            "en": "Liaodong  University",
+            "zh": "辽东学院(Liaodong  University)"
+        },
         "https://idp.lib.bnu.edu.cn/idp/shibboleth": {
             "en": "Beijing Normal University",
             "zh": "北京师范大学(Beijing Normal University)"
@@ -4602,10 +4614,6 @@
             "en": "ShanghaiInnovation Institute",
             "zh": "上海创智学院(ShanghaiInnovation Institute)"
         },
-        "https://idp.sisu.edu.cn/idp/shibboleth": {
-            "en": "Sichuan International Studies University",
-            "zh": "四川外国语大学(Sichuan International Studies University)"
-        },
         "https://idp.situ.edu.cn/idp/shibboleth": {
             "en": "Shenyang Institute of Technology",
             "zh": "沈阳工学院(Shenyang Institute of Technology)"
@@ -4969,6 +4977,10 @@
         "https://idp.wfmc.edu.cn/idp/shibboleth": {
             "en": "Weifang Medical University",
             "zh": "潍坊医学院(Weifang Medical University)"
+        },
+        "https://idp.wfu.edu.cn/idp/shibboleth": {
+            "en": "Weifang University",
+            "zh": "潍坊学院(Weifang University)"
         },
         "https://idp.whcm.edu.cn/idp/shibboleth": {
             "en": "Wuhan Conservatory of Music",
@@ -5338,6 +5350,10 @@
             "en": "Zhejiang Institute of Economics and Trade",
             "zh": "浙江经贸职业技术学院(Zhejiang Institute of Economics and Trade)"
         },
+        "https://idp.zjjs.edu.cn/idp/shibboleth": {
+            "en": "Zhejiang College of Construction",
+            "zh": "浙江建设职业技术学院(Zhejiang College of Construction)"
+        },
         "https://idp.zjjy.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Police Vocational Academy",
             "zh": "浙江警官职业学院(Zhejiang Police Vocational Academy)"
@@ -5493,6 +5509,10 @@
         "https://idpcarsi.qhmu.edu.cn/idp/shibboleth": {
             "en": "Qinghai Minzu University",
             "zh": "青海民族大学(Qinghai Minzu University)"
+        },
+        "https://idpcarsi.qhvu.edu.cn/idp/shibboleth": {
+            "en": "Qinghai Vocational and Technical University",
+            "zh": "青海职业技术大学(Qinghai Vocational and Technical University)"
         },
         "https://idpcarsi.shufe.edu.cn/idp/shibboleth": {
             "en": "Shanghai University of Finance and Economics",
@@ -8349,6 +8369,14 @@
         "https://wayfeadania.itcn.dk/simplesaml/saml2/idp/metadata.php": {
             "da": "Erhvervsakademi Dania",
             "en": "Dania Academy"
+        }
+    },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
         }
     },
     "ec": {
@@ -21800,6 +21828,9 @@
         "https://proxy.safire.ac.za/birk.php/sso.sats.edu.za/": {
             "af": "Suid-Afrikaanse Teologiese Seminarium",
             "en": "South African Theological Seminary"
+        },
+        "https://proxy.safire.ac.za/birk.php/sts.windows.net/3df74539-9453-4d03-bb9d-b9102cb9ce9c/": {
+            "en": "Tshwane University of Technology"
         },
         "https://proxy.safire.ac.za/birk.php/sts.windows.net/7be113bb-a1f0-4587-a151-bb9053a701e6/": {
             "en": "Higher Education Information Technology South Africa (HEITSA)"
