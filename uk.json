@@ -1442,6 +1442,9 @@
     "https://shib.rcs.ac.uk/shibboleth": {
         "en": "Royal Conservatoire of Scotland"
     },
+    "https://shib.salfordcc.ac.uk/idp": {
+        "en": "Salford City College"
+    },
     "https://shib.westdean.org.uk/idp/shibboleth": {
         "en": "West Dean College"
     },
@@ -1582,9 +1585,6 @@
     },
     "https://shibboleth.runshaw.ac.uk/idp/shibboleth": {
         "en": "Runshaw College"
-    },
-    "https://shibboleth.salfordcc.ac.uk/idp/shibboleth": {
-        "en": "Salford City College"
     },
     "https://shibboleth.selby.ac.uk/idp/shibboleth": {
         "en": "Selby College"

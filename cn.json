@@ -2351,10 +2351,6 @@
         "en": "University of Science and Technology Liaoning",
         "zh": "辽宁科技大学(University of Science and Technology Liaoning)"
     },
-    "https://idp.usts.edu.cn/idp/shibboleth": {
-        "en": "SUZHOU UNIVERSITY OF SCIENCE AND TECHNOLOGY",
-        "zh": "苏州科技大学(SUZHOU UNIVERSITY OF SCIENCE AND TECHNOLOGY)"
-    },
     "https://idp.usx.edu.cn/idp/shibboleth": {
         "en": "Shaoxing University",
         "zh": "绍兴文理学院(Shaoxing University)"
@@ -2426,6 +2422,10 @@
     "https://idp.whvcse.edu.cn/idp/shibboleth": {
         "en": "Wuhan Vocational College of Software and Engineering",
         "zh": "武汉软件工程职业学院(Wuhan Vocational College of Software and Engineering)"
+    },
+    "https://idp.wit.edu.cn/idp/shibboleth": {
+        "en": "Wuhan Institute of Technology",
+        "zh": "武汉工程大学(Wuhan Institute of Technology)"
     },
     "https://idp.wmu.edu.cn/idp/shibboleth": {
         "en": "Wenzhou Medical University",
@@ -2754,6 +2754,10 @@
     "https://idp.zjiet.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Institute of Economics and Trade",
         "zh": "浙江经贸职业技术学院(Zhejiang Institute of Economics and Trade)"
+    },
+    "https://idp.zjitc.edu.cn/idp/shibboleth": {
+        "en": "Zhejiang Industry & Trade Vocational College",
+        "zh": "浙江工贸职业技术学院(Zhejiang Industry & Trade Vocational College)"
     },
     "https://idp.zjjs.edu.cn/idp/shibboleth": {
         "en": "Zhejiang College of Construction",

@@ -1370,6 +1370,10 @@
         "de": "Hochschulbibliothekszentrum NRW (hbz) - Identitätserbringung  (IdP)",
         "en": "Hochschulbibliothekszentrum NRW (hbz) - Identity Provider (IdP)"
     },
+    "https://shibboleth-idp.ifo.de/idp/shibboleth": {
+        "de": "ifo Institut",
+        "en": "ifo Institute"
+    },
     "https://shibboleth-idp.katho-nrw.de/idp/shibboleth": {
         "de": "Katholische Hochschule Nordrhein-Westfalen (katho)",
         "en": "Catholic University of Applied Sciences of North Rhine-Westphalia"
