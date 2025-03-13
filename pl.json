@@ -31,6 +31,10 @@
         "en": "The School of Banking and Management in Cracow",
         "pl": "Wyższa Szkoła Zarządzania i Bankowości w Krakowie"
     },
+    "https://cas.amfn.pl/idp": {
+        "en": "The Feliks Nowowiejski Academy of Music",
+        "pl": "Akademia Muzyczna im. Feliksa Nowowiejskiego"
+    },
     "https://cas.ans.pila.pl/cas/idp": {
         "en": "Stanisław Staszic State University of Applied Sciencies in Piła",
         "pl": "Akademia Nauk Stosowanych im. Stanisława Staszica w Pile"

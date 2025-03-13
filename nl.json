@@ -279,6 +279,10 @@
         "en": "NSCR",
         "nl": "NSCR"
     },
+    "https://login.eduid.nl": {
+        "en": "eduID (NL)",
+        "nl": "eduID"
+    },
     "https://login.ou.nl/am": {
         "en": "Open Universiteit",
         "nl": "Open Universiteit"

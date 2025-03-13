@@ -43,6 +43,10 @@
         "en": "China Agricultural University",
         "zh": "中国农业大学(China Agricultural University)"
     },
+    "https://idp-lib.chnu.edu.cn/idp/shibboleth": {
+        "en": "Huaibei Normal University",
+        "zh": "淮北师范大学(Huaibei Normal University)"
+    },
     "https://idp-lib.cqnu.edu.cn/idp/shibboleth": {
         "en": "Chongqing Normal university",
         "zh": "重庆师范大学(Chongqing Normal university)"
@@ -342,6 +346,10 @@
     "https://idp.bcu.edu.cn/idp/shibboleth": {
         "en": "Beijing City University",
         "zh": "北京城市学院(Beijing City University)"
+    },
+    "https://idp.beihua.edu.cn/idp/shibboleth": {
+        "en": "Beihua University",
+        "zh": "北华大学(Beihua University)"
     },
     "https://idp.bfsu.edu.cn/idp/shibboleth": {
         "en": "Beijing Foreign Studies University",
@@ -658,6 +666,10 @@
     "https://idp.cwu.edu.cn/idp/shibboleth": {
         "en": "China Women's University",
         "zh": "中华女子学院(China Women's University)"
+    },
+    "https://idp.czmc.edu.cn/idp/shibboleth": {
+        "en": "Changzhi Medical College",
+        "zh": "长治医学院(Changzhi Medical College)"
     },
     "https://idp.czu.edu.cn/idp/shibboleth": {
         "en": "Chizhou University",
@@ -1255,6 +1267,10 @@
         "en": "Beijing Engineering Research Center of NGI",
         "zh": "下一代互联网重大应用技术北京市工程研究中心(Beijing Engineering Research Center of NGI)"
     },
+    "https://idp.imac.edu.cn/idp/shibboleth": {
+        "en": "Inner Mongolia Arts University",
+        "zh": "内蒙古艺术学院(Inner Mongolia Arts University)"
+    },
     "https://idp.immu.edu.cn/idp/shibboleth": {
         "en": "Inner Mongolia Medical University",
         "zh": "内蒙古医科大学(Inner Mongolia Medical University)"
@@ -1278,10 +1294,6 @@
     "https://idp.ivt.edu.cn/idp/shibboleth": {
         "en": "Suzhou Industrial Park Institute of Vocational Technology",
         "zh": "苏州工业园区职业技术学院(Suzhou Industrial Park Institute of Vocational Technology)"
-    },
-    "https://idp.jci.edu.cn/idp/shibboleth": {
-        "en": "Jingdezhen Ceramic Institute",
-        "zh": "景德镇陶瓷大学(Jingdezhen Ceramic Institute)"
     },
     "https://idp.jgsu.edu.cn/idp/shibboleth": {
         "en": "Jinggangshan University",
@@ -1362,6 +1374,14 @@
     "https://idp.jssnu.edu.cn/idp/shibboleth": {
         "en": "Jiangsu Second Normal University",
         "zh": "江苏第二师范学院(Jiangsu Second Normal University)"
+    },
+    "https://idp.jssvc.edu.cn/idp/shibboleth": {
+        "en": "Suzhou Vocational University",
+        "zh": "苏州市职业大学(Suzhou Vocational University)"
+    },
+    "https://idp.jsut.edu.cn/idp/shibboleth": {
+        "en": "Jiangsu University of Technology",
+        "zh": "江苏理工学院(Jiangsu University of Technology)"
     },
     "https://idp.jsviat.edu.cn/idp/shibboleth": {
         "en": "Jiangsu Vocational Institute of Architectural Technology",
@@ -2019,6 +2039,10 @@
         "en": "ShanghaiInnovation Institute",
         "zh": "上海创智学院(ShanghaiInnovation Institute)"
     },
+    "https://idp.sisu.edu.cn/idp/shibboleth": {
+        "en": "Sichuan International Studies University",
+        "zh": "四川外国语大学(Sichuan International Studies University)"
+    },
     "https://idp.situ.edu.cn/idp/shibboleth": {
         "en": "Shenyang Institute of Technology",
         "zh": "沈阳工学院(Shenyang Institute of Technology)"
@@ -2659,6 +2683,10 @@
         "en": "Yunnan Arts University",
         "zh": "云南艺术学院(Yunnan Arts University)"
     },
+    "https://idp.ynau.edu.cn/idp/shibboleth": {
+        "en": "Yunnan Agricultural University",
+        "zh": "云南农业大学(Yunnan Agricultural University)"
+    },
     "https://idp.ynftc.edu.cn/idp/shibboleth": {
         "en": "Yunnan Forestry Technological College",
         "zh": "云南林业职业技术学院(Yunnan Forestry Technological College)"
@@ -2922,6 +2950,10 @@
     "https://idpcarsi.qhvu.edu.cn/idp/shibboleth": {
         "en": "Qinghai Vocational and Technical University",
         "zh": "青海职业技术大学(Qinghai Vocational and Technical University)"
+    },
+    "https://idpcarsi.qhwszy.edu.cn/idp/shibboleth": {
+        "en": "Qinghai College Of Health Sciences And Technology",
+        "zh": "青海卫生职业技术学院(Qinghai College Of Health Sciences And Technology)"
     },
     "https://idpcarsi.shufe.edu.cn/idp/shibboleth": {
         "en": "Shanghai University of Finance and Economics",
