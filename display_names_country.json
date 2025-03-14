@@ -1020,6 +1020,10 @@
             "en": "UFSB - Universidade Federal do Sul da Bahia",
             "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
         },
+        "https://cafe.undf.edu.br/idp/shibboleth": {
+            "en": "UNDF - Universidade do Distrito Federal",
+            "pt-br": "UNDF - Universidade do Distrito Federal"
+        },
         "https://cafe.uneal.edu.br/idp/shibboleth": {
             "en": "UNEAL - Universidade Estadual de Alagoas",
             "pt-br": "UNEAL - Universidade Estadual de Alagoas"
@@ -2866,6 +2870,10 @@
             "en": "AHHUI JIANZHU UNIVERSITY",
             "zh": "安徽建筑大学(AHHUI JIANZHU UNIVERSITY)"
         },
+        "https://idp.ahmu.edu.cn/idp/shibboleth": {
+            "en": "Anhui Medical University",
+            "zh": "安徽医科大学(Anhui Medical University)"
+        },
         "https://idp.ahnu.edu.cn/idp/shibboleth": {
             "en": "Anhui Normal University",
             "zh": "安徽师范大学(Anhui Normal University)"
@@ -3806,6 +3814,10 @@
             "en": "Hubei University of Education",
             "zh": "湖北第二师范学院(Hubei University of Education)"
         },
+        "https://idp.hueb.edu.cn/idp/shibboleth": {
+            "en": "Hebei University of Economics and Business",
+            "zh": "河北经贸大学(Hebei University of Economics and Business)"
+        },
         "https://idp.huel.edu.cn/idp/shibboleth": {
             "en": "Henan University of Economics and Law",
             "zh": "河南财经政法大学(Henan University of Economics and Law)"
@@ -3890,6 +3902,10 @@
             "en": "Suzhou Industrial Park Institute of Vocational Technology",
             "zh": "苏州工业园区职业技术学院(Suzhou Industrial Park Institute of Vocational Technology)"
         },
+        "https://idp.jci.edu.cn/idp/shibboleth": {
+            "en": "Jingdezhen Ceramic University",
+            "zh": "景德镇陶瓷大学(Jingdezhen Ceramic University)"
+        },
         "https://idp.jgsu.edu.cn/idp/shibboleth": {
             "en": "Jinggangshan University",
             "zh": "井冈山大学(Jinggangshan University)"
@@ -3945,10 +3961,6 @@
         "https://idp.jnxy.edu.cn/idp/shibboleth": {
             "en": "Jining University",
             "zh": "济宁学院(Jining University)"
-        },
-        "https://idp.jsahvc.edu.cn/idp/shibboleth": {
-            "en": "Jiangsu Agri-animal Husbandry Vocational College",
-            "zh": "江苏农牧科技职业学院(Jiangsu Agri-animal Husbandry Vocational College)"
         },
         "https://idp.jscn.edu.cn/idp/shibboleth": {
             "en": "Jiangsu College Of Nursing",
@@ -4374,6 +4386,10 @@
             "en": "QingDao BinHai University",
             "zh": "青岛滨海学院(QingDao BinHai University)"
         },
+        "https://idp.qdec.edu.cn/idp/shibboleth": {
+            "en": "Qingdao Engineering Vocational College",
+            "zh": "青岛工程职业学院(Qingdao Engineering Vocational College)"
+        },
         "https://idp.qdgw.edu.cn/idp/shibboleth": {
             "en": "Qingdao Harbour Vocational & Technical College",
             "zh": "青岛港湾职业技术学院(Qingdao Harbour Vocational & Technical College)"
@@ -4409,6 +4425,10 @@
         "https://idp.qhu.edu.cn/idp/shibboleth": {
             "en": "Qinghai University",
             "zh": "青海大学(Qinghai University)"
+        },
+        "https://idp.qjmc.edu.cn/idp/shibboleth": {
+            "en": "Qujing Medical College",
+            "zh": "曲靖医学高等专科学校(Qujing Medical College)"
         },
         "https://idp.qlu.edu.cn/idp/shibboleth": {
             "en": "QILU UNIVERSITY OF TECHNOLOGY",
@@ -4922,6 +4942,10 @@
             "en": "Taizhou University of Jiangsu",
             "zh": "泰州学院(Taizhou University of Jiangsu)"
         },
+        "https://idp.tzvcst.edu.cn/idp/shibboleth": {
+            "en": "Taizhou Vocational College Of Science & Technology",
+            "zh": "台州科技职业学院(Taizhou Vocational College Of Science & Technology)"
+        },
         "https://idp.ucass.edu.cn/idp/shibboleth": {
             "en": "University of Chinese Academy of Social Sciences",
             "zh": "中国社会科学院大学(University of Chinese Academy of Social Sciences)"
@@ -4969,6 +4993,10 @@
         "https://idp.ustl.edu.cn/idp/shibboleth": {
             "en": "University of Science and Technology Liaoning",
             "zh": "辽宁科技大学(University of Science and Technology Liaoning)"
+        },
+        "https://idp.usts.edu.cn/idp/shibboleth": {
+            "en": "Suzhou University of Science and Technology",
+            "zh": "苏州科技大学(Suzhou University of Science and Technology)"
         },
         "https://idp.usx.edu.cn/idp/shibboleth": {
             "en": "Shaoxing University",
