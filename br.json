@@ -287,6 +287,10 @@
         "en": "UNIFOR - Universidade de Fortaleza",
         "pt-br": "UNIFOR - Universidade de Fortaleza"
     },
+    "https://cafe.unigranrio.edu.br/idp/shibboleth": {
+        "en": "UNIGRANRIO - Universidade do Grande Rio",
+        "pt-br": "UNIGRANRIO - Universidade do Grande Rio"
+    },
     "https://cafe.unimontes.br/idp/shibboleth": {
         "en": "UNIMONTES - Universidade Estadual de Montes Claros",
         "pt-br": "UNIMONTES - Universidade Estadual de Montes Claros"
@@ -406,10 +410,6 @@
     "https://dourado2023.ufs.br/idp/shibboleth": {
         "en": "UFS - Universidade Federal de Sergipe",
         "pt-br": "UFS - Universidade Federal de Sergipe"
-    },
-    "https://epamigrnp.epamig.br/idp/shibboleth": {
-        "en": "EPAMIG - Empresa de de Pesquisa Agropecuaria de Minas Gerais",
-        "pt-br": "EPAMIG - Empresa de de Pesquisa Agropecuaria de Minas Gerais"
     },
     "https://facape-vp-cafe.facape.br/idp/shibboleth": {
         "en": "FACAPE - Faculdade de Petrolina",
