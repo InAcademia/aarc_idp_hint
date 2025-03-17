@@ -283,10 +283,6 @@
         "en": "Anhui Polytechnic University",
         "zh": "安徽工程大学(Anhui Polytechnic University)"
     },
-    "https://idp.ahsdxy.edu.cn/idp/shibboleth": {
-        "en": "Anhui Water Conservancy Technical College",
-        "zh": "安徽水利水电职业技术学院(Anhui Water Conservancy Technical College)"
-    },
     "https://idp.ahstu.edu.cn/idp/shibboleth": {
         "en": "AnHui Science and Technology University",
         "zh": "安徽科技学院(AnHui Science and Technology University)"
@@ -1674,6 +1670,10 @@
     "https://idp.nnutc.edu.cn/idp/shibboleth": {
         "en": "Nanjing Normal University Taizhou College",
         "zh": "南京师范大学泰州学院(Nanjing Normal University Taizhou College)"
+    },
+    "https://idp.nnvtu.edu.cn/idp/shibboleth": {
+        "en": "Nanning Vocational and Technical University",
+        "zh": "南宁职业技术大学(Nanning Vocational and Technical University)"
     },
     "https://idp.nsi.edu.cn/idp/shibboleth": {
         "en": "Nanjing Sport Institute",

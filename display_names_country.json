@@ -992,6 +992,10 @@
             "en": "UFF - Universidade Federal Fluminense",
             "pt-br": "UFF - Universidade Federal Fluminense"
         },
+        "https://cafe.ufmg.br/idp/shibboleth": {
+            "en": "UFMG - Universidade Federal de Minas Gerais",
+            "pt-br": "UFMG - Universidade Federal de Minas Gerais"
+        },
         "https://cafe.ufnt.edu.br/idp/shibboleth": {
             "en": "UFNT - Universidade Federal do Norte do Tocantins",
             "pt-br": "UFNT - Universidade Federal do Norte do Tocantins"
@@ -1683,10 +1687,6 @@
         "https://rnp2.unip.br/idp/shibboleth": {
             "en": "UNIP - Universidade Paulista",
             "pt-br": "UNIP - Universidade Paulista"
-        },
-        "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
-            "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
-            "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
         },
         "https://servercafe.iftm.edu.br/idp/shibboleth": {
             "en": "IFTM - Instituto Federal do Triangulo Mineiro",
@@ -2877,10 +2877,6 @@
         "https://idp.ahpu.edu.cn/idp/shibboleth": {
             "en": "Anhui Polytechnic University",
             "zh": "安徽工程大学(Anhui Polytechnic University)"
-        },
-        "https://idp.ahsdxy.edu.cn/idp/shibboleth": {
-            "en": "Anhui Water Conservancy Technical College",
-            "zh": "安徽水利水电职业技术学院(Anhui Water Conservancy Technical College)"
         },
         "https://idp.ahstu.edu.cn/idp/shibboleth": {
             "en": "AnHui Science and Technology University",
@@ -4269,6 +4265,10 @@
         "https://idp.nnutc.edu.cn/idp/shibboleth": {
             "en": "Nanjing Normal University Taizhou College",
             "zh": "南京师范大学泰州学院(Nanjing Normal University Taizhou College)"
+        },
+        "https://idp.nnvtu.edu.cn/idp/shibboleth": {
+            "en": "Nanning Vocational and Technical University",
+            "zh": "南宁职业技术大学(Nanning Vocational and Technical University)"
         },
         "https://idp.nsi.edu.cn/idp/shibboleth": {
             "en": "Nanjing Sport Institute",
@@ -13432,6 +13432,10 @@
         "https://idp.toyota-ti.ac.jp/idp/shibboleth": {
             "en": "Toyota Technological Institute",
             "ja": "豊田工業大学"
+        },
+        "https://idp.u-aizu.ac.jp/idp/shibboleth": {
+            "en": "The University of Aizu",
+            "ja": "会津大学"
         },
         "https://idp.u-hyogo.ac.jp/idp/shibboleth": {
             "en": "University of Hyogo",
