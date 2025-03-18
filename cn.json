@@ -1287,6 +1287,10 @@
         "en": "Inner Mongolia University",
         "zh": "内蒙古大学(Inner Mongolia University)"
     },
+    "https://idp.imun.edu.cn/idp/shibboleth": {
+        "en": "Inner Mongolia Minzu University",
+        "zh": "内蒙古民族大学(Inner Mongolia Minzu University)"
+    },
     "https://idp.imust.edu.cn/idp/shibboleth": {
         "en": "Inner Mongolia University of science and technology",
         "zh": "内蒙古科技大学(Inner Mongolia University of science and technology)"
@@ -1359,6 +1363,10 @@
         "en": "Jining University",
         "zh": "济宁学院(Jining University)"
     },
+    "https://idp.jsahvc.edu.cn/idp/shibboleth": {
+        "en": "Jiangsu Agri-animal Husbandry Vocational College",
+        "zh": "江苏农牧科技职业学院(Jiangsu Agri-animal Husbandry Vocational College)"
+    },
     "https://idp.jscn.edu.cn/idp/shibboleth": {
         "en": "Jiangsu College Of Nursing",
         "zh": "江苏护理职业学院(Jiangsu College Of Nursing)"
@@ -1430,6 +1438,10 @@
     "https://idp.jzmu.edu.cn/idp/shibboleth": {
         "en": "Jinzhou Medical University",
         "zh": "锦州医科大学(Jinzhou Medical University)"
+    },
+    "https://idp.jzun.edu.cn/idp/shibboleth": {
+        "en": "Jingzhou University",
+        "zh": "荆州学院(Jingzhou University)"
     },
     "https://idp.lcu.edu.cn/idp/shibboleth": {
         "en": "Liaocheng University",
@@ -2066,6 +2078,10 @@
     "https://idp.sju.edu.cn/idp/shibboleth": {
         "en": "SANJIANG UNIVERSITY",
         "zh": "三江学院(SANJIANG UNIVERSITY)"
+    },
+    "https://idp.sjzc.edu.cn/idp/shibboleth": {
+        "en": "Shijiazhuang University",
+        "zh": "石家庄学院(Shijiazhuang University)"
     },
     "https://idp.smmu.edu.cn/idp/shibboleth": {
         "en": "The Second Military Medical University",
