@@ -605,6 +605,9 @@
     "https://idpb.bits-pilani.ac.in/idp/shibboleth": {
         "en": "Birla Institute of Technology and Science, Pilani"
     },
+    "https://idpsso.alliance.edu.in/idp/shibboleth": {
+        "en": "Alliance University SSO"
+    },
     "https://idpvesasc.ves.ac.in/idp/shibboleth": {
         "en": "Vivekanand Education Society"
     },

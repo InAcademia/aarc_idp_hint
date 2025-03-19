@@ -5594,6 +5594,10 @@
             "en": "Shanghai University of Finance and Economics",
             "zh": "上海财经大学(Shanghai University of Finance and Economics)"
         },
+        "https://idpcarsi.xncy.edu.cn/idp/shibboleth": {
+            "en": "Xining Urban Vocational& Technical College",
+            "zh": "西宁城市职业技术学院(Xining Urban Vocational& Technical College)"
+        },
         "https://idpfudan.fudan.edu.cn/idp/shibboleth": {
             "en": "Fudan University",
             "zh": "复旦大学(Fudan University)"
@@ -12457,6 +12461,9 @@
         "https://idpb.bits-pilani.ac.in/idp/shibboleth": {
             "en": "Birla Institute of Technology and Science, Pilani"
         },
+        "https://idpsso.alliance.edu.in/idp/shibboleth": {
+            "en": "Alliance University SSO"
+        },
         "https://idpvesasc.ves.ac.in/idp/shibboleth": {
             "en": "Vivekanand Education Society"
         },
@@ -16919,6 +16926,9 @@
         },
         "https://nus.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "NUS - National University of Singapore"
+        },
+        "https://nusaz.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+            "en": "NUS - New - National University of Singapore"
         },
         "https://nyp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "NYP - Nanyang Polytechnic"
