@@ -11333,9 +11333,6 @@
             "el": "Πανεπιστήμιο Κρήτης",
             "en": "University of Crete"
         },
-        "https://rciam-pre.vm.grnet.gr/auth/realms/grnet-sps": {
-            "en": "https://rciam-pre.vm.grnet.gr/auth/realms/grnet-sps"
-        },
         "https://shib.elinyae.gr/idp/shibboleth": {
             "el": "ΕΛ.ΙΝ.Υ.Α.Ε.",
             "en": "EL.IN.Y.A.E."
