@@ -1135,8 +1135,8 @@
         "en": "Albstadt-Sigmaringen University of Applied Sciences"
     },
     "https://login.hs-mannheim.de/idp/shibboleth": {
-        "de": "Hochschule Mannheim",
-        "en": "University of Applied Sciences Mannheim"
+        "de": "Technische Hochschule Mannheim",
+        "en": "Technische Hochschule Mannheim"
     },
     "https://login.hs-ulm.de/shibboleth-idp": {
         "de": "Technische Hochschule Ulm",
@@ -1353,6 +1353,10 @@
     "https://shibb.mpcdf.mpg.de/mpq/shibboleth": {
         "de": "Max Planck Institut für Quantenoptik (MPQ)",
         "en": "Max Planck Institute for Quantum Optics (MPQ)"
+    },
+    "https://shibb.zalf.de/idp/shibboleth": {
+        "de": "ZALF Müncheberg IdP",
+        "en": "ZALF Müncheberg IdP"
     },
     "https://shibbo.hfm-weimar.de/idp/shibboleth": {
         "de": "Hochschule für Musik Weimar",

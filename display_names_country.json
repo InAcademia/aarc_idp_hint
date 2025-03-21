@@ -1468,6 +1468,10 @@
             "en": "UNIJORGE - Centro Universitario Jorge Amado",
             "pt-br": "UNIJORGE - Centro Universitario Jorge Amado"
         },
+        "https://idp.unijui.edu.br/idp/shibboleth": {
+            "en": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
+            "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul"
+        },
         "https://idp.unir.br/idp/shibboleth": {
             "en": "UNIR - Fundacao Universidade Federal de Rondonia",
             "pt-br": "UNIR - Fundacao Universidade Federal de Rondonia"
@@ -1527,10 +1531,6 @@
         "https://idp2.ufmt.br/idp/shibboleth": {
             "en": "UFMT - Universidade Federal de Mato Grosso",
             "pt-br": "UFMT - Universidade Federal de Mato Grosso"
-        },
-        "https://idp2.unijui.edu.br/idp/shibboleth": {
-            "en": "UNIJUI - Universidade Regional do Noroeste do Estado do RS",
-            "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do RS"
         },
         "https://idp4.uepg.br/idp/shibboleth": {
             "en": "UEPG - Universidade Estadual de Ponta Grossa",
@@ -4117,6 +4117,10 @@
         "https://idp.lut.edu.cn/idp/shibboleth": {
             "en": "Lanzhou University of Technology",
             "zh": "兰州理工大学(Lanzhou University of Technology)"
+        },
+        "https://idp.lypt.edu.cn/idp/shibboleth": {
+            "en": "Luoyang Polytechnic",
+            "zh": "洛阳职业技术学院(Luoyang Polytechnic)"
         },
         "https://idp.lyu.edu.cn/idp/shibboleth": {
             "en": "Linyi University",
@@ -7714,8 +7718,8 @@
             "en": "Albstadt-Sigmaringen University of Applied Sciences"
         },
         "https://login.hs-mannheim.de/idp/shibboleth": {
-            "de": "Hochschule Mannheim",
-            "en": "University of Applied Sciences Mannheim"
+            "de": "Technische Hochschule Mannheim",
+            "en": "Technische Hochschule Mannheim"
         },
         "https://login.hs-ulm.de/shibboleth-idp": {
             "de": "Technische Hochschule Ulm",
@@ -7932,6 +7936,10 @@
         "https://shibb.mpcdf.mpg.de/mpq/shibboleth": {
             "de": "Max Planck Institut für Quantenoptik (MPQ)",
             "en": "Max Planck Institute for Quantum Optics (MPQ)"
+        },
+        "https://shibb.zalf.de/idp/shibboleth": {
+            "de": "ZALF Müncheberg IdP",
+            "en": "ZALF Müncheberg IdP"
         },
         "https://shibbo.hfm-weimar.de/idp/shibboleth": {
             "de": "Hochschule für Musik Weimar",
@@ -21545,6 +21553,9 @@
         },
         "https://sso.vai.org/idp": {
             "en": "Van Andel Research Institute"
+        },
+        "https://sso.vanderbilt.edu/idp": {
+            "en": "zz_DO_NOT_USE_Vanderbilt University"
         },
         "https://sso.wcu.edu/idp": {
             "en": "Western Carolina University"

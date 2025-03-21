@@ -1337,6 +1337,9 @@
     "https://sso.vai.org/idp": {
         "en": "Van Andel Research Institute"
     },
+    "https://sso.vanderbilt.edu/idp": {
+        "en": "zz_DO_NOT_USE_Vanderbilt University"
+    },
     "https://sso.wcu.edu/idp": {
         "en": "Western Carolina University"
     },

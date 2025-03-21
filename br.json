@@ -707,6 +707,10 @@
         "en": "UNIJORGE - Centro Universitario Jorge Amado",
         "pt-br": "UNIJORGE - Centro Universitario Jorge Amado"
     },
+    "https://idp.unijui.edu.br/idp/shibboleth": {
+        "en": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
+        "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul"
+    },
     "https://idp.unir.br/idp/shibboleth": {
         "en": "UNIR - Fundacao Universidade Federal de Rondonia",
         "pt-br": "UNIR - Fundacao Universidade Federal de Rondonia"
@@ -766,10 +770,6 @@
     "https://idp2.ufmt.br/idp/shibboleth": {
         "en": "UFMT - Universidade Federal de Mato Grosso",
         "pt-br": "UFMT - Universidade Federal de Mato Grosso"
-    },
-    "https://idp2.unijui.edu.br/idp/shibboleth": {
-        "en": "UNIJUI - Universidade Regional do Noroeste do Estado do RS",
-        "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do RS"
     },
     "https://idp4.uepg.br/idp/shibboleth": {
         "en": "UEPG - Universidade Estadual de Ponta Grossa",
