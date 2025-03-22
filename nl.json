@@ -43,10 +43,6 @@
         "en": "Van Hall Larenstein, University of Applied Sciences",
         "nl": "Hogeschool Van Hall Larenstein"
     },
-    "http://adfs.ipabo.nl/adfs/services/trust": {
-        "en": "Hogeschool IPABO (Old)",
-        "nl": "Hogeschool IPABO (Oud)"
-    },
     "http://adfs.knaw.nl/adfs/services/trust": {
         "en": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)",
         "nl": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)"

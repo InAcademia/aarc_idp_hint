@@ -2826,6 +2826,10 @@
             "en": "Huzhou University",
             "zh": "湖州师范学院(Huzhou University)"
         },
+        "https://idp-lib.zjxu.edu.cn/idp/shibboleth": {
+            "en": "Jiaxing University",
+            "zh": "嘉兴大学(Jiaxing University)"
+        },
         "https://idp-tsg.buct.edu.cn/idp/shibboleth": {
             "en": "Beijing University of Chemical Technology",
             "zh": "北京化工大学(Beijing University of Chemical Technology)"
@@ -2886,6 +2890,10 @@
             "en": "Suzhou University",
             "zh": "宿州学院(Suzhou University)"
         },
+        "https://idp.ahtcm.edu.cn/idp/shibboleth": {
+            "en": "AnHui Univercity Of Chinese Medicine",
+            "zh": "安徽中医药大学(AnHui Univercity Of Chinese Medicine)"
+        },
         "https://idp.ahu.edu.cn/idp/shibboleth": {
             "en": "Anhui University",
             "zh": "安徽大学(Anhui University)"
@@ -2937,6 +2945,10 @@
         "https://idp.bcnu.edu.cn/idp/shibboleth": {
             "en": "BaiCheng Normal University",
             "zh": "白城师范学院(BaiCheng Normal University)"
+        },
+        "https://idp.bctb.edu.cn/idp/shibboleth": {
+            "en": "Bengbu College of Technology and Business",
+            "zh": "蚌埠工商学院(Bengbu College of Technology and Business)"
         },
         "https://idp.bcu.edu.cn/idp/shibboleth": {
             "en": "Beijing City University",
@@ -4226,6 +4238,10 @@
             "en": "North China University of Water Resources and Electric Power",
             "zh": "华北水利水电大学(North China University of Water Resources and Electric Power)"
         },
+        "https://idp.ndky.edu.cn/idp/shibboleth": {
+            "en": "College of Science & Technology Ningbo University",
+            "zh": "宁波大学科学技术学院(College of Science & Technology Ningbo University)"
+        },
         "https://idp.ndnu.edu.cn/idp/shibboleth": {
             "en": "Ningde Normal University",
             "zh": "宁德师范学院(Ningde Normal University)"
@@ -4233,6 +4249,10 @@
         "https://idp.neau.edu.cn/idp/shibboleth": {
             "en": "Northeast Agricultural University",
             "zh": "东北农业大学(Northeast Agricultural University)"
+        },
+        "https://idp.nepu.edu.cn/idp/shibboleth": {
+            "en": "Northeast Petroleum University",
+            "zh": "东北石油大学(Northeast Petroleum University)"
         },
         "https://idp.neu.edu.cn/idp/shibboleth": {
             "en": "Northeastern University - China",
@@ -4357,6 +4377,10 @@
         "https://idp.nynu.edu.cn/idp/shibboleth": {
             "en": "Nanyang Normal University",
             "zh": "南阳师范学院(Nanyang Normal University)"
+        },
+        "https://idp.oit.edu.cn/idp/shibboleth": {
+            "en": "Ordos Institute of Technology",
+            "zh": "鄂尔多斯应用技术学院(Ordos Institute of Technology)"
         },
         "https://idp.ouc.edu.cn/idp/shibboleth": {
             "en": "Ocean University of China",
@@ -5190,6 +5214,10 @@
             "en": "Xianda College of Economics and Humanities Shanghai International Studies University",
             "zh": "上海外国语大学贤达经济人文学院(Xianda College of Economics and Humanities Shanghai International Studies University)"
         },
+        "https://idp.xhcom.edu.cn/idp/shibboleth": {
+            "en": "Xinghai Conservatory of Music",
+            "zh": "星海音乐学院(Xinghai Conservatory of Music)"
+        },
         "https://idp.xhu.edu.cn/idp/shibboleth": {
             "en": "Xihua University",
             "zh": "西华大学(Xihua University)"
@@ -5437,10 +5465,6 @@
         "https://idp.zjnu.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Normal University",
             "zh": "浙江师范大学(Zhejiang Normal University)"
-        },
-        "https://idp.zjou.edu.cn/idp/shibboleth": {
-            "en": "Zhejiang Ocean University",
-            "zh": "浙江海洋大学(Zhejiang Ocean University)"
         },
         "https://idp.zjpc.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Police College",
@@ -10813,10 +10837,6 @@
             "en": "EC-NANT3b",
             "fr": "EC-NANT3b"
         },
-        "https://shibidp.oca.eu/idp/shibboleth": {
-            "en": "Observatoire de la Côte d'Azur (legacy)",
-            "fr": "Observatoire de la Côte d'Azur (legacy)"
-        },
         "https://shibone.univ-catholille.fr/idp/shibboleth": {
             "en": "Catholic University of Lille",
             "fr": "Université Catholique de Lille"
@@ -14765,10 +14785,6 @@
         "http://adfs.hvhl.nl/adfs/services/trust": {
             "en": "Van Hall Larenstein, University of Applied Sciences",
             "nl": "Hogeschool Van Hall Larenstein"
-        },
-        "http://adfs.ipabo.nl/adfs/services/trust": {
-            "en": "Hogeschool IPABO (Old)",
-            "nl": "Hogeschool IPABO (Oud)"
         },
         "http://adfs.knaw.nl/adfs/services/trust": {
             "en": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)",

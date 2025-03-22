@@ -1083,10 +1083,6 @@
         "en": "EC-NANT3b",
         "fr": "EC-NANT3b"
     },
-    "https://shibidp.oca.eu/idp/shibboleth": {
-        "en": "Observatoire de la Côte d'Azur (legacy)",
-        "fr": "Observatoire de la Côte d'Azur (legacy)"
-    },
     "https://shibone.univ-catholille.fr/idp/shibboleth": {
         "en": "Catholic University of Lille",
         "fr": "Université Catholique de Lille"
