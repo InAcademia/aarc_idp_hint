@@ -3878,6 +3878,10 @@
             "en": "Beijing Engineering Research Center of NGI",
             "zh": "下一代互联网重大应用技术北京市工程研究中心(Beijing Engineering Research Center of NGI)"
         },
+        "https://idp.imaa.edu.cn/idp/shibboleth": {
+            "en": "Inner Mongolia Technical College of Construction",
+            "zh": "内蒙古建筑职业技术学院(Inner Mongolia Technical College of Construction)"
+        },
         "https://idp.imac.edu.cn/idp/shibboleth": {
             "en": "Inner Mongolia Arts University",
             "zh": "内蒙古艺术学院(Inner Mongolia Arts University)"
@@ -4290,6 +4294,10 @@
             "en": "Nanjing University of Chinese Medicine",
             "zh": "南京中医药大学(Nanjing University of Chinese Medicine)"
         },
+        "https://idp.njupt.edu.cn/idp/shibboleth": {
+            "en": "Nanjing University of Posts and Telecommunications",
+            "zh": "南京邮电大学(Nanjing University of Posts and Telecommunications)"
+        },
         "https://idp.njust.edu.cn/idp/shibboleth": {
             "en": "Nanjing University of Science and Technology",
             "zh": "南京理工大学(Nanjing University of Science and Technology)"
@@ -4461,6 +4469,10 @@
         "https://idp.qhu.edu.cn/idp/shibboleth": {
             "en": "Qinghai University",
             "zh": "青海大学(Qinghai University)"
+        },
+        "https://idp.qhvtc.edu.cn/idp/shibboleth": {
+            "en": "QingHai Higher Vocational and Technical Institute",
+            "zh": "青海高等职业技术学院(QingHai Higher Vocational and Technical Institute)"
         },
         "https://idp.qjmc.edu.cn/idp/shibboleth": {
             "en": "Qujing Medical College",
