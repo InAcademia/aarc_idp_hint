@@ -347,6 +347,10 @@
         "en": "Bengbu Medical College",
         "zh": "蚌埠医学院(Bengbu Medical College)"
     },
+    "https://idp.bbmu.edu.cn/idp/shibboleth": {
+        "en": "Bengbu Medical University",
+        "zh": "蚌埠医科大学(Bengbu Medical University)"
+    },
     "https://idp.bcnu.edu.cn/idp/shibboleth": {
         "en": "BaiCheng Normal University",
         "zh": "白城师范学院(BaiCheng Normal University)"
@@ -1075,6 +1079,10 @@
         "en": "Henan University",
         "zh": "河南大学(Henan University)"
     },
+    "https://idp.hevute.edu.cn/idp/shibboleth": {
+        "en": "Hebei Vocational University Of Technology And Engineering",
+        "zh": "河北科技工程职业技术大学(Hebei Vocational University Of Technology And Engineering)"
+    },
     "https://idp.hfnu.edu.cn/idp/shibboleth": {
         "en": "Hefei Normal University",
         "zh": "合肥师范学院(Hefei Normal University)"
@@ -1467,6 +1475,10 @@
         "en": "Liaocheng University Dongchang College",
         "zh": "聊城大学东昌学院(Liaocheng University Dongchang College)"
     },
+    "https://idp.ldu.edu.cn/idp/shibboleth": {
+        "en": "Ludong University",
+        "zh": "鲁东大学(Ludong University)"
+    },
     "https://idp.liaodongu.edu.cn/idp/shibboleth": {
         "en": "Liaodong  University",
         "zh": "辽东学院(Liaodong  University)"
@@ -1490,6 +1502,10 @@
     "https://idp.lixin.edu.cn/idp/shibboleth": {
         "en": "Shanghai Lixin University Of Accounting And Finance",
         "zh": "上海立信会计金融学院(Shanghai Lixin University Of Accounting And Finance)"
+    },
+    "https://idp.ljtc.edu.cn/idp/shibboleth": {
+        "en": "Lijiang Teachers College",
+        "zh": "丽江师范高等专科学校(Lijiang Teachers College)"
     },
     "https://idp.lncc.edu.cn/idp/shibboleth": {
         "en": "Liaoning Provincial College of Communications",
@@ -1882,6 +1898,10 @@
     "https://idp.qjmc.edu.cn/idp/shibboleth": {
         "en": "Qujing Medical College",
         "zh": "曲靖医学高等专科学校(Qujing Medical College)"
+    },
+    "https://idp.qjnu.edu.cn/idp/shibboleth": {
+        "en": "Qujing Normal University",
+        "zh": "曲靖师范学院(Qujing Normal University)"
     },
     "https://idp.qlu.edu.cn/idp/shibboleth": {
         "en": "QILU UNIVERSITY OF TECHNOLOGY",

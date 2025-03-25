@@ -255,6 +255,10 @@
         "de": "Europa-Universität Viadrina",
         "en": "Europa-Universität Viadrina"
     },
+    "https://idp.evh-bochum.de/idp/shibboleth": {
+        "de": "Evangelische Hochschule Bochum",
+        "en": "Evangelische Hochschule Bochum"
+    },
     "https://idp.evhn.de/idp/shibboleth": {
         "de": "Evangelische Hochschule Nürnberg",
         "en": "Evangelische Hochschule Nuernberg"

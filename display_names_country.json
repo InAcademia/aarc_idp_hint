@@ -2942,6 +2942,10 @@
             "en": "Bengbu Medical College",
             "zh": "蚌埠医学院(Bengbu Medical College)"
         },
+        "https://idp.bbmu.edu.cn/idp/shibboleth": {
+            "en": "Bengbu Medical University",
+            "zh": "蚌埠医科大学(Bengbu Medical University)"
+        },
         "https://idp.bcnu.edu.cn/idp/shibboleth": {
             "en": "BaiCheng Normal University",
             "zh": "白城师范学院(BaiCheng Normal University)"
@@ -3670,6 +3674,10 @@
             "en": "Henan University",
             "zh": "河南大学(Henan University)"
         },
+        "https://idp.hevute.edu.cn/idp/shibboleth": {
+            "en": "Hebei Vocational University Of Technology And Engineering",
+            "zh": "河北科技工程职业技术大学(Hebei Vocational University Of Technology And Engineering)"
+        },
         "https://idp.hfnu.edu.cn/idp/shibboleth": {
             "en": "Hefei Normal University",
             "zh": "合肥师范学院(Hefei Normal University)"
@@ -4062,6 +4070,10 @@
             "en": "Liaocheng University Dongchang College",
             "zh": "聊城大学东昌学院(Liaocheng University Dongchang College)"
         },
+        "https://idp.ldu.edu.cn/idp/shibboleth": {
+            "en": "Ludong University",
+            "zh": "鲁东大学(Ludong University)"
+        },
         "https://idp.liaodongu.edu.cn/idp/shibboleth": {
             "en": "Liaodong  University",
             "zh": "辽东学院(Liaodong  University)"
@@ -4085,6 +4097,10 @@
         "https://idp.lixin.edu.cn/idp/shibboleth": {
             "en": "Shanghai Lixin University Of Accounting And Finance",
             "zh": "上海立信会计金融学院(Shanghai Lixin University Of Accounting And Finance)"
+        },
+        "https://idp.ljtc.edu.cn/idp/shibboleth": {
+            "en": "Lijiang Teachers College",
+            "zh": "丽江师范高等专科学校(Lijiang Teachers College)"
         },
         "https://idp.lncc.edu.cn/idp/shibboleth": {
             "en": "Liaoning Provincial College of Communications",
@@ -4477,6 +4493,10 @@
         "https://idp.qjmc.edu.cn/idp/shibboleth": {
             "en": "Qujing Medical College",
             "zh": "曲靖医学高等专科学校(Qujing Medical College)"
+        },
+        "https://idp.qjnu.edu.cn/idp/shibboleth": {
+            "en": "Qujing Normal University",
+            "zh": "曲靖师范学院(Qujing Normal University)"
         },
         "https://idp.qlu.edu.cn/idp/shibboleth": {
             "en": "QILU UNIVERSITY OF TECHNOLOGY",
@@ -6545,8 +6565,8 @@
             "en": "Municipal Library Rokycany"
         },
         "https://sb.nem-tr.cz/idp/shibboleth": {
-            "cs": "Nemocnice Třebíč, p.o.",
-            "en": "Třebíč Hospital"
+            "cs": "Nemocnice Trebic, p.o.",
+            "en": "Trebic Hospital"
         },
         "https://shib.medvik.cz/idp/shibboleth": {
             "cs": "Národní lékařská knihovna - Medvik",
@@ -6873,6 +6893,10 @@
         "https://idp.europa-uni.de/idp/shibboleth": {
             "de": "Europa-Universität Viadrina",
             "en": "Europa-Universität Viadrina"
+        },
+        "https://idp.evh-bochum.de/idp/shibboleth": {
+            "de": "Evangelische Hochschule Bochum",
+            "en": "Evangelische Hochschule Bochum"
         },
         "https://idp.evhn.de/idp/shibboleth": {
             "de": "Evangelische Hochschule Nürnberg",
@@ -13585,6 +13609,10 @@
             "en": "Kanazawa University",
             "ja": "金沢大学"
         },
+        "https://kumagaku.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "KUMAMOTO GAKUEN UNIVERSITY",
+            "ja": "熊本学園大学"
+        },
         "https://ldap.fukuyama-u.ac.jp/idp/shibboleth": {
             "en": "Fukuyama University",
             "ja": "福山大学"
@@ -15287,8 +15315,8 @@
             "nl": "Avans Hogeschool"
         },
         "https://sts.windows.net/8b67724a-455a-4693-a3b5-5581d93a5e6e/": {
-            "en": "SRON Netherlands Institute for Space Research",
-            "nl": "SRON Netherlands Institute for Space Research"
+            "en": "SRON Space Research Organisation Netherlands",
+            "nl": "SRON Space Research Organisation Netherlands"
         },
         "https://sts.windows.net/8cd24984-0aa3-4fc5-b09b-4d6ecfaa58fb/": {
             "en": "Naturalis Biodiversity Center",
@@ -16635,6 +16663,10 @@
         "https://idp.fil.bg.ac.rs/idp/shibboleth": {
             "en": "Faculty of Philology. University of Belgrade",
             "sr": "Filoloski fakultet Univerziteta u Beogradu"
+        },
+        "https://idp.kg.ac.rs/idp/shibboleth": {
+            "en": "University of Kragujevac",
+            "sr": "Univerzitet u Kragujevcu"
         },
         "https://idp.np.ac.rs/idp/shibboleth": {
             "en": "State university of Novi Pazar",

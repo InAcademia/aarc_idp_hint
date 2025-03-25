@@ -382,6 +382,10 @@
         "en": "Kanazawa University",
         "ja": "金沢大学"
     },
+    "https://kumagaku.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "KUMAMOTO GAKUEN UNIVERSITY",
+        "ja": "熊本学園大学"
+    },
     "https://ldap.fukuyama-u.ac.jp/idp/shibboleth": {
         "en": "Fukuyama University",
         "ja": "福山大学"
