@@ -1688,6 +1688,10 @@
             "en": "UNIP - Universidade Paulista",
             "pt-br": "UNIP - Universidade Paulista"
         },
+        "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
+            "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
+            "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
+        },
         "https://servercafe.iftm.edu.br/idp/shibboleth": {
             "en": "IFTM - Instituto Federal do Triangulo Mineiro",
             "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
@@ -2754,10 +2758,6 @@
             "en": "Shandong Normal University",
             "zh": "山东师范大学(Shandong Normal University)"
         },
-        "https://idp-lib.shcac.edu.cn/idp/shibboleth": {
-            "en": "Shanghai Civil Aviation College",
-            "zh": "上海民航职业技术学院(Shanghai Civil Aviation College)"
-        },
         "https://idp-lib.shcc.edu.cn/idp/shibboleth": {
             "en": "Shanghai Customs College",
             "zh": "上海海关学院(Shanghai Customs College)"
@@ -3422,10 +3422,6 @@
             "en": "Guangdong Polytechnic of Industry and Commerce",
             "zh": "广东工贸职业技术学院(Guangdong Polytechnic of Industry and Commerce)"
         },
-        "https://idp.gdmec.edu.cn/idp/shibboleth": {
-            "en": "Guangdong Mechanical and Electrical Polytechnic",
-            "zh": "广东机电职业技术学院(Guangdong Mechanical and Electrical Polytechnic)"
-        },
         "https://idp.gdmu.edu.cn/idp/shibboleth": {
             "en": "Guangdong Medical University",
             "zh": "广东医科大学(Guangdong Medical University)"
@@ -4006,17 +4002,9 @@
             "en": "Jiangsu Second Normal University",
             "zh": "江苏第二师范学院(Jiangsu Second Normal University)"
         },
-        "https://idp.jssvc.edu.cn/idp/shibboleth": {
-            "en": "Suzhou Vocational University",
-            "zh": "苏州市职业大学(Suzhou Vocational University)"
-        },
         "https://idp.jsut.edu.cn/idp/shibboleth": {
             "en": "Jiangsu University of Technology",
             "zh": "江苏理工学院(Jiangsu University of Technology)"
-        },
-        "https://idp.jsviat.edu.cn/idp/shibboleth": {
-            "en": "Jiangsu Vocational Institute of Architectural Technology",
-            "zh": "江苏建筑职业技术学院(Jiangsu Vocational Institute of Architectural Technology)"
         },
         "https://idp.jxnhu.edu.cn/idp/shibboleth": {
             "en": "Jiaxing Nanhu University",
@@ -4077,10 +4065,6 @@
         "https://idp.liaodongu.edu.cn/idp/shibboleth": {
             "en": "Liaodong  University",
             "zh": "辽东学院(Liaodong  University)"
-        },
-        "https://idp.lib.bnu.edu.cn/idp/shibboleth": {
-            "en": "Beijing Normal University",
-            "zh": "北京师范大学(Beijing Normal University)"
         },
         "https://idp.lib.swjtu.edu.cn/idp/shibboleth": {
             "en": "Southwest Jiaotong University",
@@ -4625,10 +4609,6 @@
         "https://idp.sdutcm.edu.cn/idp/shibboleth": {
             "en": "Shandong University of Traditional Chinese Medicine",
             "zh": "山东中医药大学(Shandong University of Traditional Chinese Medicine)"
-        },
-        "https://idp.sdvcst.edu.cn/idp/shibboleth": {
-            "en": "Shandong Vocational College of Science&Technology",
-            "zh": "山东科技职业学院(Shandong Vocational College of Science&Technology)"
         },
         "https://idp.sdwm.edu.cn/idp/shibboleth": {
             "en": "Shandong Foreign Trade Vocational College",
@@ -12111,6 +12091,9 @@
         "https://idp.iiitdmj.ac.in/idp/shibboleth": {
             "en": "IIITDM Jabalpur"
         },
+        "https://idp.iiitkottayam.ac.in/idp/shibboleth": {
+            "en": "Indian Institute of Information Technology (IIIT) Kottayam"
+        },
         "https://idp.iiitn.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Information Technology, Nagpur"
         },
@@ -12609,6 +12592,10 @@
         "https://auth.unisa.it/idp/shibboleth": {
             "en": "University of Salerno",
             "it": "Università degli Studi di Salerno"
+        },
+        "https://eduid-indire.aai.garr.it/idp/shibboleth": {
+            "en": "eduID.it",
+            "it": "eduID.it"
         },
         "https://garr-idp-prod.irccs.garr.it/idp/shibboleth": {
             "en": "PROD - IDP in the Cloud Project (GARR)",
@@ -13800,6 +13787,9 @@
         "https://idp-k4.federation.ke/idp/shibboleth": {
             "en": "Kenya Education Network"
         },
+        "https://idp.dkut.ac.ke/saml2/sso": {
+            "en": "Dedan Kimathi University of Technology"
+        },
         "https://idp.icipe.org/simplesaml/saml2/idp/metadata.php": {
             "en": "icipe"
         },
@@ -14751,6 +14741,10 @@
         "https://idp.las.ac.cn/idp/shibboleth": {
             "en": "National Science Library, Chinese Academy of Sciences",
             "zh": "中国科学院文献情报中心"
+        },
+        "https://idp.lib.bnu.edu.cn/idp/shibboleth": {
+            "en": "Beijing Normal University",
+            "zh": "北京师范大学"
         },
         "https://idp.redclara.net/saml2/idp/metadata.php": {
             "en": "RedCLARA (Proxy)",
@@ -15825,6 +15819,10 @@
             "en": "Stanisław Staszic State University of Applied Sciencies in Piła",
             "pl": "Akademia Nauk Stosowanych im. Stanisława Staszica w Pile"
         },
+        "https://cas.apoz.edu.pl/cas/idp": {
+            "en": "Fire University in Warsaw",
+            "pl": "Akademia Pożarnicza w Warszawie"
+        },
         "https://cas.kul.pl:8443/cas/idp/metadata": {
             "en": "John Paul II Catholic University of Lublin",
             "pl": "Katolicki Uniwersytet Lubelski Jana Pawła II"
@@ -15832,10 +15830,6 @@
         "https://cas.sgh.waw.pl/cas/idp/metadata": {
             "en": "SGH Warsaw School of Economics",
             "pl": "Szkoła Główna Handlowa w Warszawie"
-        },
-        "https://cas.sgsp.edu.pl/cas/idp": {
-            "en": "Main School of Fire Service",
-            "pl": "Szkoła Główna Służby Pożarniczej"
         },
         "https://cas.ue.katowice.pl/cas/idp": {
             "en": "University of Economics in Katowice",

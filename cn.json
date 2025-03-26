@@ -159,10 +159,6 @@
         "en": "Shandong Normal University",
         "zh": "山东师范大学(Shandong Normal University)"
     },
-    "https://idp-lib.shcac.edu.cn/idp/shibboleth": {
-        "en": "Shanghai Civil Aviation College",
-        "zh": "上海民航职业技术学院(Shanghai Civil Aviation College)"
-    },
     "https://idp-lib.shcc.edu.cn/idp/shibboleth": {
         "en": "Shanghai Customs College",
         "zh": "上海海关学院(Shanghai Customs College)"
@@ -827,10 +823,6 @@
         "en": "Guangdong Polytechnic of Industry and Commerce",
         "zh": "广东工贸职业技术学院(Guangdong Polytechnic of Industry and Commerce)"
     },
-    "https://idp.gdmec.edu.cn/idp/shibboleth": {
-        "en": "Guangdong Mechanical and Electrical Polytechnic",
-        "zh": "广东机电职业技术学院(Guangdong Mechanical and Electrical Polytechnic)"
-    },
     "https://idp.gdmu.edu.cn/idp/shibboleth": {
         "en": "Guangdong Medical University",
         "zh": "广东医科大学(Guangdong Medical University)"
@@ -1411,17 +1403,9 @@
         "en": "Jiangsu Second Normal University",
         "zh": "江苏第二师范学院(Jiangsu Second Normal University)"
     },
-    "https://idp.jssvc.edu.cn/idp/shibboleth": {
-        "en": "Suzhou Vocational University",
-        "zh": "苏州市职业大学(Suzhou Vocational University)"
-    },
     "https://idp.jsut.edu.cn/idp/shibboleth": {
         "en": "Jiangsu University of Technology",
         "zh": "江苏理工学院(Jiangsu University of Technology)"
-    },
-    "https://idp.jsviat.edu.cn/idp/shibboleth": {
-        "en": "Jiangsu Vocational Institute of Architectural Technology",
-        "zh": "江苏建筑职业技术学院(Jiangsu Vocational Institute of Architectural Technology)"
     },
     "https://idp.jxnhu.edu.cn/idp/shibboleth": {
         "en": "Jiaxing Nanhu University",
@@ -1482,10 +1466,6 @@
     "https://idp.liaodongu.edu.cn/idp/shibboleth": {
         "en": "Liaodong  University",
         "zh": "辽东学院(Liaodong  University)"
-    },
-    "https://idp.lib.bnu.edu.cn/idp/shibboleth": {
-        "en": "Beijing Normal University",
-        "zh": "北京师范大学(Beijing Normal University)"
     },
     "https://idp.lib.swjtu.edu.cn/idp/shibboleth": {
         "en": "Southwest Jiaotong University",
@@ -2030,10 +2010,6 @@
     "https://idp.sdutcm.edu.cn/idp/shibboleth": {
         "en": "Shandong University of Traditional Chinese Medicine",
         "zh": "山东中医药大学(Shandong University of Traditional Chinese Medicine)"
-    },
-    "https://idp.sdvcst.edu.cn/idp/shibboleth": {
-        "en": "Shandong Vocational College of Science&Technology",
-        "zh": "山东科技职业学院(Shandong Vocational College of Science&Technology)"
     },
     "https://idp.sdwm.edu.cn/idp/shibboleth": {
         "en": "Shandong Foreign Trade Vocational College",

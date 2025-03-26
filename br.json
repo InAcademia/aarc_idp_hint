@@ -927,6 +927,10 @@
         "en": "UNIP - Universidade Paulista",
         "pt-br": "UNIP - Universidade Paulista"
     },
+    "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
+        "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
+        "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
+    },
     "https://servercafe.iftm.edu.br/idp/shibboleth": {
         "en": "IFTM - Instituto Federal do Triangulo Mineiro",
         "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"

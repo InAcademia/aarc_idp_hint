@@ -191,6 +191,9 @@
     "https://idp.iiitdmj.ac.in/idp/shibboleth": {
         "en": "IIITDM Jabalpur"
     },
+    "https://idp.iiitkottayam.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Information Technology (IIIT) Kottayam"
+    },
     "https://idp.iiitn.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Information Technology, Nagpur"
     },

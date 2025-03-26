@@ -39,6 +39,10 @@
         "en": "Stanisław Staszic State University of Applied Sciencies in Piła",
         "pl": "Akademia Nauk Stosowanych im. Stanisława Staszica w Pile"
     },
+    "https://cas.apoz.edu.pl/cas/idp": {
+        "en": "Fire University in Warsaw",
+        "pl": "Akademia Pożarnicza w Warszawie"
+    },
     "https://cas.kul.pl:8443/cas/idp/metadata": {
         "en": "John Paul II Catholic University of Lublin",
         "pl": "Katolicki Uniwersytet Lubelski Jana Pawła II"
@@ -46,10 +50,6 @@
     "https://cas.sgh.waw.pl/cas/idp/metadata": {
         "en": "SGH Warsaw School of Economics",
         "pl": "Szkoła Główna Handlowa w Warszawie"
-    },
-    "https://cas.sgsp.edu.pl/cas/idp": {
-        "en": "Main School of Fire Service",
-        "pl": "Szkoła Główna Służby Pożarniczej"
     },
     "https://cas.ue.katowice.pl/cas/idp": {
         "en": "University of Economics in Katowice",
