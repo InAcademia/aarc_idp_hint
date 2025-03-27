@@ -171,6 +171,10 @@
         "en": "FPTI - Fundacao Parque Tecnologico Itaipu",
         "pt-br": "FPTI - Fundacao Parque Tecnologico Itaipu"
     },
+    "https://cafe.itep.br/idp/shibboleth": {
+        "en": "ITEP - Instituto de Tecnologia de Pernambuco",
+        "pt-br": "ITEP - Instituto de Tecnologia de Pernambuco"
+    },
     "https://cafe.itvds.org/idp/shibboleth": {
         "en": "ITV - Instituto Tecnologico Vale",
         "pt-br": "ITV - Instituto Tecnologico Vale"

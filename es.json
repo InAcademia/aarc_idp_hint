@@ -139,6 +139,10 @@
         "en": "Ministerio de Educacion y Formacion Profesional",
         "es": "Ministerio de Educación y Formación Profesional"
     },
+    "https://www.rediris.es/sir/educamadrididp": {
+        "en": "EducaMadrid",
+        "es": "EducaMadrid"
+    },
     "https://www.rediris.es/sir/edunavidp": {
         "en": "Educación de Navarra",
         "eu": "Educación de Navarra"
@@ -215,6 +219,10 @@
         "en": "ICFO – The Institute of Photonic Sciences",
         "es": "ICFO – The Institute of Photonic Sciences"
     },
+    "https://www.rediris.es/sir/iciaidp": {
+        "en": "Instituto Canario de Investigaciones Agrarias",
+        "es": "Instituto Canario de Investigaciones Agrarias"
+    },
     "https://www.rediris.es/sir/icn2idp": {
         "ca": "Instituto Catalan de Nanociencia y Nanotecnologia",
         "en": "Instituto Catalan de Nanociencia y Nanotecnologia"
@@ -254,6 +262,10 @@
     "https://www.rediris.es/sir/intaidp": {
         "en": "Instituto Nacional de Tecnica Aeroespacial",
         "es": "Instituto Nacional de Técnica Aeroespacial"
+    },
+    "https://www.rediris.es/sir/intefidp": {
+        "en": "Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado",
+        "es": "National Institute of Educational Technologies and Teacher Training"
     },
     "https://www.rediris.es/sir/iramidp": {
         "en": "IRAM - Institut de Radioastronomie Millimétrique",
