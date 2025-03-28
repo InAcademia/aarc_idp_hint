@@ -42,6 +42,10 @@
         "de": "HfH - Interkantonale Hochschule für Heilpädagogik",
         "en": "HfH - Interkantonale Hochschule für Heilpädagogik"
     },
+    "https://aai-login.kalaidos-fh.ch/idp/shibboleth": {
+        "de": "Kalaidos Fachhochschule",
+        "en": "Kalaidos University of Applied Sciences"
+    },
     "https://aai-login.ph-gr.ch/idp/shibboleth": {
         "de": "PHGR - Pädagogische Hochschule Graubünden",
         "en": "PHGR – University of Teacher Education of the Grisons"

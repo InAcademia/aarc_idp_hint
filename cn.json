@@ -15,6 +15,10 @@
         "en": "Southwest University",
         "zh": "西南大学(Southwest University)"
     },
+    "https://idp-carsi.cityu-dg.edu.cn/idp/shibboleth": {
+        "en": "City University of Hong Kong (DongGuan)",
+        "zh": "香港城市大学（东莞）(City University of Hong Kong (DongGuan))"
+    },
     "https://idp-carsi.shnu.edu.cn/idp/shibboleth": {
         "en": "Shanghai Normal University",
         "zh": "上海师范大学(Shanghai Normal University)"
@@ -307,6 +311,10 @@
         "en": "Anhui Institute of Information Technology",
         "zh": "安徽信息工程学院(Anhui Institute of Information Technology)"
     },
+    "https://idp.aku.edu.cn/idp/shibboleth": {
+        "en": "Ankang University",
+        "zh": "安康学院(Ankang University)"
+    },
     "https://idp.aqmc.edu.cn/idp/shibboleth": {
         "en": "Anqing Medical College",
         "zh": "安庆医药高等专科学校(Anqing Medical College)"
@@ -486,6 +494,10 @@
     "https://idp.ccsfu.edu.cn/idp/shibboleth": {
         "en": "Changchun Normal University",
         "zh": "长春师范大学(Changchun Normal University)"
+    },
+    "https://idp.ccu.edu.cn/idp/shibboleth": {
+        "en": "Changchun University",
+        "zh": "长春大学(Changchun University)"
     },
     "https://idp.ccut.edu.cn/idp/shibboleth": {
         "en": "Changchun University of Technology",
@@ -1199,6 +1211,10 @@
         "en": "Hubei University of Automotive Technology",
         "zh": "湖北汽车工业学院(Hubei University of Automotive Technology)"
     },
+    "https://idp.huayu.edu.cn/idp/shibboleth": {
+        "en": "Shandong Huayu University of Technology",
+        "zh": "山东华宇工学院(Shandong Huayu University of Technology)"
+    },
     "https://idp.hubu.edu.cn/idp/shibboleth": {
         "en": "Hubei University",
         "zh": "湖北大学(Hubei University)"
@@ -1326,6 +1342,10 @@
     "https://idp.jit.edu.cn/idp/shibboleth": {
         "en": "Jinling Institute of Technology",
         "zh": "金陵科技学院(Jinling Institute of Technology)"
+    },
+    "https://idp.jlart.edu.cn/idp/shibboleth": {
+        "en": "Jilin University Of Arts",
+        "zh": "吉林艺术学院(Jilin University Of Arts)"
     },
     "https://idp.jlau.edu.cn/idp/shibboleth": {
         "en": "JiLIn Agricultural University",
@@ -1578,6 +1598,10 @@
     "https://idp.ncepu.edu.cn/idp/shibboleth": {
         "en": "North China Electric Power University",
         "zh": "华北电力大学(North China Electric Power University)"
+    },
+    "https://idp.nchu.edu.cn/idp/shibboleth": {
+        "en": "Nanchang Hangkong University",
+        "zh": "南昌航空大学(Nanchang Hangkong University)"
     },
     "https://idp.ncist.edu.cn/idp/shibboleth": {
         "en": "North China Institute of Science and Technology",
@@ -2350,6 +2374,10 @@
     "https://idp.unn.edu.cn/idp/shibboleth": {
         "en": "Nanning University",
         "zh": "南宁学院(Nanning University)"
+    },
+    "https://idp.uoh.edu.cn/idp/shibboleth": {
+        "en": "Honghe University",
+        "zh": "红河学院(Honghe University)"
     },
     "https://idp.upc.edu.cn/idp/shibboleth": {
         "en": "China University of Petroleum(East China)",

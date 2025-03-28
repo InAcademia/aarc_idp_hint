@@ -167,6 +167,10 @@
         "de": "Universität für Musik und darstellende Kunst Graz",
         "en": "University of Music and Performing Arts Graz"
     },
+    "https://login.sfu.ac.at/idp/shibboleth": {
+        "de": "Sigmund Freud Privatuniversität",
+        "en": "Sigmund Freud Private University"
+    },
     "https://login.spengergasse.at/idp/shibboleth": {
         "de": "HTL Spengergasse",
         "en": "HTL Spengergasse"

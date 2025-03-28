@@ -163,10 +163,6 @@
         "en": "IPA - Instituto Agronomico de Pernambuco",
         "pt-br": "IPA - Instituto Agronomico de Pernambuco"
     },
-    "https://cafe.ita.br/idp/shibboleth": {
-        "en": "ITA - Instituto Tecnologico de Aeronautica",
-        "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
-    },
     "https://cafe.itaipuparquetec.org.br/idp/shibboleth": {
         "en": "FPTI - Fundacao Parque Tecnologico Itaipu",
         "pt-br": "FPTI - Fundacao Parque Tecnologico Itaipu"
@@ -631,6 +627,10 @@
         "en": "INT - Instituto Nacional de Tecnologia",
         "pt-br": "INT - Instituto Nacional de Tecnologia"
     },
+    "https://idp.ita.br/idp/shibboleth": {
+        "en": "ITA - Instituto Tecnologico de Aeronautica",
+        "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
+    },
     "https://idp.mast.br/idp/shibboleth": {
         "en": "MAST - Museu de Astronomia e Ciencias Afins",
         "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
@@ -818,6 +818,10 @@
     "https://idpcafe.usp.br/idp/shibboleth": {
         "en": "USP - Universidade de Sao Paulo",
         "pt-br": "USP - Universidade de Sao Paulo"
+    },
+    "https://idpcafe.veigadealmeida.edu.br/idp/shibboleth": {
+        "en": "UVA - Universidade Veiga de Almeida - 513",
+        "pt-br": "UVA - Universidade Veiga de Almeida - 513"
     },
     "https://idpcafe2022.ipen.br/idp/shibboleth": {
         "en": "IPEN - Instituto de Pesquisas Energeticas e Nucleares",

@@ -3,10 +3,6 @@
         "en": "University of Évora",
         "pt": "Universidade de Évora"
     },
-    "https://esel-idp02.esel.pt/idp/shibboleth": {
-        "en": "Lisbon Nursing High School",
-        "pt": "Escola Superior de Enfermagem de Lisboa"
-    },
     "https://id.inesc-id.pt/saml": {
         "en": "Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento",
         "pt": "Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento"
@@ -105,6 +101,10 @@
     "https://idp.esec.pt/idp/shibboleth": {
         "en": "IPC - Escola Superior de Educação de Coimbra",
         "pt": "IPC - Escola Superior de Educação de Coimbra"
+    },
+    "https://idp.esel.pt/idp/shibboleth": {
+        "en": "Lisbon Nursing High School",
+        "pt": "Escola Superior de Enfermagem de Lisboa"
     },
     "https://idp.esenf.pt/idp/shibboleth": {
         "en": "Escola Superior de Enfermagem do Porto",

@@ -212,6 +212,9 @@
     "https://idp.iipe.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Petroleum and Energy (IIPE)"
     },
+    "https://idp.iiphg.edu.in/shibboleth": {
+        "en": "Indian Institute of Public Health Gandhinagar"
+    },
     "https://idp.iiserbpr.ac.in/idp/shibboleth": {
         "en": "IISER Berhampur"
     },

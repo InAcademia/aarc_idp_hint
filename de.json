@@ -391,6 +391,10 @@
         "de": "Universität Frankfurt",
         "en": "Universität Frankfurt"
     },
+    "https://idp.hehrz.de/idp/shibboleth": {
+        "de": "IDP des HeHRZ Darmstadt",
+        "en": "IdP at hehrz.de"
+    },
     "https://idp.heilbronn.dhbw.de/idp/shibboleth": {
         "de": "DHBW Heilbronn",
         "en": "DHBW Heilbronn"
@@ -420,8 +424,8 @@
         "en": "Academy of Fine Arts Dresden"
     },
     "https://idp.hfbk.net/idp/shibboleth": {
-        "de": "Hochschule fuer bildende Kuenste Hamburg HFBK",
-        "en": "Hochschule fuer bildende Kuenste Hamburg HFBK"
+        "de": "Hochschule fuer bildende Kuenste Hamburg (HFBK)",
+        "en": "Hochschule fuer bildende Kuenste Hamburg (HFBK)"
     },
     "https://idp.hfg-gmuend.de/idp/shibboleth": {
         "de": "HfG Hochschule für Gestaltung Schwäbisch Gmünd",
@@ -1127,8 +1131,8 @@
         "en": "Hamburg University of Applied Sciences"
     },
     "https://login.hfmt-hamburg.de/idp/shibboleth": {
-        "de": "Hochschule fuer Musik und Theater Hamburg",
-        "en": "Hochschule fuer Musik und Theater Hamburg"
+        "de": "Hochschule fuer Musik und Theater Hamburg (HfMT)",
+        "en": "Hochschule fuer Musik und Theater Hamburg (HfMT)"
     },
     "https://login.hfwu.de/idp/shibboleth": {
         "de": "HfWU Nürtingen-Geislingen",
