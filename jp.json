@@ -15,10 +15,6 @@
         "en": "Seijo University",
         "ja": "成城大学"
     },
-    "https://auas.akita-u.ac.jp/idp/shibboleth": {
-        "en": "Akita University",
-        "ja": "秋田大学"
-    },
     "https://auth.jaist.ac.jp/sso-s/shibboleth": {
         "en": "https://auth.jaist.ac.jp/sso-s/shibboleth"
     },
