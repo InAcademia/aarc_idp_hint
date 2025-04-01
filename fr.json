@@ -184,8 +184,8 @@
         "fr": "Université de Montpellier"
     },
     "https://federation.unimes.fr/idp/shibboleth": {
-        "en": "Université de Nimes",
-        "fr": "Université de Nimes"
+        "en": "Nimes University",
+        "fr": "Nimes Université"
     },
     "https://federation.upf.pf/idp/shibboleth": {
         "en": "University of French Polynesia",
@@ -850,10 +850,6 @@
     "https://idp3.cyceron.fr/idp/shibboleth": {
         "en": "Cyceron",
         "fr": "Cyceron"
-    },
-    "https://idp3.hec.fr/idp/shibboleth": {
-        "en": "HEC Paris",
-        "fr": "HEC Paris"
     },
     "https://idp3.marnelavallee.archi.fr/idp/shibboleth": {
         "en": "Ecole Nationale Supérieure d'Architecture de Paris-est",
