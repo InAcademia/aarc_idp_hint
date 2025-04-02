@@ -392,8 +392,8 @@
         "en": "Universität Frankfurt"
     },
     "https://idp.hehrz.de/idp/shibboleth": {
-        "de": "IDP des HeHRZ Darmstadt",
-        "en": "IdP at hehrz.de"
+        "de": "IDP HeHRZ Darmstadt",
+        "en": "IDP HeHRZ Darmstadt"
     },
     "https://idp.heilbronn.dhbw.de/idp/shibboleth": {
         "de": "DHBW Heilbronn",
