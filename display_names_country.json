@@ -1971,6 +1971,10 @@
         "https://vm-cafe.feesc.org.br/idp/shibboleth": {
             "en": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina",
             "pt-br": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina"
+        },
+        "https://vmshib64.ufrpe.br/idp/shibboleth": {
+            "en": "UFRPE - Universidade Federal Rural de Pernambuco",
+            "pt-br": "UFRPE - Universidade Federal Rural de Pernambuco"
         }
     },
     "by": {
@@ -3110,6 +3114,10 @@
             "en": "Chongqing Medical University",
             "zh": "重庆医科大学(Chongqing Medical University)"
         },
+        "https://idp.cqpc.edu.cn/idp/shibboleth": {
+            "en": "ChongQing Police College",
+            "zh": "重庆警察学院(ChongQing Police College)"
+        },
         "https://idp.cqu.edu.cn/idp/shibboleth": {
             "en": "Chongqing University",
             "zh": "重庆大学(Chongqing University)"
@@ -3650,6 +3658,10 @@
             "en": "Hubei University of Education",
             "zh": "湖北第二师范学院(Hubei University of Education)"
         },
+        "https://idp.hueb.edu.cn/idp/shibboleth": {
+            "en": "Hebei University of Economics and Business",
+            "zh": "河北经贸大学(Hebei University of Economics and Business)"
+        },
         "https://idp.huel.edu.cn/idp/shibboleth": {
             "en": "Henan University of Economics and Law",
             "zh": "河南财经政法大学(Henan University of Economics and Law)"
@@ -3793,6 +3805,10 @@
         "https://idp.jxnhu.edu.cn/idp/shibboleth": {
             "en": "Jiaxing Nanhu University",
             "zh": "嘉兴南湖学院(Jiaxing Nanhu University)"
+        },
+        "https://idp.jxpu.edu.cn/idp/shibboleth": {
+            "en": "Jiangxi Polytechnic University",
+            "zh": "江西职业技术大学(Jiangxi Polytechnic University)"
         },
         "https://idp.jxuas.edu.cn/idp/shibboleth": {
             "en": "Jiangxi University of Applied Science",
@@ -4074,6 +4090,10 @@
             "en": "Naval University of Engineering",
             "zh": "海军工程大学(Naval University of Engineering)"
         },
+        "https://idp.nustti.edu.cn/idp/shibboleth": {
+            "en": "Taizhou Institute of Sci.&Tech.,NJUST",
+            "zh": "南京理工大学泰州科技学院(Taizhou Institute of Sci.&Tech.,NJUST)"
+        },
         "https://idp.nvu.edu.cn/idp/shibboleth": {
             "en": "Nanchang Vocational University",
             "zh": "南昌职业大学(Nanchang Vocational University)"
@@ -4298,6 +4318,10 @@
             "en": "Shandong Xiandai University",
             "zh": "山东现代学院(Shandong Xiandai University)"
         },
+        "https://idp.sdxiehe.edu.cn/idp/shibboleth": {
+            "en": "Shandong Xiehe University",
+            "zh": "山东协和学院(Shandong Xiehe University)"
+        },
         "https://idp.sdyu.edu.cn/idp/shibboleth": {
             "en": "ShanDong Youth University of Political Science",
             "zh": "山东青年政治学院(ShanDong Youth University of Political Science)"
@@ -4441,6 +4465,10 @@
         "https://idp.swust.edu.cn/idp/shibboleth": {
             "en": "Southwest University of  Science  and Technology",
             "zh": "西南科技大学(Southwest University of  Science  and Technology)"
+        },
+        "https://idp.sxdzkj.edu.cn/idp/shibboleth": {
+            "en": "Shanxi University of Electronic and Technology",
+            "zh": "山西电子科技学院(Shanxi University of Electronic and Technology)"
         },
         "https://idp.sxit.edu.cn/idp/shibboleth": {
             "en": "Shanxi Institute Of Technology",
@@ -7648,6 +7676,10 @@
         "https://tumidp.lrz.de/idp/shibboleth": {
             "de": "Technische Universität München (TUM)",
             "en": "Technical University of Munich (TUM)"
+        },
+        "https://vhb-ds.lmsflix.de/idp/shibboleth": {
+            "de": "VHB Where are you from Service",
+            "en": "VHB Where are you from Service"
         },
         "https://weblogin.htw-berlin.de/idp/shibboleth": {
             "de": "Hochschule für Technik und Wirtschaft - HTW Berlin",
@@ -17410,7 +17442,7 @@
         },
         "https://idp.uran.ua/idp/shibboleth": {
             "en": "URAN Association IdP",
-            "ru": "Ассоциация УРАН IdP"
+            "ru": "ÐÑÑÐ¾Ñ†Ð¸Ð°Ñ†Ð¸Ñ Ð£Ð ÐÐ IdP"
         }
     },
     "ug": {
@@ -20666,9 +20698,6 @@
         },
         "https://shib.ou.edu/idp/shibboleth": {
             "en": "University of Oklahoma"
-        },
-        "https://shib.sou.edu/idp/shibboleth": {
-            "en": "Southern Oregon University"
         },
         "https://shib.towson.edu/idp/shibboleth": {
             "en": "Towson University"

@@ -1558,6 +1558,10 @@
         "de": "Technische Universität München (TUM)",
         "en": "Technical University of Munich (TUM)"
     },
+    "https://vhb-ds.lmsflix.de/idp/shibboleth": {
+        "de": "VHB Where are you from Service",
+        "en": "VHB Where are you from Service"
+    },
     "https://weblogin.htw-berlin.de/idp/shibboleth": {
         "de": "Hochschule für Technik und Wirtschaft - HTW Berlin",
         "en": "Hochschule für Technik und Wirtschaft - HTW Berlin"

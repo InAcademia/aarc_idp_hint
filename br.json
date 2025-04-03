@@ -1206,5 +1206,9 @@
     "https://vm-cafe.feesc.org.br/idp/shibboleth": {
         "en": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina",
         "pt-br": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina"
+    },
+    "https://vmshib64.ufrpe.br/idp/shibboleth": {
+        "en": "UFRPE - Universidade Federal Rural de Pernambuco",
+        "pt-br": "UFRPE - Universidade Federal Rural de Pernambuco"
     }
 }
