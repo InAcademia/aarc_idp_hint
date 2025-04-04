@@ -943,6 +943,10 @@
         "en": "IDP vetagro sup PROD",
         "fr": "Vetagro Sup"
     },
+    "https://prod-idp.inria.fr": {
+        "en": "Institut National de Recherche en Informatique et Automatique (v5)",
+        "fr": "Institut National de Recherche en Informatique et Automatique (v5)"
+    },
     "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": {
         "en": "CAMPUS CONDORCET",
         "fr": "CAMPUS CONDORCET"

@@ -200,6 +200,9 @@
     "https://idp.iiitp.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Information Technology, Pune (IIIT Pune)"
     },
+    "https://idp.iiitsonepat.ac.in/idp/shibboleth": {
+        "en": "Indian Institute Of Information Technology Sonepat"
+    },
     "https://idp.iima.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Management, Ahmedabad"
     },
@@ -628,6 +631,9 @@
     },
     "https://libkey.iitg.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Technology Guwahati"
+    },
+    "https://library.buniv.edu.in/idp/shibboleth": {
+        "en": "Bodoland University,Kokrajhar (Assam)"
     },
     "https://library.nid.ac.in/idp/shibboleth": {
         "en": "National Institute of Design, Andhra Pradesh"
