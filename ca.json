@@ -293,6 +293,9 @@
     "https://shibidp.uwo.ca/idp/shibboleth": {
         "en": "University of Western Ontario"
     },
+    "https://sso.arcticcollege.ca/idp": {
+        "en": "Nunavut Arctic College"
+    },
     "https://sso.capilanou.ca/idp": {
         "en": "Capilano University"
     },

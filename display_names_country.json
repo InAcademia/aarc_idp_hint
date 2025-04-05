@@ -2284,6 +2284,9 @@
         "https://shibidp.uwo.ca/idp/shibboleth": {
             "en": "University of Western Ontario"
         },
+        "https://sso.arcticcollege.ca/idp": {
+            "en": "Nunavut Arctic College"
+        },
         "https://sso.capilanou.ca/idp": {
             "en": "Capilano University"
         },
@@ -11529,6 +11532,9 @@
         },
         "https://idp.cottonuniversity.ac.in/idp/shibboleth": {
             "en": "cotton university"
+        },
+        "https://idp.ctuap.ac.in/idp/shibboleth": {
+            "en": "Central Tribal University of Andhra Pradesh (CTUAP)"
         },
         "https://idp.cuhimachal.ac.in/idp/shibboleth": {
             "en": "Central University of Himachal Pradesh"

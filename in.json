@@ -110,6 +110,9 @@
     "https://idp.cottonuniversity.ac.in/idp/shibboleth": {
         "en": "cotton university"
     },
+    "https://idp.ctuap.ac.in/idp/shibboleth": {
+        "en": "Central Tribal University of Andhra Pradesh (CTUAP)"
+    },
     "https://idp.cuhimachal.ac.in/idp/shibboleth": {
         "en": "Central University of Himachal Pradesh"
     },
