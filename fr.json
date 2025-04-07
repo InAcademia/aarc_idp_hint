@@ -539,6 +539,10 @@
         "en": "INSHEA - Institut national supérieur de formation et de recherche pour l'éducation des jeunes handic",
         "fr": "INSHEA - Institut national supérieur de formation et de recherche pour l'éducation des jeunes handic"
     },
+    "https://idp.institut-agro.fr/idp": {
+        "en": "L'Institut Agro",
+        "fr": "L'Institut Agro"
+    },
     "https://idp.ipsa.fr/idp/shibboleth": {
         "en": "IPSA, Institute of Polytechnic Science and Aeronautics",
         "fr": "IPSA - Ecole d'ingénieurs aéronautique et spatiale"

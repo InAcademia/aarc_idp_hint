@@ -9828,6 +9828,10 @@
             "en": "INSHEA - Institut national supérieur de formation et de recherche pour l'éducation des jeunes handic",
             "fr": "INSHEA - Institut national supérieur de formation et de recherche pour l'éducation des jeunes handic"
         },
+        "https://idp.institut-agro.fr/idp": {
+            "en": "L'Institut Agro",
+            "fr": "L'Institut Agro"
+        },
         "https://idp.ipsa.fr/idp/shibboleth": {
             "en": "IPSA, Institute of Polytechnic Science and Aeronautics",
             "fr": "IPSA - Ecole d'ingénieurs aéronautique et spatiale"
@@ -11043,6 +11047,10 @@
         "https://idp.atk.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Centre for Agricultural Research",
             "hu": "Agrártudományi Kutatóközpont"
+        },
+        "https://idp.atomki.hu/idp": {
+            "en": "ATOMKI",
+            "hu": "ATOMKI"
         },
         "https://idp.avkf.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Apor Vilmos Catholic College",
