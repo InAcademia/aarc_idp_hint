@@ -144,6 +144,9 @@
         "en": "Cegep de Trois-Rivieres",
         "fr": "CÃ©gep de Trois-RiviÃ¨res"
     },
+    "https://idp.conestogac.on.ca/idp": {
+        "en": "Conestoga College"
+    },
     "https://idp.cybera.ca/simplesaml/saml2/idp/metadata.php": {
         "en": "Cybera",
         "fr": "Cybera"

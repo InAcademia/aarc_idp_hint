@@ -2131,6 +2131,9 @@
             "en": "Cegep de Trois-Rivieres",
             "fr": "CÃ©gep de Trois-RiviÃ¨res"
         },
+        "https://idp.conestogac.on.ca/idp": {
+            "en": "Conestoga College"
+        },
         "https://idp.cybera.ca/simplesaml/saml2/idp/metadata.php": {
             "en": "Cybera",
             "fr": "Cybera"
@@ -9961,8 +9964,8 @@
             "fr": "Télécom Bretagne"
         },
         "https://idp.telecom-paristech.fr/idp/shibboleth": {
-            "en": "Télécom Paris",
-            "fr": "Télécom Paris"
+            "en": "Télécom Paris, IMT Direction générale",
+            "fr": "Télécom Paris, IMT Direction générale"
         },
         "https://idp.toulouse.archi.fr/idp/shibboleth": {
             "en": "Ecole Nationale Supérieure d'Architecture de Toulouse",
