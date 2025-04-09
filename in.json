@@ -437,6 +437,9 @@
     "https://idp.nprcet.org/idp/shibboleth": {
         "en": "NPR College of Engineering and Technology"
     },
+    "https://idp.nsut.ac.in/idp/shibboleth": {
+        "en": "Netaji Subhas University of Technology"
+    },
     "https://idp.paavai.edu.in/idp/shibboleth": {
         "en": "Paavai Engineering College"
     },

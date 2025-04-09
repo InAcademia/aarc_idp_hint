@@ -515,6 +515,10 @@
         "en": "Chongqing University of Education",
         "zh": "重庆第二师范学院(Chongqing University of Education)"
     },
+    "https://idp.cqust.edu.cn/idp/shibboleth": {
+        "en": "Chongqing University of Science & Technology",
+        "zh": "重庆科技大学(Chongqing University of Science & Technology)"
+    },
     "https://idp.cqut.edu.cn/idp/shibboleth": {
         "en": "Chongqing University of Technology",
         "zh": "重庆理工大学(Chongqing University of Technology)"
@@ -1887,6 +1891,10 @@
         "en": "Shenyang Ligong University",
         "zh": "沈阳理工大学(Shenyang Ligong University)"
     },
+    "https://idp.synu.edu.cn/idp/shibboleth": {
+        "en": "Shenyang Normal University",
+        "zh": "沈阳师范大学(Shenyang Normal University)"
+    },
     "https://idp.syphu.edu.cn/idp/shibboleth": {
         "en": "Shenyang Pharmaceutical University",
         "zh": "沈阳药科大学(Shenyang Pharmaceutical University)"
@@ -2034,6 +2042,10 @@
     "https://idp.ujs.edu.cn/idp/shibboleth": {
         "en": "Jiangsu University",
         "zh": "江苏大学(Jiangsu University)"
+    },
+    "https://idp.um.edu.mo/idp/shibboleth": {
+        "en": "University of Macau",
+        "zh": "澳门大学(University of Macau)"
     },
     "https://idp.unn.edu.cn/idp/shibboleth": {
         "en": "Nanning University",
