@@ -71,6 +71,10 @@
         "en": "State research institute Center for Physical Sciences and Technology",
         "lt": "Valstybinis mokslinių tyrimų institutas Fizinių ir technologijos mokslų centras"
     },
+    "https://sso.lmta.lt/saml2/idp/metadata.php": {
+        "en": "Lithuanian Academy of Music and Theatre",
+        "lt": "Lietuvos muzikos ir teatro akademija"
+    },
     "https://sso.vgtu.lt/saml2/idp/metadata.php": {
         "en": "Vilnius Gediminas Technical University",
         "lt": "Vilniaus Gedimino technikos universitetas"

@@ -178,6 +178,10 @@
         "da": "Roskilde Universitet (RUC)",
         "en": "Roskilde University (RUC)"
     },
+    "https://samlapp.rm.dk/nidp/saml2/metadata": {
+        "da": "Region Midtjylland",
+        "en": "Central Denmark Region"
+    },
     "https://sso.sdu.dk/wayf": {
         "da": "Syddansk Universitet",
         "en": "University of Southern Denmark (SDU)"

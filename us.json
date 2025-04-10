@@ -407,9 +407,6 @@
     "https://idp.gatech.edu/idp/shibboleth": {
         "en": "Georgia Institute of Technology"
     },
-    "https://idp.getinclusive.com/simplesaml/saml2/idp/metadata.php": {
-        "en": "Getinclusive IDP"
-    },
     "https://idp.getty.edu/idp": {
         "en": "J. Paul Getty Trust"
     },

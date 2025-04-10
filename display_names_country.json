@@ -1832,6 +1832,10 @@
             "en": "UNIRITTER - Sociedade de Educacao Ritter dos Reis LTDA",
             "pt-br": "UNIRITTER - Sociedade de Educacao Ritter dos Reis LTDA"
         },
+        "https://shibboleth.unisul.br/idp/shibboleth": {
+            "en": "UNISUL - Universidade do Sul de Santa Catarina",
+            "pt-br": "UNISUL - Universidade do Sul de Santa Catarina"
+        },
         "https://shibboleth.univale.br/idp/shibboleth": {
             "en": "UNIVALE - Universidade Vale do Rio Doce",
             "pt-br": "UNIVALE - Universidade Vale do Rio Doce"
@@ -6318,7 +6322,7 @@
         },
         "https://idp.dfn.de/idp/shibboleth": {
             "de": "DFN-Verein Geschäftsstelle",
-            "en": "DFN-Verein Office"
+            "en": "DFN-Verein Geschäftsstelle"
         },
         "https://idp.dhbw-loerrach.de/idp/shibboleth": {
             "de": "DHBW Lörrach",
@@ -7931,6 +7935,10 @@
         "https://saml.signon.ruc.dk/idp": {
             "da": "Roskilde Universitet (RUC)",
             "en": "Roskilde University (RUC)"
+        },
+        "https://samlapp.rm.dk/nidp/saml2/metadata": {
+            "da": "Region Midtjylland",
+            "en": "Central Denmark Region"
         },
         "https://sso.sdu.dk/wayf": {
             "da": "Syddansk Universitet",
@@ -13627,6 +13635,10 @@
         "https://sso.ftmc.lt/auth/saml2/idp/metadata.php": {
             "en": "State research institute Center for Physical Sciences and Technology",
             "lt": "Valstybinis mokslinių tyrimų institutas Fizinių ir technologijos mokslų centras"
+        },
+        "https://sso.lmta.lt/saml2/idp/metadata.php": {
+            "en": "Lithuanian Academy of Music and Theatre",
+            "lt": "Lietuvos muzikos ir teatro akademija"
         },
         "https://sso.vgtu.lt/saml2/idp/metadata.php": {
             "en": "Vilnius Gediminas Technical University",
@@ -20230,9 +20242,6 @@
         },
         "https://idp.gatech.edu/idp/shibboleth": {
             "en": "Georgia Institute of Technology"
-        },
-        "https://idp.getinclusive.com/simplesaml/saml2/idp/metadata.php": {
-            "en": "Getinclusive IDP"
         },
         "https://idp.getty.edu/idp": {
             "en": "J. Paul Getty Trust"
