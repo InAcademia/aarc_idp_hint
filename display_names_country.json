@@ -1516,10 +1516,6 @@
             "en": "IFC - Instituto Federal Catarinense",
             "pt-br": "IFC - Instituto Federal Catarinense"
         },
-        "https://idp02.ufsm.br/idp/shibboleth": {
-            "en": "UFSM - Universidade Federal de Santa Maria",
-            "pt-br": "UFSM - Universidade Federal de Santa Maria"
-        },
         "https://idp03-prd-jne.ufca.edu.br/idp/shibboleth": {
             "en": "UFCA - Universidade Federal do Cariri",
             "pt-br": "UFCA - Universidade Federal do Cariri"
@@ -6518,7 +6514,7 @@
         },
         "https://idp.hdbw-hochschule.de/idp/shibboleth": {
             "de": "Hochschule der Bayerischen Wirtschaft (HDBW)",
-            "en": "HDBW: University of applied sciences"
+            "en": "Hochschule der Bayerischen Wirtschaft (HDBW)"
         },
         "https://idp.hdm-stuttgart.de/idp/shibboleth": {
             "de": "Hochschule der Medien Stuttgart",
@@ -14430,8 +14426,8 @@
             "nl": "Graafschap College"
         },
         "http://federation.prd.duo.nl/adfs/services/trust": {
-            "en": "Dienst Uitvoering Onderwijs",
-            "nl": "Dienst Uitvoering Onderwijs"
+            "en": "Dienst Uitvoering Onderwijs (Oud)",
+            "nl": "Dienst Uitvoering Onderwijs (Oud)"
         },
         "http://fs.amphia.nl/adfs/services/trust": {
             "en": "Amphia Hospital",
