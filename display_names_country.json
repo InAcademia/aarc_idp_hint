@@ -1880,10 +1880,6 @@
             "en": "UEM - Universidade Estadual de Maringa",
             "pt-br": "UEM - Universidade Estadual de Maringa"
         },
-        "https://shibboleth4.ufms.br/idp/shibboleth": {
-            "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
-            "pt-br": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul"
-        },
         "https://shibboleth4.utfpr.edu.br/idp/shibboleth": {
             "en": "UTFPR - Universidade Tecnologica Federal do Parana",
             "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
