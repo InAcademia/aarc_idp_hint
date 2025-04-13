@@ -191,10 +191,6 @@
         "en": "PUC MINAS - pontificia Universidade Catolica de Minas Gerais",
         "pt-br": "PUC MINAS - pontificia Universidade Catolica de Minas Gerais"
     },
-    "https://cafe.pucpr.br/idp/shibboleth": {
-        "en": "PUCPR - Pontificia Universidade Catolica do Parana",
-        "pt-br": "PUCPR - Pontificia Universidade Catolica do Parana"
-    },
     "https://cafe.sede.embrapa.br/idp/shibboleth": {
         "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
         "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
@@ -958,10 +954,6 @@
     "https://shibboleth.faculdadesantacasabh.org.br/idp/shibboleth": {
         "en": "FSCBH - Faculdade Santa Casa BH",
         "pt-br": "FSCBH - Faculdade Santa Casa BH"
-    },
-    "https://shibboleth.ifal.edu.br/idp/shibboleth": {
-        "en": "IFAL - Instituto Federal de Alagoas",
-        "pt-br": "IFAL - Instituto Federal de Alagoas"
     },
     "https://shibboleth.ifam.edu.br/idp/shibboleth": {
         "en": "IFAM - Instituto Federal do Amazonas",
