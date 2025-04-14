@@ -955,6 +955,10 @@
         "en": "FSCBH - Faculdade Santa Casa BH",
         "pt-br": "FSCBH - Faculdade Santa Casa BH"
     },
+    "https://shibboleth.ifal.edu.br/idp/shibboleth": {
+        "en": "IFAL - Instituto Federal de Alagoas",
+        "pt-br": "IFAL - Instituto Federal de Alagoas"
+    },
     "https://shibboleth.ifam.edu.br/idp/shibboleth": {
         "en": "IFAM - Instituto Federal do Amazonas",
         "pt-br": "IFAM - Instituto Federal do Amazonas"
@@ -1106,6 +1110,10 @@
     "https://shibboleth4.uem.br/idp/shibboleth": {
         "en": "UEM - Universidade Estadual de Maringa",
         "pt-br": "UEM - Universidade Estadual de Maringa"
+    },
+    "https://shibboleth4.ufms.br/idp/shibboleth": {
+        "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
+        "pt-br": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul"
     },
     "https://shibboleth4.utfpr.edu.br/idp/shibboleth": {
         "en": "UTFPR - Universidade Tecnologica Federal do Parana",
