@@ -191,6 +191,10 @@
         "en": "PUC MINAS - pontificia Universidade Catolica de Minas Gerais",
         "pt-br": "PUC MINAS - pontificia Universidade Catolica de Minas Gerais"
     },
+    "https://cafe.pucpr.br/idp/shibboleth": {
+        "en": "PUCPR - Pontificia Universidade Catolica do Parana",
+        "pt-br": "PUCPR - Pontificia Universidade Catolica do Parana"
+    },
     "https://cafe.sede.embrapa.br/idp/shibboleth": {
         "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
         "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
@@ -746,6 +750,10 @@
     "https://idp02.ifc.edu.br/idp/shibboleth": {
         "en": "IFC - Instituto Federal Catarinense",
         "pt-br": "IFC - Instituto Federal Catarinense"
+    },
+    "https://idp02.ufsm.br/idp/shibboleth": {
+        "en": "UFSM - Universidade Federal de Santa Maria",
+        "pt-br": "UFSM - Universidade Federal de Santa Maria"
     },
     "https://idp03-prd-jne.ufca.edu.br/idp/shibboleth": {
         "en": "UFCA - Universidade Federal do Cariri",

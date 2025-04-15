@@ -127,10 +127,6 @@
         "en": "Institute of Nuclear Physics Polish Academy of Sciences",
         "pl": "Instytut Fizyki Jądrowej Polskiej Akademii Nauk"
     },
-    "https://idp.ipipan.waw.pl/idp/shibboleth": {
-        "en": "Institute of Computer Science PAS",
-        "pl": "Instytut Podstaw Informatyki PAN"
-    },
     "https://idp.pollub.pl/shibboleth": {
         "en": "Lublin University of Technology",
         "pl": "Politechnika Lubelska"

@@ -484,6 +484,9 @@
         "https://idp.buet.ac.bd/idp/shibboleth": {
             "en": "Bangladesh University of Engineering and Technology"
         },
+        "https://idp.cu.ac.bd/idp/shibboleth": {
+            "en": "University of Chittagong (CU)"
+        },
         "https://idp.green.ac.bd/idp/shibboleth": {
             "en": "Green University of Bangladesh"
         },
@@ -501,6 +504,9 @@
         },
         "https://idp.nu.ac.bd/idp/shibboleth": {
             "en": "National University Bangladesh"
+        },
+        "https://idp.ru.ac.bd/idp/shibboleth": {
+            "en": "University of Rajshahi"
         },
         "https://idp.sau.edu.bd/idp/shibboleth": {
             "en": "Sher-e-Bangla Agricultural University"
@@ -955,6 +961,10 @@
         "https://cafe.pucminas.br/idp/shibboleth": {
             "en": "PUC MINAS - pontificia Universidade Catolica de Minas Gerais",
             "pt-br": "PUC MINAS - pontificia Universidade Catolica de Minas Gerais"
+        },
+        "https://cafe.pucpr.br/idp/shibboleth": {
+            "en": "PUCPR - Pontificia Universidade Catolica do Parana",
+            "pt-br": "PUCPR - Pontificia Universidade Catolica do Parana"
         },
         "https://cafe.sede.embrapa.br/idp/shibboleth": {
             "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
@@ -1511,6 +1521,10 @@
         "https://idp02.ifc.edu.br/idp/shibboleth": {
             "en": "IFC - Instituto Federal Catarinense",
             "pt-br": "IFC - Instituto Federal Catarinense"
+        },
+        "https://idp02.ufsm.br/idp/shibboleth": {
+            "en": "UFSM - Universidade Federal de Santa Maria",
+            "pt-br": "UFSM - Universidade Federal de Santa Maria"
         },
         "https://idp03-prd-jne.ufca.edu.br/idp/shibboleth": {
             "en": "UFCA - Universidade Federal do Cariri",
@@ -11597,6 +11611,9 @@
         "https://idp.du.ac.in/idp/shibboleth": {
             "en": "University of Delhi"
         },
+        "https://idp.gauhati.ac.in/idp/shibboleth": {
+            "en": "Krishna Kanta Handiqui Library of Gauhati University"
+        },
         "https://idp.gbu.ac.in/idp/shibboleth": {
             "en": "Gautam Buddha University (Delhi NCR)"
         },
@@ -14421,10 +14438,6 @@
             "en": "Graafschap College",
             "nl": "Graafschap College"
         },
-        "http://federation.prd.duo.nl/adfs/services/trust": {
-            "en": "Dienst Uitvoering Onderwijs (Oud)",
-            "nl": "Dienst Uitvoering Onderwijs (Oud)"
-        },
         "http://fs.amphia.nl/adfs/services/trust": {
             "en": "Amphia Hospital",
             "nl": "Amphia Ziekenhuis"
@@ -15467,10 +15480,6 @@
         "https://idp.ifj.edu.pl/": {
             "en": "Institute of Nuclear Physics Polish Academy of Sciences",
             "pl": "Instytut Fizyki Jądrowej Polskiej Akademii Nauk"
-        },
-        "https://idp.ipipan.waw.pl/idp/shibboleth": {
-            "en": "Institute of Computer Science PAS",
-            "pl": "Instytut Podstaw Informatyki PAN"
         },
         "https://idp.pollub.pl/shibboleth": {
             "en": "Lublin University of Technology",
@@ -20855,9 +20864,6 @@
         },
         "https://shibboleth.uchastings.edu/idp/shibboleth": {
             "en": "University of California, College of the Law San Francisco"
-        },
-        "https://shibboleth.uconn.edu/idp/shibboleth": {
-            "en": "Uconn Shib"
         },
         "https://shibboleth.uic.edu/shibboleth": {
             "en": "University of Illinois Chicago"

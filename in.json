@@ -155,6 +155,9 @@
     "https://idp.du.ac.in/idp/shibboleth": {
         "en": "University of Delhi"
     },
+    "https://idp.gauhati.ac.in/idp/shibboleth": {
+        "en": "Krishna Kanta Handiqui Library of Gauhati University"
+    },
     "https://idp.gbu.ac.in/idp/shibboleth": {
         "en": "Gautam Buddha University (Delhi NCR)"
     },

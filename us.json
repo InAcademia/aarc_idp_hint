@@ -1028,9 +1028,6 @@
     "https://shibboleth.uchastings.edu/idp/shibboleth": {
         "en": "University of California, College of the Law San Francisco"
     },
-    "https://shibboleth.uconn.edu/idp/shibboleth": {
-        "en": "Uconn Shib"
-    },
     "https://shibboleth.uic.edu/shibboleth": {
         "en": "University of Illinois Chicago"
     },

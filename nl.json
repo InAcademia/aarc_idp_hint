@@ -87,10 +87,6 @@
         "en": "Graafschap College",
         "nl": "Graafschap College"
     },
-    "http://federation.prd.duo.nl/adfs/services/trust": {
-        "en": "Dienst Uitvoering Onderwijs (Oud)",
-        "nl": "Dienst Uitvoering Onderwijs (Oud)"
-    },
     "http://fs.amphia.nl/adfs/services/trust": {
         "en": "Amphia Hospital",
         "nl": "Amphia Ziekenhuis"
