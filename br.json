@@ -143,6 +143,10 @@
         "en": "IFMA - Instituto Federal do Maranhao",
         "pt-br": "IFMA - Instituto Federal do Maranhao"
     },
+    "https://cafe.ifpr.edu.br/idp/shibboleth": {
+        "en": "IFPR - Instituto Federal do Parana",
+        "pt-br": "IFPR - Instituto Federal do Parana"
+    },
     "https://cafe.ifrj.edu.br/idp/shibboleth": {
         "en": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro",
         "pt-br": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro"
@@ -267,6 +271,10 @@
         "en": "UNEAL - Universidade Estadual de Alagoas",
         "pt-br": "UNEAL - Universidade Estadual de Alagoas"
     },
+    "https://cafe.unemat.br/idp/shibboleth": {
+        "en": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso",
+        "pt-br": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso"
+    },
     "https://cafe.unesc.net/idp/shibboleth": {
         "en": "UNESC - Universidade do Extremo Sul Catarinense",
         "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
@@ -358,10 +366,6 @@
     "https://cafeidp.ufdpar.edu.br/idp/shibboleth": {
         "en": "UFDPAR - Universidade Federal do Delta do Parnaiba",
         "pt-br": "UFDPAR - Universidade Federal do Delta do Parnaiba"
-    },
-    "https://cafeidp.unemat.br/idp/shibboleth": {
-        "en": "UNEMAT - Universidade do Estado de Mato Grosso",
-        "pt-br": "UNEMAT - Universidade do Estado de Mato Grosso"
     },
     "https://cafernp.fesfsus.ba.gov.br/idp/shibboleth": {
         "en": "FESFSUS - Fundacao Estatal Saude da Familia",
@@ -827,9 +831,9 @@
         "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui",
         "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui"
     },
-    "https://idprnp.univates.br/idp/shibboleth": {
-        "en": "UNIVATES - Universidade UNIVATES",
-        "pt-br": "UNIVATES - Universidade UNIVATES"
+    "https://idprpilot.univates.br/idp/shibboleth": {
+        "en": "UNIVATES - Universidade do Vale do Taquari",
+        "pt-br": "UNIVATES - Universidade do Vale do Taquari"
     },
     "https://idpsaocamilosp.saocamilo-sp.br/idp/shibboleth": {
         "en": "CUSC - Centro Universitario Sao Camilo",
@@ -1130,10 +1134,6 @@
     "https://shibboleth5.ufrn.edu.br/idp/shibboleth": {
         "en": "UFRN - Universidade Federal do Rio Grande do Norte",
         "pt-br": "UFRN - Universidade Federal do Rio Grande do Norte"
-    },
-    "https://shibbolethidp.ifpr.edu.br/idp/shibboleth": {
-        "en": "IFPR - Instituto Federal do Parana",
-        "pt-br": "IFPR - Instituto Federal do Parana"
     },
     "https://shibv4.unilab.edu.br/idp/shibboleth": {
         "en": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira",

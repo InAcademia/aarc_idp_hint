@@ -63,6 +63,10 @@
         "en": "CIIMAR",
         "pt": "CIIMAR"
     },
+    "https://idp.construcaopublica.gov.pt/idp/shibboleth": {
+        "en": "Construção Pública, E.P.E.",
+        "pt": "Construção Pública, E.P.E."
+    },
     "https://idp.dges.gov.pt/idp/shibboleth": {
         "en": "Direção Geral do Ensino Superior",
         "pt": "Direção Geral do Ensino Superior"

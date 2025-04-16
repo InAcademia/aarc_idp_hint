@@ -914,6 +914,10 @@
             "en": "IFMA - Instituto Federal do Maranhao",
             "pt-br": "IFMA - Instituto Federal do Maranhao"
         },
+        "https://cafe.ifpr.edu.br/idp/shibboleth": {
+            "en": "IFPR - Instituto Federal do Parana",
+            "pt-br": "IFPR - Instituto Federal do Parana"
+        },
         "https://cafe.ifrj.edu.br/idp/shibboleth": {
             "en": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro",
             "pt-br": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro"
@@ -1038,6 +1042,10 @@
             "en": "UNEAL - Universidade Estadual de Alagoas",
             "pt-br": "UNEAL - Universidade Estadual de Alagoas"
         },
+        "https://cafe.unemat.br/idp/shibboleth": {
+            "en": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso",
+            "pt-br": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso"
+        },
         "https://cafe.unesc.net/idp/shibboleth": {
             "en": "UNESC - Universidade do Extremo Sul Catarinense",
             "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
@@ -1129,10 +1137,6 @@
         "https://cafeidp.ufdpar.edu.br/idp/shibboleth": {
             "en": "UFDPAR - Universidade Federal do Delta do Parnaiba",
             "pt-br": "UFDPAR - Universidade Federal do Delta do Parnaiba"
-        },
-        "https://cafeidp.unemat.br/idp/shibboleth": {
-            "en": "UNEMAT - Universidade do Estado de Mato Grosso",
-            "pt-br": "UNEMAT - Universidade do Estado de Mato Grosso"
         },
         "https://cafernp.fesfsus.ba.gov.br/idp/shibboleth": {
             "en": "FESFSUS - Fundacao Estatal Saude da Familia",
@@ -1598,9 +1602,9 @@
             "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui",
             "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui"
         },
-        "https://idprnp.univates.br/idp/shibboleth": {
-            "en": "UNIVATES - Universidade UNIVATES",
-            "pt-br": "UNIVATES - Universidade UNIVATES"
+        "https://idprpilot.univates.br/idp/shibboleth": {
+            "en": "UNIVATES - Universidade do Vale do Taquari",
+            "pt-br": "UNIVATES - Universidade do Vale do Taquari"
         },
         "https://idpsaocamilosp.saocamilo-sp.br/idp/shibboleth": {
             "en": "CUSC - Centro Universitario Sao Camilo",
@@ -1901,10 +1905,6 @@
         "https://shibboleth5.ufrn.edu.br/idp/shibboleth": {
             "en": "UFRN - Universidade Federal do Rio Grande do Norte",
             "pt-br": "UFRN - Universidade Federal do Rio Grande do Norte"
-        },
-        "https://shibbolethidp.ifpr.edu.br/idp/shibboleth": {
-            "en": "IFPR - Instituto Federal do Parana",
-            "pt-br": "IFPR - Instituto Federal do Parana"
         },
         "https://shibv4.unilab.edu.br/idp/shibboleth": {
             "en": "UNILAB - Univ. da Integracao Int. da Lusofonia Afro-Brasileira",
@@ -2678,10 +2678,6 @@
             "en": "Chongqing Normal university",
             "zh": "重庆师范大学(Chongqing Normal university)"
         },
-        "https://idp-lib.cslg.edu.cn/idp/shibboleth": {
-            "en": "Changshu Institute of Technology",
-            "zh": "常熟理工学院(Changshu Institute of Technology)"
-        },
         "https://idp-lib.cwnu.edu.cn/idp/shibboleth": {
             "en": "China West Normal University",
             "zh": "西华师范大学(China West Normal University)"
@@ -2801,6 +2797,10 @@
         "https://idp-lib.swpu.edu.cn/idp/shibboleth": {
             "en": "Southwest Petroleum University",
             "zh": "西南石油大学(Southwest Petroleum University)"
+        },
+        "https://idp-lib.szut.edu.cn/idp/shibboleth": {
+            "en": "Suzhou University of Technology",
+            "zh": "苏州工学院(Suzhou University of Technology)"
         },
         "https://idp-lib.tjtc.edu.cn/idp/shibboleth": {
             "en": "Tianjin Vocational Institute",
@@ -4193,6 +4193,10 @@
         "https://idp.qfnu.edu.cn/idp/shibboleth": {
             "en": "Qufu Normal University",
             "zh": "曲阜师范大学(Qufu Normal University)"
+        },
+        "https://idp.qhit.edu.cn/idp/shibboleth": {
+            "en": "Qinghai Institute of Technology",
+            "zh": "青海理工学院(Qinghai Institute of Technology)"
         },
         "https://idp.qhnu.edu.cn/idp/shibboleth": {
             "en": "Qinghai Normal University",
@@ -15786,6 +15790,10 @@
             "en": "CIIMAR",
             "pt": "CIIMAR"
         },
+        "https://idp.construcaopublica.gov.pt/idp/shibboleth": {
+            "en": "Construção Pública, E.P.E.",
+            "pt": "Construção Pública, E.P.E."
+        },
         "https://idp.dges.gov.pt/idp/shibboleth": {
             "en": "Direção Geral do Ensino Superior",
             "pt": "Direção Geral do Ensino Superior"
@@ -17486,6 +17494,11 @@
         "https://yetkimidp.ku.edu.tr/idp/shibboleth": {
             "en": "Koc University",
             "tr": "Koç Üniversitesi"
+        }
+    },
+    "tz": {
+        "https://ldap-edugain.ternet.or.tz/idp/shibboleth": {
+            "en": "Tanzania Education and Research Network  (TERNET)"
         }
     },
     "ua": {

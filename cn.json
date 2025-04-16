@@ -55,10 +55,6 @@
         "en": "Chongqing Normal university",
         "zh": "重庆师范大学(Chongqing Normal university)"
     },
-    "https://idp-lib.cslg.edu.cn/idp/shibboleth": {
-        "en": "Changshu Institute of Technology",
-        "zh": "常熟理工学院(Changshu Institute of Technology)"
-    },
     "https://idp-lib.cwnu.edu.cn/idp/shibboleth": {
         "en": "China West Normal University",
         "zh": "西华师范大学(China West Normal University)"
@@ -178,6 +174,10 @@
     "https://idp-lib.swpu.edu.cn/idp/shibboleth": {
         "en": "Southwest Petroleum University",
         "zh": "西南石油大学(Southwest Petroleum University)"
+    },
+    "https://idp-lib.szut.edu.cn/idp/shibboleth": {
+        "en": "Suzhou University of Technology",
+        "zh": "苏州工学院(Suzhou University of Technology)"
     },
     "https://idp-lib.tjtc.edu.cn/idp/shibboleth": {
         "en": "Tianjin Vocational Institute",
@@ -1570,6 +1570,10 @@
     "https://idp.qfnu.edu.cn/idp/shibboleth": {
         "en": "Qufu Normal University",
         "zh": "曲阜师范大学(Qufu Normal University)"
+    },
+    "https://idp.qhit.edu.cn/idp/shibboleth": {
+        "en": "Qinghai Institute of Technology",
+        "zh": "青海理工学院(Qinghai Institute of Technology)"
     },
     "https://idp.qhnu.edu.cn/idp/shibboleth": {
         "en": "Qinghai Normal University",
