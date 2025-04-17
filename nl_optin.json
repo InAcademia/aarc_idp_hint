@@ -67,10 +67,6 @@
         "en": "Maastricht University",
         "nl": "Universiteit Maastricht"
     },
-    "http://login.saxion.nl/adfs/services/trust": {
-        "en": "Saxion University of Applied Sciences",
-        "nl": "Hogeschool Saxion"
-    },
     "http://login.surf.nl/adfs/services/trust": {
         "en": "SURF",
         "nl": "SURF"
