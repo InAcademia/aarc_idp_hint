@@ -151,10 +151,6 @@
         "en": "ROC Nijmegen",
         "nl": "ROC Nijmegen"
     },
-    "http://login.saxion.nl/adfs/services/trust": {
-        "en": "Saxion University of Applied Sciences",
-        "nl": "Hogeschool Saxion"
-    },
     "http://login.scp.nl/adfs/services/trust": {
         "en": "The Netherlands Institute for Social Research",
         "nl": "Sociaal en Cultureel Planbureau"
@@ -606,6 +602,10 @@
     "https://sts.windows.net/a5e979d8-8360-45bb-8ad6-7632c0fd5e90/": {
         "en": "Politieacademie",
         "nl": "Politieacademie"
+    },
+    "https://sts.windows.net/a77b0754-fdc1-4a62-972c-8425ffbfcbd2/": {
+        "en": "Saxion University of Applied Sciences",
+        "nl": "Saxion Hogeschool"
     },
     "https://sts.windows.net/a8294dac-16db-4321-836a-c3caa9c7a8a6/": {
         "en": "KWR Water Research Institute",

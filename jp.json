@@ -426,6 +426,10 @@
         "en": "RIKEN",
         "ja": "理化学研究所"
     },
+    "https://shib-idp01.iic.hokudai.ac.jp/idp/shibboleth": {
+        "en": "Hokkaido University",
+        "ja": "北海道大学"
+    },
     "https://shib.kumamoto-u.ac.jp/idp/shibboleth": {
         "en": "Kumamoto University",
         "ja": "熊本大学"

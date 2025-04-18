@@ -2982,6 +2982,10 @@
             "en": "Baotou Teachers' College",
             "zh": "包头师范学院(Baotou Teachers' College)"
         },
+        "https://idp.bua.edu.cn/idp/shibboleth": {
+            "en": "Beijing University of Agriculture",
+            "zh": "北京农学院(Beijing University of Agriculture)"
+        },
         "https://idp.buaa.edu.cn/idp/shibboleth": {
             "en": "Beihang University",
             "zh": "北京航空航天大学(Beihang University)"
@@ -10594,6 +10598,11 @@
             "en": "National Scientific Library - Georgia"
         }
     },
+    "gh": {
+        "https://idp.garnet.edu.gh/idp/shibboleth": {
+            "en": "Ghanaian Academic and Research Network"
+        }
+    },
     "gr": {
         "https://aai-logon.hcmr.gr/idp/shibboleth": {
             "el": "Ελληνικό Κέντρο Θαλασσίων Ερευνών",
@@ -13218,6 +13227,10 @@
             "en": "RIKEN",
             "ja": "理化学研究所"
         },
+        "https://shib-idp01.iic.hokudai.ac.jp/idp/shibboleth": {
+            "en": "Hokkaido University",
+            "ja": "北海道大学"
+        },
         "https://shib.kumamoto-u.ac.jp/idp/shibboleth": {
             "en": "Kumamoto University",
             "ja": "熊本大学"
@@ -14506,10 +14519,6 @@
             "en": "ROC Nijmegen",
             "nl": "ROC Nijmegen"
         },
-        "http://login.saxion.nl/adfs/services/trust": {
-            "en": "Saxion University of Applied Sciences",
-            "nl": "Hogeschool Saxion"
-        },
         "http://login.scp.nl/adfs/services/trust": {
             "en": "The Netherlands Institute for Social Research",
             "nl": "Sociaal en Cultureel Planbureau"
@@ -14961,6 +14970,10 @@
         "https://sts.windows.net/a5e979d8-8360-45bb-8ad6-7632c0fd5e90/": {
             "en": "Politieacademie",
             "nl": "Politieacademie"
+        },
+        "https://sts.windows.net/a77b0754-fdc1-4a62-972c-8425ffbfcbd2/": {
+            "en": "Saxion University of Applied Sciences",
+            "nl": "Saxion Hogeschool"
         },
         "https://sts.windows.net/a8294dac-16db-4321-836a-c3caa9c7a8a6/": {
             "en": "KWR Water Research Institute",
@@ -20064,9 +20077,6 @@
         },
         "https://iaf33ab2bbb7164bf5aead757b53eb28e8.dev-rapididentity.com/idp": {
             "en": "RapidIdentity"
-        },
-        "https://icarus.sdstate.edu/idp/shibboleth": {
-            "en": "South Dakota State University"
         },
         "https://icidp.osrhe.edu/idp/shibboleth": {
             "en": "Oklahoma State Regents for Higher Education/OneNet"
