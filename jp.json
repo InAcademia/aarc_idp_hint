@@ -178,6 +178,10 @@
         "en": "Kindai University",
         "ja": "近畿大学"
     },
+    "https://idp.kobepharma-u.ac.jp/realms/oneid": {
+        "en": "Kobe Pharmaceutical University",
+        "ja": "神戸薬科大学"
+    },
     "https://idp.kochi-tech.ac.jp/idp/shibboleth": {
         "en": "Kochi University of Technology",
         "ja": "高知工科大学"
