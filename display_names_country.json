@@ -3478,10 +3478,6 @@
             "en": "Henan University of Technology",
             "zh": "河南工业大学(Henan University of Technology)"
         },
-        "https://idp.havust.edu.cn/idp/shibboleth": {
-            "en": "Henan Vocational University of Science and Technology",
-            "zh": "河南科技职业大学(Henan Vocational University of Science and Technology)"
-        },
         "https://idp.hbcit.edu.cn/idp/shibboleth": {
             "en": "Hebei Vocational University of Industry and Technology",
             "zh": "河北工业职业技术大学(Hebei Vocational University of Industry and Technology)"
@@ -4981,6 +4977,10 @@
         "https://idp.ynu.edu.cn/idp/shibboleth": {
             "en": "Yunnan University",
             "zh": "云南大学(Yunnan University)"
+        },
+        "https://idp.ynucm.edu.cn/idp/shibboleth": {
+            "en": "Yunnan University of Chinese Medicine",
+            "zh": "云南中医药大学(Yunnan University of Chinese Medicine)"
         },
         "https://idp.ypc.edu.cn/idp/shibboleth": {
             "en": "Shaoxing University Yuanpei College",
