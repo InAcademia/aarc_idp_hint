@@ -1250,10 +1250,6 @@
             "en": "IFPI - Instituto Federal do Piaui",
             "pt-br": "IFPI - Instituto Federal do Piaui"
         },
-        "https://idp-cafe.ifs.edu.br/idp/shibboleth": {
-            "en": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe",
-            "pt-br": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe"
-        },
         "https://idp-cafe.inma.gov.br/idp/shibboleth": {
             "en": "INMA - Instituto Nacional da Mata Atlantica",
             "pt-br": "INMA - Instituto Nacional da Mata Atlantica"
@@ -2289,7 +2285,7 @@
         "https://shibidp.uwo.ca/idp/shibboleth": {
             "en": "University of Western Ontario"
         },
-        "https://sso.arcticcollege.ca/idp": {
+        "https://sso.arcticcollege.com/idp": {
             "en": "Nunavut Arctic College"
         },
         "https://sso.capilanou.ca/idp": {
@@ -4461,6 +4457,10 @@
         "https://idp.sus.edu.cn/idp/shibboleth": {
             "en": "Shanghai University of Sport",
             "zh": "上海体育学院(Shanghai University of Sport)"
+        },
+        "https://idp.suse.edu.cn/idp/shibboleth": {
+            "en": "Sichuan University of Science&Engineering",
+            "zh": "四川轻化工大学(Sichuan University of Science&Engineering)"
         },
         "https://idp.sust.edu.cn/idp/shibboleth": {
             "en": "Shaanxi University of Science and Technology",
