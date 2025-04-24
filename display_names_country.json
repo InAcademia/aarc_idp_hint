@@ -15218,9 +15218,6 @@
         "http://adfs.brm-vtc.edu.om/adfs/services/trust": {
             "en": "Al Buraimi Vocational College"
         },
-        "http://adfs.du.edu.om/adfs/services/trust": {
-            "en": "Dhofar University"
-        },
         "http://adfs.ftik.edu.om/adfs/services/trust": {
             "en": "vocational college of marine science (Al khaboura)"
         },
