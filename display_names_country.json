@@ -5090,6 +5090,10 @@
             "en": "Zhejiang Sci-Tech University",
             "zh": "浙江理工大学(Zhejiang Sci-Tech University)"
         },
+        "https://idp.ztu.edu.cn/idp/shibboleth": {
+            "en": "Zhaotong University",
+            "zh": "昭通学院(Zhaotong University)"
+        },
         "https://idp.zua.edu.cn/idp/shibboleth": {
             "en": "Zhengzhou University of Aeronautics",
             "zh": "郑州航空工业管理学院(Zhengzhou University of Aeronautics)"
