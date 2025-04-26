@@ -1670,7 +1670,7 @@
             "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
             "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
         },
-        "https://plv037.mcom.gov.br/idp/shibboleth": {
+        "https://plv036.mcom.gov.br/idp/shibboleth": {
             "en": "MCOM - Ministerio das Comunicacoes",
             "pt-br": "MCOM - Ministerio das Comunicacoes"
         },
@@ -1689,6 +1689,10 @@
         "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
             "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
             "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
+        },
+        "https://redecafe.enap.gov.br/idp/shibboleth": {
+            "en": "ENAP - Escola Nacional de Administracao Publica",
+            "pt-br": "ENAP - Escola Nacional de Administracao Publica"
         },
         "https://redecafe.gigacandanga.net.br/idp/shibboleth": {
             "en": "GIGA - Associacao GigaCandanga",
@@ -7141,6 +7145,10 @@
             "de": "Württembergische Landesbibliothek Stuttgart",
             "en": "Württemberg State Library Stuttgart"
         },
+        "https://idp.zbmed.de/idp/shibboleth": {
+            "de": "Deutsche Zentralbibliothek für Medizin (ZB MED)",
+            "en": "Deutsche Zentralbibliothek für Medizin (ZB MED)"
+        },
         "https://idp.zbw.eu/idp/shibboleth": {
             "de": "ZBW - Leibniz-Informationszentrum Wirtschaft",
             "en": "ZBW - Leibniz Information Centre for Economics"
@@ -7866,7 +7874,7 @@
         },
         "http://fs.edu.simac.dk/adfs/services/trust": {
             "da": "SIMAC",
-            "en": "SIMAC"
+            "en": "Svendborg International Maritime Academy – SIMAC"
         },
         "http://fs.ibc.dk/adfs/services/trust": {
             "da": "International Business College",

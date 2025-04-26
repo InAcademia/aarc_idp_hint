@@ -899,7 +899,7 @@
         "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
         "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
     },
-    "https://plv037.mcom.gov.br/idp/shibboleth": {
+    "https://plv036.mcom.gov.br/idp/shibboleth": {
         "en": "MCOM - Ministerio das Comunicacoes",
         "pt-br": "MCOM - Ministerio das Comunicacoes"
     },
@@ -918,6 +918,10 @@
     "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
         "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
         "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
+    },
+    "https://redecafe.enap.gov.br/idp/shibboleth": {
+        "en": "ENAP - Escola Nacional de Administracao Publica",
+        "pt-br": "ENAP - Escola Nacional de Administracao Publica"
     },
     "https://redecafe.gigacandanga.net.br/idp/shibboleth": {
         "en": "GIGA - Associacao GigaCandanga",

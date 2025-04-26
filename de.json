@@ -974,6 +974,10 @@
         "de": "Württembergische Landesbibliothek Stuttgart",
         "en": "Württemberg State Library Stuttgart"
     },
+    "https://idp.zbmed.de/idp/shibboleth": {
+        "de": "Deutsche Zentralbibliothek für Medizin (ZB MED)",
+        "en": "Deutsche Zentralbibliothek für Medizin (ZB MED)"
+    },
     "https://idp.zbw.eu/idp/shibboleth": {
         "de": "ZBW - Leibniz-Informationszentrum Wirtschaft",
         "en": "ZBW - Leibniz Information Centre for Economics"
