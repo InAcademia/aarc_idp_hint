@@ -3062,6 +3062,10 @@
             "en": "Changchun University of Technology",
             "zh": "长春工业大学(Changchun University of Technology)"
         },
+        "https://idp.cdnu.edu.cn/idp/shibboleth": {
+            "en": "Chengdu Normal University",
+            "zh": "成都师范学院(Chengdu Normal University)"
+        },
         "https://idp.cdsu.edu.cn/idp/shibboleth": {
             "en": "Chengdu Sport University",
             "zh": "成都体育学院(Chengdu Sport University)"
@@ -3318,6 +3322,10 @@
             "en": "Fujian Normal University",
             "zh": "福建师范大学(Fujian Normal University)"
         },
+        "https://idp.fjpsc.edu.cn/idp/shibboleth": {
+            "en": "Fujian Police College",
+            "zh": "福建警察学院(Fujian Police College)"
+        },
         "https://idp.fjsmu.edu.cn/idp/shibboleth": {
             "en": "Sanming University",
             "zh": "三明学院(Sanming University)"
@@ -3429,6 +3437,10 @@
         "https://idp.gxnu.edu.cn/idp/shibboleth": {
             "en": "Guangxi Normal University",
             "zh": "广西师范大学(Guangxi Normal University)"
+        },
+        "https://idp.gxtcmu.edu.cn/idp/shibboleth": {
+            "en": "Guangxi University of Chinese Medicine",
+            "zh": "广西中医药大学(Guangxi University of Chinese Medicine)"
         },
         "https://idp.gxu.edu.cn/idp/shibboleth": {
             "en": "GuangXi University",
@@ -3625,6 +3637,10 @@
         "https://idp.hnuahe.edu.cn/idp/shibboleth": {
             "en": "Henan University of Animal Husbandry and Economy",
             "zh": "河南牧业经济学院(Henan University of Animal Husbandry and Economy)"
+        },
+        "https://idp.hnust.edu.cn/idp/shibboleth": {
+            "en": "Hunan University of Science and Technology",
+            "zh": "湖南科技大学(Hunan University of Science and Technology)"
         },
         "https://idp.hpu.edu.cn/idp/shibboleth": {
             "en": "Henan Polytechnic University",
@@ -3854,6 +3870,10 @@
             "en": "Jingzhou University",
             "zh": "荆州学院(Jingzhou University)"
         },
+        "https://idp.kmmu.edu.cn/idp/shibboleth": {
+            "en": "Kunming Medical University",
+            "zh": "昆明医科大学(Kunming Medical University)"
+        },
         "https://idp.lcu.edu.cn/idp/shibboleth": {
             "en": "Liaocheng University",
             "zh": "聊城大学(Liaocheng University)"
@@ -3885,6 +3905,10 @@
         "https://idp.lixin.edu.cn/idp/shibboleth": {
             "en": "Shanghai Lixin University Of Accounting And Finance",
             "zh": "上海立信会计金融学院(Shanghai Lixin University Of Accounting And Finance)"
+        },
+        "https://idp.llu.edu.cn/idp/shibboleth": {
+            "en": "Lyuliang University",
+            "zh": "吕梁学院(Lyuliang University)"
         },
         "https://idp.lnnu.edu.cn/idp/shibboleth": {
             "en": "Liaoning Normal University",
@@ -4917,10 +4941,6 @@
         "https://idp.xjzfu.edu.cn/idp/shibboleth": {
             "en": "Xinjiang University of Political Science and Law",
             "zh": "新疆政法学院(Xinjiang University of Political Science and Law)"
-        },
-        "https://idp.xmmc.edu.cn/idp/shibboleth": {
-            "en": "XiaMen Medical College",
-            "zh": "厦门医学院(XiaMen Medical College)"
         },
         "https://idp.xmu.edu.cn/idp/shibboleth": {
             "en": "Xiamen University",
@@ -12063,7 +12083,7 @@
             "en": "Tamil Nadu Physical Education and Sports University"
         },
         "https://idp.uhsbagalkot.edu.in/idp/shibboleth": {
-            "en": "University of Horticultural Sciences"
+            "en": "University of Horticultural Sciences, Bagalkot"
         },
         "https://idp.unigoa.ac.in/idp/shibboleth": {
             "en": "Goa University"
