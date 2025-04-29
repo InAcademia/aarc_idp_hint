@@ -236,6 +236,9 @@
     "https://id.nshe.nevada.edu/idp": {
         "en": "Nevada System of Higher Education - SA/SCS"
     },
+    "https://id.oberlin.edu/idp": {
+        "en": "Oberlin College and Conservatory"
+    },
     "https://id.tmcc.edu/idp": {
         "en": "Truckee Meadows Community College"
     },

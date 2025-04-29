@@ -32,8 +32,8 @@
         "zh": "北京师范大学"
     },
     "https://idp.redclara.net/saml2/idp/metadata.php": {
-        "en": "RedCLARA (Proxy)",
-        "es": "RedCLARA (Proxy)"
+        "en": "RedCLARA - IdP",
+        "es": "RedCLARA - IdP"
     },
     "https://idp.scholarin.cn/idp/shibboleth": {
         "en": "Scholarin ID",

@@ -94,5 +94,8 @@
     },
     "https://mysso.kku.edu.sa/idp": {
         "en": "King Khalid University"
+    },
+    "https://sts.windows.net/aa363858-7642-431c-849a-8a4bff5dbde3/": {
+        "en": "Dar Al-Hekma University - 2"
     }
 }

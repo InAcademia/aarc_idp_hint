@@ -1319,6 +1319,10 @@
         "en": "Lanzhou Universiy of Art and Science",
         "zh": "兰州文理学院(Lanzhou Universiy of Art and Science)"
     },
+    "https://idp.luibe.edu.cn/idp/shibboleth": {
+        "en": "Liaoning University Of International Business and Economics",
+        "zh": "辽宁对外经贸学院(Liaoning University Of International Business and Economics)"
+    },
     "https://idp.lut.edu.cn/idp/shibboleth": {
         "en": "Lanzhou University of Technology",
         "zh": "兰州理工大学(Lanzhou University of Technology)"
@@ -2211,6 +2215,10 @@
         "en": "West Yunnan University",
         "zh": "滇西科技师范学院(West Yunnan University)"
     },
+    "https://idp.wzbc.edu.cn/idp/shibboleth": {
+        "en": "Wenzhou Business College",
+        "zh": "温州商学院(Wenzhou Business College)"
+    },
     "https://idp.wzu.edu.cn/idp/shibboleth": {
         "en": "Wenzhou University",
         "zh": "温州大学(Wenzhou University)"
@@ -2494,6 +2502,10 @@
     "https://idp.zstu.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Sci-Tech University",
         "zh": "浙江理工大学(Zhejiang Sci-Tech University)"
+    },
+    "https://idp.ztbu.edu.cn/idp/shibboleth": {
+        "en": "Zhengzhou Technology and Business University",
+        "zh": "郑州工商学院(Zhengzhou Technology and Business University)"
     },
     "https://idp.ztu.edu.cn/idp/shibboleth": {
         "en": "Zhaotong University",
