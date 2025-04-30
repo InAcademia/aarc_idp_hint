@@ -459,6 +459,10 @@
         "en": "ENSFEA",
         "fr": "ENSFEA"
     },
+    "https://idp.ensicaen.fr/idp/shibboleth": {
+        "en": "ENSICAENv5",
+        "fr": "ENSICAENv5"
+    },
     "https://idp.ensma.fr/idp/shibboleth": {
         "en": "ENSMA - Ecole Nationale Supérieure de Mécanique et d'Aérotechnique",
         "fr": "ENSMA - Ecole Nationale Supérieure de Mécanique et d'Aérotechnique"

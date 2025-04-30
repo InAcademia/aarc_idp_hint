@@ -1207,8 +1207,8 @@
             "pt-br": "FJS - Fundacao Jose Silveira"
         },
         "https://fusion.ceub.br/idp/shibboleth": {
-            "en": "UNICEUB - Centro Universitario de Brasilia",
-            "pt-br": "UNICEUB - Centro Universitario de Brasilia"
+            "en": "CEUB - Centro Universitario de Brasilia",
+            "pt-br": "CEUB - Centro Universitario de Brasilia"
         },
         "https://hibonite.fapesp.br/idp/shibboleth": {
             "en": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo",
@@ -7597,6 +7597,10 @@
             "de": "Katholische Hochschule Nordrhein-Westfalen (katho)",
             "en": "Catholic University of Applied Sciences of North Rhine-Westphalia"
         },
+        "https://shibboleth-idp.mh-luebeck.de/idp/shibboleth": {
+            "de": "Musikhochschule Lübeck",
+            "en": "Musikhochschule Lübeck"
+        },
         "https://shibboleth-idp.mpg.de/mpg/shibboleth": {
             "de": "Max-Planck Institute (im MetaDir der GWDG)",
             "en": "Max-Planck Institutes (in MetaDir of GWDG)"
@@ -9840,6 +9844,10 @@
         "https://idp.ensfea.fr/idp/shibboleth": {
             "en": "ENSFEA",
             "fr": "ENSFEA"
+        },
+        "https://idp.ensicaen.fr/idp/shibboleth": {
+            "en": "ENSICAENv5",
+            "fr": "ENSICAENv5"
         },
         "https://idp.ensma.fr/idp/shibboleth": {
             "en": "ENSMA - Ecole Nationale Supérieure de Mécanique et d'Aérotechnique",

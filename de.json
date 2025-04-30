@@ -1394,6 +1394,10 @@
         "de": "Katholische Hochschule Nordrhein-Westfalen (katho)",
         "en": "Catholic University of Applied Sciences of North Rhine-Westphalia"
     },
+    "https://shibboleth-idp.mh-luebeck.de/idp/shibboleth": {
+        "de": "Musikhochschule Lübeck",
+        "en": "Musikhochschule Lübeck"
+    },
     "https://shibboleth-idp.mpg.de/mpg/shibboleth": {
         "de": "Max-Planck Institute (im MetaDir der GWDG)",
         "en": "Max-Planck Institutes (in MetaDir of GWDG)"
