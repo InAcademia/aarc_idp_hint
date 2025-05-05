@@ -11,6 +11,10 @@
         "en": "CEA {SILAB}",
         "fr": "CEA {SILAB}"
     },
+    "http://idp.univ-poitiers.fr": {
+        "en": "University of Poitiers",
+        "fr": "Université de Poitiers"
+    },
     "http://sts.kedgebs.com/adfs/services/trust": {
         "en": "Kedge Business School",
         "fr": "Kedge Business School"
@@ -386,6 +390,10 @@
     "https://idp.crous-normandie.fr/idp/shibboleth": {
         "en": "CROUS Normandie - Personnels v3",
         "fr": "CROUS Normandie - Personnels v3"
+    },
+    "https://idp.crous-orleans-tours.fr/idp/shibboleth": {
+        "en": "CROUS Orléans-Tours - Personnels",
+        "fr": "CROUS Orléans-Tours - Personnels"
     },
     "https://idp.crous-paris.fr/idp/shibboleth": {
         "en": "CROUS Paris",
