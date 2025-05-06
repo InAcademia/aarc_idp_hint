@@ -443,6 +443,9 @@
         "https://signon.deakin.edu.au/idp/shibboleth": {
             "en": "Deakin University"
         },
+        "https://sso-shibboleth.rmit.edu.au/idp/shibboleth": {
+            "en": "RMIT University"
+        },
         "https://unisa.edu.au/idp/shibboleth": {
             "en": "University of South Australia"
         },
@@ -1130,6 +1133,10 @@
             "en": "UFSC - Universidade Federal de Santa Catarina",
             "pt-br": "UFSC - Universidade Federal de Santa Catarina"
         },
+        "https://cafe5.ansp.br/idp/shibboleth": {
+            "en": "ANSP - Research and Education Network of Sao Paulo",
+            "pt-br": "ANSP - Research and Education Network of Sao Paulo"
+        },
         "https://cafe5.ufes.br/idp/shibboleth": {
             "en": "UFES - Universidade Federal do Espirito Santo",
             "pt-br": "UFES - Universidade Federal do Espirito Santo"
@@ -1474,6 +1481,10 @@
             "en": "UNIFATEA - Centro Universitario Teresa D Avila",
             "pt-br": "UNIFATEA - Centro Universitario Teresa D Avila"
         },
+        "https://idp.unifesp.br/idp/shibboleth": {
+            "en": "UNIFESP - Universidade Federal de Sao Paulo",
+            "pt-br": "UNIFESP - Universidade Federal de Sao Paulo"
+        },
         "https://idp.unijorge.edu.br/idp/shibboleth": {
             "en": "UNIJORGE - Centro Universitario Jorge Amado",
             "pt-br": "UNIJORGE - Centro Universitario Jorge Amado"
@@ -1713,10 +1724,6 @@
         "https://shibboleth.abc.org.br/idp/shibboleth": {
             "en": "ABC - Academia Brasileira de Ciencias",
             "pt-br": "ABC - Academia Brasileira de Ciencias"
-        },
-        "https://shibboleth.ansp.br/idp/shibboleth": {
-            "en": "ANSP - an Academic Network at Sao Paulo",
-            "pt-br": "ANSP - an Academic Network at Sao Paulo"
         },
         "https://shibboleth.cetem.gov.br/idp/shibboleth": {
             "en": "CETEM - Centro de Tecnologia Mineral",
@@ -6922,6 +6929,10 @@
             "de": "Kunstakademie Düsseldorf",
             "en": "Art Academy of Duesseldorf"
         },
+        "https://idp.leibniz-hbi.de/idp/shibboleth": {
+            "de": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)",
+            "en": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)"
+        },
         "https://idp.leibniz-liv.de/idp/shibboleth": {
             "de": "Leibniz-Institut für Virologie (LIV)",
             "en": "Leibniz Institute of Virology (LIV)"
@@ -10628,10 +10639,6 @@
         "urn:mace:cru.fr:federation:univ-paris1.fr": {
             "en": "Paris 1 Panthéon-Sorbonne University",
             "fr": "Université Paris 1 Panthéon-Sorbonne"
-        },
-        "urn:mace:cru.fr:federation:univ-poitiers.fr": {
-            "en": "Université de Poitiers(Old)",
-            "fr": "Université de Poitiers(Ancien)"
         },
         "urn:mace:cru.fr:federation:univ-rennes1.fr": {
             "en": "University of Rennes",
@@ -15278,6 +15285,9 @@
         },
         "http://adfs.brm-vtc.edu.om/adfs/services/trust": {
             "en": "Al Buraimi Vocational College"
+        },
+        "http://adfs.du.edu.om/adfs/services/trust": {
+            "en": "Dhofar University (shibboleth)"
         },
         "http://adfs.ftik.edu.om/adfs/services/trust": {
             "en": "vocational college of marine science (Al khaboura)"

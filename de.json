@@ -723,6 +723,10 @@
         "de": "Kunstakademie Düsseldorf",
         "en": "Art Academy of Duesseldorf"
     },
+    "https://idp.leibniz-hbi.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)",
+        "en": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)"
+    },
     "https://idp.leibniz-liv.de/idp/shibboleth": {
         "de": "Leibniz-Institut für Virologie (LIV)",
         "en": "Leibniz Institute of Virology (LIV)"

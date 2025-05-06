@@ -89,6 +89,9 @@
     "https://signon.deakin.edu.au/idp/shibboleth": {
         "en": "Deakin University"
     },
+    "https://sso-shibboleth.rmit.edu.au/idp/shibboleth": {
+        "en": "RMIT University"
+    },
     "https://unisa.edu.au/idp/shibboleth": {
         "en": "University of South Australia"
     },

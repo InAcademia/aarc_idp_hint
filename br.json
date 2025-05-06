@@ -359,6 +359,10 @@
         "en": "UFSC - Universidade Federal de Santa Catarina",
         "pt-br": "UFSC - Universidade Federal de Santa Catarina"
     },
+    "https://cafe5.ansp.br/idp/shibboleth": {
+        "en": "ANSP - Research and Education Network of Sao Paulo",
+        "pt-br": "ANSP - Research and Education Network of Sao Paulo"
+    },
     "https://cafe5.ufes.br/idp/shibboleth": {
         "en": "UFES - Universidade Federal do Espirito Santo",
         "pt-br": "UFES - Universidade Federal do Espirito Santo"
@@ -703,6 +707,10 @@
         "en": "UNIFATEA - Centro Universitario Teresa D Avila",
         "pt-br": "UNIFATEA - Centro Universitario Teresa D Avila"
     },
+    "https://idp.unifesp.br/idp/shibboleth": {
+        "en": "UNIFESP - Universidade Federal de Sao Paulo",
+        "pt-br": "UNIFESP - Universidade Federal de Sao Paulo"
+    },
     "https://idp.unijorge.edu.br/idp/shibboleth": {
         "en": "UNIJORGE - Centro Universitario Jorge Amado",
         "pt-br": "UNIJORGE - Centro Universitario Jorge Amado"
@@ -942,10 +950,6 @@
     "https://shibboleth.abc.org.br/idp/shibboleth": {
         "en": "ABC - Academia Brasileira de Ciencias",
         "pt-br": "ABC - Academia Brasileira de Ciencias"
-    },
-    "https://shibboleth.ansp.br/idp/shibboleth": {
-        "en": "ANSP - an Academic Network at Sao Paulo",
-        "pt-br": "ANSP - an Academic Network at Sao Paulo"
     },
     "https://shibboleth.cetem.gov.br/idp/shibboleth": {
         "en": "CETEM - Centro de Tecnologia Mineral",
