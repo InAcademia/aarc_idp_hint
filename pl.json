@@ -190,6 +190,10 @@
     "https://login.aai.pionier.net.pl/IdP/saml2/idp/metadata.php": {
         "en": "PIONIER Consortium"
     },
+    "https://login.apwb.pl/idp/shibboleth": {
+        "en": "The Podlasie Academy of Applied Sciences in Bialystok",
+        "pl": "Akademia Podlaska w Białymstoku"
+    },
     "https://login.at.edu.pl/idp": {
         "en": "National Academy of Dramatic Art in Warsaw",
         "pl": "Akademia Teatralna w Warszawie"
@@ -201,10 +205,6 @@
     "https://login.mup.edu.pl/cas/idp/metadata": {
         "en": "Cavalry Captain Witold Pilecki State University of Małopolska in Oświęcim",
         "pl": "Małopolska Uczelnia Państwowa im. rotmistrza Witolda Pileckiego w Oświęcimiu"
-    },
-    "https://login.nwsp.pl/idp/shibboleth": {
-        "en": "Non-state Higher Pedagogical School In Bialystok",
-        "pl": "Niepaństwowa Wyższa Szkoła Pedagogiczna w Białymstoku"
     },
     "https://login.pb.edu.pl/idp/shibboleth": {
         "en": "Bialystok University of Technology",

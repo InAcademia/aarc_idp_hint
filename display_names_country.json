@@ -1525,13 +1525,13 @@
             "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
             "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
         },
+        "https://idp01.ufsm.br/idp/shibboleth": {
+            "en": "UFSM - Universidade Federal de Santa Maria",
+            "pt-br": "UFSM - Universidade Federal de Santa Maria"
+        },
         "https://idp02.ifc.edu.br/idp/shibboleth": {
             "en": "IFC - Instituto Federal Catarinense",
             "pt-br": "IFC - Instituto Federal Catarinense"
-        },
-        "https://idp02.ufsm.br/idp/shibboleth": {
-            "en": "UFSM - Universidade Federal de Santa Maria",
-            "pt-br": "UFSM - Universidade Federal de Santa Maria"
         },
         "https://idp03-prd-jne.ufca.edu.br/idp/shibboleth": {
             "en": "UFCA - Universidade Federal do Cariri",
@@ -6599,7 +6599,7 @@
         },
         "https://idp.hehrz.de/idp/shibboleth": {
             "de": "IDP HeHRZ Darmstadt",
-            "en": "IDP HeHRZ Darmstadt"
+            "en": "HeHRZ Darmstadt"
         },
         "https://idp.heilbronn.dhbw.de/idp/shibboleth": {
             "de": "DHBW Heilbronn",
@@ -11666,6 +11666,9 @@
         "https://idp.cukerala.ac.in/idp/shibboleth": {
             "en": "central university of kerala"
         },
+        "https://idp.cuklibrary.ac.in/idp/shibboleth": {
+            "en": "Central University of Karnataka"
+        },
         "https://idp.cumminscollege.org/idp/shibboleth": {
             "en": "MKSSS's Cummins College of Engineering For Women, Pune"
         },
@@ -11942,6 +11945,9 @@
         "https://idp.nift.ac.in/idp/shibboleth": {
             "en": "National Institute Of Fashion Technology"
         },
+        "https://idp.niftem-t.ac.in/idp/shibboleth": {
+            "en": "National Institute of Food Technology, Entrepreneurship and Management, Thanjavur (NIFTEM-T)"
+        },
         "https://idp.niituniversity.in/idp/shibboleth": {
             "en": "NIIT University Library and Information Resource Centre ( NU LIRC )"
         },
@@ -12001,6 +12007,9 @@
         },
         "https://idp.presiuniv.ac.in/idp/shibboleth": {
             "en": "Presidency University"
+        },
+        "https://idp.prsuniv.ac.in/idp/shibboleth": {
+            "en": "Prof. Rajendra Singh(Rajju Bhaiya) University, Prayagraj"
         },
         "https://idp.psgitech.ac.in/idp/shibboleth": {
             "en": "PSG Institute of Technology and Applied Research (PSG iTech)"
@@ -15651,6 +15660,10 @@
         "https://login.aai.pionier.net.pl/IdP/saml2/idp/metadata.php": {
             "en": "PIONIER Consortium"
         },
+        "https://login.apwb.pl/idp/shibboleth": {
+            "en": "The Podlasie Academy of Applied Sciences in Bialystok",
+            "pl": "Akademia Podlaska w Białymstoku"
+        },
         "https://login.at.edu.pl/idp": {
             "en": "National Academy of Dramatic Art in Warsaw",
             "pl": "Akademia Teatralna w Warszawie"
@@ -15662,10 +15675,6 @@
         "https://login.mup.edu.pl/cas/idp/metadata": {
             "en": "Cavalry Captain Witold Pilecki State University of Małopolska in Oświęcim",
             "pl": "Małopolska Uczelnia Państwowa im. rotmistrza Witolda Pileckiego w Oświęcimiu"
-        },
-        "https://login.nwsp.pl/idp/shibboleth": {
-            "en": "Non-state Higher Pedagogical School In Bialystok",
-            "pl": "Niepaństwowa Wyższa Szkoła Pedagogiczna w Białymstoku"
         },
         "https://login.pb.edu.pl/idp/shibboleth": {
             "en": "Bialystok University of Technology",

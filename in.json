@@ -122,6 +122,9 @@
     "https://idp.cukerala.ac.in/idp/shibboleth": {
         "en": "central university of kerala"
     },
+    "https://idp.cuklibrary.ac.in/idp/shibboleth": {
+        "en": "Central University of Karnataka"
+    },
     "https://idp.cumminscollege.org/idp/shibboleth": {
         "en": "MKSSS's Cummins College of Engineering For Women, Pune"
     },
@@ -398,6 +401,9 @@
     "https://idp.nift.ac.in/idp/shibboleth": {
         "en": "National Institute Of Fashion Technology"
     },
+    "https://idp.niftem-t.ac.in/idp/shibboleth": {
+        "en": "National Institute of Food Technology, Entrepreneurship and Management, Thanjavur (NIFTEM-T)"
+    },
     "https://idp.niituniversity.in/idp/shibboleth": {
         "en": "NIIT University Library and Information Resource Centre ( NU LIRC )"
     },
@@ -457,6 +463,9 @@
     },
     "https://idp.presiuniv.ac.in/idp/shibboleth": {
         "en": "Presidency University"
+    },
+    "https://idp.prsuniv.ac.in/idp/shibboleth": {
+        "en": "Prof. Rajendra Singh(Rajju Bhaiya) University, Prayagraj"
     },
     "https://idp.psgitech.ac.in/idp/shibboleth": {
         "en": "PSG Institute of Technology and Applied Research (PSG iTech)"
