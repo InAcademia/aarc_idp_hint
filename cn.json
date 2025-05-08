@@ -303,10 +303,6 @@
         "en": "Beibu Gulf University",
         "zh": "北部湾大学(Beibu Gulf University)"
     },
-    "https://idp.bbmc.edu.cn/idp/shibboleth": {
-        "en": "Bengbu Medical College",
-        "zh": "蚌埠医学院(Bengbu Medical College)"
-    },
     "https://idp.bbmu.edu.cn/idp/shibboleth": {
         "en": "Bengbu Medical University",
         "zh": "蚌埠医科大学(Bengbu Medical University)"
@@ -882,6 +878,10 @@
     "https://idp.hbcit.edu.cn/idp/shibboleth": {
         "en": "Hebei Vocational University of Industry and Technology",
         "zh": "河北工业职业技术大学(Hebei Vocational University of Industry and Technology)"
+    },
+    "https://idp.hbeu.edu.cn/idp/shibboleth": {
+        "en": "Hubei  Engineering  University",
+        "zh": "湖北工程学院(Hubei  Engineering  University)"
     },
     "https://idp.hbmzu.edu.cn/idp/shibboleth": {
         "en": "Hubei Minzu University",
