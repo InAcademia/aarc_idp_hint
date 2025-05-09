@@ -19,10 +19,6 @@
         "en": "UECE - Universidade Estadual do Ceara",
         "pt-br": "UECE - Universidade Estadual do Ceara"
     },
-    "https://azor.ufpe.br/idp/shibboleth": {
-        "en": "UFPE - Universidade Federal de Pernambuco",
-        "pt-br": "UFPE - Universidade Federal de Pernambuco"
-    },
     "https://barista2.pucsp.br/idp/shibboleth": {
         "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
         "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"

@@ -76,8 +76,8 @@
             "en": "University of Natural Resources and Life Sciences, Vienna"
         },
         "https://idp.donau-uni.ac.at/idp/shibboleth": {
-            "de": "Donau-Universität Krems",
-            "en": "Danube University Krems"
+            "de": "Universität für Weiterbildung Krems",
+            "en": "University for Continuing Education Krems"
         },
         "https://idp.fernfh.ac.at/idp/shibboleth": {
             "de": "Ferdinand Porsche FernFH",
@@ -792,10 +792,6 @@
         "https://araripe.uece.br/idp/shibboleth": {
             "en": "UECE - Universidade Estadual do Ceara",
             "pt-br": "UECE - Universidade Estadual do Ceara"
-        },
-        "https://azor.ufpe.br/idp/shibboleth": {
-            "en": "UFPE - Universidade Federal de Pernambuco",
-            "pt-br": "UFPE - Universidade Federal de Pernambuco"
         },
         "https://barista2.pucsp.br/idp/shibboleth": {
             "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
@@ -3125,10 +3121,6 @@
             "en": "Chongqing Institute Of Engineering",
             "zh": "重庆工程学院(Chongqing Institute Of Engineering)"
         },
-        "https://idp.cqjtu.edu.cn/idp/shibboleth": {
-            "en": "Chongqing Jiaotong University",
-            "zh": "重庆交通大学(Chongqing Jiaotong University)"
-        },
         "https://idp.cqmu.edu.cn/idp/shibboleth": {
             "en": "Chongqing Medical University",
             "zh": "重庆医科大学(Chongqing Medical University)"
@@ -3248,10 +3240,6 @@
         "https://idp.djtu.edu.cn/idp/shibboleth": {
             "en": "Dalian Jiaotong University",
             "zh": "大连交通大学(Dalian Jiaotong University)"
-        },
-        "https://idp.dlnu.edu.cn/idp/shibboleth": {
-            "en": "Dalian Minzu University",
-            "zh": "大连民族大学(Dalian Minzu University)"
         },
         "https://idp.dlou.edu.cn/idp/shibboleth": {
             "en": "Dalian Ocean University",
@@ -17541,10 +17529,6 @@
         "https://yetkim.kocaeli.edu.tr/idp/shibboleth": {
             "en": "Kocaeli University",
             "tr": "Kocaeli Üniversitesi"
-        },
-        "https://yetkim.maltepe.edu.tr/idp/shibboleth": {
-            "en": "Maltepe University",
-            "tr": "T.C. Maltepe Üniversitesi"
         },
         "https://yetkim.marmara.edu.tr/idp/shibboleth": {
             "en": "Marmara University",

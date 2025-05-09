@@ -503,10 +503,6 @@
         "en": "Chongqing Institute Of Engineering",
         "zh": "重庆工程学院(Chongqing Institute Of Engineering)"
     },
-    "https://idp.cqjtu.edu.cn/idp/shibboleth": {
-        "en": "Chongqing Jiaotong University",
-        "zh": "重庆交通大学(Chongqing Jiaotong University)"
-    },
     "https://idp.cqmu.edu.cn/idp/shibboleth": {
         "en": "Chongqing Medical University",
         "zh": "重庆医科大学(Chongqing Medical University)"
@@ -626,10 +622,6 @@
     "https://idp.djtu.edu.cn/idp/shibboleth": {
         "en": "Dalian Jiaotong University",
         "zh": "大连交通大学(Dalian Jiaotong University)"
-    },
-    "https://idp.dlnu.edu.cn/idp/shibboleth": {
-        "en": "Dalian Minzu University",
-        "zh": "大连民族大学(Dalian Minzu University)"
     },
     "https://idp.dlou.edu.cn/idp/shibboleth": {
         "en": "Dalian Ocean University",
