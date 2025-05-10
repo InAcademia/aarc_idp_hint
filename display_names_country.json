@@ -1113,10 +1113,6 @@
             "en": "LNCC - Laboratorio Nacional de Computacao Cientifica",
             "pt-br": "LNCC - Laboratorio Nacional de Computacao Cientifica"
         },
-        "https://cafe4.ifms.edu.br/idp/shibboleth": {
-            "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
-            "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
-        },
         "https://cafe4.udesc.br/idp/shibboleth": {
             "en": "UDESC - Universidade do Estado de Santa Catarina",
             "pt-br": "UDESC - Universidade do Estado de Santa Catarina"
@@ -1172,10 +1168,6 @@
         "https://capuccino.ifba.edu.br/idp/shibboleth": {
             "en": "IFBA - Instituto Federal da Bahia",
             "pt-br": "IFBA - Instituto Federal da Bahia"
-        },
-        "https://capuccino2.iff.edu.br/idp/shibboleth": {
-            "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
-            "pt-br": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense"
         },
         "https://cardio.net.br/idp/shibboleth": {
             "en": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul",
@@ -1380,10 +1372,6 @@
         "https://idp.ifpa.edu.br/idp/shibboleth": {
             "en": "IFPA - Instituto Federal do Para",
             "pt-br": "IFPA - Instituto Federal do Para"
-        },
-        "https://idp.ifpb.edu.br/idp/shibboleth": {
-            "en": "IFPB - Instituto Federal da Paraiba",
-            "pt-br": "IFPB - Instituto Federal da Paraiba"
         },
         "https://idp.ifsuldeminas.edu.br/idp/shibboleth": {
             "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
