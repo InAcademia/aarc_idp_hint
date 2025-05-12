@@ -1223,9 +1223,6 @@
     "https://idp1.glos.ac.uk/entity": {
         "en": "University of Gloucestershire"
     },
-    "https://idp1.ioe.ac.uk/shibboleth": {
-        "en": "Institute of Education, University of London"
-    },
     "https://idp1.rnngroup.ac.uk/idp": {
         "en": "RNN Group IDP"
     },

@@ -723,6 +723,10 @@
         "en": "Fuzhou University",
         "zh": "福州大学(Fuzhou University)"
     },
+    "https://idp.gcu.edu.cn/idp/shibboleth": {
+        "en": "Guangzhou City University of Technology",
+        "zh": "广州城市理工学院(Guangzhou City University of Technology)"
+    },
     "https://idp.gdmu.edu.cn/idp/shibboleth": {
         "en": "Guangdong Medical University",
         "zh": "广东医科大学(Guangdong Medical University)"
@@ -1146,10 +1150,6 @@
     "https://idp.imut.edu.cn/idp/shibboleth": {
         "en": "Inner Mongolia University of Technology",
         "zh": "内蒙古工业大学(Inner Mongolia University of Technology)"
-    },
-    "https://idp.jci.edu.cn/idp/shibboleth": {
-        "en": "Jingdezhen Ceramic University",
-        "zh": "景德镇陶瓷大学(Jingdezhen Ceramic University)"
     },
     "https://idp.jgsu.edu.cn/idp/shibboleth": {
         "en": "Jinggangshan University",
@@ -1618,6 +1618,10 @@
     "https://idp.qmu.edu.cn/idp/shibboleth": {
         "en": "Qiqihar Medical University",
         "zh": "齐齐哈尔医学院(Qiqihar Medical University)"
+    },
+    "https://idp.qqhru.edu.cn/idp/shibboleth": {
+        "en": "Qiqihar University",
+        "zh": "齐齐哈尔大学(Qiqihar University)"
     },
     "https://idp.qust.edu.cn/idp/shibboleth": {
         "en": "Qingdao University of Science & Technology",
@@ -2311,10 +2315,6 @@
         "en": "Xi'an Jiaotong University",
         "zh": "西安交通大学(Xi'an Jiaotong University)"
     },
-    "https://idp.xju.edu.cn/idp/shibboleth": {
-        "en": "XinJiang University",
-        "zh": "新疆大学(XinJiang University)"
-    },
     "https://idp.xjufe.edu.cn/idp/shibboleth": {
         "en": "Xinjiang University Of Finance and Economics",
         "zh": "新疆财经大学(Xinjiang University Of Finance and Economics)"
@@ -2386,6 +2386,10 @@
     "https://idp.ynau.edu.cn/idp/shibboleth": {
         "en": "Yunnan Agricultural University",
         "zh": "云南农业大学(Yunnan Agricultural University)"
+    },
+    "https://idp.ynjgy.edu.cn/idp/shibboleth": {
+        "en": "Yunnan College of Business Management",
+        "zh": "云南经济管理学院(Yunnan College of Business Management)"
     },
     "https://idp.ynnu.edu.cn/idp/shibboleth": {
         "en": "Yunnan Normal University",

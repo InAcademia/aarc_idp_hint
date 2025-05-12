@@ -68,6 +68,9 @@
     "http://sts.ju.edu.sa/adfs/services/trust": {
         "en": "Jouf University"
     },
+    "http://sts.kfupm.edu.sa/adfs/services/trust": {
+        "en": "King Fahd University of Petroleum and Minerals"
+    },
     "http://sts.nbu.edu.sa/adfs/services/trust": {
         "en": "Northern Border University (NBU)"
     },
