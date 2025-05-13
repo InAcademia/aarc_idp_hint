@@ -793,6 +793,10 @@
             "en": "UECE - Universidade Estadual do Ceara",
             "pt-br": "UECE - Universidade Estadual do Ceara"
         },
+        "https://azor.ufpe.br/idp/shibboleth": {
+            "en": "UFPE - Universidade Federal de Pernambuco",
+            "pt-br": "UFPE - Universidade Federal de Pernambuco"
+        },
         "https://barista2.pucsp.br/idp/shibboleth": {
             "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
             "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
@@ -1244,6 +1248,10 @@
         "https://idp-cafe.ifpi.edu.br/idp/shibboleth": {
             "en": "IFPI - Instituto Federal do Piaui",
             "pt-br": "IFPI - Instituto Federal do Piaui"
+        },
+        "https://idp-cafe.ifs.edu.br/idp/shibboleth": {
+            "en": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe",
+            "pt-br": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe"
         },
         "https://idp-cafe.inma.gov.br/idp/shibboleth": {
             "en": "INMA - Instituto Nacional da Mata Atlantica",
@@ -8275,10 +8283,6 @@
             "en": "Unidad Educativa Salesiana Cardenal Spellman - spellman",
             "es": "Unidad Educativa Salesiana Cardenal Spellman - spellman"
         },
-        "https://login.sscc.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Unidad Educativa Bilingue Sagrados Corazones - sscc",
-            "es": "Unidad Educativa Bilingue Sagrados Corazones - sscc"
-        },
         "https://login.tecnologicoitca.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Tecnológico Superior José Chiriboga Grijalva - tecnologicoitca",
             "es": "Instituto Tecnológico Superior José Chiriboga Grijalva - tecnologicoitca"
@@ -15157,8 +15161,8 @@
             "nl": "Theologische Universiteit Utrecht"
         },
         "https://sts.windows.net/dde1db61-6b33-4eef-81d9-cdc6c9392571/": {
-            "en": "mboRijnland (New)",
-            "nl": "mboRijnland (Nieuw)"
+            "en": "mboRijnland",
+            "nl": "mboRijnland"
         },
         "https://sts.windows.net/dde2f31a-0733-4e4e-8460-14217d31ded5/": {
             "en": "Netherlands Institute for Health Services Research (NIVEL)",
