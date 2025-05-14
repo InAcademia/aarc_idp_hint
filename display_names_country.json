@@ -1173,6 +1173,10 @@
             "en": "IFBA - Instituto Federal da Bahia",
             "pt-br": "IFBA - Instituto Federal da Bahia"
         },
+        "https://capuccino2.iff.edu.br/idp/shibboleth": {
+            "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
+            "pt-br": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense"
+        },
         "https://cardio.net.br/idp/shibboleth": {
             "en": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul",
             "pt-br": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul"
@@ -1380,6 +1384,10 @@
         "https://idp.ifpa.edu.br/idp/shibboleth": {
             "en": "IFPA - Instituto Federal do Para",
             "pt-br": "IFPA - Instituto Federal do Para"
+        },
+        "https://idp.ifpb.edu.br/idp/shibboleth": {
+            "en": "IFPB - Instituto Federal da Paraiba",
+            "pt-br": "IFPB - Instituto Federal da Paraiba"
         },
         "https://idp.ifsuldeminas.edu.br/idp/shibboleth": {
             "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
@@ -4596,6 +4604,10 @@
         "https://idp.thnu.edu.cn/idp/shibboleth": {
             "en": "Tonghua Normal University",
             "zh": "通化师范学院(Tonghua Normal University)"
+        },
+        "https://idp.tit.edu.cn/idp/shibboleth": {
+            "en": "Taiyuan Institute of Technology",
+            "zh": "太原工业学院(Taiyuan Institute of Technology)"
         },
         "https://idp.tjarts.edu.cn/idp/shibboleth": {
             "en": "Tianjin Academy of Fine Arts",
@@ -16922,6 +16934,11 @@
         "https://sso.ukf.sk/idp/shibboleth": {
             "en": "Constantine the Philosopher University in Nitra",
             "sk": "Univerzita Konštantína Filozofa v Nitre"
+        }
+    },
+    "tg": {
+        "https://nrentogostaff.togorer.eduid.africa/saml2/idp/metadata.php": {
+            "en": "TogoRER"
         }
     },
     "th": {
