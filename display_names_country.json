@@ -699,6 +699,12 @@
             "nl": "Associatie KU Leuven"
         }
     },
+    "bf": {
+        "https://fasorenstaff.fasoren.eduid.africa/saml2/idp/metadata.php": {
+            "en": "FasoREN",
+            "fr": "FasoREN"
+        }
+    },
     "bg": {
         "https://edugain.mu-pleven.bg/idp/shibboleth": {
             "bg": "Медицински университет Плевен",
@@ -6333,6 +6339,10 @@
             "de": "Alice-Salomon-Hochschule Berlin",
             "en": "Alice-Salomon-Hochschule Berlin"
         },
+        "https://idp.atb-potsdam.de/idp/shibboleth": {
+            "de": "Leibniz-Institut für Agrartechnik und Bioökonomie e.V. (ATB)",
+            "en": "Leibniz-Institute for Agriculture Technology and Bioeconomics e.V. (ATB)"
+        },
         "https://idp.ba-sachsen.de/idp/shibboleth": {
             "de": "Duale Hochschule Sachsen",
             "en": "Duale Hochschule Sachsen"
@@ -9484,10 +9494,6 @@
             "en": "Sorbonne University",
             "fr": "Sorbonne Université"
         },
-        "https://auth.sso.vet-alfort.fr/saml/metadata": {
-            "en": "National Veterinary School of Alfort - EnvA",
-            "fr": "Ecole Nationale Vétérinaire d'ALFORT - EnvA"
-        },
         "https://auth.u-paris.fr/idp/shibboleth": {
             "en": "Université Paris Cité",
             "fr": "Université Paris Cité"
@@ -10491,10 +10497,6 @@
         "https://shibbov3.ephe.fr/idp/shibboleth": {
             "en": "EPHE - Ecole Pratique des Hautes Etudes",
             "fr": "EPHE - Ecole Pratique des Hautes Etudes"
-        },
-        "https://shibbov3b-vm.ec-nantes.fr/idp/shibboleth": {
-            "en": "EC-NANT3b",
-            "fr": "EC-NANT3b"
         },
         "https://shibone.univ-catholille.fr/idp/shibboleth": {
             "en": "Catholic University of Lille",
@@ -19977,9 +19979,6 @@
         },
         "http://adfs.nku.edu/adfs/services/trust": {
             "en": "Northern Kentucky University"
-        },
-        "http://adfs.otc.edu/adfs/services/trust": {
-            "en": "Ozarks Technical Community College"
         },
         "http://adfs.philau.edu/adfs/services/trust": {
             "en": "Philadelphia University"

@@ -8,9 +8,6 @@
     "http://adfs.nku.edu/adfs/services/trust": {
         "en": "Northern Kentucky University"
     },
-    "http://adfs.otc.edu/adfs/services/trust": {
-        "en": "Ozarks Technical Community College"
-    },
     "http://adfs.philau.edu/adfs/services/trust": {
         "en": "Philadelphia University"
     },

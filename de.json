@@ -127,6 +127,10 @@
         "de": "Alice-Salomon-Hochschule Berlin",
         "en": "Alice-Salomon-Hochschule Berlin"
     },
+    "https://idp.atb-potsdam.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Agrartechnik und Bioökonomie e.V. (ATB)",
+        "en": "Leibniz-Institute for Agriculture Technology and Bioeconomics e.V. (ATB)"
+    },
     "https://idp.ba-sachsen.de/idp/shibboleth": {
         "de": "Duale Hochschule Sachsen",
         "en": "Duale Hochschule Sachsen"

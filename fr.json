@@ -91,10 +91,6 @@
         "en": "Sorbonne University",
         "fr": "Sorbonne Université"
     },
-    "https://auth.sso.vet-alfort.fr/saml/metadata": {
-        "en": "National Veterinary School of Alfort - EnvA",
-        "fr": "Ecole Nationale Vétérinaire d'ALFORT - EnvA"
-    },
     "https://auth.u-paris.fr/idp/shibboleth": {
         "en": "Université Paris Cité",
         "fr": "Université Paris Cité"
@@ -1098,10 +1094,6 @@
     "https://shibbov3.ephe.fr/idp/shibboleth": {
         "en": "EPHE - Ecole Pratique des Hautes Etudes",
         "fr": "EPHE - Ecole Pratique des Hautes Etudes"
-    },
-    "https://shibbov3b-vm.ec-nantes.fr/idp/shibboleth": {
-        "en": "EC-NANT3b",
-        "fr": "EC-NANT3b"
     },
     "https://shibone.univ-catholille.fr/idp/shibboleth": {
         "en": "Catholic University of Lille",
