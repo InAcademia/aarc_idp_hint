@@ -187,6 +187,10 @@
         "en": "The Emergency Services College",
         "sv": "Räddningsinstitutet"
     },
+    "https://tunnistus.polamk.fi/idp/shibboleth": {
+        "en": "Police University College",
+        "sv": "Polisyrkeshögskolan"
+    },
     "https://tunnistus.smedu.fi/idp/shibboleth": {
         "en": "Police University College",
         "sv": "Polisyrkeshögskolan"
