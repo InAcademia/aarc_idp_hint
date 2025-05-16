@@ -399,6 +399,10 @@
         "en": "The Central Academy of Fine Arts",
         "zh": "中央美术学院(The Central Academy of Fine Arts)"
     },
+    "https://idp.cafuc.edu.cn/idp/shibboleth": {
+        "en": "Civil Aviation Flight University Of China",
+        "zh": "中国民用航空飞行学院(Civil Aviation Flight University Of China)"
+    },
     "https://idp.caii.edu.cn/idp/shibboleth": {
         "en": "Changchun Automobile Industry Institute",
         "zh": "长春汽车工业高等专科学校(Changchun Automobile Industry Institute)"
@@ -2122,6 +2126,10 @@
     "https://idp.ustc.edu.cn/idp/shibboleth": {
         "en": "University of Science and Technology of China",
         "zh": "中国科学技术大学(University of Science and Technology of China)"
+    },
+    "https://idp.usth.edu.cn/idp/shibboleth": {
+        "en": "Heilongjiang University of Science and Technology",
+        "zh": "黑龙江科技大学(Heilongjiang University of Science and Technology)"
     },
     "https://idp.ustl.edu.cn/idp/shibboleth": {
         "en": "University of Science and Technology Liaoning",

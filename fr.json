@@ -91,6 +91,10 @@
         "en": "Sorbonne University",
         "fr": "Sorbonne Université"
     },
+    "https://auth.sso.vet-alfort.fr/saml/metadata": {
+        "en": "National Veterinary School of Alfort - EnvA",
+        "fr": "Ecole Nationale Vétérinaire d'ALFORT - EnvA"
+    },
     "https://auth.u-paris.fr/idp/shibboleth": {
         "en": "Université Paris Cité",
         "fr": "Université Paris Cité"
@@ -410,6 +414,10 @@
     "https://idp.curie.fr/idp/saml2/metadata": {
         "en": "Institut Curie - Research center",
         "fr": "Institut Curie - Centre de recherche"
+    },
+    "https://idp.ec-nantes.fr/idp/shibboleth": {
+        "en": "ECN5",
+        "fr": "ECN5"
     },
     "https://idp.ecole-navale.fr/idp/shibboleth": {
         "en": "Ecole navale",

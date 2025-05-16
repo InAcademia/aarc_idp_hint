@@ -343,6 +343,10 @@
         "en": "LNCC - Laboratorio Nacional de Computacao Cientifica",
         "pt-br": "LNCC - Laboratorio Nacional de Computacao Cientifica"
     },
+    "https://cafe4.ifms.edu.br/idp/shibboleth": {
+        "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
+        "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
+    },
     "https://cafe4.udesc.br/idp/shibboleth": {
         "en": "UDESC - Universidade do Estado de Santa Catarina",
         "pt-br": "UDESC - Universidade do Estado de Santa Catarina"
@@ -627,10 +631,6 @@
         "en": "INPA - Instituto Nacional de Pesquisas da Amazonia",
         "pt-br": "INPA - Instituto Nacional de Pesquisas da Amazonia"
     },
-    "https://idp.int.gov.br/idp/shibboleth": {
-        "en": "INT - Instituto Nacional de Tecnologia",
-        "pt-br": "INT - Instituto Nacional de Tecnologia"
-    },
     "https://idp.ita.br/idp/shibboleth": {
         "en": "ITA - Instituto Tecnologico de Aeronautica",
         "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
@@ -690,10 +690,6 @@
     "https://idp.uftm.edu.br/idp/shibboleth": {
         "en": "UFTM - Universidade Federal do Triangulo Mineiro",
         "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
-    },
-    "https://idp.ufvjm.edu.br/idp/shibboleth": {
-        "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
-        "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
     },
     "https://idp.unifacef.edu.br/idp/shibboleth": {
         "en": "UNI-FACEF - Centro Universitario Municipal de Franca",
@@ -806,6 +802,10 @@
     "https://idpcafe.ufscar.br/idp/shibboleth": {
         "en": "UFSCAR - Universidade Federal de Sao Carlos",
         "pt-br": "UFSCAR - Universidade Federal de Sao Carlos"
+    },
+    "https://idpcafe.ufvjm.edu.br/idp/shibboleth": {
+        "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
+        "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
     },
     "https://idpcafe.unifran.br/idp/shibboleth": {
         "en": "UNIFRAN - Universidade de Franca",

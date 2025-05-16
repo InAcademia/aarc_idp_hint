@@ -1123,6 +1123,10 @@
             "en": "LNCC - Laboratorio Nacional de Computacao Cientifica",
             "pt-br": "LNCC - Laboratorio Nacional de Computacao Cientifica"
         },
+        "https://cafe4.ifms.edu.br/idp/shibboleth": {
+            "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
+            "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
+        },
         "https://cafe4.udesc.br/idp/shibboleth": {
             "en": "UDESC - Universidade do Estado de Santa Catarina",
             "pt-br": "UDESC - Universidade do Estado de Santa Catarina"
@@ -1407,10 +1411,6 @@
             "en": "INPA - Instituto Nacional de Pesquisas da Amazonia",
             "pt-br": "INPA - Instituto Nacional de Pesquisas da Amazonia"
         },
-        "https://idp.int.gov.br/idp/shibboleth": {
-            "en": "INT - Instituto Nacional de Tecnologia",
-            "pt-br": "INT - Instituto Nacional de Tecnologia"
-        },
         "https://idp.ita.br/idp/shibboleth": {
             "en": "ITA - Instituto Tecnologico de Aeronautica",
             "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
@@ -1470,10 +1470,6 @@
         "https://idp.uftm.edu.br/idp/shibboleth": {
             "en": "UFTM - Universidade Federal do Triangulo Mineiro",
             "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
-        },
-        "https://idp.ufvjm.edu.br/idp/shibboleth": {
-            "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
-            "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
         },
         "https://idp.unifacef.edu.br/idp/shibboleth": {
             "en": "UNI-FACEF - Centro Universitario Municipal de Franca",
@@ -1586,6 +1582,10 @@
         "https://idpcafe.ufscar.br/idp/shibboleth": {
             "en": "UFSCAR - Universidade Federal de Sao Carlos",
             "pt-br": "UFSCAR - Universidade Federal de Sao Carlos"
+        },
+        "https://idpcafe.ufvjm.edu.br/idp/shibboleth": {
+            "en": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
+            "pt-br": "UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri"
         },
         "https://idpcafe.unifran.br/idp/shibboleth": {
             "en": "UNIFRAN - Universidade de Franca",
@@ -3026,6 +3026,10 @@
         "https://idp.cafa.edu.cn/idp/shibboleth": {
             "en": "The Central Academy of Fine Arts",
             "zh": "中央美术学院(The Central Academy of Fine Arts)"
+        },
+        "https://idp.cafuc.edu.cn/idp/shibboleth": {
+            "en": "Civil Aviation Flight University Of China",
+            "zh": "中国民用航空飞行学院(Civil Aviation Flight University Of China)"
         },
         "https://idp.caii.edu.cn/idp/shibboleth": {
             "en": "Changchun Automobile Industry Institute",
@@ -4750,6 +4754,10 @@
         "https://idp.ustc.edu.cn/idp/shibboleth": {
             "en": "University of Science and Technology of China",
             "zh": "中国科学技术大学(University of Science and Technology of China)"
+        },
+        "https://idp.usth.edu.cn/idp/shibboleth": {
+            "en": "Heilongjiang University of Science and Technology",
+            "zh": "黑龙江科技大学(Heilongjiang University of Science and Technology)"
         },
         "https://idp.ustl.edu.cn/idp/shibboleth": {
             "en": "University of Science and Technology Liaoning",
@@ -9494,6 +9502,10 @@
             "en": "Sorbonne University",
             "fr": "Sorbonne Université"
         },
+        "https://auth.sso.vet-alfort.fr/saml/metadata": {
+            "en": "National Veterinary School of Alfort - EnvA",
+            "fr": "Ecole Nationale Vétérinaire d'ALFORT - EnvA"
+        },
         "https://auth.u-paris.fr/idp/shibboleth": {
             "en": "Université Paris Cité",
             "fr": "Université Paris Cité"
@@ -9813,6 +9825,10 @@
         "https://idp.curie.fr/idp/saml2/metadata": {
             "en": "Institut Curie - Research center",
             "fr": "Institut Curie - Centre de recherche"
+        },
+        "https://idp.ec-nantes.fr/idp/shibboleth": {
+            "en": "ECN5",
+            "fr": "ECN5"
         },
         "https://idp.ecole-navale.fr/idp/shibboleth": {
             "en": "Ecole navale",
@@ -13874,6 +13890,9 @@
         "https://sse-idp.lanet.lv": {
             "en": "Stockholm School of Economics in Riga"
         },
+        "https://sts.windows.net/a04c51cb-5296-417d-b612-dc33a028d7a0/": {
+            "en": "Stockholm School of Economics in Riga (Office 365)"
+        },
         "https://va-idp.lanet.lv": {
             "en": "Vidzeme University of Applied Sciences"
         },
@@ -14831,8 +14850,8 @@
             "nl": "Deltares"
         },
         "https://sts.windows.net/2259cb87-9540-474f-9e96-2f4bde46bb52/": {
-            "en": "Summa College",
-            "nl": "Summa College"
+            "en": "Summa",
+            "nl": "Summa"
         },
         "https://sts.windows.net/25443702-039b-4485-b8ae-3054dde1ed25/": {
             "en": "Zone.College",
@@ -16967,10 +16986,6 @@
         "https://id.cbu.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Manisa Celal Bayar University",
             "tr": "Manisa Celal Bayar Üniversitesi"
-        },
-        "https://idp.adiguzel.edu.tr/idp/shibboleth": {
-            "en": "Atasehir Adiguzel Vocational School",
-            "tr": "Ataşehir Adıgüzel Meslek Yüksekokulu"
         },
         "https://idp.adiyaman.edu.tr/idp/shibboleth": {
             "en": "Adiyaman University",
