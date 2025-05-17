@@ -2,12 +2,6 @@
     "https://du-idp.lanet.lv": {
         "en": "Daugavpils University"
     },
-    "https://id.lndb.lv": {
-        "en": "LNB"
-    },
-    "https://id2.rtu.lv:443/openam": {
-        "en": "Riga Technical University"
-    },
     "https://idp.laife.lv/saml-idp": {
         "en": "LAIFE (Latvian academic identity federation)",
         "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"

@@ -35,8 +35,8 @@
         "en": "UBC Identity Provider"
     },
     "https://idp.unibuc.ro/idp/shibboleth": {
-        "en": "University of Bucharest - Shibboleth IdP",
-        "ro": "Universitatea din București - Shibboleth IdP"
+        "en": "University of Bucharest",
+        "ro": "Universitatea din București"
     },
     "https://idp.univ-ovidius.ro/idp/shibboleth": {
         "en": "Ovidius University of Constanta",
