@@ -60,6 +60,12 @@
     "https://sse-idp.lanet.lv": {
         "en": "Stockholm School of Economics in Riga"
     },
+    "https://sts.windows.net/4a282c00-7e8e-4337-9e52-3be349881146/": {
+        "en": "Turiba University (Office 365)"
+    },
+    "https://sts.windows.net/a04c51cb-5296-417d-b612-dc33a028d7a0/": {
+        "en": "Stockholm School of Economics in Riga (Office 365)"
+    },
     "https://va-idp.lanet.lv": {
         "en": "Vidzeme University of Applied Sciences"
     },

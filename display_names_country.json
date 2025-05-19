@@ -3263,6 +3263,10 @@
             "en": "DaLian University",
             "zh": "大连大学(DaLian University)"
         },
+        "https://idp.dlufe.edu.cn/idp/shibboleth": {
+            "en": "Dalian University of Finance and Economics",
+            "zh": "大连财经学院(Dalian University of Finance and Economics)"
+        },
         "https://idp.dlufl.edu.cn/idp/shibboleth": {
             "en": "Dalian University of Foreign Languages",
             "zh": "大连外国语大学(Dalian University of Foreign Languages)"
@@ -3543,10 +3547,6 @@
             "en": "Hechi University",
             "zh": "河池学院(Hechi University)"
         },
-        "https://idp.hdc.edu.cn/idp/shibboleth": {
-            "en": "Handan University",
-            "zh": "邯郸学院(Handan University)"
-        },
         "https://idp.hdu.edu.cn/idp/shibboleth": {
             "en": "HANGZHOU DIANZI UNIVERSITY",
             "zh": "杭州电子科技大学(HANGZHOU DIANZI UNIVERSITY)"
@@ -3802,10 +3802,6 @@
         "https://idp.jisu.edu.cn/idp/shibboleth": {
             "en": "Jilin International Studies University",
             "zh": "吉林外国语大学(Jilin International Studies University)"
-        },
-        "https://idp.jlart.edu.cn/idp/shibboleth": {
-            "en": "Jilin University Of Arts",
-            "zh": "吉林艺术学院(Jilin University Of Arts)"
         },
         "https://idp.jlau.edu.cn/idp/shibboleth": {
             "en": "JiLIn Agricultural University",
@@ -9794,10 +9790,6 @@
             "en": "CROUS Lille",
             "fr": "CROUS Lille"
         },
-        "https://idp.crous-nancy-metz.fr/idp/shibboleth": {
-            "en": "CROUS Lorraine",
-            "fr": "CROUS Lorraine"
-        },
         "https://idp.crous-nantes.fr/idp/shibboleth": {
             "en": "CROUS de Nantes",
             "fr": "CROUS de Nantes"
@@ -13883,6 +13875,12 @@
         },
         "https://sse-idp.lanet.lv": {
             "en": "Stockholm School of Economics in Riga"
+        },
+        "https://sts.windows.net/4a282c00-7e8e-4337-9e52-3be349881146/": {
+            "en": "Turiba University (Office 365)"
+        },
+        "https://sts.windows.net/a04c51cb-5296-417d-b612-dc33a028d7a0/": {
+            "en": "Stockholm School of Economics in Riga (Office 365)"
         },
         "https://va-idp.lanet.lv": {
             "en": "Vidzeme University of Applied Sciences"
