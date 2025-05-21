@@ -143,6 +143,10 @@
         "en": "IFMA - Instituto Federal do Maranhao",
         "pt-br": "IFMA - Instituto Federal do Maranhao"
     },
+    "https://cafe.ifpb.edu.br/idp/shibboleth": {
+        "en": "IFPB - Instituto Federal de Educacao da Paraiba",
+        "pt-br": "IFPB - Instituto Federal de Educacao da Paraiba"
+    },
     "https://cafe.ifpr.edu.br/idp/shibboleth": {
         "en": "IFPR - Instituto Federal do Parana",
         "pt-br": "IFPR - Instituto Federal do Parana"
@@ -282,10 +286,6 @@
     "https://cafe.unicamp.br/idp/shibboleth": {
         "en": "UNICAMP - Universidade Estadual de Campinas",
         "pt-br": "UNICAMP - Universidade Estadual de Campinas"
-    },
-    "https://cafe.unicap.br/idp/shibboleth": {
-        "en": "UNICAP - Universidade Catolica de Pernambuco",
-        "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
     },
     "https://cafe.unifesspa.edu.br/idp/shibboleth": {
         "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
@@ -615,10 +615,6 @@
         "en": "IFPA - Instituto Federal do Para",
         "pt-br": "IFPA - Instituto Federal do Para"
     },
-    "https://idp.ifpb.edu.br/idp/shibboleth": {
-        "en": "IFPB - Instituto Federal da Paraiba",
-        "pt-br": "IFPB - Instituto Federal da Paraiba"
-    },
     "https://idp.ifsuldeminas.edu.br/idp/shibboleth": {
         "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
         "pt-br": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais"
@@ -630,6 +626,10 @@
     "https://idp.inpa.gov.br/idp/shibboleth": {
         "en": "INPA - Instituto Nacional de Pesquisas da Amazonia",
         "pt-br": "INPA - Instituto Nacional de Pesquisas da Amazonia"
+    },
+    "https://idp.int.gov.br/idp/shibboleth": {
+        "en": "INT - Instituto Nacional de Tecnologia",
+        "pt-br": "INT - Instituto Nacional de Tecnologia"
     },
     "https://idp.ita.br/idp/shibboleth": {
         "en": "ITA - Instituto Tecnologico de Aeronautica",

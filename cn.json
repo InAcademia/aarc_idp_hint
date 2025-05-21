@@ -475,6 +475,10 @@
         "en": "City University of Macau",
         "zh": "澳門城市大學(City University of Macau)"
     },
+    "https://idp.cmc.edu.cn/idp/shibboleth": {
+        "en": "Chengdu Medical College",
+        "zh": "成都医学院(Chengdu Medical College)"
+    },
     "https://idp.cmu.edu.cn/idp/shibboleth": {
         "en": "China Medical University",
         "zh": "中国医科大学(China Medical University)"
@@ -2214,6 +2218,10 @@
     "https://idp.wxc.edu.cn/idp/shibboleth": {
         "en": "West AnHui University",
         "zh": "皖西学院(West AnHui University)"
+    },
+    "https://idp.wxu.edu.cn/idp/shibboleth": {
+        "en": "Wuxi Taihu University",
+        "zh": "无锡太湖学院(Wuxi Taihu University)"
     },
     "https://idp.wynu.edu.cn/idp/shibboleth": {
         "en": "West Yunnan University",
