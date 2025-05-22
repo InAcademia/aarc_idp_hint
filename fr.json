@@ -819,10 +819,6 @@
         "en": "Ecole Normale Supérieure Paris-Saclay (2)",
         "fr": "Ecole Normale Supérieure Paris-Saclay (2)"
     },
-    "https://idp1.inria.fr/idp/shibboleth": {
-        "en": "INRIA - Institut National de Recherche en Informatique et Automatique",
-        "fr": "INRIA - Institut National de Recherche en Informatique et Automatique"
-    },
     "https://idp1.univ-fcomte.fr/idp/shibboleth": {
         "en": "University of Franche-Comte",
         "fr": "Université de Franche-Comté"

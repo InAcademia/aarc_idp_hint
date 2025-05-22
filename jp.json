@@ -22,6 +22,10 @@
         "en": "Sanyo-Onoda City University",
         "ja": "山陽小野田市立山口東京理科大学"
     },
+    "https://authenticate.kwansei.ac.jp/idp/shibboleth": {
+        "en": "Kwansei Gakuin University",
+        "ja": "関西学院大学"
+    },
     "https://authidp1.iimc.kyoto-u.ac.jp/idp/shibboleth": {
         "en": "Kyoto University",
         "ja": "京都大学"
@@ -241,10 +245,6 @@
     "https://idp.pub.ous.ac.jp/idp/shibboleth": {
         "en": "Okayama University of Science",
         "ja": "岡山理科大学"
-    },
-    "https://idp.scu.ac.jp/idp/shibboleth": {
-        "en": "Sapporo City University",
-        "ja": "札幌市立大学"
     },
     "https://idp.seinan-gu.ac.jp/idp/shibboleth": {
         "en": "Seinan Gakuin University",

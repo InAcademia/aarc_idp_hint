@@ -14,10 +14,6 @@
     "https://auth.henallux.be": {
         "en": "Henallux"
     },
-    "https://auth.ulb.be/idp": {
-        "en": "Universite Libre de Bruxelles (ULB)",
-        "fr": "Universite Libre de Bruxelles (ULB)"
-    },
     "https://bertrix.usaintlouis.be/idp/shibboleth": {
         "en": "Universite Saint-Louis - Bruxelles",
         "fr": "Universite Saint-Louis - Bruxelles"

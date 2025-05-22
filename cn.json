@@ -99,6 +99,10 @@
         "en": "Inner Mongolia Agricultural University",
         "zh": "内蒙古农业大学(Inner Mongolia Agricultural University)"
     },
+    "https://idp-lib.jlbtc.edu.cn/idp/shibboleth": {
+        "en": "Jilin Business and Technology College",
+        "zh": "吉林工商学院(Jilin Business and Technology College)"
+    },
     "https://idp-lib.jlu.edu.cn/idp/shibboleth": {
         "en": "Jilin University",
         "zh": "吉林大学(Jilin University)"
@@ -1090,6 +1094,10 @@
     "https://idp.hufe.edu.cn/idp/shibboleth": {
         "en": "HUNAN UNIVERSITY OF FINANCE AND ECONOMICS",
         "zh": "湖南财政经济学院(HUNAN UNIVERSITY OF FINANCE AND ECONOMICS)"
+    },
+    "https://idp.hunau.edu.cn/idp/shibboleth": {
+        "en": "The  Hunan Agriculture University",
+        "zh": "湖南农业大学(The  Hunan Agriculture University)"
     },
     "https://idp.hunnu.edu.cn/idp/shibboleth": {
         "en": "Hunan Normal University",
