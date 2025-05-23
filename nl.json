@@ -172,8 +172,8 @@
         "nl": "Erasmus MC"
     },
     "http://logon.nrg.eu/adfs/services/trust": {
-        "en": "Nuclear Research and consultancy Group",
-        "nl": "Nuclear Research and consultancy Group"
+        "en": "NRG PALLAS",
+        "nl": "NRG PALLAS"
     },
     "http://sts.amc.nl/adfs/services/trust": {
         "en": "Academisch Medisch Centrum (AMC)",

@@ -546,6 +546,10 @@
         "https://auth.henallux.be": {
             "en": "Henallux"
         },
+        "https://auth.ulb.be/idp": {
+            "en": "Universite Libre de Bruxelles (ULB)",
+            "fr": "Universite Libre de Bruxelles (ULB)"
+        },
         "https://bertrix.usaintlouis.be/idp/shibboleth": {
             "en": "Universite Saint-Louis - Bruxelles",
             "fr": "Universite Saint-Louis - Bruxelles"
@@ -2009,10 +2013,6 @@
         },
         "http://adfs.confederationcollege.ca/adfs/services/trust": {
             "en": "Confederation College of Applied Arts and Technology"
-        },
-        "http://adfs.lacitec.on.ca/adfs/services/trust": {
-            "en": "La Cité",
-            "fr": "La Cité"
         },
         "http://adfs.uqar.ca/adfs/services/trust": {
             "en": "Université du Québec à Rimouski (UQAR)",
@@ -10379,8 +10379,8 @@
             "fr": "Vetagro Sup"
         },
         "https://prod-idp.inria.fr": {
-            "en": "Institut National de Recherche en Informatique et Automatique (v5)",
-            "fr": "Institut National de Recherche en Informatique et Automatique (v5)"
+            "en": "INRIA - Institut National de Recherche en Informatique et Automatique",
+            "fr": "INRIA - Institut National de Recherche en Informatique et Automatique"
         },
         "https://refid-auth.campus-condorcet.fr/saml/metadata/idp": {
             "en": "CAMPUS CONDORCET",
@@ -12071,6 +12071,9 @@
         },
         "https://idp.sgou.ac.in/idp/shibboleth": {
             "en": "Sreenarayanaguru Open University"
+        },
+        "https://idp.sharda.ac.in/idp/shibboleth": {
+            "en": "Sharda University"
         },
         "https://idp.sjec.ac.in/idp/shibboleth": {
             "en": "St Joseph Engineering College, Mangalore"
@@ -13823,112 +13826,72 @@
         }
     },
     "lv": {
-        "http://fs.tsi.lv/adfs/services/trust": {
-            "en": "Transport and Telecommunication Intititute",
-            "lv": "Transporta un sakaru instituts"
-        },
-        "http://sts.rsu.lv/adfs/services/trust": {
-            "en": "Riga Stradins University",
-            "lv": "Rīgas Stradiņa universitāte"
-        },
         "https://du-idp.lanet.lv": {
-            "en": "Daugavpils University"
+            "en": "Daugavpils University (LAIS)"
+        },
+        "https://id.lndb.lv": {
+            "en": "LNB (LAIS)"
         },
         "https://idp.laife.lv/saml-idp": {
             "en": "LAIFE (Latvian academic identity federation)",
             "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
         },
         "https://idp.llu.lv/idp/shibboleth": {
-            "en": "Latvia University of Agriculture"
+            "en": "Latvia University of Agriculture (LAIS)"
         },
-        "https://idp.rtu.lv": {
-            "en": "Riga Technical University (Office 365)"
-        },
-        "https://idp.rtu.lvHSi": {
-            "en": "Riga Technical University (Office 365)",
-            "lv": "Rīgas Tehniskā universitāte (Office 365)"
-        },
-        "https://lanet-idp.lanet.lv": {
-            "en": "LANET"
+        "https://idp.rtu.lv/lais": {
+            "en": "Riga Technical University (Office 365) (LAIS)"
         },
         "https://liepu-idp.lanet.lv": {
-            "en": "Liepaja University"
+            "en": "Liepaja University (LAIS)"
         },
         "https://lka-idp.lanet.lv": {
-            "en": "Latvian Academy of Culture"
+            "en": "Latvian Academy of Culture (LAIS)"
         },
         "https://lkk-idp.lanet.lv": {
-            "en": "Latvian College of Culture at the Latvian Academy of Culture"
+            "en": "Latvian College of Culture at the Latvian Academy of Culture (LAIS)"
         },
         "https://lma-idp.lanet.lv": {
-            "en": "Art Academy of Latvia"
+            "en": "Art Academy of Latvia (LAIS)"
         },
         "https://lmuza-idp.lanet.lv": {
-            "en": "Latvian Academy of Music"
+            "en": "Latvian Academy of Music (LAIS)"
         },
         "https://lnna-idp.lanet.lv": {
-            "en": "National Defence Academy of Latvia"
+            "en": "National Defence Academy of Latvia (LAIS)"
         },
         "https://lu-idp.lu.lv": {
-            "en": "University of Latvia"
+            "en": "University of Latvia (LAIS)"
         },
         "https://lumii-idp.lanet.lv": {
-            "en": "Institute of Mathematics and Computer Science, University of Latvia"
+            "en": "Institute of Mathematics and Computer Science, University of Latvia (LAIS)"
         },
         "https://overleaf-idp.lu.lv": {
-            "en": "LU OverLeaf users IdP"
+            "en": "LU OverLeaf users IdP (LAIS)"
         },
         "https://psk-idp.lanet.lv": {
-            "en": "Pauls Stradins Medical College of the University of Latvia"
+            "en": "Pauls Stradins Medical College of the University of Latvia (LAIS)"
         },
         "https://ra-idp.lanet.lv": {
-            "en": "Rezekne Academy of Technologies"
+            "en": "Rezekne Academy of Technologies (LAIS)"
         },
         "https://rja-idp.lanet.lv": {
-            "en": "Riga Graduate School of Law"
+            "en": "Riga Graduate School of Law (LAIS)"
         },
         "https://rmk-idp.lanet.lv": {
-            "en": "Riga Medical College"
+            "en": "Riga Medical College (LAIS)"
         },
         "https://skmms-idp.lanet.lv": {
-            "en": "Riga Red Cross Medical College"
+            "en": "Riga Red Cross Medical College (LAIS)"
         },
         "https://sse-idp.lanet.lv": {
-            "en": "Stockholm School of Economics in Riga"
-        },
-        "https://sts.windows.net/20d2983c-06d0-4453-982b-eeee21cb9d68/": {
-            "en": "Vidzeme University of Applied Sciences",
-            "lv": "Vidzemes Augstskola"
-        },
-        "https://sts.windows.net/4a282c00-7e8e-4337-9e52-3be349881146/": {
-            "en": "Turiba University (Office 365)",
-            "lv": "Biznesa augstskola Turība (Office 365)"
-        },
-        "https://sts.windows.net/695e0a27-5814-44f5-a5bd-d4dc3e8c3a47/": {
-            "en": "VPC (Higher Education and Science Information Technology Shared Service Center)",
-            "lv": "VPC (Augstākās izglītības un zinātnes informācijas tehnoloģijas koplietošanas pakalpojumu centrs)"
-        },
-        "https://sts.windows.net/a04c51cb-5296-417d-b612-dc33a028d7a0/": {
-            "en": "Stockholm School of Economics in Riga (Office 365)",
-            "lv": "Rīgas Ekonomikas augstskola (Office 365)"
-        },
-        "https://sts.windows.net/ca7fd801-21d8-4a74-bcb4-22713e006f27/": {
-            "en": "Alberta College",
-            "lv": "Alberta koledža"
-        },
-        "https://sts.windows.net/ebe04dec-278d-474e-84f5-bff8f173df17/": {
-            "en": "University of Applied Sciences (EKA)",
-            "lv": "Ekonomikas un kultūras augstskola (EKA)"
-        },
-        "https://sts.windows.net/f07f551d-baec-4820-91ad-142bc286906a/": {
-            "en": "Latvian Academy of Culture",
-            "lv": "Latvijas Kultūras akadēmija"
+            "en": "Stockholm School of Economics in Riga (LAIS)"
         },
         "https://va-idp.lanet.lv": {
-            "en": "Vidzeme University of Applied Sciences"
+            "en": "Vidzeme University of Applied Sciences (LAIS)"
         },
         "https://vea-idp.lanet.lv": {
-            "en": "Ventspils University College"
+            "en": "Ventspils University College (LAIS)"
         }
     },
     "ma": {
@@ -14689,8 +14652,8 @@
             "nl": "Erasmus MC"
         },
         "http://logon.nrg.eu/adfs/services/trust": {
-            "en": "Nuclear Research and consultancy Group",
-            "nl": "Nuclear Research and consultancy Group"
+            "en": "NRG PALLAS",
+            "nl": "NRG PALLAS"
         },
         "http://sts.amc.nl/adfs/services/trust": {
             "en": "Academisch Medisch Centrum (AMC)",

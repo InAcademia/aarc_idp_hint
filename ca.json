@@ -12,10 +12,6 @@
     "http://adfs.confederationcollege.ca/adfs/services/trust": {
         "en": "Confederation College of Applied Arts and Technology"
     },
-    "http://adfs.lacitec.on.ca/adfs/services/trust": {
-        "en": "La Cité",
-        "fr": "La Cité"
-    },
     "http://adfs.uqar.ca/adfs/services/trust": {
         "en": "Université du Québec à Rimouski (UQAR)",
         "fr": "Université du Québec à Rimouski (UQAR)"
