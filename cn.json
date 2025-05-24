@@ -31,10 +31,6 @@
         "en": "Shanghai University of International Business and Economics",
         "zh": "上海对外经贸大学(Shanghai University of International Business and Economics)"
     },
-    "https://idp-cas.sues.edu.cn/idp/shibboleth": {
-        "en": "Shanghai University of Engineering Science",
-        "zh": "上海工程技术大学(Shanghai University of Engineering Science)"
-    },
     "https://idp-lib.bjut.edu.cn/idp/shibboleth": {
         "en": "Beijing University of Technology",
         "zh": "北京工业大学(Beijing University of Technology)"
@@ -163,10 +159,6 @@
         "en": "Shihezi University",
         "zh": "石河子大学(Shihezi University)"
     },
-    "https://idp-lib.sit.edu.cn/idp/shibboleth": {
-        "en": "Shanghai Institute of Technology",
-        "zh": "上海应用技术大学(Shanghai Institute of Technology)"
-    },
     "https://idp-lib.smbu.edu.cn/idp/shibboleth": {
         "en": "Shenzhen MSU-BIT University",
         "zh": "深圳北理莫斯科大学(Shenzhen MSU-BIT University)"
@@ -182,10 +174,6 @@
     "https://idp-lib.szut.edu.cn/idp/shibboleth": {
         "en": "Suzhou University of Technology",
         "zh": "苏州工学院(Suzhou University of Technology)"
-    },
-    "https://idp-lib.tjtc.edu.cn/idp/shibboleth": {
-        "en": "Tianjin Vocational Institute",
-        "zh": "天津职业大学(Tianjin Vocational Institute)"
     },
     "https://idp-lib.uestc.edu.cn/idp/shibboleth": {
         "en": "University of Electronic Science and Technology of China",
@@ -767,10 +755,6 @@
         "en": "Guangdong University of Science & Technology",
         "zh": "广东科技学院(Guangdong University of Science & Technology)"
     },
-    "https://idp.gkd.edu.cn/idp/shibboleth": {
-        "en": "Guangzhou Vocational and Technical University of Science and Technology",
-        "zh": "广州科技职业技术大学(Guangzhou Vocational and Technical University of Science and Technology)"
-    },
     "https://idp.glmc.edu.cn/idp/shibboleth": {
         "en": "Guilin Medical University",
         "zh": "桂林医学院(Guilin Medical University)"
@@ -887,10 +871,6 @@
         "en": "Henan University of Technology",
         "zh": "河南工业大学(Henan University of Technology)"
     },
-    "https://idp.hbcit.edu.cn/idp/shibboleth": {
-        "en": "Hebei Vocational University of Industry and Technology",
-        "zh": "河北工业职业技术大学(Hebei Vocational University of Industry and Technology)"
-    },
     "https://idp.hbeu.edu.cn/idp/shibboleth": {
         "en": "Hubei  Engineering  University",
         "zh": "湖北工程学院(Hubei  Engineering  University)"
@@ -962,10 +942,6 @@
     "https://idp.henu.edu.cn/idp/shibboleth": {
         "en": "Henan University",
         "zh": "河南大学(Henan University)"
-    },
-    "https://idp.hevute.edu.cn/idp/shibboleth": {
-        "en": "Hebei Vocational University Of Technology And Engineering",
-        "zh": "河北科技工程职业技术大学(Hebei Vocational University Of Technology And Engineering)"
     },
     "https://idp.hfut.edu.cn/idp/shibboleth": {
         "en": "Hefei University of Technology",
@@ -1171,10 +1147,6 @@
         "en": "Jinggangshan University",
         "zh": "井冈山大学(Jinggangshan University)"
     },
-    "https://idp.jhc.edu.cn/idp/shibboleth": {
-        "en": "Jinhua University of Vocational Technology",
-        "zh": "金华职业技术大学(Jinhua University of Vocational Technology)"
-    },
     "https://idp.jhun.edu.cn/idp/shibboleth": {
         "en": "Jianghan University",
         "zh": "江汉大学(Jianghan University)"
@@ -1226,10 +1198,6 @@
     "https://idp.jxnhu.edu.cn/idp/shibboleth": {
         "en": "Jiaxing Nanhu University",
         "zh": "嘉兴南湖学院(Jiaxing Nanhu University)"
-    },
-    "https://idp.jxpu.edu.cn/idp/shibboleth": {
-        "en": "Jiangxi Polytechnic University",
-        "zh": "江西职业技术大学(Jiangxi Polytechnic University)"
     },
     "https://idp.jxuas.edu.cn/idp/shibboleth": {
         "en": "Jiangxi University of Applied Science",
@@ -1499,10 +1467,6 @@
         "en": "Nanjing Normal University Taizhou College",
         "zh": "南京师范大学泰州学院(Nanjing Normal University Taizhou College)"
     },
-    "https://idp.nnvtu.edu.cn/idp/shibboleth": {
-        "en": "Nanning Vocational and Technical University",
-        "zh": "南宁职业技术大学(Nanning Vocational and Technical University)"
-    },
     "https://idp.nsi.edu.cn/idp/shibboleth": {
         "en": "Nanjing Sport Institute",
         "zh": "南京体育学院(Nanjing Sport Institute)"
@@ -1526,10 +1490,6 @@
     "https://idp.nustti.edu.cn/idp/shibboleth": {
         "en": "Taizhou Institute of Sci.&Tech.,NJUST",
         "zh": "南京理工大学泰州科技学院(Taizhou Institute of Sci.&Tech.,NJUST)"
-    },
-    "https://idp.nvu.edu.cn/idp/shibboleth": {
-        "en": "Nanchang Vocational University",
-        "zh": "南昌职业大学(Nanchang Vocational University)"
     },
     "https://idp.nwnu.edu.cn/idp/shibboleth": {
         "en": "Northwest Normal University",
@@ -1563,13 +1523,13 @@
         "en": "Nanyang Normal University",
         "zh": "南阳师范学院(Nanyang Normal University)"
     },
-    "https://idp.oit.edu.cn/idp/shibboleth": {
-        "en": "Ordos Institute of Technology",
-        "zh": "鄂尔多斯应用技术学院(Ordos Institute of Technology)"
-    },
     "https://idp.ouc.edu.cn/idp/shibboleth": {
         "en": "Ocean University of China",
         "zh": "中国海洋大学(Ocean University of China)"
+    },
+    "https://idp.pazhoulab.edu.cn/idp/shibboleth": {
+        "en": "Pazhou Lab",
+        "zh": "人工智能与数字经济广东省实验室（广州）(Pazhou Lab)"
     },
     "https://idp.pdsu.edu.cn/idp/shibboleth": {
         "en": "Pingdingshan University",
@@ -1747,10 +1707,6 @@
         "en": "Shandong University of Traditional Chinese Medicine",
         "zh": "山东中医药大学(Shandong University of Traditional Chinese Medicine)"
     },
-    "https://idp.sdws.edu.cn/idp/shibboleth": {
-        "en": "Shandong Vocational University of Foreign Affairs",
-        "zh": "山东外事职业大学(Shandong Vocational University of Foreign Affairs)"
-    },
     "https://idp.sdwu.edu.cn/idp/shibboleth": {
         "en": "Shangdong Women's University",
         "zh": "山东女子学院(Shangdong Women's University)"
@@ -1919,10 +1875,6 @@
         "en": "Shanxi University of Electronic and Technology",
         "zh": "山西电子科技学院(Shanxi University of Electronic and Technology)"
     },
-    "https://idp.sxit.edu.cn/idp/shibboleth": {
-        "en": "Shanxi Institute Of Technology",
-        "zh": "山西工程技术学院(Shanxi Institute Of Technology)"
-    },
     "https://idp.sxmu.edu.cn/idp/shibboleth": {
         "en": "Shanxi Medical University",
         "zh": "山西医科大学(Shanxi Medical University)"
@@ -2058,10 +2010,6 @@
     "https://idp.tust.edu.cn/idp/shibboleth": {
         "en": "Tianjin University of Science & Technology",
         "zh": "天津科技大学(Tianjin University of Science & Technology)"
-    },
-    "https://idp.tute.edu.cn/idp/shibboleth": {
-        "en": "Tianjin University of Technology and Education",
-        "zh": "天津职业技术师范大学(Tianjin University of Technology and Education)"
     },
     "https://idp.tyu.edu.cn/idp/shibboleth": {
         "en": "Taiyuan University",
@@ -2250,6 +2198,10 @@
     "https://idp.xacxz.edu.cn/idp/shibboleth": {
         "en": "Xing Zhi College of Xi'an University of Finance and Economics",
         "zh": "西安财经大学行知学院(Xing Zhi College of Xi'an University of Finance and Economics)"
+    },
+    "https://idp.xafu.edu.cn/idp/shibboleth": {
+        "en": "Xi'an Fanyi University",
+        "zh": "西安翻译学院(Xi'an Fanyi University)"
     },
     "https://idp.xaipe.edu.cn/idp/shibboleth": {
         "en": "Xi'an Physical Education University",
@@ -2471,10 +2423,6 @@
         "en": "Zhengzhou University of Science and Technology",
         "zh": "郑州科技学院(Zhengzhou University of Science and Technology)"
     },
-    "https://idp.zjgsdx.edu.cn/idp/shibboleth": {
-        "en": "Zhejiang Guangsha Vocational  And Technical University Of construction",
-        "zh": "浙江广厦建设职业技术大学(Zhejiang Guangsha Vocational  And Technical University Of construction)"
-    },
     "https://idp.zjgsu.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Gongshang University",
         "zh": "浙江工商大学(Zhejiang Gongshang University)"
@@ -2486,10 +2434,6 @@
     "https://idp.zjpc.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Police College",
         "zh": "浙江警察学院(Zhejiang Police College)"
-    },
-    "https://idp.zjpu.edu.cn/idp/shibboleth": {
-        "en": "Zhejiang Pharmaceutical University",
-        "zh": "浙江药科职业大学(Zhejiang Pharmaceutical University)"
     },
     "https://idp.zjsru.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Shuren University",
@@ -2575,14 +2519,6 @@
         "en": "Zhengzhou Normal University",
         "zh": "郑州师范学院(Zhengzhou Normal University)"
     },
-    "https://idp.zzuit.edu.cn/idp/shibboleth": {
-        "en": "Zhengzhou University of Industrial  Technology",
-        "zh": "郑州工业应用技术学院(Zhengzhou University of Industrial  Technology)"
-    },
-    "https://idp.zzut.edu.cn/idp/shibboleth": {
-        "en": "Zhengzhou University of Technology",
-        "zh": "郑州工程技术学院(Zhengzhou University of Technology)"
-    },
     "https://idp2.tongji.edu.cn/idp/shibboleth": {
         "en": "Tongji University",
         "zh": "同济大学(Tongji University)"
@@ -2614,10 +2550,6 @@
     "https://idpcarsi.qhmu.edu.cn/idp/shibboleth": {
         "en": "Qinghai Minzu University",
         "zh": "青海民族大学(Qinghai Minzu University)"
-    },
-    "https://idpcarsi.qhvu.edu.cn/idp/shibboleth": {
-        "en": "Qinghai Vocational and Technical University",
-        "zh": "青海职业技术大学(Qinghai Vocational and Technical University)"
     },
     "https://idpcarsi.shufe.edu.cn/idp/shibboleth": {
         "en": "Shanghai University of Finance and Economics",
@@ -2666,10 +2598,6 @@
     "https://libidp.cjlu.edu.cn/idp/shibboleth": {
         "en": "China JiLiang University",
         "zh": "中国计量大学(China JiLiang University)"
-    },
-    "https://libidp.niit.edu.cn/idp/shibboleth": {
-        "en": "Nanjing Vocational University of Industry Technology",
-        "zh": "南京工业职业技术大学(Nanjing Vocational University of Industry Technology)"
     },
     "https://libidp.nufe.edu.cn/idp/shibboleth": {
         "en": "Nanjing University of Finance & Economics",

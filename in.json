@@ -248,6 +248,9 @@
     "https://idp.iitism.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Technology (ISM) Dhanbad"
     },
+    "https://idp.iitj.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Technology (IIT), Jodhpur"
+    },
     "https://idp.iitjammu.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Technology Jammu"
     },
@@ -487,6 +490,9 @@
     },
     "https://idp.ruralunivlibrary.ac.in/idp/shibboleth": {
         "en": "Gandhigram Rural Institute, Tamil Nadu"
+    },
+    "https://idp.sairam.edu.in/idp/shibboleth": {
+        "en": "Sri Sairam Engineering College [SEC]"
     },
     "https://idp.sanskriti.edu.in/idp/shibboleth": {
         "en": "Sanskriti University, Chhata, Mathura (U.P.)"
