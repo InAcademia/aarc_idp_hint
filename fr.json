@@ -807,10 +807,6 @@
         "en": "ENSAV - Ecole Nationale Supérieure d'Architecture de Versailles",
         "fr": "ENSAV - Ecole Nationale Supérieure d'Architecture de Versailles"
     },
-    "https://idp.vet-alfort.fr/idp/shibboleth": {
-        "en": "National Veterinary School of Alfort",
-        "fr": "Ecole Nationale Vétérinaire d'ALFORT"
-    },
     "https://idp1.agroparistech.fr/idp/shibboleth": {
         "en": "AgroParisTech Institut des sciences et des industries du vivant et de l'environnement",
         "fr": "AgroParisTech Institut des sciences et des industries du vivant et de l'environnement"

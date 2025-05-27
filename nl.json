@@ -44,8 +44,8 @@
         "nl": "Hogeschool Van Hall Larenstein"
     },
     "http://adfs.knaw.nl/adfs/services/trust": {
-        "en": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)",
-        "nl": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)"
+        "en": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) (Old)",
+        "nl": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) (Oud)"
     },
     "http://adfs.mijnlentiz.nl/adfs/services/trust": {
         "en": "Lentiz Onderwijsgroep",

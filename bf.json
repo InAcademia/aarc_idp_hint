@@ -1,6 +1,53 @@
 {
+    "https://cames.fasoren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "CAMES",
+        "fr": "CAMES"
+    },
+    "https://ensbf.fasoren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "Ecole Normale Supérieure",
+        "fr": "Ecole Normale Supérieure"
+    },
+    "https://epobf.fasoren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "Ecole Polytechnique de Ouagadougou (EPO)",
+        "fr": "Ecole Polytechnique de Ouagadougou (EPO)"
+    },
     "https://fasorenstaff.fasoren.eduid.africa/saml2/idp/metadata.php": {
         "en": "FasoREN",
         "fr": "FasoREN"
+    },
+    "https://proxy.eduid.bf/idp/saml2": {
+        "en": "eduID.bf: The Burkina Faso Identity Federation"
+    },
+    "https://uddg.fasoren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "Université de Dédougou",
+        "fr": "Université de Dédougou"
+    },
+    "https://ufdg.fasoren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "University of Fada N'Gourma",
+        "fr": "Université de Fada N'Gourma"
+    },
+    "https://ujkz.fasoren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "Université Joseph KI-ZERBO",
+        "fr": "Université Joseph KI-ZERBO"
+    },
+    "https://univbobo.fasoren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "Université Nazi BONI",
+        "fr": "Université Nazi BONI"
+    },
+    "https://unzbf.fasoren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "Universite Norbert ZONGO",
+        "fr": "Université Norbert Zongo"
+    },
+    "https://uohg.fasoren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "University of Ouahigouya",
+        "fr": "Université de Ouahigouya"
+    },
+    "https://utsbf.fasoren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "Université Thomas SANKARA",
+        "fr": "Université Thomas SANKARA"
+    },
+    "https://uvbf.fasoren.eduid.africa/saml2/idp/metadata.php": {
+        "en": "Université Virtuelle du BURKINA FASO",
+        "fr": "Université Virtuelle du BURKINA FASO"
     }
 }
