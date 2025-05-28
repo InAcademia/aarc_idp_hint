@@ -775,6 +775,10 @@
         "en": "Université de Pau et des Pays de l'Adour",
         "fr": "Université de Pau et des Pays de l'Adour"
     },
+    "https://idp.univ-perp.fr/idp/shibboleth": {
+        "en": "University of Perpignan Via Domitia - UPVD",
+        "fr": "Université de Perpignan Via Domitia - UPVD"
+    },
     "https://idp.univ-tln.fr/idp/shibboleth": {
         "en": "Université de Toulon",
         "fr": "Université de Toulon"

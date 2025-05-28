@@ -1,5 +1,35 @@
 {
+    "https://idp.aims.edu.gh/idp/shibboleth": {
+        "en": "African Institute for Mathematical Sciences"
+    },
+    "https://idp.csuc.edu.gh/idp/shibboleth": {
+        "en": "Christian Service University College"
+    },
     "https://idp.garnet.edu.gh/idp/shibboleth": {
         "en": "Ghanaian Academic and Research Network"
+    },
+    "https://idp.gcuc.edu.gh/idp/shibboleth": {
+        "en": "Garden City University College"
+    },
+    "https://idp.stu.edu.gh/idp/shibboleth": {
+        "en": "Sunyani Technical University"
+    },
+    "https://idp.uenr.edu.gh/idp/shibboleth": {
+        "en": "University of Energy and Natural Resources"
+    },
+    "https://shib.ug.edu.gh/idp/shibboleth": {
+        "en": "University of Ghana"
+    },
+    "https://shibb.knust.edu.gh/idp/shibboleth": {
+        "en": "Kwame Nkrumah University of Science and Technology"
+    },
+    "https://shibo.uhas.edu.gh/idp/shibboleth": {
+        "en": "University of Health and Allied Sciences"
+    },
+    "https://sso-ann.atu.edu.gh/idp/shibboleth": {
+        "en": "Accra Technical University"
+    },
+    "https://wsidp.garnet.edu.gh/idp/shibboleth": {
+        "en": "WS - Ghanaian Academic and Research Network"
     }
 }

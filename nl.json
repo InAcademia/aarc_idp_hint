@@ -43,10 +43,6 @@
         "en": "Van Hall Larenstein, University of Applied Sciences",
         "nl": "Hogeschool Van Hall Larenstein"
     },
-    "http://adfs.knaw.nl/adfs/services/trust": {
-        "en": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) (Old)",
-        "nl": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) (Oud)"
-    },
     "http://adfs.mijnlentiz.nl/adfs/services/trust": {
         "en": "Lentiz Onderwijsgroep",
         "nl": "Lentiz Onderwijsgroep"
@@ -692,8 +688,8 @@
         "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW)"
     },
     "https://sts.windows.net/c908cc46-554c-4131-8653-45522e68e291/": {
-        "en": "ROC of Amsterdam - Flevoland the VOvA and ROC TOP",
-        "nl": "ROC van Amsterdam - Flevoland het VOvA en ROC TOP"
+        "en": "ROC van Amsterdam - Flevoland het VOvA",
+        "nl": "ROC van Amsterdam - Flevoland het VOvA"
     },
     "https://sts.windows.net/cc7df247-60ce-4a0f-9d75-704cf60efc64/": {
         "en": "Eindhoven University of Technology",
@@ -738,6 +734,10 @@
     "https://sts.windows.net/ea39d597-c395-4a33-b8bc-2c01f8e147e5/": {
         "en": "Centerdata",
         "nl": "Centerdata"
+    },
+    "https://sts.windows.net/ea8750c8-e3f4-4ff5-a43f-e8820be09f7e/": {
+        "en": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)",
+        "nl": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)"
     },
     "https://sts.windows.net/ed9f3ca1-097f-493e-a129-5002e9c16d65/": {
         "en": "Princess Máxima Center",

@@ -63,6 +63,10 @@
         "en": "Sunet",
         "sv": "Sunet"
     },
+    "https://connect.eduid.se/vr": {
+        "en": "The Swedish Research Council - Connect",
+        "sv": "Vetenskapsrådet - Connect"
+    },
     "https://idp-v2.konstfack.se/adfs/services/trust": {
         "en": "Konstfack - University account",
         "sv": "Konstfack - University account"

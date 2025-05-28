@@ -87,6 +87,11 @@
         "en": "Spanish Center for Pulsed Lasers",
         "es": "Centro de Láseres Pulsados"
     },
+    "https://www.rediris.es/sir/cnagidp": {
+        "ca": "CNAG - Centre Nacional d'Anàlisi Genómica",
+        "en": "https://www.rediris.es/sir/cnagidp",
+        "es": "CNAG - Centro Nacional de Análisis Genómico"
+    },
     "https://www.rediris.es/sir/cnh2idp": {
         "en": "Centro Nacional del Hidrogeno",
         "es": "Centro Nacional del Hidrógeno"
@@ -163,7 +168,7 @@
         "en": "ESIC Business and Marketing School",
         "es": "ESIC Business and Marketing School"
     },
-    "https://www.rediris.es/sir/essidp": {
+    "https://www.rediris.es/sir/essbilbaoidp": {
         "en": "E.S.S. Bilbao",
         "eu": "E.S.S. Bilbao"
     },

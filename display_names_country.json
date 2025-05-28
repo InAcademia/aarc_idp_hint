@@ -970,6 +970,10 @@
             "en": "IFMA - Instituto Federal do Maranhao",
             "pt-br": "IFMA - Instituto Federal do Maranhao"
         },
+        "https://cafe.ifms.edu.br/idp/shibboleth": {
+            "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
+            "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
+        },
         "https://cafe.ifpb.edu.br/idp/shibboleth": {
             "en": "IFPB - Instituto Federal de Educacao da Paraiba",
             "pt-br": "IFPB - Instituto Federal de Educacao da Paraiba"
@@ -1169,10 +1173,6 @@
         "https://cafe2022.lncc.br/idp/shibboleth": {
             "en": "LNCC - Laboratorio Nacional de Computacao Cientifica",
             "pt-br": "LNCC - Laboratorio Nacional de Computacao Cientifica"
-        },
-        "https://cafe4.ifms.edu.br/idp/shibboleth": {
-            "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
-            "pt-br": "IFMS - Instituto Federal de Mato Grosso do Sul"
         },
         "https://cafe4.udesc.br/idp/shibboleth": {
             "en": "UDESC - Universidade do Estado de Santa Catarina",
@@ -8616,6 +8616,11 @@
             "en": "Spanish Center for Pulsed Lasers",
             "es": "Centro de Láseres Pulsados"
         },
+        "https://www.rediris.es/sir/cnagidp": {
+            "ca": "CNAG - Centre Nacional d'Anàlisi Genómica",
+            "en": "https://www.rediris.es/sir/cnagidp",
+            "es": "CNAG - Centro Nacional de Análisis Genómico"
+        },
         "https://www.rediris.es/sir/cnh2idp": {
             "en": "Centro Nacional del Hidrogeno",
             "es": "Centro Nacional del Hidrógeno"
@@ -8692,7 +8697,7 @@
             "en": "ESIC Business and Marketing School",
             "es": "ESIC Business and Marketing School"
         },
-        "https://www.rediris.es/sir/essidp": {
+        "https://www.rediris.es/sir/essbilbaoidp": {
             "en": "E.S.S. Bilbao",
             "eu": "E.S.S. Bilbao"
         },
@@ -10165,6 +10170,10 @@
             "en": "Université de Pau et des Pays de l'Adour",
             "fr": "Université de Pau et des Pays de l'Adour"
         },
+        "https://idp.univ-perp.fr/idp/shibboleth": {
+            "en": "University of Perpignan Via Domitia - UPVD",
+            "fr": "Université de Perpignan Via Domitia - UPVD"
+        },
         "https://idp.univ-tln.fr/idp/shibboleth": {
             "en": "Université de Toulon",
             "fr": "Université de Toulon"
@@ -10663,8 +10672,38 @@
         }
     },
     "gh": {
+        "https://idp.aims.edu.gh/idp/shibboleth": {
+            "en": "African Institute for Mathematical Sciences"
+        },
+        "https://idp.csuc.edu.gh/idp/shibboleth": {
+            "en": "Christian Service University College"
+        },
         "https://idp.garnet.edu.gh/idp/shibboleth": {
             "en": "Ghanaian Academic and Research Network"
+        },
+        "https://idp.gcuc.edu.gh/idp/shibboleth": {
+            "en": "Garden City University College"
+        },
+        "https://idp.stu.edu.gh/idp/shibboleth": {
+            "en": "Sunyani Technical University"
+        },
+        "https://idp.uenr.edu.gh/idp/shibboleth": {
+            "en": "University of Energy and Natural Resources"
+        },
+        "https://shib.ug.edu.gh/idp/shibboleth": {
+            "en": "University of Ghana"
+        },
+        "https://shibb.knust.edu.gh/idp/shibboleth": {
+            "en": "Kwame Nkrumah University of Science and Technology"
+        },
+        "https://shibo.uhas.edu.gh/idp/shibboleth": {
+            "en": "University of Health and Allied Sciences"
+        },
+        "https://sso-ann.atu.edu.gh/idp/shibboleth": {
+            "en": "Accra Technical University"
+        },
+        "https://wsidp.garnet.edu.gh/idp/shibboleth": {
+            "en": "WS - Ghanaian Academic and Research Network"
         }
     },
     "gr": {
@@ -14496,10 +14535,6 @@
             "en": "Van Hall Larenstein, University of Applied Sciences",
             "nl": "Hogeschool Van Hall Larenstein"
         },
-        "http://adfs.knaw.nl/adfs/services/trust": {
-            "en": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) (Old)",
-            "nl": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) (Oud)"
-        },
         "http://adfs.mijnlentiz.nl/adfs/services/trust": {
             "en": "Lentiz Onderwijsgroep",
             "nl": "Lentiz Onderwijsgroep"
@@ -15145,8 +15180,8 @@
             "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW)"
         },
         "https://sts.windows.net/c908cc46-554c-4131-8653-45522e68e291/": {
-            "en": "ROC of Amsterdam - Flevoland the VOvA and ROC TOP",
-            "nl": "ROC van Amsterdam - Flevoland het VOvA en ROC TOP"
+            "en": "ROC van Amsterdam - Flevoland het VOvA",
+            "nl": "ROC van Amsterdam - Flevoland het VOvA"
         },
         "https://sts.windows.net/cc7df247-60ce-4a0f-9d75-704cf60efc64/": {
             "en": "Eindhoven University of Technology",
@@ -15191,6 +15226,10 @@
         "https://sts.windows.net/ea39d597-c395-4a33-b8bc-2c01f8e147e5/": {
             "en": "Centerdata",
             "nl": "Centerdata"
+        },
+        "https://sts.windows.net/ea8750c8-e3f4-4ff5-a43f-e8820be09f7e/": {
+            "en": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)",
+            "nl": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)"
         },
         "https://sts.windows.net/ed9f3ca1-097f-493e-a129-5002e9c16d65/": {
             "en": "Princess Máxima Center",
@@ -16541,6 +16580,10 @@
         "https://connect.eduid.se/sunet": {
             "en": "Sunet",
             "sv": "Sunet"
+        },
+        "https://connect.eduid.se/vr": {
+            "en": "The Swedish Research Council - Connect",
+            "sv": "Vetenskapsrådet - Connect"
         },
         "https://idp-v2.konstfack.se/adfs/services/trust": {
             "en": "Konstfack - University account",
