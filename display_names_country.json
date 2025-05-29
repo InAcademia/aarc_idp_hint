@@ -12159,6 +12159,9 @@
         "https://idp.tnpesu.org/idp/shibboleth": {
             "en": "Tamil Nadu Physical Education and Sports University"
         },
+        "https://idp.uem.edu.in/idp/shibboleth": {
+            "en": "University of Engineering and Management, Kolkata (UEM)"
+        },
         "https://idp.uhsbagalkot.edu.in/idp/shibboleth": {
             "en": "University of Horticultural Sciences, Bagalkot"
         },
@@ -15180,8 +15183,8 @@
             "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW)"
         },
         "https://sts.windows.net/c908cc46-554c-4131-8653-45522e68e291/": {
-            "en": "ROC van Amsterdam - Flevoland het VOvA",
-            "nl": "ROC van Amsterdam - Flevoland het VOvA"
+            "en": "ROC van Amsterdam - Flevoland en het VOvA",
+            "nl": "ROC van Amsterdam - Flevoland en het VOvA"
         },
         "https://sts.windows.net/cc7df247-60ce-4a0f-9d75-704cf60efc64/": {
             "en": "Eindhoven University of Technology",

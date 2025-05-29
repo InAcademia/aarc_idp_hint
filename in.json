@@ -587,6 +587,9 @@
     "https://idp.tnpesu.org/idp/shibboleth": {
         "en": "Tamil Nadu Physical Education and Sports University"
     },
+    "https://idp.uem.edu.in/idp/shibboleth": {
+        "en": "University of Engineering and Management, Kolkata (UEM)"
+    },
     "https://idp.uhsbagalkot.edu.in/idp/shibboleth": {
         "en": "University of Horticultural Sciences, Bagalkot"
     },
