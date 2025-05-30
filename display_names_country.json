@@ -966,6 +966,10 @@
             "en": "IEN - Instituto de Engenharia Nuclear",
             "pt-br": "IEN - Instituto de Engenharia Nuclear"
         },
+        "https://cafe.ifb.edu.br/idp/shibboleth": {
+            "en": "IFB - Instituto Federal de Brasilia",
+            "pt-br": "IFB - Instituto Federal de Brasilia"
+        },
         "https://cafe.ifma.edu.br/idp/shibboleth": {
             "en": "IFMA - Instituto Federal do Maranhao",
             "pt-br": "IFMA - Instituto Federal do Maranhao"
@@ -1162,10 +1166,6 @@
             "en": "UFV - Universidade Federal de Vicosa",
             "pt-br": "UFV - Universidade Federal de Vicosa"
         },
-        "https://cafe2.unesp.br/idp/shibboleth": {
-            "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
-            "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
-        },
         "https://cafe2.unoeste.br/idp/shibboleth": {
             "en": "UNOESTE - Universidade do Oeste Paulista",
             "pt-br": "UNOESTE - Universidade do Oeste Paulista"
@@ -1297,10 +1297,6 @@
         "https://idp-cafe.hmv.org.br/idp/shibboleth": {
             "en": "HMV - Associacao Hospitalar Moinhos de Vento",
             "pt-br": "HMV - Associacao Hospitalar Moinhos de Vento"
-        },
-        "https://idp-cafe.ifb.edu.br/idp/shibboleth": {
-            "en": "IFB - Instituto Federal de Brasilia",
-            "pt-br": "IFB - Instituto Federal de Brasilia"
         },
         "https://idp-cafe.ifgoiano.edu.br/idp/shibboleth": {
             "en": "IFGOIANO - Instituto Federal Goiano",
@@ -11958,6 +11954,9 @@
         "https://idp.modyuniversity.ac.in/idp/shibboleth": {
             "en": "Mody University of Science and Technology"
         },
+        "https://idp.mssu.ac.in/idp/shibboleth": {
+            "en": "Ratan Tata Maharashtra State Skills University (RTMSSU)"
+        },
         "https://idp.msuniv.ac.in/idp/shibboleth": {
             "en": "Manonmaniam Sundaranar University"
         },
@@ -20267,9 +20266,6 @@
         "https://id.uww.edu/idp": {
             "en": "University of Wisconsin - Whitewater -"
         },
-        "https://id.wnc.edu/idp": {
-            "en": "Western Nevada College"
-        },
         "https://idcs-6dfbdd810afa4d509f6cfc191d612acd.identity.oraclecloud.com:443/fed": {
             "en": "University of Colorado Denver | Anschutz Medical Campus"
         },
@@ -21337,6 +21333,9 @@
         },
         "https://sso.wistar.org/idp": {
             "en": "The Wistar Institute"
+        },
+        "https://sso.wnc.edu/idp": {
+            "en": "Western Nevada College"
         },
         "https://sso.xula.edu/idp": {
             "en": "Xavier University of LA"

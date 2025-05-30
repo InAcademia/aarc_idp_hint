@@ -263,9 +263,6 @@
     "https://id.uww.edu/idp": {
         "en": "University of Wisconsin - Whitewater -"
     },
-    "https://id.wnc.edu/idp": {
-        "en": "Western Nevada College"
-    },
     "https://idcs-6dfbdd810afa4d509f6cfc191d612acd.identity.oraclecloud.com:443/fed": {
         "en": "University of Colorado Denver | Anschutz Medical Campus"
     },
@@ -1333,6 +1330,9 @@
     },
     "https://sso.wistar.org/idp": {
         "en": "The Wistar Institute"
+    },
+    "https://sso.wnc.edu/idp": {
+        "en": "Western Nevada College"
     },
     "https://sso.xula.edu/idp": {
         "en": "Xavier University of LA"

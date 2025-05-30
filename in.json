@@ -386,6 +386,9 @@
     "https://idp.modyuniversity.ac.in/idp/shibboleth": {
         "en": "Mody University of Science and Technology"
     },
+    "https://idp.mssu.ac.in/idp/shibboleth": {
+        "en": "Ratan Tata Maharashtra State Skills University (RTMSSU)"
+    },
     "https://idp.msuniv.ac.in/idp/shibboleth": {
         "en": "Manonmaniam Sundaranar University"
     },
