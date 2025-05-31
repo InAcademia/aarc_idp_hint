@@ -1,5 +1,35 @@
 {
+    "https://defitech.togorer.eduid.africa/saml2/idp/metadata.php": {
+        "en": "DEFITECH"
+    },
+    "https://eamau228.togorer.eduid.africa/saml2/idp/metadata.php": {
+        "en": "EAMAU"
+    },
+    "https://ecoledescadrestogo.togorer.eduid.africa/saml2/idp/metadata.php": {
+        "en": "ECOLE DES CADRES TOGO"
+    },
+    "https://esagnde.togorer.eduid.africa/saml2/idp/metadata.php": {
+        "en": "ESAG-NDE"
+    },
+    "https://esatg.togorer.eduid.africa/saml2/idp/metadata.php": {
+        "en": "ESA"
+    },
+    "https://esiba.togorer.eduid.africa/saml2/idp/metadata.php": {
+        "en": "ESIBA"
+    },
+    "https://formatec.togorer.eduid.africa/saml2/idp/metadata.php": {
+        "en": "FORMATEC"
+    },
+    "https://iaitogo.togorer.eduid.africa/saml2/idp/metadata.php": {
+        "en": "Institut Africain d'Informatique, Représentation du Togo (IAI-TOGO)"
+    },
     "https://nrentogostaff.togorer.eduid.africa/saml2/idp/metadata.php": {
         "en": "TogoRER"
+    },
+    "https://proxy.eduid.tg/idp/saml2": {
+        "en": "eduID.tg Federation"
+    },
+    "https://univucao.togorer.eduid.africa/saml2/idp/metadata.php": {
+        "en": "Université Catholique de l'Afrique de l'Ouest - Unité Universitaire au Togo"
     }
 }

@@ -1166,6 +1166,10 @@
             "en": "UFV - Universidade Federal de Vicosa",
             "pt-br": "UFV - Universidade Federal de Vicosa"
         },
+        "https://cafe2.unesp.br/idp/shibboleth": {
+            "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
+            "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
+        },
         "https://cafe2.unoeste.br/idp/shibboleth": {
             "en": "UNOESTE - Universidade do Oeste Paulista",
             "pt-br": "UNOESTE - Universidade do Oeste Paulista"
@@ -1481,6 +1485,10 @@
         "https://idp.uenf.br/idp/shibboleth": {
             "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
             "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
+        },
+        "https://idp.uesc.br/idp/shibboleth": {
+            "en": "UESC - Universidade Estadual de Santa Cruz",
+            "pt-br": "UESC - Universidade Estadual de Santa Cruz"
         },
         "https://idp.ufac.br/idp/shibboleth": {
             "en": "UFAC - Universidade Federal do Acre",
@@ -1917,10 +1925,6 @@
         "https://shibboleth1.feevale.br/idp/shibboleth": {
             "en": "FEEVALE - Universidade Feevale",
             "pt-br": "FEEVALE - Universidade Feevale"
-        },
-        "https://shibboleth1.uesc.br/idp/shibboleth": {
-            "en": "UESC - Universidade Estadual de Santa Cruz",
-            "pt-br": "UESC - Universidade Estadual de Santa Cruz"
         },
         "https://shibboleth1p.sipam.gov.br/idp/shibboleth": {
             "en": "CENSIPAM - Sistema de Protecao da Amazonia",
@@ -3417,10 +3421,6 @@
         "https://idp.gdust.edu.cn/idp/shibboleth": {
             "en": "Guangdong University of Science & Technology",
             "zh": "广东科技学院(Guangdong University of Science & Technology)"
-        },
-        "https://idp.glmc.edu.cn/idp/shibboleth": {
-            "en": "Guilin Medical University",
-            "zh": "桂林医学院(Guilin Medical University)"
         },
         "https://idp.glut.edu.cn/idp/shibboleth": {
             "en": "Guilin University of Technology",
@@ -16978,8 +16978,38 @@
         }
     },
     "tg": {
+        "https://defitech.togorer.eduid.africa/saml2/idp/metadata.php": {
+            "en": "DEFITECH"
+        },
+        "https://eamau228.togorer.eduid.africa/saml2/idp/metadata.php": {
+            "en": "EAMAU"
+        },
+        "https://ecoledescadrestogo.togorer.eduid.africa/saml2/idp/metadata.php": {
+            "en": "ECOLE DES CADRES TOGO"
+        },
+        "https://esagnde.togorer.eduid.africa/saml2/idp/metadata.php": {
+            "en": "ESAG-NDE"
+        },
+        "https://esatg.togorer.eduid.africa/saml2/idp/metadata.php": {
+            "en": "ESA"
+        },
+        "https://esiba.togorer.eduid.africa/saml2/idp/metadata.php": {
+            "en": "ESIBA"
+        },
+        "https://formatec.togorer.eduid.africa/saml2/idp/metadata.php": {
+            "en": "FORMATEC"
+        },
+        "https://iaitogo.togorer.eduid.africa/saml2/idp/metadata.php": {
+            "en": "Institut Africain d'Informatique, Représentation du Togo (IAI-TOGO)"
+        },
         "https://nrentogostaff.togorer.eduid.africa/saml2/idp/metadata.php": {
             "en": "TogoRER"
+        },
+        "https://proxy.eduid.tg/idp/saml2": {
+            "en": "eduID.tg Federation"
+        },
+        "https://univucao.togorer.eduid.africa/saml2/idp/metadata.php": {
+            "en": "Université Catholique de l'Afrique de l'Ouest - Unité Universitaire au Togo"
         }
     },
     "th": {
