@@ -671,6 +671,10 @@
         "de": "IPB Halle",
         "en": "IPB Halle"
     },
+    "https://idp.ipfdd.de/realms/ipfdd.de": {
+        "de": "Leibniz-Institut für Polymerforschung Dresden e.V.",
+        "en": "Leibniz-Institut für Polymerforschung Dresden e.V."
+    },
     "https://idp.ipu-berlin.de/idp/shibboleth": {
         "de": "Internationale Psychoanalytische Universität Berlin (IPU)",
         "en": "International Psychoanalytic University Berlin (IPU)"

@@ -1866,10 +1866,6 @@
             "en": "UFLA - Universidade Federal de Lavras",
             "pt-br": "UFLA - Universidade Federal de Lavras"
         },
-        "https://shibboleth.ufma.br/idp/shibboleth": {
-            "en": "UFMA - Universidade Federal do Maranhao",
-            "pt-br": "UFMA - Universidade Federal do Maranhao"
-        },
         "https://shibboleth.ufopa.edu.br/idp/shibboleth": {
             "en": "UFOPA - Universidade Federal do Oeste do Para",
             "pt-br": "UFOPA - Universidade Federal do Oeste do Para"
@@ -3013,10 +3009,6 @@
         "https://idp.bsu.edu.cn/idp/shibboleth": {
             "en": "Beijing Sport  University",
             "zh": "北京体育大学(Beijing Sport  University)"
-        },
-        "https://idp.btmc.edu.cn/idp/shibboleth": {
-            "en": "Baotou Medical College",
-            "zh": "包头医学院(Baotou Medical College)"
         },
         "https://idp.bttc.edu.cn/idp/shibboleth": {
             "en": "Baotou Teachers' College",
@@ -6866,6 +6858,10 @@
             "de": "IPB Halle",
             "en": "IPB Halle"
         },
+        "https://idp.ipfdd.de/realms/ipfdd.de": {
+            "de": "Leibniz-Institut für Polymerforschung Dresden e.V.",
+            "en": "Leibniz-Institut für Polymerforschung Dresden e.V."
+        },
         "https://idp.ipu-berlin.de/idp/shibboleth": {
             "de": "Internationale Psychoanalytische Universität Berlin (IPU)",
             "en": "International Psychoanalytic University Berlin (IPU)"
@@ -10211,8 +10207,8 @@
             "fr": "Ecole Normale Supérieure Paris-Saclay (2)"
         },
         "https://idp1.univ-fcomte.fr/idp/shibboleth": {
-            "en": "University of Franche-Comte",
-            "fr": "Université de Franche-Comté"
+            "en": "University Marie and Louis Pasteur",
+            "fr": "Université Marie et Louis Pasteur"
         },
         "https://idp2.amue.fr/idp/shibboleth": {
             "en": "AMUE - Agence de Mutualisation des Universités et Etablissements",
@@ -11270,8 +11266,8 @@
             "hu": "Magyar Táncművészeti Egyetem"
         },
         "https://idp.niif.hu/shibboleth": {
-            "en": "ProM.hu (Hungarian NREN)",
-            "hu": "ProM.hu (Magyar NREN)"
+            "en": "Pro-M Zrt - Pro-m.hu (Hungarian NREN - ProM)",
+            "hu": "Pro-M Zrt - Pro-m.hu (Magyar NREN - ProM)"
         },
         "https://idp.nje.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Neumann Janos Egyetem",
@@ -14721,10 +14717,6 @@
             "en": "University of Curaçao",
             "nl": "University of Curaçao"
         },
-        "https://adfs.cog.nl/adfs/services/trust": {
-            "en": "COG Vallei & Gelderland - Midden",
-            "nl": "COG Vallei & Gelderland - Midden"
-        },
         "https://conext.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
             "en": "Radboud University (USEZ-account)",
             "nl": "Radboud Universiteit (USEZ-account)"
@@ -14804,10 +14796,6 @@
         "https://st-antonius-ziekenhuis.vmwareidentity.de/SAAS/API/1.0/GET/metadata/idp.xml": {
             "en": "Stichting Sint Antonius Ziekenhuis",
             "nl": "Stichting Sint Antonius Ziekenhuis"
-        },
-        "https://sts.hu.nl/adfs/services/trust": {
-            "en": "University of Applied Sciences Utrecht",
-            "nl": "Hogeschool Utrecht"
         },
         "https://sts.windows.net/016a9e48-ba0b-49f4-97f8-a88352164e58/": {
             "en": "NHL Stenden University of Applied Sciences",
@@ -15192,6 +15180,10 @@
         "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
             "en": "HAS green academy",
             "nl": "HAS green academy"
+        },
+        "https://sts.windows.net/d0ae735b-a57c-432a-aa2d-892814aa457c/": {
+            "en": "COG Vallei & Gelderland - Midden",
+            "nl": "COG Vallei & Gelderland - Midden"
         },
         "https://sts.windows.net/d2db7865-e8bb-4391-b92a-4a78c1dbdb3a/": {
             "en": "ROC Rivor",

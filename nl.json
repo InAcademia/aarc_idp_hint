@@ -227,10 +227,6 @@
         "en": "University of Curaçao",
         "nl": "University of Curaçao"
     },
-    "https://adfs.cog.nl/adfs/services/trust": {
-        "en": "COG Vallei & Gelderland - Midden",
-        "nl": "COG Vallei & Gelderland - Midden"
-    },
     "https://conext.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
         "en": "Radboud University (USEZ-account)",
         "nl": "Radboud Universiteit (USEZ-account)"
@@ -310,10 +306,6 @@
     "https://st-antonius-ziekenhuis.vmwareidentity.de/SAAS/API/1.0/GET/metadata/idp.xml": {
         "en": "Stichting Sint Antonius Ziekenhuis",
         "nl": "Stichting Sint Antonius Ziekenhuis"
-    },
-    "https://sts.hu.nl/adfs/services/trust": {
-        "en": "University of Applied Sciences Utrecht",
-        "nl": "Hogeschool Utrecht"
     },
     "https://sts.windows.net/016a9e48-ba0b-49f4-97f8-a88352164e58/": {
         "en": "NHL Stenden University of Applied Sciences",
@@ -698,6 +690,10 @@
     "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
         "en": "HAS green academy",
         "nl": "HAS green academy"
+    },
+    "https://sts.windows.net/d0ae735b-a57c-432a-aa2d-892814aa457c/": {
+        "en": "COG Vallei & Gelderland - Midden",
+        "nl": "COG Vallei & Gelderland - Midden"
     },
     "https://sts.windows.net/d2db7865-e8bb-4391-b92a-4a78c1dbdb3a/": {
         "en": "ROC Rivor",
