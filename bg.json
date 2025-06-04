@@ -39,6 +39,10 @@
         "bg": "Нов български университет",
         "en": "New Bulgarian University"
     },
+    "https://idp.tu-plovdiv.bg/idp/shibboleth": {
+        "bg": "Технически Университет - София, филиал Пловдив",
+        "en": "Technical University of Sofia, Plovdiv branch"
+    },
     "https://idp.tu-sofia.bg/idp/shibboleth": {
         "bg": "Технически Университет - София",
         "en": "Technical University of Sofia"

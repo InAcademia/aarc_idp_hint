@@ -793,6 +793,10 @@
             "bg": "Нов български университет",
             "en": "New Bulgarian University"
         },
+        "https://idp.tu-plovdiv.bg/idp/shibboleth": {
+            "bg": "Технически Университет - София, филиал Пловдив",
+            "en": "Technical University of Sofia, Plovdiv branch"
+        },
         "https://idp.tu-sofia.bg/idp/shibboleth": {
             "bg": "Технически Университет - София",
             "en": "Technical University of Sofia"
@@ -3710,10 +3714,6 @@
             "en": "Shandong Huayu University of Technology",
             "zh": "山东华宇工学院(Shandong Huayu University of Technology)"
         },
-        "https://idp.hue.edu.cn/idp/shibboleth": {
-            "en": "Hubei University of Education",
-            "zh": "湖北第二师范学院(Hubei University of Education)"
-        },
         "https://idp.hueb.edu.cn/idp/shibboleth": {
             "en": "Hebei University of Economics and Business",
             "zh": "河北经贸大学(Hebei University of Economics and Business)"
@@ -4578,10 +4578,6 @@
             "en": "Suzhou City University",
             "zh": "苏州城市学院(Suzhou City University)"
         },
-        "https://idp.szsit.edu.cn/idp/shibboleth": {
-            "en": "Shenzhen Institute of Technology",
-            "zh": "深圳技师学院(Shenzhen Institute of Technology)"
-        },
         "https://idp.sztu.edu.cn/idp/shibboleth": {
             "en": "Shenzhen Technology University",
             "zh": "深圳技术大学(Shenzhen Technology University)"
@@ -4769,10 +4765,6 @@
         "https://idp.wfu.edu.cn/idp/shibboleth": {
             "en": "Weifang University",
             "zh": "潍坊学院(Weifang University)"
-        },
-        "https://idp.whcm.edu.cn/idp/shibboleth": {
-            "en": "Wuhan Conservatory of Music",
-            "zh": "武汉音乐学院(Wuhan Conservatory of Music)"
         },
         "https://idp.whmc.edu.cn/idp/shibboleth": {
             "en": "Wuhan University of Communication",
@@ -7185,10 +7177,6 @@
             "de": "Zentralinstitut für Seelische Gesundheit",
             "en": "Central Institute of Mental Health"
         },
-        "https://idp.zois-berlin.de/idp/shibboleth": {
-            "de": "Zentrum für Osteuropa- und internationale Studien (ZOiS)",
-            "en": "Centre for East European and International Studies (ZOiS)"
-        },
         "https://idp.zu.de/idp/shibboleth": {
             "de": "Zeppelin Universität",
             "en": "Zeppelin University"
@@ -7620,6 +7608,10 @@
         "https://shibboleth.dhbw-karlsruhe.de/idp/shibboleth": {
             "de": "DHBW Karlsruhe",
             "en": "DHBW Karlsruhe"
+        },
+        "https://shibboleth.dhge.de/idp/shibboleth": {
+            "de": "Identity Provider der DHGE",
+            "en": "Identity Provider of DHGE"
         },
         "https://shibboleth.hs-kl.de/idp/shibboleth": {
             "de": "Hochschule Kaiserslautern",
@@ -8960,6 +8952,10 @@
         "https://www.rediris.es/sir/udimaidp": {
             "en": "Universidad a Distancia de Madrid",
             "es": "Universidad a Distancia de Madrid"
+        },
+        "https://www.rediris.es/sir/uditidp": {
+            "en": "Universidad de Diseño, Innovacion y Tecnologia",
+            "es": "Universidad de Diseño, Innovación y Tecnología"
         },
         "https://www.rediris.es/sir/udlidp": {
             "ca": "Universitat de Lleida",
@@ -13849,7 +13845,7 @@
         "https://idp.llu.lv/idp/shibboleth": {
             "en": "Latvia University of Agriculture (LAIS)"
         },
-        "https://idp.rtu.lv/lais": {
+        "https://idp.rtu.lv/": {
             "en": "Riga Technical University (Office 365) (LAIS)"
         },
         "https://liepu-idp.lanet.lv": {
@@ -14504,10 +14500,6 @@
         "http://adfs.cibap.nl/adfs/services/trust": {
             "en": "Cibap Vocational College of Design",
             "nl": "Cibap vakschool voor vormgeving"
-        },
-        "http://adfs.cito.nl/adfs/services/trust": {
-            "en": "Cito",
-            "nl": "Cito"
         },
         "http://adfs.dcterra.nl/adfs/services/trust": {
             "en": "DCTerra",
@@ -15200,6 +15192,10 @@
         "https://sts.windows.net/dde2f31a-0733-4e4e-8460-14217d31ded5/": {
             "en": "Netherlands Institute for Health Services Research (NIVEL)",
             "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"
+        },
+        "https://sts.windows.net/ddf292db-23df-4367-b11b-bd324b58e5bb/": {
+            "en": "Cito",
+            "nl": "Cito"
         },
         "https://sts.windows.net/de1fb6ee-54ae-40a2-8c2a-0cfdee0c7a03/": {
             "en": "Salta Group (Employees)",
@@ -20879,11 +20875,11 @@
         "https://prdidp.uncg.edu/idp/shibboleth": {
             "en": "University of North Carolina at Greensboro"
         },
+        "https://proxyidp.es.net/satosafrontend/proxy.xml": {
+            "en": "ESnet Satosa IDP"
+        },
         "https://saml.nelnet.net": {
             "en": "Nelnet Business Solutions"
-        },
-        "https://satosa-dev.es.net/satosafrontend/proxy.xml": {
-            "en": "ESnet Satosa-Dev"
         },
         "https://secure.stevenson.edu/idp/shibboleth": {
             "en": "Stevenson University"
@@ -21138,7 +21134,7 @@
             "en": "Furman University"
         },
         "https://sso-login.vanderbilt.edu": {
-            "en": "Vanderbilt University (VU)"
+            "en": "Vanderbilt University (Retiring  July 1, 2025)"
         },
         "https://sso.amnh.org/idp": {
             "en": "American Museum of Natural History - Richard Gilder Graduate School"
@@ -21348,7 +21344,7 @@
             "en": "Van Andel Research Institute"
         },
         "https://sso.vanderbilt.edu/idp": {
-            "en": "zz_DO_NOT_USE_VUIT"
+            "en": "Vanderbilt University (OneVU)"
         },
         "https://sso.wcu.edu/idp": {
             "en": "Western Carolina University"

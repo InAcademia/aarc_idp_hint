@@ -854,11 +854,11 @@
     "https://prdidp.uncg.edu/idp/shibboleth": {
         "en": "University of North Carolina at Greensboro"
     },
+    "https://proxyidp.es.net/satosafrontend/proxy.xml": {
+        "en": "ESnet Satosa IDP"
+    },
     "https://saml.nelnet.net": {
         "en": "Nelnet Business Solutions"
-    },
-    "https://satosa-dev.es.net/satosafrontend/proxy.xml": {
-        "en": "ESnet Satosa-Dev"
     },
     "https://secure.stevenson.edu/idp/shibboleth": {
         "en": "Stevenson University"
@@ -1113,7 +1113,7 @@
         "en": "Furman University"
     },
     "https://sso-login.vanderbilt.edu": {
-        "en": "Vanderbilt University (VU)"
+        "en": "Vanderbilt University (Retiring  July 1, 2025)"
     },
     "https://sso.amnh.org/idp": {
         "en": "American Museum of Natural History - Richard Gilder Graduate School"
@@ -1323,7 +1323,7 @@
         "en": "Van Andel Research Institute"
     },
     "https://sso.vanderbilt.edu/idp": {
-        "en": "zz_DO_NOT_USE_VUIT"
+        "en": "Vanderbilt University (OneVU)"
     },
     "https://sso.wcu.edu/idp": {
         "en": "Western Carolina University"

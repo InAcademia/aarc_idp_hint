@@ -1043,10 +1043,6 @@
         "en": "Shandong Huayu University of Technology",
         "zh": "山东华宇工学院(Shandong Huayu University of Technology)"
     },
-    "https://idp.hue.edu.cn/idp/shibboleth": {
-        "en": "Hubei University of Education",
-        "zh": "湖北第二师范学院(Hubei University of Education)"
-    },
     "https://idp.hueb.edu.cn/idp/shibboleth": {
         "en": "Hebei University of Economics and Business",
         "zh": "河北经贸大学(Hebei University of Economics and Business)"
@@ -1911,10 +1907,6 @@
         "en": "Suzhou City University",
         "zh": "苏州城市学院(Suzhou City University)"
     },
-    "https://idp.szsit.edu.cn/idp/shibboleth": {
-        "en": "Shenzhen Institute of Technology",
-        "zh": "深圳技师学院(Shenzhen Institute of Technology)"
-    },
     "https://idp.sztu.edu.cn/idp/shibboleth": {
         "en": "Shenzhen Technology University",
         "zh": "深圳技术大学(Shenzhen Technology University)"
@@ -2102,10 +2094,6 @@
     "https://idp.wfu.edu.cn/idp/shibboleth": {
         "en": "Weifang University",
         "zh": "潍坊学院(Weifang University)"
-    },
-    "https://idp.whcm.edu.cn/idp/shibboleth": {
-        "en": "Wuhan Conservatory of Music",
-        "zh": "武汉音乐学院(Wuhan Conservatory of Music)"
     },
     "https://idp.whmc.edu.cn/idp/shibboleth": {
         "en": "Wuhan University of Communication",

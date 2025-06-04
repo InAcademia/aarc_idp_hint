@@ -15,10 +15,6 @@
         "en": "Cibap Vocational College of Design",
         "nl": "Cibap vakschool voor vormgeving"
     },
-    "http://adfs.cito.nl/adfs/services/trust": {
-        "en": "Cito",
-        "nl": "Cito"
-    },
     "http://adfs.dcterra.nl/adfs/services/trust": {
         "en": "DCTerra",
         "nl": "DCTerra"
@@ -710,6 +706,10 @@
     "https://sts.windows.net/dde2f31a-0733-4e4e-8460-14217d31ded5/": {
         "en": "Netherlands Institute for Health Services Research (NIVEL)",
         "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"
+    },
+    "https://sts.windows.net/ddf292db-23df-4367-b11b-bd324b58e5bb/": {
+        "en": "Cito",
+        "nl": "Cito"
     },
     "https://sts.windows.net/de1fb6ee-54ae-40a2-8c2a-0cfdee0c7a03/": {
         "en": "Salta Group (Employees)",

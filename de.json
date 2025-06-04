@@ -998,10 +998,6 @@
         "de": "Zentralinstitut für Seelische Gesundheit",
         "en": "Central Institute of Mental Health"
     },
-    "https://idp.zois-berlin.de/idp/shibboleth": {
-        "de": "Zentrum für Osteuropa- und internationale Studien (ZOiS)",
-        "en": "Centre for East European and International Studies (ZOiS)"
-    },
     "https://idp.zu.de/idp/shibboleth": {
         "de": "Zeppelin Universität",
         "en": "Zeppelin University"
@@ -1433,6 +1429,10 @@
     "https://shibboleth.dhbw-karlsruhe.de/idp/shibboleth": {
         "de": "DHBW Karlsruhe",
         "en": "DHBW Karlsruhe"
+    },
+    "https://shibboleth.dhge.de/idp/shibboleth": {
+        "de": "Identity Provider der DHGE",
+        "en": "Identity Provider of DHGE"
     },
     "https://shibboleth.hs-kl.de/idp/shibboleth": {
         "de": "Hochschule Kaiserslautern",
