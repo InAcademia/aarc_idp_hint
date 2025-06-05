@@ -906,10 +906,6 @@
             "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
             "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
         },
-        "https://cafe.cefet-rj.br/idp/shibboleth": {
-            "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
-            "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
-        },
         "https://cafe.cnpq.br/idp/shibboleth": {
             "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
             "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
@@ -4529,6 +4525,10 @@
         "https://idp.sxdzkj.edu.cn/idp/shibboleth": {
             "en": "Shanxi University of Electronic and Technology",
             "zh": "山西电子科技学院(Shanxi University of Electronic and Technology)"
+        },
+        "https://idp.sxit.edu.cn/idp/shibboleth": {
+            "en": "Shanxi Institute Of Technology",
+            "zh": "山西工程技术学院(Shanxi Institute Of Technology)"
         },
         "https://idp.sxmu.edu.cn/idp/shibboleth": {
             "en": "Shanxi Medical University",
@@ -13833,71 +13833,71 @@
     },
     "lv": {
         "https://du-idp.lanet.lv": {
-            "en": "Daugavpils University (LAIS)"
+            "en": "Daugavpils University"
         },
         "https://id.lndb.lv": {
-            "en": "LNB (LAIS)"
+            "en": "LNB"
         },
         "https://idp.laife.lv/saml-idp": {
             "en": "LAIFE (Latvian academic identity federation)",
             "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
         },
         "https://idp.llu.lv/idp/shibboleth": {
-            "en": "Latvia University of Agriculture (LAIS)"
+            "en": "Latvia University of Agriculture"
         },
-        "https://idp.rtu.lv/": {
-            "en": "Riga Technical University (Office 365) (LAIS)"
+        "https://idp.rtu.lv": {
+            "en": "Riga Technical University (Office 365)"
         },
         "https://liepu-idp.lanet.lv": {
-            "en": "Liepaja University (LAIS)"
+            "en": "Liepaja University"
         },
         "https://lka-idp.lanet.lv": {
-            "en": "Latvian Academy of Culture (LAIS)"
+            "en": "Latvian Academy of Culture"
         },
         "https://lkk-idp.lanet.lv": {
-            "en": "Latvian College of Culture at the Latvian Academy of Culture (LAIS)"
+            "en": "Latvian College of Culture at the Latvian Academy of Culture"
         },
         "https://lma-idp.lanet.lv": {
-            "en": "Art Academy of Latvia (LAIS)"
+            "en": "Art Academy of Latvia"
         },
         "https://lmuza-idp.lanet.lv": {
-            "en": "Latvian Academy of Music (LAIS)"
+            "en": "Latvian Academy of Music"
         },
         "https://lnna-idp.lanet.lv": {
-            "en": "National Defence Academy of Latvia (LAIS)"
+            "en": "National Defence Academy of Latvia"
         },
         "https://lu-idp.lu.lv": {
-            "en": "University of Latvia (LAIS)"
+            "en": "University of Latvia"
         },
         "https://lumii-idp.lanet.lv": {
-            "en": "Institute of Mathematics and Computer Science, University of Latvia (LAIS)"
+            "en": "Institute of Mathematics and Computer Science, University of Latvia"
         },
         "https://overleaf-idp.lu.lv": {
-            "en": "LU OverLeaf users IdP (LAIS)"
+            "en": "LU OverLeaf users IdP"
         },
         "https://psk-idp.lanet.lv": {
-            "en": "Pauls Stradins Medical College of the University of Latvia (LAIS)"
+            "en": "Pauls Stradins Medical College of the University of Latvia"
         },
         "https://ra-idp.lanet.lv": {
-            "en": "Rezekne Academy of Technologies (LAIS)"
+            "en": "Rezekne Academy of Technologies"
         },
         "https://rja-idp.lanet.lv": {
-            "en": "Riga Graduate School of Law (LAIS)"
+            "en": "Riga Graduate School of Law"
         },
         "https://rmk-idp.lanet.lv": {
-            "en": "Riga Medical College (LAIS)"
+            "en": "Riga Medical College"
         },
         "https://skmms-idp.lanet.lv": {
-            "en": "Riga Red Cross Medical College (LAIS)"
+            "en": "Riga Red Cross Medical College"
         },
         "https://sse-idp.lanet.lv": {
-            "en": "Stockholm School of Economics in Riga (LAIS)"
+            "en": "Stockholm School of Economics in Riga"
         },
         "https://va-idp.lanet.lv": {
-            "en": "Vidzeme University of Applied Sciences (LAIS)"
+            "en": "Vidzeme University of Applied Sciences"
         },
         "https://vea-idp.lanet.lv": {
-            "en": "Ventspils University College (LAIS)"
+            "en": "Ventspils University College"
         }
     },
     "ma": {
@@ -13930,6 +13930,10 @@
         "https://amtapidp.renam.md": {
             "en": "AMTAP-MD",
             "ro": "AMTAP-MD"
+        },
+        "https://edugain.usm.md": {
+            "en": "GIDP-USM",
+            "ro": "GIDP-USM"
         },
         "https://gidp.federations.renam.md": {
             "en": "GIDP-RENAM",
@@ -20500,9 +20504,6 @@
         "https://idp.mtsac.edu/idp/shibboleth": {
             "en": "Mt. San Antonio Community College District"
         },
-        "https://idp.nccu.edu/idp/shibboleth": {
-            "en": "North Carolina Central University"
-        },
         "https://idp.ncsa.illinois.edu/idp/shibboleth": {
             "en": "National Center for Supercomputing Applications"
         },
@@ -21240,6 +21241,9 @@
         },
         "https://sso.nationwidechildrens.org/idp": {
             "en": "Nationwide Children's Hospital"
+        },
+        "https://sso.nccu.edu/idp": {
+            "en": "North Carolina Central University"
         },
         "https://sso.nhsc.edu/idp": {
             "en": "Nueta Hidatsa Sahnish College"

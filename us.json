@@ -479,9 +479,6 @@
     "https://idp.mtsac.edu/idp/shibboleth": {
         "en": "Mt. San Antonio Community College District"
     },
-    "https://idp.nccu.edu/idp/shibboleth": {
-        "en": "North Carolina Central University"
-    },
     "https://idp.ncsa.illinois.edu/idp/shibboleth": {
         "en": "National Center for Supercomputing Applications"
     },
@@ -1219,6 +1216,9 @@
     },
     "https://sso.nationwidechildrens.org/idp": {
         "en": "Nationwide Children's Hospital"
+    },
+    "https://sso.nccu.edu/idp": {
+        "en": "North Carolina Central University"
     },
     "https://sso.nhsc.edu/idp": {
         "en": "Nueta Hidatsa Sahnish College"

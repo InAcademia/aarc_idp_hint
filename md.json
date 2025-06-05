@@ -3,6 +3,10 @@
         "en": "AMTAP-MD",
         "ro": "AMTAP-MD"
     },
+    "https://edugain.usm.md": {
+        "en": "GIDP-USM",
+        "ro": "GIDP-USM"
+    },
     "https://gidp.federations.renam.md": {
         "en": "GIDP-RENAM",
         "ro": "GIDP-RENAM"

@@ -1,69 +1,69 @@
 {
     "https://du-idp.lanet.lv": {
-        "en": "Daugavpils University (LAIS)"
+        "en": "Daugavpils University"
     },
     "https://id.lndb.lv": {
-        "en": "LNB (LAIS)"
+        "en": "LNB"
     },
     "https://idp.laife.lv/saml-idp": {
         "en": "LAIFE (Latvian academic identity federation)",
         "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
     },
     "https://idp.llu.lv/idp/shibboleth": {
-        "en": "Latvia University of Agriculture (LAIS)"
+        "en": "Latvia University of Agriculture"
     },
-    "https://idp.rtu.lv/": {
-        "en": "Riga Technical University (Office 365) (LAIS)"
+    "https://idp.rtu.lv": {
+        "en": "Riga Technical University (Office 365)"
     },
     "https://liepu-idp.lanet.lv": {
-        "en": "Liepaja University (LAIS)"
+        "en": "Liepaja University"
     },
     "https://lka-idp.lanet.lv": {
-        "en": "Latvian Academy of Culture (LAIS)"
+        "en": "Latvian Academy of Culture"
     },
     "https://lkk-idp.lanet.lv": {
-        "en": "Latvian College of Culture at the Latvian Academy of Culture (LAIS)"
+        "en": "Latvian College of Culture at the Latvian Academy of Culture"
     },
     "https://lma-idp.lanet.lv": {
-        "en": "Art Academy of Latvia (LAIS)"
+        "en": "Art Academy of Latvia"
     },
     "https://lmuza-idp.lanet.lv": {
-        "en": "Latvian Academy of Music (LAIS)"
+        "en": "Latvian Academy of Music"
     },
     "https://lnna-idp.lanet.lv": {
-        "en": "National Defence Academy of Latvia (LAIS)"
+        "en": "National Defence Academy of Latvia"
     },
     "https://lu-idp.lu.lv": {
-        "en": "University of Latvia (LAIS)"
+        "en": "University of Latvia"
     },
     "https://lumii-idp.lanet.lv": {
-        "en": "Institute of Mathematics and Computer Science, University of Latvia (LAIS)"
+        "en": "Institute of Mathematics and Computer Science, University of Latvia"
     },
     "https://overleaf-idp.lu.lv": {
-        "en": "LU OverLeaf users IdP (LAIS)"
+        "en": "LU OverLeaf users IdP"
     },
     "https://psk-idp.lanet.lv": {
-        "en": "Pauls Stradins Medical College of the University of Latvia (LAIS)"
+        "en": "Pauls Stradins Medical College of the University of Latvia"
     },
     "https://ra-idp.lanet.lv": {
-        "en": "Rezekne Academy of Technologies (LAIS)"
+        "en": "Rezekne Academy of Technologies"
     },
     "https://rja-idp.lanet.lv": {
-        "en": "Riga Graduate School of Law (LAIS)"
+        "en": "Riga Graduate School of Law"
     },
     "https://rmk-idp.lanet.lv": {
-        "en": "Riga Medical College (LAIS)"
+        "en": "Riga Medical College"
     },
     "https://skmms-idp.lanet.lv": {
-        "en": "Riga Red Cross Medical College (LAIS)"
+        "en": "Riga Red Cross Medical College"
     },
     "https://sse-idp.lanet.lv": {
-        "en": "Stockholm School of Economics in Riga (LAIS)"
+        "en": "Stockholm School of Economics in Riga"
     },
     "https://va-idp.lanet.lv": {
-        "en": "Vidzeme University of Applied Sciences (LAIS)"
+        "en": "Vidzeme University of Applied Sciences"
     },
     "https://vea-idp.lanet.lv": {
-        "en": "Ventspils University College (LAIS)"
+        "en": "Ventspils University College"
     }
 }
