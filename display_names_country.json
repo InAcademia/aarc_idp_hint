@@ -906,6 +906,10 @@
             "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
             "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
         },
+        "https://cafe.cefet-rj.br/idp/shibboleth": {
+            "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
+            "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
+        },
         "https://cafe.cnpq.br/idp/shibboleth": {
             "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
             "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
@@ -2010,10 +2014,6 @@
             "en": "AEB - Agencia Espacial Brasileira",
             "pt-br": "AEB - Agencia Espacial Brasileira"
         },
-        "https://svr-apl57.unilasalle.edu.br/idp/shibboleth": {
-            "en": "UNILASALLE - Universidade La Salle",
-            "pt-br": "UNILASALLE - Universidade La Salle"
-        },
         "https://svr-cafe.unaerp.br/idp/shibboleth": {
             "en": "UNAERP - Associacao de Ensino de Ribeirao Preto",
             "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto"
@@ -2737,10 +2737,6 @@
         "https://idp-lib.gzhu.edu.cn/idp/shibboleth": {
             "en": "Guangzhou University",
             "zh": "广州大学(Guangzhou University)"
-        },
-        "https://idp-lib.hbmu.edu.cn/idp/shibboleth": {
-            "en": "Hubei University of Medicine",
-            "zh": "湖北医药学院(Hubei University of Medicine)"
         },
         "https://idp-lib.hifa.edu.cn/idp/shibboleth": {
             "en": "Hubei Institute of Fine Arts",
@@ -7610,8 +7606,8 @@
             "en": "DHBW Karlsruhe"
         },
         "https://shibboleth.dhge.de/idp/shibboleth": {
-            "de": "Identity Provider der DHGE",
-            "en": "Identity Provider of DHGE"
+            "de": "Duale Hochschule Gera-Eisenach",
+            "en": "Cooperative University Gera-Eisenach (DHGE)"
         },
         "https://shibboleth.hs-kl.de/idp/shibboleth": {
             "de": "Hochschule Kaiserslautern",
@@ -11607,6 +11603,9 @@
         "https://idp.annauniv.edu/idp/shibboleth": {
             "en": "Anna University"
         },
+        "https://idp.asu.ac.in/idp/shibboleth": {
+            "en": "Assam Skill University"
+        },
         "https://idp.atmiyauni.ac.in/idp/shibboleth": {
             "en": "Atmiya University"
         },
@@ -11741,6 +11740,9 @@
         },
         "https://idp.iare.ac.in/idp/shibboleth": {
             "en": "Institute of Aeronautical Engineering"
+        },
+        "https://idp.idealinstitute.edu.in/idp/shibboleth": {
+            "en": "Ideal Institute Of Management And Technology And School Of Law"
         },
         "https://idp.ignou.ac.in/idp/shibboleth": {
             "en": "Indira Gandhi National Open University (IGNOU)"
@@ -19883,6 +19885,9 @@
         },
         "https://shibboleth.serc.ac.uk/shibboleth": {
             "en": "South Eastern Regional College"
+        },
+        "https://shibboleth.sgmc.ac.uk/shibboleth/idp": {
+            "en": "Monoux College"
         },
         "https://shibboleth.shcg.ac.uk/idp/shibboleth": {
             "en": "South Hampshire College Group"

@@ -47,6 +47,9 @@
     "https://idp.annauniv.edu/idp/shibboleth": {
         "en": "Anna University"
     },
+    "https://idp.asu.ac.in/idp/shibboleth": {
+        "en": "Assam Skill University"
+    },
     "https://idp.atmiyauni.ac.in/idp/shibboleth": {
         "en": "Atmiya University"
     },
@@ -181,6 +184,9 @@
     },
     "https://idp.iare.ac.in/idp/shibboleth": {
         "en": "Institute of Aeronautical Engineering"
+    },
+    "https://idp.idealinstitute.edu.in/idp/shibboleth": {
+        "en": "Ideal Institute Of Management And Technology And School Of Law"
     },
     "https://idp.ignou.ac.in/idp/shibboleth": {
         "en": "Indira Gandhi National Open University (IGNOU)"

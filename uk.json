@@ -1589,6 +1589,9 @@
     "https://shibboleth.serc.ac.uk/shibboleth": {
         "en": "South Eastern Regional College"
     },
+    "https://shibboleth.sgmc.ac.uk/shibboleth/idp": {
+        "en": "Monoux College"
+    },
     "https://shibboleth.shcg.ac.uk/idp/shibboleth": {
         "en": "South Hampshire College Group"
     },

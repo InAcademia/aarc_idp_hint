@@ -75,6 +75,10 @@
         "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
         "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
     },
+    "https://cafe.cefet-rj.br/idp/shibboleth": {
+        "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
+        "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
+    },
     "https://cafe.cnpq.br/idp/shibboleth": {
         "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
         "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
@@ -1178,10 +1182,6 @@
     "https://svlapshibboleth.aeb.gov.br/idp/shibboleth": {
         "en": "AEB - Agencia Espacial Brasileira",
         "pt-br": "AEB - Agencia Espacial Brasileira"
-    },
-    "https://svr-apl57.unilasalle.edu.br/idp/shibboleth": {
-        "en": "UNILASALLE - Universidade La Salle",
-        "pt-br": "UNILASALLE - Universidade La Salle"
     },
     "https://svr-cafe.unaerp.br/idp/shibboleth": {
         "en": "UNAERP - Associacao de Ensino de Ribeirao Preto",

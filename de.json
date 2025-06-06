@@ -1431,8 +1431,8 @@
         "en": "DHBW Karlsruhe"
     },
     "https://shibboleth.dhge.de/idp/shibboleth": {
-        "de": "Identity Provider der DHGE",
-        "en": "Identity Provider of DHGE"
+        "de": "Duale Hochschule Gera-Eisenach",
+        "en": "Cooperative University Gera-Eisenach (DHGE)"
     },
     "https://shibboleth.hs-kl.de/idp/shibboleth": {
         "de": "Hochschule Kaiserslautern",
