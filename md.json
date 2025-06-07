@@ -10,5 +10,9 @@
     "https://gidp.federations.renam.md": {
         "en": "GIDP-RENAM",
         "ro": "GIDP-RENAM"
+    },
+    "https://kdu.idp.renam.md": {
+        "en": "KDU-MD",
+        "ro": "KDU-MD"
     }
 }
