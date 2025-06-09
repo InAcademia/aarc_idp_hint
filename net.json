@@ -27,10 +27,6 @@
         "en": "National Science Library, Chinese Academy of Sciences",
         "zh": "中国科学院文献情报中心"
     },
-    "https://idp.lib.bnu.edu.cn/idp/shibboleth": {
-        "en": "Beijing Normal University",
-        "zh": "北京师范大学"
-    },
     "https://idp.redclara.net/saml2/idp/metadata.php": {
         "en": "RedCLARA - IdP",
         "es": "RedCLARA - IdP"
