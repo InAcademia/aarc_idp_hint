@@ -858,6 +858,10 @@
             "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
             "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
         },
+        "https://cafe-01.uffs.edu.br/idp/shibboleth": {
+            "en": "UFFS - Universidade Federal da Fronteira Sul",
+            "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
+        },
         "https://cafe-gateway.ifce.edu.br/idp/shibboleth": {
             "en": "IFCE - Instituto Federal do Ceara",
             "pt-br": "IFCE - Instituto Federal do Ceara"
@@ -1805,6 +1809,10 @@
         "https://shibboleth.ifam.edu.br/idp/shibboleth": {
             "en": "IFAM - Instituto Federal do Amazonas",
             "pt-br": "IFAM - Instituto Federal do Amazonas"
+        },
+        "https://shibboleth.ifbaiano.edu.br/idp/shibboleth": {
+            "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
+            "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
         },
         "https://shibboleth.iffarroupilha.edu.br/idp/shibboleth": {
             "en": "IFFAR - Instituto Federal Farroupilha",
@@ -3001,6 +3009,10 @@
         "https://idp.bsu.edu.cn/idp/shibboleth": {
             "en": "Beijing Sport  University",
             "zh": "北京体育大学(Beijing Sport  University)"
+        },
+        "https://idp.btmc.edu.cn/idp/shibboleth": {
+            "en": "Baotou Medical College",
+            "zh": "包头医学院(Baotou Medical College)"
         },
         "https://idp.bttc.edu.cn/idp/shibboleth": {
             "en": "Baotou Teachers' College",
@@ -4469,6 +4481,10 @@
         "https://idp.stdu.edu.cn/idp/shibboleth": {
             "en": "Shijiazhuang Tiedao University",
             "zh": "石家庄铁道大学(Shijiazhuang Tiedao University)"
+        },
+        "https://idp.suat-sz.edu.cn/idp/shibboleth": {
+            "en": "Shenzhen University of Advanced Technology",
+            "zh": "深圳理工大学(Shenzhen University of Advanced Technology)"
         },
         "https://idp.suda.edu.cn/idp/shibboleth": {
             "en": "Soochow University",
@@ -9375,8 +9391,8 @@
     },
     "fr": {
         "http://adfs.devinci.fr/adfs/services/trust": {
-            "en": "Pole de Vinci",
-            "fr": "Pole de Vinci"
+            "en": "De Vinci Higher Education (DVHE)",
+            "fr": "De Vinci Higher Education (DVHE)"
         },
         "http://fs.unilasalle.fr/adfs/services/trust": {
             "en": "UniLaSalle Institute",

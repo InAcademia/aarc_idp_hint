@@ -1,7 +1,7 @@
 {
     "http://adfs.devinci.fr/adfs/services/trust": {
-        "en": "Pole de Vinci",
-        "fr": "Pole de Vinci"
+        "en": "De Vinci Higher Education (DVHE)",
+        "fr": "De Vinci Higher Education (DVHE)"
     },
     "http://fs.unilasalle.fr/adfs/services/trust": {
         "en": "UniLaSalle Institute",

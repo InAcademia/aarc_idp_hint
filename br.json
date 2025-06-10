@@ -27,6 +27,10 @@
         "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
         "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
     },
+    "https://cafe-01.uffs.edu.br/idp/shibboleth": {
+        "en": "UFFS - Universidade Federal da Fronteira Sul",
+        "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
+    },
     "https://cafe-gateway.ifce.edu.br/idp/shibboleth": {
         "en": "IFCE - Instituto Federal do Ceara",
         "pt-br": "IFCE - Instituto Federal do Ceara"
@@ -974,6 +978,10 @@
     "https://shibboleth.ifam.edu.br/idp/shibboleth": {
         "en": "IFAM - Instituto Federal do Amazonas",
         "pt-br": "IFAM - Instituto Federal do Amazonas"
+    },
+    "https://shibboleth.ifbaiano.edu.br/idp/shibboleth": {
+        "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
+        "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
     },
     "https://shibboleth.iffarroupilha.edu.br/idp/shibboleth": {
         "en": "IFFAR - Instituto Federal Farroupilha",
