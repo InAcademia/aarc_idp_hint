@@ -18347,6 +18347,9 @@
         "https://athensla.uwe.ac.uk/oala/metadata": {
             "en": "University of the West of England (UWE)"
         },
+        "https://atomix.ac.uk/idp": {
+            "en": "Atomix Educational Trust"
+        },
         "https://auth.aspirationtraining.com/idp/shibboleth": {
             "en": "Aspiration Training"
         },
@@ -20600,7 +20603,7 @@
             "en": "Shippensburg University of Pennsylvania"
         },
         "https://idp.si.edu/idp/shibboleth": {
-            "en": "Smithsonian Institution"
+            "en": "Smithsonian Institution (Old)"
         },
         "https://idp.simmons.edu/idp/shibboleth": {
             "en": "Simmons University"
@@ -21300,6 +21303,9 @@
         },
         "https://sso.sdccd.edu/idp": {
             "en": "San Diego Community College District"
+        },
+        "https://sso.si.edu/idp": {
+            "en": "Smithsonian Institution (New)"
         },
         "https://sso.sittingbull.edu/idp": {
             "en": "Sitting Bull College"

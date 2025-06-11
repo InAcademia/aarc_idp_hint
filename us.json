@@ -558,7 +558,7 @@
         "en": "Shippensburg University of Pennsylvania"
     },
     "https://idp.si.edu/idp/shibboleth": {
-        "en": "Smithsonian Institution"
+        "en": "Smithsonian Institution (Old)"
     },
     "https://idp.simmons.edu/idp/shibboleth": {
         "en": "Simmons University"
@@ -1258,6 +1258,9 @@
     },
     "https://sso.sdccd.edu/idp": {
         "en": "San Diego Community College District"
+    },
+    "https://sso.si.edu/idp": {
+        "en": "Smithsonian Institution (New)"
     },
     "https://sso.sittingbull.edu/idp": {
         "en": "Sitting Bull College"
