@@ -424,6 +424,10 @@
         "en": "SISSA",
         "it": "SISSA"
     },
+    "https://idp.ssmeridionale.it/idp/shibboleth": {
+        "en": "Scuola Superiore Meridionale",
+        "it": "Scuola Superiore Meridionale"
+    },
     "https://idp.sssup.it/idp/shibboleth": {
         "en": "Sant'Anna School of Advanced Studies - Pisa",
         "it": "Sant'Anna Scuola Universitaria Superiore - Pisa"

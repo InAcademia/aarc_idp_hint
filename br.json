@@ -275,6 +275,10 @@
         "en": "UFSB - Universidade Federal do Sul da Bahia",
         "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
     },
+    "https://cafe.ufsc.br/idp/shibboleth": {
+        "en": "UFSC - Universidade Federal de Santa Catarina",
+        "pt-br": "UFSC - Universidade Federal de Santa Catarina"
+    },
     "https://cafe.undf.edu.br/idp/shibboleth": {
         "en": "UNDF - Universidade do Distrito Federal",
         "pt-br": "UNDF - Universidade do Distrito Federal"
@@ -362,10 +366,6 @@
     "https://cafe4.ufal.br/idp/shibboleth": {
         "en": "UFAL - Universidade Federal de Alagoas",
         "pt-br": "UFAL - Universidade Federal de Alagoas"
-    },
-    "https://cafe4.ufsc.br/idp/shibboleth": {
-        "en": "UFSC - Universidade Federal de Santa Catarina",
-        "pt-br": "UFSC - Universidade Federal de Santa Catarina"
     },
     "https://cafe5.ansp.br/idp/shibboleth": {
         "en": "ANSP - Research and Education Network of Sao Paulo",
@@ -1178,10 +1178,6 @@
     "https://sso.uft.edu.br/idp/shibboleth": {
         "en": "UFT - Universidade Federal do Tocantins",
         "pt-br": "UFT - Universidade Federal do Tocantins"
-    },
-    "https://st1-rnp-01.fundacaowilsonpicler.org.br/idp/shibboleth": {
-        "en": "FWP - Fundacao Wilson Picler",
-        "pt-br": "FWP - Fundacao Wilson Picler"
     },
     "https://svlapshibboleth.aeb.gov.br/idp/shibboleth": {
         "en": "AEB - Agencia Espacial Brasileira",

@@ -1106,6 +1106,10 @@
             "en": "UFSB - Universidade Federal do Sul da Bahia",
             "pt-br": "UFSB - Universidade Federal do Sul da Bahia"
         },
+        "https://cafe.ufsc.br/idp/shibboleth": {
+            "en": "UFSC - Universidade Federal de Santa Catarina",
+            "pt-br": "UFSC - Universidade Federal de Santa Catarina"
+        },
         "https://cafe.undf.edu.br/idp/shibboleth": {
             "en": "UNDF - Universidade do Distrito Federal",
             "pt-br": "UNDF - Universidade do Distrito Federal"
@@ -1193,10 +1197,6 @@
         "https://cafe4.ufal.br/idp/shibboleth": {
             "en": "UFAL - Universidade Federal de Alagoas",
             "pt-br": "UFAL - Universidade Federal de Alagoas"
-        },
-        "https://cafe4.ufsc.br/idp/shibboleth": {
-            "en": "UFSC - Universidade Federal de Santa Catarina",
-            "pt-br": "UFSC - Universidade Federal de Santa Catarina"
         },
         "https://cafe5.ansp.br/idp/shibboleth": {
             "en": "ANSP - Research and Education Network of Sao Paulo",
@@ -2009,10 +2009,6 @@
         "https://sso.uft.edu.br/idp/shibboleth": {
             "en": "UFT - Universidade Federal do Tocantins",
             "pt-br": "UFT - Universidade Federal do Tocantins"
-        },
-        "https://st1-rnp-01.fundacaowilsonpicler.org.br/idp/shibboleth": {
-            "en": "FWP - Fundacao Wilson Picler",
-            "pt-br": "FWP - Fundacao Wilson Picler"
         },
         "https://svlapshibboleth.aeb.gov.br/idp/shibboleth": {
             "en": "AEB - Agencia Espacial Brasileira",
@@ -8713,6 +8709,10 @@
             "en": "Florida Universitària",
             "es": "Florida Universitària"
         },
+        "https://www.rediris.es/sir/fpabloviidp": {
+            "en": "Fundacion Pablo VI",
+            "es": "Fundación Pablo VI"
+        },
         "https://www.rediris.es/sir/friatidp": {
             "en": "Fundacion Renal Inigo Alvarez de Toledo",
             "es": "Fundación Renal Iñigo Álvarez de Toledo"
@@ -12709,6 +12709,10 @@
         "https://idp.sissa.it/idp/shibboleth": {
             "en": "SISSA",
             "it": "SISSA"
+        },
+        "https://idp.ssmeridionale.it/idp/shibboleth": {
+            "en": "Scuola Superiore Meridionale",
+            "it": "Scuola Superiore Meridionale"
         },
         "https://idp.sssup.it/idp/shibboleth": {
             "en": "Sant'Anna School of Advanced Studies - Pisa",
@@ -17622,6 +17626,10 @@
         "https://yetkim.kocaeli.edu.tr/idp/shibboleth": {
             "en": "Kocaeli University",
             "tr": "Kocaeli Üniversitesi"
+        },
+        "https://yetkim.maltepe.edu.tr/idp/shibboleth": {
+            "en": "Maltepe University",
+            "tr": "T.C. Maltepe Üniversitesi"
         },
         "https://yetkim.marmara.edu.tr/idp/shibboleth": {
             "en": "Marmara University",
