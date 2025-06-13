@@ -1678,6 +1678,10 @@
             "en": "CUSC - Centro Universitario Sao Camilo",
             "pt-br": "CUSC - Centro Universitario Sao Camilo"
         },
+        "https://idpuemasul.uemasul.edu.br/idp/shibboleth": {
+            "en": "UEMASUL - Uni.Estadual Reg.Tocantina do Maranhao",
+            "pt-br": "UEMASUL - Uni.Estadual Reg.Tocantina do Maranhao"
+        },
         "https://idpv-cafe.redesecti.ba.gov.br/idp/shibboleth": {
             "en": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia",
             "pt-br": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia"
