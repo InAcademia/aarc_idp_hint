@@ -1002,6 +1002,10 @@
             "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul",
             "pt-br": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul"
         },
+        "https://cafe.ifto.edu.br/idp/shibboleth": {
+            "en": "IFTO - Instituto Federal do Tocantins",
+            "pt-br": "IFTO - Instituto Federal do Tocantins"
+        },
         "https://cafe.ime.eb.br/idp/shibboleth": {
             "en": "IME - Instituto Militar de Engenharia",
             "pt-br": "IME - Instituto Militar de Engenharia"
@@ -1085,6 +1089,10 @@
         "https://cafe.ufnt.edu.br/idp/shibboleth": {
             "en": "UFNT - Universidade Federal do Norte do Tocantins",
             "pt-br": "UFNT - Universidade Federal do Norte do Tocantins"
+        },
+        "https://cafe.ufob.edu.br/idp/shibboleth": {
+            "en": "UFOB - Universidade Federal do Oeste da Bahia",
+            "pt-br": "UFOB - Universidade Federal do Oeste da Bahia"
         },
         "https://cafe.ufpa.br/idp/shibboleth": {
             "en": "UFPA - Universidade Federal do Para",
@@ -1806,6 +1814,10 @@
             "en": "FSCBH - Faculdade Santa Casa BH",
             "pt-br": "FSCBH - Faculdade Santa Casa BH"
         },
+        "https://shibboleth.feevale.br/idp/shibboleth": {
+            "en": "FEEVALE - Universidade Feevale",
+            "pt-br": "FEEVALE - Universidade Feevale"
+        },
         "https://shibboleth.ifal.edu.br/idp/shibboleth": {
             "en": "IFAL - Instituto Federal de Alagoas",
             "pt-br": "IFAL - Instituto Federal de Alagoas"
@@ -1833,10 +1845,6 @@
         "https://shibboleth.ifsc.edu.br/idp/shibboleth": {
             "en": "IFSC - Instituto Federal de Santa Catarina",
             "pt-br": "IFSC - Instituto Federal de Santa Catarina"
-        },
-        "https://shibboleth.ifto.edu.br/idp/shibboleth": {
-            "en": "IFTO - Instituto Federal de Educacao do Tocantins",
-            "pt-br": "IFTO - Instituto Federal de Educacao do Tocantins"
         },
         "https://shibboleth.impa.br/idp/shibboleth": {
             "en": "IMPA - Instituto de Matematica Pura e Aplicada",
@@ -1930,10 +1938,6 @@
             "en": "UERGS - Universidade Estadual do Rio Grande do Sul",
             "pt-br": "UERGS - Universidade Estadual do Rio Grande do Sul"
         },
-        "https://shibboleth1.feevale.br/idp/shibboleth": {
-            "en": "FEEVALE - Universidade Feevale",
-            "pt-br": "FEEVALE - Universidade Feevale"
-        },
         "https://shibboleth1p.sipam.gov.br/idp/shibboleth": {
             "en": "CENSIPAM - Sistema de Protecao da Amazonia",
             "pt-br": "CENSIPAM - Sistema de Protecao da Amazonia"
@@ -2021,10 +2025,6 @@
         "https://svr-cafe.unaerp.br/idp/shibboleth": {
             "en": "UNAERP - Associacao de Ensino de Ribeirao Preto",
             "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto"
-        },
-        "https://uter.ufob.edu.br/idp/shibboleth": {
-            "en": "UFOB - Universidade Federal do Oeste da Bahia",
-            "pt-br": "UFOB - Universidade Federal do Oeste da Bahia"
         },
         "https://vm-cafe.feesc.org.br/idp/shibboleth": {
             "en": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina",
