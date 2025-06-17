@@ -367,6 +367,10 @@
         "cs": "Ústav archeologické památkové péče Brno",
         "en": "Institute of Archaeological Heritage Brno"
     },
+    "https://idp.ucl.cas.cz/idp/shibboleth": {
+        "cs": "Ústav pro českou literaturu Akademie věd České republiky, v. v. i.",
+        "en": "Institute of Czech Literature of the CAS"
+    },
     "https://idp.ucp.cz/idp/shibboleth": {
         "cs": "University College Prague",
         "en": "University College Prague"

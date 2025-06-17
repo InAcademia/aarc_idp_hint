@@ -384,7 +384,7 @@
         "en": "Elon University"
     },
     "https://idp.es.net/idp/shibboleth": {
-        "en": "ESnet"
+        "en": "ESnet IDP Deprecated"
     },
     "https://idp.famu.edu:443/idp/shibboleth": {
         "en": "Florida A&M University"
@@ -852,7 +852,7 @@
         "en": "University of North Carolina at Greensboro"
     },
     "https://proxyidp.es.net/satosafrontend/proxy.xml": {
-        "en": "ESnet Satosa IDP"
+        "en": "ESnet"
     },
     "https://saml.nelnet.net": {
         "en": "Nelnet Business Solutions"
@@ -1168,6 +1168,9 @@
     },
     "https://sso.fgcu.edu/idp": {
         "en": "Florida Gulf Coast University (Cirrus Bridge)"
+    },
+    "https://sso.floridapoly.edu/idp": {
+        "en": "Florida Polytechnic University"
     },
     "https://sso.gac.edu/idp/shibboleth": {
         "en": "Gustavus Adolphus College"

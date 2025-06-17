@@ -419,6 +419,9 @@
     "https://idp.niituniversity.in/idp/shibboleth": {
         "en": "NIIT University Library and Information Resource Centre ( NU LIRC )"
     },
+    "https://idp.niperrbl.ac.in/idp/shibboleth": {
+        "en": "National Institute of Pharmaceutical Education and Research-Raebareli"
+    },
     "https://idp.nita.ac.in/idp/shibboleth": {
         "en": "National Institute of Technology Agartala"
     },

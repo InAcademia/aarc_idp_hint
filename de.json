@@ -120,8 +120,8 @@
         "en": "Leibniz Institute for Astrophysics Potsdam"
     },
     "https://idp.aiv.hfoed.de/idp/shibboleth": {
-        "de": "Hfoed - FB AIV",
-        "en": "Hfoed - FB AIV"
+        "de": "Hochschule für den öffentlichen Dienst in Bayern - Fachbereich AIV in Hof",
+        "en": "Hochschule für den öffentlichen Dienst in Bayern - Fachbereich AIV in Hof"
     },
     "https://idp.ash-berlin.eu/idp/shibboleth": {
         "de": "Alice-Salomon-Hochschule Berlin",
@@ -711,10 +711,6 @@
         "de": "Katholische Hochschule für Sozialwesen Berlin",
         "en": "Catholic University of Applied Sciences Berlin"
     },
-    "https://idp.klassik-stiftung.de/idp/shibboleth": {
-        "de": "Klassik Stiftung Weimar",
-        "en": "Klassik Stiftung Weimar"
-    },
     "https://idp.ksfh.de/idp/shibboleth": {
         "de": "Katholische Stiftungshochschule München",
         "en": "Katholische Stiftungshochschule München."
@@ -865,6 +861,10 @@
     "https://idp.thm.de/idp/shibboleth": {
         "de": "Technische Hochschule Mittelhessen",
         "en": "Technische Hochschule Mittelhessen"
+    },
+    "https://idp.tiho-hannover.de/idp/shibboleth": {
+        "de": "Stiftung Tieraerztliche Hochschule Hannover (ab Juli 25)",
+        "en": "University of Veterinary Medicine Hannover (from July 25)"
     },
     "https://idp.tu-clausthal.de/idp/shibboleth": {
         "de": "Technische Universität Clausthal",

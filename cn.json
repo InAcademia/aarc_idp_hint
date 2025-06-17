@@ -1519,6 +1519,10 @@
         "en": "Pingdingshan University",
         "zh": "平顶山学院(Pingdingshan University)"
     },
+    "https://idp.peihua.edu.cn/idp/shibboleth": {
+        "en": "Xi'an Peihua University",
+        "zh": "西安培华学院(Xi'an Peihua University)"
+    },
     "https://idp.peizheng.edu.cn/idp/shibboleth": {
         "en": "GuangDong  Peizheng College",
         "zh": "广东培正学院(GuangDong  Peizheng College)"
@@ -2510,6 +2514,10 @@
     "https://idp4.ihep.ac.cn/idp/shibboleth": {
         "en": "The Institute of High Energy Physics of The Chinese Academy of Sciences",
         "zh": "中国科学院高能物理研究所(The Institute of High Energy Physics of The Chinese Academy of Sciences)"
+    },
+    "https://idpcarsi.cdjcc.edu.cn/idp/shibboleth": {
+        "en": "Chengdu Jincheng College",
+        "zh": "成都锦城学院(Chengdu Jincheng College)"
     },
     "https://idpcarsi.hebust.edu.cn/idp/shibboleth": {
         "en": "Hebei University of Science and Technology",

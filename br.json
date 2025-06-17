@@ -91,6 +91,10 @@
         "en": "UNICSUL - Universidade Cruzeiro do Sul",
         "pt-br": "UNICSUL - Universidade Cruzeiro do Sul"
     },
+    "https://cafe.direitofranca.br/idp/shibboleth": {
+        "en": "FDF - Faculdade de Direito de Franca",
+        "pt-br": "FDF - Faculdade de Direito de Franca"
+    },
     "https://cafe.eldorado.org.br/idp/shibboleth": {
         "en": "IPE - Instituto de Pesquisas Eldorado",
         "pt-br": "IPE - Instituto de Pesquisas Eldorado"
@@ -675,10 +679,6 @@
         "en": "UESC - Universidade Estadual de Santa Cruz",
         "pt-br": "UESC - Universidade Estadual de Santa Cruz"
     },
-    "https://idp.ufac.br/idp/shibboleth": {
-        "en": "UFAC - Universidade Federal do Acre",
-        "pt-br": "UFAC - Universidade Federal do Acre"
-    },
     "https://idp.ufcat.edu.br/idp/shibboleth": {
         "en": "UFCAT - Universidade Federal de Catalao",
         "pt-br": "UFCAT - Universidade Federal de Catalao"
@@ -786,6 +786,10 @@
     "https://idp2.dmz.inpe.br/idp/shibboleth": {
         "en": "INPE - Instituto Nacional de Pesquisas Espaciais",
         "pt-br": "INPE - Instituto Nacional de Pesquisas Espaciais"
+    },
+    "https://idp2.ufac.br/idp/shibboleth": {
+        "en": "UFAC - Universidade Federal do Acre",
+        "pt-br": "UFAC - Universidade Federal do Acre"
     },
     "https://idp2.ufmt.br/idp/shibboleth": {
         "en": "UFMT - Universidade Federal de Mato Grosso",

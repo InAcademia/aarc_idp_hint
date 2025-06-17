@@ -922,6 +922,10 @@
             "en": "UNICSUL - Universidade Cruzeiro do Sul",
             "pt-br": "UNICSUL - Universidade Cruzeiro do Sul"
         },
+        "https://cafe.direitofranca.br/idp/shibboleth": {
+            "en": "FDF - Faculdade de Direito de Franca",
+            "pt-br": "FDF - Faculdade de Direito de Franca"
+        },
         "https://cafe.eldorado.org.br/idp/shibboleth": {
             "en": "IPE - Instituto de Pesquisas Eldorado",
             "pt-br": "IPE - Instituto de Pesquisas Eldorado"
@@ -1506,10 +1510,6 @@
             "en": "UESC - Universidade Estadual de Santa Cruz",
             "pt-br": "UESC - Universidade Estadual de Santa Cruz"
         },
-        "https://idp.ufac.br/idp/shibboleth": {
-            "en": "UFAC - Universidade Federal do Acre",
-            "pt-br": "UFAC - Universidade Federal do Acre"
-        },
         "https://idp.ufcat.edu.br/idp/shibboleth": {
             "en": "UFCAT - Universidade Federal de Catalao",
             "pt-br": "UFCAT - Universidade Federal de Catalao"
@@ -1617,6 +1617,10 @@
         "https://idp2.dmz.inpe.br/idp/shibboleth": {
             "en": "INPE - Instituto Nacional de Pesquisas Espaciais",
             "pt-br": "INPE - Instituto Nacional de Pesquisas Espaciais"
+        },
+        "https://idp2.ufac.br/idp/shibboleth": {
+            "en": "UFAC - Universidade Federal do Acre",
+            "pt-br": "UFAC - Universidade Federal do Acre"
         },
         "https://idp2.ufmt.br/idp/shibboleth": {
             "en": "UFMT - Universidade Federal de Mato Grosso",
@@ -4190,6 +4194,10 @@
             "en": "Pingdingshan University",
             "zh": "平顶山学院(Pingdingshan University)"
         },
+        "https://idp.peihua.edu.cn/idp/shibboleth": {
+            "en": "Xi'an Peihua University",
+            "zh": "西安培华学院(Xi'an Peihua University)"
+        },
         "https://idp.peizheng.edu.cn/idp/shibboleth": {
             "en": "GuangDong  Peizheng College",
             "zh": "广东培正学院(GuangDong  Peizheng College)"
@@ -5182,6 +5190,10 @@
             "en": "The Institute of High Energy Physics of The Chinese Academy of Sciences",
             "zh": "中国科学院高能物理研究所(The Institute of High Energy Physics of The Chinese Academy of Sciences)"
         },
+        "https://idpcarsi.cdjcc.edu.cn/idp/shibboleth": {
+            "en": "Chengdu Jincheng College",
+            "zh": "成都锦城学院(Chengdu Jincheng College)"
+        },
         "https://idpcarsi.hebust.edu.cn/idp/shibboleth": {
             "en": "Hebei University of Science and Technology",
             "zh": "河北科技大学(Hebei University of Science and Technology)"
@@ -5675,6 +5687,10 @@
         "https://idp.uapp.cz/idp/shibboleth": {
             "cs": "Ústav archeologické památkové péče Brno",
             "en": "Institute of Archaeological Heritage Brno"
+        },
+        "https://idp.ucl.cas.cz/idp/shibboleth": {
+            "cs": "Ústav pro českou literaturu Akademie věd České republiky, v. v. i.",
+            "en": "Institute of Czech Literature of the CAS"
         },
         "https://idp.ucp.cz/idp/shibboleth": {
             "cs": "University College Prague",
@@ -6307,8 +6323,8 @@
             "en": "Leibniz Institute for Astrophysics Potsdam"
         },
         "https://idp.aiv.hfoed.de/idp/shibboleth": {
-            "de": "Hfoed - FB AIV",
-            "en": "Hfoed - FB AIV"
+            "de": "Hochschule für den öffentlichen Dienst in Bayern - Fachbereich AIV in Hof",
+            "en": "Hochschule für den öffentlichen Dienst in Bayern - Fachbereich AIV in Hof"
         },
         "https://idp.ash-berlin.eu/idp/shibboleth": {
             "de": "Alice-Salomon-Hochschule Berlin",
@@ -6898,10 +6914,6 @@
             "de": "Katholische Hochschule für Sozialwesen Berlin",
             "en": "Catholic University of Applied Sciences Berlin"
         },
-        "https://idp.klassik-stiftung.de/idp/shibboleth": {
-            "de": "Klassik Stiftung Weimar",
-            "en": "Klassik Stiftung Weimar"
-        },
         "https://idp.ksfh.de/idp/shibboleth": {
             "de": "Katholische Stiftungshochschule München",
             "en": "Katholische Stiftungshochschule München."
@@ -7052,6 +7064,10 @@
         "https://idp.thm.de/idp/shibboleth": {
             "de": "Technische Hochschule Mittelhessen",
             "en": "Technische Hochschule Mittelhessen"
+        },
+        "https://idp.tiho-hannover.de/idp/shibboleth": {
+            "de": "Stiftung Tieraerztliche Hochschule Hannover (ab Juli 25)",
+            "en": "University of Veterinary Medicine Hannover (from July 25)"
         },
         "https://idp.tu-clausthal.de/idp/shibboleth": {
             "de": "Technische Universität Clausthal",
@@ -10411,8 +10427,8 @@
             "fr": "Université de Versailles St. Quentin en Yvelines"
         },
         "https://shibboleth.ens2m.fr/idp/shibboleth": {
-            "en": "ENSMM - National School of Mechanical and Microtechnology of Besançon",
-            "fr": "ENSMM - Ecole Nationale Supérieure de Mécanique et des Microtechniques de Besançon"
+            "en": "SUPMICROTECH (ENSMM) - Besançon",
+            "fr": "SUPMICROTECH (ENSMM) - Besançon"
         },
         "https://shibboleth.ensicaen.fr/idp/shibboleth": {
             "en": "ENSICAEN",
@@ -11990,6 +12006,9 @@
         },
         "https://idp.niituniversity.in/idp/shibboleth": {
             "en": "NIIT University Library and Information Resource Centre ( NU LIRC )"
+        },
+        "https://idp.niperrbl.ac.in/idp/shibboleth": {
+            "en": "National Institute of Pharmaceutical Education and Research-Raebareli"
         },
         "https://idp.nita.ac.in/idp/shibboleth": {
             "en": "National Institute of Technology Agartala"
@@ -20441,7 +20460,7 @@
             "en": "Elon University"
         },
         "https://idp.es.net/idp/shibboleth": {
-            "en": "ESnet"
+            "en": "ESnet IDP Deprecated"
         },
         "https://idp.famu.edu:443/idp/shibboleth": {
             "en": "Florida A&M University"
@@ -20909,7 +20928,7 @@
             "en": "University of North Carolina at Greensboro"
         },
         "https://proxyidp.es.net/satosafrontend/proxy.xml": {
-            "en": "ESnet Satosa IDP"
+            "en": "ESnet"
         },
         "https://saml.nelnet.net": {
             "en": "Nelnet Business Solutions"
@@ -21225,6 +21244,9 @@
         },
         "https://sso.fgcu.edu/idp": {
             "en": "Florida Gulf Coast University (Cirrus Bridge)"
+        },
+        "https://sso.floridapoly.edu/idp": {
+            "en": "Florida Polytechnic University"
         },
         "https://sso.gac.edu/idp/shibboleth": {
             "en": "Gustavus Adolphus College"
