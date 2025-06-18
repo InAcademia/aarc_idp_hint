@@ -2022,6 +2022,10 @@
             "en": "UFT - Universidade Federal do Tocantins",
             "pt-br": "UFT - Universidade Federal do Tocantins"
         },
+        "https://st1-rnp-01.fundacaowilsonpicler.org.br/idp/shibboleth": {
+            "en": "FWP - Fundacao Wilson Picler",
+            "pt-br": "FWP - Fundacao Wilson Picler"
+        },
         "https://svlapshibboleth.aeb.gov.br/idp/shibboleth": {
             "en": "AEB - Agencia Espacial Brasileira",
             "pt-br": "AEB - Agencia Espacial Brasileira"
@@ -14889,6 +14893,10 @@
         "https://sts.windows.net/25f04329-7216-46b8-91ff-d1f44baa2a21/": {
             "en": "Vonk",
             "nl": "Vonk"
+        },
+        "https://sts.windows.net/27d137e5-761f-4dc1-af88-d26430abb18f/": {
+            "en": "Wageningen University & Research (WUR) - New",
+            "nl": "Wageningen University & Research (WUR) - Nieuw"
         },
         "https://sts.windows.net/2867a850-2fe5-43f7-92b9-8e326586b667/": {
             "en": "Deltion College",
