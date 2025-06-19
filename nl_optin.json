@@ -71,10 +71,6 @@
         "en": "University of Amsterdam",
         "nl": "Universiteit van Amsterdam"
     },
-    "http://login.wur.nl/adfs/services/trust": {
-        "en": "Wageningen University & Research (WUR)",
-        "nl": "Wageningen University & Research (WUR)"
-    },
     "http://sts.talland.nl/adfs/services/trust": {
         "en": "Talland College",
         "nl": "Talland College"
@@ -154,6 +150,10 @@
     "https://sts.windows.net/25f04329-7216-46b8-91ff-d1f44baa2a21/": {
         "en": "Vonk",
         "nl": "Vonk"
+    },
+    "https://sts.windows.net/27d137e5-761f-4dc1-af88-d26430abb18f/": {
+        "en": "Wageningen University & Research (WUR) - New",
+        "nl": "Wageningen University & Research (WUR) - Nieuw"
     },
     "https://sts.windows.net/2867a850-2fe5-43f7-92b9-8e326586b667/": {
         "en": "Deltion College",
