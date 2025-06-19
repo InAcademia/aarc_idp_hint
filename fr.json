@@ -1055,6 +1055,10 @@
         "en": "Université de Bourgogne",
         "fr": "Université de Bourgogne"
     },
+    "https://shibboleth.ube.fr/idp/shibboleth": {
+        "en": "Université Bourgogne Europe",
+        "fr": "Université Bourgogne Europe"
+    },
     "https://shibboleth.univ-corse.fr/idp/shibboleth": {
         "en": "University of Corsica",
         "fr": "Université de Corse"

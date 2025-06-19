@@ -24,10 +24,6 @@
     "https://idp.dias.ie/idp/shibboleth": {
         "en": "Dublin Institute for Advanced Studies"
     },
-    "https://idp.dit.ie/idp/shibboleth": {
-        "en": "TU Dublin - City Campus",
-        "ga": "OT Baile Átha Cliath"
-    },
     "https://idp.dkit.ie/idp/shibboleth": {
         "en": "Dundalk Institute of Technology",
         "ga": "Institiúid Teicneolaíochta Dhún Dealgan"
