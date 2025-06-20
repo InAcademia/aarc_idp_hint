@@ -284,8 +284,8 @@
         "hu": "Semmelweis Egyetem Központi Azonosítás (SeKA)"
     },
     "https://sso.elkh.org/idp": {
-        "en": "ELKH Eötvös Loránd Research Network",
-        "hu": "ELKH Eötvös Loránd Kutatási Hálózat"
+        "en": "HUN-REN Hungarian Research Network",
+        "hu": "HUN-REN Magyar Kutatási Hálózat"
     },
     "https://sso.uni-corvinus.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Corvinus University of Budapest",

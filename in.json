@@ -212,6 +212,9 @@
     "https://idp.iiitn.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Information Technology, Nagpur"
     },
+    "https://idp.iiitnr.ac.in/idp/shibboleth": {
+        "en": "Dr. Shyama Prasad Mukherjee International Institute of Information Technology, Naya Raipur"
+    },
     "https://idp.iiitp.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Information Technology, Pune (IIIT Pune)"
     },
@@ -457,6 +460,9 @@
     },
     "https://idp.nluo.ac.in/idp/shibboleth": {
         "en": "National Law University Odisha"
+    },
+    "https://idp.nmu.ac.in/idp/shibboleth": {
+        "en": "Kavayitri Bahinabai Chaudhari North Maharashtra University"
     },
     "https://idp.nprcet.org/idp/shibboleth": {
         "en": "NPR College of Engineering and Technology"

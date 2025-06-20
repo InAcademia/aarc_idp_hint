@@ -11426,8 +11426,8 @@
             "hu": "Semmelweis Egyetem Központi Azonosítás (SeKA)"
         },
         "https://sso.elkh.org/idp": {
-            "en": "ELKH Eötvös Loránd Research Network",
-            "hu": "ELKH Eötvös Loránd Kutatási Hálózat"
+            "en": "HUN-REN Hungarian Research Network",
+            "hu": "HUN-REN Magyar Kutatási Hálózat"
         },
         "https://sso.uni-corvinus.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Corvinus University of Budapest",
@@ -11804,6 +11804,9 @@
         "https://idp.iiitn.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Information Technology, Nagpur"
         },
+        "https://idp.iiitnr.ac.in/idp/shibboleth": {
+            "en": "Dr. Shyama Prasad Mukherjee International Institute of Information Technology, Naya Raipur"
+        },
         "https://idp.iiitp.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Information Technology, Pune (IIIT Pune)"
         },
@@ -12049,6 +12052,9 @@
         },
         "https://idp.nluo.ac.in/idp/shibboleth": {
             "en": "National Law University Odisha"
+        },
+        "https://idp.nmu.ac.in/idp/shibboleth": {
+            "en": "Kavayitri Bahinabai Chaudhari North Maharashtra University"
         },
         "https://idp.nprcet.org/idp/shibboleth": {
             "en": "NPR College of Engineering and Technology"
@@ -17728,6 +17734,21 @@
         }
     },
     "tz": {
+        "https://idp.eastc.ac.tz/idp/shibboleth": {
+            "en": "Eastern Africa Statistical Training Centre (EASTC)"
+        },
+        "https://idp.ku.ac.tz/idp/shibboleth": {
+            "en": "Kairuki University (KU)"
+        },
+        "https://idp.muhas.ac.tz/idp/shibboleth": {
+            "en": "Muhimbili University of Health and Allied Sciences(MUHAS)"
+        },
+        "https://idp.nit.ac.tz/idp/shibboleth": {
+            "en": "National Institute of Transport (NIT)"
+        },
+        "https://idp.nm-aist.ac.tz/idp/shibboleth": {
+            "en": "The Nelson Mandela African Institution of Science and Technology (NM-AIST)"
+        },
         "https://ldap-edugain.ternet.or.tz/idp/shibboleth": {
             "en": "Tanzania Education and Research Network  (TERNET)"
         }
