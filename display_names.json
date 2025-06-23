@@ -684,6 +684,7 @@
     "https://epobf.fasoren.eduid.africa/saml2/idp/metadata.php": "Ecole Polytechnique de Ouagadougou (EPO)",
     "https://erasmus.kpsw.edu.pl/idp/shibboleth": "Kujawy and Pomorze University in Bydgoszcz",
     "https://erasmuslogin.pum.edu.pl/idp/shibboleth": "Pomeranian Medical University in Szczecin",
+    "https://eresource.nationallibrary.gov.in/idp/shibboleth": "National Library of India",
     "https://eresource.nirmauni.ac.in/idp/shibboleth": "Nirma University",
     "https://eresources.city.ac.uk/oala/metadata": "City, University of London",
     "https://eris.avu.cz/idp/shibboleth": "AVU",

@@ -11600,6 +11600,9 @@
         "https://elms.cuh.ac.in/idp/shibboleth": {
             "en": "Central University of Haryana"
         },
+        "https://eresource.nationallibrary.gov.in/idp/shibboleth": {
+            "en": "National Library of India"
+        },
         "https://eresource.nirmauni.ac.in/idp/shibboleth": {
             "en": "Nirma University"
         },
