@@ -1790,6 +1790,10 @@
             "en": "UNIP - Universidade Paulista",
             "pt-br": "UNIP - Universidade Paulista"
         },
+        "https://rpilot.unipar.br/idp/shibboleth": {
+            "en": "UNIPAR - Universidade Paranaense - v5.1.3",
+            "pt-br": "UNIPAR - Universidade Paranaense - v5.1.3"
+        },
         "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
             "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
             "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
@@ -2750,6 +2754,10 @@
             "en": "Guangzhou University",
             "zh": "广州大学(Guangzhou University)"
         },
+        "https://idp-lib.hbmu.edu.cn/idp/shibboleth": {
+            "en": "Hubei University of Medicine",
+            "zh": "湖北医药学院(Hubei University of Medicine)"
+        },
         "https://idp-lib.hifa.edu.cn/idp/shibboleth": {
             "en": "Hubei Institute of Fine Arts",
             "zh": "湖北美术学院(Hubei Institute of Fine Arts)"
@@ -2861,10 +2869,6 @@
         "https://idp-lib.utszlib.edu.cn/idp/shibboleth": {
             "en": "University Town Library of Shenzhen",
             "zh": "深圳大学城图书馆(University Town Library of Shenzhen)"
-        },
-        "https://idp-lib.whpu.edu.cn/idp/shibboleth": {
-            "en": "Wuhan Polytechnic University",
-            "zh": "武汉轻工大学(Wuhan Polytechnic University)"
         },
         "https://idp-lib.wku.edu.cn/idp/shibboleth": {
             "en": "Wenzhou-Kean University",
@@ -2993,10 +2997,6 @@
         "https://idp.bift.edu.cn/idp/shibboleth": {
             "en": "Beijing  Institute  of  Fashion  Technology",
             "zh": "北京服装学院(Beijing  Institute  of  Fashion  Technology )"
-        },
-        "https://idp.bisu.edu.cn/idp/shibboleth": {
-            "en": "Beijing International Studies University",
-            "zh": "北京第二外国语学院(Beijing International Studies University)"
         },
         "https://idp.bit.edu.cn/idp/shibboleth": {
             "en": "Beijing Institute of Technology",
@@ -3242,6 +3242,10 @@
             "en": "Chengdu University of Information Technology",
             "zh": "成都信息工程大学(Chengdu University of Information Technology)"
         },
+        "https://idp.culr.edu.cn/idp/shibboleth": {
+            "en": "China University of Labor Relations",
+            "zh": "中国劳动关系学院(China University of Labor Relations)"
+        },
         "https://idp.cumt.edu.cn/idp/shibboleth": {
             "en": "China University of Mining and Technology",
             "zh": "中国矿业大学(China University of Mining and Technology)"
@@ -3293,10 +3297,6 @@
         "https://idp.djtu.edu.cn/idp/shibboleth": {
             "en": "Dalian Jiaotong University",
             "zh": "大连交通大学(Dalian Jiaotong University)"
-        },
-        "https://idp.dlou.edu.cn/idp/shibboleth": {
-            "en": "Dalian Ocean University",
-            "zh": "大连海洋大学(Dalian Ocean University)"
         },
         "https://idp.dlu.edu.cn/idp/shibboleth": {
             "en": "DaLian University",
@@ -3485,10 +3485,6 @@
         "https://idp.gxu.edu.cn/idp/shibboleth": {
             "en": "GuangXi University",
             "zh": "广西大学(GuangXi University)"
-        },
-        "https://idp.gxufl.edu.cn/idp/shibboleth": {
-            "en": "Guangxi University Of Foreign Languages",
-            "zh": "广西外国语学院(Guangxi University Of Foreign Languages)"
         },
         "https://idp.gxust.edu.cn/idp/shibboleth": {
             "en": "Guangxi University of Science and Technology",
@@ -3829,10 +3825,6 @@
         "https://idp.jlnu.edu.cn/idp/shibboleth": {
             "en": "Jilin Normal University",
             "zh": "吉林师范大学(Jilin Normal University)"
-        },
-        "https://idp.jlsu.edu.cn/idp/shibboleth": {
-            "en": "JILIN sport university",
-            "zh": "吉林体育学院(JILIN sport university)"
         },
         "https://idp.jnmc.edu.cn/idp/shibboleth": {
             "en": "Jining Medical University",
@@ -5013,10 +5005,6 @@
         "https://idp.yctu.edu.cn/idp/shibboleth": {
             "en": "YanCheng Teachers University",
             "zh": "盐城师范学院(YanCheng Teachers University)"
-        },
-        "https://idp.ylnu.edu.cn/idp/shibboleth": {
-            "en": "Yili Normal University",
-            "zh": "伊犁师范大学(Yili Normal University)"
         },
         "https://idp.ymu.edu.cn/idp/shibboleth": {
             "en": "Yunnan Minzu University",
@@ -10206,10 +10194,6 @@
             "en": "University of Tours",
             "fr": "Université de Tours"
         },
-        "https://idp.universcience.fr/idp": {
-            "en": "Universcience-EPPDCSI",
-            "fr": "Universcience-EPPDCSI"
-        },
         "https://idp.universite-paris-saclay.fr/idp": {
             "en": "Paris-Saclay University",
             "fr": "Université Paris-Saclay"
@@ -11935,6 +11919,9 @@
         },
         "https://idp.kcesmjc.in/idp/shibboleth": {
             "en": "KCE's M. J. College, Jalgaon"
+        },
+        "https://idp.kclawhsnc.edu.in/idp/shibboleth": {
+            "en": "Kishinchand Chellaram Law College"
         },
         "https://idp.kct.ac.in/idp/shibboleth": {
             "en": "Kumaraguru College of Technology"
@@ -15365,9 +15352,6 @@
         }
     },
     "om": {
-        "http://Adfs.hct.edu.om/adfs/services/trust": {
-            "en": "University of Technology and Applied Sciences - Muscat"
-        },
         "http://adfs.asu.edu.om/adfs/services/trust": {
             "en": "A’Sharqiyah University"
         },
@@ -15380,35 +15364,17 @@
         "http://adfs.ftik.edu.om/adfs/services/trust": {
             "en": "vocational college of marine science (Al khaboura)"
         },
-        "http://adfs.gutech.edu.om/adfs/services/trust": {
-            "en": "German University of Technology"
-        },
-        "http://adfs.ibrict.edu.om/adfs/services/trust": {
-            "en": "University of Technology and Applied Science - Ibri"
-        },
         "http://adfs.ibrivtc.edu.om/adfs/services/trust": {
             "en": "Ibri Vocational College"
-        },
-        "http://adfs.ict.edu.om/adfs/services/trust": {
-            "en": "University of technology and applied science (Ibra)"
         },
         "http://adfs.imco.edu.om/adfs/services/trust": {
             "en": "International Maritime College Oman (IMCO)"
         },
-        "http://adfs.majancollege.edu.om/adfs/services/trust": {
-            "en": "Majan University College"
-        },
         "http://adfs.mcbs.edu.om/adfs/services/trust": {
             "en": "Modern College of Business & Science"
         },
-        "http://adfs.muscatcollege.edu.om/adfs/services/trust": {
-            "en": "Muscat College"
-        },
         "http://adfs.muscatuniversity.edu.om/adfs/services/trust": {
             "en": "MUSCAT UNIVERSITY"
-        },
-        "http://adfs.nct.edu.om/adfs/services/trust": {
-            "en": "University of Technology and Applied Sciences - Nizwa"
         },
         "http://adfs.ndc.edu.om/adfs/services/trust": {
             "en": "National Defense College"
@@ -15428,26 +15394,14 @@
         "http://adfs.seebvc.edu.om/adfs/services/trust": {
             "en": "Seeb Vocational College"
         },
-        "http://adfs.shct.edu.om/adfs/services/trust": {
-            "en": "University of Technology and Applied Science - Shinas"
-        },
         "http://adfs.shinasvc.edu.om/adfs/services/trust": {
             "en": "Shinas Vocational College"
         },
         "http://adfs.squ.edu.om/adfs/services/trust": {
             "en": "Sultan Qaboos University"
         },
-        "http://adfs.suc.edu.om/adfs/services/trust": {
-            "en": "Sur University College"
-        },
         "http://adfs.svc.edu.om/adfs/services/trust": {
             "en": "Salalah Vocational College"
-        },
-        "http://fs.css.edu.om/adfs/services/trust": {
-            "en": "College of Sharia Sciences"
-        },
-        "http://fs.trc.gov.om/adfs/services/trust": {
-            "en": "Research and Innovation Center"
         },
         "http://lync.mec.edu.om/adfs/services/trust": {
             "en": "Middle East College"
@@ -15461,14 +15415,8 @@
         "https://idp.css.edu.om/idp": {
             "en": "College of Shari'a Sciences (shibb)"
         },
-        "https://idp.mec.edu.om/idp": {
-            "en": "Middle East College (shibboleth)"
-        },
         "https://idp.met.gov.om/idp": {
             "en": "Directorate General Of Meteorology"
-        },
-        "https://idp.nu.edu.om/idp": {
-            "en": "National University of Science and Technology (shibbloth)"
         },
         "https://idp.sarh.om/idp": {
             "en": "Sarh"
@@ -15517,6 +15465,9 @@
         },
         "https://idpomren.su.edu.om/idp": {
             "en": "Sohar University (shibboleth)"
+        },
+        "https://omren-idp.moheri.gov.om/idp": {
+            "en": "Ministry of Higher Education, Research and Innovation"
         }
     },
     "org": {

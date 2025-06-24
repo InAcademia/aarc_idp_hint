@@ -1,7 +1,4 @@
 {
-    "http://Adfs.hct.edu.om/adfs/services/trust": {
-        "en": "University of Technology and Applied Sciences - Muscat"
-    },
     "http://adfs.asu.edu.om/adfs/services/trust": {
         "en": "A’Sharqiyah University"
     },
@@ -14,35 +11,17 @@
     "http://adfs.ftik.edu.om/adfs/services/trust": {
         "en": "vocational college of marine science (Al khaboura)"
     },
-    "http://adfs.gutech.edu.om/adfs/services/trust": {
-        "en": "German University of Technology"
-    },
-    "http://adfs.ibrict.edu.om/adfs/services/trust": {
-        "en": "University of Technology and Applied Science - Ibri"
-    },
     "http://adfs.ibrivtc.edu.om/adfs/services/trust": {
         "en": "Ibri Vocational College"
-    },
-    "http://adfs.ict.edu.om/adfs/services/trust": {
-        "en": "University of technology and applied science (Ibra)"
     },
     "http://adfs.imco.edu.om/adfs/services/trust": {
         "en": "International Maritime College Oman (IMCO)"
     },
-    "http://adfs.majancollege.edu.om/adfs/services/trust": {
-        "en": "Majan University College"
-    },
     "http://adfs.mcbs.edu.om/adfs/services/trust": {
         "en": "Modern College of Business & Science"
     },
-    "http://adfs.muscatcollege.edu.om/adfs/services/trust": {
-        "en": "Muscat College"
-    },
     "http://adfs.muscatuniversity.edu.om/adfs/services/trust": {
         "en": "MUSCAT UNIVERSITY"
-    },
-    "http://adfs.nct.edu.om/adfs/services/trust": {
-        "en": "University of Technology and Applied Sciences - Nizwa"
     },
     "http://adfs.ndc.edu.om/adfs/services/trust": {
         "en": "National Defense College"
@@ -62,26 +41,14 @@
     "http://adfs.seebvc.edu.om/adfs/services/trust": {
         "en": "Seeb Vocational College"
     },
-    "http://adfs.shct.edu.om/adfs/services/trust": {
-        "en": "University of Technology and Applied Science - Shinas"
-    },
     "http://adfs.shinasvc.edu.om/adfs/services/trust": {
         "en": "Shinas Vocational College"
     },
     "http://adfs.squ.edu.om/adfs/services/trust": {
         "en": "Sultan Qaboos University"
     },
-    "http://adfs.suc.edu.om/adfs/services/trust": {
-        "en": "Sur University College"
-    },
     "http://adfs.svc.edu.om/adfs/services/trust": {
         "en": "Salalah Vocational College"
-    },
-    "http://fs.css.edu.om/adfs/services/trust": {
-        "en": "College of Sharia Sciences"
-    },
-    "http://fs.trc.gov.om/adfs/services/trust": {
-        "en": "Research and Innovation Center"
     },
     "http://lync.mec.edu.om/adfs/services/trust": {
         "en": "Middle East College"
@@ -95,14 +62,8 @@
     "https://idp.css.edu.om/idp": {
         "en": "College of Shari'a Sciences (shibb)"
     },
-    "https://idp.mec.edu.om/idp": {
-        "en": "Middle East College (shibboleth)"
-    },
     "https://idp.met.gov.om/idp": {
         "en": "Directorate General Of Meteorology"
-    },
-    "https://idp.nu.edu.om/idp": {
-        "en": "National University of Science and Technology (shibbloth)"
     },
     "https://idp.sarh.om/idp": {
         "en": "Sarh"
@@ -151,5 +112,8 @@
     },
     "https://idpomren.su.edu.om/idp": {
         "en": "Sohar University (shibboleth)"
+    },
+    "https://omren-idp.moheri.gov.om/idp": {
+        "en": "Ministry of Higher Education, Research and Innovation"
     }
 }
