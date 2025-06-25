@@ -27,9 +27,9 @@
         "bg": "Лабораторията по телематика",
         "en": "Laboratory of Telematics"
     },
-    "https://idp.natfiz.bg:8888/idp/shibboleth": {
+    "https://idp.natfiz.bg/idp/shibboleth": {
         "bg": "Националната академия за театрално и филмово изкуство - Кръстьо Сарафов",
-        "en": "National Academy of Theater and Film Arts - Kr. Sarafov"
+        "en": "National Academy of Theater and Film Arts - Krastyo Sarafov"
     },
     "https://idp.naval-acad.bg/idp/shibboleth": {
         "bg": "Висше военноморско училище \"Н. Й. Вапцаров\"",

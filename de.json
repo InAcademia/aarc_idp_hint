@@ -107,6 +107,10 @@
         "de": "DHBW Mosbach",
         "en": "DHBW Mosbach"
     },
+    "https://idp-proxy.vhb.org/idp/shibboleth": {
+        "de": "VHB Where are you from Service",
+        "en": "VHB Where are you from Service"
+    },
     "https://idp-serv.uni-magdeburg.de/idp/shibboleth": {
         "de": "Otto-von-Guericke-Universität Magdeburg",
         "en": "Otto-von-Guericke-University Magdeburg"

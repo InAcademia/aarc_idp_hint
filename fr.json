@@ -859,6 +859,10 @@
         "en": "Université Paris 8 - Vincennes",
         "fr": "Université Paris 8 - Vincennes"
     },
+    "https://idp2.universcience.fr/idp/shibboleth": {
+        "en": "Universcience-EPPDCSI",
+        "fr": "Universcience-EPPDCSI"
+    },
     "https://idp3.cyceron.fr/idp/shibboleth": {
         "en": "Cyceron",
         "fr": "Cyceron"

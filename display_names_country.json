@@ -781,9 +781,9 @@
             "bg": "Лабораторията по телематика",
             "en": "Laboratory of Telematics"
         },
-        "https://idp.natfiz.bg:8888/idp/shibboleth": {
+        "https://idp.natfiz.bg/idp/shibboleth": {
             "bg": "Националната академия за театрално и филмово изкуство - Кръстьо Сарафов",
-            "en": "National Academy of Theater and Film Arts - Kr. Sarafov"
+            "en": "National Academy of Theater and Film Arts - Krastyo Sarafov"
         },
         "https://idp.naval-acad.bg/idp/shibboleth": {
             "bg": "Висше военноморско училище \"Н. Й. Вапцаров\"",
@@ -6302,6 +6302,10 @@
             "de": "DHBW Mosbach",
             "en": "DHBW Mosbach"
         },
+        "https://idp-proxy.vhb.org/idp/shibboleth": {
+            "de": "VHB Where are you from Service",
+            "en": "VHB Where are you from Service"
+        },
         "https://idp-serv.uni-magdeburg.de/idp/shibboleth": {
             "de": "Otto-von-Guericke-Universität Magdeburg",
             "en": "Otto-von-Guericke-University Magdeburg"
@@ -10261,6 +10265,10 @@
         "https://idp2.univ-paris8.fr/idp/shibboleth": {
             "en": "Université Paris 8 - Vincennes",
             "fr": "Université Paris 8 - Vincennes"
+        },
+        "https://idp2.universcience.fr/idp/shibboleth": {
+            "en": "Universcience-EPPDCSI",
+            "fr": "Universcience-EPPDCSI"
         },
         "https://idp3.cyceron.fr/idp/shibboleth": {
             "en": "Cyceron",
@@ -15358,9 +15366,6 @@
         "http://adfs.brm-vtc.edu.om/adfs/services/trust": {
             "en": "Al Buraimi Vocational College"
         },
-        "http://adfs.du.edu.om/adfs/services/trust": {
-            "en": "Dhofar University (shibboleth)"
-        },
         "http://adfs.ftik.edu.om/adfs/services/trust": {
             "en": "vocational college of marine science (Al khaboura)"
         },
@@ -15415,6 +15420,9 @@
         "https://idp.css.edu.om/idp": {
             "en": "College of Shari'a Sciences (shibb)"
         },
+        "https://idp.du.edu.om/idp": {
+            "en": "Dhofar University"
+        },
         "https://idp.met.gov.om/idp": {
             "en": "Directorate General Of Meteorology"
         },
@@ -15438,6 +15446,9 @@
         },
         "https://idp02.ibrict.edu.om/idp": {
             "en": "University of Technology and Applied Science - Ibri (Shibboleth)"
+        },
+        "https://idpomren.asds.edu.om/idp": {
+            "en": "Academy of Strategic and Defense Studies"
         },
         "https://idpomren.gutech.edu.om/idp": {
             "en": "German University of Technology in Oman - GUtech (Shibboleth)"
@@ -17653,10 +17664,6 @@
         "https://yetkim.okan.edu.tr/idp/shibboleth": {
             "en": "Istanbul Okan University",
             "tr": "İstanbul Okan Üniversitesi"
-        },
-        "https://yetkim.ostimteknik.edu.tr/idp/shibboleth": {
-            "en": "OSTIM Technical University",
-            "tr": "OSTİM Teknik Üniversitesi"
         },
         "https://yetkim.ozyegin.edu.tr/idp/shibboleth": {
             "en": "Ozyegin University",

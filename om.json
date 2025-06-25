@@ -5,9 +5,6 @@
     "http://adfs.brm-vtc.edu.om/adfs/services/trust": {
         "en": "Al Buraimi Vocational College"
     },
-    "http://adfs.du.edu.om/adfs/services/trust": {
-        "en": "Dhofar University (shibboleth)"
-    },
     "http://adfs.ftik.edu.om/adfs/services/trust": {
         "en": "vocational college of marine science (Al khaboura)"
     },
@@ -62,6 +59,9 @@
     "https://idp.css.edu.om/idp": {
         "en": "College of Shari'a Sciences (shibb)"
     },
+    "https://idp.du.edu.om/idp": {
+        "en": "Dhofar University"
+    },
     "https://idp.met.gov.om/idp": {
         "en": "Directorate General Of Meteorology"
     },
@@ -85,6 +85,9 @@
     },
     "https://idp02.ibrict.edu.om/idp": {
         "en": "University of Technology and Applied Science - Ibri (Shibboleth)"
+    },
+    "https://idpomren.asds.edu.om/idp": {
+        "en": "Academy of Strategic and Defense Studies"
     },
     "https://idpomren.gutech.edu.om/idp": {
         "en": "German University of Technology in Oman - GUtech (Shibboleth)"
