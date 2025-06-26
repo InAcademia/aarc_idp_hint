@@ -83,6 +83,10 @@
         "en": "Apor Vilmos Catholic College",
         "hu": "Apor Vilmos Katolikus Főiskola"
     },
+    "https://idp.bme.hu/idp/shibboleth": {
+        "en": "Budapest University of Technology and Economics NEW",
+        "hu": "Budapesti Műszaki és Gazdaságtudományi Egyetem ÚJ"
+    },
     "https://idp.brc.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Biological Research Centre, Szeged",
         "hu": "Szegedi Biológiai Kutatóközpont"

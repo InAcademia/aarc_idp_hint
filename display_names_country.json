@@ -11217,6 +11217,10 @@
             "en": "Apor Vilmos Catholic College",
             "hu": "Apor Vilmos Katolikus Főiskola"
         },
+        "https://idp.bme.hu/idp/shibboleth": {
+            "en": "Budapest University of Technology and Economics NEW",
+            "hu": "Budapesti Műszaki és Gazdaságtudományi Egyetem ÚJ"
+        },
         "https://idp.brc.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Biological Research Centre, Szeged",
             "hu": "Szegedi Biológiai Kutatóközpont"
@@ -14910,6 +14914,10 @@
             "en": "De Rooi Pannen",
             "nl": "De Rooi Pannen"
         },
+        "https://sts.windows.net/2d07733e-ab7b-4801-80a5-58f6455c7e90/": {
+            "en": "ROC Nijmegen (Entra ID)",
+            "nl": "ROC Nijmegen (Entra ID)"
+        },
         "https://sts.windows.net/2da0953e-a153-46b0-8a26-934d1d2785ab/": {
             "en": "ZonMw",
             "nl": "ZonMw"
@@ -15421,7 +15429,7 @@
             "en": "College of Shari'a Sciences (shibb)"
         },
         "https://idp.du.edu.om/idp": {
-            "en": "Dhofar University"
+            "en": "Dhofar University (shibboleth)"
         },
         "https://idp.met.gov.om/idp": {
             "en": "Directorate General Of Meteorology"
@@ -20269,9 +20277,6 @@
         "https://fim.temple.edu/idp/shibboleth": {
             "en": "Temple University"
         },
-        "https://fsr.uchc.edu/adfs/services/trust": {
-            "en": "UCONN HEALTH"
-        },
         "https://hartnell.edu/idp": {
             "en": "Hartnell Community College District"
         },
@@ -21360,6 +21365,9 @@
         },
         "https://sso.uah.edu/idp/shibboleth": {
             "en": "University of Alabama in Huntsville"
+        },
+        "https://sso.uchc.edu/idp": {
+            "en": "UConn Health"
         },
         "https://sso.udmercy.edu/idp": {
             "en": "University of Detroit Mercy"

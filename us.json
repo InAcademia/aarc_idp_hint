@@ -203,9 +203,6 @@
     "https://fim.temple.edu/idp/shibboleth": {
         "en": "Temple University"
     },
-    "https://fsr.uchc.edu/adfs/services/trust": {
-        "en": "UCONN HEALTH"
-    },
     "https://hartnell.edu/idp": {
         "en": "Hartnell Community College District"
     },
@@ -1294,6 +1291,9 @@
     },
     "https://sso.uah.edu/idp/shibboleth": {
         "en": "University of Alabama in Huntsville"
+    },
+    "https://sso.uchc.edu/idp": {
+        "en": "UConn Health"
     },
     "https://sso.udmercy.edu/idp": {
         "en": "University of Detroit Mercy"
