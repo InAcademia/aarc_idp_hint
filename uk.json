@@ -1109,6 +1109,9 @@
     "https://idp.uel.ac.uk/shibboleth": {
         "en": "University of East London"
     },
+    "https://idp.ukhsa.gov.uk/entity": {
+        "en": "UK Health Security Agency (UKHSA)"
+    },
     "https://idp.ulster.ac.uk/shibboleth": {
         "en": "Ulster University"
     },

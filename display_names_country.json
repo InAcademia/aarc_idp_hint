@@ -6303,8 +6303,8 @@
             "en": "DHBW Mosbach"
         },
         "https://idp-proxy.vhb.org/idp/shibboleth": {
-            "de": "VHB Where are you from Service",
-            "en": "VHB Where are you from Service"
+            "de": "vhb Proxy IDP",
+            "en": "vhb Proxy IDP"
         },
         "https://idp-serv.uni-magdeburg.de/idp/shibboleth": {
             "de": "Otto-von-Guericke-Universität Magdeburg",
@@ -8407,10 +8407,6 @@
         "https://login.uotavalo.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad de Otavalo - uotavalo",
             "es": "Universidad de Otavalo - uotavalo"
-        },
-        "https://login.upacifico.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Universidad del Pacífico - upacifico",
-            "es": "Universidad del Pacífico - upacifico"
         },
         "https://login.upec.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Politecnica Estatal del Carchi - upec",
@@ -11234,8 +11230,8 @@
             "hu": "Debreceni Református Hittudományi Egyetem"
         },
         "https://idp.ecolres.hu/idp/shibboleth": {
-            "en": "Centre for Ecological Research",
-            "hu": "Ökológiai Kutatóközpont"
+            "en": "HUN-REN Centre for Ecological Research",
+            "hu": "HUN-REN Ökológiai Kutatóközpont"
         },
         "https://idp.ejf.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Eötvös József College",
@@ -14682,10 +14678,6 @@
             "en": "Antoni van Leeuwenhoek - Netherlands Cancer Institute",
             "nl": "Antoni van Leeuwenhoek - Nederlands Kanker Instituut"
         },
-        "http://login.roc-nijmegen.nl/adfs/services/trust": {
-            "en": "ROC Nijmegen",
-            "nl": "ROC Nijmegen"
-        },
         "http://login.scp.nl/adfs/services/trust": {
             "en": "The Netherlands Institute for Social Research",
             "nl": "Sociaal en Cultureel Planbureau"
@@ -14915,8 +14907,8 @@
             "nl": "De Rooi Pannen"
         },
         "https://sts.windows.net/2d07733e-ab7b-4801-80a5-58f6455c7e90/": {
-            "en": "ROC Nijmegen (Entra ID)",
-            "nl": "ROC Nijmegen (Entra ID)"
+            "en": "ROC Nijmegen",
+            "nl": "ROC Nijmegen"
         },
         "https://sts.windows.net/2da0953e-a153-46b0-8a26-934d1d2785ab/": {
             "en": "ZonMw",
@@ -15433,6 +15425,9 @@
         },
         "https://idp.met.gov.om/idp": {
             "en": "Directorate General Of Meteorology"
+        },
+        "https://idp.omren.om/idp": {
+            "en": "Oman Research and Education Network (OMREN_shibboleth)"
         },
         "https://idp.sarh.om/idp": {
             "en": "Sarh"
@@ -19446,6 +19441,9 @@
         },
         "https://idp.uel.ac.uk/shibboleth": {
             "en": "University of East London"
+        },
+        "https://idp.ukhsa.gov.uk/entity": {
+            "en": "UK Health Security Agency (UKHSA)"
         },
         "https://idp.ulster.ac.uk/shibboleth": {
             "en": "Ulster University"

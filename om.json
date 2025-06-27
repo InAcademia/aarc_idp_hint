@@ -65,6 +65,9 @@
     "https://idp.met.gov.om/idp": {
         "en": "Directorate General Of Meteorology"
     },
+    "https://idp.omren.om/idp": {
+        "en": "Oman Research and Education Network (OMREN_shibboleth)"
+    },
     "https://idp.sarh.om/idp": {
         "en": "Sarh"
     },
