@@ -2251,6 +2251,9 @@
         "https://idp.uleth.ca/idp/shibboleth": {
             "en": "University of Lethbridge"
         },
+        "https://idp.umoncton.ca/idp": {
+            "en": "Université de Moncton"
+        },
         "https://idp.unb.ca/idp/shibboleth": {
             "en": "University of New Brunswick"
         },
@@ -3578,6 +3581,10 @@
             "en": "Hebei Agricultural University",
             "zh": "河北农业大学(Hebei Agricultural University )"
         },
+        "https://idp.hebeinu.edu.cn/idp/shibboleth": {
+            "en": "Hebei North University",
+            "zh": "河北北方学院(Hebei North University)"
+        },
         "https://idp.hebeu.edu.cn/idp/shibboleth": {
             "en": "Hebei University of Engineering",
             "zh": "河北工程大学(Hebei University of Engineering)"
@@ -4485,6 +4492,10 @@
         "https://idp.stdu.edu.cn/idp/shibboleth": {
             "en": "Shijiazhuang Tiedao University",
             "zh": "石家庄铁道大学(Shijiazhuang Tiedao University)"
+        },
+        "https://idp.sti.edu.cn/idp/shibboleth": {
+            "en": "Shanghai Teacher Institute",
+            "zh": "上海市教师教育学院(上海市教育委员会教学研究室)(Shanghai Teacher Institute)"
         },
         "https://idp.suat-sz.edu.cn/idp/shibboleth": {
             "en": "Shenzhen University of Advanced Technology",
@@ -7273,10 +7284,6 @@
             "de": "Technische Hochschule Aschaffenburg",
             "en": "Technische Hochschule Aschaffenburg"
         },
-        "https://idpdomain.fhhrz.net/idp/shibboleth": {
-            "de": "HeHRZ Darmstadt",
-            "en": "HeHRZ Darmstadt"
-        },
         "https://idpka.uni-muenster.de/idp/shibboleth": {
             "de": "Kunstakademie Münster",
             "en": "Kunstakademie Münster"
@@ -7440,6 +7447,10 @@
         "https://meet-sso.conf.dfn.de/idp/shibboleth": {
             "de": "DFNconf eduMEET SSO",
             "en": "DFNconf eduMEET SSO"
+        },
+        "https://multipass.constructor.university/idp/shibboleth": {
+            "de": "Constructor University Bremen",
+            "en": "Constructor University Bremen"
         },
         "https://my.arthistoricum.net": {
             "de": "Arthistoricum.net - Fachinformationsdienst Kunst, Fotographie, Design",

@@ -190,6 +190,9 @@
     "https://idp.uleth.ca/idp/shibboleth": {
         "en": "University of Lethbridge"
     },
+    "https://idp.umoncton.ca/idp": {
+        "en": "Université de Moncton"
+    },
     "https://idp.unb.ca/idp/shibboleth": {
         "en": "University of New Brunswick"
     },

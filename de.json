@@ -1078,10 +1078,6 @@
         "de": "Technische Hochschule Aschaffenburg",
         "en": "Technische Hochschule Aschaffenburg"
     },
-    "https://idpdomain.fhhrz.net/idp/shibboleth": {
-        "de": "HeHRZ Darmstadt",
-        "en": "HeHRZ Darmstadt"
-    },
     "https://idpka.uni-muenster.de/idp/shibboleth": {
         "de": "Kunstakademie Münster",
         "en": "Kunstakademie Münster"
@@ -1245,6 +1241,10 @@
     "https://meet-sso.conf.dfn.de/idp/shibboleth": {
         "de": "DFNconf eduMEET SSO",
         "en": "DFNconf eduMEET SSO"
+    },
+    "https://multipass.constructor.university/idp/shibboleth": {
+        "de": "Constructor University Bremen",
+        "en": "Constructor University Bremen"
     },
     "https://my.arthistoricum.net": {
         "de": "Arthistoricum.net - Fachinformationsdienst Kunst, Fotographie, Design",
