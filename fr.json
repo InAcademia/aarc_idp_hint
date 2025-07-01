@@ -911,6 +911,10 @@
         "en": "Institut Mines Telecom Business School and Telecom SudParis (v4)",
         "fr": "Institut Mines Telecom Business School et Telecom SudParis (v4)"
     },
+    "https://idpulco.univ-littoral.fr/idp/shibboleth": {
+        "en": "Universite du Littoral Cote d'Opale (new)",
+        "fr": "Université du Littoral Côte d'Opale (nouveau)"
+    },
     "https://idpv3.crous-versailles.fr/idp/shibboleth": {
         "en": "CROUS Versailles V3",
         "fr": "CROUS Versailles V3"

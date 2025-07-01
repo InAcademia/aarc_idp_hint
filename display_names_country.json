@@ -356,6 +356,9 @@
         "https://aaf-login.uts.edu.au/idp/shibboleth": {
             "en": "University of Technology Sydney"
         },
+        "https://aaf.garvan.org.au/idp/shibboleth": {
+            "en": "The Garvan Institute of Medical Research"
+        },
         "https://aaf.unsw.edu.au/idp/shibboleth": {
             "en": "The University of New South Wales (UNSW)"
         },
@@ -1146,10 +1149,6 @@
             "en": "UNICAMP - Universidade Estadual de Campinas",
             "pt-br": "UNICAMP - Universidade Estadual de Campinas"
         },
-        "https://cafe.unifesspa.edu.br/idp/shibboleth": {
-            "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
-            "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
-        },
         "https://cafe.unifor.br/idp/shibboleth": {
             "en": "UNIFOR - Universidade de Fortaleza",
             "pt-br": "UNIFOR - Universidade de Fortaleza"
@@ -1193,6 +1192,10 @@
         "https://cafe2.unesp.br/idp/shibboleth": {
             "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
             "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
+        },
+        "https://cafe2.unifesspa.edu.br/idp/shibboleth": {
+            "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
+            "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
         },
         "https://cafe2.unoeste.br/idp/shibboleth": {
             "en": "UNOESTE - Universidade do Oeste Paulista",
@@ -5699,10 +5702,6 @@
             "cs": "Ústav pro českou literaturu Akademie věd České republiky, v. v. i.",
             "en": "Institute of Czech Literature of the CAS"
         },
-        "https://idp.ucp.cz/idp/shibboleth": {
-            "cs": "University College Prague",
-            "en": "University College Prague"
-        },
         "https://idp.udu.cas.cz/idp/shibboleth": {
             "cs": "Ústav dějin umění Akademie věd ČR, v.v.i",
             "en": "Institute of Art History of the Academy of Sciences of the Czech Republic"
@@ -7605,8 +7604,8 @@
             "en": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen"
         },
         "https://shibboleth-idp.hbz-nrw.de/idp/shibboleth": {
-            "de": "Hochschulbibliothekszentrum NRW (hbz) - Identitätserbringung  (IdP)",
-            "en": "Hochschulbibliothekszentrum NRW (hbz) - Identity Provider (IdP)"
+            "de": "Hochschulbibliothekszentrum NRW (hbz)",
+            "en": "Hochschulbibliothekszentrum NRW (hbz)"
         },
         "https://shibboleth-idp.ifo.de/idp/shibboleth": {
             "de": "ifo Institut",
@@ -10328,6 +10327,10 @@
         "https://idpr4.imtbs-tsp.eu/idp/shibboleth": {
             "en": "Institut Mines Telecom Business School and Telecom SudParis (v4)",
             "fr": "Institut Mines Telecom Business School et Telecom SudParis (v4)"
+        },
+        "https://idpulco.univ-littoral.fr/idp/shibboleth": {
+            "en": "Universite du Littoral Cote d'Opale (new)",
+            "fr": "Université du Littoral Côte d'Opale (nouveau)"
         },
         "https://idpv3.crous-versailles.fr/idp/shibboleth": {
             "en": "CROUS Versailles V3",
@@ -15436,7 +15439,7 @@
             "en": "College of Shari'a Sciences (shibb)"
         },
         "https://idp.du.edu.om/idp": {
-            "en": "Dhofar University (shibboleth)"
+            "en": "Dhofar University (shibboleth_IDP)"
         },
         "https://idp.met.gov.om/idp": {
             "en": "Directorate General Of Meteorology"
@@ -20937,6 +20940,9 @@
         },
         "https://proxyidp.es.net/satosafrontend/proxy.xml": {
             "en": "ESnet"
+        },
+        "https://saml-idp.wou.edu": {
+            "en": "Western Oregon University SSO"
         },
         "https://saml.nelnet.net": {
             "en": "Nelnet Business Solutions"

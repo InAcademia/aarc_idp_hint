@@ -315,10 +315,6 @@
         "en": "UNICAMP - Universidade Estadual de Campinas",
         "pt-br": "UNICAMP - Universidade Estadual de Campinas"
     },
-    "https://cafe.unifesspa.edu.br/idp/shibboleth": {
-        "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
-        "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
-    },
     "https://cafe.unifor.br/idp/shibboleth": {
         "en": "UNIFOR - Universidade de Fortaleza",
         "pt-br": "UNIFOR - Universidade de Fortaleza"
@@ -362,6 +358,10 @@
     "https://cafe2.unesp.br/idp/shibboleth": {
         "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
         "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
+    },
+    "https://cafe2.unifesspa.edu.br/idp/shibboleth": {
+        "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
+        "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
     },
     "https://cafe2.unoeste.br/idp/shibboleth": {
         "en": "UNOESTE - Universidade do Oeste Paulista",

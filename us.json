@@ -851,6 +851,9 @@
     "https://proxyidp.es.net/satosafrontend/proxy.xml": {
         "en": "ESnet"
     },
+    "https://saml-idp.wou.edu": {
+        "en": "Western Oregon University SSO"
+    },
     "https://saml.nelnet.net": {
         "en": "Nelnet Business Solutions"
     },
