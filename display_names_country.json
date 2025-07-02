@@ -4682,7 +4682,7 @@
         },
         "https://idp.tsnu.edu.cn/idp/shibboleth": {
             "en": "Tianshui Normal University",
-            "zh": "天水师范学院(Tianshui Normal University)"
+            "zh": "天水师范大学(Tianshui Normal University)"
         },
         "https://idp.tsu.edu.cn/idp/shibboleth": {
             "en": "Taishan University",
@@ -6352,10 +6352,6 @@
             "de": "Berufliche Hochschule Hamburg",
             "en": "Berufliche Hochschule Hamburg"
         },
-        "https://idp.bib.de/idp/shibboleth": {
-            "de": "bib International College",
-            "en": "bib International College"
-        },
         "https://idp.biochem.mpg.de/idp/shibboleth": {
             "de": "MPI fuer Biochemie",
             "en": "MPI of Biochemistry"
@@ -6375,10 +6371,6 @@
         "https://idp.burg-halle.de/idp/shibboleth": {
             "de": "Burg Giebichenstein Kunsthochschule Halle",
             "en": "Burg Giebichenstein University of Art and Design Halle"
-        },
-        "https://idp.cas.dhbw.de/idp/shibboleth": {
-            "de": "DHBW CAS",
-            "en": "DHBW CAS"
         },
         "https://idp.cit.frankfurt-university.de/idp/shibboleth": {
             "de": "Frankfurt University of Applied Sciences",
@@ -6464,10 +6456,6 @@
             "de": "ESMT Berlin",
             "en": "ESMT Berlin"
         },
-        "https://idp.eso.org/idp/shibboleth": {
-            "de": "ESO - European Southern Observatory",
-            "en": "ESO - European Southern Observatory"
-        },
         "https://idp.europa-uni.de/idp/shibboleth": {
             "de": "Europa-Universität Viadrina",
             "en": "Europa-Universität Viadrina"
@@ -6523,10 +6511,6 @@
         "https://idp.fhws.de/idp/shibboleth": {
             "de": "Technische Hochschule Würzburg-Schweinfurt",
             "en": "Technische Hochschule Würzburg-Schweinfurt"
-        },
-        "https://idp.filmakademie.de/idp/shibboleth": {
-            "de": "Filmakademie Baden-Wuerttemberg (Prod)",
-            "en": "Filmakademie Baden-Wuerttemberg (Prod)"
         },
         "https://idp.fiz-karlsruhe.de/idp/shibboleth": {
             "de": "FIZ Karlsruhe",
@@ -6612,10 +6596,6 @@
             "de": "IDP HeHRZ Darmstadt",
             "en": "HeHRZ Darmstadt"
         },
-        "https://idp.heilbronn.dhbw.de/idp/shibboleth": {
-            "de": "DHBW Heilbronn",
-            "en": "DHBW Heilbronn"
-        },
         "https://idp.helmholtz-berlin.de/idp/shibboleth": {
             "de": "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB)",
             "en": "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB)"
@@ -6683,10 +6663,6 @@
         "https://idp.hmtm-hannover.de/idp/shibboleth": {
             "de": "Hochschule für Musik, Theater und Medien Hannover",
             "en": "Hanover University of Music, Drama and Media"
-        },
-        "https://idp.hochschule-bc.de/idp/shibboleth": {
-            "de": "Hochschule Biberach",
-            "en": "Hochschule Biberach"
         },
         "https://idp.hochschule-stralsund.de/idp/shibboleth": {
             "de": "Hochschule Stralsund - University of Applied Sciences",
@@ -6896,10 +6872,6 @@
             "de": "Leibniz-Institut fuer Analytische Wissenschaften - ISAS - e.V.",
             "en": "Leibniz-Institut fuer Analytische Wissenschaften - ISAS - e.V."
         },
-        "https://idp.ism.de/idp/shibboleth": {
-            "de": "ISM International School of Management",
-            "en": "ISM International School of Management"
-        },
         "https://idp.itmc.tu-dortmund.de/idp/shibboleth": {
             "de": "Technische Universität Dortmund",
             "en": "Technische Universität Dortmund"
@@ -7076,8 +7048,8 @@
             "en": "Technische Hochschule Mittelhessen"
         },
         "https://idp.tiho-hannover.de/idp/shibboleth": {
-            "de": "Stiftung Tieraerztliche Hochschule Hannover (ab Juli 25)",
-            "en": "University of Veterinary Medicine Hannover (from July 25)"
+            "de": "Stiftung Tieraerztliche Hochschule Hannover",
+            "en": "University of Veterinary Medicine Hannover"
         },
         "https://idp.tu-clausthal.de/idp/shibboleth": {
             "de": "Technische Universität Clausthal",
@@ -7267,10 +7239,6 @@
             "de": "Hochschule für Technik und Wirtschaft Dresden",
             "en": "University of Applied Sciences Dresden"
         },
-        "https://idp2.jacobs-university.de/idp/shibboleth": {
-            "de": "Constructor University Bremen gGmbH",
-            "en": "Constructor University Bremen gGmbH"
-        },
         "https://idp2.maxrubner.de/idp/shibboleth": {
             "de": "Max Rubner-Institut",
             "en": "Max Rubner-Institute"
@@ -7280,8 +7248,8 @@
             "en": "Rheinische Hochschule Köln gGmbH"
         },
         "https://idp4.tiho-hannover.de/idp/shibboleth": {
-            "de": "Stiftung Tieraerztliche Hochschule Hannover (eduGAIN)",
-            "en": "University of Veterinary Medicine Hannover (eduGAIN)"
+            "de": "Stiftung Tieraerztliche Hochschule Hannover (alt)",
+            "en": "University of Veterinary Medicine Hannover (old)"
         },
         "https://idpc.th-ab.de/idp/shibboleth": {
             "de": "Technische Hochschule Aschaffenburg",
@@ -7694,10 +7662,6 @@
         "https://shibweb1.hs-nordhausen.de/idp/shibboleth": {
             "de": "Hochschule Nordhausen",
             "en": "University of Applied Sciences Nordhausen"
-        },
-        "https://sinope.uni-erfurt.de/idp/shibboleth": {
-            "de": "Universität Erfurt",
-            "en": "University of Erfurt"
         },
         "https://srv-idp-001.hs-mainz.de/idp/shibboleth": {
             "de": "Hochschule Mainz",
@@ -13863,6 +13827,10 @@
         "https://sso.vu.lt/SSO/saml2/idp/metadata.php": {
             "en": "Vilnius University",
             "lt": "Vilniaus universitetas"
+        },
+        "https://vda.sso.litnet.lt/saml-idp": {
+            "en": "Vilnius Academy of Arts",
+            "lt": "Vilniaus dailės akademija"
         },
         "https://vdu.sso.litnet.lt/auth/saml2/idp/metadata.php": {
             "en": "Vytautas Magnus University",

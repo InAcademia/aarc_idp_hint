@@ -87,6 +87,10 @@
         "en": "Vilnius University",
         "lt": "Vilniaus universitetas"
     },
+    "https://vda.sso.litnet.lt/saml-idp": {
+        "en": "Vilnius Academy of Arts",
+        "lt": "Vilniaus dailės akademija"
+    },
     "https://vdu.sso.litnet.lt/auth/saml2/idp/metadata.php": {
         "en": "Vytautas Magnus University",
         "lt": "Vytauto Didžiojo universitetas"
