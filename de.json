@@ -247,6 +247,10 @@
         "de": "ESMT Berlin",
         "en": "ESMT Berlin"
     },
+    "https://idp.eso.org/idp/shibboleth": {
+        "de": "ESO - European Southern Observatory",
+        "en": "ESO - European Southern Observatory"
+    },
     "https://idp.europa-uni.de/idp/shibboleth": {
         "de": "Europa-Universität Viadrina",
         "en": "Europa-Universität Viadrina"
@@ -454,6 +458,10 @@
     "https://idp.hmtm-hannover.de/idp/shibboleth": {
         "de": "Hochschule für Musik, Theater und Medien Hannover",
         "en": "Hanover University of Music, Drama and Media"
+    },
+    "https://idp.hochschule-bc.de/idp/shibboleth": {
+        "de": "Hochschule Biberach",
+        "en": "Hochschule Biberach"
     },
     "https://idp.hochschule-stralsund.de/idp/shibboleth": {
         "de": "Hochschule Stralsund - University of Applied Sciences",
@@ -1453,6 +1461,10 @@
     "https://shibweb1.hs-nordhausen.de/idp/shibboleth": {
         "de": "Hochschule Nordhausen",
         "en": "University of Applied Sciences Nordhausen"
+    },
+    "https://sinope.uni-erfurt.de/idp/shibboleth": {
+        "de": "Universität Erfurt",
+        "en": "University of Erfurt"
     },
     "https://srv-idp-001.hs-mainz.de/idp/shibboleth": {
         "de": "Hochschule Mainz",

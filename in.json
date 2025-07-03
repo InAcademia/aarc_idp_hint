@@ -401,6 +401,9 @@
     "https://idp.modyuniversity.ac.in/idp/shibboleth": {
         "en": "Mody University of Science and Technology"
     },
+    "https://idp.mrsptu.ac.in/idp/shibboleth": {
+        "en": "Maharaja Ranjit Singh Punjab Technical University"
+    },
     "https://idp.mssu.ac.in/idp/shibboleth": {
         "en": "Ratan Tata Maharashtra State Skills University (RTMSSU)"
     },

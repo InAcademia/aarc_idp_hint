@@ -6456,6 +6456,10 @@
             "de": "ESMT Berlin",
             "en": "ESMT Berlin"
         },
+        "https://idp.eso.org/idp/shibboleth": {
+            "de": "ESO - European Southern Observatory",
+            "en": "ESO - European Southern Observatory"
+        },
         "https://idp.europa-uni.de/idp/shibboleth": {
             "de": "Europa-Universität Viadrina",
             "en": "Europa-Universität Viadrina"
@@ -6663,6 +6667,10 @@
         "https://idp.hmtm-hannover.de/idp/shibboleth": {
             "de": "Hochschule für Musik, Theater und Medien Hannover",
             "en": "Hanover University of Music, Drama and Media"
+        },
+        "https://idp.hochschule-bc.de/idp/shibboleth": {
+            "de": "Hochschule Biberach",
+            "en": "Hochschule Biberach"
         },
         "https://idp.hochschule-stralsund.de/idp/shibboleth": {
             "de": "Hochschule Stralsund - University of Applied Sciences",
@@ -7662,6 +7670,10 @@
         "https://shibweb1.hs-nordhausen.de/idp/shibboleth": {
             "de": "Hochschule Nordhausen",
             "en": "University of Applied Sciences Nordhausen"
+        },
+        "https://sinope.uni-erfurt.de/idp/shibboleth": {
+            "de": "Universität Erfurt",
+            "en": "University of Erfurt"
         },
         "https://srv-idp-001.hs-mainz.de/idp/shibboleth": {
             "de": "Hochschule Mainz",
@@ -10678,11 +10690,23 @@
         "https://idp.gcuc.edu.gh/idp/shibboleth": {
             "en": "Garden City University College"
         },
+        "https://idp.kstu.edu.gh/idp/shibboleth": {
+            "en": "KSTU Identity Provider"
+        },
+        "https://idp.ktu.edu.gh/idp/shibboleth": {
+            "en": "KTU IDENTITY PROVIDER"
+        },
         "https://idp.stu.edu.gh/idp/shibboleth": {
             "en": "Sunyani Technical University"
         },
+        "https://idp.ucc.edu.gh/idp/shibboleth": {
+            "en": "University of Cape Coast Identity Provider"
+        },
         "https://idp.uenr.edu.gh/idp/shibboleth": {
             "en": "University of Energy and Natural Resources"
+        },
+        "https://idp2.umat.edu.gh/idp/shibboleth": {
+            "en": "UMaT Identity Provider"
         },
         "https://shib.ug.edu.gh/idp/shibboleth": {
             "en": "University of Ghana"
@@ -11966,6 +11990,9 @@
         },
         "https://idp.modyuniversity.ac.in/idp/shibboleth": {
             "en": "Mody University of Science and Technology"
+        },
+        "https://idp.mrsptu.ac.in/idp/shibboleth": {
+            "en": "Maharaja Ranjit Singh Punjab Technical University"
         },
         "https://idp.mssu.ac.in/idp/shibboleth": {
             "en": "Ratan Tata Maharashtra State Skills University (RTMSSU)"
@@ -15891,6 +15918,10 @@
         "https://idp.acad-ciencias.pt/idp/shibboleth": {
             "en": "Academia das Ciências de Lisboa",
             "pt": "Academia das Ciências de Lisboa"
+        },
+        "https://idp.adcoesao.pt/idp/shibboleth": {
+            "en": "Agência para o Desenvolvimento e Coesão",
+            "pt": "Agência para o Desenvolvimento e Coesão"
         },
         "https://idp.aircentre.org/idp/shibboleth": {
             "en": "AIRCentre",

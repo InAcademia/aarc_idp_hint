@@ -11,11 +11,23 @@
     "https://idp.gcuc.edu.gh/idp/shibboleth": {
         "en": "Garden City University College"
     },
+    "https://idp.kstu.edu.gh/idp/shibboleth": {
+        "en": "KSTU Identity Provider"
+    },
+    "https://idp.ktu.edu.gh/idp/shibboleth": {
+        "en": "KTU IDENTITY PROVIDER"
+    },
     "https://idp.stu.edu.gh/idp/shibboleth": {
         "en": "Sunyani Technical University"
     },
+    "https://idp.ucc.edu.gh/idp/shibboleth": {
+        "en": "University of Cape Coast Identity Provider"
+    },
     "https://idp.uenr.edu.gh/idp/shibboleth": {
         "en": "University of Energy and Natural Resources"
+    },
+    "https://idp2.umat.edu.gh/idp/shibboleth": {
+        "en": "UMaT Identity Provider"
     },
     "https://shib.ug.edu.gh/idp/shibboleth": {
         "en": "University of Ghana"
