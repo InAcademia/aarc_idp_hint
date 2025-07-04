@@ -26,6 +26,9 @@
     "https://idp.uenr.edu.gh/idp/shibboleth": {
         "en": "University of Energy and Natural Resources"
     },
+    "https://idp.uew.edu.gh/idp/shibboleth": {
+        "en": "UEW Identity Provider"
+    },
     "https://idp2.umat.edu.gh/idp/shibboleth": {
         "en": "UMaT Identity Provider"
     },
