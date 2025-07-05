@@ -163,6 +163,10 @@
         "de": "Burg Giebichenstein Kunsthochschule Halle",
         "en": "Burg Giebichenstein University of Art and Design Halle"
     },
+    "https://idp.cas.dhbw.de/idp/shibboleth": {
+        "de": "DHBW CAS",
+        "en": "DHBW CAS"
+    },
     "https://idp.cit.frankfurt-university.de/idp/shibboleth": {
         "de": "Frankfurt University of Applied Sciences",
         "en": "Frankfurt University of Applied Sciences"
@@ -390,6 +394,10 @@
     "https://idp.hehrz.de/idp/shibboleth": {
         "de": "IDP HeHRZ Darmstadt",
         "en": "HeHRZ Darmstadt"
+    },
+    "https://idp.heilbronn.dhbw.de/idp/shibboleth": {
+        "de": "DHBW Heilbronn",
+        "en": "DHBW Heilbronn"
     },
     "https://idp.helmholtz-berlin.de/idp/shibboleth": {
         "de": "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB)",
