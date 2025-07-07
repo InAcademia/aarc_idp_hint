@@ -481,6 +481,9 @@
         "https://idp.aust.edu/idp/shibboleth": {
             "en": "Ahsanullah University of Science and Technology"
         },
+        "https://idp.auw.edu.bd/idp/shibboleth": {
+            "en": "Asian University for Women"
+        },
         "https://idp.bau.edu.bd/idp/shibboleth": {
             "en": "Bangladesh Agricultural University"
         },
@@ -507,6 +510,9 @@
         },
         "https://idp.kuet.ac.bd/idp/shibboleth": {
             "en": "Khulna University of Engineering and Technology"
+        },
+        "https://idp.mist.ac.bd/idp/shibboleth": {
+            "en": "Military Institute of Science and Technology"
         },
         "https://idp.nu.ac.bd/idp/shibboleth": {
             "en": "National University Bangladesh"
@@ -956,10 +962,6 @@
         "https://cafe.funesa.se.gov.br/idp/shibboleth": {
             "en": "FUNESA - Fundacao Estadual de Saude",
             "pt-br": "FUNESA - Fundacao Estadual de Saude"
-        },
-        "https://cafe.furg.br/idp/shibboleth": {
-            "en": "FURG - Universidade Federal do Rio Grande",
-            "pt-br": "FURG - Universidade Federal do Rio Grande"
         },
         "https://cafe.ibict.br/idp/shibboleth": {
             "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
@@ -5283,16 +5285,6 @@
         "https://zwidp.xtu.edu.cn/idp/shibboleth": {
             "en": "Xiangtan University",
             "zh": "湘潭大学(Xiangtan University)"
-        }
-    },
-    "co": {
-        "https://idp.utp.edu.co/idp/shibboleth": {
-            "en": "UNIVERSIDAD TECNOLOGICA DE PEREIRA",
-            "es": "UNIVERSIDAD TECNOLOGICA DE PEREIRA"
-        },
-        "https://idp2.renata.edu.co/idp/shibboleth": {
-            "en": "RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA",
-            "es": "RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA"
         }
     },
     "cy": {
