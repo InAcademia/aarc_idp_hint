@@ -11,10 +11,6 @@
         "en": "Grafisch Lyceum Utrecht",
         "nl": "Grafisch Lyceum Utrecht"
     },
-    "http://adfs.hanze.nl/adfs/services/trust": {
-        "en": "Hanze University of Applied Sciences",
-        "nl": "Hanze"
-    },
     "http://adfs.hvhl.nl/adfs/services/trust": {
         "en": "Van Hall Larenstein, University of Applied Sciences",
         "nl": "Hogeschool Van Hall Larenstein"
