@@ -47,10 +47,6 @@
         "en": "HZ University of Applied Sciences",
         "nl": "HZ University of Applied Sciences"
     },
-    "http://fs.rivm.nl/adfs/services/trust": {
-        "en": "National Institute for Public Health and the Environment",
-        "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
-    },
     "http://login.hva.nl/adfs/services/trust": {
         "en": "Amsterdam University of Applied Sciences",
         "nl": "Hogeschool van Amsterdam"
