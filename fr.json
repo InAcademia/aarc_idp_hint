@@ -163,10 +163,6 @@
         "en": "ISAE",
         "fr": "ISAE Institut Supérieur de l'Aéronautique et de l'Espace"
     },
-    "https://emauth.em-lyon.com/adfs/services/trust": {
-        "en": "emlyon business school",
-        "fr": "emlyon business school"
-    },
     "https://federation.ac-strasbourg.fr/idp/shibboleth": {
         "en": "Rectorat de Strasbourg",
         "fr": "Rectorat de Strasbourg"

@@ -35,6 +35,10 @@
         "en": "Domingo Comin - domingocomin",
         "es": "Domingo Comin - domingocomin"
     },
+    "https://login.donboscolatola.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola",
+        "es": "Unidad Educativa Fiscomisional Don Bosco La Tola - donboscolatola"
+    },
     "https://login.donboscomacas.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas",
         "es": "Unidad Educativa Fiscomisional Don Bosco Macas - donboscomacas"
@@ -90,6 +94,10 @@
     "https://login.ipac.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Instituto Particular Abdón Calderón - ipac",
         "es": "Instituto Particular Abdón Calderón - ipac"
+    },
+    "https://login.iste.cedia.edu.ec/saml2/idp/metadata.php": {
+        "en": "Instituto Tecnologico Superior Universitario España - iste",
+        "es": "Instituto Tecnologico Superior Universitario España - iste"
     },
     "https://login.ister.cedia.edu.ec/saml2/idp/metadata.php": {
         "en": "Instituto Tecnológico Superior Rumiñahui - ister",
