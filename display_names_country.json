@@ -616,8 +616,12 @@
             "fr": "Haute Ecole Condorcet (HEPH-Condorcet)"
         },
         "https://idp.eduhainaut.be/idp/shibboleth": {
-            "en": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)",
-            "fr": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)"
+            "en": "Schools of Province de Hainaut (eduHainaut)",
+            "fr": "Enseignement Secondaire, Fondamental, Spécialisé de la Province de Hainaut (eduHainaut)"
+        },
+        "https://idp.hainaut-ea.be/idp/shibboleth": {
+            "en": "Hainaut-EA",
+            "fr": "Hainaut-EA"
         },
         "https://idp.hainaut-promsoc.be/idp/shibboleth": {
             "en": "Hainaut PromSoc",
@@ -963,6 +967,10 @@
             "en": "FUNESA - Fundacao Estadual de Saude",
             "pt-br": "FUNESA - Fundacao Estadual de Saude"
         },
+        "https://cafe.furg.br/idp/shibboleth": {
+            "en": "FURG - Universidade Federal do Rio Grande",
+            "pt-br": "FURG - Universidade Federal do Rio Grande"
+        },
         "https://cafe.ibict.br/idp/shibboleth": {
             "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
             "pt-br": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia"
@@ -1150,6 +1158,10 @@
         "https://cafe.unicamp.br/idp/shibboleth": {
             "en": "UNICAMP - Universidade Estadual de Campinas",
             "pt-br": "UNICAMP - Universidade Estadual de Campinas"
+        },
+        "https://cafe.unicid.edu.br/idp/shibboleth": {
+            "en": "UNICID - Universidade Cidade de Sao Paulo",
+            "pt-br": "UNICID - Universidade Cidade de Sao Paulo"
         },
         "https://cafe.unifor.br/idp/shibboleth": {
             "en": "UNIFOR - Universidade de Fortaleza",
@@ -1478,6 +1490,10 @@
         "https://idp.inpa.gov.br/idp/shibboleth": {
             "en": "INPA - Instituto Nacional de Pesquisas da Amazonia",
             "pt-br": "INPA - Instituto Nacional de Pesquisas da Amazonia"
+        },
+        "https://idp.inpp.gov.br/idp/shibboleth": {
+            "en": "INPP - Instituto Nacional de Pesquisa do Pantanal",
+            "pt-br": "INPP - Instituto Nacional de Pesquisa do Pantanal"
         },
         "https://idp.int.gov.br/idp/shibboleth": {
             "en": "INT - Instituto Nacional de Tecnologia",
@@ -10687,25 +10703,25 @@
             "en": "Garden City University College"
         },
         "https://idp.kstu.edu.gh/idp/shibboleth": {
-            "en": "KSTU Identity Provider"
+            "en": "Kumasi Technical University"
         },
         "https://idp.ktu.edu.gh/idp/shibboleth": {
-            "en": "KTU IDENTITY PROVIDER"
+            "en": "Koforidua Technical University"
         },
         "https://idp.stu.edu.gh/idp/shibboleth": {
             "en": "Sunyani Technical University"
         },
         "https://idp.ucc.edu.gh/idp/shibboleth": {
-            "en": "University of Cape Coast Identity Provider"
+            "en": "University of Cape Coast"
         },
         "https://idp.uenr.edu.gh/idp/shibboleth": {
             "en": "University of Energy and Natural Resources"
         },
         "https://idp.uew.edu.gh/idp/shibboleth": {
-            "en": "UEW Identity Provider"
+            "en": "University of Education,Winneba"
         },
         "https://idp2.umat.edu.gh/idp/shibboleth": {
-            "en": "UMaT Identity Provider"
+            "en": "University of Mines and Technology"
         },
         "https://shib.ug.edu.gh/idp/shibboleth": {
             "en": "University of Ghana"
@@ -10720,7 +10736,7 @@
             "en": "Accra Technical University"
         },
         "https://wsidp.garnet.edu.gh/idp/shibboleth": {
-            "en": "GARNET IAM Workshop Identity Provider"
+            "en": "GARNET IAM Workshop"
         }
     },
     "gr": {
@@ -14578,10 +14594,6 @@
             "en": "Grafisch Lyceum Utrecht",
             "nl": "Grafisch Lyceum Utrecht"
         },
-        "http://adfs.hanze.nl/adfs/services/trust": {
-            "en": "Hanze University of Applied Sciences",
-            "nl": "Hanze"
-        },
         "http://adfs.hetscheepvaartmuseum.nl/adfs/services/trust": {
             "en": "The National Maritime Museum",
             "nl": "Het Scheepvaartmuseum"
@@ -15125,6 +15137,10 @@
         "https://sts.windows.net/a2586b9b-f867-4b3c-9363-5b435c5dbc45/": {
             "en": "The Hague University of Applied Sciences (THUAS)",
             "nl": "De Haagse Hogeschool (HHS)"
+        },
+        "https://sts.windows.net/a3b39014-7adc-48fa-a114-37c2434dbd69/": {
+            "en": "Hanze University of Applied Sciences (New)",
+            "nl": "Hanze (Nieuw)"
         },
         "https://sts.windows.net/a55886c4-2e41-4058-8118-ddeff4e87eec/": {
             "en": "Elisabeth TweeSteden Ziekenhuis",
@@ -20467,9 +20483,6 @@
         },
         "https://idp.elon.edu/idp/shibboleth": {
             "en": "Elon University"
-        },
-        "https://idp.es.net/idp/shibboleth": {
-            "en": "ESnet IDP Deprecated"
         },
         "https://idp.famu.edu:443/idp/shibboleth": {
             "en": "Florida A&M University"

@@ -123,6 +123,10 @@
         "en": "FUNESA - Fundacao Estadual de Saude",
         "pt-br": "FUNESA - Fundacao Estadual de Saude"
     },
+    "https://cafe.furg.br/idp/shibboleth": {
+        "en": "FURG - Universidade Federal do Rio Grande",
+        "pt-br": "FURG - Universidade Federal do Rio Grande"
+    },
     "https://cafe.ibict.br/idp/shibboleth": {
         "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
         "pt-br": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia"
@@ -310,6 +314,10 @@
     "https://cafe.unicamp.br/idp/shibboleth": {
         "en": "UNICAMP - Universidade Estadual de Campinas",
         "pt-br": "UNICAMP - Universidade Estadual de Campinas"
+    },
+    "https://cafe.unicid.edu.br/idp/shibboleth": {
+        "en": "UNICID - Universidade Cidade de Sao Paulo",
+        "pt-br": "UNICID - Universidade Cidade de Sao Paulo"
     },
     "https://cafe.unifor.br/idp/shibboleth": {
         "en": "UNIFOR - Universidade de Fortaleza",
@@ -638,6 +646,10 @@
     "https://idp.inpa.gov.br/idp/shibboleth": {
         "en": "INPA - Instituto Nacional de Pesquisas da Amazonia",
         "pt-br": "INPA - Instituto Nacional de Pesquisas da Amazonia"
+    },
+    "https://idp.inpp.gov.br/idp/shibboleth": {
+        "en": "INPP - Instituto Nacional de Pesquisa do Pantanal",
+        "pt-br": "INPP - Instituto Nacional de Pesquisa do Pantanal"
     },
     "https://idp.int.gov.br/idp/shibboleth": {
         "en": "INT - Instituto Nacional de Tecnologia",

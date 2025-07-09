@@ -75,8 +75,12 @@
         "fr": "Haute Ecole Condorcet (HEPH-Condorcet)"
     },
     "https://idp.eduhainaut.be/idp/shibboleth": {
-        "en": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)",
-        "fr": "Enseignement Secondaire de la Province de Hainaut (eduHainaut)"
+        "en": "Schools of Province de Hainaut (eduHainaut)",
+        "fr": "Enseignement Secondaire, Fondamental, Spécialisé de la Province de Hainaut (eduHainaut)"
+    },
+    "https://idp.hainaut-ea.be/idp/shibboleth": {
+        "en": "Hainaut-EA",
+        "fr": "Hainaut-EA"
     },
     "https://idp.hainaut-promsoc.be/idp/shibboleth": {
         "en": "Hainaut PromSoc",
