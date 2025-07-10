@@ -620,8 +620,8 @@
             "fr": "Enseignement Secondaire, Fondamental, Spécialisé de la Province de Hainaut (eduHainaut)"
         },
         "https://idp.hainaut-ea.be/idp/shibboleth": {
-            "en": "Hainaut-EA",
-            "fr": "Hainaut-EA"
+            "en": "Adult Education of Province de Hainaut (Hainaut-EA)",
+            "fr": "Enseignement pour Adultes de la Province de Hainaut (Hainaut-EA)"
         },
         "https://idp.hainaut-promsoc.be/idp/shibboleth": {
             "en": "Hainaut PromSoc",
@@ -3149,6 +3149,10 @@
         "https://idp.cdut.edu.cn/idp/shibboleth": {
             "en": "ChengDu University of Technology",
             "zh": "成都理工大学(ChengDu University of Technology)"
+        },
+        "https://idp.cfec.edu.cn/idp/shibboleth": {
+            "en": "Chongqing Finance and Economics College",
+            "zh": "重庆财经学院(Chongqing Finance and Economics College)"
         },
         "https://idp.chd.edu.cn/idp/shibboleth": {
             "en": "Chang'an University",
@@ -14508,10 +14512,6 @@
         }
     },
     "net": {
-        "https://aai.cstcloud.net/saml/idp": {
-            "en": "CSTCloud AAI",
-            "zh": "中国科技云身份认证联盟(CSTCloud AAI)"
-        },
         "https://aai.goscloud.net/saml/idp": {
             "en": "GOSC AAI",
             "zh": "GOSC AAI"
@@ -15139,8 +15139,8 @@
             "nl": "De Haagse Hogeschool (HHS)"
         },
         "https://sts.windows.net/a3b39014-7adc-48fa-a114-37c2434dbd69/": {
-            "en": "Hanze University of Applied Sciences (New)",
-            "nl": "Hanze (Nieuw)"
+            "en": "Hanze University of Applied Sciences",
+            "nl": "Hanze"
         },
         "https://sts.windows.net/a55886c4-2e41-4058-8118-ddeff4e87eec/": {
             "en": "Elisabeth TweeSteden Ziekenhuis",

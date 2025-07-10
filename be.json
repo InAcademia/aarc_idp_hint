@@ -79,8 +79,8 @@
         "fr": "Enseignement Secondaire, Fondamental, Spécialisé de la Province de Hainaut (eduHainaut)"
     },
     "https://idp.hainaut-ea.be/idp/shibboleth": {
-        "en": "Hainaut-EA",
-        "fr": "Hainaut-EA"
+        "en": "Adult Education of Province de Hainaut (Hainaut-EA)",
+        "fr": "Enseignement pour Adultes de la Province de Hainaut (Hainaut-EA)"
     },
     "https://idp.hainaut-promsoc.be/idp/shibboleth": {
         "en": "Hainaut PromSoc",

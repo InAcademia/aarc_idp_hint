@@ -1,8 +1,4 @@
 {
-    "https://aai.cstcloud.net/saml/idp": {
-        "en": "CSTCloud AAI",
-        "zh": "中国科技云身份认证联盟(CSTCloud AAI)"
-    },
     "https://aai.goscloud.net/saml/idp": {
         "en": "GOSC AAI",
         "zh": "GOSC AAI"
