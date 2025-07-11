@@ -315,6 +315,10 @@
         "en": "UNICAMP - Universidade Estadual de Campinas",
         "pt-br": "UNICAMP - Universidade Estadual de Campinas"
     },
+    "https://cafe.unicap.br/idp/shibboleth": {
+        "en": "UNICAP - Universidade Catolica de Pernambuco",
+        "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
+    },
     "https://cafe.unicid.edu.br/idp/shibboleth": {
         "en": "UNICID - Universidade Cidade de Sao Paulo",
         "pt-br": "UNICID - Universidade Cidade de Sao Paulo"

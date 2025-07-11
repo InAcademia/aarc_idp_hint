@@ -1207,6 +1207,10 @@
         "en": "Kunming Medical University",
         "zh": "昆明医科大学(Kunming Medical University)"
     },
+    "https://idp.kmu.edu.cn/idp/shibboleth": {
+        "en": "Kunming University",
+        "zh": "昆明学院(Kunming University)"
+    },
     "https://idp.ksu.edu.cn/idp/shibboleth": {
         "en": "Kashi University",
         "zh": "喀什大学(Kashi University)"

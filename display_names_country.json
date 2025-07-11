@@ -1159,6 +1159,10 @@
             "en": "UNICAMP - Universidade Estadual de Campinas",
             "pt-br": "UNICAMP - Universidade Estadual de Campinas"
         },
+        "https://cafe.unicap.br/idp/shibboleth": {
+            "en": "UNICAP - Universidade Catolica de Pernambuco",
+            "pt-br": "UNICAP - Universidade Catolica de Pernambuco"
+        },
         "https://cafe.unicid.edu.br/idp/shibboleth": {
             "en": "UNICID - Universidade Cidade de Sao Paulo",
             "pt-br": "UNICID - Universidade Cidade de Sao Paulo"
@@ -3913,6 +3917,10 @@
         "https://idp.kmmu.edu.cn/idp/shibboleth": {
             "en": "Kunming Medical University",
             "zh": "昆明医科大学(Kunming Medical University)"
+        },
+        "https://idp.kmu.edu.cn/idp/shibboleth": {
+            "en": "Kunming University",
+            "zh": "昆明学院(Kunming University)"
         },
         "https://idp.ksu.edu.cn/idp/shibboleth": {
             "en": "Kashi University",
@@ -7275,10 +7283,6 @@
             "de": "Rheinische Hochschule Köln gGmbH",
             "en": "Rheinische Hochschule Köln gGmbH"
         },
-        "https://idp4.tiho-hannover.de/idp/shibboleth": {
-            "de": "Stiftung Tieraerztliche Hochschule Hannover (alt)",
-            "en": "University of Veterinary Medicine Hannover (old)"
-        },
         "https://idpc.th-ab.de/idp/shibboleth": {
             "de": "Technische Hochschule Aschaffenburg",
             "en": "Technische Hochschule Aschaffenburg"
@@ -7386,6 +7390,10 @@
         "https://login.leibniz-gemeinschaft.de/idp/shibboleth": {
             "de": "Leibniz-Gemeinschaft - Geschäftsstelle",
             "en": "Leibniz-Association - Headquarters"
+        },
+        "https://login.leiza.de/idp/shibboleth": {
+            "de": "Leibniz-Zentrum für Archäologie (LEIZA)",
+            "en": "Leibniz-Zentrum für Archäologie (LEIZA)"
         },
         "https://login.lin-magdeburg.de/idp/shibboleth": {
             "de": "Leibniz-Institut fuer Neurobiologie",
@@ -7599,10 +7607,6 @@
             "de": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen",
             "en": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen"
         },
-        "https://shibboleth-idp.hbz-nrw.de/idp/shibboleth": {
-            "de": "Hochschulbibliothekszentrum NRW (hbz)",
-            "en": "Hochschulbibliothekszentrum NRW (hbz)"
-        },
         "https://shibboleth-idp.ifo.de/idp/shibboleth": {
             "de": "ifo Institut",
             "en": "ifo Institute"
@@ -7810,10 +7814,6 @@
         "https://wwuvidp.uni-muenster.de/idp/shibboleth": {
             "de": "Meta-Videoportal unterrichtsvideos.net",
             "en": "Meta-Videoportal unterrichtsvideos.net"
-        },
-        "https://www.apollon-campus.de/idp/shibboleth": {
-            "de": "APOLLON Hochschule Bremen",
-            "en": "APOLLON Hochschule Bremen"
         },
         "https://www.b-tu.de/idp/shibboleth": {
             "de": "BTU Cottbus - Senftenberg",
@@ -20909,9 +20909,6 @@
         },
         "https://myid.vsc.edu/idp/shibboleth": {
             "en": "Vermont State Colleges"
-        },
-        "https://myidp.nmsu.edu": {
-            "en": "New Mexico State University"
         },
         "https://myncf.ncf.edu/": {
             "en": "New College of Florida"
