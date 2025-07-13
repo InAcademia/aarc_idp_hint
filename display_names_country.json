@@ -875,10 +875,6 @@
             "en": "UFFS - Universidade Federal da Fronteira Sul",
             "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
         },
-        "https://cafe-gateway.ifce.edu.br/idp/shibboleth": {
-            "en": "IFCE - Instituto Federal do Ceara",
-            "pt-br": "IFCE - Instituto Federal do Ceara"
-        },
         "https://cafe-idp.ifnmg.edu.br/idp/shibboleth": {
             "en": "IFNMG - Instituto Federal do Norte de Minas Gerais",
             "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
@@ -15479,7 +15475,7 @@
             "en": "University of Technology and Applied Science - Ibri (Shibboleth)"
         },
         "https://idpomren.asds.edu.om/idp": {
-            "en": "Academy of Strategic and Defense Studies"
+            "en": "Academy of Strategic and Defence Studies (shibboleth)"
         },
         "https://idpomren.gutech.edu.om/idp": {
             "en": "German University of Technology in Oman - GUtech (Shibboleth)"
