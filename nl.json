@@ -57,7 +57,7 @@
     },
     "http://auth.mumc.nl/adfs/services/trust": {
         "en": "Maastricht University Medical Center",
-        "nl": "Academisch Ziekenhuis Maastricht"
+        "nl": "Maastricht Universitair Medisch Centrum"
     },
     "http://demeter.wp.swov.nl/adfs/services/trust": {
         "en": "SWOV Institute for Road Safety Research",

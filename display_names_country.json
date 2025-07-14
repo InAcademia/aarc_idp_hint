@@ -188,8 +188,8 @@
             "en": "Anton Bruckner Private University"
         },
         "https://login.fh-campuswien.ac.at/idp/shibboleth": {
-            "de": "FH Campus Wien",
-            "en": "FH Campus Wien – University of Applied Sciences"
+            "de": "Hochschule Campus Wien (ehem. FH Campus Wien)",
+            "en": "Hochschule Campus Wien – University of Applied Sciences"
         },
         "https://login.fhv.at/shibboleth": {
             "de": "FH Vorarlberg",
@@ -13826,10 +13826,6 @@
             "en": "Klaipeda State University of Applied Sciences",
             "lt": "Klaipėdos valstybinė kolegija"
         },
-        "https://login.lmta.lt/saml2/idp/metadata.php": {
-            "en": "Lithuanian Academy of Music and Theatre",
-            "lt": "Lietuvos muzikos ir teatro akademija"
-        },
         "https://login.mruni.eu/sso/saml2/idp/metadata.php": {
             "en": "Mykolas Romeris University",
             "lt": "Mykolo Romerio universitetas"
@@ -14620,7 +14616,7 @@
         },
         "http://auth.mumc.nl/adfs/services/trust": {
             "en": "Maastricht University Medical Center",
-            "nl": "Academisch Ziekenhuis Maastricht"
+            "nl": "Maastricht Universitair Medisch Centrum"
         },
         "http://demeter.wp.swov.nl/adfs/services/trust": {
             "en": "SWOV Institute for Road Safety Research",

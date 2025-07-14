@@ -43,10 +43,6 @@
         "en": "Klaipeda State University of Applied Sciences",
         "lt": "Klaipėdos valstybinė kolegija"
     },
-    "https://login.lmta.lt/saml2/idp/metadata.php": {
-        "en": "Lithuanian Academy of Music and Theatre",
-        "lt": "Lietuvos muzikos ir teatro akademija"
-    },
     "https://login.mruni.eu/sso/saml2/idp/metadata.php": {
         "en": "Mykolas Romeris University",
         "lt": "Mykolo Romerio universitetas"
