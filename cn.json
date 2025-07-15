@@ -259,10 +259,6 @@
         "en": "Anhui Institute of Information Technology",
         "zh": "安徽信息工程学院(Anhui Institute of Information Technology)"
     },
-    "https://idp.aku.edu.cn/idp/shibboleth": {
-        "en": "Ankang University",
-        "zh": "安康学院(Ankang University)"
-    },
     "https://idp.aqnu.edu.cn/idp/shibboleth": {
         "en": "Anqing Normal University",
         "zh": "安庆师范大学(Anqing Normal University)"
@@ -807,10 +803,6 @@
         "en": "GuangXi University",
         "zh": "广西大学(GuangXi University)"
     },
-    "https://idp.gxust.edu.cn/idp/shibboleth": {
-        "en": "Guangxi University of Science and Technology",
-        "zh": "广西科技大学(Guangxi University of Science and Technology)"
-    },
     "https://idp.gzarts.edu.cn/idp/shibboleth": {
         "en": "Guangzhou Academy of Fine Arts",
         "zh": "广州美术学院(Guangzhou Academy of Fine Arts)"
@@ -878,10 +870,6 @@
     "https://idp.hbucm.edu.cn/idp/shibboleth": {
         "en": "Hubei University of Chinese Medicine",
         "zh": "湖北中医药大学(Hubei University of Chinese Medicine)"
-    },
-    "https://idp.hbue.edu.cn/idp/shibboleth": {
-        "en": "Hubei University Of Economics",
-        "zh": "湖北经济学院(Hubei University Of Economics)"
     },
     "https://idp.hbut.edu.cn/idp/shibboleth": {
         "en": "Hubei University of Technology",
