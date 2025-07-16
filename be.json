@@ -82,10 +82,6 @@
         "en": "Adult Education of Province de Hainaut (Hainaut-EA)",
         "fr": "Enseignement pour Adultes de la Province de Hainaut (Hainaut-EA)"
     },
-    "https://idp.hainaut-promsoc.be/idp/shibboleth": {
-        "en": "Hainaut PromSoc",
-        "fr": "Hainaut PromSoc"
-    },
     "https://idp.he-ferrer.eu/idp/shibboleth": {
         "en": "IdP 01 He-ferrer"
     },

@@ -623,10 +623,6 @@
             "en": "Adult Education of Province de Hainaut (Hainaut-EA)",
             "fr": "Enseignement pour Adultes de la Province de Hainaut (Hainaut-EA)"
         },
-        "https://idp.hainaut-promsoc.be/idp/shibboleth": {
-            "en": "Hainaut PromSoc",
-            "fr": "Hainaut PromSoc"
-        },
         "https://idp.he-ferrer.eu/idp/shibboleth": {
             "en": "IdP 01 He-ferrer"
         },
@@ -1022,6 +1018,10 @@
         "https://cafe.ime.eb.br/idp/shibboleth": {
             "en": "IME - Instituto Militar de Engenharia",
             "pt-br": "IME - Instituto Militar de Engenharia"
+        },
+        "https://cafe.inc.saude.gov.br/idp/shibboleth": {
+            "en": "INC - Instituto Nacional de Cardiologia",
+            "pt-br": "INC - Instituto Nacional de Cardiologia"
         },
         "https://cafe.ipa.br/idp/shibboleth": {
             "en": "IPA - Instituto Agronomico de Pernambuco",
@@ -1995,7 +1995,7 @@
             "en": "UTFPR - Universidade Tecnologica Federal do Parana",
             "pt-br": "UTFPR - Universidade Tecnologica Federal do Parana"
         },
-        "https://shibboleth5.ufrn.edu.br/idp/shibboleth": {
+        "https://shibboleth6.ufrn.edu.br/idp/shibboleth": {
             "en": "UFRN - Universidade Federal do Rio Grande do Norte",
             "pt-br": "UFRN - Universidade Federal do Rio Grande do Norte"
         },
@@ -4873,6 +4873,10 @@
         "https://idp.wynu.edu.cn/idp/shibboleth": {
             "en": "West Yunnan University",
             "zh": "滇西科技师范学院(West Yunnan University)"
+        },
+        "https://idp.wyu.edu.cn/idp/shibboleth": {
+            "en": "Wuyi  University",
+            "zh": "五邑大学(Wuyi  University)"
         },
         "https://idp.wzbc.edu.cn/idp/shibboleth": {
             "en": "Wenzhou Business College",
@@ -9805,8 +9809,8 @@
             "fr": "Institut Curie - Centre de recherche"
         },
         "https://idp.ec-nantes.fr/idp/shibboleth": {
-            "en": "ECN5",
-            "fr": "ECN5"
+            "en": "Centrale Nantes",
+            "fr": "Centrale Nantes"
         },
         "https://idp.ecole-navale.fr/idp/shibboleth": {
             "en": "Ecole navale",
@@ -10489,8 +10493,8 @@
             "fr": "Université de Technologie de Troyes - UTT"
         },
         "https://shibbov3-vm.ec-nantes.fr/idp/shibboleth": {
-            "en": "Centrale Nantes",
-            "fr": "Centrale Nantes"
+            "en": "ECN3",
+            "fr": "ECN3"
         },
         "https://shibbov3.ephe.fr/idp/shibboleth": {
             "en": "EPHE - Ecole Pratique des Hautes Etudes",

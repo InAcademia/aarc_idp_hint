@@ -408,8 +408,8 @@
         "fr": "Institut Curie - Centre de recherche"
     },
     "https://idp.ec-nantes.fr/idp/shibboleth": {
-        "en": "ECN5",
-        "fr": "ECN5"
+        "en": "Centrale Nantes",
+        "fr": "Centrale Nantes"
     },
     "https://idp.ecole-navale.fr/idp/shibboleth": {
         "en": "Ecole navale",
@@ -1092,8 +1092,8 @@
         "fr": "Université de Technologie de Troyes - UTT"
     },
     "https://shibbov3-vm.ec-nantes.fr/idp/shibboleth": {
-        "en": "Centrale Nantes",
-        "fr": "Centrale Nantes"
+        "en": "ECN3",
+        "fr": "ECN3"
     },
     "https://shibbov3.ephe.fr/idp/shibboleth": {
         "en": "EPHE - Ecole Pratique des Hautes Etudes",
