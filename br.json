@@ -243,6 +243,10 @@
         "en": "UERR - Universidade Estadual De Roraima",
         "pt-br": "UERR - Universidade Estadual De Roraima"
     },
+    "https://cafe.uesb.br/idp/shibboleth": {
+        "en": "UESB - Universidade Estadual do Sudoeste da Bahia",
+        "pt-br": "UESB - Universidade Estadual do Sudoeste da Bahia"
+    },
     "https://cafe.ufam.edu.br/idp/shibboleth": {
         "en": "UFAM - Universidade Federal do Amazonas",
         "pt-br": "UFAM - Universidade Federal do Amazonas"
