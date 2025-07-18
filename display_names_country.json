@@ -682,9 +682,6 @@
             "en": "Royal Belgian Institute for Space Aeronomy",
             "fr": "Institut royal d'Aéronomie Spatiale de Belgique"
         },
-        "https://secure-acc.etnic.be/nidp/saml2/metadata": {
-            "en": "FWB-Validation"
-        },
         "https://secure.etnic.be/nidp/saml2/metadata": {
             "en": "FWB"
         },
@@ -3525,6 +3522,10 @@
         "https://idp.gztrc.edu.cn/idp/shibboleth": {
             "en": "Tongren University",
             "zh": "铜仁学院(Tongren University)"
+        },
+        "https://idp.gzucm.edu.cn/idp/shibboleth": {
+            "en": "Guangzhou University of Chinese Medicine",
+            "zh": "广州中医药大学(Guangzhou University of Chinese Medicine)"
         },
         "https://idp.gzy.edu.cn/idp/shibboleth": {
             "en": "Guizhou University of Traditional Chinese Medicine",
@@ -7807,6 +7808,10 @@
             "de": "Meta-Videoportal unterrichtsvideos.net",
             "en": "Meta-Videoportal unterrichtsvideos.net"
         },
+        "https://www.apollon-campus.de/idp/shibboleth": {
+            "de": "APOLLON Hochschule Bremen",
+            "en": "APOLLON Hochschule Bremen"
+        },
         "https://www.b-tu.de/idp/shibboleth": {
             "de": "BTU Cottbus - Senftenberg",
             "en": "BTU Cottbus - Senftenberg"
@@ -8694,6 +8699,10 @@
         "https://www.rediris.es/sir/esadeidp": {
             "en": "Escuela Superior de Administración y Dirección de Empresas",
             "es": "Escuela Superior de Administración y Dirección de Empresas"
+        },
+        "https://www.rediris.es/sir/esciidp": {
+            "en": "ESCI-UPF School of International Business",
+            "es": "ESCI-UPF Escuela Superior de Comercio Internacional"
         },
         "https://www.rediris.es/sir/esicidp": {
             "en": "ESIC Business and Marketing School",

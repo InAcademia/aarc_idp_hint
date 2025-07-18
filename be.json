@@ -141,9 +141,6 @@
         "en": "Royal Belgian Institute for Space Aeronomy",
         "fr": "Institut royal d'Aéronomie Spatiale de Belgique"
     },
-    "https://secure-acc.etnic.be/nidp/saml2/metadata": {
-        "en": "FWB-Validation"
-    },
     "https://secure.etnic.be/nidp/saml2/metadata": {
         "en": "FWB"
     },

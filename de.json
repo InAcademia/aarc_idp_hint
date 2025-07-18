@@ -1586,6 +1586,10 @@
         "de": "Meta-Videoportal unterrichtsvideos.net",
         "en": "Meta-Videoportal unterrichtsvideos.net"
     },
+    "https://www.apollon-campus.de/idp/shibboleth": {
+        "de": "APOLLON Hochschule Bremen",
+        "en": "APOLLON Hochschule Bremen"
+    },
     "https://www.b-tu.de/idp/shibboleth": {
         "de": "BTU Cottbus - Senftenberg",
         "en": "BTU Cottbus - Senftenberg"
