@@ -1036,10 +1036,6 @@
             "en": "ITV - Instituto Tecnologico Vale",
             "pt-br": "ITV - Instituto Tecnologico Vale"
         },
-        "https://cafe.mamiraua.org.br/idp/shibboleth": {
-            "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
-            "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
-        },
         "https://cafe.prefeitura.sp.gov.br/idp/shibboleth": {
             "en": "SMS - Secretaria Municipal da Saude - SP",
             "pt-br": "SMS - Secretaria Municipal da Saude - SP"
@@ -6539,7 +6535,7 @@
         },
         "https://idp.fraunhofer.de/idp/shibboleth": {
             "de": "Fraunhofer-Gesellschaft",
-            "en": "zur Förderung der angewandten Forschung e. V."
+            "en": "Fraunhofer-Gesellschaft"
         },
         "https://idp.fv-berlin.de/idp/shibboleth": {
             "de": "Forschungsverbund Berlin e.V.",
