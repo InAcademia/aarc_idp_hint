@@ -23,6 +23,9 @@
     "https://idp.cu.ac.bd/idp/shibboleth": {
         "en": "University of Chittagong (CU)"
     },
+    "https://idp.diu.edu.bd/idp/shibboleth": {
+        "en": "Daffodil International University"
+    },
     "https://idp.green.ac.bd/idp/shibboleth": {
         "en": "Green University of Bangladesh"
     },
