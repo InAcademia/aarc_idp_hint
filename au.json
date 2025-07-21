@@ -5,6 +5,9 @@
     "https://aaf.garvan.org.au/idp/shibboleth": {
         "en": "The Garvan Institute of Medical Research"
     },
+    "https://aaf.petermac.org/idp/shibboleth": {
+        "en": "Peter MacCallum Cancer Centre"
+    },
     "https://aaf.unsw.edu.au/idp/shibboleth": {
         "en": "The University of New South Wales (UNSW)"
     },

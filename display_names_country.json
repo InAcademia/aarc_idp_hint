@@ -359,6 +359,9 @@
         "https://aaf.garvan.org.au/idp/shibboleth": {
             "en": "The Garvan Institute of Medical Research"
         },
+        "https://aaf.petermac.org/idp/shibboleth": {
+            "en": "Peter MacCallum Cancer Centre"
+        },
         "https://aaf.unsw.edu.au/idp/shibboleth": {
             "en": "The University of New South Wales (UNSW)"
         },
@@ -1039,6 +1042,10 @@
             "en": "ITV - Instituto Tecnologico Vale",
             "pt-br": "ITV - Instituto Tecnologico Vale"
         },
+        "https://cafe.mamiraua.org.br/idp/shibboleth": {
+            "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
+            "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
+        },
         "https://cafe.prefeitura.sp.gov.br/idp/shibboleth": {
             "en": "SMS - Secretaria Municipal da Saude - SP",
             "pt-br": "SMS - Secretaria Municipal da Saude - SP"
@@ -1647,10 +1654,6 @@
             "en": "UFMT - Universidade Federal de Mato Grosso",
             "pt-br": "UFMT - Universidade Federal de Mato Grosso"
         },
-        "https://idp4.uepg.br/idp/shibboleth": {
-            "en": "UEPG - Universidade Estadual de Ponta Grossa",
-            "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
-        },
         "https://idp60.furb.br/idp/shibboleth": {
             "en": "FURB - Fundacao Universidade Regional de Blumenau",
             "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
@@ -1738,10 +1741,6 @@
         "https://ipameri.cti.gov.br/idp/shibboleth": {
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer",
             "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
-        },
-        "https://isd-rnp.isd.org.br/idp/shibboleth": {
-            "en": "ISD - Instituto Santos Dumont",
-            "pt-br": "ISD - Instituto Santos Dumont"
         },
         "https://itacare.bahiana.edu.br/idp/shibboleth": {
             "en": "EBMSP - Escola Bahiana de Medicina e Saude Publica",
@@ -7952,7 +7951,7 @@
         },
         "http://idp.fms.dk/adfs/services/trust": {
             "da": "Fredericia Maskinmesterskole",
-            "en": "Fredericia Maskinmesterskole"
+            "en": "Fredericia College of Marine and Technical Engineering (FMS)"
         },
         "http://sts.aarch.dk/adfs/services/trust": {
             "da": "Arkitektskolen Aarhus",
@@ -9811,6 +9810,10 @@
         "https://idp.crous-reims.fr/idp/shibboleth": {
             "en": "CROUS REIMS - IDP v5",
             "fr": "CROUS REIMS - IDP v5"
+        },
+        "https://idp.crous-reunion.fr/idp/shibboleth": {
+            "en": "CROUS de la Réunion",
+            "fr": "CROUS de la Réunion"
         },
         "https://idp.crous-toulouse.fr/idp/shibboleth": {
             "en": "CROUS Toulouse - Personnels v4 en validation",
@@ -11870,7 +11873,7 @@
             "en": "Indian Institute of Technology (ISM) Dhanbad"
         },
         "https://idp.iitj.ac.in/idp/shibboleth": {
-            "en": "Indian Institute of Technology (IIT), Jodhpur"
+            "en": "Indian Institute of Technology Jodhpur"
         },
         "https://idp.iitjammu.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Technology Jammu"
@@ -12096,6 +12099,9 @@
         },
         "https://idp.piet.co.in/idp/shibboleth": {
             "en": "Panipat Institute of Engineering and Technology"
+        },
+        "https://idp.pjtau.edu.in/idp/shibboleth": {
+            "en": "Professor Jaya Shankar Telangana State Agricultural University"
         },
         "https://idp.pmulibrary.org/idp/shibboleth": {
             "en": "Periyar Maniammai Institute of Science and Technology"

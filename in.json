@@ -261,7 +261,7 @@
         "en": "Indian Institute of Technology (ISM) Dhanbad"
     },
     "https://idp.iitj.ac.in/idp/shibboleth": {
-        "en": "Indian Institute of Technology (IIT), Jodhpur"
+        "en": "Indian Institute of Technology Jodhpur"
     },
     "https://idp.iitjammu.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Technology Jammu"
@@ -487,6 +487,9 @@
     },
     "https://idp.piet.co.in/idp/shibboleth": {
         "en": "Panipat Institute of Engineering and Technology"
+    },
+    "https://idp.pjtau.edu.in/idp/shibboleth": {
+        "en": "Professor Jaya Shankar Telangana State Agricultural University"
     },
     "https://idp.pmulibrary.org/idp/shibboleth": {
         "en": "Periyar Maniammai Institute of Science and Technology"
