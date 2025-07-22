@@ -124,8 +124,8 @@
             "en": "University College of Teacher Education Vienna/Krems (KPH)"
         },
         "https://idp.mci4me.at/idp/shibboleth": {
-            "de": "Management Center Innsbruck",
-            "en": "Management Center Innsbruck"
+            "de": "MCI Internationale Hochschule",
+            "en": "MCI Internationale Hochschule"
         },
         "https://idp.meduni-graz.at/idp/shibboleth": {
             "de": "Medizinische Universität Graz",
@@ -1102,6 +1102,10 @@
             "en": "UFF - Universidade Federal Fluminense",
             "pt-br": "UFF - Universidade Federal Fluminense"
         },
+        "https://cafe.ufla.br/idp/shibboleth": {
+            "en": "UFLA - Universidade Federal de Lavras",
+            "pt-br": "UFLA - Universidade Federal de Lavras"
+        },
         "https://cafe.ufmg.br/idp/shibboleth": {
             "en": "UFMG - Universidade Federal de Minas Gerais",
             "pt-br": "UFMG - Universidade Federal de Minas Gerais"
@@ -1654,6 +1658,10 @@
             "en": "UFMT - Universidade Federal de Mato Grosso",
             "pt-br": "UFMT - Universidade Federal de Mato Grosso"
         },
+        "https://idp4.uepg.br/idp/shibboleth": {
+            "en": "UEPG - Universidade Estadual de Ponta Grossa",
+            "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
+        },
         "https://idp60.furb.br/idp/shibboleth": {
             "en": "FURB - Fundacao Universidade Regional de Blumenau",
             "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
@@ -1909,10 +1917,6 @@
         "https://shibboleth.ufj.edu.br/idp/shibboleth": {
             "en": "UFJ - Universidade Federal de Jatai",
             "pt-br": "UFJ - Universidade Federal de Jatai"
-        },
-        "https://shibboleth.ufla.br/idp/shibboleth": {
-            "en": "UFLA - Universidade Federal de Lavras",
-            "pt-br": "UFLA - Universidade Federal de Lavras"
         },
         "https://shibboleth.ufopa.edu.br/idp/shibboleth": {
             "en": "UFOPA - Universidade Federal do Oeste do Para",
@@ -11611,6 +11615,12 @@
         }
     },
     "in": {
+        "https://cenlib.gtu.ac.in/idp/shibboleth": {
+            "en": "Gujarat Technological University"
+        },
+        "https://delta.iuc.res.in/idp/shibboleth": {
+            "en": "UGC DAE CSR Kolkata Centre"
+        },
         "https://dl.crescent.education/idp/shibboleth": {
             "en": "B.S.Abdur Rahman Crescent Institute of Science and Technology"
         },
@@ -13176,6 +13186,10 @@
         "https://idp.jcga.ac.jp/idp/shibboleth": {
             "en": "Japan Coast Guard Academy",
             "ja": "海上保安大学校"
+        },
+        "https://idp.kek.jp/idp/shibboleth": {
+            "en": "High Energy Accelerator Research Organization",
+            "ja": "高エネルギー加速器研究機構"
         },
         "https://idp.kindai.ac.jp/idp/shibboleth": {
             "en": "Kindai University",
@@ -16181,6 +16195,10 @@
         "https://login.uac.pt/idp/shibboleth": {
             "en": "Universidade dos Açores",
             "pt": "Universidade dos Açores"
+        },
+        "https://lxidp01.ani.pt/idp/shibboleth": {
+            "en": "Portuguese National Inovation Agency",
+            "pt": "Agência Nacional de Inovação"
         },
         "https://si-saai.ualg.pt/idp/shibboleth": {
             "en": "University of Algarve",
@@ -20917,7 +20935,7 @@
             "en": "University of Wisconsin-Platteville"
         },
         "https://shib2.swmed.edu/idp/shibboleth": {
-            "en": "University of Texas Southwestern Medical Center at Dallas"
+            "en": "The University of Texas Southwestern Medical Center"
         },
         "https://shib2.utep.edu/idp/shibboleth": {
             "en": "University of Texas at El Paso"

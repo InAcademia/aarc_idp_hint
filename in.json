@@ -1,4 +1,10 @@
 {
+    "https://cenlib.gtu.ac.in/idp/shibboleth": {
+        "en": "Gujarat Technological University"
+    },
+    "https://delta.iuc.res.in/idp/shibboleth": {
+        "en": "UGC DAE CSR Kolkata Centre"
+    },
     "https://dl.crescent.education/idp/shibboleth": {
         "en": "B.S.Abdur Rahman Crescent Institute of Science and Technology"
     },

@@ -394,6 +394,10 @@
         "en": "Universidade dos Açores",
         "pt": "Universidade dos Açores"
     },
+    "https://lxidp01.ani.pt/idp/shibboleth": {
+        "en": "Portuguese National Inovation Agency",
+        "pt": "Agência Nacional de Inovação"
+    },
     "https://si-saai.ualg.pt/idp/shibboleth": {
         "en": "University of Algarve",
         "pt": "Universidade do Algarve"

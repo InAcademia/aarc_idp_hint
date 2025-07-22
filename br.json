@@ -259,6 +259,10 @@
         "en": "UFF - Universidade Federal Fluminense",
         "pt-br": "UFF - Universidade Federal Fluminense"
     },
+    "https://cafe.ufla.br/idp/shibboleth": {
+        "en": "UFLA - Universidade Federal de Lavras",
+        "pt-br": "UFLA - Universidade Federal de Lavras"
+    },
     "https://cafe.ufmg.br/idp/shibboleth": {
         "en": "UFMG - Universidade Federal de Minas Gerais",
         "pt-br": "UFMG - Universidade Federal de Minas Gerais"
@@ -811,6 +815,10 @@
         "en": "UFMT - Universidade Federal de Mato Grosso",
         "pt-br": "UFMT - Universidade Federal de Mato Grosso"
     },
+    "https://idp4.uepg.br/idp/shibboleth": {
+        "en": "UEPG - Universidade Estadual de Ponta Grossa",
+        "pt-br": "UEPG - Universidade Estadual de Ponta Grossa"
+    },
     "https://idp60.furb.br/idp/shibboleth": {
         "en": "FURB - Fundacao Universidade Regional de Blumenau",
         "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
@@ -1066,10 +1074,6 @@
     "https://shibboleth.ufj.edu.br/idp/shibboleth": {
         "en": "UFJ - Universidade Federal de Jatai",
         "pt-br": "UFJ - Universidade Federal de Jatai"
-    },
-    "https://shibboleth.ufla.br/idp/shibboleth": {
-        "en": "UFLA - Universidade Federal de Lavras",
-        "pt-br": "UFLA - Universidade Federal de Lavras"
     },
     "https://shibboleth.ufopa.edu.br/idp/shibboleth": {
         "en": "UFOPA - Universidade Federal do Oeste do Para",
