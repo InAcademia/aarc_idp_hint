@@ -31,6 +31,10 @@
         "en": "UFFS - Universidade Federal da Fronteira Sul",
         "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
     },
+    "https://cafe-gateway.ifce.edu.br/idp/shibboleth": {
+        "en": "IFCE - Instituto Federal do Ceara",
+        "pt-br": "IFCE - Instituto Federal do Ceara"
+    },
     "https://cafe-idp.ifnmg.edu.br/idp/shibboleth": {
         "en": "IFNMG - Instituto Federal do Norte de Minas Gerais",
         "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
@@ -239,10 +243,6 @@
         "en": "UEMG - Universidade do Estado de Minas Gerais",
         "pt-br": "UEMG - Universidade do Estado de Minas Gerais"
     },
-    "https://cafe.uerr.edu.br/idp/shibboleth": {
-        "en": "UERR - Universidade Estadual De Roraima",
-        "pt-br": "UERR - Universidade Estadual De Roraima"
-    },
     "https://cafe.uesb.br/idp/shibboleth": {
         "en": "UESB - Universidade Estadual do Sudoeste da Bahia",
         "pt-br": "UESB - Universidade Estadual do Sudoeste da Bahia"
@@ -402,6 +402,10 @@
     "https://cafe5.ufes.br/idp/shibboleth": {
         "en": "UFES - Universidade Federal do Espirito Santo",
         "pt-br": "UFES - Universidade Federal do Espirito Santo"
+    },
+    "https://cafeidp.uerr.edu.br/idp/shibboleth": {
+        "en": "UERR - Universidade Estadual De Roraima",
+        "pt-br": "UERR - Universidade Estadual De Roraima"
     },
     "https://cafeidp.ufdpar.edu.br/idp/shibboleth": {
         "en": "UFDPAR - Universidade Federal do Delta do Parnaiba",

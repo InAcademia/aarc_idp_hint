@@ -66,7 +66,7 @@
         "en": "Directorate General Of Meteorology"
     },
     "https://idp.omren.om/idp": {
-        "en": "Oman Research and Education Network (OMREN_shibboleth)"
+        "en": "Oman Research and Education Network (Shibboleth)"
     },
     "https://idp.sarh.om/idp": {
         "en": "Sarh"
@@ -91,9 +91,6 @@
     },
     "https://idpomren.asds.edu.om/idp": {
         "en": "Academy of Strategic and Defence Studies (shibboleth)"
-    },
-    "https://idpomren.gutech.edu.om/idp": {
-        "en": "German University of Technology in Oman - GUtech (Shibboleth)"
     },
     "https://idpomren.hct.edu.om/idp": {
         "en": "University of Technology and Applied Sciences - Muscat (shibboleth)"
