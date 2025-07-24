@@ -115,8 +115,5 @@
     },
     "https://idpomren.su.edu.om/idp": {
         "en": "Sohar University (shibboleth)"
-    },
-    "https://omren-idp.moheri.gov.om/idp": {
-        "en": "Ministry of Higher Education, Research and Innovation"
     }
 }

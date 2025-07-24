@@ -955,6 +955,10 @@
         "en": "The Hong Kong University of Science and Technology (Guangzhou)",
         "zh": "香港科技大学（广州）(The Hong Kong University of Science and Technology (Guangzhou))"
     },
+    "https://idp.hkxy.edu.cn/idp/shibboleth": {
+        "en": "Hankou University",
+        "zh": "汉口学院(Hankou University)"
+    },
     "https://idp.hljeu.edu.cn/idp/shibboleth": {
         "en": "East University of Heilongjiang",
         "zh": "黑龙江东方学院(East University of Heilongjiang)"
