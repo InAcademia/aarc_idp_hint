@@ -32,8 +32,8 @@
     },
     "at": {
         "http://adfs.noc-science.at/adfs/services/trust": {
-            "de": "Bundesministerium für Bildung, Wissenschaft, Forschung",
-            "en": "Austrian Federal Ministry of Education, Science and Research"
+            "de": "Bundesministerium für Frauen, Wissenschaft und Forschung",
+            "en": "Austrian Federal Ministry of Women, Science and Research"
         },
         "https://aai-01.internet.ufg.ac.at/idp/shibboleth": {
             "de": "Universität für künstlerische und industrielle Gestaltung Linz",
@@ -3876,6 +3876,10 @@
         "https://idp.jssnu.edu.cn/idp/shibboleth": {
             "en": "Jiangsu Second Normal University",
             "zh": "江苏第二师范学院(Jiangsu Second Normal University)"
+        },
+        "https://idp.jssvc.edu.cn/idp/shibboleth": {
+            "en": "Suzhou Vocational University",
+            "zh": "苏州市职业大学(Suzhou Vocational University)"
         },
         "https://idp.jsut.edu.cn/idp/shibboleth": {
             "en": "Jiangsu University of Technology",
