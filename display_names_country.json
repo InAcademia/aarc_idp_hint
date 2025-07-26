@@ -1334,10 +1334,6 @@
             "en": "IFAP - Instituto Federal do Amapa",
             "pt-br": "IFAP - Instituto Federal do Amapa"
         },
-        "https://idp-cafe-v2.uerj.br/idp/shibboleth": {
-            "en": "UERJ - Universidade do Estado do Rio de Janeiro",
-            "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
-        },
         "https://idp-cafe.cemaden.gov.br/idp/shibboleth": {
             "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
             "pt-br": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais"
