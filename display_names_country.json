@@ -1034,6 +1034,10 @@
             "en": "IPA - Instituto Agronomico de Pernambuco",
             "pt-br": "IPA - Instituto Agronomico de Pernambuco"
         },
+        "https://cafe.isd.org.br/idp/shibboleth": {
+            "en": "ISD - Instituto de Ensino e Pesquisa Alberto Santos Dumont",
+            "pt-br": "ISD - Instituto de Ensino e Pesquisa Alberto Santos Dumont"
+        },
         "https://cafe.itaipuparquetec.org.br/idp/shibboleth": {
             "en": "FPTI - Fundacao Parque Tecnologico Itaipu",
             "pt-br": "FPTI - Fundacao Parque Tecnologico Itaipu"
@@ -1333,6 +1337,10 @@
         "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
             "en": "IFAP - Instituto Federal do Amapa",
             "pt-br": "IFAP - Instituto Federal do Amapa"
+        },
+        "https://idp-cafe-v2.uerj.br/idp/shibboleth": {
+            "en": "UERJ - Universidade do Estado do Rio de Janeiro",
+            "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
         },
         "https://idp-cafe.cemaden.gov.br/idp/shibboleth": {
             "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
@@ -6935,6 +6943,10 @@
             "de": "Katholische Hochschule für Sozialwesen Berlin",
             "en": "Catholic University of Applied Sciences Berlin"
         },
+        "https://idp.klassik-stiftung.de/idp/shibboleth": {
+            "de": "Klassik Stiftung Weimar",
+            "en": "Klassik Stiftung Weimar"
+        },
         "https://idp.ksfh.de/idp/shibboleth": {
             "de": "Katholische Stiftungshochschule München",
             "en": "Katholische Stiftungshochschule München."
@@ -7609,6 +7621,10 @@
         "https://shibboleth-idp.gwdg.de/gwdg/shibboleth": {
             "de": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen",
             "en": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen"
+        },
+        "https://shibboleth-idp.hbz-nrw.de/idp/shibboleth": {
+            "de": "Hochschulbibliothekszentrum NRW (hbz)",
+            "en": "Hochschulbibliothekszentrum NRW (hbz)"
         },
         "https://shibboleth-idp.ifo.de/idp/shibboleth": {
             "de": "ifo Institut",
@@ -20677,9 +20693,6 @@
         "https://idp.ship.edu/idp/shibboleth": {
             "en": "Shippensburg University of Pennsylvania"
         },
-        "https://idp.si.edu/idp/shibboleth": {
-            "en": "Smithsonian Institution (Old)"
-        },
         "https://idp.simmons.edu/idp/shibboleth": {
             "en": "Simmons University"
         },
@@ -21352,6 +21365,9 @@
         "https://sso.noirlab.edu": {
             "en": "NSF’s National Optical-Infrared Astronomy Research Laboratory (NOIRLab)"
         },
+        "https://sso.nova.edu/idp": {
+            "en": "Nova Southeastern University"
+        },
         "https://sso.nygenome.org/auth/realms/nygenome": {
             "en": "New York Genome Center"
         },
@@ -21383,7 +21399,7 @@
             "en": "San Diego Community College District"
         },
         "https://sso.si.edu/idp": {
-            "en": "Smithsonian Institution (New)"
+            "en": "Smithsonian Institution"
         },
         "https://sso.sittingbull.edu/idp": {
             "en": "Sitting Bull College"

@@ -191,6 +191,10 @@
         "en": "IPA - Instituto Agronomico de Pernambuco",
         "pt-br": "IPA - Instituto Agronomico de Pernambuco"
     },
+    "https://cafe.isd.org.br/idp/shibboleth": {
+        "en": "ISD - Instituto de Ensino e Pesquisa Alberto Santos Dumont",
+        "pt-br": "ISD - Instituto de Ensino e Pesquisa Alberto Santos Dumont"
+    },
     "https://cafe.itaipuparquetec.org.br/idp/shibboleth": {
         "en": "FPTI - Fundacao Parque Tecnologico Itaipu",
         "pt-br": "FPTI - Fundacao Parque Tecnologico Itaipu"
@@ -490,6 +494,10 @@
     "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
         "en": "IFAP - Instituto Federal do Amapa",
         "pt-br": "IFAP - Instituto Federal do Amapa"
+    },
+    "https://idp-cafe-v2.uerj.br/idp/shibboleth": {
+        "en": "UERJ - Universidade do Estado do Rio de Janeiro",
+        "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
     },
     "https://idp-cafe.cemaden.gov.br/idp/shibboleth": {
         "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",

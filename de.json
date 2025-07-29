@@ -703,6 +703,10 @@
         "de": "Katholische Hochschule für Sozialwesen Berlin",
         "en": "Catholic University of Applied Sciences Berlin"
     },
+    "https://idp.klassik-stiftung.de/idp/shibboleth": {
+        "de": "Klassik Stiftung Weimar",
+        "en": "Klassik Stiftung Weimar"
+    },
     "https://idp.ksfh.de/idp/shibboleth": {
         "de": "Katholische Stiftungshochschule München",
         "en": "Katholische Stiftungshochschule München."
@@ -1377,6 +1381,10 @@
     "https://shibboleth-idp.gwdg.de/gwdg/shibboleth": {
         "de": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen",
         "en": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen"
+    },
+    "https://shibboleth-idp.hbz-nrw.de/idp/shibboleth": {
+        "de": "Hochschulbibliothekszentrum NRW (hbz)",
+        "en": "Hochschulbibliothekszentrum NRW (hbz)"
     },
     "https://shibboleth-idp.ifo.de/idp/shibboleth": {
         "de": "ifo Institut",

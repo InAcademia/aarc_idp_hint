@@ -551,9 +551,6 @@
     "https://idp.ship.edu/idp/shibboleth": {
         "en": "Shippensburg University of Pennsylvania"
     },
-    "https://idp.si.edu/idp/shibboleth": {
-        "en": "Smithsonian Institution (Old)"
-    },
     "https://idp.simmons.edu/idp/shibboleth": {
         "en": "Simmons University"
     },
@@ -1226,6 +1223,9 @@
     "https://sso.noirlab.edu": {
         "en": "NSF’s National Optical-Infrared Astronomy Research Laboratory (NOIRLab)"
     },
+    "https://sso.nova.edu/idp": {
+        "en": "Nova Southeastern University"
+    },
     "https://sso.nygenome.org/auth/realms/nygenome": {
         "en": "New York Genome Center"
     },
@@ -1257,7 +1257,7 @@
         "en": "San Diego Community College District"
     },
     "https://sso.si.edu/idp": {
-        "en": "Smithsonian Institution (New)"
+        "en": "Smithsonian Institution"
     },
     "https://sso.sittingbull.edu/idp": {
         "en": "Sitting Bull College"
