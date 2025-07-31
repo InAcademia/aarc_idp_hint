@@ -1,5 +1,20 @@
 {
     "https://idp.maren.ac.mw/idp/shibboleth": {
         "en": "Malawi Research and Education Network - MAREN"
+    },
+    "https://idp.mubas.ac.mw/idp/shibboleth": {
+        "en": "Malawi University of Business and Applied Sciences (MUBAS)"
+    },
+    "https://idp.must.ac.mw/idp/shibboleth": {
+        "en": "Malawi University of Science and Technology (MUST)"
+    },
+    "https://idp.mzuni.ac.mw/idp/shibboleth": {
+        "en": "Mzuzu University (MZUNI)"
+    },
+    "https://idp.saveproject.mw/idp/shibboleth": {
+        "en": "Ministry of Education"
+    },
+    "https://idp.unima.ac.mw/idp/shibboleth": {
+        "en": "University Of Malawi"
     }
 }

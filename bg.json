@@ -27,6 +27,10 @@
         "bg": "Лабораторията по телематика",
         "en": "Laboratory of Telematics"
     },
+    "https://idp.mu-sofia.bg/idp/shibboleth": {
+        "bg": "Медицински Университет - София",
+        "en": "Medical University - Sofia"
+    },
     "https://idp.natfiz.bg/idp/shibboleth": {
         "bg": "Националната академия за театрално и филмово изкуство - Кръстьо Сарафов",
         "en": "National Academy of Theater and Film Arts - Krastyo Sarafov"
