@@ -115,6 +115,10 @@
         "de": "Otto-von-Guericke-Universität Magdeburg",
         "en": "Otto-von-Guericke-University Magdeburg"
     },
+    "https://idp-test.ism.de/idp/shibboleth": {
+        "de": "ISM International School of Management",
+        "en": "ISM International School of Management"
+    },
     "https://idp-vw.hfmdd.de/idp/shibboleth": {
         "de": "Hochschule für Musik Dresden",
         "en": "Hochschule fuer Musik Dresden"
