@@ -6359,10 +6359,6 @@
             "de": "Otto-von-Guericke-Universität Magdeburg",
             "en": "Otto-von-Guericke-University Magdeburg"
         },
-        "https://idp-test.ism.de/idp/shibboleth": {
-            "de": "ISM International School of Management",
-            "en": "ISM International School of Management"
-        },
         "https://idp-vw.hfmdd.de/idp/shibboleth": {
             "de": "Hochschule für Musik Dresden",
             "en": "Hochschule fuer Musik Dresden"
@@ -6926,6 +6922,10 @@
         "https://idp.isas.de/idp/shibboleth": {
             "de": "Leibniz-Institut fuer Analytische Wissenschaften - ISAS - e.V.",
             "en": "Leibniz-Institut fuer Analytische Wissenschaften - ISAS - e.V."
+        },
+        "https://idp.ism.de/idp/shibboleth": {
+            "de": "ISM International School of Management",
+            "en": "ISM International School of Management"
         },
         "https://idp.itmc.tu-dortmund.de/idp/shibboleth": {
             "de": "Technische Universität Dortmund",
