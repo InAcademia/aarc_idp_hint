@@ -20306,6 +20306,9 @@
         "https://id.uww.edu/idp": {
             "en": "University of Wisconsin - Whitewater -"
         },
+        "https://id.wisconsin.edu/idp": {
+            "en": "Universities of Wisconsin"
+        },
         "https://idcs-6dfbdd810afa4d509f6cfc191d612acd.identity.oraclecloud.com:443/fed": {
             "en": "University of Colorado Denver | Anschutz Medical Campus"
         },
