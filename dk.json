@@ -3,10 +3,6 @@
         "da": "College360",
         "en": "College360"
     },
-    "http://adfs.cphbusiness.dk/adfs/services/trust": {
-        "da": "Cphbusiness",
-        "en": "Cphbusiness"
-    },
     "http://adfs.eaaa.dk/adfs/services/trust": {
         "da": "Erhvervsakademi Aarhus",
         "en": "Business Academy Aarhus"
@@ -22,10 +18,6 @@
     "http://adfs.hrs.dk/adfs/services/trust": {
         "da": "Hotel- og Restaurantskolen",
         "en": "Copenhagen Hospitality College"
-    },
-    "http://adfs.kea.dk/adfs/services/trust": {
-        "da": "KEA – Københavns Erhvervsakademi",
-        "en": "Copenhagen School of Design and Technology (KEA)"
     },
     "http://adfs.learnmark.dk/adfs/services/trust": {
         "da": "Learnmark Horsens",
@@ -225,6 +217,10 @@
     "https://sts.windows.net/8c4b86b1-f982-431e-ad78-88eccf41e1f0/": {
         "en": "Iceland University of the Arts",
         "is": "Listaháskóli Íslands"
+    },
+    "https://sts.windows.net/9aafd452-b819-40a3-a400-f94ff33b0125/": {
+        "da": "Erhvervsakademi København",
+        "en": "Business Academy Copenhagen"
     },
     "https://sts.windows.net/9ffd9551-461b-4f09-8b17-b822440a6649/": {
         "da": "Kræftens Bekæmpelse",
