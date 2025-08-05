@@ -989,9 +989,6 @@
     "https://shibboleth.main.ad.rit.edu/idp/shibboleth": {
         "en": "Rochester Institute of Technology"
     },
-    "https://shibboleth.nypl.org/idp/shibboleth": {
-        "en": "New York Public Library"
-    },
     "https://shibboleth.pace.edu/idp/shibboleth": {
         "en": "Pace University"
     },

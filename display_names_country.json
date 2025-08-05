@@ -1751,8 +1751,8 @@
             "pt-br": "IFSUL - Instituto Federal Sul-rio-grandense"
         },
         "https://infra031.umc.br/idp/shibboleth": {
-            "en": "UMC - Universidade de Mogi das Cruzes",
-            "pt-br": "UMC - Universidade de Mogi das Cruzes"
+            "en": "UMC - Organizacao Mogiana de Educacao e Cultura",
+            "pt-br": "UMC - Organizacao Mogiana de Educacao e Cultura"
         },
         "https://ipameri.cti.gov.br/idp/shibboleth": {
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer",
@@ -9100,7 +9100,7 @@
         },
         "https://www.rediris.es/sir/unexidp": {
             "en": "Universidad de Extremadura (via SIR2 Federation)",
-            "es": "Universidad de Extremadura"
+            "es": "Universidad de Extremadura (via SIR2 Federation)"
         },
         "https://www.rediris.es/sir/uniaidp": {
             "en": "Universidad Internacional de Andalucia",
@@ -11682,6 +11682,9 @@
         "https://idp.aiktclibrary.org/idp/shibboleth": {
             "en": "Anjuman-I-Islams Kalsekar Technical Campus"
         },
+        "https://idp.aktu.ac.in/idp/shibboleth": {
+            "en": "Dr. A. P. J. Abdul Kalam Technical University, Lucknow"
+        },
         "https://idp.alagappauniversity.ac.in/idp/shibboleth": {
             "en": "Alagappa University, Tamil Nadu"
         },
@@ -11831,6 +11834,9 @@
         },
         "https://idp.guglibrary.net/idp/shibboleth": {
             "en": "Gulbarga University"
+        },
+        "https://idp.hbtu.ac.in/idp/shibboleth": {
+            "en": "Harcourt Butler Technical University"
         },
         "https://idp.hmlibrary.ac.in/idp/shibboleth": {
             "en": "The Maharaja Sayajirao University (MSU) of Baroda"
@@ -21149,9 +21155,6 @@
         },
         "https://shibboleth.main.ad.rit.edu/idp/shibboleth": {
             "en": "Rochester Institute of Technology"
-        },
-        "https://shibboleth.nypl.org/idp/shibboleth": {
-            "en": "New York Public Library"
         },
         "https://shibboleth.pace.edu/idp/shibboleth": {
             "en": "Pace University"
