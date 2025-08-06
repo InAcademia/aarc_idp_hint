@@ -1220,6 +1220,9 @@
     "https://sso.nist.gov/idp": {
         "en": "NIST (National Institute of Standards and Technology)"
     },
+    "https://sso.nmsu.edu/idp": {
+        "en": "New Mexico State University"
+    },
     "https://sso.noirlab.edu": {
         "en": "NSF’s National Optical-Infrared Astronomy Research Laboratory (NOIRLab)"
     },
@@ -1354,6 +1357,9 @@
     },
     "https://ssosw.losrios.edu/idp/shibboleth": {
         "en": "Los Rios Single Sign On"
+    },
+    "https://stem.carthage.edu/idp": {
+        "en": "Carthage OneLogin IdP"
     },
     "https://ucanridp.ucanr.edu/idp/shibboleth": {
         "en": "University of California, Agriculture and Natural Resources"

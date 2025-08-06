@@ -11682,9 +11682,6 @@
         "https://idp.aiktclibrary.org/idp/shibboleth": {
             "en": "Anjuman-I-Islams Kalsekar Technical Campus"
         },
-        "https://idp.aktu.ac.in/idp/shibboleth": {
-            "en": "Dr. A. P. J. Abdul Kalam Technical University, Lucknow"
-        },
         "https://idp.alagappauniversity.ac.in/idp/shibboleth": {
             "en": "Alagappa University, Tamil Nadu"
         },
@@ -11834,9 +11831,6 @@
         },
         "https://idp.guglibrary.net/idp/shibboleth": {
             "en": "Gulbarga University"
-        },
-        "https://idp.hbtu.ac.in/idp/shibboleth": {
-            "en": "Harcourt Butler Technical University"
         },
         "https://idp.hmlibrary.ac.in/idp/shibboleth": {
             "en": "The Maharaja Sayajirao University (MSU) of Baroda"
@@ -13867,6 +13861,10 @@
         "https://lammc.sso.litnet.lt/auth/saml2/idp/metadata.php": {
             "en": "Lithuanian Research Centre for Agriculture and Forestry",
             "lt": "Lietuvos agrarinių ir miškų mokslų centras"
+        },
+        "https://lei.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+            "en": "Lithuanian Energy Institute",
+            "lt": "Lietuvos energetikos institutas"
         },
         "https://lka.sso.litnet.lt/auth/saml2/idp/metadata.php": {
             "en": "General Jonas Žemaitis Military Academy of Lithuania",
@@ -21387,6 +21385,9 @@
         "https://sso.nist.gov/idp": {
             "en": "NIST (National Institute of Standards and Technology)"
         },
+        "https://sso.nmsu.edu/idp": {
+            "en": "New Mexico State University"
+        },
         "https://sso.noirlab.edu": {
             "en": "NSF’s National Optical-Infrared Astronomy Research Laboratory (NOIRLab)"
         },
@@ -21521,6 +21522,9 @@
         },
         "https://ssosw.losrios.edu/idp/shibboleth": {
             "en": "Los Rios Single Sign On"
+        },
+        "https://stem.carthage.edu/idp": {
+            "en": "Carthage OneLogin IdP"
         },
         "https://ucanridp.ucanr.edu/idp/shibboleth": {
             "en": "University of California, Agriculture and Natural Resources"

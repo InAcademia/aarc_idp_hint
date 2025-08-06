@@ -27,6 +27,10 @@
         "en": "Lithuanian Research Centre for Agriculture and Forestry",
         "lt": "Lietuvos agrarinių ir miškų mokslų centras"
     },
+    "https://lei.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+        "en": "Lithuanian Energy Institute",
+        "lt": "Lietuvos energetikos institutas"
+    },
     "https://lka.sso.litnet.lt/auth/saml2/idp/metadata.php": {
         "en": "General Jonas Žemaitis Military Academy of Lithuania",
         "lt": "Generolo Jono Žemaičio Lietuvos karo akademija"
