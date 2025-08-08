@@ -1462,10 +1462,6 @@
             "en": "CNEN - Comissao Nacional de Energia Nuclear",
             "pt-br": "CNEN - Comissao Nacional de Energia Nuclear"
         },
-        "https://idp.dr.ufu.br/idp/shibboleth": {
-            "en": "UFU - Universidade Federal de Uberlandia",
-            "pt-br": "UFU - Universidade Federal de Uberlandia"
-        },
         "https://idp.esd.gov.br/idp/shibboleth": {
             "en": "ESD - Escola Superior de Defesa",
             "pt-br": "ESD - Escola Superior de Defesa"
@@ -11658,6 +11654,9 @@
         "https://elms.cuh.ac.in/idp/shibboleth": {
             "en": "Central University of Haryana"
         },
+        "https://eresouces.puchd.ac.in/idp/shibboleth": {
+            "en": "Panjab University"
+        },
         "https://eresource.nationallibrary.gov.in/idp/shibboleth": {
             "en": "National Library of India"
         },
@@ -11681,6 +11680,9 @@
         },
         "https://idp.aiktclibrary.org/idp/shibboleth": {
             "en": "Anjuman-I-Islams Kalsekar Technical Campus"
+        },
+        "https://idp.aktu.ac.in/idp/shibboleth": {
+            "en": "Dr. A. P. J. Abdul Kalam Technical University, Lucknow"
         },
         "https://idp.alagappauniversity.ac.in/idp/shibboleth": {
             "en": "Alagappa University, Tamil Nadu"
@@ -11831,6 +11833,9 @@
         },
         "https://idp.guglibrary.net/idp/shibboleth": {
             "en": "Gulbarga University"
+        },
+        "https://idp.hbtu.ac.in/idp/shibboleth": {
+            "en": "Harcourt Butler Technical University"
         },
         "https://idp.hmlibrary.ac.in/idp/shibboleth": {
             "en": "The Maharaja Sayajirao University (MSU) of Baroda"
@@ -12033,6 +12038,9 @@
         "https://idp.mbu.asia/idp/shibboleth": {
             "en": "Mohan Babu University"
         },
+        "https://idp.mcbu.ac.in/idp/shibboleth": {
+            "en": "Maharaja Chhatrasal Bundelkhand University"
+        },
         "https://idp.mcet.in/idp/shibboleth": {
             "en": "Dr.Mahalingam College of Engineering and Technology"
         },
@@ -12107,6 +12115,9 @@
         },
         "https://idp.nitjsr.ac.in/idp/shibboleth": {
             "en": "National Institute of Technology, Jamshedpur"
+        },
+        "https://idp.nitmz.ac.in/idp/shibboleth": {
+            "en": "National Institute of Technology - Mizoram"
         },
         "https://idp.nitrkl.ac.in/idp/shibboleth": {
             "en": "National Institute of Technology, Rourkela"
@@ -13432,8 +13443,8 @@
             "ja": "福山大学"
         },
         "https://mfa-idp.shiga-med.ac.jp/idp/shibboleth": {
-            "en": "Shiga University of Medical Science (new IdP)",
-            "ja": "滋賀医科大学 (新IdP)"
+            "en": "Shiga University of Medical Science",
+            "ja": "滋賀医科大学"
         },
         "https://nifsacjp.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "National Institute for Fusion Science (extic)",
