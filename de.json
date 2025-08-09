@@ -311,6 +311,10 @@
         "de": "Technische Hochschule Würzburg-Schweinfurt",
         "en": "Technische Hochschule Würzburg-Schweinfurt"
     },
+    "https://idp.filmakademie.de/idp/shibboleth": {
+        "de": "Filmakademie Baden-Wuerttemberg (Prod)",
+        "en": "Filmakademie Baden-Wuerttemberg (Prod)"
+    },
     "https://idp.fiz-karlsruhe.de/idp/shibboleth": {
         "de": "FIZ Karlsruhe",
         "en": "FIZ Karlsruhe"

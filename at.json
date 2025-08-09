@@ -79,6 +79,10 @@
         "de": "Institute of Science and Technology Austria (ISTA)",
         "en": "Institute of Science and Technology Austria (ISTA)"
     },
+    "https://idp.it-u.at/idp/shibboleth": {
+        "de": "Interdisciplinary Transformation University (IT:U)",
+        "en": "Interdisciplinary Transformation University (IT:U)"
+    },
     "https://idp.jhp.ac.at/idp/shibboleth": {
         "de": "Joseph Haydn Privathochschule",
         "en": "Joseph Haydn Private University"

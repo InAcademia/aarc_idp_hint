@@ -119,10 +119,6 @@
         "en": "IHE Delft Institute for Water Education",
         "nl": "IHE Delft Institute for Water Education"
     },
-    "http://idp.mmc.nl/adfs/services/trust": {
-        "en": "Máxima MC",
-        "nl": "Máxima MC"
-    },
     "http://login.hva.nl/adfs/services/trust": {
         "en": "Amsterdam University of Applied Sciences",
         "nl": "Hogeschool van Amsterdam"
@@ -522,6 +518,10 @@
     "https://sts.windows.net/8e600f92-30df-4667-b7c0-3f2595f3f12b/": {
         "en": "Mediacollege Amsterdam",
         "nl": "Mediacollege Amsterdam"
+    },
+    "https://sts.windows.net/8f7e9345-716f-4f39-b3f8-2fff46aae97f/": {
+        "en": "Máxima MC",
+        "nl": "Máxima MC"
     },
     "https://sts.windows.net/910c787e-4fb6-4a2b-9563-777b5461517a/": {
         "en": "Trimbos Instituut",

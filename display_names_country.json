@@ -111,6 +111,10 @@
             "de": "Institute of Science and Technology Austria (ISTA)",
             "en": "Institute of Science and Technology Austria (ISTA)"
         },
+        "https://idp.it-u.at/idp/shibboleth": {
+            "de": "Interdisciplinary Transformation University (IT:U)",
+            "en": "Interdisciplinary Transformation University (IT:U)"
+        },
         "https://idp.jhp.ac.at/idp/shibboleth": {
             "de": "Joseph Haydn Privathochschule",
             "en": "Joseph Haydn Private University"
@@ -2611,7 +2615,7 @@
             "en": "University of Fribourg"
         },
         "https://aai.unil.ch/idp/shibboleth": {
-            "en": "Universite de Lausanne",
+            "en": "Université de Lausanne",
             "fr": "Université de Lausanne"
         },
         "https://aai.unisg.ch/idp/shibboleth": {
@@ -6550,6 +6554,10 @@
         "https://idp.fhws.de/idp/shibboleth": {
             "de": "Technische Hochschule Würzburg-Schweinfurt",
             "en": "Technische Hochschule Würzburg-Schweinfurt"
+        },
+        "https://idp.filmakademie.de/idp/shibboleth": {
+            "de": "Filmakademie Baden-Wuerttemberg (Prod)",
+            "en": "Filmakademie Baden-Wuerttemberg (Prod)"
         },
         "https://idp.fiz-karlsruhe.de/idp/shibboleth": {
             "de": "FIZ Karlsruhe",
@@ -10707,10 +10715,6 @@
             "en": "Université Bretagne Sud",
             "fr": "Université Bretagne Sud"
         },
-        "urn:mace:cru.fr:federation:univ-valenciennes.fr": {
-            "en": "University of Valenciennes (obsolete)",
-            "fr": "Université de Valenciennes (obsolete)"
-        },
         "urn:mace:cru.fr:federation:utc.fr": {
             "en": "UTC - Université de Technologie de Compiègne",
             "fr": "UTC - Université de Technologie de Compiègne"
@@ -14756,10 +14760,6 @@
             "en": "IHE Delft Institute for Water Education",
             "nl": "IHE Delft Institute for Water Education"
         },
-        "http://idp.mmc.nl/adfs/services/trust": {
-            "en": "Máxima MC",
-            "nl": "Máxima MC"
-        },
         "http://login.hva.nl/adfs/services/trust": {
             "en": "Amsterdam University of Applied Sciences",
             "nl": "Hogeschool van Amsterdam"
@@ -15159,6 +15159,10 @@
         "https://sts.windows.net/8e600f92-30df-4667-b7c0-3f2595f3f12b/": {
             "en": "Mediacollege Amsterdam",
             "nl": "Mediacollege Amsterdam"
+        },
+        "https://sts.windows.net/8f7e9345-716f-4f39-b3f8-2fff46aae97f/": {
+            "en": "Máxima MC",
+            "nl": "Máxima MC"
         },
         "https://sts.windows.net/910c787e-4fb6-4a2b-9563-777b5461517a/": {
             "en": "Trimbos Instituut",
