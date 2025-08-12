@@ -47,6 +47,10 @@
         "de": "Fachhochschule Potsdam",
         "en": "Fachhochschule Potsdam, University of Applied Scienes"
     },
+    "https://auth.medizin.uni-tuebingen.de": {
+        "de": "Universitätsklinikum Tübingen",
+        "en": "University Hospital Tuebingen"
+    },
     "https://auth.vifa-recht.de/idp/shibboleth": {
         "de": "FID-Recht (VHO)",
         "en": "FID-Recht (VHO)"

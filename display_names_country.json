@@ -6283,6 +6283,10 @@
             "de": "Fachhochschule Potsdam",
             "en": "Fachhochschule Potsdam, University of Applied Scienes"
         },
+        "https://auth.medizin.uni-tuebingen.de": {
+            "de": "Universitätsklinikum Tübingen",
+            "en": "University Hospital Tuebingen"
+        },
         "https://auth.vifa-recht.de/idp/shibboleth": {
             "de": "FID-Recht (VHO)",
             "en": "FID-Recht (VHO)"
@@ -15173,8 +15177,8 @@
             "nl": "Driestar educatief"
         },
         "https://sts.windows.net/98932909-9a5a-4d18-ace4-7236b5b5e11d/": {
-            "en": "University of Applied Sciences Utrecht (New)",
-            "nl": "Hogeschool Utrecht (Nieuw)"
+            "en": "University of Applied Sciences Utrecht",
+            "nl": "Hogeschool Utrecht"
         },
         "https://sts.windows.net/99193bd4-318d-47c6-a896-24e15f7a7e1b/": {
             "en": "Royal Tropical Institute",
