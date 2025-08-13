@@ -79,6 +79,10 @@
         "de": "Charité - Universitätsmedizin Berlin",
         "en": "Charite - Universitaetsmedizin Berlin"
     },
+    "https://diw-idp.diw.de/idp/shibboleth": {
+        "de": "diw-idp.diw.de",
+        "en": "diw-idp.diw.de"
+    },
     "https://dkfzshib.inet.dkfz-heidelberg.de/idp/shibboleth": {
         "de": "Deutsches Krebsforschungszentrum (DKFZ)",
         "en": "Deutsches Krebsforschungszentrum (DKFZ)"
