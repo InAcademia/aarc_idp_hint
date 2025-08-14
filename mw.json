@@ -1,4 +1,7 @@
 {
+    "https://idp.luanar.ac.mw/idp/shibboleth": {
+        "en": "Lilongwe University of Agriculture and Natural Resources - LUANAR"
+    },
     "https://idp.maren.ac.mw/idp/shibboleth": {
         "en": "Malawi Research and Education Network - MAREN"
     },

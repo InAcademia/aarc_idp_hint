@@ -1618,6 +1618,10 @@
             "en": "UNIRV - Universidade de Rio Verde",
             "pt-br": "UNIRV - Universidade de Rio Verde"
         },
+        "https://idp.unis.edu.br/idp/shibboleth": {
+            "en": "UNIS - Centro Universitario do Sul de Minas",
+            "pt-br": "UNIS - Centro Universitario do Sul de Minas"
+        },
         "https://idp.unisanta.br/idp/shibboleth": {
             "en": "UNISANTA - Instituto Superior de Educacao Santa Cecilia",
             "pt-br": "UNISANTA - Instituto Superior de Educacao Santa Cecilia"
@@ -6175,7 +6179,7 @@
         },
         "https://shib.zcu.cz/idp/shibboleth": {
             "cs": "Západočeská univerzita v Plzni",
-            "en": "University of West Bohemia"
+            "en": "University of West Bohemia in Pilsen"
         },
         "https://shibbo.tul.cz/idp/shibboleth": {
             "cs": "Technická univerzita v Liberci",
@@ -14034,9 +14038,6 @@
         "https://skmms-idp.lanet.lv": {
             "en": "Riga Red Cross Medical College"
         },
-        "https://sse-idp.lanet.lv": {
-            "en": "Stockholm School of Economics in Riga"
-        },
         "https://va-idp.lanet.lv": {
             "en": "Vidzeme University of Applied Sciences"
         },
@@ -14108,6 +14109,9 @@
         }
     },
     "mw": {
+        "https://idp.luanar.ac.mw/idp/shibboleth": {
+            "en": "Lilongwe University of Agriculture and Natural Resources - LUANAR"
+        },
         "https://idp.maren.ac.mw/idp/shibboleth": {
             "en": "Malawi Research and Education Network - MAREN"
         },
