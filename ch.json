@@ -203,8 +203,8 @@
         "fr": "CHUV - Centre hospitalier universitaire vaudois"
     },
     "https://idp.epfl.ch/idp/shibboleth": {
-        "de": "EPFL - EPF Lausanne",
-        "en": "EPFL - EPF Lausanne"
+        "de": "EPFL",
+        "en": "EPFL"
     },
     "https://idp.fernuni.ch/idp/shibboleth": {
         "de": "FernUni Schweiz",
