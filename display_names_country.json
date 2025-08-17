@@ -1850,10 +1850,6 @@
             "en": "ABC - Academia Brasileira de Ciencias",
             "pt-br": "ABC - Academia Brasileira de Ciencias"
         },
-        "https://shibboleth.cetem.gov.br/idp/shibboleth": {
-            "en": "CETEM - Centro de Tecnologia Mineral",
-            "pt-br": "CETEM - Centro de Tecnologia Mineral"
-        },
         "https://shibboleth.embrapii.org.br/idp/shibboleth": {
             "en": "EMBRAPII - Empresa Brasileira de Pesquisa e Inovacao Industrial",
             "pt-br": "EMBRAPII - Empresa Brasileira de Pesquisa e Inovacao Industrial"
@@ -1997,10 +1993,6 @@
         "https://shibboleth4.ueg.br/idp/shibboleth": {
             "en": "UEG - Universidade Estadual de Goias",
             "pt-br": "UEG - Universidade Estadual de Goias"
-        },
-        "https://shibboleth4.uem.br/idp/shibboleth": {
-            "en": "UEM - Universidade Estadual de Maringa",
-            "pt-br": "UEM - Universidade Estadual de Maringa"
         },
         "https://shibboleth4.ufms.br/idp/shibboleth": {
             "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
