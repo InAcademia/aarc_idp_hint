@@ -1143,6 +1143,10 @@
         "en": "UEG - Universidade Estadual de Goias",
         "pt-br": "UEG - Universidade Estadual de Goias"
     },
+    "https://shibboleth4.uem.br/idp/shibboleth": {
+        "en": "UEM - Universidade Estadual de Maringa",
+        "pt-br": "UEM - Universidade Estadual de Maringa"
+    },
     "https://shibboleth4.ufms.br/idp/shibboleth": {
         "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
         "pt-br": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul"

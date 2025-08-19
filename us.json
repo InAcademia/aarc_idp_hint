@@ -587,6 +587,9 @@
     "https://idp.umassd.edu/idp/shibboleth": {
         "en": "University of Massachusetts - Dartmouth"
     },
+    "https://idp.unca.edu/idp/shibboleth": {
+        "en": "UNC Asheville"
+    },
     "https://idp.unicon.net/idp/shibboleth": {
         "en": "Unicon, Inc."
     },
