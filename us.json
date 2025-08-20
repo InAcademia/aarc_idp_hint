@@ -1151,6 +1151,9 @@
     "https://sso.delval.edu/idp": {
         "en": "Delaware Valley University"
     },
+    "https://sso.denison.edu/idp": {
+        "en": "Denison University"
+    },
     "https://sso.ecu.edu/idp/shibboleth": {
         "en": "East Carolina University"
     },

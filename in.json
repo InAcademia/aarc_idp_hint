@@ -176,6 +176,9 @@
     "https://idp.du.ac.in/idp/shibboleth": {
         "en": "University of Delhi"
     },
+    "https://idp.ejlsonos.in/idp/shibboleth": {
+        "en": "Defence Scientific Information And Documentation centre"
+    },
     "https://idp.gauhati.ac.in/idp/shibboleth": {
         "en": "Krishna Kanta Handiqui Library of Gauhati University"
     },
@@ -241,6 +244,9 @@
     },
     "https://idp.iima.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Management, Ahmedabad"
+    },
+    "https://idp.iimbg.ac.in/idp/shibboleth": {
+        "en": "Indian Institute Of Management–Bodh Gaya (IIM–Bodh Gaya)"
     },
     "https://idp.iimsirmaur.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Management Sirmaur"

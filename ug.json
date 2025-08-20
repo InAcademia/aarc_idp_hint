@@ -566,6 +566,9 @@
     "https://idp-wellstar.renu.ac.ug/idp/shibboleth": {
         "en": "Wellstar Bright Secondary School - Mukono"
     },
+    "https://idp.gu.ac.ug/idp/shibboleth": {
+        "en": "Gulu University IdP"
+    },
     "https://idp.kyu.ac.ug/idp/shibboleth": {
         "en": "Kyambogo University"
     },

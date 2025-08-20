@@ -11828,6 +11828,9 @@
         "https://idp.du.ac.in/idp/shibboleth": {
             "en": "University of Delhi"
         },
+        "https://idp.ejlsonos.in/idp/shibboleth": {
+            "en": "Defence Scientific Information And Documentation centre"
+        },
         "https://idp.gauhati.ac.in/idp/shibboleth": {
             "en": "Krishna Kanta Handiqui Library of Gauhati University"
         },
@@ -11893,6 +11896,9 @@
         },
         "https://idp.iima.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Management, Ahmedabad"
+        },
+        "https://idp.iimbg.ac.in/idp/shibboleth": {
+            "en": "Indian Institute Of Management–Bodh Gaya (IIM–Bodh Gaya)"
         },
         "https://idp.iimsirmaur.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Management Sirmaur"
@@ -18409,6 +18415,9 @@
         "https://idp-wellstar.renu.ac.ug/idp/shibboleth": {
             "en": "Wellstar Bright Secondary School - Mukono"
         },
+        "https://idp.gu.ac.ug/idp/shibboleth": {
+            "en": "Gulu University IdP"
+        },
         "https://idp.kyu.ac.ug/idp/shibboleth": {
             "en": "Kyambogo University"
         },
@@ -21334,6 +21343,9 @@
         },
         "https://sso.delval.edu/idp": {
             "en": "Delaware Valley University"
+        },
+        "https://sso.denison.edu/idp": {
+            "en": "Denison University"
         },
         "https://sso.ecu.edu/idp/shibboleth": {
             "en": "East Carolina University"
