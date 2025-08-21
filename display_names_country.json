@@ -1438,10 +1438,6 @@
             "en": "UESPI - Universidade Estadual do Piaui",
             "pt-br": "UESPI - Universidade Estadual do Piaui"
         },
-        "https://idp-shib421.funpec.br/idp/shibboleth": {
-            "en": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura",
-            "pt-br": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura"
-        },
         "https://idp-shib421.unichristus.edu.br/idp/shibboleth": {
             "en": "UNICHRISTUS - Centro Universitario Unichristus",
             "pt-br": "UNICHRISTUS - Centro Universitario Unichristus"
@@ -1849,6 +1845,10 @@
         "https://shibboleth.abc.org.br/idp/shibboleth": {
             "en": "ABC - Academia Brasileira de Ciencias",
             "pt-br": "ABC - Academia Brasileira de Ciencias"
+        },
+        "https://shibboleth.cetem.gov.br/idp/shibboleth": {
+            "en": "CETEM - Centro de Tecnologia Mineral",
+            "pt-br": "CETEM - Centro de Tecnologia Mineral"
         },
         "https://shibboleth.embrapii.org.br/idp/shibboleth": {
             "en": "EMBRAPII - Empresa Brasileira de Pesquisa e Inovacao Industrial",
@@ -4820,6 +4820,10 @@
         "https://idp.usx.edu.cn/idp/shibboleth": {
             "en": "Shaoxing University",
             "zh": "绍兴文理学院(Shaoxing University)"
+        },
+        "https://idp.utibet.edu.cn/idp/shibboleth": {
+            "en": "Xizang University",
+            "zh": "西藏大学(Xizang University)"
         },
         "https://idp.v.zzu.edu.cn/idp/shibboleth": {
             "en": "Zhengzhou University",
