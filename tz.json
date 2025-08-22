@@ -2,6 +2,9 @@
     "https://idp.eastc.ac.tz/idp/shibboleth": {
         "en": "Eastern Africa Statistical Training Centre (EASTC)"
     },
+    "https://idp.ipa.ac.tz/idp/shibboleth": {
+        "en": "The Institute of Public Administration (IPA)"
+    },
     "https://idp.ku.ac.tz/idp/shibboleth": {
         "en": "Kairuki University (KU)"
     },

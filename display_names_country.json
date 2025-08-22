@@ -17823,6 +17823,9 @@
         "https://idp.eastc.ac.tz/idp/shibboleth": {
             "en": "Eastern Africa Statistical Training Centre (EASTC)"
         },
+        "https://idp.ipa.ac.tz/idp/shibboleth": {
+            "en": "The Institute of Public Administration (IPA)"
+        },
         "https://idp.ku.ac.tz/idp/shibboleth": {
             "en": "Kairuki University (KU)"
         },
@@ -19828,9 +19831,6 @@
         "https://passport01.leeds.ac.uk/idp/shibboleth": {
             "en": "University of Leeds"
         },
-        "https://peterborough.ac.uk/oala/metadata": {
-            "en": "IEG Peterborough College"
-        },
         "https://pleiades.lscollege.ac.uk/idp/shibboleth": {
             "en": "Lewisham Southwark College"
         },
@@ -20065,9 +20065,6 @@
         "https://shibboleth.staffs.ac.uk/idp/shibboleth": {
             "en": "University of Staffordshire"
         },
-        "https://shibboleth.stamford.ac.uk/idp/shibboleth": {
-            "en": "IEG Stamford College"
-        },
         "https://shibboleth.strode-college.ac.uk/idp/shibboleth": {
             "en": "Strode College"
         },
@@ -20197,7 +20194,7 @@
     },
     "us": {
         "http://adfs.ad.und.edu/adfs/services/trust": {
-            "en": "University of North Dakota"
+            "en": "(Old) University of North Dakota"
         },
         "http://adfs.nic.edu/adfs/services/trust": {
             "en": "North Idaho College"
@@ -20786,6 +20783,9 @@
         },
         "https://idp.unca.edu/idp/shibboleth": {
             "en": "UNC Asheville"
+        },
+        "https://idp.und.edu/idp": {
+            "en": "University of North Dakota"
         },
         "https://idp.unicon.net/idp/shibboleth": {
             "en": "Unicon, Inc."

@@ -1370,9 +1370,6 @@
     "https://passport01.leeds.ac.uk/idp/shibboleth": {
         "en": "University of Leeds"
     },
-    "https://peterborough.ac.uk/oala/metadata": {
-        "en": "IEG Peterborough College"
-    },
     "https://pleiades.lscollege.ac.uk/idp/shibboleth": {
         "en": "Lewisham Southwark College"
     },
@@ -1606,9 +1603,6 @@
     },
     "https://shibboleth.staffs.ac.uk/idp/shibboleth": {
         "en": "University of Staffordshire"
-    },
-    "https://shibboleth.stamford.ac.uk/idp/shibboleth": {
-        "en": "IEG Stamford College"
     },
     "https://shibboleth.strode-college.ac.uk/idp/shibboleth": {
         "en": "Strode College"
