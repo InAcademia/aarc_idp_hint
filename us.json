@@ -1223,6 +1223,9 @@
     "https://sso.nccu.edu/idp": {
         "en": "North Carolina Central University"
     },
+    "https://sso.ncsu.edu/idp": {
+        "en": "DEVELOPMENT North Carolina State University"
+    },
     "https://sso.nhsc.edu/idp": {
         "en": "Nueta Hidatsa Sahnish College"
     },
@@ -1369,6 +1372,9 @@
     },
     "https://stem.carthage.edu/idp": {
         "en": "Carthage OneLogin IdP"
+    },
+    "https://teex.tamu.edu/idp": {
+        "en": "Texas A&M Engineering Extension Service"
     },
     "https://ucanridp.ucanr.edu/idp/shibboleth": {
         "en": "University of California, Agriculture and Natural Resources"

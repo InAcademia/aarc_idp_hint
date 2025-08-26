@@ -371,10 +371,6 @@
         "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
         "pt-br": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ"
     },
-    "https://cafe2.dti.ufv.br/idp/shibboleth": {
-        "en": "UFV - Universidade Federal de Vicosa",
-        "pt-br": "UFV - Universidade Federal de Vicosa"
-    },
     "https://cafe2.unesp.br/idp/shibboleth": {
         "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
         "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
@@ -587,6 +583,10 @@
         "en": "UESPI - Universidade Estadual do Piaui",
         "pt-br": "UESPI - Universidade Estadual do Piaui"
     },
+    "https://idp-shib421.funpec.br/idp/shibboleth": {
+        "en": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura",
+        "pt-br": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura"
+    },
     "https://idp-shib421.unichristus.edu.br/idp/shibboleth": {
         "en": "UNICHRISTUS - Centro Universitario Unichristus",
         "pt-br": "UNICHRISTUS - Centro Universitario Unichristus"
@@ -730,6 +730,10 @@
     "https://idp.uftm.edu.br/idp/shibboleth": {
         "en": "UFTM - Universidade Federal do Triangulo Mineiro",
         "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
+    },
+    "https://idp.ufv.br/idp/shibboleth": {
+        "en": "UFV - Universidade Federal de Vicosa",
+        "pt-br": "UFV - Universidade Federal de Vicosa"
     },
     "https://idp.unifacef.edu.br/idp/shibboleth": {
         "en": "UNI-FACEF - Centro Universitario Municipal de Franca",

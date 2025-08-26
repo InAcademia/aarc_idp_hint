@@ -1222,10 +1222,6 @@
             "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
             "pt-br": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ"
         },
-        "https://cafe2.dti.ufv.br/idp/shibboleth": {
-            "en": "UFV - Universidade Federal de Vicosa",
-            "pt-br": "UFV - Universidade Federal de Vicosa"
-        },
         "https://cafe2.unesp.br/idp/shibboleth": {
             "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
             "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
@@ -1438,6 +1434,10 @@
             "en": "UESPI - Universidade Estadual do Piaui",
             "pt-br": "UESPI - Universidade Estadual do Piaui"
         },
+        "https://idp-shib421.funpec.br/idp/shibboleth": {
+            "en": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura",
+            "pt-br": "FUNPEC - Fundacao Norte-Rio-Grandense de Pesquisa e Cultura"
+        },
         "https://idp-shib421.unichristus.edu.br/idp/shibboleth": {
             "en": "UNICHRISTUS - Centro Universitario Unichristus",
             "pt-br": "UNICHRISTUS - Centro Universitario Unichristus"
@@ -1581,6 +1581,10 @@
         "https://idp.uftm.edu.br/idp/shibboleth": {
             "en": "UFTM - Universidade Federal do Triangulo Mineiro",
             "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
+        },
+        "https://idp.ufv.br/idp/shibboleth": {
+            "en": "UFV - Universidade Federal de Vicosa",
+            "pt-br": "UFV - Universidade Federal de Vicosa"
         },
         "https://idp.unifacef.edu.br/idp/shibboleth": {
             "en": "UNI-FACEF - Centro Universitario Municipal de Franca",
@@ -16476,6 +16480,10 @@
             "en": "Technical University of Civil Engineering Bucharest IdP",
             "ro": "IdP al Universitatii Tehnice de Constructii Bucuresti"
         },
+        "https://idp2.upt.ro/idp/shibboleth": {
+            "en": "Politehnica University Timisoara",
+            "ro": "Universitatea Politehnica Timisoara"
+        },
         "https://splp.snspa.ro/smplp/saml2/idp/metadata.php": {
             "en": "National School of Political Science and Public Administration",
             "ro": "Scoala Nationala de Studii Politice si Administrative"
@@ -21409,6 +21417,9 @@
         "https://sso.nccu.edu/idp": {
             "en": "North Carolina Central University"
         },
+        "https://sso.ncsu.edu/idp": {
+            "en": "DEVELOPMENT North Carolina State University"
+        },
         "https://sso.nhsc.edu/idp": {
             "en": "Nueta Hidatsa Sahnish College"
         },
@@ -21555,6 +21566,9 @@
         },
         "https://stem.carthage.edu/idp": {
             "en": "Carthage OneLogin IdP"
+        },
+        "https://teex.tamu.edu/idp": {
+            "en": "Texas A&M Engineering Extension Service"
         },
         "https://ucanridp.ucanr.edu/idp/shibboleth": {
             "en": "University of California, Agriculture and Natural Resources"
