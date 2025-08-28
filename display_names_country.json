@@ -622,8 +622,8 @@
             "en": "Cenaero"
         },
         "https://idp.condorcet.be/idp/shibboleth": {
-            "en": "Haute Ecole Condorcet (HEPH-Condorcet)",
-            "fr": "Haute Ecole Condorcet (HEPH-Condorcet)"
+            "en": "Haute Ecole Provinciale de Hainaut - Condorcet (HEPH-Condorcet)",
+            "fr": "Haute Ecole Provinciale de Hainaut - Condorcet (HEPH-Condorcet)"
         },
         "https://idp.eduhainaut.be/idp/shibboleth": {
             "en": "Schools of Province de Hainaut (eduHainaut)",
@@ -5328,6 +5328,16 @@
         "https://zwidp.xtu.edu.cn/idp/shibboleth": {
             "en": "Xiangtan University",
             "zh": "湘潭大学(Xiangtan University)"
+        }
+    },
+    "co": {
+        "https://idp.utp.edu.co/idp/shibboleth": {
+            "en": "UNIVERSIDAD TECNOLOGICA DE PEREIRA",
+            "es": "UNIVERSIDAD TECNOLOGICA DE PEREIRA"
+        },
+        "https://idp2.renata.edu.co/idp/shibboleth": {
+            "en": "RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA",
+            "es": "RED NACIONAL ACADEMICA DE TECNOLOGIA AVANZADA RENATA"
         }
     },
     "cy": {
@@ -11666,14 +11676,14 @@
         "https://elms.cuh.ac.in/idp/shibboleth": {
             "en": "Central University of Haryana"
         },
-        "https://eresouces.puchd.ac.in/idp/shibboleth": {
-            "en": "Panjab University"
-        },
         "https://eresource.nationallibrary.gov.in/idp/shibboleth": {
             "en": "National Library of India"
         },
         "https://eresource.nirmauni.ac.in/idp/shibboleth": {
             "en": "Nirma University"
+        },
+        "https://eresources.puchd.ac.in/idp/shibboleth": {
+            "en": "Panjab University"
         },
         "https://id.maher.ac.in/idp/shibboleth": {
             "en": "Meenakshi Academy of Higher Education and Research"
@@ -12095,6 +12105,9 @@
         "https://idp.nec.edu.in/idp/shibboleth": {
             "en": "National Engineering College"
         },
+        "https://idp.nfsu.edu.in/idp/shibboleth": {
+            "en": "National Forensic Sciences University"
+        },
         "https://idp.nid.edu/idp/shibboleth": {
             "en": "National Institute of Design"
         },
@@ -12244,6 +12257,9 @@
         },
         "https://idp.spav.ac.in/idp/shibboleth": {
             "en": "School of Planning and Architecture, Vijayawada"
+        },
+        "https://idp.spmvv.ac.in/idp/shibboleth": {
+            "en": "Sri Padmavati Mahila Visvavidyalayam"
         },
         "https://idp.srec.ac.in/idp/shibboleth": {
             "en": "Sri Ramakrishna Engineering College"
@@ -16877,6 +16893,9 @@
         },
         "https://smu.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "SMU - Singapore Management University"
+        },
+        "https://sp-singaren.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+            "en": "SingAREN via Google"
         },
         "https://sp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "SP - Singapore Polytechnic"

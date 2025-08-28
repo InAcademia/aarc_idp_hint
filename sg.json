@@ -23,6 +23,9 @@
     "https://smu.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
         "en": "SMU - Singapore Management University"
     },
+    "https://sp-singaren.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+        "en": "SingAREN via Google"
+    },
     "https://sp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
         "en": "SP - Singapore Polytechnic"
     },

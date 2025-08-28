@@ -14,14 +14,14 @@
     "https://elms.cuh.ac.in/idp/shibboleth": {
         "en": "Central University of Haryana"
     },
-    "https://eresouces.puchd.ac.in/idp/shibboleth": {
-        "en": "Panjab University"
-    },
     "https://eresource.nationallibrary.gov.in/idp/shibboleth": {
         "en": "National Library of India"
     },
     "https://eresource.nirmauni.ac.in/idp/shibboleth": {
         "en": "Nirma University"
+    },
+    "https://eresources.puchd.ac.in/idp/shibboleth": {
+        "en": "Panjab University"
     },
     "https://id.maher.ac.in/idp/shibboleth": {
         "en": "Meenakshi Academy of Higher Education and Research"
@@ -443,6 +443,9 @@
     "https://idp.nec.edu.in/idp/shibboleth": {
         "en": "National Engineering College"
     },
+    "https://idp.nfsu.edu.in/idp/shibboleth": {
+        "en": "National Forensic Sciences University"
+    },
     "https://idp.nid.edu/idp/shibboleth": {
         "en": "National Institute of Design"
     },
@@ -592,6 +595,9 @@
     },
     "https://idp.spav.ac.in/idp/shibboleth": {
         "en": "School of Planning and Architecture, Vijayawada"
+    },
+    "https://idp.spmvv.ac.in/idp/shibboleth": {
+        "en": "Sri Padmavati Mahila Visvavidyalayam"
     },
     "https://idp.srec.ac.in/idp/shibboleth": {
         "en": "Sri Ramakrishna Engineering College"
