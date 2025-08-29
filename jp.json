@@ -186,6 +186,10 @@
         "en": "Kindai University",
         "ja": "近畿大学"
     },
+    "https://idp.kobe-cufs.ac.jp/idp/shibboleth": {
+        "en": "Kobe City University of Foreign Studies",
+        "ja": "神戸市外国語大学"
+    },
     "https://idp.kobepharma-u.ac.jp/realms/oneid": {
         "en": "Kobe Pharmaceutical University",
         "ja": "神戸薬科大学"

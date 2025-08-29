@@ -13268,6 +13268,10 @@
             "en": "Kindai University",
             "ja": "近畿大学"
         },
+        "https://idp.kobe-cufs.ac.jp/idp/shibboleth": {
+            "en": "Kobe City University of Foreign Studies",
+            "ja": "神戸市外国語大学"
+        },
         "https://idp.kobepharma-u.ac.jp/realms/oneid": {
             "en": "Kobe Pharmaceutical University",
             "ja": "神戸薬科大学"
@@ -16873,6 +16877,9 @@
         "https://a-star.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "A*STAR - Agency for Science, Technology and Research"
         },
+        "https://idp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+            "en": "SingAREN"
+        },
         "https://ntu.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "NTU - Nanyang Technological University"
         },
@@ -16894,9 +16901,6 @@
         "https://smu.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "SMU - Singapore Management University"
         },
-        "https://sp-singaren.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
-            "en": "SingAREN via Google"
-        },
         "https://sp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "SP - Singapore Polytechnic"
         },
@@ -16910,7 +16914,7 @@
             "en": "TP - Temasek Polytechnic"
         },
         "https://vho.sgaf.singaren.net.sg/idp/shibboleth": {
-            "en": "SingAREN"
+            "en": "SGAF Virtual Home"
         }
     },
     "si": {
@@ -20115,7 +20119,7 @@
             "en": "Tameside College"
         },
         "https://shibidp.uclan.ac.uk/idp/shibboleth": {
-            "en": "University of Central Lancashire"
+            "en": "University of Lancashire"
         },
         "https://shibidp.wnc.ac.uk/idp/shibboleth": {
             "en": "West Nottinghamshire College"
@@ -21435,9 +21439,6 @@
         },
         "https://sso.nccu.edu/idp": {
             "en": "North Carolina Central University"
-        },
-        "https://sso.ncsu.edu/idp": {
-            "en": "zDEVELOPMENT North Carolina State University"
         },
         "https://sso.nhsc.edu/idp": {
             "en": "Nueta Hidatsa Sahnish College"
