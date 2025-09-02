@@ -703,6 +703,10 @@
         "en": "UESC - Universidade Estadual de Santa Cruz",
         "pt-br": "UESC - Universidade Estadual de Santa Cruz"
     },
+    "https://idp.ufca.edu.br/idp/shibboleth": {
+        "en": "UFCA - Universidade Federal do Cariri",
+        "pt-br": "UFCA - Universidade Federal do Cariri"
+    },
     "https://idp.ufcat.edu.br/idp/shibboleth": {
         "en": "UFCAT - Universidade Federal de Catalao",
         "pt-br": "UFCAT - Universidade Federal de Catalao"

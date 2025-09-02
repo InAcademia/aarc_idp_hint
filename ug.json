@@ -8,6 +8,15 @@
     "https://idp-afru.renu.ac.ug/idp/shibboleth": {
         "en": "African Renewal University"
     },
+    "https://idp-allsaintsociba.renu.ac.ug/idp/shibboleth": {
+        "en": "All Saints SS Ociba"
+    },
+    "https://idp-amuguss.renu.ac.ug/idp/shibboleth": {
+        "en": "Amugu Secondary School"
+    },
+    "https://idp-apalass.renu.ac.ug/idp/shibboleth": {
+        "en": "Apala SS"
+    },
     "https://idp-aru.renu.ac.ug/idp/shibboleth": {
         "en": "African Rural University"
     },
@@ -92,6 +101,9 @@
     "https://idp-entebbess.renu.ac.ug/idp/shibboleth": {
         "en": "Entebbe Secondary School"
     },
+    "https://idp-fatimaaloigirls.renu.ac.ug/idp/shibboleth": {
+        "en": "Fatima Aloi Comprehensive Girls SS"
+    },
     "https://idp-fredhutch.renu.ac.ug/idp/shibboleth": {
         "en": "Hutchinson Central Research Institute - Uganda."
     },
@@ -148,6 +160,9 @@
     },
     "https://idp-kakoss.renu.ac.ug/idp/shibboleth": {
         "en": "Kako Secondary School"
+    },
+    "https://idp-kamerukaseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Kameruka Seed SS"
     },
     "https://idp-kamuligirls.renu.ac.ug/idp/shibboleth": {
         "en": "Kamuli Girls Secondary School"
@@ -392,6 +407,9 @@
     "https://idp-nyakaglobal.renu.ac.ug/idp/shibboleth": {
         "en": "Nyaka AIDS Orphans Project"
     },
+    "https://idp-ocociagirls.renu.ac.ug/idp/shibboleth": {
+        "en": "OCOCIA GIRLS SECONDARY SCHOOL"
+    },
     "https://idp-ombaci.renu.ac.ug/idp/shibboleth": {
         "en": "St. Joseph's College Ombaci"
     },
@@ -592,6 +610,9 @@
     },
     "https://idp.umu.ac.ug/idp/shibboleth": {
         "en": "Uganda Martyrs University"
+    },
+    "https://idp.uvri.go.ug/idp/shibboleth": {
+        "en": "Uganda Virus Research Institute"
     },
     "https://login.ace.ac.ug/idp/shibboleth": {
         "en": "African Center of Excellence in Bioinformatics - Uganda"
