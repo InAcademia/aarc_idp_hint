@@ -427,6 +427,10 @@
         "en": "EIGSI La Rochelle",
         "fr": "EIGSI La Rochelle"
     },
+    "https://idp.em-lyon.com/idp/shibboleth": {
+        "en": "emlyon business school",
+        "fr": "emlyon business school"
+    },
     "https://idp.enac.fr/idp/shibboleth": {
         "en": "ENAC - Ecole Nationale de l'Aviation Civile",
         "fr": "ENAC - Ecole Nationale de l'Aviation Civile"

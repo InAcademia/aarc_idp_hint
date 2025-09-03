@@ -1810,6 +1810,10 @@
             "en": "MEC - Ministerio da Educacao",
             "pt-br": "MEC - Ministerio da Educacao"
         },
+        "https://pro-vm-lcafe-01.fnde.gov.br/idp/shibboleth": {
+            "en": "FNDE - Fundo Nacional de Desenvolvimento da Educacao",
+            "pt-br": "FNDE - Fundo Nacional de Desenvolvimento da Educacao"
+        },
         "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
             "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
             "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
@@ -9896,6 +9900,10 @@
         "https://idp.eigsi.fr/idp/shibboleth": {
             "en": "EIGSI La Rochelle",
             "fr": "EIGSI La Rochelle"
+        },
+        "https://idp.em-lyon.com/idp/shibboleth": {
+            "en": "emlyon business school",
+            "fr": "emlyon business school"
         },
         "https://idp.enac.fr/idp/shibboleth": {
             "en": "ENAC - Ecole Nationale de l'Aviation Civile",
