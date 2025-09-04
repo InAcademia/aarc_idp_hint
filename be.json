@@ -137,6 +137,9 @@
         "en": "VIB",
         "nl": "VIB"
     },
+    "https://login.uat.vlerick.com/idhub/saml2": {
+        "en": "Vlerick Login (UAT)"
+    },
     "https://saml.aeronomie.be/saml2/idp/metadata.php": {
         "en": "Royal Belgian Institute for Space Aeronomy",
         "fr": "Institut royal d'Aéronomie Spatiale de Belgique"
