@@ -1,7 +1,4 @@
 {
-    "http://adfs.ad.und.edu/adfs/services/trust": {
-        "en": "(Old) University of North Dakota"
-    },
     "http://adfs.nic.edu/adfs/services/trust": {
         "en": "North Idaho College"
     },

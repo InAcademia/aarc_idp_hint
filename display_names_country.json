@@ -13101,8 +13101,8 @@
             "ja": "愛知東邦大学"
         },
         "https://akitau.ex-tic.com/auth/gakunin/saml2/assertions": {
-            "en": "Akita University (New)",
-            "ja": "秋田大学（新）"
+            "en": "Akita University",
+            "ja": "秋田大学"
         },
         "https://astem.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "ASTEM RI",
@@ -20252,9 +20252,6 @@
         }
     },
     "us": {
-        "http://adfs.ad.und.edu/adfs/services/trust": {
-            "en": "(Old) University of North Dakota"
-        },
         "http://adfs.nic.edu/adfs/services/trust": {
             "en": "North Idaho College"
         },
