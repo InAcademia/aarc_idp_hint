@@ -701,6 +701,9 @@
         "https://sso.irc.ugent.be/auth/realms/irc": {
             "en": "VIB-UGent IRC"
         },
+        "https://sts.windows.net/1c8ac413-4f2b-43dd-bb81-c63810aed841/": {
+            "en": "Haute Ecole Libre de Bruxelles Ilya Prigogine"
+        },
         "https://sts.windows.net/2d5e4aeb-342c-4a81-9613-e9c0294096ae/": {
             "en": "Royal Museum of Fine Arts of Belgium"
         },
@@ -1369,6 +1372,10 @@
             "en": "IFGOIANO - Instituto Federal Goiano",
             "pt-br": "IFGOIANO - Instituto Federal Goiano"
         },
+        "https://idp-cafe.ifpi.edu.br/idp/shibboleth": {
+            "en": "IFPI - Instituto Federal do Piaui",
+            "pt-br": "IFPI - Instituto Federal do Piaui"
+        },
         "https://idp-cafe.ifs.edu.br/idp/shibboleth": {
             "en": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe",
             "pt-br": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe"
@@ -1420,10 +1427,6 @@
         "https://idp-cafe.unisinos.br/idp/shibboleth": {
             "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
             "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
-        },
-        "https://idp-cafe2.ifpi.edu.br/idp/shibboleth": {
-            "en": "IFPI - Instituto Federal do Piaui",
-            "pt-br": "IFPI - Instituto Federal do Piaui"
         },
         "https://idp-novo.uncisal.edu.br/idp/shibboleth": {
             "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas",
@@ -3579,6 +3582,10 @@
         "https://idp.hbeu.edu.cn/idp/shibboleth": {
             "en": "Hubei  Engineering  University",
             "zh": "湖北工程学院(Hubei  Engineering  University)"
+        },
+        "https://idp.hbgdys.edu.cn/idp/shibboleth": {
+            "en": "Hebei Vocational College of Rail Transportation",
+            "zh": "河北轨道运输职业技术学院(Hebei Vocational College of Rail Transportation)"
         },
         "https://idp.hbmzu.edu.cn/idp/shibboleth": {
             "en": "Hubei Minzu University",
@@ -6355,6 +6362,10 @@
         "https://ephraim.tu-berlin.de/shibboleth": {
             "de": "Technische Universität Berlin",
             "en": "Technische Universität Berlin"
+        },
+        "https://extlogin.dfn.de/idp/shibboleth": {
+            "de": "DFN Login Extern",
+            "en": "DFN Login Extern"
         },
         "https://fbh-idp.fbh-berlin.de/idp/shibboleth": {
             "de": "Ferdinand-Braun-Institut, Leibniz-Institut für Höchstfrequenztechnik",
@@ -14150,6 +14161,9 @@
         }
     },
     "mw": {
+        "https://idp.kuhes.ac.mw/idp/shibboleth": {
+            "en": "Kamuzu University of Health Sciences - KUHES"
+        },
         "https://idp.luanar.ac.mw/idp/shibboleth": {
             "en": "Lilongwe University of Agriculture and Natural Resources - LUANAR"
         },
@@ -16560,6 +16574,10 @@
         "https://idp.np.ac.rs/idp/shibboleth": {
             "en": "State university of Novi Pazar",
             "sr": "Drzavni univerzitet u Novom Pazaru"
+        },
+        "https://idp.sf.bg.ac.rs/idp/shibboleth": {
+            "en": "The University of Belgrade - Faculty of Transport and Traffic Engineering",
+            "sr": "Saobraćajni fakultet Univerziteta u Beogradu"
         },
         "https://iguest.amres.ac.rs/idp/shibboleth": {
             "en": "AMRES Guest",
@@ -21107,6 +21125,9 @@
         "https://saml.nelnet.net": {
             "en": "Nelnet Business Solutions"
         },
+        "https://sbccd.onbio-key.com": {
+            "en": "San Bernardino Community College District"
+        },
         "https://secure.stevenson.edu/idp/shibboleth": {
             "en": "Stevenson University"
         },
@@ -21616,9 +21637,6 @@
         },
         "https://ssosw.losrios.edu/idp/shibboleth": {
             "en": "Los Rios Single Sign On"
-        },
-        "https://stem.carthage.edu/idp": {
-            "en": "Carthage OneLogin IdP"
         },
         "https://teex.tamu.edu/idp": {
             "en": "Texas A&M Engineering Extension Service"

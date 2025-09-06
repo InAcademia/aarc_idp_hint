@@ -91,6 +91,10 @@
         "de": "Technische Universität Berlin",
         "en": "Technische Universität Berlin"
     },
+    "https://extlogin.dfn.de/idp/shibboleth": {
+        "de": "DFN Login Extern",
+        "en": "DFN Login Extern"
+    },
     "https://fbh-idp.fbh-berlin.de/idp/shibboleth": {
         "de": "Ferdinand-Braun-Institut, Leibniz-Institut für Höchstfrequenztechnik",
         "en": "Ferdinand-Braun-Institute, Leibniz-Institut fuer Hoechstfrequenztechnik"

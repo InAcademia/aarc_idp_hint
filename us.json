@@ -854,6 +854,9 @@
     "https://saml.nelnet.net": {
         "en": "Nelnet Business Solutions"
     },
+    "https://sbccd.onbio-key.com": {
+        "en": "San Bernardino Community College District"
+    },
     "https://secure.stevenson.edu/idp/shibboleth": {
         "en": "Stevenson University"
     },
@@ -1363,9 +1366,6 @@
     },
     "https://ssosw.losrios.edu/idp/shibboleth": {
         "en": "Los Rios Single Sign On"
-    },
-    "https://stem.carthage.edu/idp": {
-        "en": "Carthage OneLogin IdP"
     },
     "https://teex.tamu.edu/idp": {
         "en": "Texas A&M Engineering Extension Service"

@@ -31,6 +31,10 @@
         "en": "State university of Novi Pazar",
         "sr": "Drzavni univerzitet u Novom Pazaru"
     },
+    "https://idp.sf.bg.ac.rs/idp/shibboleth": {
+        "en": "The University of Belgrade - Faculty of Transport and Traffic Engineering",
+        "sr": "Saobraćajni fakultet Univerziteta u Beogradu"
+    },
     "https://iguest.amres.ac.rs/idp/shibboleth": {
         "en": "AMRES Guest",
         "sr": "AMRES Guest"

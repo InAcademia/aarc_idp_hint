@@ -1,4 +1,7 @@
 {
+    "https://idp.kuhes.ac.mw/idp/shibboleth": {
+        "en": "Kamuzu University of Health Sciences - KUHES"
+    },
     "https://idp.luanar.ac.mw/idp/shibboleth": {
         "en": "Lilongwe University of Agriculture and Natural Resources - LUANAR"
     },
