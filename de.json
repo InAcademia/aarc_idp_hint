@@ -191,6 +191,10 @@
         "de": "Deutsches Elektronen-Synchrotron DESY",
         "en": "Deutsches Elektronen-Synchrotron DESY"
     },
+    "https://idp.dfki.de/idp/shibboleth": {
+        "de": "DFKI GmbH",
+        "en": "DFKI GmbH"
+    },
     "https://idp.dfn-cert.de/idp/shibboleth": {
         "de": "DFN-CERT Services GmbH",
         "en": "DFN-CERT Services GmbH"

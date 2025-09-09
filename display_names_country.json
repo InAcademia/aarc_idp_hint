@@ -2168,9 +2168,6 @@
         "http://login.sheridanc.on.ca": {
             "en": "Sheridan College"
         },
-        "http://ssl.crkn.ca/adfs/services/trust": {
-            "en": "Canadian Research Knowledge Network"
-        },
         "http://sts.algomau.ca/adfs/services/trust": {
             "en": "Algoma University"
         },
@@ -3074,10 +3071,6 @@
         "https://idp.buaa.edu.cn/idp/shibboleth": {
             "en": "Beihang University",
             "zh": "北京航空航天大学(Beihang University)"
-        },
-        "https://idp.bucea.edu.cn/idp/shibboleth": {
-            "en": "Beijing University of Civil Engineering and Architecture",
-            "zh": "北京建筑大学(Beijing University of Civil Engineering and Architecture)"
         },
         "https://idp.bupt.edu.cn/idp/shibboleth": {
             "en": "Beijing University of Posts and Telecommunications",
@@ -6462,6 +6455,10 @@
         "https://idp.desy.de/idp/shibboleth": {
             "de": "Deutsches Elektronen-Synchrotron DESY",
             "en": "Deutsches Elektronen-Synchrotron DESY"
+        },
+        "https://idp.dfki.de/idp/shibboleth": {
+            "de": "DFKI GmbH",
+            "en": "DFKI GmbH"
         },
         "https://idp.dfn-cert.de/idp/shibboleth": {
             "de": "DFN-CERT Services GmbH",
@@ -11861,7 +11858,7 @@
             "en": "University of Delhi"
         },
         "https://idp.ejlsonos.in/idp/shibboleth": {
-            "en": "Defence Scientific Information And Documentation centre"
+            "en": "Defence Scientific Information and Documentation (DESIDOC), Delhi"
         },
         "https://idp.gauhati.ac.in/idp/shibboleth": {
             "en": "Krishna Kanta Handiqui Library of Gauhati University"
@@ -15072,8 +15069,8 @@
             "nl": "Yonder"
         },
         "https://sts.windows.net/2f62835f-048e-4c85-94d9-f8052060210e/": {
-            "en": "SVO vakopleiding food",
-            "nl": "SVO vakopleiding food"
+            "en": "SVO vakopleider food",
+            "nl": "SVO vakopleider food"
         },
         "https://sts.windows.net/335122f9-d4f4-4d67-a2fc-cd6dc20dde70/": {
             "en": "UMC Groningen",
