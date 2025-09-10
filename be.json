@@ -137,6 +137,9 @@
         "en": "VIB",
         "nl": "VIB"
     },
+    "https://login.henallux.be/realms/henallux": {
+        "en": "Henallux"
+    },
     "https://login.uat.vlerick.com/idhub/saml2": {
         "en": "Vlerick Login (UAT)"
     },

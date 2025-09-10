@@ -688,6 +688,9 @@
             "en": "VIB",
             "nl": "VIB"
         },
+        "https://login.henallux.be/realms/henallux": {
+            "en": "Henallux"
+        },
         "https://login.uat.vlerick.com/idhub/saml2": {
             "en": "Vlerick Login (UAT)"
         },
@@ -17866,29 +17869,6 @@
         "https://yetkimidp.ku.edu.tr/idp/shibboleth": {
             "en": "Koc University",
             "tr": "Koç Üniversitesi"
-        }
-    },
-    "tz": {
-        "https://idp.eastc.ac.tz/idp/shibboleth": {
-            "en": "Eastern Africa Statistical Training Centre (EASTC)"
-        },
-        "https://idp.ipa.ac.tz/idp/shibboleth": {
-            "en": "The Institute of Public Administration (IPA)"
-        },
-        "https://idp.ku.ac.tz/idp/shibboleth": {
-            "en": "Kairuki University (KU)"
-        },
-        "https://idp.muhas.ac.tz/idp/shibboleth": {
-            "en": "Muhimbili University of Health and Allied Sciences(MUHAS)"
-        },
-        "https://idp.nit.ac.tz/idp/shibboleth": {
-            "en": "National Institute of Transport (NIT)"
-        },
-        "https://idp.nm-aist.ac.tz/idp/shibboleth": {
-            "en": "The Nelson Mandela African Institution of Science and Technology (NM-AIST)"
-        },
-        "https://ldap-edugain.ternet.or.tz/idp/shibboleth": {
-            "en": "Tanzania Education and Research Network  (TERNET)"
         }
     },
     "ua": {
