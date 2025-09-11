@@ -159,6 +159,10 @@
         "en": "Medical University of Lublin",
         "pl": "Uniwersytet Medyczny w Lublinie"
     },
+    "https://idp.up.poznan.pl/shibboleth": {
+        "en": "Poznan University of Life Sciences",
+        "pl": "Uniwersytet Przyrodniczy w Poznaniu"
+    },
     "https://idp.uz.zgora.pl/idp/shibboleth": {
         "en": "University of Zielona Góra",
         "pl": "Uniwersytet Zielonogórski"

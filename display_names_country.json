@@ -9206,6 +9206,10 @@
             "en": "Universidad Pablo de Olavide",
             "es": "Universidad Pablo de Olavide"
         },
+        "https://www.rediris.es/sir/upsaidp": {
+            "en": "Universidad Pontificia de Salamanca",
+            "es": "Universidad Pontificia de Salamanca"
+        },
         "https://www.rediris.es/sir/upvidp": {
             "en": "UPV - Universitat Politècnica de València",
             "es": "UPV - Universitat Politècnica de València"
@@ -15828,6 +15832,10 @@
             "en": "Medical University of Lublin",
             "pl": "Uniwersytet Medyczny w Lublinie"
         },
+        "https://idp.up.poznan.pl/shibboleth": {
+            "en": "Poznan University of Life Sciences",
+            "pl": "Uniwersytet Przyrodniczy w Poznaniu"
+        },
         "https://idp.uz.zgora.pl/idp/shibboleth": {
             "en": "University of Zielona Góra",
             "pl": "Uniwersytet Zielonogórski"
@@ -16674,6 +16682,9 @@
         },
         "http://sts.nu.edu.sa/adfs/services/trust": {
             "en": "Najran University"
+        },
+        "http://sts.spa.gov.sa/adfs/services/trust": {
+            "en": "Saudi Press Agency"
         },
         "http://sts.uoh.edu.sa/adfs/services/trust": {
             "en": "University Of Hail"
@@ -19837,7 +19848,7 @@
             "en": "Northbrook College Sussex"
         },
         "https://nbi-sso.nbi.ac.uk/idp/shibboleth": {
-            "en": "Norwich Bioscience Institutes (SSO)"
+            "en": "Norwich Bioscience Institutes (SSO)"
         },
         "https://nchlondon.ac.uk/idp": {
             "en": "Northeastern University London"
