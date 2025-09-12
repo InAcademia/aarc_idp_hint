@@ -5,9 +5,6 @@
     "http://adfs01.naturalsciences.be/adfs/services/trust": {
         "en": "Royal Belgian Institute of Natural Sciences"
     },
-    "http://federation.helb-prigogine.be/adfs/services/trust": {
-        "en": "Haute Ecole Libre de Bruxelles Ilya Prigogine"
-    },
     "https://accounts.google.com/o/saml2?idpid=C02lghgox": {
         "en": "IAD-ARTS"
     },

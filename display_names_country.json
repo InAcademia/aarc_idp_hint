@@ -556,9 +556,6 @@
         "http://adfs01.naturalsciences.be/adfs/services/trust": {
             "en": "Royal Belgian Institute of Natural Sciences"
         },
-        "http://federation.helb-prigogine.be/adfs/services/trust": {
-            "en": "Haute Ecole Libre de Bruxelles Ilya Prigogine"
-        },
         "https://accounts.google.com/o/saml2?idpid=C02lghgox": {
             "en": "IAD-ARTS"
         },
@@ -1346,10 +1343,6 @@
         "https://hibonite.fapesp.br/idp/shibboleth": {
             "en": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo",
             "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo"
-        },
-        "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
-            "en": "IFAP - Instituto Federal do Amapa",
-            "pt-br": "IFAP - Instituto Federal do Amapa"
         },
         "https://idp-cafe-v2.uerj.br/idp/shibboleth": {
             "en": "UERJ - Universidade do Estado do Rio de Janeiro",
@@ -17006,10 +16999,6 @@
             "en": "National Institute of Chemistry Slovenia",
             "sl": "Kemijski inštitut"
         },
-        "https://idp.mf.uni-lj.si/idp/20111101": {
-            "en": "University of Ljubljana, Faculty of Medicine",
-            "sl": "Univerza v Ljubljani, Medicinska fakulteta"
-        },
         "https://idp.sc-nm.si/idp/20150127": {
             "en": "School center Novo mesto",
             "sl": "Šolski center Novo mesto"
@@ -17880,6 +17869,35 @@
         "https://yetkimidp.ku.edu.tr/idp/shibboleth": {
             "en": "Koc University",
             "tr": "Koç Üniversitesi"
+        }
+    },
+    "tz": {
+        "https://idp.aru.ac.tz/idp/shibboleth": {
+            "en": "ARDHI UNIVERSITY (ARU)"
+        },
+        "https://idp.eastc.ac.tz/idp/shibboleth": {
+            "en": "Eastern Africa Statistical Training Centre (EASTC)"
+        },
+        "https://idp.iae.ac.tz/idp/shibboleth": {
+            "en": "The Institute of Adult Education (IAE)"
+        },
+        "https://idp.ipa.ac.tz/idp/shibboleth": {
+            "en": "The Institute of Public Administration (IPA)"
+        },
+        "https://idp.ku.ac.tz/idp/shibboleth": {
+            "en": "Kairuki University (KU)"
+        },
+        "https://idp.muhas.ac.tz/idp/shibboleth": {
+            "en": "Muhimbili University of Health and Allied Sciences(MUHAS)"
+        },
+        "https://idp.nit.ac.tz/idp/shibboleth": {
+            "en": "National Institute of Transport (NIT)"
+        },
+        "https://idp.nm-aist.ac.tz/idp/shibboleth": {
+            "en": "The Nelson Mandela African Institution of Science and Technology (NM-AIST)"
+        },
+        "https://ldap-edugain.ternet.or.tz/idp/shibboleth": {
+            "en": "Tanzania Education and Research Network  (TERNET)"
         }
     },
     "ua": {
