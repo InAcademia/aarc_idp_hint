@@ -650,6 +650,9 @@
     "https://idp.tnpesu.org/idp/shibboleth": {
         "en": "Tamil Nadu Physical Education and Sports University"
     },
+    "https://idp.tumkuruniversity.ac.in/idp/shibboleth": {
+        "en": "Tumkur University"
+    },
     "https://idp.uem.edu.in/idp/shibboleth": {
         "en": "University of Engineering and Management, Kolkata (UEM)"
     },

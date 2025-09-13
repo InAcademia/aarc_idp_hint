@@ -559,6 +559,10 @@
         "https://accounts.google.com/o/saml2?idpid=C02lghgox": {
             "en": "IAD-ARTS"
         },
+        "https://auth.helmo.be/idp/shibboleth": {
+            "en": "HELMo University College",
+            "fr": "Haute Ecole HELMo"
+        },
         "https://auth.henallux.be": {
             "en": "Henallux"
         },
@@ -1368,10 +1372,6 @@
             "en": "IFGOIANO - Instituto Federal Goiano",
             "pt-br": "IFGOIANO - Instituto Federal Goiano"
         },
-        "https://idp-cafe.ifpi.edu.br/idp/shibboleth": {
-            "en": "IFPI - Instituto Federal do Piaui",
-            "pt-br": "IFPI - Instituto Federal do Piaui"
-        },
         "https://idp-cafe.ifs.edu.br/idp/shibboleth": {
             "en": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe",
             "pt-br": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe"
@@ -1423,6 +1423,10 @@
         "https://idp-cafe.unisinos.br/idp/shibboleth": {
             "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
             "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
+        },
+        "https://idp-cafe2.ifpi.edu.br/idp/shibboleth": {
+            "en": "IFPI - Instituto Federal do Piaui",
+            "pt-br": "IFPI - Instituto Federal do Piaui"
         },
         "https://idp-novo.uncisal.edu.br/idp/shibboleth": {
             "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas",
@@ -12330,6 +12334,9 @@
         },
         "https://idp.tnpesu.org/idp/shibboleth": {
             "en": "Tamil Nadu Physical Education and Sports University"
+        },
+        "https://idp.tumkuruniversity.ac.in/idp/shibboleth": {
+            "en": "Tumkur University"
         },
         "https://idp.uem.edu.in/idp/shibboleth": {
             "en": "University of Engineering and Management, Kolkata (UEM)"

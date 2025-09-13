@@ -8,6 +8,10 @@
     "https://accounts.google.com/o/saml2?idpid=C02lghgox": {
         "en": "IAD-ARTS"
     },
+    "https://auth.helmo.be/idp/shibboleth": {
+        "en": "HELMo University College",
+        "fr": "Haute Ecole HELMo"
+    },
     "https://auth.henallux.be": {
         "en": "Henallux"
     },
