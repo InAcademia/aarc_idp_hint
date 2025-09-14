@@ -14653,10 +14653,6 @@
             "en": "GOSC AAI",
             "zh": "GOSC AAI"
         },
-        "https://chinasrcyun.shao.ac.cn/saml/idp": {
-            "en": "SKA CN-SRC AAI",
-            "zh": "SKA CN-SRC AAI"
-        },
         "https://idp.baafs.net.cn/idp/shibboleth": {
             "en": "Beijing Academy of Agriculture and Forestry Sciences",
             "zh": "北京市农林科学院"
