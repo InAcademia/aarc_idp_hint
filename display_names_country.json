@@ -5220,6 +5220,10 @@
             "en": "Zhejiang University of Finance and Economics",
             "zh": "浙江财经大学(Zhejiang University of Finance and Economics)"
         },
+        "https://idp.zust.edu.cn/idp/shibboleth": {
+            "en": "Zhejiang University of Science and Technology",
+            "zh": "浙江科技大学(Zhejiang University of Science and Technology)"
+        },
         "https://idp.zut.edu.cn/idp/shibboleth": {
             "en": "Zhongyuan University of Technology",
             "zh": "中原工学院(Zhongyuan University of Technology)"
@@ -8187,6 +8191,14 @@
         "https://wayfeadania.itcn.dk/simplesaml/saml2/idp/metadata.php": {
             "da": "Erhvervsakademi Dania",
             "en": "Dania Academy"
+        }
+    },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
         }
     },
     "ec": {
@@ -11551,8 +11563,7 @@
             "en": "Carlow College, St. Patrick’s"
         },
         "https://idp.cit.ie/idp": {
-            "en": "Cork Institute of Technology",
-            "ga": "Institiúid Teicneolaíochta Chorcaí"
+            "en": "MTU, Cork Campus"
         },
         "https://idp.dias.ie/idp/shibboleth": {
             "en": "Dublin Institute for Advanced Studies"
@@ -14719,10 +14730,6 @@
             "en": "Grafisch Lyceum Utrecht",
             "nl": "Grafisch Lyceum Utrecht"
         },
-        "http://adfs.hetscheepvaartmuseum.nl/adfs/services/trust": {
-            "en": "The National Maritime Museum",
-            "nl": "Het Scheepvaartmuseum"
-        },
         "http://adfs.hvhl.nl/adfs/services/trust": {
             "en": "Van Hall Larenstein, University of Applied Sciences",
             "nl": "Hogeschool Van Hall Larenstein"
@@ -15575,6 +15582,9 @@
         },
         "https://idp.du.edu.om/idp": {
             "en": "Dhofar University (shibboleth_IDP)"
+        },
+        "https://idp.majlisoman.om/idp": {
+            "en": "Majlis Oman"
         },
         "https://idp.met.gov.om/idp": {
             "en": "Directorate General Of Meteorology"
@@ -16797,8 +16807,8 @@
             "sv": "Högskolan i Skövde"
         },
         "https://idp.hkr.se/idp/shibboleth": {
-            "en": "Kristianstad University Sweden",
-            "sv": "Högskolan Kristianstad"
+            "en": "Kristianstad University (Temporary)",
+            "sv": "Högskolan Kristianstad (Temporary)"
         },
         "https://idp.it.su.se/idp/shibboleth": {
             "en": "Stockholm University",
@@ -16883,6 +16893,10 @@
         "https://shib-idp-1.oru.se/idp/shibboleth": {
             "en": "Örebro University.",
             "sv": "Örebro universitet."
+        },
+        "https://sts.hkr.se/adfs/services/trust": {
+            "en": "Kristianstad University",
+            "sv": "Högskolan Kristianstad"
         },
         "https://swamid2.shh.se/idp/shibboleth": {
             "en": "Sophiahemmet University",

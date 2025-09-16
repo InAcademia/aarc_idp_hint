@@ -62,6 +62,9 @@
     "https://idp.du.edu.om/idp": {
         "en": "Dhofar University (shibboleth_IDP)"
     },
+    "https://idp.majlisoman.om/idp": {
+        "en": "Majlis Oman"
+    },
     "https://idp.met.gov.om/idp": {
         "en": "Directorate General Of Meteorology"
     },

@@ -96,8 +96,8 @@
         "sv": "Högskolan i Skövde"
     },
     "https://idp.hkr.se/idp/shibboleth": {
-        "en": "Kristianstad University Sweden",
-        "sv": "Högskolan Kristianstad"
+        "en": "Kristianstad University (Temporary)",
+        "sv": "Högskolan Kristianstad (Temporary)"
     },
     "https://idp.it.su.se/idp/shibboleth": {
         "en": "Stockholm University",
@@ -182,6 +182,10 @@
     "https://shib-idp-1.oru.se/idp/shibboleth": {
         "en": "Örebro University.",
         "sv": "Örebro universitet."
+    },
+    "https://sts.hkr.se/adfs/services/trust": {
+        "en": "Kristianstad University",
+        "sv": "Högskolan Kristianstad"
     },
     "https://swamid2.shh.se/idp/shibboleth": {
         "en": "Sophiahemmet University",
