@@ -166,6 +166,10 @@
         "en": "UNL - Faculty of Sciences and Technology",
         "pt": "UNL - NOVA FCT - Faculdade de Ciências e Tecnologia"
     },
+    "https://idp.gimm.pt/idp/shibboleth": {
+        "en": "Gulbenkian Institute for Molecular Medicine",
+        "pt": "Gulbenkian Institute for Molecular Medicine"
+    },
     "https://idp.hidrografico.pt/idp/shibboleth": {
         "en": "Instituto Hidrográfico",
         "pt": "Instituto Hidrográfico"

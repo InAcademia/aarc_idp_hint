@@ -1,4 +1,7 @@
 {
+    "https://idp-3rss.renu.ac.ug/idp/shibboleth": {
+        "en": "3RS"
+    },
     "https://idp-africanchildrenschoir.renu.ac.ug/idp/shibboleth": {
         "en": "Empower International Academy"
     },
@@ -7,6 +10,9 @@
     },
     "https://idp-afru.renu.ac.ug/idp/shibboleth": {
         "en": "African Renewal University"
+    },
+    "https://idp-ahakiinstitute.renu.ac.ug/idp/shibboleth": {
+        "en": "Afya Na Haki (Ahaki)"
     },
     "https://idp-allsaintsociba.renu.ac.ug/idp/shibboleth": {
         "en": "All Saints SS Ociba"
@@ -17,6 +23,9 @@
     "https://idp-apalass.renu.ac.ug/idp/shibboleth": {
         "en": "Apala SS"
     },
+    "https://idp-aromovoc.renu.ac.ug/idp/shibboleth": {
+        "en": "Aromo vocational secondary school"
+    },
     "https://idp-aru.renu.ac.ug/idp/shibboleth": {
         "en": "African Rural University"
     },
@@ -26,11 +35,17 @@
     "https://idp-aruass.renu.ac.ug/idp/shibboleth": {
         "en": "Arua Secondary School"
     },
+    "https://idp-atiiraseed.renu.ac.ug/idp/shibboleth": {
+        "en": "ATIIRA SEED SECONDARY SCHOOL"
+    },
     "https://idp-atyakseedss.renu.ac.ug/idp/shibboleth": {
         "en": "Atyak Seed Secondary School"
     },
     "https://idp-auth.sun.ac.ug/idp/shibboleth": {
         "en": "Soroti University"
+    },
+    "https://idp-bagezzaseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Bagezza seed sec sch"
     },
     "https://idp-bakyengavoc.renu.ac.ug/idp/shibboleth": {
         "en": "Bakyenga Vocational School"
@@ -40,6 +55,12 @@
     },
     "https://idp-bcsd.renu.ac.ug/idp/shibboleth": {
         "en": "Busega Community School for the Deaf"
+    },
+    "https://idp-bethanylandinstitute.renu.ac.ug/idp/shibboleth": {
+        "en": "Bethany Land Institute (BLI)"
+    },
+    "https://idp-bihanga.renu.ac.ug/idp/shibboleth": {
+        "en": "BIHANGA COMMUNITY SS"
     },
     "https://idp-bihangass.renu.ac.ug/idp/shibboleth": {
         "en": "Bihanga Secondary School"
@@ -53,11 +74,29 @@
     "https://idp-bishopss.renu.ac.ug/idp/shibboleth": {
         "en": "Bishop SS"
     },
+    "https://idp-bishopwilligers.renu.ac.ug/idp/shibboleth": {
+        "en": "Bishop Willigers SS"
+    },
+    "https://idp-blessedparents.renu.ac.ug/idp/shibboleth": {
+        "en": "Blessed Parents Vocational SS"
+    },
+    "https://idp-blessedseedss.renu.ac.ug/idp/shibboleth": {
+        "en": "Blessed Seed Secondary School"
+    },
     "https://idp-bnfc.renu.ac.ug/idp/shibboleth": {
         "en": "Busujja New Friends"
     },
     "https://idp-bomboarmyss.renu.ac.ug/idp/shibboleth": {
         "en": "Bombo Army Secondary School"
+    },
+    "https://idp-bugambi.renu.ac.ug/idp/shibboleth": {
+        "en": "Bugambi Secondary School"
+    },
+    "https://idp-bukandulamixedss.renu.ac.ug/idp/shibboleth": {
+        "en": "Bukandula Mixed Secondary School"
+    },
+    "https://idp-bukhaluseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Bukhalu Seed Secondary School"
     },
     "https://idp-bukoolicollege.renu.ac.ug/idp/shibboleth": {
         "en": "Bukooli College"
@@ -65,14 +104,41 @@
     "https://idp-bulindiss.renu.ac.ug/idp/shibboleth": {
         "en": "Bulindi Integrated Secondary School"
     },
+    "https://idp-buluchekess.renu.ac.ug/idp/shibboleth": {
+        "en": "Bulucheke Secondary School"
+    },
+    "https://idp-bulunguliseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Bulunguli Seed SS"
+    },
     "https://idp-busiass.renu.ac.ug/idp/shibboleth": {
         "en": "Busia Secoandary School"
+    },
+    "https://idp-busuulwamemorial.renu.ac.ug/idp/shibboleth": {
+        "en": "Busuulwa Memorial SS"
+    },
+    "https://idp-butare.renu.ac.ug/idp/shibboleth": {
+        "en": "BUTARE SS"
+    },
+    "https://idp-buwamboseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Buwambo Seed Secondary School"
+    },
+    "https://idp-bwongyeragirls.renu.ac.ug/idp/shibboleth": {
+        "en": "BWONGYERA GIRLS SECONDARY SCHOOL"
     },
     "https://idp-candlelighthigh.renu.ac.ug/idp/shibboleth": {
         "en": "Candle Light Hight School"
     },
     "https://idp-centenarycollege.renu.ac.ug/idp/shibboleth": {
         "en": "Centenary Community College"
+    },
+    "https://idp-chawente.renu.ac.ug/idp/shibboleth": {
+        "en": "Chawente secondary school"
+    },
+    "https://idp-comboniburungira.renu.ac.ug/idp/shibboleth": {
+        "en": "COMBONI S.S BURUNGIRA"
+    },
+    "https://idp-comprehensivehigh.renu.ac.ug/idp/shibboleth": {
+        "en": "Comprehensive high school mubende"
     },
     "https://idp-cornerstoneschoolsafrica.renu.ac.ug/idp/shibboleth": {
         "en": "Cornerstone schools (Ekitangala and Leadership academy)"
@@ -82,6 +148,12 @@
     },
     "https://idp-cyberschooltech.renu.ac.ug/idp/shibboleth": {
         "en": "Cyber School Technology Solutions"
+    },
+    "https://idp-dakabelass.renu.ac.ug/idp/shibboleth": {
+        "en": "Dakabela Comprehensive Secondary School"
+    },
+    "https://idp-drflorermemorial.renu.ac.ug/idp/shibboleth": {
+        "en": "Dr. Florer Memorial College Kaliro"
     },
     "https://idp-duhaga.renu.ac.ug/idp/shibboleth": {
         "en": "Duhaga Secondary School"
@@ -103,6 +175,9 @@
     },
     "https://idp-fatimaaloigirls.renu.ac.ug/idp/shibboleth": {
         "en": "Fatima Aloi Comprehensive Girls SS"
+    },
+    "https://idp-francisayume.renu.ac.ug/idp/shibboleth": {
+        "en": "Francis Ayume Memorial School Koboko"
     },
     "https://idp-fredhutch.renu.ac.ug/idp/shibboleth": {
         "en": "Hutchinson Central Research Institute - Uganda."
@@ -137,6 +212,9 @@
     "https://idp-iguka.renu.ac.ug/idp/shibboleth": {
         "en": "St. Ignatius University (IGUKA)"
     },
+    "https://idp-ikweragirls.renu.ac.ug/idp/shibboleth": {
+        "en": "Ikwera girls SS"
+    },
     "https://idp-ishakaadventist.renu.ac.ug/idp/shibboleth": {
         "en": "Ishaka Adventist School"
     },
@@ -149,8 +227,14 @@
     "https://idp-joginsa.renu.ac.ug/idp/shibboleth": {
         "en": "St Joseph Girls' School Nsambya"
     },
+    "https://idp-kabaalesanjesss.renu.ac.ug/idp/shibboleth": {
+        "en": "Kabaale Sanje SSS"
+    },
     "https://idp-kabaless.renu.ac.ug/idp/shibboleth": {
         "en": "Kabale Secondary School"
+    },
+    "https://idp-kabezi.renu.ac.ug/idp/shibboleth": {
+        "en": "KABEZI SECONDARY SCHOOL"
     },
     "https://idp-kabulubuluss.renu.ac.ug/idp/shibboleth": {
         "en": "Kabulubulu Secondary School"
@@ -158,8 +242,17 @@
     "https://idp-kaggulwess.renu.ac.ug/idp/shibboleth": {
         "en": "Kaggulwe Secondary School"
     },
+    "https://idp-kagungaseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Kagunga Seed SS"
+    },
+    "https://idp-kagwaraseedss.renu.ac.ug/idp/shibboleth": {
+        "en": "Kagwara Seed Secondary School"
+    },
     "https://idp-kakoss.renu.ac.ug/idp/shibboleth": {
         "en": "Kako Secondary School"
+    },
+    "https://idp-kambuga.renu.ac.ug/idp/shibboleth": {
+        "en": "Kambuga Secondary School"
     },
     "https://idp-kamerukaseed.renu.ac.ug/idp/shibboleth": {
         "en": "Kameruka Seed SS"
@@ -176,11 +269,20 @@
     "https://idp-kapeekass.renu.ac.ug/idp/shibboleth": {
         "en": "Kapeeka Secondary School"
     },
+    "https://idp-kapekeseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Kapeke Seed SS"
+    },
+    "https://idp-karunguseed.renu.ac.ug/idp/shibboleth": {
+        "en": "KARUNGU SEED SS"
+    },
     "https://idp-kasanavoc.renu.ac.ug/idp/shibboleth": {
         "en": "Kasana Vocational School"
     },
     "https://idp-kasawoss.renu.ac.ug/idp/shibboleth": {
         "en": "Kasawo Secondary School"
+    },
+    "https://idp-kasenyi.renu.ac.ug/idp/shibboleth": {
+        "en": "Kasenyi ss"
     },
     "https://idp-kasesesecondaryschool.renu.ac.ug/idp/shibboleth": {
         "en": "Kasese Secondary School"
@@ -191,6 +293,9 @@
     "https://idp-kcb.renu.ac.ug/idp/shibboleth": {
         "en": "King's College Budo"
     },
+    "https://idp-kibogaparents.renu.ac.ug/idp/shibboleth": {
+        "en": "Kiboga parents secondary school"
+    },
     "https://idp-kibuliss.renu.ac.ug/idp/shibboleth": {
         "en": "Kibuli SS"
     },
@@ -200,6 +305,9 @@
     "https://idp-kigezihigh.renu.ac.ug/idp/shibboleth": {
         "en": "Kigezi High School"
     },
+    "https://idp-kiiracollegebutiki.renu.ac.ug/idp/shibboleth": {
+        "en": "Kiira college Butiki"
+    },
     "https://idp-kiiramotors.renu.ac.ug/idp/shibboleth": {
         "en": "Kiira Motors Corporation"
     },
@@ -208,6 +316,12 @@
     },
     "https://idp-kingsolomonss.renu.ac.ug/idp/shibboleth": {
         "en": "King Solomon's College"
+    },
+    "https://idp-kinyogogaseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Kinyogoga Seed SS"
+    },
+    "https://idp-kisaana.renu.ac.ug/idp/shibboleth": {
+        "en": "Kisaana Secondary School"
     },
     "https://idp-kisowerass.renu.ac.ug/idp/shibboleth": {
         "en": "Kisowera Secondary School"
@@ -224,11 +338,32 @@
     "https://idp-kitebiss.renu.ac.ug/idp/shibboleth": {
         "en": "Kitebi Secondary School"
     },
+    "https://idp-kiyangavoc.renu.ac.ug/idp/shibboleth": {
+        "en": "KIYANGA VOCATIONAL SECONDARY SCHOOL"
+    },
+    "https://idp-kiyuni.renu.ac.ug/idp/shibboleth": {
+        "en": "Kiyuni ss"
+    },
+    "https://idp-kiyuya.renu.ac.ug/idp/shibboleth": {
+        "en": "Kiyuya Seed Secondary School"
+    },
+    "https://idp-kizibahigh.renu.ac.ug/idp/shibboleth": {
+        "en": "Kiziba High School"
+    },
+    "https://idp-kobwinseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Kobwin Seed Secondary School"
+    },
     "https://idp-kojjass.renu.ac.ug/idp/shibboleth": {
         "en": "Kojja Secondary School"
     },
     "https://idp-kongungahigh.renu.ac.ug/idp/shibboleth": {
         "en": "Kongunga High School"
+    },
+    "https://idp-koross.renu.ac.ug/idp/shibboleth": {
+        "en": "Koro senior secondary school"
+    },
+    "https://idp-kworus.renu.ac.ug/idp/shibboleth": {
+        "en": "Kworus Secondary School"
     },
     "https://idp-kyambogocollege.renu.ac.ug/idp/shibboleth": {
         "en": "Kyambogo College School"
@@ -245,8 +380,14 @@
     "https://idp-kyoteracentralss.renu.ac.ug/idp/shibboleth": {
         "en": "Kyotera Central Secondary School"
     },
+    "https://idp-lakealbertsda.renu.ac.ug/idp/shibboleth": {
+        "en": "Lake Albert SDA SS"
+    },
     "https://idp-langocollege.renu.ac.ug/idp/shibboleth": {
         "en": "Lango College"
+    },
+    "https://idp-leforiseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Lefori Seed SS"
     },
     "https://idp-liratowncollege.renu.ac.ug/idp/shibboleth": {
         "en": "Lira Town College"
@@ -257,14 +398,26 @@
     "https://idp-lolics.renu.ac.ug/idp/shibboleth": {
         "en": "Light Of Life International Christain School"
     },
+    "https://idp-lukoleseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Lukole Seed Secondary School"
+    },
     "https://idp-luzirasecondaryschool.renu.ac.ug/idp/shibboleth": {
         "en": "Luzira Secondary School"
     },
     "https://idp-mackaymemorial.renu.ac.ug/idp/shibboleth": {
         "en": "St Mackay memorial college Nateete"
     },
+    "https://idp-mahangoseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Mahango Seed SS"
+    },
     "https://idp-makererecollege.renu.ac.ug/idp/shibboleth": {
         "en": "Makerere College School (MACOS)"
+    },
+    "https://idp-mambaseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Mamba Seed secondary school"
+    },
+    "https://idp-mamita.renu.ac.ug/idp/shibboleth": {
+        "en": "Mamita technical and business management institute"
     },
     "https://idp-manjasihs.renu.ac.ug/idp/shibboleth": {
         "en": "Manjasi High School"
@@ -296,6 +449,12 @@
     "https://idp-mbararahigh.renu.ac.ug/idp/shibboleth": {
         "en": "Mbarara High School"
     },
+    "https://idp-mbiriiziseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Mbiriizi Seed Secondary School"
+    },
+    "https://idp-mbti.renu.ac.ug/idp/shibboleth": {
+        "en": "Mengo Technical and Business Institute"
+    },
     "https://idp-mengoss.renu.ac.ug/idp/shibboleth": {
         "en": "Mengo Senior School"
     },
@@ -317,6 +476,9 @@
     "https://idp-mpangass.renu.ac.ug/idp/shibboleth": {
         "en": "Mpanga Secondary School"
     },
+    "https://idp-mpumuddess.renu.ac.ug/idp/shibboleth": {
+        "en": "Mpumudde Secondary School"
+    },
     "https://idp-mpungwess.renu.ac.ug/idp/shibboleth": {
         "en": "Mpungwe Secondary School"
     },
@@ -326,11 +488,17 @@
     "https://idp-mukisafoundation.renu.ac.ug/idp/shibboleth": {
         "en": "Mukisa Foundation"
     },
+    "https://idp-mumsahigh.renu.ac.ug/idp/shibboleth": {
+        "en": "Mumsa high school mityana"
+    },
     "https://idp-muni.renu.ac.ug/idp/shibboleth": {
         "en": "Muni University"
     },
     "https://idp-munigirls.renu.ac.ug/idp/shibboleth": {
         "en": "Muni girls Secondary School"
+    },
+    "https://idp-musiitwaseedss.renu.ac.ug/idp/shibboleth": {
+        "en": "Musiitwa Seed S.S"
     },
     "https://idp-musph.renu.ac.ug/idp/shibboleth": {
         "en": "Makerere University School of Public Health"
@@ -359,6 +527,9 @@
     "https://idp-nakasekeptc.renu.ac.ug/idp/shibboleth": {
         "en": "Nakaseke Polytechnic"
     },
+    "https://idp-nakaseketi.renu.ac.ug/idp/shibboleth": {
+        "en": "Nakaseke Technical Institute"
+    },
     "https://idp-nakawavtc.renu.ac.ug/idp/shibboleth": {
         "en": "Nakawa Vocational Training College"
     },
@@ -374,6 +545,15 @@
     "https://idp-namakwass.renu.ac.ug/idp/shibboleth": {
         "en": "Namakwa Secondary School"
     },
+    "https://idp-namugangass.renu.ac.ug/idp/shibboleth": {
+        "en": "Namuganga Secondary School"
+    },
+    "https://idp-namulongecou.renu.ac.ug/idp/shibboleth": {
+        "en": "Namulonge C.O.U ss"
+    },
+    "https://idp-nawanyingiss.renu.ac.ug/idp/shibboleth": {
+        "en": "Nawanyingi Seed Secondary School"
+    },
     "https://idp-ndagwesss.renu.ac.ug/idp/shibboleth": {
         "en": "Ndagwe Secondary School"
     },
@@ -383,11 +563,17 @@
     "https://idp-ndejjesss.renu.ac.ug/idp/shibboleth": {
         "en": "Ndejje SS"
     },
+    "https://idp-ndejjevoc.renu.ac.ug/idp/shibboleth": {
+        "en": "Ndejje Vocational Secondary School"
+    },
     "https://idp-ngaboacademy.renu.ac.ug/idp/shibboleth": {
         "en": "Ngabo Academy School"
     },
     "https://idp-ngoragirlsss.renu.ac.ug/idp/shibboleth": {
         "en": "Ngora Girls Secondary School"
+    },
+    "https://idp-ngorahigh.renu.ac.ug/idp/shibboleth": {
+        "en": "NGORA HIGH SCHOOL"
     },
     "https://idp-nicabilonino.renu.ac.ug/idp/shibboleth": {
         "en": "National Instructors' College Abilonino"
@@ -407,11 +593,23 @@
     "https://idp-nyakaglobal.renu.ac.ug/idp/shibboleth": {
         "en": "Nyaka AIDS Orphans Project"
     },
+    "https://idp-nyamirembe.renu.ac.ug/idp/shibboleth": {
+        "en": "NYAMIREMBE SECONDARY SCHOOL"
+    },
+    "https://idp-nyangahya.renu.ac.ug/idp/shibboleth": {
+        "en": "Nyangahya Community Secondary School"
+    },
     "https://idp-ocociagirls.renu.ac.ug/idp/shibboleth": {
         "en": "OCOCIA GIRLS SECONDARY SCHOOL"
     },
+    "https://idp-ogorseed.renu.ac.ug/idp/shibboleth": {
+        "en": "Ogor Seed SS"
+    },
     "https://idp-ombaci.renu.ac.ug/idp/shibboleth": {
         "en": "St. Joseph's College Ombaci"
+    },
+    "https://idp-otuboiss.renu.ac.ug/idp/shibboleth": {
+        "en": "Otuboi Comprehensive SS"
     },
     "https://idp-otukess.renu.ac.ug/idp/shibboleth": {
         "en": "Otuke Secondary School"
@@ -428,6 +626,9 @@
     "https://idp-paramedicalinstitute.renu.ac.ug/idp/shibboleth": {
         "en": "Paramedical Institute"
     },
+    "https://idp-pilkingtonmuguluka.renu.ac.ug/idp/shibboleth": {
+        "en": "Pilkongton college Muguluka"
+    },
     "https://idp-plustwohighschool.renu.ac.ug/idp/shibboleth": {
         "en": "Plus Two High School"
     },
@@ -443,6 +644,9 @@
     "https://idp-righttoplay.renu.ac.ug/idp/shibboleth": {
         "en": "Right to Play"
     },
+    "https://idp-rubonass.renu.ac.ug/idp/shibboleth": {
+        "en": "Rubona SS"
+    },
     "https://idp-ruforum.renu.ac.ug/idp/shibboleth": {
         "en": "Regional Universities Forum for Capacity Building in Agriculture"
     },
@@ -455,8 +659,14 @@
     "https://idp-rwebikomass.renu.ac.ug/idp/shibboleth": {
         "en": "Rwemikoma Secondary School"
     },
+    "https://idp-rweikiniro.renu.ac.ug/idp/shibboleth": {
+        "en": "RWEIKINIRO SECONDARY SCHOOL"
+    },
     "https://idp-rwohoss.renu.ac.ug/idp/shibboleth": {
         "en": "Rwoho SS"
+    },
+    "https://idp-sangass.renu.ac.ug/idp/shibboleth": {
+        "en": "SANGA SS"
     },
     "https://idp-seetacoll.renu.ac.ug/idp/shibboleth": {
         "en": "Seeta College"
@@ -467,14 +677,32 @@
     "https://idp-sehico.renu.ac.ug/idp/shibboleth": {
         "en": "Seeta Hill College Mukono (SEHICO)"
     },
+    "https://idp-sesemegirlsss.renu.ac.ug/idp/shibboleth": {
+        "en": "Seseme Girls SS"
+    },
     "https://idp-sonams.renu.ac.ug/idp/shibboleth": {
         "en": "Mukono Diocese School of Nursing and Midwifery"
+    },
+    "https://idp-springingstars.renu.ac.ug/idp/shibboleth": {
+        "en": "Springing Stars Nursery and Junior School"
+    },
+    "https://idp-standrews.renu.ac.ug/idp/shibboleth": {
+        "en": "ST.ANDREW'S ACADEMY"
+    },
+    "https://idp-stanthonykyazanga.renu.ac.ug/idp/shibboleth": {
+        "en": "St. Anthony SS Kyazanga"
     },
     "https://idp-stcharlesbukerere.renu.ac.ug/idp/shibboleth": {
         "en": "St Charles Lwanga Secondary School, Bukerere"
     },
     "https://idp-stdenisggaba.renu.ac.ug/idp/shibboleth": {
         "en": "St. Denis Secondary School Ggaba"
+    },
+    "https://idp-stdeniskijaguzo.renu.ac.ug/idp/shibboleth": {
+        "en": "St Denis Kijaguzo Secondary School"
+    },
+    "https://idp-stgonzagakagoma.renu.ac.ug/idp/shibboleth": {
+        "en": "Saint Gonzaga Secondary school Kagoma"
     },
     "https://idp-sthenryskitovu.renu.ac.ug/idp/shibboleth": {
         "en": "St Henrys College Kitovu"
@@ -488,6 +716,12 @@
     "https://idp-stjosephlayibi.renu.ac.ug/idp/shibboleth": {
         "en": "St. Joseph's College Layibi"
     },
+    "https://idp-stjosephskanaawa.renu.ac.ug/idp/shibboleth": {
+        "en": "ST.JOSEPH'S KANAAWA"
+    },
+    "https://idp-stjosephskasambya.renu.ac.ug/idp/shibboleth": {
+        "en": "St.Josephs SS Kasambya"
+    },
     "https://idp-stkagwabhs.renu.ac.ug/idp/shibboleth": {
         "en": "St. Kaggwa High School Bushenyi"
     },
@@ -497,8 +731,17 @@
     "https://idp-stleocoll.renu.ac.ug/idp/shibboleth": {
         "en": "St Leo College"
     },
+    "https://idp-stmarknaminya.renu.ac.ug/idp/shibboleth": {
+        "en": "St Mark Secondary school Naminya"
+    },
     "https://idp-stmarknursing.renu.ac.ug/idp/shibboleth": {
         "en": "St Mark Nursing School Ibanda"
+    },
+    "https://idp-stmarkskammengo.renu.ac.ug/idp/shibboleth": {
+        "en": "St Mark's SS Kammengo"
+    },
+    "https://idp-stmaryscollegelacor.renu.ac.ug/idp/shibboleth": {
+        "en": "St Mary's College Lacor"
     },
     "https://idp-stmarysrushoroza.renu.ac.ug/idp/shibboleth": {
         "en": "St. Mary's Rushoroza Secondary School"
@@ -509,17 +752,32 @@
     "https://idp-stmathiaskalembass.renu.ac.ug/idp/shibboleth": {
         "en": "St. Mathias Kalemba Secondary School"
     },
+    "https://idp-stmatiamulumba.renu.ac.ug/idp/shibboleth": {
+        "en": "St. Matia mulumba ss Mirembe Maria"
+    },
     "https://idp-stmichaelhighschool.renu.ac.ug/idp/shibboleth": {
         "en": "St. Micheal High School - Ssonde"
     },
     "https://idp-stmugaggass.renu.ac.ug/idp/shibboleth": {
         "en": "St. Mugagga Secondary School"
     },
+    "https://idp-stpaulkazindiro.renu.ac.ug/idp/shibboleth": {
+        "en": "St Paul Kazindiro"
+    },
     "https://idp-stpaulocheross.renu.ac.ug/idp/shibboleth": {
         "en": "St. Paul's College Ochero"
     },
     "https://idp-stpeterandpaul.renu.ac.ug/idp/shibboleth": {
         "en": "St Peter and Paul Seminary"
+    },
+    "https://idp-stpetersbusubuzi.renu.ac.ug/idp/shibboleth": {
+        "en": "St. Peter's ss busubuzi"
+    },
+    "https://idp-stphillipsnawaikoke.renu.ac.ug/idp/shibboleth": {
+        "en": "St Phillips Nawaikoke College"
+    },
+    "https://idp-stthomasgirls.renu.ac.ug/idp/shibboleth": {
+        "en": "St.Thomas Girls SS"
     },
     "https://idp-sweswe-btvet.renu.ac.ug/idp/shibboleth": {
         "en": "SWESWE-BTVET"
@@ -535,6 +793,9 @@
     },
     "https://idp-tororogirlsschool.renu.ac.ug/idp/shibboleth": {
         "en": "Tororo girls schools"
+    },
+    "https://idp-ttamumoslim.renu.ac.ug/idp/shibboleth": {
+        "en": "Ttamu Moslim secondary school"
     },
     "https://idp-uci.renu.ac.ug/idp/shibboleth": {
         "en": "Uganda Cancer Institue"
