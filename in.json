@@ -704,6 +704,9 @@
     "https://idp.vnsgu.ac.in/idp/shibboleth": {
         "en": "VEER NARMAD SOUTH GUJARAT UNIVERSITY"
     },
+    "https://idp.vpmtmclc.org/idp/shibboleth": {
+        "en": "TMC Law College"
+    },
     "https://idp.zcoer.in/idp/shibboleth": {
         "en": "Zeal College of Engineering and Research"
     },

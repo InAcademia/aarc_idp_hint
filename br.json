@@ -487,6 +487,10 @@
         "en": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo",
         "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo"
     },
+    "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
+        "en": "IFAP - Instituto Federal do Amapa",
+        "pt-br": "IFAP - Instituto Federal do Amapa"
+    },
     "https://idp-cafe-v2.uerj.br/idp/shibboleth": {
         "en": "UERJ - Universidade do Estado do Rio de Janeiro",
         "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"

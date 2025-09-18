@@ -1351,6 +1351,10 @@
             "en": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo",
             "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo"
         },
+        "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
+            "en": "IFAP - Instituto Federal do Amapa",
+            "pt-br": "IFAP - Instituto Federal do Amapa"
+        },
         "https://idp-cafe-v2.uerj.br/idp/shibboleth": {
             "en": "UERJ - Universidade do Estado do Rio de Janeiro",
             "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
@@ -12399,6 +12403,9 @@
         "https://idp.vnsgu.ac.in/idp/shibboleth": {
             "en": "VEER NARMAD SOUTH GUJARAT UNIVERSITY"
         },
+        "https://idp.vpmtmclc.org/idp/shibboleth": {
+            "en": "TMC Law College"
+        },
         "https://idp.zcoer.in/idp/shibboleth": {
             "en": "Zeal College of Engineering and Research"
         },
@@ -13939,10 +13946,6 @@
             "en": "Kaunas University of Applied Sciences",
             "lt": "Kauno kolegija"
         },
-        "https://lammc.sso.litnet.lt/auth/saml2/idp/metadata.php": {
-            "en": "Lithuanian Research Centre for Agriculture and Forestry",
-            "lt": "Lietuvos agrarinių ir miškų mokslų centras"
-        },
         "https://lei.sso.litnet.lt/auth/saml2/idp/metadata.php": {
             "en": "Lithuanian Energy Institute",
             "lt": "Lietuvos energetikos institutas"
@@ -14948,6 +14951,10 @@
         "https://login.eduid.nl": {
             "en": "eduID (NL)",
             "nl": "eduID"
+        },
+        "https://login.hfml-felix.nl/idp": {
+            "en": "HFML-FELIX",
+            "nl": "HFML-FELIX"
         },
         "https://login.ou.nl/am": {
             "en": "Open Universiteit",

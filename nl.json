@@ -239,6 +239,10 @@
         "en": "eduID (NL)",
         "nl": "eduID"
     },
+    "https://login.hfml-felix.nl/idp": {
+        "en": "HFML-FELIX",
+        "nl": "HFML-FELIX"
+    },
     "https://login.ou.nl/am": {
         "en": "Open Universiteit",
         "nl": "Open Universiteit"
