@@ -95,10 +95,6 @@
         "en": "University of Skövde",
         "sv": "Högskolan i Skövde"
     },
-    "https://idp.hkr.se/idp/shibboleth": {
-        "en": "Kristianstad University (Temporary)",
-        "sv": "Högskolan Kristianstad (Temporary)"
-    },
     "https://idp.it.su.se/idp/shibboleth": {
         "en": "Stockholm University",
         "sv": "Stockholms universitet"
