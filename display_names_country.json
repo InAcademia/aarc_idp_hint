@@ -1551,10 +1551,6 @@
             "en": "RNP - Rede Nacional de Ensino e Pesquisa",
             "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
         },
-        "https://idp.uel.br/idp/shibboleth": {
-            "en": "UEL - Universidade Estadual de Londrina",
-            "pt-br": "UEL - Universidade Estadual de Londrina"
-        },
         "https://idp.uema.br/idp/shibboleth": {
             "en": "UEMA - Universidade Estadual do Maranhao",
             "pt-br": "UEMA - Universidade Estadual do Maranhao"
@@ -1806,10 +1802,6 @@
         "https://pct-guama-idp-cafe.fundacaoguama.org.br/idp/shibboleth": {
             "en": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
             "pt-br": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
-        },
-        "https://planck.cdtn.br/idp/shibboleth": {
-            "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
-            "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
         },
         "https://plv036.mcom.gov.br/idp/shibboleth": {
             "en": "MCOM - Ministerio das Comunicacoes",
@@ -3078,6 +3070,10 @@
         "https://idp.buaa.edu.cn/idp/shibboleth": {
             "en": "Beihang University",
             "zh": "北京航空航天大学(Beihang University)"
+        },
+        "https://idp.bucea.edu.cn/idp/shibboleth": {
+            "en": "Beijing University of Civil Engineering and Architecture",
+            "zh": "北京建筑大学(Beijing University of Civil Engineering and Architecture)"
         },
         "https://idp.bupt.edu.cn/idp/shibboleth": {
             "en": "Beijing University of Posts and Telecommunications",

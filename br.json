@@ -687,10 +687,6 @@
         "en": "RNP - Rede Nacional de Ensino e Pesquisa",
         "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
     },
-    "https://idp.uel.br/idp/shibboleth": {
-        "en": "UEL - Universidade Estadual de Londrina",
-        "pt-br": "UEL - Universidade Estadual de Londrina"
-    },
     "https://idp.uema.br/idp/shibboleth": {
         "en": "UEMA - Universidade Estadual do Maranhao",
         "pt-br": "UEMA - Universidade Estadual do Maranhao"
@@ -942,10 +938,6 @@
     "https://pct-guama-idp-cafe.fundacaoguama.org.br/idp/shibboleth": {
         "en": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
         "pt-br": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
-    },
-    "https://planck.cdtn.br/idp/shibboleth": {
-        "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
-        "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
     },
     "https://plv036.mcom.gov.br/idp/shibboleth": {
         "en": "MCOM - Ministerio das Comunicacoes",
