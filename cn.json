@@ -815,10 +815,6 @@
         "en": "Guizhou Normal University",
         "zh": "贵州师范大学(Guizhou Normal University)"
     },
-    "https://idp.gztrc.edu.cn/idp/shibboleth": {
-        "en": "Tongren University",
-        "zh": "铜仁学院(Tongren University)"
-    },
     "https://idp.gzucm.edu.cn/idp/shibboleth": {
         "en": "Guangzhou University of Chinese Medicine",
         "zh": "广州中医药大学(Guangzhou University of Chinese Medicine)"
@@ -2131,10 +2127,6 @@
         "en": "Weifang University",
         "zh": "潍坊学院(Weifang University)"
     },
-    "https://idp.whmc.edu.cn/idp/shibboleth": {
-        "en": "Wuhan University of Communication",
-        "zh": "武汉传媒学院(Wuhan University of Communication)"
-    },
     "https://idp.whsu.edu.cn/idp/shibboleth": {
         "en": "Wuhan Sports University",
         "zh": "武汉体育学院(Wuhan Sports University)"
@@ -2379,10 +2371,6 @@
         "en": "Yunnan Agricultural University",
         "zh": "云南农业大学(Yunnan Agricultural University)"
     },
-    "https://idp.ynjgy.edu.cn/idp/shibboleth": {
-        "en": "Yunnan College of Business Management",
-        "zh": "云南经济管理学院(Yunnan College of Business Management)"
-    },
     "https://idp.ynnu.edu.cn/idp/shibboleth": {
         "en": "Yunnan Normal University",
         "zh": "云南师范大学(Yunnan Normal University)"
@@ -2482,10 +2470,6 @@
     "https://idp.zstu.edu.cn/idp/shibboleth": {
         "en": "Zhejiang Sci-Tech University",
         "zh": "浙江理工大学(Zhejiang Sci-Tech University)"
-    },
-    "https://idp.ztbu.edu.cn/idp/shibboleth": {
-        "en": "Zhengzhou Technology and Business University",
-        "zh": "郑州工商学院(Zhengzhou Technology and Business University)"
     },
     "https://idp.ztu.edu.cn/idp/shibboleth": {
         "en": "Zhaotong University",
