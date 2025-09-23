@@ -51,6 +51,10 @@
         "de": "Universitätsklinikum Tübingen",
         "en": "University Hospital Tuebingen"
     },
+    "https://auth.mpic.de/realms/mpic.de": {
+        "de": "Max-Planck-Institut für Chemie (new)",
+        "en": "Max-Planck-Institute for Chemistry (new)"
+    },
     "https://auth.vifa-recht.de/idp/shibboleth": {
         "de": "FID-Recht (VHO)",
         "en": "FID-Recht (VHO)"
@@ -1184,7 +1188,7 @@
     },
     "https://login.leibniz-gemeinschaft.de/idp/shibboleth": {
         "de": "Leibniz-Gemeinschaft - Geschäftsstelle",
-        "en": "Leibniz-Association - Headquarters"
+        "en": "Leibniz Association - Headquarters"
     },
     "https://login.leiza.de/idp/shibboleth": {
         "de": "Leibniz-Zentrum für Archäologie (LEIZA)",
@@ -1553,10 +1557,6 @@
     "https://sso.law-school.de/idp/shibboleth": {
         "de": "Bucerius Law School gGmbH",
         "en": "Bucerius Law School gGmbH"
-    },
-    "https://sso.mpic.de/auth/saml2/idp/metadata.php": {
-        "de": "Max-Planck-Institut für Chemie",
-        "en": "Max-Planck-Institute for Chemistry"
     },
     "https://sso.mwk.bwl.de/auth/realms/MWK-DFN": {
         "de": "Ministerium für Wissenschaft, Forschung und Kunst BW (MWK)",

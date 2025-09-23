@@ -26,6 +26,9 @@
     "https://shibsso.usm.my/idp/shibboleth": {
         "en": "Universiti Sains Malaysia"
     },
+    "https://sifulan.tarc.edu.my/idp/shibboleth": {
+        "en": "Tunku Abdul Rahman University of Management and Technology"
+    },
     "https://sifulan.utar.edu.my/idp/shibboleth": {
         "en": "Universiti Tunku Abdul Rahman"
     },
