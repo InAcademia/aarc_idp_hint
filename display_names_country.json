@@ -1803,6 +1803,10 @@
             "en": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
             "pt-br": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
         },
+        "https://planck.cdtn.br/idp/shibboleth": {
+            "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
+            "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
+        },
         "https://plv036.mcom.gov.br/idp/shibboleth": {
             "en": "MCOM - Ministerio das Comunicacoes",
             "pt-br": "MCOM - Ministerio das Comunicacoes"
@@ -3386,6 +3390,10 @@
         "https://idp.ecut.edu.cn/idp/shibboleth": {
             "en": "East China University Of Technology",
             "zh": "东华理工大学(East China University Of Technology)"
+        },
+        "https://idp.eitech.edu.cn/idp/shibboleth": {
+            "en": "Eastern Institute of Technology, Ningbo",
+            "zh": "宁波东方理工大学(Eastern Institute of Technology, Ningbo)"
         },
         "https://idp.fafu.edu.cn/idp/shibboleth": {
             "en": "Fujian Agriculture and Forestry University",
@@ -7821,6 +7829,10 @@
         "https://sso.law-school.de/idp/shibboleth": {
             "de": "Bucerius Law School gGmbH",
             "en": "Bucerius Law School gGmbH"
+        },
+        "https://sso.mpic.de/auth/saml2/idp/metadata.php": {
+            "de": "Max-Planck-Institut für Chemie",
+            "en": "Max-Planck-Institute for Chemistry"
         },
         "https://sso.mwk.bwl.de/auth/realms/MWK-DFN": {
             "de": "Ministerium für Wissenschaft, Forschung und Kunst BW (MWK)",

@@ -939,6 +939,10 @@
         "en": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
         "pt-br": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
     },
+    "https://planck.cdtn.br/idp/shibboleth": {
+        "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
+        "pt-br": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear"
+    },
     "https://plv036.mcom.gov.br/idp/shibboleth": {
         "en": "MCOM - Ministerio das Comunicacoes",
         "pt-br": "MCOM - Ministerio das Comunicacoes"
