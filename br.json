@@ -687,6 +687,10 @@
         "en": "RNP - Rede Nacional de Ensino e Pesquisa",
         "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
     },
+    "https://idp.uel.br/idp/shibboleth": {
+        "en": "UEL - Universidade Estadual de Londrina",
+        "pt-br": "UEL - Universidade Estadual de Londrina"
+    },
     "https://idp.uema.br/idp/shibboleth": {
         "en": "UEMA - Universidade Estadual do Maranhao",
         "pt-br": "UEMA - Universidade Estadual do Maranhao"
@@ -1138,10 +1142,6 @@
     "https://shibboleth4.cnpem.br/idp/shibboleth": {
         "en": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais",
         "pt-br": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais"
-    },
-    "https://shibboleth4.ueg.br/idp/shibboleth": {
-        "en": "UEG - Universidade Estadual de Goias",
-        "pt-br": "UEG - Universidade Estadual de Goias"
     },
     "https://shibboleth4.uem.br/idp/shibboleth": {
         "en": "UEM - Universidade Estadual de Maringa",
