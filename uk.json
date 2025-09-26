@@ -361,6 +361,9 @@
     "https://idp.cdd.ac.uk/shibboleth": {
         "en": "Conservatoire for Dance and Drama"
     },
+    "https://idp.cem.ac.uk/openathens": {
+        "en": "University of the Built Environment"
+    },
     "https://idp.ceredigion.ac.uk/shibboleth": {
         "en": "Coleg Ceredigion"
     },

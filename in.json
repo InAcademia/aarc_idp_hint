@@ -509,6 +509,9 @@
     "https://idp.nsut.ac.in/idp/shibboleth": {
         "en": "Netaji Subhas University of Technology"
     },
+    "https://idp.nuv.ac.in/idp/shibboleth": {
+        "en": "Navrachana University"
+    },
     "https://idp.paavai.edu.in/idp/shibboleth": {
         "en": "Paavai Engineering College"
     },

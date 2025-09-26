@@ -7830,10 +7830,6 @@
             "de": "Bucerius Law School gGmbH",
             "en": "Bucerius Law School gGmbH"
         },
-        "https://sso.mpic.de/auth/saml2/idp/metadata.php": {
-            "de": "Max-Planck-Institut für Chemie",
-            "en": "Max-Planck-Institute for Chemistry"
-        },
         "https://sso.mwk.bwl.de/auth/realms/MWK-DFN": {
             "de": "Ministerium für Wissenschaft, Forschung und Kunst BW (MWK)",
             "en": "Ministry of Science, Reseach and Arts BW (MWK)"
@@ -12203,6 +12199,9 @@
         },
         "https://idp.nsut.ac.in/idp/shibboleth": {
             "en": "Netaji Subhas University of Technology"
+        },
+        "https://idp.nuv.ac.in/idp/shibboleth": {
+            "en": "Navrachana University"
         },
         "https://idp.paavai.edu.in/idp/shibboleth": {
             "en": "Paavai Engineering College"
@@ -19183,6 +19182,9 @@
         },
         "https://idp.cdd.ac.uk/shibboleth": {
             "en": "Conservatoire for Dance and Drama"
+        },
+        "https://idp.cem.ac.uk/openathens": {
+            "en": "University of the Built Environment"
         },
         "https://idp.ceredigion.ac.uk/shibboleth": {
             "en": "Coleg Ceredigion"
