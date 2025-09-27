@@ -1167,10 +1167,6 @@
             "en": "UFSC - Universidade Federal de Santa Catarina",
             "pt-br": "UFSC - Universidade Federal de Santa Catarina"
         },
-        "https://cafe.undf.edu.br/idp/shibboleth": {
-            "en": "UNDF - Universidade do Distrito Federal",
-            "pt-br": "UNDF - Universidade do Distrito Federal"
-        },
         "https://cafe.uneal.edu.br/idp/shibboleth": {
             "en": "UNEAL - Universidade Estadual de Alagoas",
             "pt-br": "UNEAL - Universidade Estadual de Alagoas"
@@ -1454,10 +1450,6 @@
         "https://idp-shib421.unichristus.edu.br/idp/shibboleth": {
             "en": "UNICHRISTUS - Centro Universitario Unichristus",
             "pt-br": "UNICHRISTUS - Centro Universitario Unichristus"
-        },
-        "https://idp-v4.ceitec-sa.com/idp/shibboleth": {
-            "en": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada",
-            "pt-br": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada"
         },
         "https://idp-v421.ifsp.edu.br/idp/shibboleth": {
             "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
