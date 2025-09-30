@@ -62,6 +62,9 @@
     "https://idp.annauniv.edu/idp/shibboleth": {
         "en": "Anna University"
     },
+    "https://idp.anu.ac.in/idp/shibboleth": {
+        "en": "Acharya Nagarjuna University (ANU)"
+    },
     "https://idp.asu.ac.in/idp/shibboleth": {
         "en": "Assam Skill University"
     },

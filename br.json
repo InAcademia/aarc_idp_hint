@@ -1135,6 +1135,10 @@
         "en": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais",
         "pt-br": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais"
     },
+    "https://shibboleth4.ueg.br/idp/shibboleth": {
+        "en": "UEG - Universidade Estadual de Goias",
+        "pt-br": "UEG - Universidade Estadual de Goias"
+    },
     "https://shibboleth4.uem.br/idp/shibboleth": {
         "en": "UEM - Universidade Estadual de Maringa",
         "pt-br": "UEM - Universidade Estadual de Maringa"

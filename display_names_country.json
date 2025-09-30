@@ -1999,6 +1999,10 @@
             "en": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais",
             "pt-br": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais"
         },
+        "https://shibboleth4.ueg.br/idp/shibboleth": {
+            "en": "UEG - Universidade Estadual de Goias",
+            "pt-br": "UEG - Universidade Estadual de Goias"
+        },
         "https://shibboleth4.uem.br/idp/shibboleth": {
             "en": "UEM - Universidade Estadual de Maringa",
             "pt-br": "UEM - Universidade Estadual de Maringa"
@@ -6940,8 +6944,8 @@
             "en": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB)"
         },
         "https://idp.inp-greifswald.de/idp/shibboleth": {
-            "de": "Leibniz-Institut für Plasmaforschung und Technologie e.V.",
-            "en": "Leibniz Institute for Plasma Science and Technology"
+            "de": "Leibniz-Institut für Plasmaforschung und Technologie e.V. (INP)",
+            "en": "Leibniz Institute for Plasma Science and Technology (INP)"
         },
         "https://idp.io-warnemuende.de/idp/shibboleth": {
             "de": "Leibniz-Institut für Ostseeforschung Warnemünde",
@@ -11744,6 +11748,9 @@
         },
         "https://idp.annauniv.edu/idp/shibboleth": {
             "en": "Anna University"
+        },
+        "https://idp.anu.ac.in/idp/shibboleth": {
+            "en": "Acharya Nagarjuna University (ANU)"
         },
         "https://idp.asu.ac.in/idp/shibboleth": {
             "en": "Assam Skill University"
