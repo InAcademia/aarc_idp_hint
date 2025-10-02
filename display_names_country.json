@@ -1740,8 +1740,8 @@
             "pt-br": "CUSC - Centro Universitario Sao Camilo"
         },
         "https://idpuemasul.uemasul.edu.br/idp/shibboleth": {
-            "en": "UEMASUL - Uni.Estadual Reg.Tocantina do Maranhao",
-            "pt-br": "UEMASUL - Uni.Estadual Reg.Tocantina do Maranhao"
+            "en": "UEMASUL - Universidade Estadual da Regiao Tocantina do Maranhao",
+            "pt-br": "UEMASUL - Universidade Estadual da Regiao Tocantina do Maranhao"
         },
         "https://idpv-cafe.redesecti.ba.gov.br/idp/shibboleth": {
             "en": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia",
@@ -2210,9 +2210,6 @@
         "https://cbuidp.cbu.ca/idp/shibboleth": {
             "en": "Cape Breton University"
         },
-        "https://connect.laurentian.ca/idp": {
-            "en": "Laurentian University"
-        },
         "https://fca-caf.uottawa.ca/idp": {
             "en": "University of Ottawa"
         },
@@ -2368,6 +2365,9 @@
         "https://shib.yorku.ca/idp/shibboleth": {
             "en": "YORKU",
             "fr": "YORKU"
+        },
+        "https://shibboleth.laurentian.ca/idp": {
+            "en": "Laurentian University"
         },
         "https://shibboleth.mcgill.ca/idp/shibboleth": {
             "en": "McGill University",
@@ -6604,8 +6604,8 @@
             "en": "FIZ Karlsruhe"
         },
         "https://idp.fraunhofer.de/idp/shibboleth": {
-            "de": "Fraunhofer-Gesellschaft",
-            "en": "Fraunhofer-Gesellschaft"
+            "de": "Fraunhofer-Gesellschaft (Fallback)",
+            "en": "Fraunhofer-Gesellschaft (Fallback)"
         },
         "https://idp.fv-berlin.de/idp/shibboleth": {
             "de": "Forschungsverbund Berlin e.V.",
@@ -11594,8 +11594,7 @@
             "ga": "An Foras Riarachaín"
         },
         "https://idp.ittralee.ie/idp": {
-            "en": "MTU, Kerry Campus",
-            "ga": "Ollscoil Teicneolaíochta na Mumhan"
+            "en": "MTU, Kerry Campus"
         },
         "https://idp.marine.ie/idp/shibboleth": {
             "en": "Marine Institute"
@@ -21662,9 +21661,6 @@
         },
         "https://sonny.furman.edu/idp": {
             "en": "Furman University"
-        },
-        "https://sso-login.vanderbilt.edu": {
-            "en": "Vanderbilt University (Retired)"
         },
         "https://sso.amnh.org/idp": {
             "en": "American Museum of Natural History - Richard Gilder Graduate School"

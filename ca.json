@@ -108,9 +108,6 @@
     "https://cbuidp.cbu.ca/idp/shibboleth": {
         "en": "Cape Breton University"
     },
-    "https://connect.laurentian.ca/idp": {
-        "en": "Laurentian University"
-    },
     "https://fca-caf.uottawa.ca/idp": {
         "en": "University of Ottawa"
     },
@@ -266,6 +263,9 @@
     "https://shib.yorku.ca/idp/shibboleth": {
         "en": "YORKU",
         "fr": "YORKU"
+    },
+    "https://shibboleth.laurentian.ca/idp": {
+        "en": "Laurentian University"
     },
     "https://shibboleth.mcgill.ca/idp/shibboleth": {
         "en": "McGill University",
