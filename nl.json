@@ -383,6 +383,10 @@
         "en": "Noorderpoort",
         "nl": "Noorderpoort"
     },
+    "https://sts.windows.net/3da248ad-d9d0-49f8-b9cf-6f208e7d153a/": {
+        "en": "Cultural Heritage Agency",
+        "nl": "Rijksdienst voor het Cultureel Erfgoed"
+    },
     "https://sts.windows.net/3edb8059-48b4-416b-abfc-d3dcea551e17/": {
         "en": "NBD Biblion",
         "nl": "NBD Biblion"
@@ -642,6 +646,10 @@
     "https://sts.windows.net/b5c9c18a-44f0-434b-85fb-951322bf0eac/": {
         "en": "ROC Midden Nederland",
         "nl": "ROC Midden Nederland"
+    },
+    "https://sts.windows.net/b68c2ced-8d38-4920-966e-d2e010440020/": {
+        "en": "Dienst Uitvoering Onderwijs",
+        "nl": "Dienst Uitvoering Onderwijs"
     },
     "https://sts.windows.net/b79a547e-3653-4501-b7db-1368c2807f47/": {
         "en": "Biblionet Groningen",

@@ -44,8 +44,8 @@
         "fr": "L'Institut Agro Dijon"
     },
     "https://auth.centrale-marseille.fr/idp/shibboleth": {
-        "en": "Ecole Centrale de Marseille",
-        "fr": "Ecole Centrale de Marseille"
+        "en": "Ecole Centrale Méditerranée",
+        "fr": "Ecole Centrale Méditerranée"
     },
     "https://auth.chimie-paristech.fr/idp/saml2/metadata": {
         "en": "Ecole Nationale Supérieure de Chimie Paris",

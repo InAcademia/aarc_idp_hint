@@ -68,6 +68,9 @@
     "https://account.vcccd.edu": {
         "en": "Ventura County Comm College District"
     },
+    "https://agsso.agnet.tamu.edu/idp/shibboleth": {
+        "en": "Texas A&M AgriLife Identity Provider"
+    },
     "https://ahu.edu/idp": {
         "en": "AdventHealth University (new)"
     },

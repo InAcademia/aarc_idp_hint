@@ -9532,8 +9532,8 @@
             "fr": "L'Institut Agro Dijon"
         },
         "https://auth.centrale-marseille.fr/idp/shibboleth": {
-            "en": "Ecole Centrale de Marseille",
-            "fr": "Ecole Centrale de Marseille"
+            "en": "Ecole Centrale Méditerranée",
+            "fr": "Ecole Centrale Méditerranée"
         },
         "https://auth.chimie-paristech.fr/idp/saml2/metadata": {
             "en": "Ecole Nationale Supérieure de Chimie Paris",
@@ -15092,6 +15092,10 @@
             "en": "Noorderpoort",
             "nl": "Noorderpoort"
         },
+        "https://sts.windows.net/3da248ad-d9d0-49f8-b9cf-6f208e7d153a/": {
+            "en": "Cultural Heritage Agency",
+            "nl": "Rijksdienst voor het Cultureel Erfgoed"
+        },
         "https://sts.windows.net/3edb8059-48b4-416b-abfc-d3dcea551e17/": {
             "en": "NBD Biblion",
             "nl": "NBD Biblion"
@@ -15351,6 +15355,10 @@
         "https://sts.windows.net/b5c9c18a-44f0-434b-85fb-951322bf0eac/": {
             "en": "ROC Midden Nederland",
             "nl": "ROC Midden Nederland"
+        },
+        "https://sts.windows.net/b68c2ced-8d38-4920-966e-d2e010440020/": {
+            "en": "Dienst Uitvoering Onderwijs",
+            "nl": "Dienst Uitvoering Onderwijs"
         },
         "https://sts.windows.net/b79a547e-3653-4501-b7db-1368c2807f47/": {
             "en": "Biblionet Groningen",
@@ -20250,9 +20258,6 @@
         "https://shib.hope.ac.uk/idp/shibboleth": {
             "en": "Liverpool Hope University"
         },
-        "https://shib.lythamsixth.ac.uk/shibboleth": {
-            "en": "Lytham Sixth Form College"
-        },
         "https://shib.manchester.ac.uk/shibboleth": {
             "en": "University of Manchester"
         },
@@ -20623,6 +20628,9 @@
         },
         "https://account.vcccd.edu": {
             "en": "Ventura County Comm College District"
+        },
+        "https://agsso.agnet.tamu.edu/idp/shibboleth": {
+            "en": "Texas A&M AgriLife Identity Provider"
         },
         "https://ahu.edu/idp": {
             "en": "AdventHealth University (new)"
