@@ -263,6 +263,10 @@
         "en": "UFF - Universidade Federal Fluminense",
         "pt-br": "UFF - Universidade Federal Fluminense"
     },
+    "https://cafe.ufg.br/idp/shibboleth": {
+        "en": "UFG - Universidade Federal de Goias",
+        "pt-br": "UFG - Universidade Federal de Goias"
+    },
     "https://cafe.ufla.br/idp/shibboleth": {
         "en": "UFLA - Universidade Federal de Lavras",
         "pt-br": "UFLA - Universidade Federal de Lavras"
@@ -338,10 +342,6 @@
     "https://cafe.unigranrio.edu.br/idp/shibboleth": {
         "en": "UNIGRANRIO - Universidade do Grande Rio",
         "pt-br": "UNIGRANRIO - Universidade do Grande Rio"
-    },
-    "https://cafe.unimontes.br/idp/shibboleth": {
-        "en": "UNIMONTES - Universidade Estadual de Montes Claros",
-        "pt-br": "UNIMONTES - Universidade Estadual de Montes Claros"
     },
     "https://cafe.unipampa.edu.br/idp/shibboleth": {
         "en": "UNIPAMPA - Universidade Federal do Pampa",
@@ -1062,10 +1062,6 @@
     "https://shibboleth.ufersa.edu.br/idp/shibboleth": {
         "en": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI ARIDO",
         "pt-br": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI ARIDO"
-    },
-    "https://shibboleth.ufg.br/idp/shibboleth": {
-        "en": "UFG - Universidade Federal de Goias",
-        "pt-br": "UFG - Universidade Federal de Goias"
     },
     "https://shibboleth.ufj.edu.br/idp/shibboleth": {
         "en": "UFJ - Universidade Federal de Jatai",

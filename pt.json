@@ -92,7 +92,8 @@
         "pt": "UNL - Escola Nacional de Saúde Pública"
     },
     "https://idp.erasmusmais.pt/idp/shibboleth": {
-        "en": "https://idp.erasmusmais.pt/idp/shibboleth"
+        "en": "ErasmusMais",
+        "pt": "ErasmusMais"
     },
     "https://idp.esac.pt/idp/shibboleth": {
         "en": "IPC - Escola Superior Agraria de Coimbra",
