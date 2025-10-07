@@ -587,6 +587,10 @@
         "en": "UNICHRISTUS - Centro Universitario Unichristus",
         "pt-br": "UNICHRISTUS - Centro Universitario Unichristus"
     },
+    "https://idp-v4.ceitec.gov.br/idp/shibboleth": {
+        "en": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada",
+        "pt-br": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada"
+    },
     "https://idp-v421.ifsp.edu.br/idp/shibboleth": {
         "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
         "pt-br": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo"

@@ -1451,6 +1451,10 @@
             "en": "UNICHRISTUS - Centro Universitario Unichristus",
             "pt-br": "UNICHRISTUS - Centro Universitario Unichristus"
         },
+        "https://idp-v4.ceitec.gov.br/idp/shibboleth": {
+            "en": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada",
+            "pt-br": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada"
+        },
         "https://idp-v421.ifsp.edu.br/idp/shibboleth": {
             "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
             "pt-br": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo"
@@ -9892,8 +9896,8 @@
             "fr": "CROUS de la Réunion"
         },
         "https://idp.crous-toulouse.fr/idp/shibboleth": {
-            "en": "CROUS Toulouse - Personnels v4 en validation",
-            "fr": "CROUS Toulouse - Personnels v4 en validation"
+            "en": "CROUS Toulouse - Personnels",
+            "fr": "CROUS Toulouse - Personnels"
         },
         "https://idp.curie.fr/idp/saml2/metadata": {
             "en": "Institut Curie - Research center",
@@ -10332,8 +10336,8 @@
             "fr": "CROUS Montpellier"
         },
         "https://idp2.crous-toulouse.fr/idp/shibboleth": {
-            "en": "CROUS Toulouse - Personnels",
-            "fr": "CROUS Toulouse - Personnels"
+            "en": "CROUS Toulouse - Personnels spare",
+            "fr": "CROUS Toulouse - Personnels secours"
         },
         "https://idp2.emse.fr/idp/shibboleth": {
             "en": "Mines Saint-Étienne - EMSE - IMT",
