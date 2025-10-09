@@ -143,6 +143,10 @@
         "en": "Université de Lyon - UDL",
         "fr": "Université de Lyon - UDL"
     },
+    "https://cerbere.telecom-paris.fr/saml2/idp": {
+        "en": "Télécom Paris",
+        "fr": "Télécom Paris"
+    },
     "https://ciboulette.abes.fr/idp/shibboleth": {
         "en": "ABES - French Bibliographic Agency for Higher Education",
         "fr": "ABES - Agence Bibliographique de l'Enseignement Supérieur"

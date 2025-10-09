@@ -320,7 +320,7 @@
     "https://idp.cadcol.ac.uk/idp/shibboleth": {
         "en": "Cadbury Sixth Form College"
     },
-    "https://idp.calderdale.ac.uk/shibboleth": {
+    "https://idp.calderdale.ac.uk/entity": {
         "en": "Calderdale College"
     },
     "https://idp.cambria.ac.uk/openathens": {

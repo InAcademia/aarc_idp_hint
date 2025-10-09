@@ -1171,6 +1171,10 @@
             "en": "UFSC - Universidade Federal de Santa Catarina",
             "pt-br": "UFSC - Universidade Federal de Santa Catarina"
         },
+        "https://cafe.ufsm.br/idp/shibboleth": {
+            "en": "UFSM - Universidade Federal de Santa Maria",
+            "pt-br": "UFSM - Universidade Federal de Santa Maria"
+        },
         "https://cafe.uneal.edu.br/idp/shibboleth": {
             "en": "UNEAL - Universidade Estadual de Alagoas",
             "pt-br": "UNEAL - Universidade Estadual de Alagoas"
@@ -1654,10 +1658,6 @@
         "https://idp01.linea.org.br/idp/shibboleth": {
             "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
             "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
-        },
-        "https://idp01.ufsm.br/idp/shibboleth": {
-            "en": "UFSM - Universidade Federal de Santa Maria",
-            "pt-br": "UFSM - Universidade Federal de Santa Maria"
         },
         "https://idp02.ifc.edu.br/idp/shibboleth": {
             "en": "IFC - Instituto Federal Catarinense",
@@ -6364,8 +6364,8 @@
             "en": "Technische Universität Berlin"
         },
         "https://extlogin.dfn.de/idp/shibboleth": {
-            "de": "DFN Login Extern",
-            "en": "DFN Login Extern"
+            "de": "DFN-Login für nicht-DFN-Mitarbeiter",
+            "en": "DFN Login for external users"
         },
         "https://fbh-idp.fbh-berlin.de/idp/shibboleth": {
             "de": "Ferdinand-Braun-Institut, Leibniz-Institut für Höchstfrequenztechnik",
@@ -8910,6 +8910,10 @@
             "en": "Instituto Tecnologico de Aragon",
             "es": "Instituto Tecnológico de Aragón"
         },
+        "https://www.rediris.es/sir/iviaidp": {
+            "en": "Valencian Institute for Agricultural Research",
+            "es": "Instituto Valenciano de Investigaciones Agrarias"
+        },
         "https://www.rediris.es/sir/ivieidp": {
             "en": "Instituto Valenciano de Investigaciones Economicas",
             "es": "Instituto Valenciano de Investigaciones Económicas"
@@ -9634,6 +9638,10 @@
         "https://cas.universite-lyon.fr/idp": {
             "en": "Université de Lyon - UDL",
             "fr": "Université de Lyon - UDL"
+        },
+        "https://cerbere.telecom-paris.fr/saml2/idp": {
+            "en": "Télécom Paris",
+            "fr": "Télécom Paris"
         },
         "https://ciboulette.abes.fr/idp/shibboleth": {
             "en": "ABES - French Bibliographic Agency for Higher Education",
@@ -19153,7 +19161,7 @@
         "https://idp.cadcol.ac.uk/idp/shibboleth": {
             "en": "Cadbury Sixth Form College"
         },
-        "https://idp.calderdale.ac.uk/shibboleth": {
+        "https://idp.calderdale.ac.uk/entity": {
             "en": "Calderdale College"
         },
         "https://idp.cambria.ac.uk/openathens": {
@@ -21943,7 +21951,7 @@
             "en": "University Of Rochester"
         },
         "https://uisshibb1.uis.edu/idp/shibboleth": {
-            "en": "University of Illinois At Springfield"
+            "en": "University of Illinois Springfield"
         },
         "https://ukidp.uky.edu/idp/shibboleth": {
             "en": "University of Kentucky"

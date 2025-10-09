@@ -307,6 +307,10 @@
         "en": "UFSC - Universidade Federal de Santa Catarina",
         "pt-br": "UFSC - Universidade Federal de Santa Catarina"
     },
+    "https://cafe.ufsm.br/idp/shibboleth": {
+        "en": "UFSM - Universidade Federal de Santa Maria",
+        "pt-br": "UFSM - Universidade Federal de Santa Maria"
+    },
     "https://cafe.uneal.edu.br/idp/shibboleth": {
         "en": "UNEAL - Universidade Estadual de Alagoas",
         "pt-br": "UNEAL - Universidade Estadual de Alagoas"
@@ -790,10 +794,6 @@
     "https://idp01.linea.org.br/idp/shibboleth": {
         "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
         "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
-    },
-    "https://idp01.ufsm.br/idp/shibboleth": {
-        "en": "UFSM - Universidade Federal de Santa Maria",
-        "pt-br": "UFSM - Universidade Federal de Santa Maria"
     },
     "https://idp02.ifc.edu.br/idp/shibboleth": {
         "en": "IFC - Instituto Federal Catarinense",
