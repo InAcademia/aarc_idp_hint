@@ -1511,6 +1511,10 @@
             "en": "IFG - Instituto Federal de Educacao Ciencia e Tecnologia de Goias",
             "pt-br": "IFG - Instituto Federal de Educacao Ciencia e Tecnologia de Goias"
         },
+        "https://idp.ifmg.edu.br/idp/shibboleth": {
+            "en": "IFMG - Instituto Federal de Minas Gerais",
+            "pt-br": "IFMG - Instituto Federal de Minas Gerais"
+        },
         "https://idp.ifpa.edu.br/idp/shibboleth": {
             "en": "IFPA - Instituto Federal do Para",
             "pt-br": "IFPA - Instituto Federal do Para"
@@ -1662,10 +1666,6 @@
         "https://idp02.ifc.edu.br/idp/shibboleth": {
             "en": "IFC - Instituto Federal Catarinense",
             "pt-br": "IFC - Instituto Federal Catarinense"
-        },
-        "https://idp03.ifmg.edu.br/idp/shibboleth": {
-            "en": "IFMG - Instituto Federal de Minas Gerais",
-            "pt-br": "IFMG - Instituto Federal de Minas Gerais"
         },
         "https://idp1.uepb.edu.br/idp/shibboleth": {
             "en": "UEPB - Universidade Estadual da Paraiba",
@@ -9976,8 +9976,8 @@
             "fr": "ENSFEA"
         },
         "https://idp.ensicaen.fr/idp/shibboleth": {
-            "en": "ENSICAENv5",
-            "fr": "ENSICAENv5"
+            "en": "ENSICAEN",
+            "fr": "ENSICAEN"
         },
         "https://idp.ensma.fr/idp/shibboleth": {
             "en": "ENSMA - Ecole Nationale Supérieure de Mécanique et d'Aérotechnique",
@@ -10528,8 +10528,8 @@
             "fr": "SUPMICROTECH (ENSMM) - Besançon"
         },
         "https://shibboleth.ensicaen.fr/idp/shibboleth": {
-            "en": "ENSICAEN",
-            "fr": "ENSICAEN"
+            "en": "oldENSICAEN",
+            "fr": "oldENSICAEN"
         },
         "https://shibboleth.ensiie.fr/idp/shibboleth": {
             "en": "ensIIE",
@@ -17605,10 +17605,6 @@
         "https://kimlik.hitit.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Hitit University",
             "tr": "Hitit Üniversitesi"
-        },
-        "https://kimlik.ihu.edu.tr/idp/shibboleth": {
-            "en": "Ibn Haldun University",
-            "tr": "İbn Haldun Üniversitesi"
         },
         "https://kimlik.iste.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Iskenderun Technical University",

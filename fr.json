@@ -480,8 +480,8 @@
         "fr": "ENSFEA"
     },
     "https://idp.ensicaen.fr/idp/shibboleth": {
-        "en": "ENSICAENv5",
-        "fr": "ENSICAENv5"
+        "en": "ENSICAEN",
+        "fr": "ENSICAEN"
     },
     "https://idp.ensma.fr/idp/shibboleth": {
         "en": "ENSMA - Ecole Nationale Supérieure de Mécanique et d'Aérotechnique",
@@ -1032,8 +1032,8 @@
         "fr": "SUPMICROTECH (ENSMM) - Besançon"
     },
     "https://shibboleth.ensicaen.fr/idp/shibboleth": {
-        "en": "ENSICAEN",
-        "fr": "ENSICAEN"
+        "en": "oldENSICAEN",
+        "fr": "oldENSICAEN"
     },
     "https://shibboleth.ensiie.fr/idp/shibboleth": {
         "en": "ensIIE",

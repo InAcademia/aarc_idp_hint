@@ -647,6 +647,10 @@
         "en": "IFG - Instituto Federal de Educacao Ciencia e Tecnologia de Goias",
         "pt-br": "IFG - Instituto Federal de Educacao Ciencia e Tecnologia de Goias"
     },
+    "https://idp.ifmg.edu.br/idp/shibboleth": {
+        "en": "IFMG - Instituto Federal de Minas Gerais",
+        "pt-br": "IFMG - Instituto Federal de Minas Gerais"
+    },
     "https://idp.ifpa.edu.br/idp/shibboleth": {
         "en": "IFPA - Instituto Federal do Para",
         "pt-br": "IFPA - Instituto Federal do Para"
@@ -798,10 +802,6 @@
     "https://idp02.ifc.edu.br/idp/shibboleth": {
         "en": "IFC - Instituto Federal Catarinense",
         "pt-br": "IFC - Instituto Federal Catarinense"
-    },
-    "https://idp03.ifmg.edu.br/idp/shibboleth": {
-        "en": "IFMG - Instituto Federal de Minas Gerais",
-        "pt-br": "IFMG - Instituto Federal de Minas Gerais"
     },
     "https://idp1.uepb.edu.br/idp/shibboleth": {
         "en": "UEPB - Universidade Estadual da Paraiba",
