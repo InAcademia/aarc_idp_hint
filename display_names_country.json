@@ -7940,14 +7940,6 @@
             "en": "Dania Academy"
         }
     },
-    "dz": {
-        "https://idp.grid.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science GRID IDP"
-        },
-        "https://med-idp.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science MEDECINE IDP"
-        }
-    },
     "ec": {
         "https://login.armada.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Armada del Ecuador - armada",
