@@ -3107,10 +3107,6 @@
             "en": "Central Conservatory of Music",
             "zh": "中央音乐学院(Central Conservatory of Music)"
         },
-        "https://idp.ccrw.edu.cn/idp/shibboleth": {
-            "en": "Changchun Humanities and Sciences College",
-            "zh": "长春人文学院(Changchun Humanities and Sciences College)"
-        },
         "https://idp.ccsfu.edu.cn/idp/shibboleth": {
             "en": "Changchun Normal University",
             "zh": "长春师范大学(Changchun Normal University)"
@@ -3263,10 +3259,6 @@
             "en": "Communication University of Zhejiang",
             "zh": "浙江传媒学院(Communication University of Zhejiang)"
         },
-        "https://idp.czmc.edu.cn/idp/shibboleth": {
-            "en": "Changzhi Medical College",
-            "zh": "长治医学院(Changzhi Medical College)"
-        },
         "https://idp.czu.edu.cn/idp/shibboleth": {
             "en": "Chizhou University",
             "zh": "池州学院(Chizhou University)"
@@ -3302,10 +3294,6 @@
         "https://idp.dufe.edu.cn/idp/shibboleth": {
             "en": "Dongbei University of Finance and Economics",
             "zh": "东北财经大学(Dongbei University of Finance and Economics)"
-        },
-        "https://idp.dzu.edu.cn/idp/shibboleth": {
-            "en": "Dezhou University",
-            "zh": "德州学院(Dezhou University)"
         },
         "https://idp.ecjtu.edu.cn/idp/shibboleth": {
             "en": "East China Jiaotong University",
@@ -3415,10 +3403,6 @@
             "en": "Guangdong Polytechnic Normal University",
             "zh": "广东技术师范大学(Guangdong Polytechnic Normal University)"
         },
-        "https://idp.gsmc.edu.cn/idp/shibboleth": {
-            "en": "Gansu Medical College",
-            "zh": "甘肃医学院(Gansu Medical College)"
-        },
         "https://idp.gszy.edu.cn/idp/shibboleth": {
             "en": "Gansu University of Chinese Medicine",
             "zh": "甘肃中医药大学(Gansu University of Chinese Medicine)"
@@ -3527,10 +3511,6 @@
             "en": "Hubei University of Technology",
             "zh": "湖北工业大学(Hubei University of Technology)"
         },
-        "https://idp.hcnu.edu.cn/idp/shibboleth": {
-            "en": "Hechi University",
-            "zh": "河池学院(Hechi University)"
-        },
         "https://idp.hdu.edu.cn/idp/shibboleth": {
             "en": "HANGZHOU DIANZI UNIVERSITY",
             "zh": "杭州电子科技大学(HANGZHOU DIANZI UNIVERSITY)"
@@ -3570,10 +3550,6 @@
         "https://idp.hfut.edu.cn/idp/shibboleth": {
             "en": "Hefei University of Technology",
             "zh": "合肥工业大学(Hefei University of Technology)"
-        },
-        "https://idp.hgnu.edu.cn/idp/shibboleth": {
-            "en": "Huanggang Normal University",
-            "zh": "黄冈师范学院(Huanggang Normal University)"
         },
         "https://idp.hgu.edu.cn/idp/shibboleth": {
             "en": "Hebei GEO University",
@@ -3643,17 +3619,9 @@
             "en": "Harbin Engineering University",
             "zh": "哈尔滨工程大学(Harbin Engineering University)"
         },
-        "https://idp.hrbfu.edu.cn/idp/shibboleth": {
-            "en": "Harbin Finance University",
-            "zh": "哈尔滨金融学院(Harbin Finance University)"
-        },
         "https://idp.hrbmu.edu.cn/idp/shibboleth": {
             "en": "Harbin Medical University",
             "zh": "哈尔滨医科大学(Harbin Medical University)"
-        },
-        "https://idp.hstc.edu.cn/idp/shibboleth": {
-            "en": "hanshan normal university",
-            "zh": "韩山师范学院(hanshan normal university)"
         },
         "https://idp.hsu.edu.cn/idp/shibboleth": {
             "en": "HuangShan University",
@@ -3662,10 +3630,6 @@
         "https://idp.htu.edu.cn/idp/shibboleth": {
             "en": "Henan Normal University",
             "zh": "河南师范大学(Henan Normal University)"
-        },
-        "https://idp.huanghuai.edu.cn/idp/shibboleth": {
-            "en": "Huanghuai University",
-            "zh": "黄淮学院(Huanghuai University)"
         },
         "https://idp.huat.edu.cn/idp/shibboleth": {
             "en": "Hubei University of Automotive Technology",
@@ -3707,17 +3671,9 @@
             "en": "Huazhong Agricultural University",
             "zh": "华中农业大学(Huazhong Agricultural University)"
         },
-        "https://idp.hzcu.edu.cn/idp/shibboleth": {
-            "en": "Hangzhou City University",
-            "zh": "浙大城市学院(Hangzhou City University)"
-        },
         "https://idp.hznu.edu.cn/idp/shibboleth": {
             "en": "Hangzhou Normal University",
             "zh": "杭州师范大学(Hangzhou Normal University )"
-        },
-        "https://idp.hzxy.edu.cn/idp/shibboleth": {
-            "en": "Hezhou University",
-            "zh": "贺州学院(Hezhou University)"
         },
         "https://idp.imnu.edu.cn/idp/shibboleth": {
             "en": "Inner Mongolia Normal University",
@@ -4031,10 +3987,6 @@
             "en": "NANNING NORMAL UNIVERSITY",
             "zh": "南宁师范大学(NANNING NORMAL UNIVERSITY)"
         },
-        "https://idp.nnutc.edu.cn/idp/shibboleth": {
-            "en": "Nanjing Normal University Taizhou College",
-            "zh": "南京师范大学泰州学院(Nanjing Normal University Taizhou College)"
-        },
         "https://idp.nsi.edu.cn/idp/shibboleth": {
             "en": "Nanjing Sport Institute",
             "zh": "南京体育学院(Nanjing Sport Institute)"
@@ -4054,10 +4006,6 @@
         "https://idp.nue.edu.cn/idp/shibboleth": {
             "en": "Naval University of Engineering",
             "zh": "海军工程大学(Naval University of Engineering)"
-        },
-        "https://idp.nustti.edu.cn/idp/shibboleth": {
-            "en": "Taizhou Institute of Sci.&Tech.,NJUST",
-            "zh": "南京理工大学泰州科技学院(Taizhou Institute of Sci.&Tech.,NJUST)"
         },
         "https://idp.nwnu.edu.cn/idp/shibboleth": {
             "en": "Northwest Normal University",
@@ -7938,6 +7886,14 @@
         "https://wayfeadania.itcn.dk/simplesaml/saml2/idp/metadata.php": {
             "da": "Erhvervsakademi Dania",
             "en": "Dania Academy"
+        }
+    },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
         }
     },
     "ec": {
