@@ -29,6 +29,9 @@
     "https://luidp01.ln.edu.hk/idp/shibboleth": {
         "en": "Lingnan University"
     },
+    "https://sts.windows.net/03edabb0-8a31-453e-a507-fdd0287b118d/": {
+        "en": "HKU SPACE IdP"
+    },
     "https://sts.windows.net/200624f1-c33b-4e8c-b53f-8c7d55e7522f/": {
         "en": "Vocational Training Council (Alumni)"
     },

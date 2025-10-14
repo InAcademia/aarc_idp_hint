@@ -187,6 +187,10 @@
         "en": "INC - Instituto Nacional de Cardiologia",
         "pt-br": "INC - Instituto Nacional de Cardiologia"
     },
+    "https://cafe.incaper.es.gov.br/idp/shibboleth": {
+        "en": "INCAPER - Instituto de Pesquisa, Assistencia Tecnica e Extensao Rural",
+        "pt-br": "INCAPER - Instituto de Pesquisa, Assistencia Tecnica e Extensao Rural"
+    },
     "https://cafe.ipa.br/idp/shibboleth": {
         "en": "IPA - Instituto Agronomico de Pernambuco",
         "pt-br": "IPA - Instituto Agronomico de Pernambuco"
@@ -207,6 +211,10 @@
         "en": "ITV - Instituto Tecnologico Vale",
         "pt-br": "ITV - Instituto Tecnologico Vale"
     },
+    "https://cafe.mackenzie.br/idp/shibboleth": {
+        "en": "MACKENZIE - Instituto Presbiteriano Mackenzie",
+        "pt-br": "MACKENZIE - Instituto Presbiteriano Mackenzie"
+    },
     "https://cafe.mamiraua.org.br/idp/shibboleth": {
         "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
         "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
@@ -226,6 +234,10 @@
     "https://cafe.pucpr.br/idp/shibboleth": {
         "en": "PUCPR - Pontificia Universidade Catolica do Parana",
         "pt-br": "PUCPR - Pontificia Universidade Catolica do Parana"
+    },
+    "https://cafe.sbc.org.br/idp/shibboleth": {
+        "en": "SBC - Sociedade Brasileira de Computacao",
+        "pt-br": "SBC - Sociedade Brasileira de Computacao"
     },
     "https://cafe.sede.embrapa.br/idp/shibboleth": {
         "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
@@ -482,6 +494,10 @@
     "https://fusion.ceub.br/idp/shibboleth": {
         "en": "CEUB - Centro Universitario de Brasilia",
         "pt-br": "CEUB - Centro Universitario de Brasilia"
+    },
+    "https://hc-idpcafe.hc.ufpr.br/idp/shibboleth": {
+        "en": "CHC-UFPR - Complexo Hospital de Clinicas",
+        "pt-br": "CHC-UFPR - Complexo Hospital de Clinicas"
     },
     "https://hibonite.fapesp.br/idp/shibboleth": {
         "en": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo",
