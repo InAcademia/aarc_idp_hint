@@ -1190,6 +1190,10 @@
             "en": "UFSM - Universidade Federal de Santa Maria",
             "pt-br": "UFSM - Universidade Federal de Santa Maria"
         },
+        "https://cafe.undf.edu.br/idp/shibboleth": {
+            "en": "UNDF - Universidade do Distrito Federal",
+            "pt-br": "UNDF - Universidade do Distrito Federal"
+        },
         "https://cafe.uneal.edu.br/idp/shibboleth": {
             "en": "UNEAL - Universidade Estadual de Alagoas",
             "pt-br": "UNEAL - Universidade Estadual de Alagoas"
@@ -10820,7 +10824,7 @@
             "en": "Lingnan University"
         },
         "https://sts.windows.net/03edabb0-8a31-453e-a507-fdd0287b118d/": {
-            "en": "HKU SPACE IdP"
+            "en": "HKU SPACE"
         },
         "https://sts.windows.net/200624f1-c33b-4e8c-b53f-8c7d55e7522f/": {
             "en": "Vocational Training Council (Alumni)"
