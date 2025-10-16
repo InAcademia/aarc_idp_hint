@@ -680,6 +680,9 @@
     "https://idp.uoc.ac.in/idp/shibboleth": {
         "en": "University of Calicut"
     },
+    "https://idp.upvetuniv.edu.in/idp/shibboleth": {
+        "en": "Uttar Pradesh Pandit Deen Dayal UpadhyayaPashu Chikitsa Vigyan Vishwavidyalaya"
+    },
     "https://idp.uvcelibrary.org/idp/shibboleth": {
         "en": "University of Visvesvaraya College of Engineering"
     },

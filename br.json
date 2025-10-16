@@ -363,6 +363,10 @@
         "en": "UNIGRANRIO - Universidade do Grande Rio",
         "pt-br": "UNIGRANRIO - Universidade do Grande Rio"
     },
+    "https://cafe.unimontes.br/idp/shibboleth": {
+        "en": "UNIMONTES - Universidade Estadual de Montes Claros",
+        "pt-br": "UNIMONTES - Universidade Estadual de Montes Claros"
+    },
     "https://cafe.unipampa.edu.br/idp/shibboleth": {
         "en": "UNIPAMPA - Universidade Federal do Pampa",
         "pt-br": "UNIPAMPA - Universidade Federal do Pampa"
@@ -567,6 +571,10 @@
         "en": "UFPB - Universidade Federal da Paraiba",
         "pt-br": "UFPB - Universidade Federal da Paraiba"
     },
+    "https://idp-cafe.ufpr.br/idp/shibboleth": {
+        "en": "UFPR - Universidade Federal do Parana",
+        "pt-br": "UFPR - Universidade Federal do Parana"
+    },
     "https://idp-cafe.ufra.edu.br/idp/shibboleth": {
         "en": "UFRA - Universidade Federal Rural da Amazonia",
         "pt-br": "UFRA - Universidade Federal Rural da Amazonia"
@@ -690,6 +698,10 @@
     "https://idp.inpp.gov.br/idp/shibboleth": {
         "en": "INPP - Instituto Nacional de Pesquisa do Pantanal",
         "pt-br": "INPP - Instituto Nacional de Pesquisa do Pantanal"
+    },
+    "https://idp.insa.gov.br/idp/shibboleth": {
+        "en": "INSA - Instituto Nacional do Semiarido",
+        "pt-br": "INSA - Instituto Nacional do Semiarido"
     },
     "https://idp.int.gov.br/idp/shibboleth": {
         "en": "INT - Instituto Nacional de Tecnologia",
@@ -1066,10 +1078,6 @@
     "https://shibboleth.ines.gov.br/idp/shibboleth": {
         "en": "INES - Instituto Nacional de Educacao de Surdos",
         "pt-br": "INES - Instituto Nacional de Educacao de Surdos"
-    },
-    "https://shibboleth.insa.gov.br/idp/shibboleth": {
-        "en": "INSA - Instituto Nacional do Semiarido",
-        "pt-br": "INSA - Instituto Nacional do Semiarido"
     },
     "https://shibboleth.on.br/idp/shibboleth": {
         "en": "ON - Observatorio Nacional",
