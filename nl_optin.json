@@ -47,6 +47,10 @@
         "en": "HZ University of Applied Sciences",
         "nl": "HZ University of Applied Sciences"
     },
+    "http://fs.umcutrecht.nl/adfs/services/trust": {
+        "en": "Universitair Medisch Centrum Utrecht",
+        "nl": "Universitair Medisch Centrum Utrecht"
+    },
     "http://login.hva.nl/adfs/services/trust": {
         "en": "Amsterdam University of Applied Sciences",
         "nl": "Hogeschool van Amsterdam"
