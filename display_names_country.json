@@ -569,9 +569,6 @@
             "en": "HELMo University College",
             "fr": "Haute Ecole HELMo"
         },
-        "https://auth.henallux.be": {
-            "en": "Henallux"
-        },
         "https://auth.ulb.be/idp": {
             "en": "Universite Libre de Bruxelles (ULB)",
             "fr": "Universite Libre de Bruxelles (ULB)"
@@ -1982,10 +1979,6 @@
             "en": "UNIFAPCE - Centro Universitario Paraiso",
             "pt-br": "UNIFAPCE - Centro Universitario Paraiso"
         },
-        "https://shibboleth.uninta.edu.br/idp/shibboleth": {
-            "en": "UNINTA - Centro Universitario INTA",
-            "pt-br": "UNINTA - Centro Universitario INTA"
-        },
         "https://shibboleth.uniritter.edu.br/idp/shibboleth": {
             "en": "UNIRITTER - Centro Universitario Ritter dos Reis",
             "pt-br": "UNIRITTER - Centro Universitario Ritter dos Reis"
@@ -3125,6 +3118,10 @@
         "https://idp.ccmu.edu.cn/idp/shibboleth": {
             "en": "Capital  Medical University",
             "zh": "首都医科大学(Capital  Medical University)"
+        },
+        "https://idp.ccnu.edu.cn/idp/shibboleth": {
+            "en": "Central China Normal University",
+            "zh": "华中师范大学(Central China Normal University)"
         },
         "https://idp.ccom.edu.cn/idp/shibboleth": {
             "en": "Central Conservatory of Music",
@@ -19337,6 +19334,9 @@
         },
         "https://idp.qmc.ac.uk/shibboleth": {
             "en": "Queen Mary's College, Basingstoke"
+        },
+        "https://idp.queens.ac.uk/entity": {
+            "en": "The Queen's Foundation for Ecumenical Theological Education"
         },
         "https://idp.rac.ac.uk/oala/metadata": {
             "en": "Royal Agricultural University"

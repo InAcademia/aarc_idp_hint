@@ -375,6 +375,10 @@
         "en": "Capital  Medical University",
         "zh": "首都医科大学(Capital  Medical University)"
     },
+    "https://idp.ccnu.edu.cn/idp/shibboleth": {
+        "en": "Central China Normal University",
+        "zh": "华中师范大学(Central China Normal University)"
+    },
     "https://idp.ccom.edu.cn/idp/shibboleth": {
         "en": "Central Conservatory of Music",
         "zh": "中央音乐学院(Central Conservatory of Music)"

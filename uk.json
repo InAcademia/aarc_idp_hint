@@ -896,6 +896,9 @@
     "https://idp.qmc.ac.uk/shibboleth": {
         "en": "Queen Mary's College, Basingstoke"
     },
+    "https://idp.queens.ac.uk/entity": {
+        "en": "The Queen's Foundation for Ecumenical Theological Education"
+    },
     "https://idp.rac.ac.uk/oala/metadata": {
         "en": "Royal Agricultural University"
     },
