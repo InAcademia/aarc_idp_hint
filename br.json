@@ -1003,6 +1003,10 @@
         "en": "GIGA - Associacao GigaCandanga",
         "pt-br": "GIGA - Associacao GigaCandanga"
     },
+    "https://rnp2.unip.br/idp/shibboleth": {
+        "en": "UNIP - Universidade Paulista",
+        "pt-br": "UNIP - Universidade Paulista"
+    },
     "https://rpilot.unipar.br/idp/shibboleth": {
         "en": "UNIPAR - Universidade Paranaense",
         "pt-br": "UNIPAR - Universidade Paranaense"

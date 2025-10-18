@@ -907,6 +907,10 @@
         "en": "University of Caen Normandie",
         "fr": "Université de Caen Normandie"
     },
+    "https://idp5-prod.univ-brest.fr/idp/shibboleth": {
+        "en": "University of Brest - UBO",
+        "fr": "Université de Brest - UBO"
+    },
     "https://idp5.hec.fr/idp/shibboleth": {
         "en": "HEC Paris V5",
         "fr": "HEC Paris V5"

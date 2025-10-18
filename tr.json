@@ -447,6 +447,10 @@
         "en": "Selcuk University",
         "tr": "Selçuk Üniversitesi"
     },
+    "https://kimlik.tarsus.edu.tr/idp/shibboleth": {
+        "en": "Tarsus University",
+        "tr": "Tarsus Üniversitesi"
+    },
     "https://kimlik.topkapi.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Istanbul Topkapi University",
         "tr": "İstanbul Topkapı Üniversitesi"

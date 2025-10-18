@@ -583,6 +583,9 @@
         "https://edugain.vinci.be/adfs/services/trust": {
             "en": "Haute Ecole Léonard de Vinci"
         },
+        "https://eduroam.etf.edu/idp": {
+            "en": "ETF Leuven"
+        },
         "https://fdr2.itg.be/idp/shibboleth": {
             "en": "Instituut voor Tropische Geneeskunde Identity Provider"
         },
@@ -1866,6 +1869,10 @@
         "https://redecafe.gigacandanga.net.br/idp/shibboleth": {
             "en": "GIGA - Associacao GigaCandanga",
             "pt-br": "GIGA - Associacao GigaCandanga"
+        },
+        "https://rnp2.unip.br/idp/shibboleth": {
+            "en": "UNIP - Universidade Paulista",
+            "pt-br": "UNIP - Universidade Paulista"
         },
         "https://rpilot.unipar.br/idp/shibboleth": {
             "en": "UNIPAR - Universidade Paranaense",
@@ -9999,6 +10006,10 @@
             "en": "University of Caen Normandie",
             "fr": "Université de Caen Normandie"
         },
+        "https://idp5-prod.univ-brest.fr/idp/shibboleth": {
+            "en": "University of Brest - UBO",
+            "fr": "Université de Brest - UBO"
+        },
         "https://idp5.hec.fr/idp/shibboleth": {
             "en": "HEC Paris V5",
             "fr": "HEC Paris V5"
@@ -11978,7 +11989,7 @@
             "en": "University of Calicut"
         },
         "https://idp.upvetuniv.edu.in/idp/shibboleth": {
-            "en": "Uttar Pradesh Pandit Deen Dayal UpadhyayaPashu Chikitsa Vigyan Vishwavidyalaya"
+            "en": "UP Pandit Deen Dayal Upadhyaya Veterinary University & Gau-Anusandhan Sansthan, Mathura"
         },
         "https://idp.uvcelibrary.org/idp/shibboleth": {
             "en": "University of Visvesvaraya College of Engineering"
@@ -16206,6 +16217,10 @@
             "en": "Faculty of Philology. University of Belgrade",
             "sr": "Filoloski fakultet Univerziteta u Beogradu"
         },
+        "https://idp.iup.ac.rs/idp/shibboleth": {
+            "en": "The Institute of Comparative Law",
+            "sr": "Institut za uporedno pravo"
+        },
         "https://idp.kg.ac.rs/idp/shibboleth": {
             "en": "University of Kragujevac",
             "sr": "Univerzitet u Kragujevcu"
@@ -17299,6 +17314,10 @@
         "https://kimlik.selcuk.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Selcuk University",
             "tr": "Selçuk Üniversitesi"
+        },
+        "https://kimlik.tarsus.edu.tr/idp/shibboleth": {
+            "en": "Tarsus University",
+            "tr": "Tarsus Üniversitesi"
         },
         "https://kimlik.topkapi.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Istanbul Topkapi University",
