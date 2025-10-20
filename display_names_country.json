@@ -4290,6 +4290,10 @@
             "en": "Shenyang University of Technology",
             "zh": "沈阳工业大学(Shenyang University of Technology )"
         },
+        "https://idp.swfu.edu.cn/idp/shibboleth": {
+            "en": "Southwest Forestry University",
+            "zh": "西南林业大学(Southwest Forestry University)"
+        },
         "https://idp.swufe.edu.cn/idp/shibboleth": {
             "en": "Southwestern University of Finance and Economics",
             "zh": "西南财经大学(Southwestern University of Finance and Economics)"
@@ -7090,8 +7094,8 @@
             "en": "Universität Hamburg (UHH)"
         },
         "https://login.uni-siegen.de/idp/shibboleth": {
-            "de": "Universität Siegen",
-            "en": "University of Siegen"
+            "de": "Shibboleth-Identity-Provider der Universität Siegen",
+            "en": "Shibboleth identity provider of the University of Siegen"
         },
         "https://login.uniklinikum-dresden.de/idp/shibboleth": {
             "de": "Universitätsklinikum Carl Gustav Carus Dresden",
