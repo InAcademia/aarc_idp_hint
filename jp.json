@@ -170,6 +170,10 @@
         "en": "Chiba Institute of Technology",
         "ja": "千葉工業大学"
     },
+    "https://idp.it-hiroshima.ac.jp/idp/shibboleth": {
+        "en": "Hiroshima Institute of Technology",
+        "ja": "広島工業大学"
+    },
     "https://idp.itc.saitama-u.ac.jp/idp/shibboleth": {
         "en": "Saitama University",
         "ja": "埼玉大学"
