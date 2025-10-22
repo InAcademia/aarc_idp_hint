@@ -1223,8 +1223,8 @@
         "en": "Universität Hamburg (UHH)"
     },
     "https://login.uni-siegen.de/idp/shibboleth": {
-        "de": "Shibboleth-Identity-Provider der Universität Siegen",
-        "en": "Shibboleth identity provider of the University of Siegen"
+        "de": "Universität Siegen",
+        "en": "University of Siegen"
     },
     "https://login.uniklinikum-dresden.de/idp/shibboleth": {
         "de": "Universitätsklinikum Carl Gustav Carus Dresden",

@@ -902,6 +902,10 @@
             "en": "IFCE - Instituto Federal do Ceara",
             "pt-br": "IFCE - Instituto Federal do Ceara"
         },
+        "https://cafe-idp.ifma.edu.br/idp/shibboleth": {
+            "en": "IFMA - Instituto Federal do Maranhao",
+            "pt-br": "IFMA - Instituto Federal do Maranhao"
+        },
         "https://cafe-idp.ifnmg.edu.br/idp/shibboleth": {
             "en": "IFNMG - Instituto Federal do Norte de Minas Gerais",
             "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
@@ -1009,10 +1013,6 @@
         "https://cafe.ifb.edu.br/idp/shibboleth": {
             "en": "IFB - Instituto Federal de Brasilia",
             "pt-br": "IFB - Instituto Federal de Brasilia"
-        },
-        "https://cafe.ifma.edu.br/idp/shibboleth": {
-            "en": "IFMA - Instituto Federal do Maranhao",
-            "pt-br": "IFMA - Instituto Federal do Maranhao"
         },
         "https://cafe.ifms.edu.br/idp/shibboleth": {
             "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
@@ -1229,6 +1229,10 @@
         "https://cafe.unimontes.br/idp/shibboleth": {
             "en": "UNIMONTES - Universidade Estadual de Montes Claros",
             "pt-br": "UNIMONTES - Universidade Estadual de Montes Claros"
+        },
+        "https://cafe.uninove.br/idp/shibboleth": {
+            "en": "UNINOVE - Universidade Nove de Julho",
+            "pt-br": "UNINOVE - Universidade Nove de Julho"
         },
         "https://cafe.unipampa.edu.br/idp/shibboleth": {
             "en": "UNIPAMPA - Universidade Federal do Pampa",
@@ -1530,6 +1534,10 @@
             "en": "FMU - Faculdades Metropolitanas Unidas Educacao",
             "pt-br": "FMU - Faculdades Metropolitanas Unidas Educacao"
         },
+        "https://idp.fpp.edu.br/idp/shibboleth": {
+            "en": "FPP - Faculdades Pequeno Principe",
+            "pt-br": "FPP - Faculdades Pequeno Principe"
+        },
         "https://idp.ifac.edu.br/idp/shibboleth": {
             "en": "IFAC - Instituto Federal do Acre",
             "pt-br": "IFAC - Instituto Federal do Acre"
@@ -1789,6 +1797,10 @@
         "https://idpv3.lna.br/idp/shibboleth": {
             "en": "LNA - Laboratorio Nacional de Astrofisica",
             "pt-br": "LNA - Laboratorio Nacional de Astrofisica"
+        },
+        "https://idpv332.dti.ufrr.br/idp/shibboleth": {
+            "en": "UFRR - Universidade Federal de Roraima",
+            "pt-br": "UFRR - Universidade Federal de Roraima"
         },
         "https://ifs00sv056.ifsul.edu.br/idp/shibboleth": {
             "en": "IFSUL - Instituto Federal Sul-rio-grandense",
@@ -2298,6 +2310,10 @@
         },
         "https://idp.stmu.ca/idp": {
             "en": "St. Mary’s University"
+        },
+        "https://idp.teluq.ca/idp": {
+            "en": "TELUQ University",
+            "fr": "Université TÉLUQ"
         },
         "https://idp.teluq.ca/saml-idp/saml2/idp/metadata.php": {
             "en": "TELUQ University",
@@ -7094,8 +7110,8 @@
             "en": "Universität Hamburg (UHH)"
         },
         "https://login.uni-siegen.de/idp/shibboleth": {
-            "de": "Shibboleth-Identity-Provider der Universität Siegen",
-            "en": "Shibboleth identity provider of the University of Siegen"
+            "de": "Universität Siegen",
+            "en": "University of Siegen"
         },
         "https://login.uniklinikum-dresden.de/idp/shibboleth": {
             "de": "Universitätsklinikum Carl Gustav Carus Dresden",
@@ -13521,9 +13537,6 @@
         "https://idp.ugc.ac.lk/idp/shibboleth": {
             "en": "University Grants Commission - Sri Lanka"
         },
-        "https://idp.uom.lk/idp/shibboleth": {
-            "en": "University of Moratuwa"
-        },
         "https://idp.uwu.ac.lk/idp/shibboleth": {
             "en": "Uva Wellassa University"
         },
@@ -16221,6 +16234,10 @@
             "en": "Faculty of Philology. University of Belgrade",
             "sr": "Filoloski fakultet Univerziteta u Beogradu"
         },
+        "https://idp.fon.bg.ac.rs/idp/shibboleth": {
+            "en": "Faculty of organizational sciences",
+            "sr": "Fakultet organizacionih nauka"
+        },
         "https://idp.iup.ac.rs/idp/shibboleth": {
             "en": "The Institute of Comparative Law",
             "sr": "Institut za uporedno pravo"
@@ -18720,7 +18737,7 @@
             "en": "The Sixth Form Bolton"
         },
         "https://idp.bolton.ac.uk/idp/shibboleth": {
-            "en": "University of Bolton"
+            "en": "University of Greater Manchester"
         },
         "https://idp.boltoncc.ac.uk/shibboleth": {
             "en": "Bolton College"

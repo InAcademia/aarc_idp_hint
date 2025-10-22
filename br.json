@@ -35,6 +35,10 @@
         "en": "IFCE - Instituto Federal do Ceara",
         "pt-br": "IFCE - Instituto Federal do Ceara"
     },
+    "https://cafe-idp.ifma.edu.br/idp/shibboleth": {
+        "en": "IFMA - Instituto Federal do Maranhao",
+        "pt-br": "IFMA - Instituto Federal do Maranhao"
+    },
     "https://cafe-idp.ifnmg.edu.br/idp/shibboleth": {
         "en": "IFNMG - Instituto Federal do Norte de Minas Gerais",
         "pt-br": "IFNMG - Instituto Federal do Norte de Minas Gerais"
@@ -142,10 +146,6 @@
     "https://cafe.ifb.edu.br/idp/shibboleth": {
         "en": "IFB - Instituto Federal de Brasilia",
         "pt-br": "IFB - Instituto Federal de Brasilia"
-    },
-    "https://cafe.ifma.edu.br/idp/shibboleth": {
-        "en": "IFMA - Instituto Federal do Maranhao",
-        "pt-br": "IFMA - Instituto Federal do Maranhao"
     },
     "https://cafe.ifms.edu.br/idp/shibboleth": {
         "en": "IFMS - Instituto Federal de Mato Grosso do Sul",
@@ -362,6 +362,10 @@
     "https://cafe.unimontes.br/idp/shibboleth": {
         "en": "UNIMONTES - Universidade Estadual de Montes Claros",
         "pt-br": "UNIMONTES - Universidade Estadual de Montes Claros"
+    },
+    "https://cafe.uninove.br/idp/shibboleth": {
+        "en": "UNINOVE - Universidade Nove de Julho",
+        "pt-br": "UNINOVE - Universidade Nove de Julho"
     },
     "https://cafe.unipampa.edu.br/idp/shibboleth": {
         "en": "UNIPAMPA - Universidade Federal do Pampa",
@@ -663,6 +667,10 @@
         "en": "FMU - Faculdades Metropolitanas Unidas Educacao",
         "pt-br": "FMU - Faculdades Metropolitanas Unidas Educacao"
     },
+    "https://idp.fpp.edu.br/idp/shibboleth": {
+        "en": "FPP - Faculdades Pequeno Principe",
+        "pt-br": "FPP - Faculdades Pequeno Principe"
+    },
     "https://idp.ifac.edu.br/idp/shibboleth": {
         "en": "IFAC - Instituto Federal do Acre",
         "pt-br": "IFAC - Instituto Federal do Acre"
@@ -922,6 +930,10 @@
     "https://idpv3.lna.br/idp/shibboleth": {
         "en": "LNA - Laboratorio Nacional de Astrofisica",
         "pt-br": "LNA - Laboratorio Nacional de Astrofisica"
+    },
+    "https://idpv332.dti.ufrr.br/idp/shibboleth": {
+        "en": "UFRR - Universidade Federal de Roraima",
+        "pt-br": "UFRR - Universidade Federal de Roraima"
     },
     "https://ifs00sv056.ifsul.edu.br/idp/shibboleth": {
         "en": "IFSUL - Instituto Federal Sul-rio-grandense",
