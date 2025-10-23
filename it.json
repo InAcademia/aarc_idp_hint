@@ -47,6 +47,10 @@
         "en": "University of Udine",
         "it": "Università degli Studi di Udine"
     },
+    "https://idem.asi.it/idp/shibboleth": {
+        "en": "Italian Space Agency",
+        "it": "Agenzia Spaziale Italiana"
+    },
     "https://idem.ced.inaf.it/idp/shibboleth": {
         "en": "National Institute for Astrophysics - INAF",
         "it": "Istituto Nazionale di Astrofisica - INAF"

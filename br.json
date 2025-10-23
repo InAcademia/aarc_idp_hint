@@ -63,6 +63,10 @@
         "en": "UNISANTOS - Universidade Catolica de Santos",
         "pt-br": "UNISANTOS - Universidade Catolica de Santos"
     },
+    "https://cafe-school.cesar.org.br/idp/shibboleth": {
+        "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
+        "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
+    },
     "https://cafe-v3.upf.br/idp/shibboleth": {
         "en": "UPF - Universidade de Passo Fundo",
         "pt-br": "UPF - Universidade de Passo Fundo"
@@ -242,6 +246,10 @@
     "https://cafe.sgb.gov.br/idp/shibboleth": {
         "en": "SGB - Servico Geologico do Brasil",
         "pt-br": "SGB - Servico Geologico do Brasil"
+    },
+    "https://cafe.ucdb.br/idp/shibboleth": {
+        "en": "UCDB - Universidade Catolica Dom Bosco",
+        "pt-br": "UCDB - Universidade Catolica Dom Bosco"
     },
     "https://cafe.ucs.br/idp/shibboleth": {
         "en": "UCS - Universidade de Caxias do Sul",
@@ -619,7 +627,7 @@
         "en": "UNICHRISTUS - Centro Universitario Unichristus",
         "pt-br": "UNICHRISTUS - Centro Universitario Unichristus"
     },
-    "https://idp-v4.ceitec.gov.br/idp/shibboleth": {
+    "https://idp-v4.ceitec-sa.com/idp/shibboleth": {
         "en": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada",
         "pt-br": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada"
     },
