@@ -163,10 +163,6 @@
         "en": "IFPR - Instituto Federal do Parana",
         "pt-br": "IFPR - Instituto Federal do Parana"
     },
-    "https://cafe.ifrj.edu.br/idp/shibboleth": {
-        "en": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro",
-        "pt-br": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro"
-    },
     "https://cafe.ifro.edu.br/idp/shibboleth": {
         "en": "IFRO - Instituto Federal de Rondonia",
         "pt-br": "IFRO - Instituto Federal de Rondonia"
@@ -338,10 +334,6 @@
     "https://cafe.unemat.br/idp/shibboleth": {
         "en": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso",
         "pt-br": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso"
-    },
-    "https://cafe.unesc.net/idp/shibboleth": {
-        "en": "UNESC - Universidade do Extremo Sul Catarinense",
-        "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
     },
     "https://cafe.uniarp.edu.br/idp/shibboleth": {
         "en": "UNIARP - Universidade Alto Vale do Rio do Peixe",
@@ -786,6 +778,10 @@
     "https://idp.ufv.br/idp/shibboleth": {
         "en": "UFV - Universidade Federal de Vicosa",
         "pt-br": "UFV - Universidade Federal de Vicosa"
+    },
+    "https://idp.unesc.net/idp/shibboleth": {
+        "en": "UNESC - Universidade do Extremo Sul Catarinense",
+        "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
     },
     "https://idp.unifacef.edu.br/idp/shibboleth": {
         "en": "UNI-FACEF - Centro Universitario Municipal de Franca",

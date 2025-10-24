@@ -1,4 +1,16 @@
 {
+    "https://idp-mca.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+        "en": "Malawi College of Accountancy - MCA"
+    },
+    "https://idp-mzuzutech.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+        "en": "Mzuzu Technical College"
+    },
+    "https://idp-sjifh.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+        "en": "St John Institute For Health"
+    },
+    "https://idp-unilia.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+        "en": "University of Livingstonia"
+    },
     "https://idp.kuhes.ac.mw/idp/shibboleth": {
         "en": "Kamuzu University of Health Sciences - KUHES"
     },
