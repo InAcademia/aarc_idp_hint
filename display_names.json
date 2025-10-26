@@ -220,7 +220,6 @@
     "http://uw-adfs2.uwinnipeg.ca/adfs/services/trust": "University of Winnipeg",
     "http://wayf.regionsjaelland.dk/adfs/services/trust": "Region Zealand",
     "https://040cafe602.up.edu.br/idp/shibboleth": "UP - Universidade Positivo",
-    "https://1010se17fam-v18.famerp.br/idp/shibboleth": "FAMERP - Faculdade de Medicina de Rio Preto",
     "https://IDP.ehs-dresden.de/idp/shibboleth": "Evangelische Hochschule Dresden",
     "https://a-star.singaren.net.sg/simplesaml/saml2/idp/metadata.php": "A*STAR - Agency for Science, Technology and Research",
     "https://aaf-login.uts.edu.au/idp/shibboleth": "University of Technology Sydney",
