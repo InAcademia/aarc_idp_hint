@@ -2114,6 +2114,10 @@
             "en": "UNAERP - Associacao de Ensino de Ribeirao Preto",
             "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto"
         },
+        "https://svrcafe01.reabilitar.org.br/idp/shibboleth": {
+            "en": "NMDER - Nova Maternidade Dona Evangelina Rosa",
+            "pt-br": "NMDER - Nova Maternidade Dona Evangelina Rosa"
+        },
         "https://vm-cafe.feesc.org.br/idp/shibboleth": {
             "en": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina",
             "pt-br": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina"
@@ -8488,6 +8492,10 @@
         "https://www.rediris.es/sir/iicidp": {
             "en": "Asociacion para el Desarrollo de la Ingenieria del Conocimiento",
             "es": "Asociación para el Desarrollo de la Ingeniería del Conocimiento"
+        },
+        "https://www.rediris.es/sir/ijcidp": {
+            "en": "Josep Carreras Leukaemia Research Institute",
+            "es": "Instituto de Investigación contra la Leucemia Josep Carreras"
         },
         "https://www.rediris.es/sir/imdeamaterialesidp": {
             "en": "Instituto IMDEA Materiales",

@@ -1247,6 +1247,10 @@
         "en": "UNAERP - Associacao de Ensino de Ribeirao Preto",
         "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto"
     },
+    "https://svrcafe01.reabilitar.org.br/idp/shibboleth": {
+        "en": "NMDER - Nova Maternidade Dona Evangelina Rosa",
+        "pt-br": "NMDER - Nova Maternidade Dona Evangelina Rosa"
+    },
     "https://vm-cafe.feesc.org.br/idp/shibboleth": {
         "en": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina",
         "pt-br": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina"
