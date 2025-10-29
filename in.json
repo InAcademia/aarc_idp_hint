@@ -437,6 +437,9 @@
     "https://idp.msuniv.ac.in/idp/shibboleth": {
         "en": "Manonmaniam Sundaranar University"
     },
+    "https://idp.muoc.ac.in/idp/shibboleth": {
+        "en": "Majuli University of Culture"
+    },
     "https://idp.nagalanduniversity.ac.in/idp/shibboleth": {
         "en": "Nagaland University"
     },

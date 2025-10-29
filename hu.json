@@ -127,10 +127,6 @@
         "en": "HUN-REN Institute of Experimental Medicine",
         "hu": "HUN-REN Kísérleti Orvostudományi Kutatóintézet"
     },
-    "https://idp.konyvtar.mta.hu/simplesaml/saml2/idp/metadata.php": {
-        "en": "Library and Information Centre of the Hungarian Academy of Sciences",
-        "hu": "Magyar Tudományos Akadémia Könyvtár és Információs Központ"
-    },
     "https://idp.kre.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Károli Gáspár University of the Reformed Church in Hungary",
         "hu": "Károli Gáspár Református Egyetem"
@@ -180,8 +176,8 @@
         "hu": "Országos Idegennyelvű Könyvtár"
     },
     "https://idp.olvaso.konyvtar.mta.hu/simplesaml/saml2/idp/metadata.php": {
-        "en": "Library and Information Centre of MTA borrowers",
-        "hu": "MTA Könyvtár és Információs Központ olvasók"
+        "en": "Library and Information Centre of the Hungarian Academy of Sciences",
+        "hu": "Magyar Tudományos Akadémia Könyvtár és Információs Központ"
     },
     "https://idp.omgk.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Museum and Library of Hungarian Agriculture",

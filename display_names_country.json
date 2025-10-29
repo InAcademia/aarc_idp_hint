@@ -870,6 +870,10 @@
             "en": "UP - Universidade Positivo",
             "pt-br": "UP - Universidade Positivo"
         },
+        "https://1010se17fam-v18.famerp.br/idp/shibboleth": {
+            "en": "FAMERP - Faculdade de Medicina de Rio Preto",
+            "pt-br": "FAMERP - Faculdade de Medicina de Rio Preto"
+        },
         "https://acesso.ufabc.edu.br/idp/shibboleth": {
             "en": "UFABC - Universidade Federal do ABC",
             "pt-br": "UFABC - Universidade Federal do ABC"
@@ -1685,6 +1689,10 @@
         "https://idp.unisanta.br/idp/shibboleth": {
             "en": "UNISANTA - Instituto Superior de Educacao Santa Cecilia",
             "pt-br": "UNISANTA - Instituto Superior de Educacao Santa Cecilia"
+        },
+        "https://idp.unisuam.edu.br/idp/shibboleth": {
+            "en": "UNISUAM - Centro Universitario Augusto Motta",
+            "pt-br": "UNISUAM - Centro Universitario Augusto Motta"
         },
         "https://idp.unitins.br/idp/shibboleth": {
             "en": "UNITINS - Universidade Estadual do Tocantins",
@@ -11007,10 +11015,6 @@
             "en": "HUN-REN Institute of Experimental Medicine",
             "hu": "HUN-REN Kísérleti Orvostudományi Kutatóintézet"
         },
-        "https://idp.konyvtar.mta.hu/simplesaml/saml2/idp/metadata.php": {
-            "en": "Library and Information Centre of the Hungarian Academy of Sciences",
-            "hu": "Magyar Tudományos Akadémia Könyvtár és Információs Központ"
-        },
         "https://idp.kre.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Károli Gáspár University of the Reformed Church in Hungary",
             "hu": "Károli Gáspár Református Egyetem"
@@ -11060,8 +11064,8 @@
             "hu": "Országos Idegennyelvű Könyvtár"
         },
         "https://idp.olvaso.konyvtar.mta.hu/simplesaml/saml2/idp/metadata.php": {
-            "en": "Library and Information Centre of MTA borrowers",
-            "hu": "MTA Könyvtár és Információs Központ olvasók"
+            "en": "Library and Information Centre of the Hungarian Academy of Sciences",
+            "hu": "Magyar Tudományos Akadémia Könyvtár és Információs Központ"
         },
         "https://idp.omgk.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Museum and Library of Hungarian Agriculture",
@@ -11768,6 +11772,9 @@
         },
         "https://idp.msuniv.ac.in/idp/shibboleth": {
             "en": "Manonmaniam Sundaranar University"
+        },
+        "https://idp.muoc.ac.in/idp/shibboleth": {
+            "en": "Majuli University of Culture"
         },
         "https://idp.nagalanduniversity.ac.in/idp/shibboleth": {
             "en": "Nagaland University"
@@ -13202,8 +13209,8 @@
             "ja": "新潟県立大学"
         },
         "https://scudna.ex-tic.com/auth/gakunin/saml2/assertions": {
-            "en": "Sapporo City University (New)",
-            "ja": "札幌市立大学（新）"
+            "en": "Sapporo City University",
+            "ja": "札幌市立大学"
         },
         "https://servs.lib.meiji.ac.jp/idp/shibboleth": {
             "en": "Meiji University",
