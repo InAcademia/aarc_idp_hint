@@ -178,10 +178,6 @@
         "en": "TELUQ University",
         "fr": "Université TÉLUQ"
     },
-    "https://idp.teluq.ca/saml-idp/saml2/idp/metadata.php": {
-        "en": "TELUQ University",
-        "fr": "Université TÉLUQ"
-    },
     "https://idp.torontomu.ca/idp/shibboleth": {
         "en": "Toronto Metropolitan University"
     },

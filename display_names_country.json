@@ -466,7 +466,7 @@
             "en": "AAF Virtual Home"
         },
         "urn:mace:federation.org.au:testfed:au-idp.adelaide.edu.au": {
-            "en": "University of Adelaide"
+            "en": "Adelaide University"
         },
         "urn:mace:federation.org.au:testfed:mq.edu.au": {
             "en": "Macquarie University"
@@ -1054,6 +1054,10 @@
             "en": "INCAPER - Instituto de Pesquisa, Assistencia Tecnica e Extensao Rural",
             "pt-br": "INCAPER - Instituto de Pesquisa, Assistencia Tecnica e Extensao Rural"
         },
+        "https://cafe.inpo.org.br/idp/shibboleth": {
+            "en": "INPO - Instituto Nacional de Pesquisas Oceanicas",
+            "pt-br": "INPO - Instituto Nacional de Pesquisas Oceanicas"
+        },
         "https://cafe.ipa.br/idp/shibboleth": {
             "en": "IPA - Instituto Agronomico de Pernambuco",
             "pt-br": "IPA - Instituto Agronomico de Pernambuco"
@@ -1293,10 +1297,6 @@
         "https://cafeidp.uerr.edu.br/idp/shibboleth": {
             "en": "UERR - Universidade Estadual De Roraima",
             "pt-br": "UERR - Universidade Estadual De Roraima"
-        },
-        "https://cafeidp.ufdpar.edu.br/idp/shibboleth": {
-            "en": "UFDPAR - Universidade Federal do Delta do Parnaiba",
-            "pt-br": "UFDPAR - Universidade Federal do Delta do Parnaiba"
         },
         "https://cafernp.fesfsus.ba.gov.br/idp/shibboleth": {
             "en": "FESFSUS - Fundacao Estatal Saude da Familia",
@@ -2324,10 +2324,6 @@
             "en": "St. Mary’s University"
         },
         "https://idp.teluq.ca/idp": {
-            "en": "TELUQ University",
-            "fr": "Université TÉLUQ"
-        },
-        "https://idp.teluq.ca/saml-idp/saml2/idp/metadata.php": {
             "en": "TELUQ University",
             "fr": "Université TÉLUQ"
         },
@@ -13597,7 +13593,7 @@
             "lt": "ISM Vadybos ir ekonomikos universitetas"
         },
         "https://kauko.sso.litnet.lt/auth/saml2/idp/metadata.php": {
-            "en": "Kaunas University of Applied Sciences",
+            "en": "Kauno kolegija Higher Education Institution",
             "lt": "Kauno kolegija"
         },
         "https://lei.sso.litnet.lt/auth/saml2/idp/metadata.php": {

@@ -187,6 +187,10 @@
         "en": "INCAPER - Instituto de Pesquisa, Assistencia Tecnica e Extensao Rural",
         "pt-br": "INCAPER - Instituto de Pesquisa, Assistencia Tecnica e Extensao Rural"
     },
+    "https://cafe.inpo.org.br/idp/shibboleth": {
+        "en": "INPO - Instituto Nacional de Pesquisas Oceanicas",
+        "pt-br": "INPO - Instituto Nacional de Pesquisas Oceanicas"
+    },
     "https://cafe.ipa.br/idp/shibboleth": {
         "en": "IPA - Instituto Agronomico de Pernambuco",
         "pt-br": "IPA - Instituto Agronomico de Pernambuco"
@@ -426,10 +430,6 @@
     "https://cafeidp.uerr.edu.br/idp/shibboleth": {
         "en": "UERR - Universidade Estadual De Roraima",
         "pt-br": "UERR - Universidade Estadual De Roraima"
-    },
-    "https://cafeidp.ufdpar.edu.br/idp/shibboleth": {
-        "en": "UFDPAR - Universidade Federal do Delta do Parnaiba",
-        "pt-br": "UFDPAR - Universidade Federal do Delta do Parnaiba"
     },
     "https://cafernp.fesfsus.ba.gov.br/idp/shibboleth": {
         "en": "FESFSUS - Fundacao Estatal Saude da Familia",
