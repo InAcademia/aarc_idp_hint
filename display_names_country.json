@@ -1030,6 +1030,10 @@
             "en": "IFPR - Instituto Federal do Parana",
             "pt-br": "IFPR - Instituto Federal do Parana"
         },
+        "https://cafe.ifrj.edu.br/idp/shibboleth": {
+            "en": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro",
+            "pt-br": "IFRJ - Instituto Federal de Educacao do Rio de Janeiro"
+        },
         "https://cafe.ifro.edu.br/idp/shibboleth": {
             "en": "IFRO - Instituto Federal de Rondonia",
             "pt-br": "IFRO - Instituto Federal de Rondonia"
@@ -1245,6 +1249,10 @@
         "https://cafe.unitau.br/idp/shibboleth": {
             "en": "UNITAU - Universidade de Taubate",
             "pt-br": "UNITAU - Universidade de Taubate"
+        },
+        "https://cafe.univas.edu.br/idp/shibboleth": {
+            "en": "UNIVAS - Universidade do Vale do Sapucai",
+            "pt-br": "UNIVAS - Universidade do Vale do Sapucai"
         },
         "https://cafe.univille.br/idp/shibboleth": {
             "en": "UNIVILLE - Fundacao Educacional da Regiao de Joinville",
@@ -13527,9 +13535,6 @@
         },
         "https://idp.sab.ac.lk/idp/shibboleth": {
             "en": "Sabaragamuwa University of Sri Lanka"
-        },
-        "https://idp.seu.ac.lk/idp/shibboleth": {
-            "en": "South Eastern University of Sri Lanka"
         },
         "https://idp.sjp.ac.lk/idp/shibboleth": {
             "en": "University of Sri Jayewardenepura"
