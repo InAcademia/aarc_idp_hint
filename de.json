@@ -292,7 +292,7 @@
         "en": "FH Erfurt"
     },
     "https://idp.fh-kiel.de/idp/shibboleth": {
-        "de": "Fachhochschule Kiel",
+        "de": "Hochschule für Angewandte Wissenschaften",
         "en": "Kiel University of Applied Sciences"
     },
     "https://idp.fh-muenster.de/idp/shibboleth": {
@@ -750,6 +750,10 @@
     "https://idp.leibniz-hbi.de/idp/shibboleth": {
         "de": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)",
         "en": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)"
+    },
+    "https://idp.leibniz-kis.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Sonnenphysik (KIS)",
+        "en": "Institute of Solar Physics (KIS)"
     },
     "https://idp.leibniz-liv.de/idp/shibboleth": {
         "de": "Leibniz-Institut für Virologie (LIV)",

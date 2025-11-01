@@ -1650,10 +1650,6 @@
             "en": "UFTM - Universidade Federal do Triangulo Mineiro",
             "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
         },
-        "https://idp.ufv.br/idp/shibboleth": {
-            "en": "UFV - Universidade Federal de Vicosa",
-            "pt-br": "UFV - Universidade Federal de Vicosa"
-        },
         "https://idp.unesc.net/idp/shibboleth": {
             "en": "UNESC - Universidade do Extremo Sul Catarinense",
             "pt-br": "UNESC - Universidade do Extremo Sul Catarinense"
@@ -6195,7 +6191,7 @@
             "en": "FH Erfurt"
         },
         "https://idp.fh-kiel.de/idp/shibboleth": {
-            "de": "Fachhochschule Kiel",
+            "de": "Hochschule für Angewandte Wissenschaften",
             "en": "Kiel University of Applied Sciences"
         },
         "https://idp.fh-muenster.de/idp/shibboleth": {
@@ -6653,6 +6649,10 @@
         "https://idp.leibniz-hbi.de/idp/shibboleth": {
             "de": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)",
             "en": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)"
+        },
+        "https://idp.leibniz-kis.de/idp/shibboleth": {
+            "de": "Leibniz-Institut für Sonnenphysik (KIS)",
+            "en": "Institute of Solar Physics (KIS)"
         },
         "https://idp.leibniz-liv.de/idp/shibboleth": {
             "de": "Leibniz-Institut für Virologie (LIV)",
@@ -13839,7 +13839,7 @@
             "en": "St John Institute For Health"
         },
         "https://idp-unilia.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
-            "en": "University of Livingstonia"
+            "en": "University of Livingstonia - UNILIA"
         },
         "https://idp.kuhes.ac.mw/idp/shibboleth": {
             "en": "Kamuzu University of Health Sciences - KUHES"
