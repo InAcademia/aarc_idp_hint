@@ -244,8 +244,8 @@
         "en": "University of Applied Sciences for Health Professions Upper Austria"
     },
     "https://sso.fhstp.ac.at/idp/shibboleth": {
-        "de": "FH St. Pölten",
-        "en": "St. Pölten University of Applied Sciences"
+        "de": "USTP – University of Applied Sciences St. Pölten",
+        "en": "USTP – University of Applied Sciences St. Pölten"
     },
     "https://sso.fwf.ac.at/auth/realms/sso": {
         "de": "FWF Österreichischer Wissenschaftsfonds",

@@ -276,8 +276,8 @@
             "en": "University of Applied Sciences for Health Professions Upper Austria"
         },
         "https://sso.fhstp.ac.at/idp/shibboleth": {
-            "de": "FH St. Pölten",
-            "en": "St. Pölten University of Applied Sciences"
+            "de": "USTP – University of Applied Sciences St. Pölten",
+            "en": "USTP – University of Applied Sciences St. Pölten"
         },
         "https://sso.fwf.ac.at/auth/realms/sso": {
             "de": "FWF Österreichischer Wissenschaftsfonds",
@@ -6191,7 +6191,7 @@
             "en": "FH Erfurt"
         },
         "https://idp.fh-kiel.de/idp/shibboleth": {
-            "de": "Hochschule für Angewandte Wissenschaften",
+            "de": "Hochschule für Angewandte Wissenschaften Kiel",
             "en": "Kiel University of Applied Sciences"
         },
         "https://idp.fh-muenster.de/idp/shibboleth": {
@@ -12098,6 +12098,9 @@
         "https://login.nirt.res.in/idp/shibboleth": {
             "en": "National Institute for Research in Tuberculosis"
         },
+        "https://mjrl.vikramuniv.ac.in/idp/shibboleth": {
+            "en": "Samrat vikramaditya University, Ujjain (Madhya Pradesh)"
+        },
         "https://nlistidp.inflibnet.ac.in/idp/shibboleth": {
             "en": "NLIST - INFLIBNET"
         },
@@ -13705,10 +13708,6 @@
         },
         "https://id.lndb.lv": {
             "en": "LNB"
-        },
-        "https://idp.laife.lv/saml-idp": {
-            "en": "LAIFE (Latvian academic identity federation)",
-            "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
         },
         "https://idp.llu.lv/idp/shibboleth": {
             "en": "Latvia University of Agriculture"

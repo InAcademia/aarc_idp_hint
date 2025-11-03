@@ -758,6 +758,9 @@
     "https://login.nirt.res.in/idp/shibboleth": {
         "en": "National Institute for Research in Tuberculosis"
     },
+    "https://mjrl.vikramuniv.ac.in/idp/shibboleth": {
+        "en": "Samrat vikramaditya University, Ujjain (Madhya Pradesh)"
+    },
     "https://nlistidp.inflibnet.ac.in/idp/shibboleth": {
         "en": "NLIST - INFLIBNET"
     },
