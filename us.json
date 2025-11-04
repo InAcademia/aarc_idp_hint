@@ -1298,6 +1298,9 @@
     "https://sso.trinity.edu/idp/shibboleth": {
         "en": "Trinity University"
     },
+    "https://sso.tti.tamu.edu/idp": {
+        "en": "Texas A&M Transportation Institute"
+    },
     "https://sso.uah.edu/idp/shibboleth": {
         "en": "University of Alabama in Huntsville"
     },

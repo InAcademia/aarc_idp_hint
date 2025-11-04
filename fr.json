@@ -163,6 +163,10 @@
         "en": "ÉduConnect",
         "fr": "ÉduConnect"
     },
+    "https://egide.polytechnique.fr/idp/shibboleth": {
+        "en": "X - Ecole Polytechnique",
+        "fr": "X - Ecole Polytechnique"
+    },
     "https://eliot.isae.fr/idp/shibboleth": {
         "en": "ISAE",
         "fr": "ISAE Institut Supérieur de l'Aéronautique et de l'Espace"

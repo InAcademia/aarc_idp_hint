@@ -439,6 +439,10 @@
         "en": "UERR - Universidade Estadual De Roraima",
         "pt-br": "UERR - Universidade Estadual De Roraima"
     },
+    "https://cafeidp.ufdpar.edu.br/idp/shibboleth": {
+        "en": "UFDPAR - Universidade Federal do Delta do Parnaiba",
+        "pt-br": "UFDPAR - Universidade Federal do Delta do Parnaiba"
+    },
     "https://cafernp.fesfsus.ba.gov.br/idp/shibboleth": {
         "en": "FESFSUS - Fundacao Estatal Saude da Familia",
         "pt-br": "FESFSUS - Fundacao Estatal Saude da Familia"
@@ -782,6 +786,10 @@
     "https://idp.uftm.edu.br/idp/shibboleth": {
         "en": "UFTM - Universidade Federal do Triangulo Mineiro",
         "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
+    },
+    "https://idp.ufv.br/idp/shibboleth": {
+        "en": "UFV - Universidade Federal de Vicosa",
+        "pt-br": "UFV - Universidade Federal de Vicosa"
     },
     "https://idp.unesc.net/idp/shibboleth": {
         "en": "UNESC - Universidade do Extremo Sul Catarinense",

@@ -5,6 +5,10 @@
     "https://id.lndb.lv": {
         "en": "LNB"
     },
+    "https://idp.laife.lv/saml-idp": {
+        "en": "LAIFE (Latvian academic identity federation)",
+        "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
+    },
     "https://idp.llu.lv/idp/shibboleth": {
         "en": "Latvia University of Agriculture"
     },

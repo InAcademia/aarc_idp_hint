@@ -1306,6 +1306,10 @@
             "en": "UERR - Universidade Estadual De Roraima",
             "pt-br": "UERR - Universidade Estadual De Roraima"
         },
+        "https://cafeidp.ufdpar.edu.br/idp/shibboleth": {
+            "en": "UFDPAR - Universidade Federal do Delta do Parnaiba",
+            "pt-br": "UFDPAR - Universidade Federal do Delta do Parnaiba"
+        },
         "https://cafernp.fesfsus.ba.gov.br/idp/shibboleth": {
             "en": "FESFSUS - Fundacao Estatal Saude da Familia",
             "pt-br": "FESFSUS - Fundacao Estatal Saude da Familia"
@@ -1649,6 +1653,10 @@
         "https://idp.uftm.edu.br/idp/shibboleth": {
             "en": "UFTM - Universidade Federal do Triangulo Mineiro",
             "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
+        },
+        "https://idp.ufv.br/idp/shibboleth": {
+            "en": "UFV - Universidade Federal de Vicosa",
+            "pt-br": "UFV - Universidade Federal de Vicosa"
         },
         "https://idp.unesc.net/idp/shibboleth": {
             "en": "UNESC - Universidade do Extremo Sul Catarinense",
@@ -4477,6 +4485,10 @@
         "https://idp.tzu.edu.cn/idp/shibboleth": {
             "en": "Taizhou University of Jiangsu",
             "zh": "泰州学院(Taizhou University of Jiangsu)"
+        },
+        "https://idp.ucas.edu.cn/idp/shibboleth": {
+            "en": "University of Chinese Academy of Sciences",
+            "zh": "中国科学院大学(University of Chinese Academy of Sciences)"
         },
         "https://idp.ucass.edu.cn/idp/shibboleth": {
             "en": "University of Chinese Academy of Social Sciences",
@@ -9298,6 +9310,10 @@
             "en": "ÉduConnect",
             "fr": "ÉduConnect"
         },
+        "https://egide.polytechnique.fr/idp/shibboleth": {
+            "en": "X - Ecole Polytechnique",
+            "fr": "X - Ecole Polytechnique"
+        },
         "https://eliot.isae.fr/idp/shibboleth": {
             "en": "ISAE",
             "fr": "ISAE Institut Supérieur de l'Aéronautique et de l'Espace"
@@ -13708,6 +13724,10 @@
         },
         "https://id.lndb.lv": {
             "en": "LNB"
+        },
+        "https://idp.laife.lv/saml-idp": {
+            "en": "LAIFE (Latvian academic identity federation)",
+            "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
         },
         "https://idp.llu.lv/idp/shibboleth": {
             "en": "Latvia University of Agriculture"
@@ -21543,6 +21563,9 @@
         },
         "https://sso.trinity.edu/idp/shibboleth": {
             "en": "Trinity University"
+        },
+        "https://sso.tti.tamu.edu/idp": {
+            "en": "Texas A&M Transportation Institute"
         },
         "https://sso.uah.edu/idp/shibboleth": {
             "en": "University of Alabama in Huntsville"
