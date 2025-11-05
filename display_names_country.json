@@ -1538,6 +1538,10 @@
             "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
             "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
         },
+        "https://idp.fasec.edu.br/idp/shibboleth": {
+            "en": "FASEC - Faculdade Serra Do Carmo",
+            "pt-br": "FASEC - Faculdade Serra Do Carmo"
+        },
         "https://idp.fiocruz.br/idp/shibboleth": {
             "en": "FIOCRUZ - Fundacao Oswaldo Cruz",
             "pt-br": "FIOCRUZ - Fundacao Oswaldo Cruz"
