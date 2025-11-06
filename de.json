@@ -56,8 +56,8 @@
         "en": "Max-Planck-Institute for Chemistry (new)"
     },
     "https://auth.vifa-recht.de/idp/shibboleth": {
-        "de": "FID-Recht (VHO)",
-        "en": "FID-Recht (VHO)"
+        "de": "intRecht (VHO)",
+        "en": "intRecht (VHO)"
     },
     "https://authent.mh-freiburg.de/idp/shibboleth": {
         "de": "Hochschule für Musik Freiburg",

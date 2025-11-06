@@ -1378,6 +1378,10 @@
             "en": "FJS - Fundacao Jose Silveira",
             "pt-br": "FJS - Fundacao Jose Silveira"
         },
+        "https://florinda.hfa.mil.br/idp/shibboleth": {
+            "en": "HFA - Hospital das Forcas Armadas",
+            "pt-br": "HFA - Hospital das Forcas Armadas"
+        },
         "https://fusion.ceub.br/idp/shibboleth": {
             "en": "CEUB - Centro Universitario de Brasilia",
             "pt-br": "CEUB - Centro Universitario de Brasilia"
@@ -1553,6 +1557,10 @@
         "https://idp.fpp.edu.br/idp/shibboleth": {
             "en": "FPP - Faculdades Pequeno Principe",
             "pt-br": "FPP - Faculdades Pequeno Principe"
+        },
+        "https://idp.fps.edu.br/idp/shibboleth": {
+            "en": "FPS - Faculdade Pernambucana de Saude",
+            "pt-br": "FPS - Faculdade Pernambucana de Saude"
         },
         "https://idp.ifac.edu.br/idp/shibboleth": {
             "en": "IFAC - Instituto Federal do Acre",
@@ -5971,8 +5979,8 @@
             "en": "Max-Planck-Institute for Chemistry (new)"
         },
         "https://auth.vifa-recht.de/idp/shibboleth": {
-            "de": "FID-Recht (VHO)",
-            "en": "FID-Recht (VHO)"
+            "de": "intRecht (VHO)",
+            "en": "intRecht (VHO)"
         },
         "https://authent.mh-freiburg.de/idp/shibboleth": {
             "de": "Hochschule für Musik Freiburg",
@@ -8521,6 +8529,10 @@
             "en": "Asociacion para el Desarrollo de la Ingenieria del Conocimiento",
             "es": "Asociación para el Desarrollo de la Ingeniería del Conocimiento"
         },
+        "https://www.rediris.es/sir/iislafeidp": {
+            "en": "Health Research Institute Hospital La Fe",
+            "es": "Instituto de Investigación Sanitaria La Fe"
+        },
         "https://www.rediris.es/sir/ijcidp": {
             "en": "Josep Carreras Leukaemia Research Institute",
             "es": "Instituto de Investigación contra la Leucemia Josep Carreras"
@@ -9979,8 +9991,8 @@
             "fr": "Ecole Normale Supérieure Paris-Saclay (2)"
         },
         "https://idp1.univ-fcomte.fr/idp/shibboleth": {
-            "en": "University Marie and Louis Pasteur",
-            "fr": "Université Marie et Louis Pasteur"
+            "en": "University Marie and Louis Pasteur (UMLP)",
+            "fr": "Université Marie et Louis Pasteur (UMLP)"
         },
         "https://idp2.amue.fr/idp/shibboleth": {
             "en": "AMUE - Agence de Mutualisation des Universités et Etablissements",
@@ -13315,6 +13327,10 @@
             "en": "Reitaku University",
             "ja": "麗澤大学"
         },
+        "https://sso.sophia.ac.jp/auth/realms/sophia": {
+            "en": "Sophia University",
+            "ja": "上智大学"
+        },
         "https://sso.sugiyama-u.ac.jp/idp/shibboleth": {
             "en": "Sugiyama Jogakuen University",
             "ja": "椙山女学園大学"
@@ -13558,6 +13574,9 @@
         },
         "https://idp.sab.ac.lk/idp/shibboleth": {
             "en": "Sabaragamuwa University of Sri Lanka"
+        },
+        "https://idp.seu.ac.lk/idp/shibboleth": {
+            "en": "South Eastern University of Sri Lanka"
         },
         "https://idp.sjp.ac.lk/idp/shibboleth": {
             "en": "University of Sri Jayewardenepura"

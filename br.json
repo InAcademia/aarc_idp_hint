@@ -511,6 +511,10 @@
         "en": "FJS - Fundacao Jose Silveira",
         "pt-br": "FJS - Fundacao Jose Silveira"
     },
+    "https://florinda.hfa.mil.br/idp/shibboleth": {
+        "en": "HFA - Hospital das Forcas Armadas",
+        "pt-br": "HFA - Hospital das Forcas Armadas"
+    },
     "https://fusion.ceub.br/idp/shibboleth": {
         "en": "CEUB - Centro Universitario de Brasilia",
         "pt-br": "CEUB - Centro Universitario de Brasilia"
@@ -686,6 +690,10 @@
     "https://idp.fpp.edu.br/idp/shibboleth": {
         "en": "FPP - Faculdades Pequeno Principe",
         "pt-br": "FPP - Faculdades Pequeno Principe"
+    },
+    "https://idp.fps.edu.br/idp/shibboleth": {
+        "en": "FPS - Faculdade Pernambucana de Saude",
+        "pt-br": "FPS - Faculdade Pernambucana de Saude"
     },
     "https://idp.ifac.edu.br/idp/shibboleth": {
         "en": "IFAC - Instituto Federal do Acre",

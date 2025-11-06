@@ -510,6 +510,10 @@
         "en": "Reitaku University",
         "ja": "麗澤大学"
     },
+    "https://sso.sophia.ac.jp/auth/realms/sophia": {
+        "en": "Sophia University",
+        "ja": "上智大学"
+    },
     "https://sso.sugiyama-u.ac.jp/idp/shibboleth": {
         "en": "Sugiyama Jogakuen University",
         "ja": "椙山女学園大学"
