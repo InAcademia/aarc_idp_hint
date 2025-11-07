@@ -607,10 +607,6 @@
         "en": "UNISC - Universidade de Santa Cruz do Sul",
         "pt-br": "UNISC - Universidade de Santa Cruz do Sul"
     },
-    "https://idp-cafe.unisinos.br/idp/shibboleth": {
-        "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
-        "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
-    },
     "https://idp-cafe2.ifpi.edu.br/idp/shibboleth": {
         "en": "IFPI - Instituto Federal do Piaui",
         "pt-br": "IFPI - Instituto Federal do Piaui"
@@ -846,6 +842,10 @@
     "https://idp.unisanta.br/idp/shibboleth": {
         "en": "UNISANTA - Instituto Superior de Educacao Santa Cecilia",
         "pt-br": "UNISANTA - Instituto Superior de Educacao Santa Cecilia"
+    },
+    "https://idp.unisinos.br/idp/shibboleth": {
+        "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
+        "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
     },
     "https://idp.unisuam.edu.br/idp/shibboleth": {
         "en": "UNISUAM - Centro Universitario Augusto Motta",

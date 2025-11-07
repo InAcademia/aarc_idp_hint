@@ -1474,10 +1474,6 @@
             "en": "UNISC - Universidade de Santa Cruz do Sul",
             "pt-br": "UNISC - Universidade de Santa Cruz do Sul"
         },
-        "https://idp-cafe.unisinos.br/idp/shibboleth": {
-            "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
-            "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
-        },
         "https://idp-cafe2.ifpi.edu.br/idp/shibboleth": {
             "en": "IFPI - Instituto Federal do Piaui",
             "pt-br": "IFPI - Instituto Federal do Piaui"
@@ -1713,6 +1709,10 @@
         "https://idp.unisanta.br/idp/shibboleth": {
             "en": "UNISANTA - Instituto Superior de Educacao Santa Cecilia",
             "pt-br": "UNISANTA - Instituto Superior de Educacao Santa Cecilia"
+        },
+        "https://idp.unisinos.br/idp/shibboleth": {
+            "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
+            "pt-br": "UNISINOS - Universidade do Vale do Rio dos Sinos"
         },
         "https://idp.unisuam.edu.br/idp/shibboleth": {
             "en": "UNISUAM - Centro Universitario Augusto Motta",
@@ -11410,6 +11410,9 @@
         "https://idp-registry.ligo-india.in/idp/shibboleth": {
             "en": "LIGO-India-registry Scientific Collaboration"
         },
+        "https://idp.aiimsbilaspur.edu.in/idp/shibboleth": {
+            "en": "All India Institute of Medical Sciences, Bilaspur"
+        },
         "https://idp.aiktclibrary.org/idp/shibboleth": {
             "en": "Anjuman-I-Islams Kalsekar Technical Campus"
         },
@@ -11919,6 +11922,9 @@
         },
         "https://idp.rcb.ac.in/idp/shibboleth": {
             "en": "Regional Centre for Biotechnology"
+        },
+        "https://idp.rgnau.ac.in/idp/shibboleth": {
+            "en": "The Rajiv Gandhi National Aviation University - Amethi District, Uttar Pradesh, India"
         },
         "https://idp.rgu.ac.in/idp/shibboleth": {
             "en": "Rajiv Gandhi University"

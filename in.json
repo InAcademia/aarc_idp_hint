@@ -38,6 +38,9 @@
     "https://idp-registry.ligo-india.in/idp/shibboleth": {
         "en": "LIGO-India-registry Scientific Collaboration"
     },
+    "https://idp.aiimsbilaspur.edu.in/idp/shibboleth": {
+        "en": "All India Institute of Medical Sciences, Bilaspur"
+    },
     "https://idp.aiktclibrary.org/idp/shibboleth": {
         "en": "Anjuman-I-Islams Kalsekar Technical Campus"
     },
@@ -547,6 +550,9 @@
     },
     "https://idp.rcb.ac.in/idp/shibboleth": {
         "en": "Regional Centre for Biotechnology"
+    },
+    "https://idp.rgnau.ac.in/idp/shibboleth": {
+        "en": "The Rajiv Gandhi National Aviation University - Amethi District, Uttar Pradesh, India"
     },
     "https://idp.rgu.ac.in/idp/shibboleth": {
         "en": "Rajiv Gandhi University"
