@@ -2,5 +2,8 @@
     "https://afire.asnet.am/idp/shibboleth": {
         "en": "Academic Scientific Research Computer Network of Armenia (ASNET-AM)",
         "hy": "Հայաստանի ակադեմիական գիտահետազոտական կոմպյուտերային ցանց (ASNET-AM)"
+    },
+    "https://gate.asnet.am/realms/iiap": {
+        "en": "Institute for Informatics and Automation Problems (IIAP, Armenia)"
     }
 }
