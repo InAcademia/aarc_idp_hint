@@ -1139,6 +1139,10 @@
         "en": "UFJ - Universidade Federal de Jatai",
         "pt-br": "UFJ - Universidade Federal de Jatai"
     },
+    "https://shibboleth.ufma.br/idp/shibboleth": {
+        "en": "UFMA - Universidade Federal do Maranhao",
+        "pt-br": "UFMA - Universidade Federal do Maranhao"
+    },
     "https://shibboleth.ufopa.edu.br/idp/shibboleth": {
         "en": "UFOPA - Universidade Federal do Oeste do Para",
         "pt-br": "UFOPA - Universidade Federal do Oeste do Para"

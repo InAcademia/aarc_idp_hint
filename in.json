@@ -455,6 +455,9 @@
     "https://idp.nfsu.edu.in/idp/shibboleth": {
         "en": "National Forensic Sciences University"
     },
+    "https://idp.ngu.ac.in/idp/shibboleth": {
+        "en": "Hemchandracharya North Gujarat University"
+    },
     "https://idp.nid.edu/idp/shibboleth": {
         "en": "National Institute of Design"
     },

@@ -2009,6 +2009,10 @@
             "en": "UFJ - Universidade Federal de Jatai",
             "pt-br": "UFJ - Universidade Federal de Jatai"
         },
+        "https://shibboleth.ufma.br/idp/shibboleth": {
+            "en": "UFMA - Universidade Federal do Maranhao",
+            "pt-br": "UFMA - Universidade Federal do Maranhao"
+        },
         "https://shibboleth.ufopa.edu.br/idp/shibboleth": {
             "en": "UFOPA - Universidade Federal do Oeste do Para",
             "pt-br": "UFOPA - Universidade Federal do Oeste do Para"
@@ -4220,6 +4224,10 @@
         "https://idp.sdua.edu.cn/idp/shibboleth": {
             "en": "Shandong University of Aeronautics",
             "zh": "山东航空学院(Shandong University of Aeronautics)"
+        },
+        "https://idp.sdufe.edu.cn/idp/shibboleth": {
+            "en": "Shandong University of Finance and Economics",
+            "zh": "山东财经大学(Shandong University of Finance and Economics)"
         },
         "https://idp.sdust.edu.cn/idp/shibboleth": {
             "en": "Shandong University of Science and Technology",
@@ -11834,6 +11842,9 @@
         "https://idp.nfsu.edu.in/idp/shibboleth": {
             "en": "National Forensic Sciences University"
         },
+        "https://idp.ngu.ac.in/idp/shibboleth": {
+            "en": "Hemchandracharya North Gujarat University"
+        },
         "https://idp.nid.edu/idp/shibboleth": {
             "en": "National Institute of Design"
         },
@@ -18526,6 +18537,9 @@
         },
         "https://idp.gu.ac.ug/idp/shibboleth": {
             "en": "Gulu University IdP"
+        },
+        "https://idp.idi.co.ug/idp/shibboleth": {
+            "en": "Infectious Diseases Institute (IDI)"
         },
         "https://idp.kyu.ac.ug/idp/shibboleth": {
             "en": "Kyambogo University"
