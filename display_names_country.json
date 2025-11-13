@@ -9417,6 +9417,10 @@
             "en": "INSA Lyon (idauth)",
             "fr": "INSA Lyon (idauth)"
         },
+        "https://idauthproxy.insa-lyon.fr/Saml2IDP/metadata": {
+            "en": "INSA Lyon (SATOSA)",
+            "fr": "INSA Lyon (SATOSA)"
+        },
         "https://ident-shib.ensc-rennes.fr/idp/shibboleth": {
             "en": "Ecole Nationale Supérieure de Chimie de Rennes",
             "fr": "Ecole Nationale Supérieure de Chimie de Rennes"
@@ -11635,6 +11639,9 @@
         "https://idp.iiitsonepat.ac.in/idp/shibboleth": {
             "en": "Indian Institute Of Information Technology Sonepat"
         },
+        "https://idp.iiitu.ac.in/idp/shibboleth": {
+            "en": "Indian Institute of Information Technology, Una"
+        },
         "https://idp.iima.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Management, Ahmedabad"
         },
@@ -11661,6 +11668,9 @@
         },
         "https://idp.iitbhilai.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Technology Bhilai"
+        },
+        "https://idp.iitbhu.ac.in/idp/shibboleth": {
+            "en": "Indian Institute of Technology (BHU) Varanasi"
         },
         "https://idp.iitd.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Technology Delhi"
