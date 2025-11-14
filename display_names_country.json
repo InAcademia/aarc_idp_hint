@@ -1609,6 +1609,10 @@
             "en": "MAST - Museu de Astronomia e Ciencias Afins",
             "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
         },
+        "https://idp.paqtc.org.br/idp/shibboleth": {
+            "en": "PAQTCPB - Fundacao Parque Tecnologico da Paraiba",
+            "pt-br": "PAQTCPB - Fundacao Parque Tecnologico da Paraiba"
+        },
         "https://idp.puc-campinas.edu.br/idp/shibboleth": {
             "en": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas",
             "pt-br": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas"
@@ -1656,6 +1660,10 @@
         "https://idp.ufrb.edu.br/idp/shibboleth": {
             "en": "UFRB - Universidade Federal do Reconcavo da Bahia",
             "pt-br": "UFRB - Universidade Federal do Reconcavo da Bahia"
+        },
+        "https://idp.ufrr.br/idp/shibboleth": {
+            "en": "UFRR - Universidade Federal de Roraima",
+            "pt-br": "UFRR - Universidade Federal de Roraima"
         },
         "https://idp.ufsj.edu.br/idp/shibboleth": {
             "en": "UFSJ - Universidade Federal de Sao Joao del Rei",
@@ -1832,10 +1840,6 @@
         "https://idpv3.lna.br/idp/shibboleth": {
             "en": "LNA - Laboratorio Nacional de Astrofisica",
             "pt-br": "LNA - Laboratorio Nacional de Astrofisica"
-        },
-        "https://idpv332.dti.ufrr.br/idp/shibboleth": {
-            "en": "UFRR - Universidade Federal de Roraima",
-            "pt-br": "UFRR - Universidade Federal de Roraima"
         },
         "https://ifs00sv056.ifsul.edu.br/idp/shibboleth": {
             "en": "IFSUL - Instituto Federal Sul-rio-grandense",
@@ -11903,6 +11907,9 @@
         "https://idp.nitt.edu/idp/shibboleth": {
             "en": "National Institute of Technology Tiruchirappalli"
         },
+        "https://idp.nitttrc.ac.in/idp/shibboleth": {
+            "en": "NITTTR"
+        },
         "https://idp.nitttrchd.ac.in/idp/shibboleth": {
             "en": "NITTTR Chandigarh"
         },
@@ -11914,6 +11921,9 @@
         },
         "https://idp.nprcet.org/idp/shibboleth": {
             "en": "NPR College of Engineering and Technology"
+        },
+        "https://idp.nsu.ac.in/idp/shibboleth": {
+            "en": "National Sports University"
         },
         "https://idp.nsut.ac.in/idp/shibboleth": {
             "en": "Netaji Subhas University of Technology"
@@ -18545,6 +18555,9 @@
         "https://idp-wellstar.renu.ac.ug/idp/shibboleth": {
             "en": "Wellstar Bright Secondary School - Mukono"
         },
+        "https://idp.cavendish.ac.ug/idp/shibboleth": {
+            "en": "Cavendish University"
+        },
         "https://idp.gu.ac.ug/idp/shibboleth": {
             "en": "Gulu University IdP"
         },
@@ -22076,6 +22089,9 @@
         "https://proxy.safire.ac.za/birk.php/sts.windows.net/cc6148eb-d356-4f38-900f-3a4d62b954c8/": {
             "af": "Kaapse Skiereiland Universiteit van Tegnologie - Studente",
             "en": "Cape Peninsula University of Technology - Students"
+        },
+        "https://proxy.safire.ac.za/birk.php/sts.windows.net/f1930bff-9b51-4d0c-b2bd-c26a9e0f4600/": {
+            "en": "South African Medical Research Council"
         },
         "https://proxy.safire.ac.za/birk.php/sts.windows.net/f38ba9d8-554c-48a2-ae42-13b1e7f3c797/": {
             "en": "University of Venda"

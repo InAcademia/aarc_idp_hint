@@ -739,6 +739,10 @@
         "en": "MAST - Museu de Astronomia e Ciencias Afins",
         "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
     },
+    "https://idp.paqtc.org.br/idp/shibboleth": {
+        "en": "PAQTCPB - Fundacao Parque Tecnologico da Paraiba",
+        "pt-br": "PAQTCPB - Fundacao Parque Tecnologico da Paraiba"
+    },
     "https://idp.puc-campinas.edu.br/idp/shibboleth": {
         "en": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas",
         "pt-br": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas"
@@ -786,6 +790,10 @@
     "https://idp.ufrb.edu.br/idp/shibboleth": {
         "en": "UFRB - Universidade Federal do Reconcavo da Bahia",
         "pt-br": "UFRB - Universidade Federal do Reconcavo da Bahia"
+    },
+    "https://idp.ufrr.br/idp/shibboleth": {
+        "en": "UFRR - Universidade Federal de Roraima",
+        "pt-br": "UFRR - Universidade Federal de Roraima"
     },
     "https://idp.ufsj.edu.br/idp/shibboleth": {
         "en": "UFSJ - Universidade Federal de Sao Joao del Rei",
@@ -962,10 +970,6 @@
     "https://idpv3.lna.br/idp/shibboleth": {
         "en": "LNA - Laboratorio Nacional de Astrofisica",
         "pt-br": "LNA - Laboratorio Nacional de Astrofisica"
-    },
-    "https://idpv332.dti.ufrr.br/idp/shibboleth": {
-        "en": "UFRR - Universidade Federal de Roraima",
-        "pt-br": "UFRR - Universidade Federal de Roraima"
     },
     "https://ifs00sv056.ifsul.edu.br/idp/shibboleth": {
         "en": "IFSUL - Instituto Federal Sul-rio-grandense",

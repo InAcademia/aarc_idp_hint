@@ -512,6 +512,9 @@
     "https://idp.nitt.edu/idp/shibboleth": {
         "en": "National Institute of Technology Tiruchirappalli"
     },
+    "https://idp.nitttrc.ac.in/idp/shibboleth": {
+        "en": "NITTTR"
+    },
     "https://idp.nitttrchd.ac.in/idp/shibboleth": {
         "en": "NITTTR Chandigarh"
     },
@@ -523,6 +526,9 @@
     },
     "https://idp.nprcet.org/idp/shibboleth": {
         "en": "NPR College of Engineering and Technology"
+    },
+    "https://idp.nsu.ac.in/idp/shibboleth": {
+        "en": "National Sports University"
     },
     "https://idp.nsut.ac.in/idp/shibboleth": {
         "en": "Netaji Subhas University of Technology"
