@@ -759,6 +759,10 @@
         "en": "UEMA - Universidade Estadual do Maranhao",
         "pt-br": "UEMA - Universidade Estadual do Maranhao"
     },
+    "https://idp.uems.br/idp/shibboleth": {
+        "en": "UEMS - Universidade Estadual de Mato Grosso do Sul",
+        "pt-br": "UEMS - Universidade Estadual de Mato Grosso do Sul"
+    },
     "https://idp.uenf.br/idp/shibboleth": {
         "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
         "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"

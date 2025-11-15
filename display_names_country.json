@@ -1629,6 +1629,10 @@
             "en": "UEMA - Universidade Estadual do Maranhao",
             "pt-br": "UEMA - Universidade Estadual do Maranhao"
         },
+        "https://idp.uems.br/idp/shibboleth": {
+            "en": "UEMS - Universidade Estadual de Mato Grosso do Sul",
+            "pt-br": "UEMS - Universidade Estadual de Mato Grosso do Sul"
+        },
         "https://idp.uenf.br/idp/shibboleth": {
             "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
             "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
@@ -12048,6 +12052,9 @@
         "https://idp.svnit.ac.in/idp/shibboleth": {
             "en": "Sardar Vallabhbhai National Institute of Technology"
         },
+        "https://idp.svuniversity.edu.in/idp/shibboleth": {
+            "en": "SRI VENKATESWARA UNIVERSITY"
+        },
         "https://idp.sxuk.edu.in/idp/shibboleth": {
             "en": "St. Xavier's University, Kolkata"
         },
@@ -12100,7 +12107,7 @@
             "en": "University of Calicut"
         },
         "https://idp.upvetuniv.edu.in/idp/shibboleth": {
-            "en": "UP Pandit Deen Dayal Upadhyaya Veterinary University & Gau-Anusandhan Sansthan, Mathura"
+            "en": "UP Pandit Deen Dayal Upadhyaya Veterinary University and  Gau-Anusandhan Sansthan, Mathura"
         },
         "https://idp.uvcelibrary.org/idp/shibboleth": {
             "en": "University of Visvesvaraya College of Engineering"
