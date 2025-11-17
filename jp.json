@@ -334,6 +334,10 @@
         "en": "Japan Aerospace Exploration Agency",
         "ja": "宇宙航空研究開発機構"
     },
+    "https://jwu.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Japan Women's University",
+        "ja": "日本女子大学"
+    },
     "https://kidp.anan-nct.ac.jp/idp/shibboleth": {
         "en": "National Institute of Technology,Anan College",
         "ja": "阿南工業高等専門学校"

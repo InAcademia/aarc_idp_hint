@@ -1933,10 +1933,6 @@
             "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
             "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
         },
-        "https://servercafe.iftm.edu.br/idp/shibboleth": {
-            "en": "IFTM - Instituto Federal do Triangulo Mineiro",
-            "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
-        },
         "https://shib.unila.edu.br/idp/shibboleth": {
             "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
             "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
@@ -13193,6 +13189,10 @@
         "https://jaxagakunin.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "Japan Aerospace Exploration Agency",
             "ja": "宇宙航空研究開発機構"
+        },
+        "https://jwu.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Japan Women's University",
+            "ja": "日本女子大学"
         },
         "https://kidp.anan-nct.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Anan College",
