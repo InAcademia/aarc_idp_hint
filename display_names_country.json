@@ -19,11 +19,6 @@
             "en": "WACREN IDP"
         }
     },
-    "al": {
-        "https://idp.rash.al/simplesaml/saml2/idp/metadata.php": {
-            "en": "Albanian Academic Network - RASH"
-        }
-    },
     "am": {
         "https://afire.asnet.am/idp/shibboleth": {
             "en": "Academic Scientific Research Computer Network of Armenia (ASNET-AM)",
@@ -9441,6 +9436,10 @@
             "en": "ENSTA Bretagne",
             "fr": "ENSTA Bretagne"
         },
+        "https://identite.univ-reims.fr/idp/shibboleth": {
+            "en": "Université de Reims Champagne-Ardenne (new)",
+            "fr": "Université de Reims Champagne-Ardenne (a partir du 28/11/2025)"
+        },
         "https://identites.ec-lyon.fr/idp/shibboleth": {
             "en": "Ecole Centrale de Lyon",
             "fr": "Ecole Centrale de Lyon"
@@ -10136,10 +10135,6 @@
         "https://karma.cines.fr/idp/shibboleth": {
             "en": "CINES",
             "fr": "CINES"
-        },
-        "https://llng-auth.insa-lyon.fr/saml/metadata": {
-            "en": "ZTEST INSA Lyon",
-            "fr": "ZTEST INSA Lyon"
         },
         "https://login.essec.fr/idp/shibboleth": {
             "en": "ESSEC BUSINESS SCHOOL",
@@ -11286,9 +11281,6 @@
         },
         "https://idp.iadt.ie/idp/shibboleth": {
             "en": "Dun Laoghaire Institute of Art Design and Technology"
-        },
-        "https://idp.imi.ie/saml2/idp/metadata.php": {
-            "en": "Irish Management Institute (old)"
         },
         "https://idp.ipa.ie/idp/shibboleth": {
             "en": "Institute of Public Administration",
