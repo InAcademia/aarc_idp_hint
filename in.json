@@ -38,6 +38,9 @@
     "https://idp-registry.ligo-india.in/idp/shibboleth": {
         "en": "LIGO-India-registry Scientific Collaboration"
     },
+    "https://idp.aiimsbathinda.edu.in/idp/shibboleth": {
+        "en": "All India Institute of Medical Sciences, Bathinda"
+    },
     "https://idp.aiimsbilaspur.edu.in/idp/shibboleth": {
         "en": "All India Institute of Medical Sciences, Bilaspur"
     },

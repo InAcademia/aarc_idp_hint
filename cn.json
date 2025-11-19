@@ -555,6 +555,10 @@
         "en": "Dalian Jiaotong University",
         "zh": "大连交通大学(Dalian Jiaotong University)"
     },
+    "https://idp.dlu.edu.cn/idp/shibboleth": {
+        "en": "DaLian University",
+        "zh": "大连大学(DaLian University)"
+    },
     "https://idp.dlufl.edu.cn/idp/shibboleth": {
         "en": "Dalian University of Foreign Languages",
         "zh": "大连外国语大学(Dalian University of Foreign Languages)"
@@ -1510,10 +1514,6 @@
     "https://idp.squ.edu.cn/idp/shibboleth": {
         "en": "Suqian University",
         "zh": "宿迁学院(Suqian University)"
-    },
-    "https://idp.sqxy.edu.cn/idp/shibboleth": {
-        "en": "Shangqiu  University",
-        "zh": "商丘学院(Shangqiu  University)"
     },
     "https://idp.sspu.edu.cn/idp/shibboleth": {
         "en": "Shanghai Polytechnic University",

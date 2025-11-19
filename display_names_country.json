@@ -19,6 +19,11 @@
             "en": "WACREN IDP"
         }
     },
+    "al": {
+        "https://idp.rash.al/simplesaml/saml2/idp/metadata.php": {
+            "en": "Albanian Academic Network - RASH"
+        }
+    },
     "am": {
         "https://afire.asnet.am/idp/shibboleth": {
             "en": "Academic Scientific Research Computer Network of Armenia (ASNET-AM)",
@@ -3356,6 +3361,10 @@
             "en": "Dalian Jiaotong University",
             "zh": "大连交通大学(Dalian Jiaotong University)"
         },
+        "https://idp.dlu.edu.cn/idp/shibboleth": {
+            "en": "DaLian University",
+            "zh": "大连大学(DaLian University)"
+        },
         "https://idp.dlufl.edu.cn/idp/shibboleth": {
             "en": "Dalian University of Foreign Languages",
             "zh": "大连外国语大学(Dalian University of Foreign Languages)"
@@ -4311,10 +4320,6 @@
         "https://idp.squ.edu.cn/idp/shibboleth": {
             "en": "Suqian University",
             "zh": "宿迁学院(Suqian University)"
-        },
-        "https://idp.sqxy.edu.cn/idp/shibboleth": {
-            "en": "Shangqiu  University",
-            "zh": "商丘学院(Shangqiu  University)"
         },
         "https://idp.sspu.edu.cn/idp/shibboleth": {
             "en": "Shanghai Polytechnic University",
@@ -6271,10 +6276,6 @@
         "https://idp.fiz-karlsruhe.de/idp/shibboleth": {
             "de": "FIZ Karlsruhe",
             "en": "FIZ Karlsruhe"
-        },
-        "https://idp.fraunhofer.de/idp/shibboleth": {
-            "de": "Fraunhofer-Gesellschaft (Fallback)",
-            "en": "Fraunhofer-Gesellschaft (Fallback)"
         },
         "https://idp.fv-berlin.de/idp/shibboleth": {
             "de": "Forschungsverbund Berlin e.V.",
@@ -11416,6 +11417,9 @@
         },
         "https://idp-registry.ligo-india.in/idp/shibboleth": {
             "en": "LIGO-India-registry Scientific Collaboration"
+        },
+        "https://idp.aiimsbathinda.edu.in/idp/shibboleth": {
+            "en": "All India Institute of Medical Sciences, Bathinda"
         },
         "https://idp.aiimsbilaspur.edu.in/idp/shibboleth": {
             "en": "All India Institute of Medical Sciences, Bilaspur"
