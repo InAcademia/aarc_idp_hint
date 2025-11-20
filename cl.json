@@ -27,6 +27,10 @@
         "en": "Universidad de O'Higgins",
         "es": "Universidad de O'Higgins"
     },
+    "https://sso.ubiobio.cl/cas/idp": {
+        "en": "Universidad del Bío-Bío",
+        "es": "Universidad del Bío-Bío"
+    },
     "https://sso.uc.cl/cas/idp": {
         "en": "Pontificia Universidad Católica de Chile",
         "es": "Pontificia Universidad Católica de Chile"

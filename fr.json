@@ -235,10 +235,6 @@
         "en": "Université Catholique de Lyon",
         "fr": "Université Catholique de Lyon"
     },
-    "https://idauth.insa-lyon.fr/realms/insa-lyon": {
-        "en": "INSA Lyon (idauth)",
-        "fr": "INSA Lyon (idauth)"
-    },
     "https://idauthproxy.insa-lyon.fr/Saml2IDP/metadata": {
         "en": "INSA Lyon (SATOSA)",
         "fr": "INSA Lyon (SATOSA)"
@@ -316,8 +312,8 @@
         "fr": "INSEAMM - Institut National Supérieur d'enseignement Artistique Marseille - Méditerranée"
     },
     "https://idp-irsn.renater.fr/idp/shibboleth": {
-        "en": "IRSN - Institut de Radioprotection et de Sûreté Nucléaire",
-        "fr": "IRSN - Institut de Radioprotection et de Sûreté Nucléaire"
+        "en": "ANSR - Authority for Nuclear Safety and Radiation",
+        "fr": "ASNR- Autorité de Sûreté Nucléaire et de Radioprotection"
     },
     "https://idp-ng.univ-st-etienne.fr/idp/shibboleth": {
         "en": "University of Saint-Etienne - Jean Monnet",

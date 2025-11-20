@@ -2799,6 +2799,10 @@
             "en": "Universidad de O'Higgins",
             "es": "Universidad de O'Higgins"
         },
+        "https://sso.ubiobio.cl/cas/idp": {
+            "en": "Universidad del Bío-Bío",
+            "es": "Universidad del Bío-Bío"
+        },
         "https://sso.uc.cl/cas/idp": {
             "en": "Pontificia Universidad Católica de Chile",
             "es": "Pontificia Universidad Católica de Chile"
@@ -3476,6 +3480,10 @@
         "https://idp.gdust.edu.cn/idp/shibboleth": {
             "en": "Guangdong University of Science & Technology",
             "zh": "广东科技学院(Guangdong University of Science & Technology)"
+        },
+        "https://idp.gdut.edu.cn/idp/shibboleth": {
+            "en": "Guangdong University of Technology",
+            "zh": "广东工业大学(Guangdong University of Technology)"
         },
         "https://idp.glut.edu.cn/idp/shibboleth": {
             "en": "Guilin University of Technology",
@@ -9405,10 +9413,6 @@
             "en": "Université Catholique de Lyon",
             "fr": "Université Catholique de Lyon"
         },
-        "https://idauth.insa-lyon.fr/realms/insa-lyon": {
-            "en": "INSA Lyon (idauth)",
-            "fr": "INSA Lyon (idauth)"
-        },
         "https://idauthproxy.insa-lyon.fr/Saml2IDP/metadata": {
             "en": "INSA Lyon (SATOSA)",
             "fr": "INSA Lyon (SATOSA)"
@@ -9486,8 +9490,8 @@
             "fr": "INSEAMM - Institut National Supérieur d'enseignement Artistique Marseille - Méditerranée"
         },
         "https://idp-irsn.renater.fr/idp/shibboleth": {
-            "en": "IRSN - Institut de Radioprotection et de Sûreté Nucléaire",
-            "fr": "IRSN - Institut de Radioprotection et de Sûreté Nucléaire"
+            "en": "ANSR - Authority for Nuclear Safety and Radiation",
+            "fr": "ASNR- Autorité de Sûreté Nucléaire et de Radioprotection"
         },
         "https://idp-ng.univ-st-etienne.fr/idp/shibboleth": {
             "en": "University of Saint-Etienne - Jean Monnet",
@@ -20655,7 +20659,7 @@
             "en": "Bryn Mawr College"
         },
         "https://idp.calpoly.edu/idp/shibboleth": {
-            "en": "California Polytechnic State University-San Luis Obispo"
+            "en": "Cal Poly"
         },
         "https://idp.caltech.edu/idp/shibboleth": {
             "en": "California Institute of Technology"
