@@ -6285,6 +6285,10 @@
             "de": "FIZ Karlsruhe",
             "en": "FIZ Karlsruhe"
         },
+        "https://idp.fraunhofer.de/idp/shibboleth": {
+            "de": "Fraunhofer-Gesellschaft (Fallback)",
+            "en": "Fraunhofer-Gesellschaft (Fallback)"
+        },
         "https://idp.fv-berlin.de/idp/shibboleth": {
             "de": "Forschungsverbund Berlin e.V.",
             "en": "Forschungsverbund Berlin e.V."
@@ -14417,48 +14421,12 @@
         }
     },
     "net": {
-        "https://aai.goscloud.net/saml/idp": {
-            "en": "GOSC AAI",
-            "zh": "GOSC AAI"
-        },
-        "https://idp.baafs.net.cn/idp/shibboleth": {
-            "en": "Beijing Academy of Agriculture and Forestry Sciences",
-            "zh": "北京市农林科学院"
-        },
-        "https://idp.hnas.ac.cn/idp/shibboleth": {
-            "en": "Henan Academy of Sciences",
-            "zh": "河南省科学院"
-        },
-        "https://idp.jxas.ac.cn/idp/shibboleth": {
-            "en": "JiangXi Academy of Sciences",
-            "zh": "江西省科学院"
-        },
-        "https://idp.las.ac.cn/idp/shibboleth": {
-            "en": "National Science Library, Chinese Academy of Sciences",
-            "zh": "中国科学院文献情报中心"
-        },
         "https://idp.redclara.net/saml2/idp/metadata.php": {
             "en": "RedCLARA - IdP",
             "es": "RedCLARA - IdP"
         },
-        "https://idp.scholarin.cn/idp/shibboleth": {
-            "en": "Scholarin ID",
-            "zh": "慧科研通行证"
-        },
-        "https://idp.stlib.cn/idp/shibboleth": {
-            "en": "Guangdong Science and Technology Library",
-            "zh": "广东省科技图书馆"
-        },
         "https://idplaconga.redclara.net/simplesaml/saml2/idp/metadata.php": {
             "en": "https://idplaconga.redclara.net/simplesaml/saml2/idp/metadata.php"
-        },
-        "https://login.imicams.ac.cn/idp/shibboleth": {
-            "en": "PUMC ID",
-            "zh": "协和统一身份认证"
-        },
-        "https://passport.escience.cn/idp/shibboleth": {
-            "en": "CSTCloud ID",
-            "zh": "中国科技云通行证(CSTCloud ID)"
         }
     },
     "ng": {
@@ -20871,9 +20839,6 @@
         "https://idp.rice.edu/idp/shibboleth": {
             "en": "Rice University"
         },
-        "https://idp.sbcc.edu/idp/shibboleth": {
-            "en": "Santa Barbara City College"
-        },
         "https://idp.scccd.edu/idp/shibboleth": {
             "en": "State Center Community College District"
         },
@@ -21516,6 +21481,9 @@
         "https://sso.gvsu.edu/idp": {
             "en": "Grand Valley State University"
         },
+        "https://sso.hmc.edu/idp": {
+            "en": "Harvey Mudd College (Cirrus)"
+        },
         "https://sso.humboldt.edu/idp/metadata": {
             "en": "Cal Poly Humboldt"
         },
@@ -22071,6 +22039,9 @@
         },
         "https://proxy.safire.ac.za/birk.php/sts.windows.net/3df74539-9453-4d03-bb9d-b9102cb9ce9c/": {
             "en": "Tshwane University of Technology"
+        },
+        "https://proxy.safire.ac.za/birk.php/sts.windows.net/4b1930d1-12f4-40b5-b48c-bd86117429d8/": {
+            "en": "Durban University of Technology"
         },
         "https://proxy.safire.ac.za/birk.php/sts.windows.net/7be113bb-a1f0-4587-a151-bb9053a701e6/": {
             "en": "Higher Education Information Technology South Africa (HEITSA)"

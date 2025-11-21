@@ -533,9 +533,6 @@
     "https://idp.rice.edu/idp/shibboleth": {
         "en": "Rice University"
     },
-    "https://idp.sbcc.edu/idp/shibboleth": {
-        "en": "Santa Barbara City College"
-    },
     "https://idp.scccd.edu/idp/shibboleth": {
         "en": "State Center Community College District"
     },
@@ -1177,6 +1174,9 @@
     },
     "https://sso.gvsu.edu/idp": {
         "en": "Grand Valley State University"
+    },
+    "https://sso.hmc.edu/idp": {
+        "en": "Harvey Mudd College (Cirrus)"
     },
     "https://sso.humboldt.edu/idp/metadata": {
         "en": "Cal Poly Humboldt"

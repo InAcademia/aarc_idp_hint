@@ -335,6 +335,10 @@
         "de": "FIZ Karlsruhe",
         "en": "FIZ Karlsruhe"
     },
+    "https://idp.fraunhofer.de/idp/shibboleth": {
+        "de": "Fraunhofer-Gesellschaft (Fallback)",
+        "en": "Fraunhofer-Gesellschaft (Fallback)"
+    },
     "https://idp.fv-berlin.de/idp/shibboleth": {
         "de": "Forschungsverbund Berlin e.V.",
         "en": "Forschungsverbund Berlin e.V."
