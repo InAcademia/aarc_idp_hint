@@ -214,6 +214,10 @@
         "en": "Bialystok University of Technology",
         "pl": "Politechnika Bialostocka"
     },
+    "https://login.pbs.edu.pl/idp/shibboleth": {
+        "en": "University of Science and Technology in Bydgoszcz",
+        "pl": "Politechnika Bydgoska"
+    },
     "https://login.polsl.pl/idp": {
         "en": "Silesian University of Technology",
         "pl": "Politechnika Śląska"

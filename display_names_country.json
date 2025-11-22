@@ -6242,7 +6242,7 @@
             "en": "FH Erfurt"
         },
         "https://idp.fh-kiel.de/idp/shibboleth": {
-            "de": "Hochschule für Angewandte Wissenschaften Kiel",
+            "de": "HAW Kiel",
             "en": "Kiel University of Applied Sciences"
         },
         "https://idp.fh-muenster.de/idp/shibboleth": {
@@ -11624,6 +11624,9 @@
         "https://idp.iiitdmj.ac.in/idp/shibboleth": {
             "en": "IIITDM Jabalpur"
         },
+        "https://idp.iiitdwd.ac.in/idp/shibboleth": {
+            "en": "Indian Institute of Information Technology (IIIT), Dharwad"
+        },
         "https://idp.iiitkottayam.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Information Technology (IIIT) Kottayam"
         },
@@ -15629,6 +15632,10 @@
         "https://login.pb.edu.pl/idp/shibboleth": {
             "en": "Bialystok University of Technology",
             "pl": "Politechnika Bialostocka"
+        },
+        "https://login.pbs.edu.pl/idp/shibboleth": {
+            "en": "University of Science and Technology in Bydgoszcz",
+            "pl": "Politechnika Bydgoska"
         },
         "https://login.polsl.pl/idp": {
             "en": "Silesian University of Technology",
