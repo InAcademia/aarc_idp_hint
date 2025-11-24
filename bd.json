@@ -1,4 +1,7 @@
 {
+    "https://auth0.uttara.ac.bd/realms/uucas": {
+        "en": "Uttara University"
+    },
     "https://idp.apacfilesender.asia/idp/shibboleth": {
         "en": "APAC Virtual Home"
     },
