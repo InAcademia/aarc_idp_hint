@@ -1140,6 +1140,10 @@
             "en": "UEMG - Universidade do Estado de Minas Gerais",
             "pt-br": "UEMG - Universidade do Estado de Minas Gerais"
         },
+        "https://cafe.uenf.br/idp/shibboleth": {
+            "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
+            "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
+        },
         "https://cafe.uesb.br/idp/shibboleth": {
             "en": "UESB - Universidade Estadual do Sudoeste da Bahia",
             "pt-br": "UESB - Universidade Estadual do Sudoeste da Bahia"
@@ -1324,7 +1328,7 @@
             "en": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira",
             "pt-br": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira"
         },
-        "https://cafernp1.ipt.br/idp/shibboleth": {
+        "https://cafernp.ipt.br/idp/shibboleth": {
             "en": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo",
             "pt-br": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo"
         },
@@ -1472,6 +1476,10 @@
             "en": "UNEB - Universidade do Estado da Bahia",
             "pt-br": "UNEB - Universidade do Estado da Bahia"
         },
+        "https://idp-cafe.unifa.aer.mil.br/idp/shibboleth": {
+            "en": "UNIFA - Universidade da Forca Aerea",
+            "pt-br": "UNIFA - Universidade da Forca Aerea"
+        },
         "https://idp-cafe.unifal-mg.edu.br/idp/shibboleth": {
             "en": "UNIFAL-MG - Universidade Federal de Alfenas",
             "pt-br": "UNIFAL-MG - Universidade Federal de Alfenas"
@@ -1504,10 +1512,6 @@
             "en": "UNICHRISTUS - Centro Universitario Unichristus",
             "pt-br": "UNICHRISTUS - Centro Universitario Unichristus"
         },
-        "https://idp-v4.ceitec-sa.com/idp/shibboleth": {
-            "en": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada",
-            "pt-br": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada"
-        },
         "https://idp-v421.ifsp.edu.br/idp/shibboleth": {
             "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
             "pt-br": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo"
@@ -1519,6 +1523,10 @@
         "https://idp.cefetmg.br/idp/shibboleth": {
             "en": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais",
             "pt-br": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais"
+        },
+        "https://idp.ceitec-sa.com/idp/shibboleth": {
+            "en": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada",
+            "pt-br": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada"
         },
         "https://idp.cnen.gov.br/idp/shibboleth": {
             "en": "CNEN - Comissao Nacional de Energia Nuclear",
@@ -1635,10 +1643,6 @@
         "https://idp.uems.br/idp/shibboleth": {
             "en": "UEMS - Universidade Estadual de Mato Grosso do Sul",
             "pt-br": "UEMS - Universidade Estadual de Mato Grosso do Sul"
-        },
-        "https://idp.uenf.br/idp/shibboleth": {
-            "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
-            "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
         },
         "https://idp.uesc.br/idp/shibboleth": {
             "en": "UESC - Universidade Estadual de Santa Cruz",
@@ -1935,6 +1939,10 @@
         "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
             "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
             "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
+        },
+        "https://servercafe.iftm.edu.br/idp/shibboleth": {
+            "en": "IFTM - Instituto Federal do Triangulo Mineiro",
+            "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
         },
         "https://shib.unila.edu.br/idp/shibboleth": {
             "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
@@ -7550,10 +7558,6 @@
         "https://tumidp.lrz.de/idp/shibboleth": {
             "de": "Technische Universität München (TUM)",
             "en": "Technical University of Munich (TUM)"
-        },
-        "https://vhb-ds.lmsflix.de/idp/shibboleth": {
-            "de": "VHB Where are you from Service",
-            "en": "VHB Where are you from Service"
         },
         "https://weblogin.htw-berlin.de/idp/shibboleth": {
             "de": "Hochschule für Technik und Wirtschaft - HTW Berlin",
@@ -16263,6 +16267,83 @@
             "pt": "Universidade do Porto"
         }
     },
+    "ro": {
+        "https://aai.e-uvt.ro/sso/module.php/saml/idp/metadata": {
+            "en": "West University of Timisoara",
+            "ro": "Universitatea de Vest din Timisoara"
+        },
+        "https://accounts.ulbsibiu.ro/myaccount-provider/saml2/idp/metadata.php": {
+            "en": "Lucian Blaga University of Sibiu IdP",
+            "ro": "Universitatea Lucian Blaga din Sibiu IdP"
+        },
+        "https://anelisplus.utcluj.ro/simplesaml/saml2/idp/metadata.php": {
+            "en": "Technical University of Cluj-Napoca",
+            "ro": "Universitatea Tehnica din Cluj-Napoca"
+        },
+        "https://auth.unitbv.ro/simplesaml/saml2/idp/metadata.php": {
+            "en": "Transilvania University of Brasov",
+            "ro": "Universitatea Transilvania din Brasov"
+        },
+        "https://bridge.login.upb.ro/saml2/idp/metadata.php": {
+            "en": "University \"Politehnica\" from Bucharest",
+            "ro": "Universitatea \"Politehnica\" din București"
+        },
+        "https://eduid.umfiasi.ro/idp/shibboleth": {
+            "en": "University of Medicine and Pharmacy \"Grigore T. Popa\" from Iași",
+            "ro": "Universitatea de Medicină și Farmacie \"Grigore T. Popa\" din Iași"
+        },
+        "https://idp.roedu.net/idp/shibboleth": {
+            "en": "Agency ARNIEC RoEduNet IdP",
+            "ro": "IdP Agenția ARNIEC RoEduNet"
+        },
+        "https://idp.uaic.ro/idp/shibboleth": {
+            "en": "University \"Alexandru Ioan Cuza\" from Iasi",
+            "ro": "Universitatea \"Alexandru Ioan Cuza\" din Iasi"
+        },
+        "https://idp.ub.ro/idp/shibboleth": {
+            "en": "UBC Identity Provider"
+        },
+        "https://idp.unibuc.ro/idp/shibboleth": {
+            "en": "University of Bucharest",
+            "ro": "Universitatea din București"
+        },
+        "https://idp.univ-ovidius.ro/idp/shibboleth": {
+            "en": "Ovidius University of Constanta",
+            "ro": "Universitatea Ovidius Constanta"
+        },
+        "https://idp.uoradea.ro/idp/shibboleth": {
+            "en": "University of Oradea",
+            "ro": "Universitatea din Oradea"
+        },
+        "https://idp.upet.ro/idp/shibboleth": {
+            "en": "University of Petrosani - Shibboleth IdP",
+            "ro": "Universitatea din Petroșani - Shibboleth IdP"
+        },
+        "https://idp.upg-ploiesti.ro/simplesaml/saml2/idp/metadata.php": {
+            "en": "Petroleum Gas University of Ploiesti",
+            "ro": "Universitatea Petrol-Gaze din Ploiesti"
+        },
+        "https://idp.usv.ro/simplesaml/saml2/idp/metadata.php": {
+            "en": "Stefan cel Mare University of Suceava",
+            "ro": "Universitatea Stefan cel Mare din Suceava"
+        },
+        "https://idp.utcb.ro/idp/shibboleth": {
+            "en": "Technical University of Civil Engineering Bucharest IdP",
+            "ro": "IdP al Universitatii Tehnice de Constructii Bucuresti"
+        },
+        "https://idp2.upt.ro/idp/shibboleth": {
+            "en": "Politehnica University Timisoara",
+            "ro": "Universitatea Politehnica Timisoara"
+        },
+        "https://splp.snspa.ro/smplp/saml2/idp/metadata.php": {
+            "en": "National School of Political Science and Public Administration",
+            "ro": "Scoala Nationala de Studii Politice si Administrative"
+        },
+        "https://sso.tuiasi.ro/auth/realms/TUIASI": {
+            "en": "Gheorghe Asachi Technical University of Iaşi - TUIASI",
+            "ro": "Universitatea Tehnică „Gheorghe Asachi” din Iaşi - TUIASI"
+        }
+    },
     "rs": {
         "https://iaai.admin.amres.ac.rs/idp/shibboleth": {
             "en": "AMRES Admin",
@@ -18499,6 +18580,9 @@
         },
         "https://idp.idi.co.ug/idp/shibboleth": {
             "en": "Infectious Diseases Institute (IDI)"
+        },
+        "https://idp.kab.ac.ug/idp/shibboleth": {
+            "en": "Kabale University"
         },
         "https://idp.kyu.ac.ug/idp/shibboleth": {
             "en": "Kyambogo University"

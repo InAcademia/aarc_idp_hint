@@ -267,6 +267,10 @@
         "en": "UEMG - Universidade do Estado de Minas Gerais",
         "pt-br": "UEMG - Universidade do Estado de Minas Gerais"
     },
+    "https://cafe.uenf.br/idp/shibboleth": {
+        "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
+        "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
+    },
     "https://cafe.uesb.br/idp/shibboleth": {
         "en": "UESB - Universidade Estadual do Sudoeste da Bahia",
         "pt-br": "UESB - Universidade Estadual do Sudoeste da Bahia"
@@ -451,7 +455,7 @@
         "en": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira",
         "pt-br": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira"
     },
-    "https://cafernp1.ipt.br/idp/shibboleth": {
+    "https://cafernp.ipt.br/idp/shibboleth": {
         "en": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo",
         "pt-br": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo"
     },
@@ -599,6 +603,10 @@
         "en": "UNEB - Universidade do Estado da Bahia",
         "pt-br": "UNEB - Universidade do Estado da Bahia"
     },
+    "https://idp-cafe.unifa.aer.mil.br/idp/shibboleth": {
+        "en": "UNIFA - Universidade da Forca Aerea",
+        "pt-br": "UNIFA - Universidade da Forca Aerea"
+    },
     "https://idp-cafe.unifal-mg.edu.br/idp/shibboleth": {
         "en": "UNIFAL-MG - Universidade Federal de Alfenas",
         "pt-br": "UNIFAL-MG - Universidade Federal de Alfenas"
@@ -631,10 +639,6 @@
         "en": "UNICHRISTUS - Centro Universitario Unichristus",
         "pt-br": "UNICHRISTUS - Centro Universitario Unichristus"
     },
-    "https://idp-v4.ceitec-sa.com/idp/shibboleth": {
-        "en": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada",
-        "pt-br": "CEITEC - Centro Nacional de Tecnologia e Eletronica Avancada"
-    },
     "https://idp-v421.ifsp.edu.br/idp/shibboleth": {
         "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
         "pt-br": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo"
@@ -646,6 +650,10 @@
     "https://idp.cefetmg.br/idp/shibboleth": {
         "en": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais",
         "pt-br": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais"
+    },
+    "https://idp.ceitec-sa.com/idp/shibboleth": {
+        "en": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada",
+        "pt-br": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada"
     },
     "https://idp.cnen.gov.br/idp/shibboleth": {
         "en": "CNEN - Comissao Nacional de Energia Nuclear",
@@ -762,10 +770,6 @@
     "https://idp.uems.br/idp/shibboleth": {
         "en": "UEMS - Universidade Estadual de Mato Grosso do Sul",
         "pt-br": "UEMS - Universidade Estadual de Mato Grosso do Sul"
-    },
-    "https://idp.uenf.br/idp/shibboleth": {
-        "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
-        "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
     },
     "https://idp.uesc.br/idp/shibboleth": {
         "en": "UESC - Universidade Estadual de Santa Cruz",
@@ -1062,6 +1066,10 @@
     "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
         "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
         "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
+    },
+    "https://servercafe.iftm.edu.br/idp/shibboleth": {
+        "en": "IFTM - Instituto Federal do Triangulo Mineiro",
+        "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
     },
     "https://shib.unila.edu.br/idp/shibboleth": {
         "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
