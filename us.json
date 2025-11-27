@@ -23,9 +23,6 @@
     "http://bcadfs.bridgewater.edu/adfs/services/trust": {
         "en": "Bridgewater College"
     },
-    "http://federate.bsu.edu/sso": {
-        "en": "Ball State  University"
-    },
     "http://fs.albmolecular.com/adfs/services/trust": {
         "en": "Curia Global, Inc."
     },

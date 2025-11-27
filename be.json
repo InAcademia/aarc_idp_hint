@@ -157,6 +157,9 @@
     "https://sso.irc.ugent.be/auth/realms/irc": {
         "en": "VIB-UGent IRC"
     },
+    "https://sts.windows.net/0285baf7-4f4a-4501-bafe-a976d8ac3135/": {
+        "en": "Slowheat"
+    },
     "https://sts.windows.net/1c8ac413-4f2b-43dd-bb81-c63810aed841/": {
         "en": "Haute Ecole Libre de Bruxelles Ilya Prigogine"
     },
