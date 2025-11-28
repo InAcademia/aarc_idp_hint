@@ -123,10 +123,6 @@
         "en": "FUMEC - Fundacao Mineira de Educacao e Cultura",
         "pt-br": "FUMEC - Fundacao Mineira de Educacao e Cultura"
     },
-    "https://cafe.funesa.se.gov.br/idp/shibboleth": {
-        "en": "FUNESA - Fundacao Estadual de Saude",
-        "pt-br": "FUNESA - Fundacao Estadual de Saude"
-    },
     "https://cafe.furg.br/idp/shibboleth": {
         "en": "FURG - Universidade Federal do Rio Grande",
         "pt-br": "FURG - Universidade Federal do Rio Grande"
@@ -282,10 +278,6 @@
     "https://cafe.ufba.br/idp/shibboleth": {
         "en": "UFBA - Universidade Federal da Bahia",
         "pt-br": "UFBA - Universidade Federal da Bahia"
-    },
-    "https://cafe.uff.br/idp/shibboleth": {
-        "en": "UFF - Universidade Federal Fluminense",
-        "pt-br": "UFF - Universidade Federal Fluminense"
     },
     "https://cafe.ufg.br/idp/shibboleth": {
         "en": "UFG - Universidade Federal de Goias",
@@ -455,17 +447,13 @@
         "en": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira",
         "pt-br": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira"
     },
-    "https://cafernp.ipt.br/idp/shibboleth": {
+    "https://cafernp1.ipt.br/idp/shibboleth": {
         "en": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo",
         "pt-br": "IPT - Instituto de Pesquisas Tecnologicas do Estado de Sao Paulo"
     },
     "https://cafeuri.uricer.edu.br/idp/shibboleth": {
         "en": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes",
         "pt-br": "URICER - Universidade Regional Integrada do Alto Uruguai e das Missoes"
-    },
-    "https://cafev3.unochapeco.edu.br/idp/shibboleth": {
-        "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
-        "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
     },
     "https://cafeweb.cetene.gov.br/idp/shibboleth": {
         "en": "CETENE - Centro de Tecnologias e Estrategicas do Nordeste",
@@ -675,10 +663,6 @@
         "en": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas",
         "pt-br": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas"
     },
-    "https://idp.fapes.es.gov.br/idp/shibboleth": {
-        "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
-        "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
-    },
     "https://idp.fasec.edu.br/idp/shibboleth": {
         "en": "FASEC - Faculdade Serra Do Carmo",
         "pt-br": "FASEC - Faculdade Serra Do Carmo"
@@ -875,6 +859,10 @@
         "en": "UNIVASF - Universidade Federal do Vale do Sao Francisco",
         "pt-br": "UNIVASF - Universidade Federal do Vale do Sao Francisco"
     },
+    "https://idp.unochapeco.edu.br/idp/shibboleth": {
+        "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
+        "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
+    },
     "https://idp.uscs.edu.br/idp/shibboleth": {
         "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
         "pt-br": "USCS - Universidade Municipal de Sao Caetano do Sul"
@@ -926,6 +914,10 @@
     "https://idpcafe.uepa.br/idp/shibboleth": {
         "en": "UEPA - Universidade do Estado do Para",
         "pt-br": "UEPA - Universidade do Estado do Para"
+    },
+    "https://idpcafe.uff.br/idp/shibboleth": {
+        "en": "UFF - Universidade Federal Fluminense",
+        "pt-br": "UFF - Universidade Federal Fluminense"
     },
     "https://idpcafe.ufscar.br/idp/shibboleth": {
         "en": "UFSCAR - Universidade Federal de Sao Carlos",

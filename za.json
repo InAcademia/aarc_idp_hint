@@ -55,6 +55,9 @@
     "https://proxy.safire.ac.za/birk.php/saml2.sarao.ac.za/simplesamlphp/saml2/idp/metadata.php": {
         "en": "South African Radio Astronomy Observatory"
     },
+    "https://proxy.safire.ac.za/birk.php/sauth1.gwc.ac.za/realms/gwc": {
+        "en": "George Whitefield College"
+    },
     "https://proxy.safire.ac.za/birk.php/shib.nwu.ac.za/idp/shibboleth": {
         "en": "North-West University",
         "tn": "Yunibesiti Ya Bokone-Bophirima"

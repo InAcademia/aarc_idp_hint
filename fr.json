@@ -143,6 +143,10 @@
         "en": "Université de Lyon - UDL",
         "fr": "Université de Lyon - UDL"
     },
+    "https://casv2.ac-martinique.fr/idp/shibboleth": {
+        "en": "Rectorate of the Academy of Martinique",
+        "fr": "Rectorat de l'académie de Martinique"
+    },
     "https://cerbere.telecom-paris.fr/saml2/idp": {
         "en": "Télécom Paris",
         "fr": "Télécom Paris"
