@@ -268,8 +268,8 @@
         "fr": "ENSTA Bretagne"
     },
     "https://identite.univ-reims.fr/idp/shibboleth": {
-        "en": "Université de Reims Champagne-Ardenne (new)",
-        "fr": "Université de Reims Champagne-Ardenne (a partir du 28/11/2025)"
+        "en": "Université de Reims Champagne-Ardenne",
+        "fr": "Université de Reims Champagne-Ardenne"
     },
     "https://identites.ec-lyon.fr/idp/shibboleth": {
         "en": "Ecole Centrale de Lyon",
@@ -1010,10 +1010,6 @@
     "https://shib.univ-lehavre.fr/idp/shibboleth": {
         "en": "Université Le Havre Normandie",
         "fr": "Université Le Havre Normandie"
-    },
-    "https://shib.univ-reims.fr/idp/shibboleth": {
-        "en": "Université de Reims Champagne-Ardenne",
-        "fr": "Université de Reims Champagne-Ardenne"
     },
     "https://shib2.unc.nc/idp/shibboleth": {
         "en": "University of New-Caledonia (UNC)",

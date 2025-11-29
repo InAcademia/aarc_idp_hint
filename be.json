@@ -144,6 +144,9 @@
     "https://login.henallux.be/realms/henallux": {
         "en": "Henallux"
     },
+    "https://login.psb.ugent.be/realms/psbrealm": {
+        "en": "VIB-UGent Center for Plant Systems Biology (PSB) IdP"
+    },
     "https://login.uat.vlerick.com/idhub/saml2": {
         "en": "Vlerick Login (UAT)"
     },

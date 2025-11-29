@@ -293,6 +293,9 @@
     "https://idp.iitdh.ac.in/idp/shibboleth": {
         "en": "Indian Institute Of Technology Dharwad"
     },
+    "https://idp.iitgn.ac.in/idp/shibboleth": {
+        "en": "Indian Institute Of Technology Gandhinagar"
+    },
     "https://idp.iitgoa.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Technology, Goa"
     },

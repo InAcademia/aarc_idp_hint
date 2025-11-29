@@ -704,6 +704,9 @@
         "https://login.henallux.be/realms/henallux": {
             "en": "Henallux"
         },
+        "https://login.psb.ugent.be/realms/psbrealm": {
+            "en": "VIB-UGent Center for Plant Systems Biology (PSB) IdP"
+        },
         "https://login.uat.vlerick.com/idhub/saml2": {
             "en": "Vlerick Login (UAT)"
         },
@@ -1446,10 +1449,6 @@
         "https://idp-cafe.uea.edu.br/idp/shibboleth": {
             "en": "UEA - Universidade do Estado do Amazonas",
             "pt-br": "UEA - Universidade do Estado do Amazonas"
-        },
-        "https://idp-cafe.ufcspa.edu.br/idp/shibboleth": {
-            "en": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre",
-            "pt-br": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre"
         },
         "https://idp-cafe.ufpb.br/idp/shibboleth": {
             "en": "UFPB - Universidade Federal da Paraiba",
@@ -9456,8 +9455,8 @@
             "fr": "ENSTA Bretagne"
         },
         "https://identite.univ-reims.fr/idp/shibboleth": {
-            "en": "Université de Reims Champagne-Ardenne (new)",
-            "fr": "Université de Reims Champagne-Ardenne (a partir du 28/11/2025)"
+            "en": "Université de Reims Champagne-Ardenne",
+            "fr": "Université de Reims Champagne-Ardenne"
         },
         "https://identites.ec-lyon.fr/idp/shibboleth": {
             "en": "Ecole Centrale de Lyon",
@@ -10198,10 +10197,6 @@
         "https://shib.univ-lehavre.fr/idp/shibboleth": {
             "en": "Université Le Havre Normandie",
             "fr": "Université Le Havre Normandie"
-        },
-        "https://shib.univ-reims.fr/idp/shibboleth": {
-            "en": "Université de Reims Champagne-Ardenne",
-            "fr": "Université de Reims Champagne-Ardenne"
         },
         "https://shib2.unc.nc/idp/shibboleth": {
             "en": "University of New-Caledonia (UNC)",
@@ -11690,6 +11685,9 @@
         },
         "https://idp.iitdh.ac.in/idp/shibboleth": {
             "en": "Indian Institute Of Technology Dharwad"
+        },
+        "https://idp.iitgn.ac.in/idp/shibboleth": {
+            "en": "Indian Institute Of Technology Gandhinagar"
         },
         "https://idp.iitgoa.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Technology, Goa"
