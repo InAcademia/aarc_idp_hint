@@ -3098,6 +3098,10 @@
             "en": "Beijing  Institute  of  Fashion  Technology",
             "zh": "北京服装学院(Beijing  Institute  of  Fashion  Technology )"
         },
+        "https://idp.bigc.edu.cn/idp/shibboleth": {
+            "en": "Beijing Institute of Graphic Communication",
+            "zh": "北京印刷学院(Beijing Institute of Graphic Communication)"
+        },
         "https://idp.bit.edu.cn/idp/shibboleth": {
             "en": "Beijing Institute of Technology",
             "zh": "北京理工大学(Beijing Institute of Technology)"
@@ -3517,6 +3521,10 @@
         "https://idp.gufe.edu.cn/idp/shibboleth": {
             "en": "Guizhou University of Finance and Economics",
             "zh": "贵州财经大学(Guizhou University of Finance and Economics)"
+        },
+        "https://idp.gwng.edu.cn/idp/shibboleth": {
+            "en": "Guangdong University of Foreign Studies South China Business College",
+            "zh": "广东外语外贸大学南国商学院(Guangdong University of Foreign Studies South China Business College)"
         },
         "https://idp.gxau.edu.cn/idp/shibboleth": {
             "en": "Guangxi Arts University",
@@ -12058,7 +12066,7 @@
             "en": "St. Xavier's University, Kolkata"
         },
         "https://idp.tanuvas.ac.in/idp/shibboleth": {
-            "en": "Tamil Nadu Veterinary and Animal Sciences University"
+            "en": "Tamil Nadu Veterinary and Animal Sciences University (TANUVAS)"
         },
         "https://idp.technoindiauniversity.ac.in/idp/shibboleth": {
             "en": "Techno India University"
@@ -12152,6 +12160,9 @@
         },
         "https://idpvesasc.ves.ac.in/idp/shibboleth": {
             "en": "Vivekanand Education Society"
+        },
+        "https://infed.temu.ac.in/idp/shibboleth": {
+            "en": "Thunchath Ezhuthachan Malayalam University"
         },
         "https://inproxy.inflibnet.ac.in/idp/shibboleth": {
             "en": "Inproxy-INFLIBNET Centre"
@@ -22092,6 +22103,12 @@
         },
         "https://proxy.safire.ac.za/birk.php/sts.windows.net/4b1930d1-12f4-40b5-b48c-bd86117429d8/": {
             "en": "Durban University of Technology"
+        },
+        "https://proxy.safire.ac.za/birk.php/sts.windows.net/54333d6b-49dd-4392-8e10-a24075489f58/": {
+            "en": "University of Zululand - Staff"
+        },
+        "https://proxy.safire.ac.za/birk.php/sts.windows.net/543f2205-fcdc-4c35-ad7a-ea6bd74ca885/": {
+            "en": "University of Zululand - Students"
         },
         "https://proxy.safire.ac.za/birk.php/sts.windows.net/7be113bb-a1f0-4587-a151-bb9053a701e6/": {
             "en": "Higher Education Information Technology South Africa (HEITSA)"

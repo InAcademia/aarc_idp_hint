@@ -287,6 +287,10 @@
         "en": "Beijing  Institute  of  Fashion  Technology",
         "zh": "北京服装学院(Beijing  Institute  of  Fashion  Technology )"
     },
+    "https://idp.bigc.edu.cn/idp/shibboleth": {
+        "en": "Beijing Institute of Graphic Communication",
+        "zh": "北京印刷学院(Beijing Institute of Graphic Communication)"
+    },
     "https://idp.bit.edu.cn/idp/shibboleth": {
         "en": "Beijing Institute of Technology",
         "zh": "北京理工大学(Beijing Institute of Technology)"
@@ -706,6 +710,10 @@
     "https://idp.gufe.edu.cn/idp/shibboleth": {
         "en": "Guizhou University of Finance and Economics",
         "zh": "贵州财经大学(Guizhou University of Finance and Economics)"
+    },
+    "https://idp.gwng.edu.cn/idp/shibboleth": {
+        "en": "Guangdong University of Foreign Studies South China Business College",
+        "zh": "广东外语外贸大学南国商学院(Guangdong University of Foreign Studies South China Business College)"
     },
     "https://idp.gxau.edu.cn/idp/shibboleth": {
         "en": "Guangxi Arts University",

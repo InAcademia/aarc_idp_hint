@@ -669,7 +669,7 @@
         "en": "St. Xavier's University, Kolkata"
     },
     "https://idp.tanuvas.ac.in/idp/shibboleth": {
-        "en": "Tamil Nadu Veterinary and Animal Sciences University"
+        "en": "Tamil Nadu Veterinary and Animal Sciences University (TANUVAS)"
     },
     "https://idp.technoindiauniversity.ac.in/idp/shibboleth": {
         "en": "Techno India University"
@@ -763,6 +763,9 @@
     },
     "https://idpvesasc.ves.ac.in/idp/shibboleth": {
         "en": "Vivekanand Education Society"
+    },
+    "https://infed.temu.ac.in/idp/shibboleth": {
+        "en": "Thunchath Ezhuthachan Malayalam University"
     },
     "https://inproxy.inflibnet.ac.in/idp/shibboleth": {
         "en": "Inproxy-INFLIBNET Centre"
