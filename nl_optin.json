@@ -1,4 +1,16 @@
 {
+    "http://adfs-differ.differ.nl/adfs/services/trust": {
+        "en": "DIFFER",
+        "nl": "DIFFER"
+    },
+    "http://adfs.aeres.nl/adfs/services/trust": {
+        "en": "Aeres",
+        "nl": "Aeres"
+    },
+    "http://adfs.amolf.nl/adfs/services/trust": {
+        "en": "AMOLF / ARCNL",
+        "nl": "AMOLF / ARCNL"
+    },
     "http://adfs.cibap.nl/adfs/services/trust": {
         "en": "Cibap Vocational College of Design",
         "nl": "Cibap vakschool voor vormgeving"
@@ -6,6 +18,10 @@
     "http://adfs.dcterra.nl/adfs/services/trust": {
         "en": "DCTerra",
         "nl": "DCTerra"
+    },
+    "http://adfs.fryske-akademy.nl/adfs/services/trust": {
+        "en": "Fryske Akademy (KNAW)",
+        "nl": "Fryske Akademy (KNAW)"
     },
     "http://adfs.glu.nl/adfs/services/trust": {
         "en": "Grafisch Lyceum Utrecht",
@@ -19,6 +35,10 @@
         "en": "Lentiz Onderwijsgroep",
         "nl": "Lentiz Onderwijsgroep"
     },
+    "http://adfs.tio.nl/adfs/services/trust": {
+        "en": "Tio Business School",
+        "nl": "Tio Business School"
+    },
     "http://adfs3prod.aventus.nl/adfs/services/trust": {
         "en": "ROC Aventus",
         "nl": "ROC Aventus"
@@ -31,13 +51,41 @@
         "en": "SintLucas",
         "nl": "SintLucas"
     },
+    "http://auth.mumc.nl/adfs/services/trust": {
+        "en": "Maastricht University Medical Center",
+        "nl": "Maastricht Universitair Medisch Centrum"
+    },
     "http://demeter.wp.swov.nl/adfs/services/trust": {
         "en": "SWOV Institute for Road Safety Research",
         "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
     },
+    "http://fed.cpb.nl/adfs/services/trust": {
+        "en": "CPB Netherlands Bureau for Economic Policy Analysis",
+        "nl": "Centraal Planbureau"
+    },
+    "http://federatie.lumc.nl/adfs/services/trust": {
+        "en": "Leids Universitair Medisch Centrum",
+        "nl": "Leids Universitair Medisch Centrum"
+    },
     "http://federation.graafschapcollege.nl/adfs/services/trust": {
         "en": "Graafschap College",
         "nl": "Graafschap College"
+    },
+    "http://fs.amphia.nl/adfs/services/trust": {
+        "en": "Amphia Hospital",
+        "nl": "Amphia Ziekenhuis"
+    },
+    "http://fs.dezb.nl/adfs/services/trust": {
+        "en": "ZB Bibliotheek van Zeeland",
+        "nl": "ZB Bibliotheek van Zeeland"
+    },
+    "http://fs.kennisnet.org/adfs/services/trust": {
+        "en": "Stichting Kennisnet",
+        "nl": "Stichting Kennisnet"
+    },
+    "http://fs.knmi.nl/adfs/services/trust": {
+        "en": "KNMI",
+        "nl": "KNMI"
     },
     "http://fs.loi.nl/adfs/services/trust": {
         "en": "Leidse Onderwijsinstellingen",
@@ -47,9 +95,25 @@
         "en": "HZ University of Applied Sciences",
         "nl": "HZ University of Applied Sciences"
     },
+    "http://fs.pbl.nl/adfs/services/trust": {
+        "en": "PBL Netherlands Environmental Assessment Agency",
+        "nl": "Planbureau voor de Leefomgeving"
+    },
+    "http://fs.rivm.nl/adfs/services/trust": {
+        "en": "National Institute for Public Health and the Environment",
+        "nl": "Rijksinstituut voor Volksgezondheid en Milieu"
+    },
     "http://fs.umcutrecht.nl/adfs/services/trust": {
         "en": "Universitair Medisch Centrum Utrecht",
         "nl": "Universitair Medisch Centrum Utrecht"
+    },
+    "http://glr-adfs.glr.nl/adfs/services/trust": {
+        "en": "Grafisch Lyceum Rotterdam",
+        "nl": "Grafisch Lyceum Rotterdam"
+    },
+    "http://idp.ihe.nl/adfs/services/trust": {
+        "en": "IHE Delft Institute for Water Education",
+        "nl": "IHE Delft Institute for Water Education"
     },
     "http://login.hva.nl/adfs/services/trust": {
         "en": "Amsterdam University of Applied Sciences",
@@ -59,6 +123,14 @@
         "en": "Maastricht University",
         "nl": "Universiteit Maastricht"
     },
+    "http://login.nki.nl/adfs/services/trust": {
+        "en": "Antoni van Leeuwenhoek - Netherlands Cancer Institute",
+        "nl": "Antoni van Leeuwenhoek - Nederlands Kanker Instituut"
+    },
+    "http://login.scp.nl/adfs/services/trust": {
+        "en": "The Netherlands Institute for Social Research",
+        "nl": "Sociaal en Cultureel Planbureau"
+    },
     "http://login.surf.nl/adfs/services/trust": {
         "en": "SURF",
         "nl": "SURF"
@@ -67,13 +139,53 @@
         "en": "University of Amsterdam",
         "nl": "Universiteit van Amsterdam"
     },
+    "http://logon.erasmusmc.nl/adfs/services/trust": {
+        "en": "Erasmus MC",
+        "nl": "Erasmus MC"
+    },
+    "http://logon.nrg.eu/adfs/services/trust": {
+        "en": "NRG PALLAS",
+        "nl": "NRG PALLAS"
+    },
+    "http://sts.amc.nl/adfs/services/trust": {
+        "en": "Academisch Medisch Centrum (AMC)",
+        "nl": "Academisch Medisch Centrum (AMC)"
+    },
+    "http://sts.amsterdamumc.nl/adfs/services/trust": {
+        "en": "Amsterdam UMC",
+        "nl": "Amsterdam UMC"
+    },
+    "http://sts.kw1c.nl/adfs/services/trust": {
+        "en": "Koning Willem I College",
+        "nl": "Koning Willem I College"
+    },
+    "http://sts.novacollege.nl/adfs/services/trust": {
+        "en": "Nova College",
+        "nl": "Nova College"
+    },
+    "http://sts.rietveldacademie.nl/adfs/services/trust": {
+        "en": "Gerrit Rietveld Academie",
+        "nl": "Gerrit Rietveld Academie"
+    },
     "http://sts.talland.nl/adfs/services/trust": {
         "en": "Talland College",
         "nl": "Talland College"
     },
+    "http://sts.tno.nl/adfs/services/trust": {
+        "en": "TNO Innovation for life",
+        "nl": "TNO Innovation for life"
+    },
+    "http://sts.vumc.nl/adfs/services/trust": {
+        "en": "VU medisch centrum",
+        "nl": "VU medisch centrum"
+    },
     "http://sts.windesheim.nl/adfs/services/trust": {
         "en": "University of Applied Sciences Windesheim",
         "nl": "Hogeschool Windesheim"
+    },
+    "http://sts4.rocwb.nl/adfs/services/trust": {
+        "en": "Curio",
+        "nl": "Curio"
     },
     "http://stsfed.login.vu.nl/adfs/services/trust": {
         "en": "Vrije Universiteit Amsterdam",
@@ -83,6 +195,18 @@
         "en": "Rotterdam University of Applied Sciences",
         "nl": "Hogeschool Rotterdam"
     },
+    "https://accounts.google.com/o/saml2?idpid=C02a9wwtv": {
+        "en": "Netherlands Institute for Sound & Vision",
+        "nl": "Nederlands Instituut voor Beeld & Geluid"
+    },
+    "https://accounts.google.com/o/saml2?idpid=C03c5d9ty": {
+        "en": "University of Curaçao",
+        "nl": "University of Curaçao"
+    },
+    "https://conext.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
+        "en": "Radboud University (USEZ-account)",
+        "nl": "Radboud Universiteit (USEZ-account)"
+    },
     "https://federatie.hku.nl": {
         "en": "Utrecht School of the Arts",
         "nl": "Hogeschool voor de Kunsten Utrecht"
@@ -91,9 +215,29 @@
         "en": "Open Juridische hogeschool,  SchakelZone OJH",
         "nl": "Open Juridische hogeschool, SchakelZone OJH"
     },
+    "https://idp.cwi.nl/simplesaml/saml2/idp/metadata.php": {
+        "en": "Centrum Wiskunde & Informatica",
+        "nl": "Centrum Wiskunde & Informatica"
+    },
     "https://idp.geant.org": {
         "en": "GÉANT Staff Identity Provider",
         "nl": "GÉANT Staff Identity Provider"
+    },
+    "https://idp.mpi.nl/idp-conext": {
+        "en": "Max Planck Institute for Psycholinguistics",
+        "nl": "Max Planck Instituut voor Psycholinguistiek"
+    },
+    "https://idp.nlda.nl/adfs/services/trust": {
+        "en": "Ministerie van Defensie - NLDA",
+        "nl": "Ministerie van Defensie - NLDA"
+    },
+    "https://idp.nscr.nl/simplesaml/saml2/idp/metadata.php": {
+        "en": "NSCR",
+        "nl": "NSCR"
+    },
+    "https://login.hfml-felix.nl/idp": {
+        "en": "HFML-FELIX",
+        "nl": "HFML-FELIX"
     },
     "https://login.ou.nl/am": {
         "en": "Open Universiteit",
@@ -111,17 +255,41 @@
         "en": "Utrecht University",
         "nl": "Universiteit Utrecht"
     },
+    "https://nam.astron.nl/nidp/saml2/metadata": {
+        "en": "ASTRON",
+        "nl": "ASTRON"
+    },
+    "https://saml.esciencecenter.nl/saml2/idp/metadata.php": {
+        "en": "Netherlands eScience Center",
+        "nl": "Netherlands eScience Center"
+    },
     "https://signon.rug.nl/nidp/saml2/metadata": {
         "en": "University of Groningen",
         "nl": "Rijksuniversiteit Groningen"
+    },
+    "https://simplesaml.spinozacentre.nl/simplesaml/saml2/idp/metadata.php": {
+        "en": "Spinoza Centre for Neuroimaging (KNAW)",
+        "nl": "Spinoza Centrum voor Neuroimaging (KNAW)"
+    },
+    "https://sso.egi.eu/edugainidp/shibboleth": {
+        "en": "EGI Foundation",
+        "nl": "Stichting EGI"
     },
     "https://sso.nikhef.nl/sso/saml2/idp/metadata.php": {
         "en": "Nikhef",
         "nl": "Nikhef"
     },
+    "https://st-antonius-ziekenhuis.vmwareidentity.de/SAAS/API/1.0/GET/metadata/idp.xml": {
+        "en": "Stichting Sint Antonius Ziekenhuis",
+        "nl": "Stichting Sint Antonius Ziekenhuis"
+    },
     "https://sts.windows.net/016a9e48-ba0b-49f4-97f8-a88352164e58/": {
         "en": "NHL Stenden University of Applied Sciences",
         "nl": "NHL Stenden Hogeschool"
+    },
+    "https://sts.windows.net/01ef09a2-c608-4fc7-af66-836e50ddde2c/": {
+        "en": "Koninklijke Bibliotheek",
+        "nl": "Koninklijke Bibliotheek"
     },
     "https://sts.windows.net/084578d9-400d-4a5a-a7c7-e76ca47af400/": {
         "en": "Radboud University",
@@ -131,6 +299,18 @@
         "en": "Breda University of Applied Sciences",
         "nl": "Breda University of Applied Sciences"
     },
+    "https://sts.windows.net/0ace682c-5851-4d9f-863a-2c2a3340212d/": {
+        "en": "ROC Albeda",
+        "nl": "ROC Albeda"
+    },
+    "https://sts.windows.net/0b883569-39c0-4403-a6a9-ed60f81be9e5/": {
+        "en": "Stichting Nuffic",
+        "nl": "Stichting Nuffic"
+    },
+    "https://sts.windows.net/0f9534eb-450a-4042-8234-92c6c58f9618/": {
+        "en": "Nederlands Instituut Publieke Veiligheid",
+        "nl": "Nederlands Instituut Publieke Veiligheid"
+    },
     "https://sts.windows.net/0fc8eebd-2a1a-4d14-bbbd-8a25bfa30c5d/": {
         "en": "Protestant Theological University",
         "nl": "Protestantse Theologische Universiteit"
@@ -139,9 +319,21 @@
         "en": "Christian University of Applied Sciences (CHE)",
         "nl": "Christelijke Hogeschool Ede (CHE)"
     },
+    "https://sts.windows.net/113157d9-d1ac-4721-8063-a96363985ce4/": {
+        "en": "Scalda",
+        "nl": "Scalda"
+    },
+    "https://sts.windows.net/15f3fe0e-d712-4981-bc7c-fe949af215bb/": {
+        "en": "Deltares",
+        "nl": "Deltares"
+    },
     "https://sts.windows.net/2259cb87-9540-474f-9e96-2f4bde46bb52/": {
         "en": "Summa",
         "nl": "Summa"
+    },
+    "https://sts.windows.net/25443702-039b-4485-b8ae-3054dde1ed25/": {
+        "en": "Zone.College",
+        "nl": "Zone.College"
     },
     "https://sts.windows.net/25f04329-7216-46b8-91ff-d1f44baa2a21/": {
         "en": "Vonk",
@@ -159,13 +351,41 @@
         "en": "Design Academy Eindhoven",
         "nl": "Design Academy Eindhoven"
     },
+    "https://sts.windows.net/2c957517-44c6-4012-b5d7-ed3ecc0e81bb/": {
+        "en": "De Rooi Pannen",
+        "nl": "De Rooi Pannen"
+    },
+    "https://sts.windows.net/2d07733e-ab7b-4801-80a5-58f6455c7e90/": {
+        "en": "ROC Nijmegen",
+        "nl": "ROC Nijmegen"
+    },
+    "https://sts.windows.net/2da0953e-a153-46b0-8a26-934d1d2785ab/": {
+        "en": "ZonMw",
+        "nl": "ZonMw"
+    },
     "https://sts.windows.net/2dd9f889-dc46-4d53-b9e2-ed90804e2a87/": {
         "en": "Yonder",
         "nl": "Yonder"
     },
+    "https://sts.windows.net/2f62835f-048e-4c85-94d9-f8052060210e/": {
+        "en": "SVO vakopleider food",
+        "nl": "SVO vakopleider food"
+    },
+    "https://sts.windows.net/335122f9-d4f4-4d67-a2fc-cd6dc20dde70/": {
+        "en": "UMC Groningen",
+        "nl": "UMC Groningen"
+    },
     "https://sts.windows.net/37be429e-6e85-42cf-afc1-13c6587b2b3f/": {
         "en": "Noorderpoort",
         "nl": "Noorderpoort"
+    },
+    "https://sts.windows.net/3da248ad-d9d0-49f8-b9cf-6f208e7d153a/": {
+        "en": "Cultural Heritage Agency",
+        "nl": "Rijksdienst voor het Cultureel Erfgoed"
+    },
+    "https://sts.windows.net/3edb8059-48b4-416b-abfc-d3dcea551e17/": {
+        "en": "NBD Biblion",
+        "nl": "NBD Biblion"
     },
     "https://sts.windows.net/486427f8-ee3e-42b3-96d2-bf1b8a0ee220/": {
         "en": "Nimeto",
@@ -179,9 +399,29 @@
         "en": "Hogeschool KPZ",
         "nl": "Hogeschool KPZ"
     },
+    "https://sts.windows.net/4a00b7a2-db78-4196-ad5c-0fb1f9927352/": {
+        "en": "IBFD - International Bureau of Fiscal Documentation",
+        "nl": "IBFD - International Bureau of Fiscal Documentation"
+    },
+    "https://sts.windows.net/53553299-7461-4b7c-b38d-a78acdd9c83e/": {
+        "en": "STC-Group",
+        "nl": "STC-Group"
+    },
+    "https://sts.windows.net/559810d7-8507-4658-b938-950c1342ba79/": {
+        "en": "Openbare Bibliotheek Amsterdam (OBA)",
+        "nl": "Openbare Bibliotheek Amsterdam (OBA)"
+    },
+    "https://sts.windows.net/585a623c-e147-4855-9f56-673aa54daaf1/": {
+        "en": "SOMA College",
+        "nl": "SOMA College"
+    },
     "https://sts.windows.net/5d73e7b7-b3e1-4d00-b303-056140b2a3b4/": {
         "en": "HAN University of Applied Sciences",
         "nl": "Hogeschool van Arnhem en Nijmegen"
+    },
+    "https://sts.windows.net/5f5e8caa-c291-4c93-879f-af63ceeac809/": {
+        "en": "Studielink",
+        "nl": "Stichting Studielink"
     },
     "https://sts.windows.net/607c2ac4-da16-4b70-87ea-0a2909c0dcfb/": {
         "en": "MBO Amersfoort",
@@ -194,6 +434,14 @@
     "https://sts.windows.net/6201b9c8-5a2a-430b-9419-0e3501d5eabe/": {
         "en": "Firda",
         "nl": "Firda"
+    },
+    "https://sts.windows.net/635b05eb-66c7-48e1-a94f-b4b05a1b058b/": {
+        "en": "Rijksmuseum Amsterdam",
+        "nl": "Rijksmuseum Amsterdam"
+    },
+    "https://sts.windows.net/63817156-fe48-40a1-8277-19db53d4dc59/": {
+        "en": "University College Roosevelt",
+        "nl": "University College Roosevelt"
     },
     "https://sts.windows.net/6572d2c2-3e99-4784-a466-235eb1d580e9/": {
         "en": "Amsterdam University of the Arts",
@@ -219,9 +467,17 @@
         "en": "Hotelschool The Hague",
         "nl": "Hotelschool The Hague"
     },
+    "https://sts.windows.net/76fd1191-d586-4fe3-8242-c0b1bba18f4f/": {
+        "en": "Ter AA",
+        "nl": "Ter AA"
+    },
     "https://sts.windows.net/7860f465-6e93-42ac-ad36-6d422bebee52/": {
         "en": "ROC Gilde Opleidingen",
         "nl": "ROC Gilde Opleidingen"
+    },
+    "https://sts.windows.net/7883c633-1f45-45e9-ac49-1f567ac6a580/": {
+        "en": "Alfa-college",
+        "nl": "Alfa-college"
     },
     "https://sts.windows.net/794249f4-dce0-487e-81b7-bacce850a9e2/": {
         "en": "ROC Da Vinci",
@@ -231,6 +487,14 @@
         "en": "Tilburg University",
         "nl": "Tilburg University"
     },
+    "https://sts.windows.net/8171367b-3418-48da-a7bb-9dc1d300c5e8/": {
+        "en": "SaNS Expertisecentrum",
+        "nl": "SaNS Expertisecentrum"
+    },
+    "https://sts.windows.net/81e63bdd-534e-4aaf-855a-4c017eec7126/": {
+        "en": "NWO",
+        "nl": "NWO"
+    },
     "https://sts.windows.net/850f9344-e078-467e-9c5e-84d82f208ac7/": {
         "en": "University of Applied Sciences Leiden",
         "nl": "Hogeschool Leiden"
@@ -239,13 +503,37 @@
         "en": "Avans University of Applied Sciences",
         "nl": "Avans Hogeschool"
     },
+    "https://sts.windows.net/8b67724a-455a-4693-a3b5-5581d93a5e6e/": {
+        "en": "SRON Space Research Organisation Netherlands",
+        "nl": "SRON Space Research Organisation Netherlands"
+    },
+    "https://sts.windows.net/8cd24984-0aa3-4fc5-b09b-4d6ecfaa58fb/": {
+        "en": "Naturalis Biodiversity Center",
+        "nl": "Naturalis Biodiversity Center"
+    },
     "https://sts.windows.net/8e1dfee2-977a-438c-b35e-f5b6da84a174/": {
         "en": "Zuyd University of Applied Sciences",
         "nl": "Zuyd Hogeschool"
     },
+    "https://sts.windows.net/8e600f92-30df-4667-b7c0-3f2595f3f12b/": {
+        "en": "Mediacollege Amsterdam",
+        "nl": "Mediacollege Amsterdam"
+    },
+    "https://sts.windows.net/8f7e9345-716f-4f39-b3f8-2fff46aae97f/": {
+        "en": "Máxima MC",
+        "nl": "Máxima MC"
+    },
+    "https://sts.windows.net/910c787e-4fb6-4a2b-9563-777b5461517a/": {
+        "en": "Trimbos Instituut",
+        "nl": "Trimbos Instituut"
+    },
     "https://sts.windows.net/91eab56a-a91b-4c88-a4fb-eba5c3b4ebfd/": {
         "en": "Rijn IJssel",
         "nl": "Rijn IJssel"
+    },
+    "https://sts.windows.net/95b42833-48dc-4164-aa86-cba6390366e2/": {
+        "en": "Hoornbeeck College, Van Lodenstein College en SORG",
+        "nl": "Hoornbeeck College, Van Lodenstein College en SORG"
     },
     "https://sts.windows.net/9860fd9f-826f-475e-8862-6f2568a34e83/": {
         "en": "Driestar educatief",
@@ -255,6 +543,10 @@
         "en": "University of Applied Sciences Utrecht",
         "nl": "Hogeschool Utrecht"
     },
+    "https://sts.windows.net/99193bd4-318d-47c6-a896-24e15f7a7e1b/": {
+        "en": "Royal Tropical Institute",
+        "nl": "Koninklijk Instituut voor de Tropen"
+    },
     "https://sts.windows.net/9a1651bf-58af-435b-86a8-3e9334b4b732/": {
         "en": "Royal Netherlands Institute for Sea Research (NIOZ)",
         "nl": "Koninklijk Nederlands Instituut voor Onderzoek der Zee (NIOZ)"
@@ -262,6 +554,14 @@
     "https://sts.windows.net/9a3bffad-fdf2-4666-a810-47806f5cd5e5/": {
         "en": "Hogeschool Viaa",
         "nl": "Hogeschool Viaa"
+    },
+    "https://sts.windows.net/9ddb2f6b-ed26-456a-8680-3b375cbad516/": {
+        "en": "Van Gogh Museum",
+        "nl": "Van Gogh Museum"
+    },
+    "https://sts.windows.net/9e1bc3f2-7f34-4476-9dc5-0946672d5de5/": {
+        "en": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)",
+        "nl": "SOMT University (Stichting Opleidingen Musculoskeletale Therapie)"
     },
     "https://sts.windows.net/a14653ff-92fa-4118-baad-d798b2bf263c/": {
         "en": "Hogeschool de Kempel",
@@ -275,13 +575,33 @@
         "en": "Hanze University of Applied Sciences",
         "nl": "Hanze"
     },
+    "https://sts.windows.net/a55886c4-2e41-4058-8118-ddeff4e87eec/": {
+        "en": "Elisabeth TweeSteden Ziekenhuis",
+        "nl": "Elisabeth TweeSteden Ziekenhuis"
+    },
+    "https://sts.windows.net/a5e4637f-71f0-40bb-b540-aabca71204f3/": {
+        "en": "Integraal Kankercentrum Nederland",
+        "nl": "Integraal Kankercentrum Nederland"
+    },
+    "https://sts.windows.net/a5e979d8-8360-45bb-8ad6-7632c0fd5e90/": {
+        "en": "Politieacademie",
+        "nl": "Politieacademie"
+    },
     "https://sts.windows.net/a77b0754-fdc1-4a62-972c-8425ffbfcbd2/": {
         "en": "Saxion University of Applied Sciences",
         "nl": "Saxion Hogeschool"
     },
+    "https://sts.windows.net/a8294dac-16db-4321-836a-c3caa9c7a8a6/": {
+        "en": "KWR Water Research Institute",
+        "nl": "KWR Water Research Institute"
+    },
     "https://sts.windows.net/aabe793f-b39c-440c-8e1a-0dcfb6215609/": {
         "en": "Codarts University of the Arts",
         "nl": "Codarts Hogeschool voor de Kunsten"
+    },
+    "https://sts.windows.net/ac4b0eb0-811e-4ab0-acca-8a87079290dc/": {
+        "en": "Netherlands Institute for Neuroscience (KNAW)",
+        "nl": "Nederlands Herseninstituut (KNAW)"
     },
     "https://sts.windows.net/ad78d191-1044-4303-8212-b6f4dd7874bc/": {
         "en": "Inholland University of Applied Sciences",
@@ -291,17 +611,61 @@
         "en": "MBO Utrecht",
         "nl": "MBO Utrecht"
     },
+    "https://sts.windows.net/afcef57b-34f4-40ca-88b7-384dcd269982/": {
+        "en": "Forum Groningen",
+        "nl": "Forum Groningen"
+    },
+    "https://sts.windows.net/b208fe69-471e-48c4-8d87-025e9b9a157f/": {
+        "en": "Radboudumc",
+        "nl": "Radboudumc"
+    },
     "https://sts.windows.net/b22efcc5-4674-4e3c-83e4-0a9982ce09cd/": {
         "en": "Hout- en Meubileringscollege",
         "nl": "Hout- en Meubileringscollege"
+    },
+    "https://sts.windows.net/b32e5641-874d-4ad1-901d-fc4ed23ae3e4/": {
+        "en": "HBO Academy",
+        "nl": "HBO Academy"
+    },
+    "https://sts.windows.net/b3b856ea-0398-4010-81aa-c916cb0e3647/": {
+        "en": "Hubrecht Institute & Westerdijk Fungal Biodiversity Institute (KNAW)",
+        "nl": "Hubrecht Institute & Westerdijk Fungal Biodiversity Institute (KNAW)"
+    },
+    "https://sts.windows.net/b3f1b7b8-2918-4c5d-8d58-7c3241c605d4/": {
+        "en": "ROC Mondriaan",
+        "nl": "ROC Mondriaan"
+    },
+    "https://sts.windows.net/b50ab01a-ef48-493a-95bb-0002f26d02a1/": {
+        "en": "Rijnstate Ziekenhuis",
+        "nl": "Rijnstate Ziekenhuis"
     },
     "https://sts.windows.net/b5c9c18a-44f0-434b-85fb-951322bf0eac/": {
         "en": "ROC Midden Nederland",
         "nl": "ROC Midden Nederland"
     },
+    "https://sts.windows.net/b68c2ced-8d38-4920-966e-d2e010440020/": {
+        "en": "Dienst Uitvoering Onderwijs",
+        "nl": "Dienst Uitvoering Onderwijs"
+    },
+    "https://sts.windows.net/b79a547e-3653-4501-b7db-1368c2807f47/": {
+        "en": "Biblionet Groningen",
+        "nl": "Biblionet Groningen"
+    },
+    "https://sts.windows.net/b81dfe70-804c-42e6-ae4e-0488ad42976f/": {
+        "en": "Museon-Omniversum",
+        "nl": "Museon-Omniversum"
+    },
     "https://sts.windows.net/bbf63f12-ffda-40f9-93ee-a4e59d1649cf/": {
         "en": "ROC van Twente",
         "nl": "ROC van Twente"
+    },
+    "https://sts.windows.net/bc851b19-33cd-4f49-9d20-af45e899437b/": {
+        "en": "Leidse Instrumentmakers School",
+        "nl": "Leidse Instrumentmakers School"
+    },
+    "https://sts.windows.net/c2ae7a8e-69db-4c87-834a-ed5cffd8b353/": {
+        "en": "Coöperatie KIEN",
+        "nl": "Coöperatie KIEN"
     },
     "https://sts.windows.net/c2e4234e-9ccc-490e-8151-acd2ed2b1779/": {
         "en": "ArtEZ University of the Arts",
@@ -311,6 +675,14 @@
         "en": "Fontys University of Applied Sciences",
         "nl": "Fontys Hogeschool"
     },
+    "https://sts.windows.net/c7a0410b-695b-4223-af74-d14c2e7652e8/": {
+        "en": "Netherlands Institute of Ecology NIOO (KNAW)",
+        "nl": "Nederlands Instituut voor Ecologie NIOO (KNAW)"
+    },
+    "https://sts.windows.net/c908cc46-554c-4131-8653-45522e68e291/": {
+        "en": "ROC van Amsterdam - Flevoland en het VOvA",
+        "nl": "ROC van Amsterdam - Flevoland en het VOvA"
+    },
     "https://sts.windows.net/cc7df247-60ce-4a0f-9d75-704cf60efc64/": {
         "en": "Eindhoven University of Technology",
         "nl": "Technische Universiteit Eindhoven"
@@ -318,6 +690,10 @@
     "https://sts.windows.net/cc9f232a-9851-46b0-b23e-641d680590df/": {
         "en": "HAS green academy",
         "nl": "HAS green academy"
+    },
+    "https://sts.windows.net/d0ae735b-a57c-432a-aa2d-892814aa457c/": {
+        "en": "COG Vallei & Gelderland - Midden",
+        "nl": "COG Vallei & Gelderland - Midden"
     },
     "https://sts.windows.net/d2db7865-e8bb-4391-b92a-4a78c1dbdb3a/": {
         "en": "ROC Rivor",
@@ -327,6 +703,22 @@
         "en": "Theological University Utrecht",
         "nl": "Theologische Universiteit Utrecht"
     },
+    "https://sts.windows.net/dde1db61-6b33-4eef-81d9-cdc6c9392571/": {
+        "en": "mboRijnland",
+        "nl": "mboRijnland"
+    },
+    "https://sts.windows.net/dde2f31a-0733-4e4e-8460-14217d31ded5/": {
+        "en": "Netherlands Institute for Health Services Research (NIVEL)",
+        "nl": "Nederlands instituut voor onderzoek van de gezondheidszorg (NIVEL)"
+    },
+    "https://sts.windows.net/ddf292db-23df-4367-b11b-bd324b58e5bb/": {
+        "en": "Cito",
+        "nl": "Cito"
+    },
+    "https://sts.windows.net/de1fb6ee-54ae-40a2-8c2a-0cfdee0c7a03/": {
+        "en": "Salta Group (Employees)",
+        "nl": "Salta Group (Medewerkers)"
+    },
     "https://sts.windows.net/e3b461c3-cfd0-4566-b686-df4ec047ebd8/": {
         "en": "Zadkine",
         "nl": "Zadkine"
@@ -335,9 +727,29 @@
         "en": "Thomas More Hogeschool",
         "nl": "Thomas More Hogeschool"
     },
+    "https://sts.windows.net/e8e5eb49-74bd-45b9-905a-1193cb5a9913/": {
+        "en": "Landstede Groep (Landstede MBO, mbo Menso Alting, CSE Topsportacademie, StartCollege)",
+        "nl": "Landstede Groep (Landstede MBO, mbo Menso Alting, CSE Topsportacademie, StartCollege)"
+    },
+    "https://sts.windows.net/ea39d597-c395-4a33-b8bc-2c01f8e147e5/": {
+        "en": "Centerdata",
+        "nl": "Centerdata"
+    },
     "https://sts.windows.net/ea8750c8-e3f4-4ff5-a43f-e8820be09f7e/": {
         "en": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)",
         "nl": "Koninklijke Nederlandse Akademie van Wetenschappen (KNAW)"
+    },
+    "https://sts.windows.net/ed9f3ca1-097f-493e-a129-5002e9c16d65/": {
+        "en": "Princess Máxima Center",
+        "nl": "Prinses Máxima Centrum"
+    },
+    "https://sts.windows.net/f0b5af24-fc09-4438-91e8-5b3d4d1742be/": {
+        "en": "Algemene Onderwijsbond",
+        "nl": "Algemene Onderwijsbond"
+    },
+    "https://sts.windows.net/f8275f3b-e146-4fc6-8151-56fef93f3c06/": {
+        "en": "Artemis Academie",
+        "nl": "Artemis Academie"
     },
     "https://sts.windows.net/fba70c80-16c2-4415-a402-fca38335609a/": {
         "en": "Yuverta",
@@ -350,5 +762,9 @@
     "https://sts.windows.net/ff56fa76-957f-4630-9137-388f9de7f854/": {
         "en": "Marnix Academie",
         "nl": "Marnix Academie"
+    },
+    "https://www.mijnnti.nl/saml/saml2/idp/metadata.php": {
+        "en": "NTI",
+        "nl": "NTI"
     }
 }
