@@ -982,6 +982,10 @@
             "en": "IPE - Instituto de Pesquisas Eldorado",
             "pt-br": "IPE - Instituto de Pesquisas Eldorado"
         },
+        "https://cafe.embrapa.br/idp/shibboleth": {
+            "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
+            "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
+        },
         "https://cafe.esg.br/idp/shibboleth": {
             "en": "ESG - Escola Superior de Guerra",
             "pt-br": "ESG - Escola Superior de Guerra"
@@ -1117,10 +1121,6 @@
         "https://cafe.sbc.org.br/idp/shibboleth": {
             "en": "SBC - Sociedade Brasileira de Computacao",
             "pt-br": "SBC - Sociedade Brasileira de Computacao"
-        },
-        "https://cafe.sede.embrapa.br/idp/shibboleth": {
-            "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
-            "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
         },
         "https://cafe.sgb.gov.br/idp/shibboleth": {
             "en": "SGB - Servico Geologico do Brasil",
@@ -1422,10 +1422,6 @@
             "en": "IFGOIANO - Instituto Federal Goiano",
             "pt-br": "IFGOIANO - Instituto Federal Goiano"
         },
-        "https://idp-cafe.ifs.edu.br/idp/shibboleth": {
-            "en": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe",
-            "pt-br": "IFS - Instituto Federal de Educacao, Ciencia e Tecnologia do Sergipe"
-        },
         "https://idp-cafe.inma.gov.br/idp/shibboleth": {
             "en": "INMA - Instituto Nacional da Mata Atlantica",
             "pt-br": "INMA - Instituto Nacional da Mata Atlantica"
@@ -1569,6 +1565,10 @@
         "https://idp.ifpa.edu.br/idp/shibboleth": {
             "en": "IFPA - Instituto Federal do Para",
             "pt-br": "IFPA - Instituto Federal do Para"
+        },
+        "https://idp.ifs.edu.br/idp/shibboleth": {
+            "en": "IFS - Instituto Federal de Sergipe",
+            "pt-br": "IFS - Instituto Federal de Sergipe"
         },
         "https://idp.ifsuldeminas.edu.br/idp/shibboleth": {
             "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
@@ -20389,6 +20389,9 @@
         },
         "http://bcadfs.bridgewater.edu/adfs/services/trust": {
             "en": "Bridgewater College"
+        },
+        "http://federate.bsu.edu/sso": {
+            "en": "Ball State  University"
         },
         "http://fs.albmolecular.com/adfs/services/trust": {
             "en": "Curia Global, Inc."
