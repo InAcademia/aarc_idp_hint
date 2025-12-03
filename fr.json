@@ -343,6 +343,10 @@
         "en": "university of Montpellier 3",
         "fr": "Université Paul-Valéry Montpellier 3"
     },
+    "https://idp.assas-universite.fr/idp/shibboleth": {
+        "en": "Université Paris-Panthéon-Assas",
+        "fr": "Université Paris-Panthéon-Assas"
+    },
     "https://idp.beauxartsnantes.fr/idp/shibboleth": {
         "en": "Ecole des beaux-arts de Nantes Saint-Nazaire",
         "fr": "Ecole des beaux-arts de Nantes Saint-Nazaire"

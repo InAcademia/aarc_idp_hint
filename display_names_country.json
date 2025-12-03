@@ -982,10 +982,6 @@
             "en": "IPE - Instituto de Pesquisas Eldorado",
             "pt-br": "IPE - Instituto de Pesquisas Eldorado"
         },
-        "https://cafe.embrapa.br/idp/shibboleth": {
-            "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
-            "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
-        },
         "https://cafe.esg.br/idp/shibboleth": {
             "en": "ESG - Escola Superior de Guerra",
             "pt-br": "ESG - Escola Superior de Guerra"
@@ -1121,6 +1117,10 @@
         "https://cafe.sbc.org.br/idp/shibboleth": {
             "en": "SBC - Sociedade Brasileira de Computacao",
             "pt-br": "SBC - Sociedade Brasileira de Computacao"
+        },
+        "https://cafe.sede.embrapa.br/idp/shibboleth": {
+            "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
+            "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
         },
         "https://cafe.sgb.gov.br/idp/shibboleth": {
             "en": "SGB - Servico Geologico do Brasil",
@@ -1441,6 +1441,10 @@
         "https://idp-cafe.uea.edu.br/idp/shibboleth": {
             "en": "UEA - Universidade do Estado do Amazonas",
             "pt-br": "UEA - Universidade do Estado do Amazonas"
+        },
+        "https://idp-cafe.ufcspa.edu.br/idp/shibboleth": {
+            "en": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre",
+            "pt-br": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre"
         },
         "https://idp-cafe.ufpb.br/idp/shibboleth": {
             "en": "UFPB - Universidade Federal da Paraiba",
@@ -1790,6 +1794,10 @@
             "en": "UFF - Universidade Federal Fluminense",
             "pt-br": "UFF - Universidade Federal Fluminense"
         },
+        "https://idpcafe.ufj.edu.br/idp/shibboleth": {
+            "en": "UFJ - Universidade Federal de Jatai",
+            "pt-br": "UFJ - Universidade Federal de Jatai"
+        },
         "https://idpcafe.ufscar.br/idp/shibboleth": {
             "en": "UFSCAR - Universidade Federal de Sao Carlos",
             "pt-br": "UFSCAR - Universidade Federal de Sao Carlos"
@@ -2009,10 +2017,6 @@
         "https://shibboleth.ufersa.edu.br/idp/shibboleth": {
             "en": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI ARIDO",
             "pt-br": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI ARIDO"
-        },
-        "https://shibboleth.ufj.edu.br/idp/shibboleth": {
-            "en": "UFJ - Universidade Federal de Jatai",
-            "pt-br": "UFJ - Universidade Federal de Jatai"
         },
         "https://shibboleth.ufma.br/idp/shibboleth": {
             "en": "UFMA - Universidade Federal do Maranhao",
@@ -9534,6 +9538,10 @@
             "en": "university of Montpellier 3",
             "fr": "Université Paul-Valéry Montpellier 3"
         },
+        "https://idp.assas-universite.fr/idp/shibboleth": {
+            "en": "Université Paris-Panthéon-Assas",
+            "fr": "Université Paris-Panthéon-Assas"
+        },
         "https://idp.beauxartsnantes.fr/idp/shibboleth": {
             "en": "Ecole des beaux-arts de Nantes Saint-Nazaire",
             "fr": "Ecole des beaux-arts de Nantes Saint-Nazaire"
@@ -11188,7 +11196,7 @@
             "hu": "Eszterházy Károly Katolikus Egyetem"
         },
         "https://idp.uni-nke.hu/simplesaml/saml2/idp/metadata.php": {
-            "en": "University of Public Service",
+            "en": "Ludovika University of Public Service",
             "hu": "Nemzeti Közszolgálati Egyetem"
         },
         "https://idp.uni-obuda.hu/saml2/saml2/idp/metadata.php": {
@@ -11779,6 +11787,9 @@
         },
         "https://idp.karunya.edu/idp/shibboleth": {
             "en": "Karunya Institute of Technology and Sciences (Deemed University)"
+        },
+        "https://idp.kbvsasun.ac.in/idp/shibboleth": {
+            "en": "Kumar Bhaskar Varma Sanskrit And Ancient Studies University"
         },
         "https://idp.kcesmjc.in/idp/shibboleth": {
             "en": "KCE's M. J. College, Jalgaon"
