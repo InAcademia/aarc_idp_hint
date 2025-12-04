@@ -1169,6 +1169,9 @@
     "https://sso.floridapoly.edu/idp": {
         "en": "Florida Polytechnic University"
     },
+    "https://sso.fvsu.edu/idp": {
+        "en": "Fort Valley State University"
+    },
     "https://sso.gac.edu/idp/shibboleth": {
         "en": "Gustavus Adolphus College"
     },

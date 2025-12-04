@@ -359,6 +359,9 @@
     "https://idp.jklu.edu.in/idp/shibboleth": {
         "en": "JK Lakshmipat University"
     },
+    "https://idp.jncu.ac.in/idp/shibboleth": {
+        "en": "Jananayak chandrashekhar University"
+    },
     "https://idp.jnu.ac.in/idp/shibboleth": {
         "en": "Jawaharlal Nehru University"
     },
