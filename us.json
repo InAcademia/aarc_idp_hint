@@ -1058,6 +1058,9 @@
     "https://shibidp.colostate.edu/idp/shibboleth": {
         "en": "Colorado State University System"
     },
+    "https://shibidp.fdu.edu/idp/shibboleth": {
+        "en": "Fairleigh_Dickinson_University"
+    },
     "https://shibidp.ku.edu/idp/shibboleth": {
         "en": "University of Kansas"
     },

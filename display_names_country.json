@@ -7326,8 +7326,8 @@
             "en": "Max-Planck-Institute for Astronomy (MPIA)"
         },
         "https://shib.ph-heidelberg.de/idp/shibboleth": {
-            "de": "Pädagogische Hochschule Heidelberg",
-            "en": "Pädagogische Hochschule Heidelberg"
+            "de": "Pädagogische Hochschule Heidelberg (PHH)",
+            "en": "Pädagogische Hochschule Heidelberg (PHH)"
         },
         "https://shib.rsh-duesseldorf.de/idp": {
             "de": "Robert Schumann Hochschule Düsseldorf",
@@ -13078,6 +13078,10 @@
             "en": "Japan Coast Guard Academy",
             "ja": "海上保安大学校"
         },
+        "https://idp.kanagawa-u.ac.jp/idp/shibboleth": {
+            "en": "Kanagawa University",
+            "ja": "神奈川大学"
+        },
         "https://idp.kek.jp/idp/shibboleth": {
             "en": "High Energy Accelerator Research Organization",
             "ja": "高エネルギー加速器研究機構"
@@ -13945,7 +13949,8 @@
             "en": "Ss. Cyril and Methodius University in Skopje"
         },
         "https://idp.uklo.edu.mk/realms/UKLO": {
-            "en": "https://idp.uklo.edu.mk/realms/UKLO"
+            "en": "University St. Kliment Ohridski - Bitola",
+            "mk": "Универзитет Св. Климент Охридски - Битола"
         }
     },
     "mt": {
@@ -21442,6 +21447,9 @@
         },
         "https://shibidp.colostate.edu/idp/shibboleth": {
             "en": "Colorado State University System"
+        },
+        "https://shibidp.fdu.edu/idp/shibboleth": {
+            "en": "Fairleigh_Dickinson_University"
         },
         "https://shibidp.ku.edu/idp/shibboleth": {
             "en": "University of Kansas"

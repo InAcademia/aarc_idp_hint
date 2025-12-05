@@ -182,6 +182,10 @@
         "en": "Japan Coast Guard Academy",
         "ja": "海上保安大学校"
     },
+    "https://idp.kanagawa-u.ac.jp/idp/shibboleth": {
+        "en": "Kanagawa University",
+        "ja": "神奈川大学"
+    },
     "https://idp.kek.jp/idp/shibboleth": {
         "en": "High Energy Accelerator Research Organization",
         "ja": "高エネルギー加速器研究機構"
