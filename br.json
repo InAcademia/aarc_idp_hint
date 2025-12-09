@@ -635,10 +635,6 @@
         "en": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada",
         "pt-br": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada"
     },
-    "https://idp.cnen.gov.br/idp/shibboleth": {
-        "en": "CNEN - Comissao Nacional de Energia Nuclear",
-        "pt-br": "CNEN - Comissao Nacional de Energia Nuclear"
-    },
     "https://idp.dr.ufu.br/idp/shibboleth": {
         "en": "UFU - Universidade Federal de Uberlandia",
         "pt-br": "UFU - Universidade Federal de Uberlandia"
@@ -874,6 +870,10 @@
     "https://idp1.uepb.edu.br/idp/shibboleth": {
         "en": "UEPB - Universidade Estadual da Paraiba",
         "pt-br": "UEPB - Universidade Estadual da Paraiba"
+    },
+    "https://idp2.cnen.gov.br/idp/shibboleth": {
+        "en": "CNEN - Comissao Nacional de Energia Nuclear",
+        "pt-br": "CNEN - Comissao Nacional de Energia Nuclear"
     },
     "https://idp2.dmz.inpe.br/idp/shibboleth": {
         "en": "INPE - Instituto Nacional de Pesquisas Espaciais",

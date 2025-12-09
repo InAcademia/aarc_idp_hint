@@ -1514,10 +1514,6 @@
             "en": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada",
             "pt-br": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada"
         },
-        "https://idp.cnen.gov.br/idp/shibboleth": {
-            "en": "CNEN - Comissao Nacional de Energia Nuclear",
-            "pt-br": "CNEN - Comissao Nacional de Energia Nuclear"
-        },
         "https://idp.dr.ufu.br/idp/shibboleth": {
             "en": "UFU - Universidade Federal de Uberlandia",
             "pt-br": "UFU - Universidade Federal de Uberlandia"
@@ -1753,6 +1749,10 @@
         "https://idp1.uepb.edu.br/idp/shibboleth": {
             "en": "UEPB - Universidade Estadual da Paraiba",
             "pt-br": "UEPB - Universidade Estadual da Paraiba"
+        },
+        "https://idp2.cnen.gov.br/idp/shibboleth": {
+            "en": "CNEN - Comissao Nacional de Energia Nuclear",
+            "pt-br": "CNEN - Comissao Nacional de Energia Nuclear"
         },
         "https://idp2.dmz.inpe.br/idp/shibboleth": {
             "en": "INPE - Instituto Nacional de Pesquisas Espaciais",
@@ -14660,10 +14660,6 @@
             "en": "NRG PALLAS",
             "nl": "NRG PALLAS"
         },
-        "http://sts.amc.nl/adfs/services/trust": {
-            "en": "Academisch Medisch Centrum (AMC)",
-            "nl": "Academisch Medisch Centrum (AMC)"
-        },
         "http://sts.amsterdamumc.nl/adfs/services/trust": {
             "en": "Amsterdam UMC",
             "nl": "Amsterdam UMC"
@@ -14687,10 +14683,6 @@
         "http://sts.tno.nl/adfs/services/trust": {
             "en": "TNO Innovation for life",
             "nl": "TNO Innovation for life"
-        },
-        "http://sts.vumc.nl/adfs/services/trust": {
-            "en": "VU medisch centrum",
-            "nl": "VU medisch centrum"
         },
         "http://sts.windesheim.nl/adfs/services/trust": {
             "en": "University of Applied Sciences Windesheim",

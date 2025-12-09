@@ -147,10 +147,6 @@
         "en": "NRG PALLAS",
         "nl": "NRG PALLAS"
     },
-    "http://sts.amc.nl/adfs/services/trust": {
-        "en": "Academisch Medisch Centrum (AMC)",
-        "nl": "Academisch Medisch Centrum (AMC)"
-    },
     "http://sts.amsterdamumc.nl/adfs/services/trust": {
         "en": "Amsterdam UMC",
         "nl": "Amsterdam UMC"
@@ -174,10 +170,6 @@
     "http://sts.tno.nl/adfs/services/trust": {
         "en": "TNO Innovation for life",
         "nl": "TNO Innovation for life"
-    },
-    "http://sts.vumc.nl/adfs/services/trust": {
-        "en": "VU medisch centrum",
-        "nl": "VU medisch centrum"
     },
     "http://sts.windesheim.nl/adfs/services/trust": {
         "en": "University of Applied Sciences Windesheim",
