@@ -8,11 +8,8 @@
     "https://ntu.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
         "en": "NTU - Nanyang Technological University"
     },
-    "https://nus.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
-        "en": "NUS - National University of Singapore"
-    },
     "https://nusaz.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
-        "en": "NUS - New - National University of Singapore"
+        "en": "NUS - National University of Singapore"
     },
     "https://nyp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
         "en": "NYP - Nanyang Polytechnic"

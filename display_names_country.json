@@ -1398,10 +1398,6 @@
             "en": "IFAP - Instituto Federal do Amapa",
             "pt-br": "IFAP - Instituto Federal do Amapa"
         },
-        "https://idp-cafe-v2.uerj.br/idp/shibboleth": {
-            "en": "UERJ - Universidade do Estado do Rio de Janeiro",
-            "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
-        },
         "https://idp-cafe.cemaden.gov.br/idp/shibboleth": {
             "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
             "pt-br": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais"
@@ -1421,10 +1417,6 @@
         "https://idp-cafe.ifgoiano.edu.br/idp/shibboleth": {
             "en": "IFGOIANO - Instituto Federal Goiano",
             "pt-br": "IFGOIANO - Instituto Federal Goiano"
-        },
-        "https://idp-cafe.inma.gov.br/idp/shibboleth": {
-            "en": "INMA - Instituto Nacional da Mata Atlantica",
-            "pt-br": "INMA - Instituto Nacional da Mata Atlantica"
         },
         "https://idp-cafe.ird.gov.br/idp/shibboleth": {
             "en": "IRD - Instituto de Radioprotecao e Dosimetria",
@@ -1625,6 +1617,10 @@
         "https://idp.uems.br/idp/shibboleth": {
             "en": "UEMS - Universidade Estadual de Mato Grosso do Sul",
             "pt-br": "UEMS - Universidade Estadual de Mato Grosso do Sul"
+        },
+        "https://idp.uerj.br/idp/shibboleth": {
+            "en": "UERJ - Universidade do Estado do Rio de Janeiro",
+            "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
         },
         "https://idp.uesc.br/idp/shibboleth": {
             "en": "UESC - Universidade Estadual de Santa Cruz",
@@ -5544,10 +5540,6 @@
             "cs": "Vysoká škola finanční a správní",
             "en": "University of Finance and Administration"
         },
-        "https://idp.vupp.cz/idp/shibboleth": {
-            "cs": "Výzkumný ústav potravinářský Praha",
-            "en": "Food Research Institute Prague"
-        },
         "https://idp2.civ.cvut.cz/idp/shibboleth": {
             "cs": "České vysoké učení technické v Praze",
             "en": "Czech Technical University in Prague"
@@ -9289,6 +9281,10 @@
         "https://auth.id.sorbonne-universite.fr/saml/metadata": {
             "en": "Sorbonne University",
             "fr": "Sorbonne Université"
+        },
+        "https://auth.nuonet.fr": {
+            "en": "CNOUS - LesCrous",
+            "fr": "CNOUS - LesCrous"
         },
         "https://auth.sso.vet-alfort.fr/saml/metadata": {
             "en": "National Veterinary School of Alfort - EnvA",
@@ -13820,9 +13816,6 @@
         "https://sts.windows.net/487175ce-c313-4417-91bc-dc3b6721b8ee/": {
             "en": "LISER"
         },
-        "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/": {
-            "en": "https://sts.windows.net/88bc3da8-1f31-4852-ae88-6d08c88a70f7/"
-        },
         "urn:x-iam-education-lu:auth": {
             "en": "MENJE - CGIE IAM Users",
             "fr": "MENJE - CGIE IAM Utilisateurs"
@@ -16752,11 +16745,8 @@
         "https://ntu.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "NTU - Nanyang Technological University"
         },
-        "https://nus.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
-            "en": "NUS - National University of Singapore"
-        },
         "https://nusaz.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
-            "en": "NUS - New - National University of Singapore"
+            "en": "NUS - National University of Singapore"
         },
         "https://nyp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "NYP - Nanyang Polytechnic"

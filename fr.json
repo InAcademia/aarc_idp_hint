@@ -91,6 +91,10 @@
         "en": "Sorbonne University",
         "fr": "Sorbonne Université"
     },
+    "https://auth.nuonet.fr": {
+        "en": "CNOUS - LesCrous",
+        "fr": "CNOUS - LesCrous"
+    },
     "https://auth.sso.vet-alfort.fr/saml/metadata": {
         "en": "National Veterinary School of Alfort - EnvA",
         "fr": "Ecole Nationale Vétérinaire d'ALFORT - EnvA"

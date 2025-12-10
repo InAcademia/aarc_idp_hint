@@ -519,10 +519,6 @@
         "en": "IFAP - Instituto Federal do Amapa",
         "pt-br": "IFAP - Instituto Federal do Amapa"
     },
-    "https://idp-cafe-v2.uerj.br/idp/shibboleth": {
-        "en": "UERJ - Universidade do Estado do Rio de Janeiro",
-        "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
-    },
     "https://idp-cafe.cemaden.gov.br/idp/shibboleth": {
         "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
         "pt-br": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais"
@@ -542,10 +538,6 @@
     "https://idp-cafe.ifgoiano.edu.br/idp/shibboleth": {
         "en": "IFGOIANO - Instituto Federal Goiano",
         "pt-br": "IFGOIANO - Instituto Federal Goiano"
-    },
-    "https://idp-cafe.inma.gov.br/idp/shibboleth": {
-        "en": "INMA - Instituto Nacional da Mata Atlantica",
-        "pt-br": "INMA - Instituto Nacional da Mata Atlantica"
     },
     "https://idp-cafe.ird.gov.br/idp/shibboleth": {
         "en": "IRD - Instituto de Radioprotecao e Dosimetria",
@@ -746,6 +738,10 @@
     "https://idp.uems.br/idp/shibboleth": {
         "en": "UEMS - Universidade Estadual de Mato Grosso do Sul",
         "pt-br": "UEMS - Universidade Estadual de Mato Grosso do Sul"
+    },
+    "https://idp.uerj.br/idp/shibboleth": {
+        "en": "UERJ - Universidade do Estado do Rio de Janeiro",
+        "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
     },
     "https://idp.uesc.br/idp/shibboleth": {
         "en": "UESC - Universidade Estadual de Santa Cruz",
