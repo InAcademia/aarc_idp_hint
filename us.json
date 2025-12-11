@@ -273,7 +273,7 @@
         "en": "Gettysburg College SSO"
     },
     "https://identity.hmc.edu/idp": {
-        "en": "Harvey Mudd College"
+        "en": "Harvey Mudd College (RapidIdentity)"
     },
     "https://identity.research.gov/sso": {
         "en": "NSF (National Science Foundation ) Researcher Login"
@@ -1182,7 +1182,7 @@
         "en": "Grand Valley State University"
     },
     "https://sso.hmc.edu/idp": {
-        "en": "Harvey Mudd College (Cirrus)"
+        "en": "Harvey Mudd College"
     },
     "https://sso.humboldt.edu/idp/metadata": {
         "en": "Cal Poly Humboldt"

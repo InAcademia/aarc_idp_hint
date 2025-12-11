@@ -854,7 +854,7 @@
     "https://idp.idi.co.ug/idp/shibboleth": {
         "en": "Infectious Diseases Institute (IDI)"
     },
-    "https://idp.kab.ac.ug/idp/shibboleth": {
+    "https://idp.kab.ac.ug/simplesaml/module.php/saml/idp/metadata": {
         "en": "Kabale University"
     },
     "https://idp.kyu.ac.ug/idp/shibboleth": {

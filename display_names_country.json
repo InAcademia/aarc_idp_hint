@@ -1506,6 +1506,10 @@
             "en": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada",
             "pt-br": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada"
         },
+        "https://idp.cnen.gov.br/idp/shibboleth": {
+            "en": "CNEN - Comissao Nacional de Energia Nuclear",
+            "pt-br": "CNEN - Comissao Nacional de Energia Nuclear"
+        },
         "https://idp.dr.ufu.br/idp/shibboleth": {
             "en": "UFU - Universidade Federal de Uberlandia",
             "pt-br": "UFU - Universidade Federal de Uberlandia"
@@ -1745,10 +1749,6 @@
         "https://idp1.uepb.edu.br/idp/shibboleth": {
             "en": "UEPB - Universidade Estadual da Paraiba",
             "pt-br": "UEPB - Universidade Estadual da Paraiba"
-        },
-        "https://idp2.cnen.gov.br/idp/shibboleth": {
-            "en": "CNEN - Comissao Nacional de Energia Nuclear",
-            "pt-br": "CNEN - Comissao Nacional de Energia Nuclear"
         },
         "https://idp2.dmz.inpe.br/idp/shibboleth": {
             "en": "INPE - Instituto Nacional de Pesquisas Espaciais",
@@ -4889,6 +4889,10 @@
         "https://idp.zjsru.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Shuren University",
             "zh": "浙江树人学院(Zhejiang Shuren University)"
+        },
+        "https://idp.zjtie.edu.cn/idp/shibboleth": {
+            "en": "Zhejiang Technical Institute of Economics",
+            "zh": "浙江经济职业技术学院(Zhejiang Technical Institute of Economics)"
         },
         "https://idp.zjtu.edu.cn/idp/shibboleth": {
             "en": "Huanghe Jiaotong  University",
@@ -18594,7 +18598,7 @@
         "https://idp.idi.co.ug/idp/shibboleth": {
             "en": "Infectious Diseases Institute (IDI)"
         },
-        "https://idp.kab.ac.ug/idp/shibboleth": {
+        "https://idp.kab.ac.ug/simplesaml/module.php/saml/idp/metadata": {
             "en": "Kabale University"
         },
         "https://idp.kyu.ac.ug/idp/shibboleth": {
@@ -20645,7 +20649,7 @@
             "en": "Gettysburg College SSO"
         },
         "https://identity.hmc.edu/idp": {
-            "en": "Harvey Mudd College"
+            "en": "Harvey Mudd College (RapidIdentity)"
         },
         "https://identity.research.gov/sso": {
             "en": "NSF (National Science Foundation ) Researcher Login"
@@ -21554,7 +21558,7 @@
             "en": "Grand Valley State University"
         },
         "https://sso.hmc.edu/idp": {
-            "en": "Harvey Mudd College (Cirrus)"
+            "en": "Harvey Mudd College"
         },
         "https://sso.humboldt.edu/idp/metadata": {
             "en": "Cal Poly Humboldt"
