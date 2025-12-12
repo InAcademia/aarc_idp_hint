@@ -1178,10 +1178,6 @@
             "en": "UFOB - Universidade Federal do Oeste da Bahia",
             "pt-br": "UFOB - Universidade Federal do Oeste da Bahia"
         },
-        "https://cafe.ufpa.br/idp/shibboleth": {
-            "en": "UFPA - Universidade Federal do Para",
-            "pt-br": "UFPA - Universidade Federal do Para"
-        },
         "https://cafe.ufpel.edu.br/idp/shibboleth": {
             "en": "UFPEL - Universidade Federal de Pelotas",
             "pt-br": "UFPEL - Universidade Federal de Pelotas"
@@ -1289,6 +1285,10 @@
         "https://cafe2.unoeste.br/idp/shibboleth": {
             "en": "UNOESTE - Universidade do Oeste Paulista",
             "pt-br": "UNOESTE - Universidade do Oeste Paulista"
+        },
+        "https://cafe2022.lncc.br/idp/shibboleth": {
+            "en": "LNCC - Laboratorio Nacional de Computacao Cientifica",
+            "pt-br": "LNCC - Laboratorio Nacional de Computacao Cientifica"
         },
         "https://cafe4.udesc.br/idp/shibboleth": {
             "en": "UDESC - Universidade do Estado de Santa Catarina",
@@ -1645,6 +1645,10 @@
         "https://idp.ufjf.br/idp/shibboleth": {
             "en": "UFJF - Universidade Federal de Juiz de Fora",
             "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
+        },
+        "https://idp.ufpa.br/idp/shibboleth": {
+            "en": "UFPA - Universidade Federal do Para",
+            "pt-br": "UFPA - Universidade Federal do Para"
         },
         "https://idp.ufr.edu.br/idp/shibboleth": {
             "en": "UFR - Universidade Federal de Rondonopolis",
@@ -7916,6 +7920,10 @@
             "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
             "es": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia"
         },
+        "https://login.ces.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Consejo de Educacion Superior - ces",
+            "es": "Consejo de Educacion Superior - ces"
+        },
         "https://login.comunidadsanjuanbosco.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Comunidad San Juan Bosco - comunidadsanjuanbosco",
             "es": "Comunidad San Juan Bosco - comunidadsanjuanbosco"
@@ -11272,10 +11280,6 @@
         "http://adfs.edenireland.ie/adfs/services/trust": {
             "en": "Environmental Protection Agency"
         },
-        "https://edugate.itb.ie/idp/shibboleth": {
-            "en": "TU Dublin - Blanchardstown Campus",
-            "ga": "OT Baile Átha Cliath -  Campas Baile Bhlainséir"
-        },
         "https://hidp.ucc.ie/idp/shibboleth": {
             "en": "University College Cork",
             "ga": "Coláiste na hOllscoile Corcaigh"
@@ -11370,7 +11374,7 @@
             "en": "Technological Higher Education Association"
         },
         "https://idp.tudublin.ie/idp/shibboleth": {
-            "en": "TU Dublin (TU Dublin login)"
+            "en": "TU Dublin"
         },
         "https://idp.tus.ie/idp/shibboleth": {
             "en": "Technological University of the Shannon: Midlands Midwest"
@@ -16343,6 +16347,9 @@
             "en": "Petroleum Gas University of Ploiesti",
             "ro": "Universitatea Petrol-Gaze din Ploiesti"
         },
+        "https://idp.usamvcluj.ro/idp/shibboleth": {
+            "en": "USAMV Cluj-Napoca"
+        },
         "https://idp.usv.ro/simplesaml/saml2/idp/metadata.php": {
             "en": "Stefan cel Mare University of Suceava",
             "ro": "Universitatea Stefan cel Mare din Suceava"
@@ -17395,6 +17402,10 @@
         "https://kimlik.hitit.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Hitit University",
             "tr": "Hitit Üniversitesi"
+        },
+        "https://kimlik.ihu.edu.tr/idp/shibboleth": {
+            "en": "Ibn Haldun University",
+            "tr": "İbn Haldun Üniversitesi"
         },
         "https://kimlik.iste.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Iskenderun Technical University",

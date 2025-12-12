@@ -355,6 +355,10 @@
         "en": "Hitit University",
         "tr": "Hitit Üniversitesi"
     },
+    "https://kimlik.ihu.edu.tr/idp/shibboleth": {
+        "en": "Ibn Haldun University",
+        "tr": "İbn Haldun Üniversitesi"
+    },
     "https://kimlik.iste.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Iskenderun Technical University",
         "tr": "İskenderun Teknik Üniversitesi"

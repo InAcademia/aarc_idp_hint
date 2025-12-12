@@ -2,10 +2,6 @@
     "http://adfs.edenireland.ie/adfs/services/trust": {
         "en": "Environmental Protection Agency"
     },
-    "https://edugate.itb.ie/idp/shibboleth": {
-        "en": "TU Dublin - Blanchardstown Campus",
-        "ga": "OT Baile Átha Cliath -  Campas Baile Bhlainséir"
-    },
     "https://hidp.ucc.ie/idp/shibboleth": {
         "en": "University College Cork",
         "ga": "Coláiste na hOllscoile Corcaigh"
@@ -100,7 +96,7 @@
         "en": "Technological Higher Education Association"
     },
     "https://idp.tudublin.ie/idp/shibboleth": {
-        "en": "TU Dublin (TU Dublin login)"
+        "en": "TU Dublin"
     },
     "https://idp.tus.ie/idp/shibboleth": {
         "en": "Technological University of the Shannon: Midlands Midwest"

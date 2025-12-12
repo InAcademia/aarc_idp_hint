@@ -54,6 +54,9 @@
         "en": "Petroleum Gas University of Ploiesti",
         "ro": "Universitatea Petrol-Gaze din Ploiesti"
     },
+    "https://idp.usamvcluj.ro/idp/shibboleth": {
+        "en": "USAMV Cluj-Napoca"
+    },
     "https://idp.usv.ro/simplesaml/saml2/idp/metadata.php": {
         "en": "Stefan cel Mare University of Suceava",
         "ro": "Universitatea Stefan cel Mare din Suceava"

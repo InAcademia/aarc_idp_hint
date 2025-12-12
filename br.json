@@ -299,10 +299,6 @@
         "en": "UFOB - Universidade Federal do Oeste da Bahia",
         "pt-br": "UFOB - Universidade Federal do Oeste da Bahia"
     },
-    "https://cafe.ufpa.br/idp/shibboleth": {
-        "en": "UFPA - Universidade Federal do Para",
-        "pt-br": "UFPA - Universidade Federal do Para"
-    },
     "https://cafe.ufpel.edu.br/idp/shibboleth": {
         "en": "UFPEL - Universidade Federal de Pelotas",
         "pt-br": "UFPEL - Universidade Federal de Pelotas"
@@ -410,6 +406,10 @@
     "https://cafe2.unoeste.br/idp/shibboleth": {
         "en": "UNOESTE - Universidade do Oeste Paulista",
         "pt-br": "UNOESTE - Universidade do Oeste Paulista"
+    },
+    "https://cafe2022.lncc.br/idp/shibboleth": {
+        "en": "LNCC - Laboratorio Nacional de Computacao Cientifica",
+        "pt-br": "LNCC - Laboratorio Nacional de Computacao Cientifica"
     },
     "https://cafe4.udesc.br/idp/shibboleth": {
         "en": "UDESC - Universidade do Estado de Santa Catarina",
@@ -766,6 +766,10 @@
     "https://idp.ufjf.br/idp/shibboleth": {
         "en": "UFJF - Universidade Federal de Juiz de Fora",
         "pt-br": "UFJF - Universidade Federal de Juiz de Fora"
+    },
+    "https://idp.ufpa.br/idp/shibboleth": {
+        "en": "UFPA - Universidade Federal do Para",
+        "pt-br": "UFPA - Universidade Federal do Para"
     },
     "https://idp.ufr.edu.br/idp/shibboleth": {
         "en": "UFR - Universidade Federal de Rondonopolis",
