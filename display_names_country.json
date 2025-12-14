@@ -17745,12 +17745,13 @@
         "https://idp.chnu.edu.ua/simplesaml/saml2/idp/metadata.php": {
             "en": "Yuriy Fedkovych Chernivtsi National University"
         },
-        "https://idp.kubg.edu.ua/simplesaml/saml2/idp/metadata.php": {
-            "en": "Borys Grinchenko Kyiv Metropolitan University"
+        "https://idp.nure.ua/saml2/idp/metadata.php": {
+            "en": "Kharkiv National University of Radio Electronics",
+            "uk": "Харківський національний університет радіоелектроніки"
         },
         "https://idp.uran.ua/idp/shibboleth": {
-            "en": "URAN Association IdP",
-            "ru": "ÐÑÑÐ¾Ñ†Ð¸Ð°Ñ†Ð¸Ñ Ð£Ð ÐÐ IdP"
+            "en": "URAN Association",
+            "uk": "Асоціація УРАН"
         }
     },
     "ug": {
