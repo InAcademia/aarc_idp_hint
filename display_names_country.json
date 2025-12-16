@@ -1526,6 +1526,10 @@
             "en": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas",
             "pt-br": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas"
         },
+        "https://idp.fapepi.pi.gov.br/idp/shibboleth": {
+            "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui",
+            "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui"
+        },
         "https://idp.fasec.edu.br/idp/shibboleth": {
             "en": "FASEC - Faculdade Serra Do Carmo",
             "pt-br": "FASEC - Faculdade Serra Do Carmo"
@@ -1821,10 +1825,6 @@
         "https://idpcafe.usp.br/idp/shibboleth": {
             "en": "USP - Universidade de Sao Paulo",
             "pt-br": "USP - Universidade de Sao Paulo"
-        },
-        "https://idpfapepi.fapepi.pi.gov.br/idp/shibboleth": {
-            "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui",
-            "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui"
         },
         "https://idprpilot.univates.br/idp/shibboleth": {
             "en": "UNIVATES - Universidade do Vale do Taquari",
@@ -10282,10 +10282,6 @@
             "en": "Réseau Canopé",
             "fr": "Réseau Canopé"
         },
-        "https://shibboleth.u-bourgogne.fr/idp/shibboleth": {
-            "en": "Université de Bourgogne",
-            "fr": "Université de Bourgogne"
-        },
         "https://shibboleth.ube.fr/idp/shibboleth": {
             "en": "Université Bourgogne Europe",
             "fr": "Université Bourgogne Europe"
@@ -11549,6 +11545,9 @@
         },
         "https://idp.cottonuniversity.ac.in/idp/shibboleth": {
             "en": "cotton university"
+        },
+        "https://idp.cssscal.org/idp/shibboleth": {
+            "en": "The Centre for Studies in Social Sciences"
         },
         "https://idp.ctuap.ac.in/idp/shibboleth": {
             "en": "Central Tribal University of Andhra Pradesh (CTUAP)"
@@ -13781,10 +13780,6 @@
         "https://sso.lmta.lt/saml2/idp/metadata.php": {
             "en": "Lithuanian Academy of Music and Theatre",
             "lt": "Lietuvos muzikos ir teatro akademija"
-        },
-        "https://sso.vgtu.lt/saml2/idp/metadata.php": {
-            "en": "Vilnius Gediminas Technical University",
-            "lt": "Vilniaus Gedimino technikos universitetas"
         },
         "https://sso.vilniustech.lt/saml2/idp/metadata.php": {
             "en": "VilniusTech",
@@ -21202,6 +21197,9 @@
         },
         "https://myqlidp.fgcu.edu": {
             "en": "Florida Gulf Coast University"
+        },
+        "https://myqlidp.macalester.edu": {
+            "en": "Macalester College SSO"
         },
         "https://myqlidp.marin.edu": {
             "en": "College of Marin"

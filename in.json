@@ -137,6 +137,9 @@
     "https://idp.cottonuniversity.ac.in/idp/shibboleth": {
         "en": "cotton university"
     },
+    "https://idp.cssscal.org/idp/shibboleth": {
+        "en": "The Centre for Studies in Social Sciences"
+    },
     "https://idp.ctuap.ac.in/idp/shibboleth": {
         "en": "Central Tribal University of Andhra Pradesh (CTUAP)"
     },

@@ -647,6 +647,10 @@
         "en": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas",
         "pt-br": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas"
     },
+    "https://idp.fapepi.pi.gov.br/idp/shibboleth": {
+        "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui",
+        "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui"
+    },
     "https://idp.fasec.edu.br/idp/shibboleth": {
         "en": "FASEC - Faculdade Serra Do Carmo",
         "pt-br": "FASEC - Faculdade Serra Do Carmo"
@@ -942,10 +946,6 @@
     "https://idpcafe.usp.br/idp/shibboleth": {
         "en": "USP - Universidade de Sao Paulo",
         "pt-br": "USP - Universidade de Sao Paulo"
-    },
-    "https://idpfapepi.fapepi.pi.gov.br/idp/shibboleth": {
-        "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui",
-        "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Estado do Piaui"
     },
     "https://idprpilot.univates.br/idp/shibboleth": {
         "en": "UNIVATES - Universidade do Vale do Taquari",
