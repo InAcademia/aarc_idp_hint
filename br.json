@@ -79,6 +79,10 @@
         "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
         "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
     },
+    "https://cafe.cecierj.edu.br/idp/shibboleth": {
+        "en": "CECIERJ - Fundacao Centro de Ciencias e Educacao Superior a Distancia do Estado do Rio de Janeiro",
+        "pt-br": "CECIERJ - Fundacao Centro de Ciencias e Educacao Superior a Distancia do Estado do Rio de Janeiro"
+    },
     "https://cafe.cefet-rj.br/idp/shibboleth": {
         "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
         "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
@@ -327,10 +331,6 @@
         "en": "UNDF - Universidade do Distrito Federal",
         "pt-br": "UNDF - Universidade do Distrito Federal"
     },
-    "https://cafe.uneal.edu.br/idp/shibboleth": {
-        "en": "UNEAL - Universidade Estadual de Alagoas",
-        "pt-br": "UNEAL - Universidade Estadual de Alagoas"
-    },
     "https://cafe.unemat.br/idp/shibboleth": {
         "en": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso",
         "pt-br": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso"
@@ -390,10 +390,6 @@
     "https://cafe02.ifes.edu.br/idp/shibboleth": {
         "en": "IFES - Instituto Federal do Espirito Santo",
         "pt-br": "IFES - Instituto Federal do Espirito Santo"
-    },
-    "https://cafe2.cecierj.edu.br/idp/shibboleth": {
-        "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
-        "pt-br": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ"
     },
     "https://cafe2.unesp.br/idp/shibboleth": {
         "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
@@ -614,6 +610,10 @@
     "https://idp-v421.ifsp.edu.br/idp/shibboleth": {
         "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
         "pt-br": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo"
+    },
+    "https://idp.cafe.uneal.edu.br/idp/shibboleth": {
+        "en": "UNEAL - Universidade Estadual de Alagoas",
+        "pt-br": "UNEAL - Universidade Estadual de Alagoas"
     },
     "https://idp.capes.gov.br/idp/shibboleth": {
         "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior",

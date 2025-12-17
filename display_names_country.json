@@ -958,6 +958,10 @@
             "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
             "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
         },
+        "https://cafe.cecierj.edu.br/idp/shibboleth": {
+            "en": "CECIERJ - Fundacao Centro de Ciencias e Educacao Superior a Distancia do Estado do Rio de Janeiro",
+            "pt-br": "CECIERJ - Fundacao Centro de Ciencias e Educacao Superior a Distancia do Estado do Rio de Janeiro"
+        },
         "https://cafe.cefet-rj.br/idp/shibboleth": {
             "en": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca",
             "pt-br": "CEFET-RJ - Centro Fed. Educ. Tecnol. Celso S. Fonseca"
@@ -1206,10 +1210,6 @@
             "en": "UNDF - Universidade do Distrito Federal",
             "pt-br": "UNDF - Universidade do Distrito Federal"
         },
-        "https://cafe.uneal.edu.br/idp/shibboleth": {
-            "en": "UNEAL - Universidade Estadual de Alagoas",
-            "pt-br": "UNEAL - Universidade Estadual de Alagoas"
-        },
         "https://cafe.unemat.br/idp/shibboleth": {
             "en": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso",
             "pt-br": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso"
@@ -1269,10 +1269,6 @@
         "https://cafe02.ifes.edu.br/idp/shibboleth": {
             "en": "IFES - Instituto Federal do Espirito Santo",
             "pt-br": "IFES - Instituto Federal do Espirito Santo"
-        },
-        "https://cafe2.cecierj.edu.br/idp/shibboleth": {
-            "en": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ",
-            "pt-br": "CECIERJ - Centro de Ciencias e Edu. a Distancia do RJ"
         },
         "https://cafe2.unesp.br/idp/shibboleth": {
             "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
@@ -1493,6 +1489,10 @@
         "https://idp-v421.ifsp.edu.br/idp/shibboleth": {
             "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
             "pt-br": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo"
+        },
+        "https://idp.cafe.uneal.edu.br/idp/shibboleth": {
+            "en": "UNEAL - Universidade Estadual de Alagoas",
+            "pt-br": "UNEAL - Universidade Estadual de Alagoas"
         },
         "https://idp.capes.gov.br/idp/shibboleth": {
             "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior",
@@ -4909,10 +4909,6 @@
         "https://idp.zjut.edu.cn/idp/shibboleth": {
             "en": "Zhejiang University of Technology",
             "zh": "浙江工业大学(Zhejiang University of Technology)"
-        },
-        "https://idp.zjweu.edu.cn/idp/shibboleth": {
-            "en": "Zhejiang University of Water Resources and Electric Power",
-            "zh": "浙江水利水电学院(Zhejiang University of Water Resources and Electric Power)"
         },
         "https://idp.zknu.edu.cn/idp/shibboleth": {
             "en": "Zhoukou Normal University",
@@ -11474,6 +11470,9 @@
         "https://idp.anits.edu.in/idp/shibboleth": {
             "en": "Anil Neerukonda Institute of Technology and Sciences"
         },
+        "https://idp.annamalaiuniversity.ac.in/idp/shibboleth": {
+            "en": "Annamalai University"
+        },
         "https://idp.annauniv.edu/idp/shibboleth": {
             "en": "Anna University"
         },
@@ -13780,6 +13779,10 @@
         "https://sso.lmta.lt/saml2/idp/metadata.php": {
             "en": "Lithuanian Academy of Music and Theatre",
             "lt": "Lietuvos muzikos ir teatro akademija"
+        },
+        "https://sso.vgtu.lt/saml2/idp/metadata.php": {
+            "en": "Vilnius Gediminas Technical University",
+            "lt": "Vilniaus Gedimino technikos universitetas"
         },
         "https://sso.vilniustech.lt/saml2/idp/metadata.php": {
             "en": "VilniusTech",
@@ -18625,6 +18628,9 @@
         },
         "https://idp.renu.ac.ug/shibboleth": {
             "en": "Research and Education Network for Uganda"
+        },
+        "https://idp.slau.ac.ug/idp/shibboleth": {
+            "en": "St. Lawrence University  (SLAU)"
         },
         "https://idp.ucu.ac.ug/shibboleth": {
             "en": "Uganda Christian University"
