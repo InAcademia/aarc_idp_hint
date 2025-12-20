@@ -188,6 +188,9 @@
     "https://idp.dhsgsu.edu.in/idp/shibboleth": {
         "en": "Dr. Harisingh Gour Vishwavidyalaya"
     },
+    "https://idp.dmu.ac.in/idp/shibboleth": {
+        "en": "Dhanamanjuri University(DMU)"
+    },
     "https://idp.du.ac.in/idp/shibboleth": {
         "en": "University of Delhi"
     },
