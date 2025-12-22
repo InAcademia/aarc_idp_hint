@@ -35,11 +35,17 @@
     "https://idp.iiuc.ac.bd/idp/shibboleth": {
         "en": "International Islamic University Chittagong"
     },
+    "https://idp.iubat.edu/idp/shibboleth": {
+        "en": "International University of Business Agriculture and Technology (IUBAT)"
+    },
     "https://idp.juniv.edu/idp/shibboleth": {
         "en": "Jahangirnagar University"
     },
     "https://idp.just.edu.bd/idp/shibboleth": {
         "en": "Jashore University of Science and Technology"
+    },
+    "https://idp.ku.ac.bd/idp/shibboleth": {
+        "en": "Khulna University (KU)"
     },
     "https://idp.kuet.ac.bd/idp/shibboleth": {
         "en": "Khulna University of Engineering and Technology"

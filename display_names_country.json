@@ -521,11 +521,17 @@
         "https://idp.iiuc.ac.bd/idp/shibboleth": {
             "en": "International Islamic University Chittagong"
         },
+        "https://idp.iubat.edu/idp/shibboleth": {
+            "en": "International University of Business Agriculture and Technology (IUBAT)"
+        },
         "https://idp.juniv.edu/idp/shibboleth": {
             "en": "Jahangirnagar University"
         },
         "https://idp.just.edu.bd/idp/shibboleth": {
             "en": "Jashore University of Science and Technology"
+        },
+        "https://idp.ku.ac.bd/idp/shibboleth": {
+            "en": "Khulna University (KU)"
         },
         "https://idp.kuet.ac.bd/idp/shibboleth": {
             "en": "Khulna University of Engineering and Technology"
@@ -13239,6 +13245,10 @@
         "https://jaxagakunin.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "Japan Aerospace Exploration Agency",
             "ja": "宇宙航空研究開発機構"
+        },
+        "https://jrccn.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Japanese Red Cross College of Nursing",
+            "ja": "日本赤十字看護大学"
         },
         "https://jwu.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "Japan Women's University",

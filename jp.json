@@ -338,6 +338,10 @@
         "en": "Japan Aerospace Exploration Agency",
         "ja": "宇宙航空研究開発機構"
     },
+    "https://jrccn.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Japanese Red Cross College of Nursing",
+        "ja": "日本赤十字看護大学"
+    },
     "https://jwu.ex-tic.com/auth/gakunin/saml2/assertions": {
         "en": "Japan Women's University",
         "ja": "日本女子大学"
