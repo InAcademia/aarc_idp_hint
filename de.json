@@ -715,6 +715,10 @@
         "de": "Leibniz-Institut für Wissensmedien",
         "en": "Leibniz-Institut fuer Wissensmedien"
     },
+    "https://idp.karlshochschule.de/idp/shibboleth": {
+        "de": "Karlshochschule International University",
+        "en": "Karlshochschule International University"
+    },
     "https://idp.kh-freiburg.de/idp/shibboleth": {
         "de": "Katholische Hochschule Freiburg",
         "en": "Catholic University of Applied Sciences Freiburg"

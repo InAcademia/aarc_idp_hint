@@ -1537,6 +1537,10 @@
             "en": "FASEC - Faculdade Serra Do Carmo",
             "pt-br": "FASEC - Faculdade Serra Do Carmo"
         },
+        "https://idp.fepecs.edu.br/idp/shibboleth": {
+            "en": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude",
+            "pt-br": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude"
+        },
         "https://idp.fiocruz.br/idp/shibboleth": {
             "en": "FIOCRUZ - Fundacao Oswaldo Cruz",
             "pt-br": "FIOCRUZ - Fundacao Oswaldo Cruz"
@@ -2128,10 +2132,6 @@
         "https://srv-idp-shib421.uefs.br/idp/shibboleth": {
             "en": "UEFS - Universidade Estadual de Feira de Santana",
             "pt-br": "UEFS - Universidade Estadual de Feira de Santana"
-        },
-        "https://srv-idp.fepecs.edu.br/idp/shibboleth": {
-            "en": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude",
-            "pt-br": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude"
         },
         "https://srvcafe.cgee.org.br/idp/shibboleth": {
             "en": "CGEE - Centro de Gestao e Estudos Estrategicos",
@@ -4200,6 +4200,10 @@
         "https://idp.scau.edu.cn/idp/shibboleth": {
             "en": "South China Agricultural University",
             "zh": "华南农业大学(South China Agricultural University )"
+        },
+        "https://idp.sccm.edu.cn/idp/shibboleth": {
+            "en": "Sichuan Conservatory Of Music",
+            "zh": "四川音乐学院(Sichuan Conservatory Of Music)"
         },
         "https://idp.scmc.edu.cn/idp/shibboleth": {
             "en": "Sichuan  University of Media and Communications",
@@ -6688,6 +6692,10 @@
         "https://idp.iwm-tuebingen.de/idp/shibboleth": {
             "de": "Leibniz-Institut für Wissensmedien",
             "en": "Leibniz-Institut fuer Wissensmedien"
+        },
+        "https://idp.karlshochschule.de/idp/shibboleth": {
+            "de": "Karlshochschule International University",
+            "en": "Karlshochschule International University"
         },
         "https://idp.kh-freiburg.de/idp/shibboleth": {
             "de": "Katholische Hochschule Freiburg",

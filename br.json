@@ -655,6 +655,10 @@
         "en": "FASEC - Faculdade Serra Do Carmo",
         "pt-br": "FASEC - Faculdade Serra Do Carmo"
     },
+    "https://idp.fepecs.edu.br/idp/shibboleth": {
+        "en": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude",
+        "pt-br": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude"
+    },
     "https://idp.fiocruz.br/idp/shibboleth": {
         "en": "FIOCRUZ - Fundacao Oswaldo Cruz",
         "pt-br": "FIOCRUZ - Fundacao Oswaldo Cruz"
@@ -1246,10 +1250,6 @@
     "https://srv-idp-shib421.uefs.br/idp/shibboleth": {
         "en": "UEFS - Universidade Estadual de Feira de Santana",
         "pt-br": "UEFS - Universidade Estadual de Feira de Santana"
-    },
-    "https://srv-idp.fepecs.edu.br/idp/shibboleth": {
-        "en": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude",
-        "pt-br": "FEPECS - Fundacao de Ensino e Pesquisa em Ciencias da Saude"
     },
     "https://srvcafe.cgee.org.br/idp/shibboleth": {
         "en": "CGEE - Centro de Gestao e Estudos Estrategicos",
