@@ -565,9 +565,6 @@
         }
     },
     "be": {
-        "http://adfs.africamuseum.be/adfs/services/trust": {
-            "en": "Africamuseum IdP"
-        },
         "http://adfs.ilvo.be/adfs/services/trust": {
             "en": "Instituut voor Landbouw-, Visserij- en Voedingsonderzoek"
         },
@@ -12949,6 +12946,10 @@
         "https://axl.aiu.ac.jp/idp/shibboleth": {
             "en": "Akita International University",
             "ja": "国際教養大学"
+        },
+        "https://dbcls.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Research Organization of Information and Systems, Database Center for Life Science",
+            "ja": "情報・システム研究機構　ライフサイエンス統合データベースセンター"
         },
         "https://dc-shibsv.shiga-u.ac.jp/idp/shibboleth/": {
             "en": "Shiga University",

@@ -1,7 +1,4 @@
 {
-    "http://adfs.africamuseum.be/adfs/services/trust": {
-        "en": "Africamuseum IdP"
-    },
     "http://adfs.ilvo.be/adfs/services/trust": {
         "en": "Instituut voor Landbouw-, Visserij- en Voedingsonderzoek"
     },
