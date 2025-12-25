@@ -422,6 +422,9 @@
     "https://idp.kuk.ac.in/idp/shibboleth": {
         "en": "Kurukshetra University"
     },
+    "https://idp.kunainital.ac.in/idp/shibboleth": {
+        "en": "Kumaun University"
+    },
     "https://idp.ligo-india.in/idp/shibboleth": {
         "en": "LIGO-India Scientific Collaboration"
     },

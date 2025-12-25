@@ -1166,6 +1166,9 @@
     "https://sso.ewu.edu/idp/shibboleth": {
         "en": "Eastern Washington University"
     },
+    "https://sso.famu.edu/idp": {
+        "en": "Florida A&M University (SSO)"
+    },
     "https://sso.fau.edu/idp/shibboleth": {
         "en": "Florida Atlantic University"
     },

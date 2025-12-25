@@ -11839,6 +11839,9 @@
         "https://idp.kuk.ac.in/idp/shibboleth": {
             "en": "Kurukshetra University"
         },
+        "https://idp.kunainital.ac.in/idp/shibboleth": {
+            "en": "Kumaun University"
+        },
         "https://idp.ligo-india.in/idp/shibboleth": {
             "en": "LIGO-India Scientific Collaboration"
         },
@@ -13142,6 +13145,10 @@
         "https://idp.luke.ac.jp/idp/shibboleth": {
             "en": "St. Luke's International University",
             "ja": "聖路加国際大学"
+        },
+        "https://idp.morioka-u.ac.jp/idp/shibboleth": {
+            "en": "Morioka University",
+            "ja": "盛岡大学"
         },
         "https://idp.musashi.ac.jp/idp/shibboleth": {
             "en": "Musashi Academy",
@@ -21577,6 +21584,9 @@
         },
         "https://sso.ewu.edu/idp/shibboleth": {
             "en": "Eastern Washington University"
+        },
+        "https://sso.famu.edu/idp": {
+            "en": "Florida A&M University (SSO)"
         },
         "https://sso.fau.edu/idp/shibboleth": {
             "en": "Florida Atlantic University"

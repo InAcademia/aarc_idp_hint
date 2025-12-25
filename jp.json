@@ -230,6 +230,10 @@
         "en": "St. Luke's International University",
         "ja": "聖路加国際大学"
     },
+    "https://idp.morioka-u.ac.jp/idp/shibboleth": {
+        "en": "Morioka University",
+        "ja": "盛岡大学"
+    },
     "https://idp.musashi.ac.jp/idp/shibboleth": {
         "en": "Musashi Academy",
         "ja": "武蔵学園"
