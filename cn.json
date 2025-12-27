@@ -723,6 +723,10 @@
         "en": "Guangxi Education Technology and Information Center",
         "zh": "广西壮族自治区教育技术和信息化中心(Guangxi Education Technology and Information Center)"
     },
+    "https://idp.gxjcxy.edu.cn/idp/shibboleth": {
+        "en": "Guangxi Police College",
+        "zh": "广西警察学院(Guangxi Police College)"
+    },
     "https://idp.gxmzu.edu.cn/idp/shibboleth": {
         "en": "GuangXi Minzu University",
         "zh": "广西民族大学(GuangXi Minzu University)"
@@ -1738,6 +1742,10 @@
     "https://idp.tzu.edu.cn/idp/shibboleth": {
         "en": "Taizhou University of Jiangsu",
         "zh": "泰州学院(Taizhou University of Jiangsu)"
+    },
+    "https://idp.tzvtc.edu.cn/idp/shibboleth": {
+        "en": "Taizhou Vocational and Technical College",
+        "zh": "台州职业技术学院(Taizhou Vocational and Technical College)"
     },
     "https://idp.ucas.edu.cn/idp/shibboleth": {
         "en": "University of Chinese Academy of Sciences",
