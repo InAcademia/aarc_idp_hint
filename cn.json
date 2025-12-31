@@ -31,6 +31,10 @@
         "en": "Shanghai University of International Business and Economics",
         "zh": "上海对外经贸大学(Shanghai University of International Business and Economics)"
     },
+    "https://idp-cas.sues.edu.cn/idp/shibboleth": {
+        "en": "Shanghai University of Engineering Science",
+        "zh": "上海工程技术大学(Shanghai University of Engineering Science)"
+    },
     "https://idp-lib.bjut.edu.cn/idp/shibboleth": {
         "en": "Beijing University of Technology",
         "zh": "北京工业大学(Beijing University of Technology)"
