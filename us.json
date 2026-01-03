@@ -383,9 +383,6 @@
     "https://idp.elon.edu/idp/shibboleth": {
         "en": "Elon University"
     },
-    "https://idp.famu.edu:443/idp/shibboleth": {
-        "en": "Florida A&M University"
-    },
     "https://idp.fdu.edu/idp/shibboleth": {
         "en": "Fairleigh Dickinson University"
     },
