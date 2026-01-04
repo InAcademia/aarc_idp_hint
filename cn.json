@@ -151,6 +151,10 @@
         "en": "Shihezi University",
         "zh": "石河子大学(Shihezi University)"
     },
+    "https://idp-lib.sit.edu.cn/idp/shibboleth": {
+        "en": "Shanghai Institute of Technology",
+        "zh": "上海应用技术大学(Shanghai Institute of Technology)"
+    },
     "https://idp-lib.smbu.edu.cn/idp/shibboleth": {
         "en": "Shenzhen MSU-BIT University",
         "zh": "深圳北理莫斯科大学(Shenzhen MSU-BIT University)"

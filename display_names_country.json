@@ -565,6 +565,9 @@
         }
     },
     "be": {
+        "http://adfs.africamuseum.be/adfs/services/trust": {
+            "en": "Africamuseum IdP"
+        },
         "http://adfs.ilvo.be/adfs/services/trust": {
             "en": "Instituut voor Landbouw-, Visserij- en Voedingsonderzoek"
         },
@@ -2965,6 +2968,10 @@
         "https://idp-lib.shzu.edu.cn/idp/shibboleth": {
             "en": "Shihezi University",
             "zh": "石河子大学(Shihezi University)"
+        },
+        "https://idp-lib.sit.edu.cn/idp/shibboleth": {
+            "en": "Shanghai Institute of Technology",
+            "zh": "上海应用技术大学(Shanghai Institute of Technology)"
         },
         "https://idp-lib.smbu.edu.cn/idp/shibboleth": {
             "en": "Shenzhen MSU-BIT University",
@@ -13958,24 +13965,6 @@
         "https://idp.um5.ac.ma/idp/shibboleth": {
             "ar": "جامعة محمد الخامس",
             "en": "UM5"
-        }
-    },
-    "md": {
-        "https://amtapidp.renam.md": {
-            "en": "AMTAP-MD",
-            "ro": "AMTAP-MD"
-        },
-        "https://edugain.usm.md": {
-            "en": "GIDP-USM",
-            "ro": "GIDP-USM"
-        },
-        "https://gidp.federations.renam.md": {
-            "en": "GIDP-RENAM",
-            "ro": "GIDP-RENAM"
-        },
-        "https://kdu.idp.renam.md": {
-            "en": "Comrat State University",
-            "ro": "Universitatea de Stat din Comrat"
         }
     },
     "mk": {
