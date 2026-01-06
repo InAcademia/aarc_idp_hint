@@ -131,10 +131,6 @@
         "en": "FURG - Universidade Federal do Rio Grande",
         "pt-br": "FURG - Universidade Federal do Rio Grande"
     },
-    "https://cafe.hom.unicamp.br/idp/shibboleth": {
-        "en": "UNICAMP - Universidade Estadual de Campinas",
-        "pt-br": "UNICAMP - Universidade Estadual de Campinas"
-    },
     "https://cafe.ibict.br/idp/shibboleth": {
         "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
         "pt-br": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia"
@@ -342,6 +338,10 @@
     "https://cafe.uniarp.edu.br/idp/shibboleth": {
         "en": "UNIARP - Universidade Alto Vale do Rio do Peixe",
         "pt-br": "UNIARP - Universidade Alto Vale do Rio do Peixe"
+    },
+    "https://cafe.unicamp.br/idp/shibboleth": {
+        "en": "UNICAMP - Universidade Estadual de Campinas",
+        "pt-br": "UNICAMP - Universidade Estadual de Campinas"
     },
     "https://cafe.unicap.br/idp/shibboleth": {
         "en": "UNICAP - Universidade Catolica de Pernambuco",

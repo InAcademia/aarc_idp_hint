@@ -1013,10 +1013,6 @@
             "en": "FURG - Universidade Federal do Rio Grande",
             "pt-br": "FURG - Universidade Federal do Rio Grande"
         },
-        "https://cafe.hom.unicamp.br/idp/shibboleth": {
-            "en": "UNICAMP - Universidade Estadual de Campinas",
-            "pt-br": "UNICAMP - Universidade Estadual de Campinas"
-        },
         "https://cafe.ibict.br/idp/shibboleth": {
             "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
             "pt-br": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia"
@@ -1224,6 +1220,10 @@
         "https://cafe.uniarp.edu.br/idp/shibboleth": {
             "en": "UNIARP - Universidade Alto Vale do Rio do Peixe",
             "pt-br": "UNIARP - Universidade Alto Vale do Rio do Peixe"
+        },
+        "https://cafe.unicamp.br/idp/shibboleth": {
+            "en": "UNICAMP - Universidade Estadual de Campinas",
+            "pt-br": "UNICAMP - Universidade Estadual de Campinas"
         },
         "https://cafe.unicap.br/idp/shibboleth": {
             "en": "UNICAP - Universidade Catolica de Pernambuco",
@@ -7804,6 +7804,10 @@
             "en": "https://idp.lbhi.is",
             "is": "Landbúnaðarháskóli Íslands"
         },
+        "https://idp.s-e-a.dk": {
+            "da": "Syddansk Erhvervsakademi",
+            "en": "SEA — Business Academy"
+        },
         "https://idp.umit.dk": {
             "da": "Uddannelsesministeriets It",
             "en": "IT Department of the Ministry of Higher Education and Science"
@@ -13324,6 +13328,10 @@
             "en": "National Institute of Technology,Niihama College",
             "ja": "新居浜工業高等専門学校"
         },
+        "https://kidp.okinawa-ct.ac.jp/idp/shibboleth": {
+            "en": "National Institute of Technology,Okinawa College",
+            "ja": "沖縄工業高等専門学校"
+        },
         "https://kidp.sasebo.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Sasebo College",
             "ja": "佐世保工業高等専門学校"
@@ -13965,6 +13973,24 @@
         "https://idp.um5.ac.ma/idp/shibboleth": {
             "ar": "جامعة محمد الخامس",
             "en": "UM5"
+        }
+    },
+    "md": {
+        "https://amtapidp.renam.md": {
+            "en": "AMTAP-MD",
+            "ro": "AMTAP-MD"
+        },
+        "https://edugain.usm.md": {
+            "en": "GIDP-USM",
+            "ro": "GIDP-USM"
+        },
+        "https://gidp.federations.renam.md": {
+            "en": "GIDP-RENAM",
+            "ro": "GIDP-RENAM"
+        },
+        "https://kdu.idp.renam.md": {
+            "en": "Comrat State University",
+            "ro": "Universitatea de Stat din Comrat"
         }
     },
     "mk": {
@@ -21980,9 +22006,6 @@
         },
         "urn:mace:incommon:ohio.edu": {
             "en": "Ohio University"
-        },
-        "urn:mace:incommon:ohiolink.edu": {
-            "en": "OhioLink"
         },
         "urn:mace:incommon:osu.edu": {
             "en": "Ohio State University"

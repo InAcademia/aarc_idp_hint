@@ -153,6 +153,10 @@
         "en": "https://idp.lbhi.is",
         "is": "Landbúnaðarháskóli Íslands"
     },
+    "https://idp.s-e-a.dk": {
+        "da": "Syddansk Erhvervsakademi",
+        "en": "SEA — Business Academy"
+    },
     "https://idp.umit.dk": {
         "da": "Uddannelsesministeriets It",
         "en": "IT Department of the Ministry of Higher Education and Science"

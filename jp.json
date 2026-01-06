@@ -390,6 +390,10 @@
         "en": "National Institute of Technology,Niihama College",
         "ja": "新居浜工業高等専門学校"
     },
+    "https://kidp.okinawa-ct.ac.jp/idp/shibboleth": {
+        "en": "National Institute of Technology,Okinawa College",
+        "ja": "沖縄工業高等専門学校"
+    },
     "https://kidp.sasebo.ac.jp/idp/shibboleth": {
         "en": "National Institute of Technology,Sasebo College",
         "ja": "佐世保工業高等専門学校"
