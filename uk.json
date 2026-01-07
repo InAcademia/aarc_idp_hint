@@ -1124,6 +1124,9 @@
     "https://idp.unigib.edu.gi/entity": {
         "en": "University of Gibraltar"
     },
+    "https://idp.union.ac.uk/entity": {
+        "en": "Union Theological College"
+    },
     "https://idp.uolia.london.ac.uk/shibboleth": {
         "en": "University of London: Online Library"
     },
