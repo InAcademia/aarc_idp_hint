@@ -2,6 +2,9 @@
     "https://idp.aru.ac.tz/idp/shibboleth": {
         "en": "ARDHI UNIVERSITY (ARU)"
     },
+    "https://idp.cbe.ac.tz/idp/shibboleth": {
+        "en": "College of Business Education - (CBE)"
+    },
     "https://idp.eastc.ac.tz/idp/shibboleth": {
         "en": "Eastern Africa Statistical Training Centre (EASTC)"
     },

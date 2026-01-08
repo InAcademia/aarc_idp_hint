@@ -723,6 +723,10 @@
         "en": "ITA - Instituto Tecnologico de Aeronautica",
         "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
     },
+    "https://idp.linea.org.br/idp/shibboleth": {
+        "en": "LINEA - Laboratorio Insterinstitucional de e-Astronomia",
+        "pt-br": "LINEA - Laboratorio Insterinstitucional de e-Astronomia"
+    },
     "https://idp.mast.br/idp/shibboleth": {
         "en": "MAST - Museu de Astronomia e Ciencias Afins",
         "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
@@ -870,10 +874,6 @@
     "https://idp.uscs.edu.br/idp/shibboleth": {
         "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
         "pt-br": "USCS - Universidade Municipal de Sao Caetano do Sul"
-    },
-    "https://idp01.linea.org.br/idp/shibboleth": {
-        "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
-        "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
     },
     "https://idp02.ifc.edu.br/idp/shibboleth": {
         "en": "IFC - Instituto Federal Catarinense",

@@ -485,6 +485,9 @@
     "https://idp.niu.edu/idp/shibboleth": {
         "en": "Northern Illinois University"
     },
+    "https://idp.njedge.net": {
+        "en": "NjEdge.Net Inc"
+    },
     "https://idp.nss.udel.edu/idp/shibboleth": {
         "en": "University of Delaware"
     },

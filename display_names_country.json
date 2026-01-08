@@ -732,6 +732,10 @@
         "https://sts.windows.net/1c8ac413-4f2b-43dd-bb81-c63810aed841/": {
             "en": "Haute Ecole Libre de Bruxelles Ilya Prigogine"
         },
+        "https://sts.windows.net/87e1ebea-019b-4e5e-98bf-6353dbb05c30/": {
+            "en": "Catholic Education Flanders",
+            "nl": "Katholiek Onderwijs Vlaanderen"
+        },
         "https://sts.windows.net/9e2777ed-8237-4ab9-9278-2c144d6f6da3/": {
             "en": "VITO"
         },
@@ -1605,6 +1609,10 @@
             "en": "ITA - Instituto Tecnologico de Aeronautica",
             "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
         },
+        "https://idp.linea.org.br/idp/shibboleth": {
+            "en": "LINEA - Laboratorio Insterinstitucional de e-Astronomia",
+            "pt-br": "LINEA - Laboratorio Insterinstitucional de e-Astronomia"
+        },
         "https://idp.mast.br/idp/shibboleth": {
             "en": "MAST - Museu de Astronomia e Ciencias Afins",
             "pt-br": "MAST - Museu de Astronomia e Ciencias Afins"
@@ -1752,10 +1760,6 @@
         "https://idp.uscs.edu.br/idp/shibboleth": {
             "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
             "pt-br": "USCS - Universidade Municipal de Sao Caetano do Sul"
-        },
-        "https://idp01.linea.org.br/idp/shibboleth": {
-            "en": "LINEA - Laboratorio Interinstitucional de e-Astronomia",
-            "pt-br": "LINEA - Laboratorio Interinstitucional de e-Astronomia"
         },
         "https://idp02.ifc.edu.br/idp/shibboleth": {
             "en": "IFC - Instituto Federal Catarinense",
@@ -13879,6 +13883,9 @@
             "en": "RESTENA Users",
             "fr": "RESTENA Utilisateurs"
         },
+        "https://sts.windows.net/2cd2c6ea-4356-45a2-8444-cacbd8a744df/": {
+            "en": "https://sts.windows.net/2cd2c6ea-4356-45a2-8444-cacbd8a744df/"
+        },
         "https://sts.windows.net/487175ce-c313-4417-91bc-dc3b6721b8ee/": {
             "en": "LISER"
         },
@@ -17774,6 +17781,9 @@
         "https://idp.aru.ac.tz/idp/shibboleth": {
             "en": "ARDHI UNIVERSITY (ARU)"
         },
+        "https://idp.cbe.ac.tz/idp/shibboleth": {
+            "en": "College of Business Education - (CBE)"
+        },
         "https://idp.eastc.ac.tz/idp/shibboleth": {
             "en": "Eastern Africa Statistical Training Centre (EASTC)"
         },
@@ -20936,6 +20946,9 @@
         },
         "https://idp.niu.edu/idp/shibboleth": {
             "en": "Northern Illinois University"
+        },
+        "https://idp.njedge.net": {
+            "en": "NjEdge.Net Inc"
         },
         "https://idp.nss.udel.edu/idp/shibboleth": {
             "en": "University of Delaware"
