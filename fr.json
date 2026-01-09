@@ -711,10 +711,6 @@
         "en": "Synchrotron SOLEIL",
         "fr": "Synchrotron SOLEIL"
     },
-    "https://idp.telecom-bretagne.eu/idp/shibboleth": {
-        "en": "Télécom Bretagne",
-        "fr": "Télécom Bretagne"
-    },
     "https://idp.telecom-paristech.fr/idp/shibboleth": {
         "en": "Télécom Paris, IMT Direction générale",
         "fr": "Télécom Paris, IMT Direction générale"
