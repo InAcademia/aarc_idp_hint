@@ -1,24 +1,4 @@
 {
-    "africa": {
-        "https://asren-iam.asren.org/idp/shibboleth": {
-            "en": "ASREN"
-        },
-        "https://asren-idp.asren.net/auth/realms/asren": {
-            "en": "Arab State Research and Education Network"
-        },
-        "https://proxy.eduid.africa/idp/saml2": {
-            "en": "eduID.africa Proxy IdP"
-        },
-        "https://ubuntunet.eduid.africa/saml2/idp/metadata.php": {
-            "en": "UbuntuNet Alliance Staff IdP"
-        },
-        "https://udus.eduid.ng/saml2/idp/metadata.php": {
-            "en": "Usmanu Danfodiyo University Sokoto"
-        },
-        "https://wacren.wacren.eduid.africa/saml2/idp/metadata.php": {
-            "en": "WACREN IDP"
-        }
-    },
     "al": {
         "https://idp.rash.al/simplesaml/saml2/idp/metadata.php": {
             "en": "Albanian Academic Network - RASH"
@@ -21272,9 +21252,6 @@
         },
         "https://myncf.ncf.edu/": {
             "en": "New College of Florida"
-        },
-        "https://myqlidp.fgcu.edu": {
-            "en": "Florida Gulf Coast University"
         },
         "https://myqlidp.macalester.edu": {
             "en": "Macalester College SSO"
