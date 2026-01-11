@@ -1,4 +1,24 @@
 {
+    "africa": {
+        "https://asren-iam.asren.org/idp/shibboleth": {
+            "en": "ASREN"
+        },
+        "https://asren-idp.asren.net/auth/realms/asren": {
+            "en": "Arab State Research and Education Network"
+        },
+        "https://proxy.eduid.africa/idp/saml2": {
+            "en": "eduID.africa Proxy IdP"
+        },
+        "https://ubuntunet.eduid.africa/saml2/idp/metadata.php": {
+            "en": "UbuntuNet Alliance Staff IdP"
+        },
+        "https://udus.eduid.ng/saml2/idp/metadata.php": {
+            "en": "Usmanu Danfodiyo University Sokoto"
+        },
+        "https://wacren.wacren.eduid.africa/saml2/idp/metadata.php": {
+            "en": "WACREN IDP"
+        }
+    },
     "al": {
         "https://idp.rash.al/simplesaml/saml2/idp/metadata.php": {
             "en": "Albanian Academic Network - RASH"
@@ -6414,8 +6434,8 @@
             "en": "Helmholtz-Zentrum hereon GmbH"
         },
         "https://idp.hertie-school.org/idp/shibboleth": {
-            "de": "Hertie School - School of Governance",
-            "en": "Hertie School - School of Governance"
+            "de": "Hertie School - University of Governance",
+            "en": "Hertie School - University of Governance"
         },
         "https://idp.hfbk-dresden.de/idp/shibboleth": {
             "de": "Hochschule für Bildende Künste Dresden",
@@ -15485,7 +15505,7 @@
             "en": "Research and Education Center (Shibboleth)"
         },
         "https://idpomren.mtc.edu.om/idp": {
-            "en": "Military Technological College (shibboleth)"
+            "en": "Military Technology College IDP"
         },
         "https://idpomren.muscatcollege.edu.om/idp": {
             "en": "Muscat College (shibboleth)"
