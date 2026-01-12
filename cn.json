@@ -843,6 +843,10 @@
         "en": "Hebei University of Technology",
         "zh": "河北工业大学(Hebei University of Technology)"
     },
+    "https://idp.henau.edu.cn/idp/shibboleth": {
+        "en": "Henan Agricultural University",
+        "zh": "河南农业大学(Henan Agricultural University)"
+    },
     "https://idp.henu.edu.cn/idp/shibboleth": {
         "en": "Henan University",
         "zh": "河南大学(Henan University)"
@@ -1342,6 +1346,10 @@
     "https://idp.qfnu.edu.cn/idp/shibboleth": {
         "en": "Qufu Normal University",
         "zh": "曲阜师范大学(Qufu Normal University)"
+    },
+    "https://idp.qhit.edu.cn/idp/shibboleth": {
+        "en": "Qinghai Institute of Technology",
+        "zh": "青海理工学院(Qinghai Institute of Technology)"
     },
     "https://idp.qhnu.edu.cn/idp/shibboleth": {
         "en": "Qinghai Normal University",

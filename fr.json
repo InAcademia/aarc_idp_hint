@@ -895,10 +895,6 @@
         "en": "Ecole Nationale Supérieure d'Architecture de Paris-est",
         "fr": "Ecole Nationale Supérieure d'Architecture de Paris-est"
     },
-    "https://idp3.mnhn.fr/idp/shibboleth": {
-        "en": "Muséum National d'Histoire Naturelle (MNHN)",
-        "fr": "Muséum National d'Histoire Naturelle (MNHN)"
-    },
     "https://idp3.univ-lorraine.fr/idp/shibboleth": {
         "en": "Université de Lorraine",
         "fr": "Université de Lorraine"

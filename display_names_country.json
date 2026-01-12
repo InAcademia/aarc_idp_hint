@@ -3665,6 +3665,10 @@
             "en": "Hebei University of Technology",
             "zh": "河北工业大学(Hebei University of Technology)"
         },
+        "https://idp.henau.edu.cn/idp/shibboleth": {
+            "en": "Henan Agricultural University",
+            "zh": "河南农业大学(Henan Agricultural University)"
+        },
         "https://idp.henu.edu.cn/idp/shibboleth": {
             "en": "Henan University",
             "zh": "河南大学(Henan University)"
@@ -4164,6 +4168,10 @@
         "https://idp.qfnu.edu.cn/idp/shibboleth": {
             "en": "Qufu Normal University",
             "zh": "曲阜师范大学(Qufu Normal University)"
+        },
+        "https://idp.qhit.edu.cn/idp/shibboleth": {
+            "en": "Qinghai Institute of Technology",
+            "zh": "青海理工学院(Qinghai Institute of Technology)"
         },
         "https://idp.qhnu.edu.cn/idp/shibboleth": {
             "en": "Qinghai Normal University",
@@ -10133,10 +10141,6 @@
             "en": "Ecole Nationale Supérieure d'Architecture de Paris-est",
             "fr": "Ecole Nationale Supérieure d'Architecture de Paris-est"
         },
-        "https://idp3.mnhn.fr/idp/shibboleth": {
-            "en": "Muséum National d'Histoire Naturelle (MNHN)",
-            "fr": "Muséum National d'Histoire Naturelle (MNHN)"
-        },
         "https://idp3.univ-lorraine.fr/idp/shibboleth": {
             "en": "Université de Lorraine",
             "fr": "Université de Lorraine"
@@ -13897,10 +13901,6 @@
         "https://id.lndb.lv": {
             "en": "LNB"
         },
-        "https://idp.laife.lv/saml-idp": {
-            "en": "LAIFE (Latvian academic identity federation)",
-            "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
-        },
         "https://idp.llu.lv/idp/shibboleth": {
             "en": "Latvia University of Agriculture"
         },
@@ -14630,10 +14630,6 @@
             "en": "Maastricht University Medical Center",
             "nl": "Maastricht Universitair Medisch Centrum"
         },
-        "http://demeter.wp.swov.nl/adfs/services/trust": {
-            "en": "SWOV Institute for Road Safety Research",
-            "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
-        },
         "http://fed.cpb.nl/adfs/services/trust": {
             "en": "CPB Netherlands Bureau for Economic Policy Analysis",
             "nl": "Centraal Planbureau"
@@ -14957,6 +14953,10 @@
         "https://sts.windows.net/3edb8059-48b4-416b-abfc-d3dcea551e17/": {
             "en": "NBD Biblion",
             "nl": "NBD Biblion"
+        },
+        "https://sts.windows.net/45b47089-f841-4b4c-9b9c-3e6f928fab4f/": {
+            "en": "SWOV Institute for Road Safety Research",
+            "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
         },
         "https://sts.windows.net/486427f8-ee3e-42b3-96d2-bf1b8a0ee220/": {
             "en": "Nimeto",
