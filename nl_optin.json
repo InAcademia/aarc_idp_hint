@@ -55,10 +55,6 @@
         "en": "Maastricht University Medical Center",
         "nl": "Maastricht Universitair Medisch Centrum"
     },
-    "http://demeter.wp.swov.nl/adfs/services/trust": {
-        "en": "SWOV Institute for Road Safety Research",
-        "nl": "Stichting Wetenschappelijk Onderzoek Verkeersveiligheid SWOV"
-    },
     "http://fed.cpb.nl/adfs/services/trust": {
         "en": "CPB Netherlands Bureau for Economic Policy Analysis",
         "nl": "Centraal Planbureau"
