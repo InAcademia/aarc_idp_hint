@@ -38,6 +38,9 @@
     "http://ksufed.kennesaw.edu/adfs/services/trust": {
         "en": "Kennesaw State University"
     },
+    "http://login.dsu.edu/adfs/services/trust": {
+        "en": "Dakota State University"
+    },
     "http://login.mayo.edu/adfs/services/trust": {
         "en": "Mayo Clinic"
     },

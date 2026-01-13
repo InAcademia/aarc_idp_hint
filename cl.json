@@ -1,5 +1,5 @@
 {
-    "https://id.reuna.cl/id/saml2/idp/metadata.php": {
+    "https://id.reuna.cl/simplesaml/module.php/saml/idp/metadata": {
         "en": "ID REUNA",
         "es": "ID REUNA"
     },

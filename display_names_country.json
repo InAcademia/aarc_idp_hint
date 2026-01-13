@@ -2783,7 +2783,7 @@
         }
     },
     "cl": {
-        "https://id.reuna.cl/id/saml2/idp/metadata.php": {
+        "https://id.reuna.cl/simplesaml/module.php/saml/idp/metadata": {
             "en": "ID REUNA",
             "es": "ID REUNA"
         },
@@ -3800,6 +3800,10 @@
         "https://idp.hznu.edu.cn/idp/shibboleth": {
             "en": "Hangzhou Normal University",
             "zh": "杭州师范大学(Hangzhou Normal University )"
+        },
+        "https://idp.hzxy.edu.cn/idp/shibboleth": {
+            "en": "Hezhou University",
+            "zh": "贺州学院(Hezhou University)"
         },
         "https://idp.imnu.edu.cn/idp/shibboleth": {
             "en": "Inner Mongolia Normal University",
@@ -13901,6 +13905,10 @@
         "https://id.lndb.lv": {
             "en": "LNB"
         },
+        "https://idp.laife.lv/saml-idp": {
+            "en": "LAIFE (Latvian academic identity federation)",
+            "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
+        },
         "https://idp.llu.lv/idp/shibboleth": {
             "en": "Latvia University of Agriculture"
         },
@@ -17787,7 +17795,7 @@
             "en": "The Institute of Adult Education (IAE)"
         },
         "https://idp.ipa.ac.tz/idp/shibboleth": {
-            "en": "The Institute of Public Administration (IPA)"
+            "en": "THE INSTITUTE OF PUBLIC ADMINISTRATION (IPA)"
         },
         "https://idp.ku.ac.tz/idp/shibboleth": {
             "en": "Kairuki University (KU)"
@@ -20495,6 +20503,9 @@
         },
         "http://ksufed.kennesaw.edu/adfs/services/trust": {
             "en": "Kennesaw State University"
+        },
+        "http://login.dsu.edu/adfs/services/trust": {
+            "en": "Dakota State University"
         },
         "http://login.mayo.edu/adfs/services/trust": {
             "en": "Mayo Clinic"
