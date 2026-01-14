@@ -4085,6 +4085,10 @@
             "en": "Nanjing Sport Institute",
             "zh": "南京体育学院(Nanjing Sport Institute)"
         },
+        "https://idp.ntit.edu.cn/idp/shibboleth": {
+            "en": "Nantong Institute of Technology",
+            "zh": "南通理工学院(Nantong Institute of Technology)"
+        },
         "https://idp.ntu.edu.cn/idp/shibboleth": {
             "en": "Nantong University",
             "zh": "南通大学(Nantong University)"
@@ -6062,8 +6066,8 @@
             "en": "University Hospital Tuebingen"
         },
         "https://auth.mpic.de/realms/mpic.de": {
-            "de": "Max-Planck-Institut für Chemie (new)",
-            "en": "Max-Planck-Institute for Chemistry (new)"
+            "de": "Max-Planck-Institut für Chemie",
+            "en": "Max-Planck-Institute for Chemistry"
         },
         "https://auth.vifa-recht.de/idp/shibboleth": {
             "de": "intRecht (VHO)",
@@ -6766,7 +6770,7 @@
             "en": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)"
         },
         "https://idp.leibniz-kis.de/idp/shibboleth": {
-            "de": "Leibniz-Institut für Sonnenphysik (KIS)",
+            "de": "Institut für Sonnenphysik (KIS)",
             "en": "Institute of Solar Physics (KIS)"
         },
         "https://idp.leibniz-liv.de/idp/shibboleth": {
@@ -17816,6 +17820,9 @@
     "ua": {
         "https://idp.chnu.edu.ua/simplesaml/saml2/idp/metadata.php": {
             "en": "Yuriy Fedkovych Chernivtsi National University"
+        },
+        "https://idp.kubg.edu.ua/simplesaml/saml2/idp/metadata.php": {
+            "en": "https://idp.kubg.edu.ua/simplesaml/saml2/idp/metadata.php"
         },
         "https://idp.nure.ua/saml2/idp/metadata.php": {
             "en": "Kharkiv National University of Radio Electronics",
