@@ -68,8 +68,8 @@
         "sv": "Sunet"
     },
     "https://connect.eduid.se/vr": {
-        "en": "The Swedish Research Council - Connect",
-        "sv": "Vetenskapsrådet - Connect"
+        "en": "The Swedish Research Council (M365)",
+        "sv": "Vetenskapsrådet (M365)"
     },
     "https://idp-v2.konstfack.se/adfs/services/trust": {
         "en": "Konstfack - University account",
