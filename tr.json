@@ -75,6 +75,10 @@
         "en": "Galatasaray University",
         "tr": "Galatasaray Üniversitesi"
     },
+    "https://idp.halic.edu.tr/idp/shibboleth": {
+        "en": "Halic University",
+        "tr": "Haliç Üniversitesi"
+    },
     "https://idp.harran.edu.tr/idp/shibboleth": {
         "en": "Harran University",
         "tr": "Harran Üniversitesi"
@@ -586,6 +590,10 @@
     "https://yetkim.kastamonu.edu.tr/idp/shibboleth": {
         "en": "Kastamonu University",
         "tr": "Kastamonu Üniversitesi"
+    },
+    "https://yetkim.kent.edu.tr/idp/shibboleth": {
+        "en": "Istanbul Kent University",
+        "tr": "İstanbul Kent Üniversitesi"
     },
     "https://yetkim.khas.edu.tr/idp/shibboleth": {
         "en": "Kadir Has University",

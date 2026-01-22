@@ -491,7 +491,7 @@
         "en": "FUNDAJ - Fundacao Joaquim Nabuco",
         "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"
     },
-    "https://fjscafe.fjs.org.br/idp/shibboleth": {
+    "https://fjs.fjs.org.br/idp/shibboleth": {
         "en": "FJS - Fundacao Jose Silveira",
         "pt-br": "FJS - Fundacao Jose Silveira"
     },
@@ -1139,10 +1139,6 @@
         "en": "UFCG - Universidade Federal de Campina Grande",
         "pt-br": "UFCG - Universidade Federal de Campina Grande"
     },
-    "https://shibboleth.ufersa.edu.br/idp/shibboleth": {
-        "en": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI ARIDO",
-        "pt-br": "UFERSA - UNIVERSIDADE FEDERAL RURAL DO SEMI ARIDO"
-    },
     "https://shibboleth.ufma.br/idp/shibboleth": {
         "en": "UFMA - Universidade Federal do Maranhao",
         "pt-br": "UFMA - Universidade Federal do Maranhao"
@@ -1194,6 +1190,10 @@
     "https://shibboleth02.uergs.edu.br/idp/shibboleth": {
         "en": "UERGS - Universidade Estadual do Rio Grande do Sul",
         "pt-br": "UERGS - Universidade Estadual do Rio Grande do Sul"
+    },
+    "https://shibboleth1.ufersa.edu.br/idp/shibboleth": {
+        "en": "UFERSA - Universidade Federal Rural do Semi Arido",
+        "pt-br": "UFERSA - Universidade Federal Rural do Semi Arido"
     },
     "https://shibboleth1p.sipam.gov.br/idp/shibboleth": {
         "en": "CENSIPAM - Sistema de Protecao da Amazonia",
