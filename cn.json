@@ -1443,6 +1443,10 @@
         "en": "CERNET-SD",
         "zh": "赛尔网络有限公司山东分公司(CERNET-SD)"
     },
+    "https://idp.sdaeu.edu.cn/idp/shibboleth": {
+        "en": "Shandong Agriculture And Engineering University",
+        "zh": "山东农业工程学院(Shandong Agriculture And Engineering University)"
+    },
     "https://idp.sdau.edu.cn/idp/shibboleth": {
         "en": "Shandong Agricultural University",
         "zh": "山东农业大学(Shandong Agricultural University)"
