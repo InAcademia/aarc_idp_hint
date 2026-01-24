@@ -1220,6 +1220,10 @@
             "en": "UNDF - Universidade do Distrito Federal",
             "pt-br": "UNDF - Universidade do Distrito Federal"
         },
+        "https://cafe.uneal.edu.br/idp/shibboleth": {
+            "en": "UNEAL - Universidade Estadual de Alagoas",
+            "pt-br": "UNEAL - Universidade Estadual de Alagoas"
+        },
         "https://cafe.unemat.br/idp/shibboleth": {
             "en": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso",
             "pt-br": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso"
@@ -1499,10 +1503,6 @@
         "https://idp-v421.ifsp.edu.br/idp/shibboleth": {
             "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
             "pt-br": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo"
-        },
-        "https://idp.cafe.uneal.edu.br/idp/shibboleth": {
-            "en": "UNEAL - Universidade Estadual de Alagoas",
-            "pt-br": "UNEAL - Universidade Estadual de Alagoas"
         },
         "https://idp.capes.gov.br/idp/shibboleth": {
             "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior",
@@ -7487,6 +7487,10 @@
             "de": "Hochschule Kaiserslautern",
             "en": "University of Applied Science Kaiserslautern"
         },
+        "https://shibboleth.kh-mz.de/idp/shibboleth": {
+            "de": "Katholische Hochschule Mainz",
+            "en": "Catholic University of Applied Sciences Mainz"
+        },
         "https://shibboleth.leibniz-lib.de/idp/shibboleth": {
             "de": "Leibniz-Institut zur Analyse des Biodiversitätswandels",
             "en": "Leibniz Institute for the Analysis of Biodiversity Change"
@@ -12309,14 +12313,6 @@
         },
         "https://www.idp.lecm.cteguj.in/idp/shibboleth": {
             "en": "L.E. College Morbi"
-        }
-    },
-    "ir": {
-        "https://idp.ut.ac.ir:8443/idp/shibboleth": {
-            "en": "University of Tehran"
-        },
-        "https://shibidp.ipm.ir/idp/shibboleth": {
-            "en": "Institute for Research in Fundamental Sciences (IPM)"
         }
     },
     "it": {
@@ -17283,6 +17279,10 @@
         "https://idp.lokmanhekim.edu.tr/idp/shibboleth": {
             "en": "Lokman Hekim University",
             "tr": "Lokman Hekim Üniversitesi"
+        },
+        "https://idp.medeniyet.edu.tr/idp/shibboleth": {
+            "en": "Istanbul Medeniyet University",
+            "tr": "İstanbul Medeniyet Üniversitesi"
         },
         "https://idp.medipol.edu.tr/idp/shibboleth": {
             "en": "Istanbul Medipol University",

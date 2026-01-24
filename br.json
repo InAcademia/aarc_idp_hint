@@ -331,6 +331,10 @@
         "en": "UNDF - Universidade do Distrito Federal",
         "pt-br": "UNDF - Universidade do Distrito Federal"
     },
+    "https://cafe.uneal.edu.br/idp/shibboleth": {
+        "en": "UNEAL - Universidade Estadual de Alagoas",
+        "pt-br": "UNEAL - Universidade Estadual de Alagoas"
+    },
     "https://cafe.unemat.br/idp/shibboleth": {
         "en": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso",
         "pt-br": "UNEMAT - Fundacao Universidade do Estado de Mato Grosso"
@@ -610,10 +614,6 @@
     "https://idp-v421.ifsp.edu.br/idp/shibboleth": {
         "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
         "pt-br": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo"
-    },
-    "https://idp.cafe.uneal.edu.br/idp/shibboleth": {
-        "en": "UNEAL - Universidade Estadual de Alagoas",
-        "pt-br": "UNEAL - Universidade Estadual de Alagoas"
     },
     "https://idp.capes.gov.br/idp/shibboleth": {
         "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior",

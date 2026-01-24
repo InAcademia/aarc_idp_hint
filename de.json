@@ -1462,6 +1462,10 @@
         "de": "Hochschule Kaiserslautern",
         "en": "University of Applied Science Kaiserslautern"
     },
+    "https://shibboleth.kh-mz.de/idp/shibboleth": {
+        "de": "Katholische Hochschule Mainz",
+        "en": "Catholic University of Applied Sciences Mainz"
+    },
     "https://shibboleth.leibniz-lib.de/idp/shibboleth": {
         "de": "Leibniz-Institut zur Analyse des Biodiversitätswandels",
         "en": "Leibniz Institute for the Analysis of Biodiversity Change"
