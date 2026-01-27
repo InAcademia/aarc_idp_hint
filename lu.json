@@ -17,15 +17,10 @@
         "fr": "RESTENA Utilisateurs"
     },
     "https://sts.windows.net/2cd2c6ea-4356-45a2-8444-cacbd8a744df/": {
-        "en": "Vauban, French Primary and Secondary School in Luxembourg",
-        "fr": "Vauban, Ecole et Lycée Français de Luxembourg"
+        "en": "https://sts.windows.net/2cd2c6ea-4356-45a2-8444-cacbd8a744df/"
     },
     "https://sts.windows.net/487175ce-c313-4417-91bc-dc3b6721b8ee/": {
         "en": "LISER"
-    },
-    "https://sts.windows.net/dc0a8df5-07a3-4f82-aca0-230d315fd063/": {
-        "en": "Luxembourg National Data Service (LNDS)",
-        "fr": "Plateforme Nationale d'Echange de Données (PNED)"
     },
     "urn:x-iam-education-lu:auth": {
         "en": "MENJE - CGIE IAM Users",
