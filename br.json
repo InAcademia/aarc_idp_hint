@@ -203,10 +203,6 @@
         "en": "ISD - Instituto de Ensino e Pesquisa Alberto Santos Dumont",
         "pt-br": "ISD - Instituto de Ensino e Pesquisa Alberto Santos Dumont"
     },
-    "https://cafe.itaipuparquetec.org.br/idp/shibboleth": {
-        "en": "FPTI - Fundacao Parque Tecnologico Itaipu",
-        "pt-br": "FPTI - Fundacao Parque Tecnologico Itaipu"
-    },
     "https://cafe.itep.br/idp/shibboleth": {
         "en": "ITEP - Instituto de Tecnologia de Pernambuco",
         "pt-br": "ITEP - Instituto de Tecnologia de Pernambuco"
@@ -495,7 +491,7 @@
         "en": "FUNDAJ - Fundacao Joaquim Nabuco",
         "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"
     },
-    "https://fjs.fjs.org.br/idp/shibboleth": {
+    "https://fjscafe.fjs.org.br/idp/shibboleth": {
         "en": "FJS - Fundacao Jose Silveira",
         "pt-br": "FJS - Fundacao Jose Silveira"
     },
@@ -722,6 +718,10 @@
     "https://idp.ita.br/idp/shibboleth": {
         "en": "ITA - Instituto Tecnologico de Aeronautica",
         "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
+    },
+    "https://idp.itaipuparquetec.org.br/idp/shibboleth": {
+        "en": "ITAIPU PARQUETEC - Itaipu Parquetec",
+        "pt-br": "ITAIPU PARQUETEC - Itaipu Parquetec"
     },
     "https://idp.linea.org.br/idp/shibboleth": {
         "en": "LINEA - Laboratorio Insterinstitucional de e-Astronomia",

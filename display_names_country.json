@@ -1092,10 +1092,6 @@
             "en": "ISD - Instituto de Ensino e Pesquisa Alberto Santos Dumont",
             "pt-br": "ISD - Instituto de Ensino e Pesquisa Alberto Santos Dumont"
         },
-        "https://cafe.itaipuparquetec.org.br/idp/shibboleth": {
-            "en": "FPTI - Fundacao Parque Tecnologico Itaipu",
-            "pt-br": "FPTI - Fundacao Parque Tecnologico Itaipu"
-        },
         "https://cafe.itep.br/idp/shibboleth": {
             "en": "ITEP - Instituto de Tecnologia de Pernambuco",
             "pt-br": "ITEP - Instituto de Tecnologia de Pernambuco"
@@ -1384,7 +1380,7 @@
             "en": "FUNDAJ - Fundacao Joaquim Nabuco",
             "pt-br": "FUNDAJ - Fundacao Joaquim Nabuco"
         },
-        "https://fjs.fjs.org.br/idp/shibboleth": {
+        "https://fjscafe.fjs.org.br/idp/shibboleth": {
             "en": "FJS - Fundacao Jose Silveira",
             "pt-br": "FJS - Fundacao Jose Silveira"
         },
@@ -1611,6 +1607,10 @@
         "https://idp.ita.br/idp/shibboleth": {
             "en": "ITA - Instituto Tecnologico de Aeronautica",
             "pt-br": "ITA - Instituto Tecnologico de Aeronautica"
+        },
+        "https://idp.itaipuparquetec.org.br/idp/shibboleth": {
+            "en": "ITAIPU PARQUETEC - Itaipu Parquetec",
+            "pt-br": "ITAIPU PARQUETEC - Itaipu Parquetec"
         },
         "https://idp.linea.org.br/idp/shibboleth": {
             "en": "LINEA - Laboratorio Insterinstitucional de e-Astronomia",
@@ -3968,6 +3968,10 @@
             "en": "Lanzhou University of Finance and Economics",
             "zh": "兰州财经大学(Lanzhou University of Finance and Economics)"
         },
+        "https://idp.masu.edu.cn/idp/shibboleth": {
+            "en": "Ma Anshan University",
+            "zh": "马鞍山学院(Ma Anshan University)"
+        },
         "https://idp.mju.edu.cn/idp/shibboleth": {
             "en": "MinJiang University",
             "zh": "闽江学院(MinJiang University)"
@@ -6183,6 +6187,10 @@
         "https://idp.bhh.de/idp/shibboleth": {
             "de": "Berufliche Hochschule Hamburg",
             "en": "Berufliche Hochschule Hamburg"
+        },
+        "https://idp.bib.de/idp/shibboleth": {
+            "de": "bib International College",
+            "en": "bib International College"
         },
         "https://idp.biochem.mpg.de/idp/shibboleth": {
             "de": "MPI fuer Biochemie",
@@ -21294,9 +21302,6 @@
         },
         "https://myqlidp.otis.edu": {
             "en": "Otis College QuickLaunch"
-        },
-        "https://myresearchid.idp.cirrusidentity.com/idp": {
-            "en": "MyResearchID"
         },
         "https://netid.uwosh.edu/idp/shibboleth": {
             "en": "University of Wisconsin Oshkosh"
