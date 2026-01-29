@@ -11,9 +11,6 @@
     "https://idp-unilia.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
         "en": "University of Livingstonia - UNILIA"
     },
-    "https://idp.kuhes.ac.mw/idp/shibboleth": {
-        "en": "Kamuzu University of Health Sciences - KUHES"
-    },
     "https://idp.luanar.ac.mw/idp/shibboleth": {
         "en": "Lilongwe University of Agriculture and Natural Resources - LUANAR"
     },

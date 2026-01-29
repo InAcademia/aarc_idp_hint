@@ -956,10 +956,6 @@
             "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
             "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
         },
-        "https://cafe-v3.upf.br/idp/shibboleth": {
-            "en": "UPF - Universidade de Passo Fundo",
-            "pt-br": "UPF - Universidade de Passo Fundo"
-        },
         "https://cafe.apps.uern.br/idp/shibboleth": {
             "en": "UERN - Universidade do Estado do Rio Grande do Norte",
             "pt-br": "UERN - Universidade do Estado do Rio Grande do Norte"
@@ -1320,6 +1316,10 @@
             "en": "UFDPAR - Universidade Federal do Delta do Parnaiba",
             "pt-br": "UFDPAR - Universidade Federal do Delta do Parnaiba"
         },
+        "https://cafeidp.upf.br/idp/shibboleth": {
+            "en": "UPF - Fundacao Universidade de Passo Fundo",
+            "pt-br": "UPF - Fundacao Universidade de Passo Fundo"
+        },
         "https://cafernp.fesfsus.ba.gov.br/idp/shibboleth": {
             "en": "FESFSUS - Fundacao Estatal Saude da Familia",
             "pt-br": "FESFSUS - Fundacao Estatal Saude da Familia"
@@ -1583,6 +1583,10 @@
         "https://idp.ifsuldeminas.edu.br/idp/shibboleth": {
             "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
             "pt-br": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais"
+        },
+        "https://idp.iftm.edu.br/idp/shibboleth": {
+            "en": "IFTM - Instituto Federal do Triangulo Mineiro",
+            "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
         },
         "https://idp.incor.usp.br/idp/shibboleth": {
             "en": "INCOR USP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo",
@@ -1951,10 +1955,6 @@
         "https://sede-vz-idp2.ebserh.gov.br/idp/shibboleth": {
             "en": "EBSERH - Empresa Brasileira de Servicos Hospitalares",
             "pt-br": "EBSERH - Empresa Brasileira de Servicos Hospitalares"
-        },
-        "https://servercafe.iftm.edu.br/idp/shibboleth": {
-            "en": "IFTM - Instituto Federal do Triangulo Mineiro",
-            "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
         },
         "https://shib.unila.edu.br/idp/shibboleth": {
             "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
@@ -14062,6 +14062,41 @@
     "mt": {
         "https://accounts.um.edu.mt/saml/saml2/idp": {
             "en": "University of Malta"
+        }
+    },
+    "mw": {
+        "https://idp-mca.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+            "en": "Malawi College of Accountancy - MCA"
+        },
+        "https://idp-mzuzutech.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+            "en": "Mzuzu Technical College"
+        },
+        "https://idp-sjifh.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+            "en": "St John Institute For Health"
+        },
+        "https://idp-unilia.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+            "en": "University of Livingstonia - UNILIA"
+        },
+        "https://idp.luanar.ac.mw/idp/shibboleth": {
+            "en": "Lilongwe University of Agriculture and Natural Resources - LUANAR"
+        },
+        "https://idp.maren.ac.mw/idp/shibboleth": {
+            "en": "Malawi Research and Education Network - MAREN"
+        },
+        "https://idp.mubas.ac.mw/idp/shibboleth": {
+            "en": "Malawi University of Business and Applied Sciences (MUBAS)"
+        },
+        "https://idp.must.ac.mw/idp/shibboleth": {
+            "en": "Malawi University of Science and Technology (MUST)"
+        },
+        "https://idp.mzuni.ac.mw/idp/shibboleth": {
+            "en": "Mzuzu University (MZUNI)"
+        },
+        "https://idp.saveproject.mw/idp/shibboleth": {
+            "en": "Ministry of Education"
+        },
+        "https://idp.unima.ac.mw/idp/shibboleth": {
+            "en": "University Of Malawi"
         }
     },
     "mx": {
