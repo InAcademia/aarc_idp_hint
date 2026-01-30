@@ -802,6 +802,9 @@
         "de": "Max-Planck-Institut für Softwaresysteme",
         "en": "Max Planck Institute for Software Systems"
     },
+    "https://idp.mpp.mpg.de/": {
+        "en": "Max Planck Institute for Physics"
+    },
     "https://idp.mu-edu.de/idp/shibboleth": {
         "de": "SRH Fernhochschule - The Mobile University",
         "en": "SRH Fernhochschule - The Distance Learning University"

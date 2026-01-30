@@ -303,6 +303,10 @@
         "en": "UFPI - Universidade Federal do Piaui",
         "pt-br": "UFPI - Universidade Federal do Piaui"
     },
+    "https://cafe.ufr.edu.br/idp/shibboleth": {
+        "en": "UFR - Universidade Federal de Rondonopolis",
+        "pt-br": "UFR - Universidade Federal de Rondonopolis"
+    },
     "https://cafe.ufrj.br/idp/shibboleth": {
         "en": "UFRJ - Universidade Federal do Rio de Janeiro",
         "pt-br": "UFRJ - Universidade Federal do Rio de Janeiro"
@@ -786,10 +790,6 @@
     "https://idp.ufpa.br/idp/shibboleth": {
         "en": "UFPA - Universidade Federal do Para",
         "pt-br": "UFPA - Universidade Federal do Para"
-    },
-    "https://idp.ufr.edu.br/idp/shibboleth": {
-        "en": "UFR - Universidade Federal de Rondonopolis",
-        "pt-br": "UFR - Universidade Federal de Rondonopolis"
     },
     "https://idp.ufrb.edu.br/idp/shibboleth": {
         "en": "UFRB - Universidade Federal do Reconcavo da Bahia",
