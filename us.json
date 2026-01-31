@@ -32,9 +32,6 @@
     "http://fs.carilionclinic.org/adfs/services/trust": {
         "en": "Carilion Clinic"
     },
-    "http://fs.uwp.edu/adfs/services/trust": {
-        "en": "University of Wisconsin-Parkside"
-    },
     "http://ksufed.kennesaw.edu/adfs/services/trust": {
         "en": "Kennesaw State University"
     },

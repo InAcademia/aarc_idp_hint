@@ -1884,10 +1884,6 @@
             "en": "EBMSP - Escola Bahiana de Medicina e Saude Publica",
             "pt-br": "EBMSP - Escola Bahiana de Medicina e Saude Publica"
         },
-        "https://josue.uenp.edu.br/idp/shibboleth": {
-            "en": "UENP - Universidade Estadual do Norte do Parana",
-            "pt-br": "UENP - Universidade Estadual do Norte do Parana"
-        },
         "https://login-cafe.ifrr.edu.br/idp/shibboleth": {
             "en": "IFRR - Instituto Federal de Roraima",
             "pt-br": "IFRR - Instituto Federal de Roraima"
@@ -9332,8 +9328,8 @@
             "fr": "L'Institut Agro Dijon"
         },
         "https://auth.centrale-marseille.fr/idp/shibboleth": {
-            "en": "Ecole Centrale Méditerranée",
-            "fr": "Ecole Centrale Méditerranée"
+            "en": "Centrale Méditerranée",
+            "fr": "Centrale Méditerranée"
         },
         "https://auth.chimie-paristech.fr/idp/saml2/metadata": {
             "en": "Ecole Nationale Supérieure de Chimie Paris",
@@ -15590,6 +15586,10 @@
         "https://idp.ub.ro/idp/shibboleth": {
             "en": "UBC Identity Provider"
         },
+        "https://idp.ubbcluj.ro/smp/saml2/idp/metadata.php": {
+            "en": "Babes-Bolyai University",
+            "ro": "Universitatea Babe??-Bolyai"
+        },
         "https://idp.unibuc.ro/idp/shibboleth": {
             "en": "University of Bucharest",
             "ro": "Universitatea din București"
@@ -19703,9 +19703,6 @@
         },
         "http://fs.carilionclinic.org/adfs/services/trust": {
             "en": "Carilion Clinic"
-        },
-        "http://fs.uwp.edu/adfs/services/trust": {
-            "en": "University of Wisconsin-Parkside"
         },
         "http://ksufed.kennesaw.edu/adfs/services/trust": {
             "en": "Kennesaw State University"

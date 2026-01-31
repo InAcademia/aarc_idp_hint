@@ -34,6 +34,10 @@
     "https://idp.ub.ro/idp/shibboleth": {
         "en": "UBC Identity Provider"
     },
+    "https://idp.ubbcluj.ro/smp/saml2/idp/metadata.php": {
+        "en": "Babes-Bolyai University",
+        "ro": "Universitatea Babe??-Bolyai"
+    },
     "https://idp.unibuc.ro/idp/shibboleth": {
         "en": "University of Bucharest",
         "ro": "Universitatea din București"
