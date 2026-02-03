@@ -751,6 +751,10 @@
         "en": "RNP - Rede Nacional de Ensino e Pesquisa",
         "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
     },
+    "https://idp.senaicimatec.com.br/idp/shibboleth": {
+        "en": "SENAI CIMATEC - Universidade SENAI CIMATEC",
+        "pt-br": "SENAI CIMATEC - Universidade SENAI CIMATEC"
+    },
     "https://idp.uel.br/idp/shibboleth": {
         "en": "UEL - Universidade Estadual de Londrina",
         "pt-br": "UEL - Universidade Estadual de Londrina"

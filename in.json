@@ -188,6 +188,9 @@
     "https://idp.dcpune.ac.in/idp/shibboleth": {
         "en": "Deccan college post-graduate and research institute"
     },
+    "https://idp.ddugu.ac.in/idp/shibboleth": {
+        "en": "Deen Dayal Upadhyay Gorakhpur University"
+    },
     "https://idp.dhsgsu.edu.in/idp/shibboleth": {
         "en": "Dr. Harisingh Gour Vishwavidyalaya"
     },
@@ -217,6 +220,9 @@
     },
     "https://idp.guglibrary.net/idp/shibboleth": {
         "en": "Gulbarga University"
+    },
+    "https://idp.gujaratvidyapith.org/idp/shibboleth": {
+        "en": "https://idp.gujaratvidyapith.org/"
     },
     "https://idp.hbtu.ac.in/idp/shibboleth": {
         "en": "Harcourt Butler Technical University"
@@ -607,6 +613,9 @@
     },
     "https://idp.ritrjpm.edu.in/idp/shibboleth": {
         "en": "RAMCO INSTITUTE OF TECHNOLOGY"
+    },
+    "https://idp.rtuassam.ac.in/idp/shibboleth": {
+        "en": "Rabindranath Tagore University"
     },
     "https://idp.ruralunivlibrary.ac.in/idp/shibboleth": {
         "en": "Gandhigram Rural Institute, Tamil Nadu"

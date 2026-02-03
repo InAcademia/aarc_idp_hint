@@ -1,5 +1,8 @@
 {
     "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
         "en": "Eko-Konnect Research and Education Initiative"
+    },
+    "https://idp.ngren.edu.ng/idp/shibboleth": {
+        "en": "idp.ngren.edu.ng"
     }
 }
