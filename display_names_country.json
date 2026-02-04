@@ -1084,6 +1084,10 @@
             "en": "IPA - Instituto Agronomico de Pernambuco",
             "pt-br": "IPA - Instituto Agronomico de Pernambuco"
         },
+        "https://cafe.ipen.br/idp/shibboleth": {
+            "en": "IPEN - Instituto de Pesquisas Energeticas e Nucleares",
+            "pt-br": "IPEN - Instituto de Pesquisas Energeticas e Nucleares"
+        },
         "https://cafe.isd.org.br/idp/shibboleth": {
             "en": "ISD - Instituto de Ensino e Pesquisa Alberto Santos Dumont",
             "pt-br": "ISD - Instituto de Ensino e Pesquisa Alberto Santos Dumont"
@@ -8220,6 +8224,10 @@
         "https://login.ueb.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Universidad Estatal de Bolivar - ueb",
             "es": "Universidad Estatal de Bolivar - ueb"
+        },
+        "https://login.uesmae.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Unidad Educativa Salesiana María Auxiliadora Esmeraldas - uesmae",
+            "es": "Unidad Educativa Salesiana María Auxiliadora Esmeraldas - uesmae"
         },
         "https://login.uestar.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Santo Tomas Apostol Riobamba - uestar",
@@ -15557,7 +15565,7 @@
             "en": "Research and Education Center (Shibboleth)"
         },
         "https://idpomren.mtc.edu.om/idp": {
-            "en": "Military Technology College (shibboleth)"
+            "en": "Military Technological College (shibboleth)"
         },
         "https://idpomren.muscatcollege.edu.om/idp": {
             "en": "Muscat College (shibboleth)"
