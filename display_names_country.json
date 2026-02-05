@@ -4780,10 +4780,6 @@
             "en": "Xichang University",
             "zh": "西昌学院(Xichang University)"
         },
-        "https://idp.xcu.edu.cn/idp/shibboleth": {
-            "en": "Xuchang University",
-            "zh": "许昌学院(Xuchang University)"
-        },
         "https://idp.xdsisu.edu.cn/idp/shibboleth": {
             "en": "Xianda College of Economics and Humanities Shanghai International Studies University",
             "zh": "上海外国语大学贤达经济人文学院(Xianda College of Economics and Humanities Shanghai International Studies University)"
@@ -13900,10 +13896,6 @@
             "en": "Lithuanian Academy of Music and Theatre",
             "lt": "Lietuvos muzikos ir teatro akademija"
         },
-        "https://sso.vgtu.lt/saml2/idp/metadata.php": {
-            "en": "Vilnius Gediminas Technical University",
-            "lt": "Vilniaus Gedimino technikos universitetas"
-        },
         "https://sso.vilniustech.lt/saml2/idp/metadata.php": {
             "en": "VilniusTech",
             "lt": "VilniusTech"
@@ -15353,6 +15345,10 @@
         "https://sts.windows.net/e3b461c3-cfd0-4566-b686-df4ec047ebd8/": {
             "en": "Zadkine",
             "nl": "Zadkine"
+        },
+        "https://sts.windows.net/e49a5284-3054-41c1-bc05-bd5c33092fe9/": {
+            "en": "Talland College (New)",
+            "nl": "Talland College (Nieuw)"
         },
         "https://sts.windows.net/e5c78cdf-04b3-4b36-a97a-4f15e225efd3/": {
             "en": "Thomas More Hogeschool",

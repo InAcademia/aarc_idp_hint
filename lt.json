@@ -71,10 +71,6 @@
         "en": "Lithuanian Academy of Music and Theatre",
         "lt": "Lietuvos muzikos ir teatro akademija"
     },
-    "https://sso.vgtu.lt/saml2/idp/metadata.php": {
-        "en": "Vilnius Gediminas Technical University",
-        "lt": "Vilniaus Gedimino technikos universitetas"
-    },
     "https://sso.vilniustech.lt/saml2/idp/metadata.php": {
         "en": "VilniusTech",
         "lt": "VilniusTech"
