@@ -215,6 +215,9 @@
     "https://idp.gitam.edu/idp/shibboleth": {
         "en": "GITAM Deemed to be University"
     },
+    "https://idp.grkarelaw.edu.in/idp/shibboleth": {
+        "en": "VVM's Govind Ramnath Kare College Of Law"
+    },
     "https://idp.gsmozecoe.org/idp/shibboleth": {
         "en": "Genba Sopanrao Moze College Of Engineering ,Balewadi, Pune"
     },
@@ -548,6 +551,9 @@
     "https://idp.nitt.edu/idp/shibboleth": {
         "en": "National Institute of Technology Tiruchirappalli"
     },
+    "https://idp.nitttrbpl.ac.in/idp/shibboleth": {
+        "en": "National Institute Of Technical Teachers Training and Research (NITTTR)"
+    },
     "https://idp.nitttrc.ac.in/idp/shibboleth": {
         "en": "NITTTR"
     },
@@ -746,6 +752,9 @@
     "https://idp.uoc.ac.in/idp/shibboleth": {
         "en": "University of Calicut"
     },
+    "https://idp.uprtou.ac.in/idp/shibboleth": {
+        "en": "Uttar Pradesh Rajarshi Tandon Open University"
+    },
     "https://idp.upvetuniv.edu.in/idp/shibboleth": {
         "en": "UP Pandit Deen Dayal Upadhyaya Veterinary University and  Gau-Anusandhan Sansthan, Mathura"
     },
@@ -793,6 +802,9 @@
     },
     "https://idpvesasc.ves.ac.in/idp/shibboleth": {
         "en": "Vivekanand Education Society"
+    },
+    "https://infed.rathinamcollege.ac.in/idp/shibboleth": {
+        "en": "Rathinam College Of Arts And Science"
     },
     "https://infed.temu.ac.in/idp/shibboleth": {
         "en": "Thunchath Ezhuthachan Malayalam University"

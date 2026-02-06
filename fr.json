@@ -175,10 +175,6 @@
         "en": "X - Ecole Polytechnique",
         "fr": "X - Ecole Polytechnique"
     },
-    "https://eliot.isae.fr/idp/shibboleth": {
-        "en": "ISAE",
-        "fr": "ISAE Institut Supérieur de l'Aéronautique et de l'Espace"
-    },
     "https://federation.ac-strasbourg.fr/idp/shibboleth": {
         "en": "Rectorat de Strasbourg",
         "fr": "Rectorat de Strasbourg"
