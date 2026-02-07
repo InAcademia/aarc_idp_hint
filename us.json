@@ -1445,9 +1445,6 @@
     "https://webauth.scrippscollege.edu/idp/shibboleth": {
         "en": "Scripps College"
     },
-    "https://webauth.shib.lsu.edu/idp/shibboleth": {
-        "en": "Louisiana State University"
-    },
     "https://webauth.umaryland.edu/idp/shibboleth": {
         "en": "University of Maryland Baltimore"
     },
@@ -1461,7 +1458,7 @@
         "en": "Wake Forest University"
     },
     "https://webauth2.shib.lsu.edu/idp/shibboleth": {
-        "en": "Louisiana State University - AAD"
+        "en": "Louisiana State University"
     },
     "https://weblogin.albany.edu/shibboleth/idp2": {
         "en": "University At Albany, State University of New York"
