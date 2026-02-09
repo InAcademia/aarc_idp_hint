@@ -1528,10 +1528,6 @@
             "en": "UFU - Universidade Federal de Uberlandia",
             "pt-br": "UFU - Universidade Federal de Uberlandia"
         },
-        "https://idp.esd.gov.br/idp/shibboleth": {
-            "en": "ESD - Escola Superior de Defesa",
-            "pt-br": "ESD - Escola Superior de Defesa"
-        },
         "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
             "en": "SOBERANA - Faculdade de Saude de Petrolina",
             "pt-br": "SOBERANA - Faculdade de Saude de Petrolina"
@@ -9875,6 +9871,10 @@
             "en": "IPSA, Institute of Polytechnic Science and Aeronautics",
             "fr": "IPSA - Ecole d'ingénieurs aéronautique et spatiale"
         },
+        "https://idp.isae.fr/idp/shibboleth": {
+            "en": "ISAE-SUPAERO  - Institut Supérieur de l’Aéronautique et  et de l'Espace",
+            "fr": "ISAE-SUPAERO  - Institut Supérieur de l’Aéronautique et  et de l'Espace"
+        },
         "https://idp.isara.fr/idp/shibboleth": {
             "en": "ISARA",
             "fr": "ISARA"
@@ -16936,10 +16936,6 @@
         "https://idp.aai.arnes.si/idp/20090116": {
             "en": "ARNES",
             "sl": "Arnes"
-        },
-        "https://idp.aai.um.si/idp": {
-            "en": "University of Maribor",
-            "sl": "Univerza v Mariboru  - Test"
         },
         "https://idp.almamater.si/idp/20110921": {
             "en": "University Alma Mater Europaea",
