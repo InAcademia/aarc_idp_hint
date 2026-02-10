@@ -1143,6 +1143,10 @@
         "en": "UFOPA - Universidade Federal do Oeste do Para",
         "pt-br": "UFOPA - Universidade Federal do Oeste do Para"
     },
+    "https://shibboleth.uft.edu.br/idp/shibboleth": {
+        "en": "UFT - Universidade Federal do Tocantins",
+        "pt-br": "UFT - Universidade Federal do Tocantins"
+    },
     "https://shibboleth.unb.br/idp/shibboleth": {
         "en": "UNB - Universidade de Brasilia",
         "pt-br": "UNB - Universidade de Brasilia"
@@ -1262,10 +1266,6 @@
     "https://sso-rnp.insper.edu.br/idp/shibboleth": {
         "en": "INSPER - Instituto de Ensino e Pesquisa",
         "pt-br": "INSPER - Instituto de Ensino e Pesquisa"
-    },
-    "https://sso.uft.edu.br/idp/shibboleth": {
-        "en": "UFT - Universidade Federal do Tocantins",
-        "pt-br": "UFT - Universidade Federal do Tocantins"
     },
     "https://st1-rnp-01.fundacaowilsonpicler.org.br/idp/shibboleth": {
         "en": "FWP - Fundacao Wilson Picler",

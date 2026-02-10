@@ -271,6 +271,10 @@
         "en": "Nikhef",
         "nl": "Nikhef"
     },
+    "https://st-antonius-ziekenhuis.de.wss.workspaceone.com/SAAS/API/1.0/GET/metadata/idp.xml": {
+        "en": "Stichting Sint Antonius Ziekenhuis (New)",
+        "nl": "Stichting Sint Antonius Ziekenhuis (New)"
+    },
     "https://st-antonius-ziekenhuis.vmwareidentity.de/SAAS/API/1.0/GET/metadata/idp.xml": {
         "en": "Stichting Sint Antonius Ziekenhuis",
         "nl": "Stichting Sint Antonius Ziekenhuis"
