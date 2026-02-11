@@ -869,6 +869,9 @@
     "https://idp.mru.ac.ug/idp/shibboleth": {
         "en": "Muteesa Royal University (MRU)"
     },
+    "https://idp.mu-ucsf.org/idp/shibboleth": {
+        "en": "Infectious Diseases Research Collaboration (IDRC)"
+    },
     "https://idp.ndu.ac.ug/idp/shibboleth": {
         "en": "Ndejje University IdP"
     },

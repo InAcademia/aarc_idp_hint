@@ -41,6 +41,9 @@
     "http://login.mayo.edu/adfs/services/trust": {
         "en": "Mayo Clinic"
     },
+    "http://login.tfs.tamu.edu/adfs/services/trust": {
+        "en": "Texas A&M Forest Service - IdP"
+    },
     "http://sso.oit.edu/idp": {
         "en": "Oregon Institute of Technology"
     },

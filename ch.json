@@ -214,6 +214,10 @@
         "de": "FFHS - Fernfachhochschule Schweiz",
         "en": "FFHS - Fernfachhochschule Schweiz"
     },
+    "https://idp.graduateinstitute.ch/idp/shibboleth": {
+        "en": "Institut de hautes études internationales et du développement",
+        "fr": "Institut de hautes études internationales et du développement"
+    },
     "https://idp.hslu.ch/idp/shibboleth": {
         "de": "HSLU - Hochschule Luzern",
         "en": "HSLU - Hochschule Luzern"

@@ -1276,10 +1276,6 @@
             "en": "UNIVILLE - Fundacao Educacional da Regiao de Joinville",
             "pt-br": "UNIVILLE - Fundacao Educacional da Regiao de Joinville"
         },
-        "https://cafe.unoesc.edu.br/idp/shibboleth": {
-            "en": "UNOESC - Universidade do Oeste de Santa Catarina",
-            "pt-br": "UNOESC - Universidade do Oeste de Santa Catarina"
-        },
         "https://cafe02.ifes.edu.br/idp/shibboleth": {
             "en": "IFES - Instituto Federal do Espirito Santo",
             "pt-br": "IFES - Instituto Federal do Espirito Santo"
@@ -1540,6 +1536,10 @@
             "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui",
             "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui"
         },
+        "https://idp.fapes.es.gov.br/idp/shibboleth": {
+            "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
+            "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
+        },
         "https://idp.fasec.edu.br/idp/shibboleth": {
             "en": "FASEC - Faculdade Serra Do Carmo",
             "pt-br": "FASEC - Faculdade Serra Do Carmo"
@@ -1763,6 +1763,10 @@
         "https://idp.unochapeco.edu.br/idp/shibboleth": {
             "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
             "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
+        },
+        "https://idp.unoesc.edu.br/idp/shibboleth": {
+            "en": "UNOESC - Universidade do Oeste de Santa Catarina",
+            "pt-br": "UNOESC - Universidade do Oeste de Santa Catarina"
         },
         "https://idp.uscs.edu.br/idp/shibboleth": {
             "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
@@ -2751,6 +2755,10 @@
         "https://idp.ffhs.ch/idp/shibboleth": {
             "de": "FFHS - Fernfachhochschule Schweiz",
             "en": "FFHS - Fernfachhochschule Schweiz"
+        },
+        "https://idp.graduateinstitute.ch/idp/shibboleth": {
+            "en": "Institut de hautes études internationales et du développement",
+            "fr": "Institut de hautes études internationales et du développement"
         },
         "https://idp.hslu.ch/idp/shibboleth": {
             "de": "HSLU - Hochschule Luzern",
@@ -8152,6 +8160,10 @@
         "https://login.spellman.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Salesiana Cardenal Spellman - spellman",
             "es": "Unidad Educativa Salesiana Cardenal Spellman - spellman"
+        },
+        "https://login.sudamericano.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Instituto Superior Tecnológico Sudamericano - sudamericano",
+            "es": "Instituto Superior Tecnológico Sudamericano - sudamericano"
         },
         "https://login.tecnologicoitca.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Tecnológico Superior José Chiriboga Grijalva - tecnologicoitca",
@@ -18772,6 +18784,9 @@
         "https://idp.mru.ac.ug/idp/shibboleth": {
             "en": "Muteesa Royal University (MRU)"
         },
+        "https://idp.mu-ucsf.org/idp/shibboleth": {
+            "en": "Infectious Diseases Research Collaboration (IDRC)"
+        },
         "https://idp.ndu.ac.ug/idp/shibboleth": {
             "en": "Ndejje University IdP"
         },
@@ -19396,6 +19411,9 @@
         },
         "https://idp.hsdc.ac.uk/shibboleth": {
             "en": "Havant & South Downs College"
+        },
+        "https://idp.hse.ie/openathens": {
+            "en": "HSE Library"
         },
         "https://idp.hud.ac.uk/shibboleth": {
             "en": "University of Huddersfield Library"
@@ -20578,6 +20596,9 @@
         },
         "http://login.mayo.edu/adfs/services/trust": {
             "en": "Mayo Clinic"
+        },
+        "http://login.tfs.tamu.edu/adfs/services/trust": {
+            "en": "Texas A&M Forest Service - IdP"
         },
         "http://sso.oit.edu/idp": {
             "en": "Oregon Institute of Technology"

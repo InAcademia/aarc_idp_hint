@@ -387,10 +387,6 @@
         "en": "UNIVILLE - Fundacao Educacional da Regiao de Joinville",
         "pt-br": "UNIVILLE - Fundacao Educacional da Regiao de Joinville"
     },
-    "https://cafe.unoesc.edu.br/idp/shibboleth": {
-        "en": "UNOESC - Universidade do Oeste de Santa Catarina",
-        "pt-br": "UNOESC - Universidade do Oeste de Santa Catarina"
-    },
     "https://cafe02.ifes.edu.br/idp/shibboleth": {
         "en": "IFES - Instituto Federal do Espirito Santo",
         "pt-br": "IFES - Instituto Federal do Espirito Santo"
@@ -651,6 +647,10 @@
         "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui",
         "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui"
     },
+    "https://idp.fapes.es.gov.br/idp/shibboleth": {
+        "en": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo",
+        "pt-br": "FAPES - Fundacao de Amparo a Pesquisa e Inovacao do Espirito Santo"
+    },
     "https://idp.fasec.edu.br/idp/shibboleth": {
         "en": "FASEC - Faculdade Serra Do Carmo",
         "pt-br": "FASEC - Faculdade Serra Do Carmo"
@@ -874,6 +874,10 @@
     "https://idp.unochapeco.edu.br/idp/shibboleth": {
         "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
         "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
+    },
+    "https://idp.unoesc.edu.br/idp/shibboleth": {
+        "en": "UNOESC - Universidade do Oeste de Santa Catarina",
+        "pt-br": "UNOESC - Universidade do Oeste de Santa Catarina"
     },
     "https://idp.uscs.edu.br/idp/shibboleth": {
         "en": "USCS - Universidade Municipal de Sao Caetano do Sul",

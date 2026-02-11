@@ -595,6 +595,9 @@
     "https://idp.hsdc.ac.uk/shibboleth": {
         "en": "Havant & South Downs College"
     },
+    "https://idp.hse.ie/openathens": {
+        "en": "HSE Library"
+    },
     "https://idp.hud.ac.uk/shibboleth": {
         "en": "University of Huddersfield Library"
     },
