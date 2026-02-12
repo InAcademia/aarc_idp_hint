@@ -272,12 +272,12 @@
         "nl": "Nikhef"
     },
     "https://st-antonius-ziekenhuis.de.wss.workspaceone.com/SAAS/API/1.0/GET/metadata/idp.xml": {
-        "en": "Stichting Sint Antonius Ziekenhuis (New)",
-        "nl": "Stichting Sint Antonius Ziekenhuis (New)"
-    },
-    "https://st-antonius-ziekenhuis.vmwareidentity.de/SAAS/API/1.0/GET/metadata/idp.xml": {
         "en": "Stichting Sint Antonius Ziekenhuis",
         "nl": "Stichting Sint Antonius Ziekenhuis"
+    },
+    "https://st-antonius-ziekenhuis.vmwareidentity.de/SAAS/API/1.0/GET/metadata/idp.xml": {
+        "en": "Stichting Sint Antonius Ziekenhuis (Old)",
+        "nl": "Stichting Sint Antonius Ziekenhuis (Oud)"
     },
     "https://sts.windows.net/016a9e48-ba0b-49f4-97f8-a88352164e58/": {
         "en": "NHL Stenden University of Applied Sciences",

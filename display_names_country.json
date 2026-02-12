@@ -1364,10 +1364,6 @@
             "en": "UFOP - Universidade Federal de Ouro Preto",
             "pt-br": "UFOP - Universidade Federal de Ouro Preto"
         },
-        "https://dourado2023.ufs.br/idp/shibboleth": {
-            "en": "UFS - Universidade Federal de Sergipe",
-            "pt-br": "UFS - Universidade Federal de Sergipe"
-        },
         "https://facape-vp-cafe.facape.br/idp/shibboleth": {
             "en": "FACAPE - Faculdade de Petrolina",
             "pt-br": "FACAPE - Faculdade de Petrolina"
@@ -1523,6 +1519,10 @@
         "https://idp.dr.ufu.br/idp/shibboleth": {
             "en": "UFU - Universidade Federal de Uberlandia",
             "pt-br": "UFU - Universidade Federal de Uberlandia"
+        },
+        "https://idp.esd.gov.br/idp/shibboleth": {
+            "en": "ESD - Escola Superior de Defesa",
+            "pt-br": "ESD - Escola Superior de Defesa"
         },
         "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
             "en": "SOBERANA - Faculdade de Saude de Petrolina",
@@ -1863,10 +1863,6 @@
         "https://idpv-cafe.redesecti.ba.gov.br/idp/shibboleth": {
             "en": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia",
             "pt-br": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia"
-        },
-        "https://idpv3-hsr.hsr.com.br/idp/shibboleth": {
-            "en": "HSR - Hospital Sao Rafael",
-            "pt-br": "HSR - Hospital Sao Rafael"
         },
         "https://idpv3.lna.br/idp/shibboleth": {
             "en": "LNA - Laboratorio Nacional de Astrofisica",
@@ -11934,6 +11930,9 @@
         "https://idp.ligo-india.in/idp/shibboleth": {
             "en": "LIGO-India Scientific Collaboration"
         },
+        "https://idp.lnipe.edu.in/idp/shibboleth": {
+            "en": "Lakshmibai National Institute Of Physical Education"
+        },
         "https://idp.lnmiit.ac.in/idp/shibboleth": {
             "en": "The LNM Institute of Information Technology"
         },
@@ -13539,6 +13538,10 @@
             "en": "Professional University of Information and Management for Innovation",
             "ja": "情報経営イノベーション専門職大学"
         },
+        "https://slink.secioss.com/kitasatounv": {
+            "en": "Kitasato University",
+            "ja": "北里大学"
+        },
         "https://smilodon10.dokkyo.ac.jp/idp/shibboleth": {
             "en": "Dokkyo University",
             "ja": "獨協大学"
@@ -14915,12 +14918,12 @@
             "nl": "Nikhef"
         },
         "https://st-antonius-ziekenhuis.de.wss.workspaceone.com/SAAS/API/1.0/GET/metadata/idp.xml": {
-            "en": "Stichting Sint Antonius Ziekenhuis (New)",
-            "nl": "Stichting Sint Antonius Ziekenhuis (New)"
-        },
-        "https://st-antonius-ziekenhuis.vmwareidentity.de/SAAS/API/1.0/GET/metadata/idp.xml": {
             "en": "Stichting Sint Antonius Ziekenhuis",
             "nl": "Stichting Sint Antonius Ziekenhuis"
+        },
+        "https://st-antonius-ziekenhuis.vmwareidentity.de/SAAS/API/1.0/GET/metadata/idp.xml": {
+            "en": "Stichting Sint Antonius Ziekenhuis (Old)",
+            "nl": "Stichting Sint Antonius Ziekenhuis (Oud)"
         },
         "https://sts.windows.net/016a9e48-ba0b-49f4-97f8-a88352164e58/": {
             "en": "NHL Stenden University of Applied Sciences",

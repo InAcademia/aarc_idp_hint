@@ -440,6 +440,9 @@
     "https://idp.ligo-india.in/idp/shibboleth": {
         "en": "LIGO-India Scientific Collaboration"
     },
+    "https://idp.lnipe.edu.in/idp/shibboleth": {
+        "en": "Lakshmibai National Institute Of Physical Education"
+    },
     "https://idp.lnmiit.ac.in/idp/shibboleth": {
         "en": "The LNM Institute of Information Technology"
     },

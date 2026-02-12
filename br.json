@@ -475,10 +475,6 @@
         "en": "UFOP - Universidade Federal de Ouro Preto",
         "pt-br": "UFOP - Universidade Federal de Ouro Preto"
     },
-    "https://dourado2023.ufs.br/idp/shibboleth": {
-        "en": "UFS - Universidade Federal de Sergipe",
-        "pt-br": "UFS - Universidade Federal de Sergipe"
-    },
     "https://facape-vp-cafe.facape.br/idp/shibboleth": {
         "en": "FACAPE - Faculdade de Petrolina",
         "pt-br": "FACAPE - Faculdade de Petrolina"
@@ -634,6 +630,10 @@
     "https://idp.dr.ufu.br/idp/shibboleth": {
         "en": "UFU - Universidade Federal de Uberlandia",
         "pt-br": "UFU - Universidade Federal de Uberlandia"
+    },
+    "https://idp.esd.gov.br/idp/shibboleth": {
+        "en": "ESD - Escola Superior de Defesa",
+        "pt-br": "ESD - Escola Superior de Defesa"
     },
     "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
         "en": "SOBERANA - Faculdade de Saude de Petrolina",
@@ -974,10 +974,6 @@
     "https://idpv-cafe.redesecti.ba.gov.br/idp/shibboleth": {
         "en": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia",
         "pt-br": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia"
-    },
-    "https://idpv3-hsr.hsr.com.br/idp/shibboleth": {
-        "en": "HSR - Hospital Sao Rafael",
-        "pt-br": "HSR - Hospital Sao Rafael"
     },
     "https://idpv3.lna.br/idp/shibboleth": {
         "en": "LNA - Laboratorio Nacional de Astrofisica",
