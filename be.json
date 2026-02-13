@@ -105,6 +105,10 @@
     "https://idp.hogent.be/idp": {
         "en": "Hogent"
     },
+    "https://idp.kikirpa.be/idp/shibboleth": {
+        "en": "Royal Institute for Cultural Heritage",
+        "fr": "Institut Royal du Patrimoine Artistique"
+    },
     "https://idp.kmkg-mrah.be/idp/shibboleth": {
         "en": "Royal Museums of Art and History, Brussels",
         "fr": "Musées royaux d'Art et d'Histoire, Bruxelles"

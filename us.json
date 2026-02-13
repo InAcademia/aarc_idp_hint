@@ -1199,6 +1199,9 @@
     "https://sso.it.utsa.edu/idp/shibboleth": {
         "en": "University of Texas at San Antonio"
     },
+    "https://sso.ju.edu/idp": {
+        "en": "Jacksonville University Identity Provider"
+    },
     "https://sso.kean.edu/idp": {
         "en": "Kean University"
     },

@@ -671,6 +671,10 @@
         "https://idp.hogent.be/idp": {
             "en": "Hogent"
         },
+        "https://idp.kikirpa.be/idp/shibboleth": {
+            "en": "Royal Institute for Cultural Heritage",
+            "fr": "Institut Royal du Patrimoine Artistique"
+        },
         "https://idp.kmkg-mrah.be/idp/shibboleth": {
             "en": "Royal Museums of Art and History, Brussels",
             "fr": "Musées royaux d'Art et d'Histoire, Bruxelles"
@@ -1131,10 +1135,6 @@
         "https://cafe.sede.embrapa.br/idp/shibboleth": {
             "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
             "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
-        },
-        "https://cafe.sgb.gov.br/idp/shibboleth": {
-            "en": "SGB - Servico Geologico do Brasil",
-            "pt-br": "SGB - Servico Geologico do Brasil"
         },
         "https://cafe.ucdb.br/idp/shibboleth": {
             "en": "UCDB - Universidade Catolica Dom Bosco",
@@ -1639,6 +1639,10 @@
         "https://idp.senaicimatec.com.br/idp/shibboleth": {
             "en": "SENAI CIMATEC - Universidade SENAI CIMATEC",
             "pt-br": "SENAI CIMATEC - Universidade SENAI CIMATEC"
+        },
+        "https://idp.sgb.gov.br/idp/shibboleth": {
+            "en": "SGB - Servico Geologico do Brasil",
+            "pt-br": "SGB - Servico Geologico do Brasil"
         },
         "https://idp.uel.br/idp/shibboleth": {
             "en": "UEL - Universidade Estadual de Londrina",
@@ -21757,6 +21761,9 @@
         },
         "https://sso.it.utsa.edu/idp/shibboleth": {
             "en": "University of Texas at San Antonio"
+        },
+        "https://sso.ju.edu/idp": {
+            "en": "Jacksonville University Identity Provider"
         },
         "https://sso.kean.edu/idp": {
             "en": "Kean University"

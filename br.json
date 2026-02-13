@@ -243,10 +243,6 @@
         "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
         "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
     },
-    "https://cafe.sgb.gov.br/idp/shibboleth": {
-        "en": "SGB - Servico Geologico do Brasil",
-        "pt-br": "SGB - Servico Geologico do Brasil"
-    },
     "https://cafe.ucdb.br/idp/shibboleth": {
         "en": "UCDB - Universidade Catolica Dom Bosco",
         "pt-br": "UCDB - Universidade Catolica Dom Bosco"
@@ -750,6 +746,10 @@
     "https://idp.senaicimatec.com.br/idp/shibboleth": {
         "en": "SENAI CIMATEC - Universidade SENAI CIMATEC",
         "pt-br": "SENAI CIMATEC - Universidade SENAI CIMATEC"
+    },
+    "https://idp.sgb.gov.br/idp/shibboleth": {
+        "en": "SGB - Servico Geologico do Brasil",
+        "pt-br": "SGB - Servico Geologico do Brasil"
     },
     "https://idp.uel.br/idp/shibboleth": {
         "en": "UEL - Universidade Estadual de Londrina",
