@@ -1156,6 +1156,10 @@
             "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
             "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
         },
+        "https://cafe.uenp.edu.br/idp/shibboleth": {
+            "en": "UENP - Universidade Estadual do Norte do Parana",
+            "pt-br": "UENP - Universidade Estadual do Norte do Parana"
+        },
         "https://cafe.uesb.br/idp/shibboleth": {
             "en": "UESB - Universidade Estadual do Sudoeste da Bahia",
             "pt-br": "UESB - Universidade Estadual do Sudoeste da Bahia"
