@@ -9564,8 +9564,8 @@
             "fr": "COMUE de Toulouse"
         },
         "https://identite.ensta-bretagne.fr/idp/shibboleth": {
-            "en": "ENSTA Bretagne",
-            "fr": "ENSTA Bretagne"
+            "en": "ENSTA - Campus de Brest (ex ENSTA Bretagne)",
+            "fr": "ENSTA - Campus de Brest (ex ENSTA Bretagne)"
         },
         "https://identite.univ-reims.fr/idp/shibboleth": {
             "en": "Université de Reims Champagne-Ardenne",
@@ -10348,8 +10348,8 @@
             "fr": "ensIIE"
         },
         "https://shibboleth.ensta.fr/idp/shibboleth": {
-            "en": "ENSTA Paris - Ecole Nationale Supérieure de Techniques Avancées",
-            "fr": "ENSTA Paris - Ecole Nationale Supérieure de Techniques Avancées"
+            "en": "ENSTA - Campus de Paris-Saclay",
+            "fr": "ENSTA - Campus de Paris-Saclay"
         },
         "https://shibboleth.grenoble-inp.fr/idp/shibboleth": {
             "en": "Grenoble INP - Institut polytechnique de Grenoble",
@@ -10406,10 +10406,6 @@
         "https://shibboleth3.utt.fr/idp/shibboleth": {
             "en": "Université de Technologie de Troyes - UTT",
             "fr": "Université de Technologie de Troyes - UTT"
-        },
-        "https://shibbov3-vm.ec-nantes.fr/idp/shibboleth": {
-            "en": "ECN3",
-            "fr": "ECN3"
         },
         "https://shibbov3.ephe.fr/idp/shibboleth": {
             "en": "EPHE - Ecole Pratique des Hautes Etudes",
@@ -15628,6 +15624,9 @@
         },
         "https://idp.neduet.edu.pk/idp/shibboleth": {
             "en": "NED University of Engineering and Technology Pakistan"
+        },
+        "https://idp.pern.edu.pk/idp/shibboleth": {
+            "en": "Pakistan Education & Research Network"
         },
         "https://idp.uos.edu.pk/idp/shibboleth": {
             "en": "University of Sargodha Pakistan"
