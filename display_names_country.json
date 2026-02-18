@@ -2623,10 +2623,6 @@
             "en": "Université de Neuchâtel",
             "fr": "Université de Neuchâtel"
         },
-        "https://aai-loginhep.edufr.ch/idp/shibboleth": {
-            "de": "HEP-PH FR - Pädagogische Hochschule Freiburg",
-            "en": "HEP-PH FR - University of Teacher Education Fribourg"
-        },
         "https://aai-logon.bfh.ch/idp/shibboleth": {
             "de": "BFH - Berner Fachhochschule",
             "en": "BFH - Berner Fachhochschule"
@@ -12012,6 +12008,9 @@
         "https://idp.niituniversity.in/idp/shibboleth": {
             "en": "NIIT University Library and Information Resource Centre ( NU LIRC )"
         },
+        "https://idp.nimhans.ac.in/idp/shibboleth": {
+            "en": "National Institute of Mental Health and Neuro Science"
+        },
         "https://idp.niperrbl.ac.in/idp/shibboleth": {
             "en": "National Institute of Pharmaceutical Education and Research-Raebareli"
         },
@@ -12059,6 +12058,9 @@
         },
         "https://idp.nluo.ac.in/idp/shibboleth": {
             "en": "National Law University Odisha"
+        },
+        "https://idp.nlutripura.ac.in/idp/shibboleth": {
+            "en": "National Law University, Tripura"
         },
         "https://idp.nmu.ac.in/idp/shibboleth": {
             "en": "Kavayitri Bahinabai Chaudhari North Maharashtra University"
