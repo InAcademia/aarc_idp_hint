@@ -1524,6 +1524,10 @@
             "en": "UFU - Universidade Federal de Uberlandia",
             "pt-br": "UFU - Universidade Federal de Uberlandia"
         },
+        "https://idp.dti.ufv.br/idp/shibboleth": {
+            "en": "UFV - Universidade Federal de Vicosa",
+            "pt-br": "UFV - Universidade Federal de Vicosa"
+        },
         "https://idp.esd.gov.br/idp/shibboleth": {
             "en": "ESD - Escola Superior de Defesa",
             "pt-br": "ESD - Escola Superior de Defesa"
@@ -1703,10 +1707,6 @@
         "https://idp.uftm.edu.br/idp/shibboleth": {
             "en": "UFTM - Universidade Federal do Triangulo Mineiro",
             "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
-        },
-        "https://idp.ufv.br/idp/shibboleth": {
-            "en": "UFV - Universidade Federal de Vicosa",
-            "pt-br": "UFV - Universidade Federal de Vicosa"
         },
         "https://idp.unesc.net/idp/shibboleth": {
             "en": "UNESC - Universidade do Extremo Sul Catarinense",
@@ -9771,6 +9771,10 @@
             "en": "ENS Rennes",
             "fr": "ENS Rennes"
         },
+        "https://idp.ens2m.fr/idp/shibboleth": {
+            "en": "SUPMlCROTECH - ENSMM",
+            "fr": "SUPMlCROTECH - ENSMM"
+        },
         "https://idp.ensae.fr/saml2/idp/metadata.php": {
             "en": "ENSAE - École Nationale de la Statistique et de l'Administration Économique",
             "fr": "ENSAE - École Nationale de la Statistique et de l'Administration Économique"
@@ -13961,10 +13965,15 @@
             "fr": "RESTENA Utilisateurs"
         },
         "https://sts.windows.net/2cd2c6ea-4356-45a2-8444-cacbd8a744df/": {
-            "en": "https://sts.windows.net/2cd2c6ea-4356-45a2-8444-cacbd8a744df/"
+            "en": "Vauban, French Primary and Secondary School in Luxembourg",
+            "fr": "Vauban, Ecole et Lycée Français de Luxembourg"
         },
         "https://sts.windows.net/487175ce-c313-4417-91bc-dc3b6721b8ee/": {
             "en": "LISER"
+        },
+        "https://sts.windows.net/dc0a8df5-07a3-4f82-aca0-230d315fd063/": {
+            "en": "Luxembourg National Data Service (LNDS)",
+            "fr": "Plateforme Nationale d'Echange de Données (PNED)"
         },
         "urn:x-iam-education-lu:auth": {
             "en": "MENJE - CGIE IAM Users",
@@ -14650,8 +14659,29 @@
         "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
             "en": "Eko-Konnect Research and Education Initiative"
         },
+        "https://idp.abu.edu.ng/idp/shibboleth": {
+            "en": "idp.abu.edu.ng"
+        },
+        "https://idp.buk.edu.ng/idp/shibboleth": {
+            "en": "idp.buk.edu.ng"
+        },
+        "https://idp.covenantuniversity.edu.ng/idp/shibboleth": {
+            "en": "idp.covenantuniversity.edu.ng"
+        },
         "https://idp.ngren.edu.ng/idp/shibboleth": {
             "en": "idp.ngren.edu.ng"
+        },
+        "https://idp.nuc.edu.ng/idp/shibboleth": {
+            "en": "idp.nuc.edu.ng"
+        },
+        "https://idp.oauife.edu.ng/idp/shibboleth": {
+            "en": "idp.oauife.edu.ng"
+        },
+        "https://idp.ui.edu.ng/idp/shibboleth": {
+            "en": "idp.ui.edu.ng"
+        },
+        "https://idp.unilag.edu.ng/idp/shibboleth": {
+            "en": "idp.unilag.edu.ng"
         }
     },
     "nl": {

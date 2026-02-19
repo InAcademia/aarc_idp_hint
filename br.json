@@ -631,6 +631,10 @@
         "en": "UFU - Universidade Federal de Uberlandia",
         "pt-br": "UFU - Universidade Federal de Uberlandia"
     },
+    "https://idp.dti.ufv.br/idp/shibboleth": {
+        "en": "UFV - Universidade Federal de Vicosa",
+        "pt-br": "UFV - Universidade Federal de Vicosa"
+    },
     "https://idp.esd.gov.br/idp/shibboleth": {
         "en": "ESD - Escola Superior de Defesa",
         "pt-br": "ESD - Escola Superior de Defesa"
@@ -810,10 +814,6 @@
     "https://idp.uftm.edu.br/idp/shibboleth": {
         "en": "UFTM - Universidade Federal do Triangulo Mineiro",
         "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
-    },
-    "https://idp.ufv.br/idp/shibboleth": {
-        "en": "UFV - Universidade Federal de Vicosa",
-        "pt-br": "UFV - Universidade Federal de Vicosa"
     },
     "https://idp.unesc.net/idp/shibboleth": {
         "en": "UNESC - Universidade do Extremo Sul Catarinense",

@@ -475,6 +475,10 @@
         "en": "ENS Rennes",
         "fr": "ENS Rennes"
     },
+    "https://idp.ens2m.fr/idp/shibboleth": {
+        "en": "SUPMlCROTECH - ENSMM",
+        "fr": "SUPMlCROTECH - ENSMM"
+    },
     "https://idp.ensae.fr/saml2/idp/metadata.php": {
         "en": "ENSAE - École Nationale de la Statistique et de l'Administration Économique",
         "fr": "ENSAE - École Nationale de la Statistique et de l'Administration Économique"
