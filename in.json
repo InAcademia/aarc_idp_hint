@@ -590,6 +590,9 @@
     "https://idp.paavai.edu.in/idp/shibboleth": {
         "en": "Paavai Engineering College"
     },
+    "https://idp.pec.ac.in/idp/shibboleth": {
+        "en": "Punjab Engineering College"
+    },
     "https://idp.pes.edu/idp/shibboleth": {
         "en": "PES University"
     },

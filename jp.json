@@ -34,6 +34,10 @@
         "en": "Akita International University",
         "ja": "国際教養大学"
     },
+    "https://bukkyouniv.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Bukkyo University",
+        "ja": "佛教大学"
+    },
     "https://dbcls.ex-tic.com/auth/gakunin/saml2/assertions": {
         "en": "Research Organization of Information and Systems, Database Center for Life Science",
         "ja": "情報・システム研究機構　ライフサイエンス統合データベースセンター"

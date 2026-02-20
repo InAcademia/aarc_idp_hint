@@ -12084,6 +12084,9 @@
         "https://idp.paavai.edu.in/idp/shibboleth": {
             "en": "Paavai Engineering College"
         },
+        "https://idp.pec.ac.in/idp/shibboleth": {
+            "en": "Punjab Engineering College"
+        },
         "https://idp.pes.edu/idp/shibboleth": {
             "en": "PES University"
         },
@@ -13055,6 +13058,10 @@
         "https://axl.aiu.ac.jp/idp/shibboleth": {
             "en": "Akita International University",
             "ja": "国際教養大学"
+        },
+        "https://bukkyouniv.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Bukkyo University",
+            "ja": "佛教大学"
         },
         "https://dbcls.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "Research Organization of Information and Systems, Database Center for Life Science",
@@ -14844,10 +14851,6 @@
         "http://sts.rietveldacademie.nl/adfs/services/trust": {
             "en": "Gerrit Rietveld Academie",
             "nl": "Gerrit Rietveld Academie"
-        },
-        "http://sts.talland.nl/adfs/services/trust": {
-            "en": "Talland College",
-            "nl": "Talland College"
         },
         "http://sts.tno.nl/adfs/services/trust": {
             "en": "TNO Innovation for life",
@@ -17938,6 +17941,9 @@
         },
         "https://idp.nm-aist.ac.tz/idp/shibboleth": {
             "en": "The Nelson Mandela African Institution of Science and Technology (NM-AIST)"
+        },
+        "https://idp.saut.ac.tz/idp/shibboleth": {
+            "en": "The St. Augustine University of Tanzania (SAUT)"
         },
         "https://ldap-edugain.ternet.or.tz/idp/shibboleth": {
             "en": "Tanzania Education and Research Network  (TERNET)"

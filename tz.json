@@ -26,6 +26,9 @@
     "https://idp.nm-aist.ac.tz/idp/shibboleth": {
         "en": "The Nelson Mandela African Institution of Science and Technology (NM-AIST)"
     },
+    "https://idp.saut.ac.tz/idp/shibboleth": {
+        "en": "The St. Augustine University of Tanzania (SAUT)"
+    },
     "https://ldap-edugain.ternet.or.tz/idp/shibboleth": {
         "en": "Tanzania Education and Research Network  (TERNET)"
     }

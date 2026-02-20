@@ -159,10 +159,6 @@
         "en": "Gerrit Rietveld Academie",
         "nl": "Gerrit Rietveld Academie"
     },
-    "http://sts.talland.nl/adfs/services/trust": {
-        "en": "Talland College",
-        "nl": "Talland College"
-    },
     "http://sts.tno.nl/adfs/services/trust": {
         "en": "TNO Innovation for life",
         "nl": "TNO Innovation for life"
