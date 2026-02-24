@@ -1524,10 +1524,6 @@
             "en": "UFU - Universidade Federal de Uberlandia",
             "pt-br": "UFU - Universidade Federal de Uberlandia"
         },
-        "https://idp.dti.ufv.br/idp/shibboleth": {
-            "en": "UFV - Universidade Federal de Vicosa",
-            "pt-br": "UFV - Universidade Federal de Vicosa"
-        },
         "https://idp.esd.gov.br/idp/shibboleth": {
             "en": "ESD - Escola Superior de Defesa",
             "pt-br": "ESD - Escola Superior de Defesa"
@@ -1707,6 +1703,10 @@
         "https://idp.uftm.edu.br/idp/shibboleth": {
             "en": "UFTM - Universidade Federal do Triangulo Mineiro",
             "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
+        },
+        "https://idp.ufv.br/idp/shibboleth": {
+            "en": "UFV - Universidade Federal de Vicosa",
+            "pt-br": "UFV - Universidade Federal de Vicosa"
         },
         "https://idp.unesc.net/idp/shibboleth": {
             "en": "UNESC - Universidade do Extremo Sul Catarinense",
@@ -11901,6 +11901,9 @@
         "https://idp.karunya.edu/idp/shibboleth": {
             "en": "Karunya Institute of Technology and Sciences (Deemed University)"
         },
+        "https://idp.kau.in/idp/shibboleth": {
+            "en": "Kerala Agricultural University"
+        },
         "https://idp.kbvsasun.ac.in/idp/shibboleth": {
             "en": "Kumar Bhaskar Varma Sanskrit And Ancient Studies University"
         },
@@ -11918,6 +11921,9 @@
         },
         "https://idp.khongnangthabauniversity.org/idp/shibboleth": {
             "en": "Khongnangthaba University"
+        },
+        "https://idp.kkhsou.ac.in/idp/shibboleth": {
+            "en": "Krishna Kanta Handiqui State Open University"
         },
         "https://idp.kohacloud.in/idp/shibboleth": {
             "en": "Visva Bharati"
@@ -12084,7 +12090,7 @@
         "https://idp.paavai.edu.in/idp/shibboleth": {
             "en": "Paavai Engineering College"
         },
-        "https://idp.pec.ac.in/idp/shibboleth": {
+        "https://idp.pec.edu.in/idp/shibboleth": {
             "en": "Punjab Engineering College"
         },
         "https://idp.pes.edu/idp/shibboleth": {
@@ -15413,8 +15419,8 @@
             "nl": "Zadkine"
         },
         "https://sts.windows.net/e49a5284-3054-41c1-bc05-bd5c33092fe9/": {
-            "en": "Talland College (New)",
-            "nl": "Talland College (Nieuw)"
+            "en": "Talland College",
+            "nl": "Talland College"
         },
         "https://sts.windows.net/e5c78cdf-04b3-4b36-a97a-4f15e225efd3/": {
             "en": "Thomas More Hogeschool",

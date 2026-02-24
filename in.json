@@ -407,6 +407,9 @@
     "https://idp.karunya.edu/idp/shibboleth": {
         "en": "Karunya Institute of Technology and Sciences (Deemed University)"
     },
+    "https://idp.kau.in/idp/shibboleth": {
+        "en": "Kerala Agricultural University"
+    },
     "https://idp.kbvsasun.ac.in/idp/shibboleth": {
         "en": "Kumar Bhaskar Varma Sanskrit And Ancient Studies University"
     },
@@ -424,6 +427,9 @@
     },
     "https://idp.khongnangthabauniversity.org/idp/shibboleth": {
         "en": "Khongnangthaba University"
+    },
+    "https://idp.kkhsou.ac.in/idp/shibboleth": {
+        "en": "Krishna Kanta Handiqui State Open University"
     },
     "https://idp.kohacloud.in/idp/shibboleth": {
         "en": "Visva Bharati"
@@ -590,7 +596,7 @@
     "https://idp.paavai.edu.in/idp/shibboleth": {
         "en": "Paavai Engineering College"
     },
-    "https://idp.pec.ac.in/idp/shibboleth": {
+    "https://idp.pec.edu.in/idp/shibboleth": {
         "en": "Punjab Engineering College"
     },
     "https://idp.pes.edu/idp/shibboleth": {
