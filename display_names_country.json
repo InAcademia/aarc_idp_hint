@@ -1368,6 +1368,10 @@
             "en": "UFOP - Universidade Federal de Ouro Preto",
             "pt-br": "UFOP - Universidade Federal de Ouro Preto"
         },
+        "https://dourado2023.ufs.br/idp/shibboleth": {
+            "en": "UFS - Universidade Federal de Sergipe",
+            "pt-br": "UFS - Universidade Federal de Sergipe"
+        },
         "https://facape-vp-cafe.facape.br/idp/shibboleth": {
             "en": "FACAPE - Faculdade de Petrolina",
             "pt-br": "FACAPE - Faculdade de Petrolina"
@@ -7576,7 +7580,7 @@
         },
         "https://sso.hfm-nuernberg.de/idp/shibboleth": {
             "de": "Hochschule für Musik Nürnberg",
-            "en": "College of Music Nuremberg"
+            "en": "University of Music Nuremberg"
         },
         "https://sso.hfph.de/idp/shibboleth": {
             "de": "Hochschule für Philosophie München",
@@ -9459,10 +9463,6 @@
             "en": "National school of architecture Paris-Belleville",
             "fr": "Ecole Nationale Supérieure d'Architecture de Paris-Belleville"
         },
-        "https://ea-idp-01.ecole-air-espace.fr/idp/shibboleth": {
-            "en": "AIR AND SPACE SCHOOL",
-            "fr": "ECOLE DE L'AIR et de l'ESPACE"
-        },
         "https://educonnect.education.gouv.fr/idp": {
             "en": "ÉduConnect",
             "fr": "ÉduConnect"
@@ -9586,6 +9586,10 @@
         "https://idp-connect.renater.fr/idp/shibboleth": {
             "en": "Identitas : RENATER Connect",
             "fr": "Identitas : RENATER Connect"
+        },
+        "https://idp-ecole-air.renater.fr/idp/shibboleth": {
+            "en": "Air and Space Force Academy",
+            "fr": "Ecole de l'air et de l'espace"
         },
         "https://idp-ensad.renater.fr/idp/shibboleth": {
             "en": "EnsAD - École nationale supérieure des Arts Décoratifs",
