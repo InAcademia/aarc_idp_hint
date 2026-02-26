@@ -778,6 +778,10 @@
         "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
         "en": "Leibniz Supercomputing Centre (LRZ)"
     },
+    "https://idp.med.uni-rostock.de/idp/shibboleth": {
+        "de": "Universitaetsmedizin Rostock",
+        "en": "Rostock University Medical Center"
+    },
     "https://idp.medizin.uni-leipzig.de/idp/shibboleth": {
         "de": "Universitätsklinikum Leipzig",
         "en": "https://idp.medizin.uni-leipzig.de/idp/shibboleth"

@@ -1592,6 +1592,10 @@
             "en": "IFS - Instituto Federal de Sergipe",
             "pt-br": "IFS - Instituto Federal de Sergipe"
         },
+        "https://idp.ifsuldeminas.edu.br/idp/shibboleth": {
+            "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
+            "pt-br": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais"
+        },
         "https://idp.iftm.edu.br/idp/shibboleth": {
             "en": "IFTM - Instituto Federal do Triangulo Mineiro",
             "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
@@ -6810,6 +6814,10 @@
         "https://idp.lrz.de/idp/shibboleth": {
             "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
             "en": "Leibniz Supercomputing Centre (LRZ)"
+        },
+        "https://idp.med.uni-rostock.de/idp/shibboleth": {
+            "de": "Universitaetsmedizin Rostock",
+            "en": "Rostock University Medical Center"
         },
         "https://idp.medizin.uni-leipzig.de/idp/shibboleth": {
             "de": "Universitätsklinikum Leipzig",
