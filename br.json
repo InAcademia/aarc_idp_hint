@@ -111,6 +111,10 @@
         "en": "ESPM - Escola Superior de Propaganda e Marketing",
         "pt-br": "ESPM - Escola Superior de Propaganda e Marketing"
     },
+    "https://cafe.fapeu.org.br/idp/shibboleth": {
+        "en": "FAPEU - Fundacao de Amparo a Pesquisa e Extensao Universitaria",
+        "pt-br": "FAPEU - Fundacao de Amparo a Pesquisa e Extensao Universitaria"
+    },
     "https://cafe.fmc-campos.com.br/idp/shibboleth": {
         "en": "FMC - Faculdade de Medicina de Campos",
         "pt-br": "FMC - Faculdade de Medicina de Campos"

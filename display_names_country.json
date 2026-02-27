@@ -1004,6 +1004,10 @@
             "en": "ESPM - Escola Superior de Propaganda e Marketing",
             "pt-br": "ESPM - Escola Superior de Propaganda e Marketing"
         },
+        "https://cafe.fapeu.org.br/idp/shibboleth": {
+            "en": "FAPEU - Fundacao de Amparo a Pesquisa e Extensao Universitaria",
+            "pt-br": "FAPEU - Fundacao de Amparo a Pesquisa e Extensao Universitaria"
+        },
         "https://cafe.fmc-campos.com.br/idp/shibboleth": {
             "en": "FMC - Faculdade de Medicina de Campos",
             "pt-br": "FMC - Faculdade de Medicina de Campos"
@@ -15281,6 +15285,10 @@
         "https://sts.windows.net/a3b39014-7adc-48fa-a114-37c2434dbd69/": {
             "en": "Hanze University of Applied Sciences",
             "nl": "Hanze"
+        },
+        "https://sts.windows.net/a3b68aaf-f349-420a-94c0-e0e7e56b73e0/": {
+            "en": "MBO Raad",
+            "nl": "MBO Raad"
         },
         "https://sts.windows.net/a55886c4-2e41-4058-8118-ddeff4e87eec/": {
             "en": "Elisabeth TweeSteden Ziekenhuis",
