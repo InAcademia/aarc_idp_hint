@@ -537,6 +537,10 @@
         "en": "University of Sannio",
         "it": "Università degli Studi del Sannio"
     },
+    "https://idp.unisob.na.it/idp/shibboleth": {
+        "en": "Università degli Studi Suor Orsola Benincasa",
+        "it": "Università degli Studi Suor Orsola Benincasa"
+    },
     "https://idp.unistrapg.it/idp/shibboleth": {
         "en": "University for Foreigners Perugia",
         "it": "Università per Stranieri di Perugia"
