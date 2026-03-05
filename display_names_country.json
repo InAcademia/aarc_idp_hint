@@ -631,6 +631,9 @@
             "en": "Liege University - (ULiege / ULg)",
             "fr": "Université de Liège - (ULiège / ULg)"
         },
+        "https://idp-staff-duomfa.belnet.be/idp/shibboleth": {
+            "en": "Belnet Staff Login with Duo"
+        },
         "https://idp-staff-mfa.belnet.be/shibboleth": {
             "en": "Belnet Staff IdP with MFA"
         },
@@ -7074,6 +7077,10 @@
         "https://idp.zi-mannheim.de/idp/shibboleth": {
             "de": "Zentralinstitut für Seelische Gesundheit",
             "en": "Central Institute of Mental Health"
+        },
+        "https://idp.zois-berlin.de/idp/shibboleth": {
+            "de": "Zentrum für Osteuropa- und internationale Studien (ZOiS)",
+            "en": "Centre for East European and International Studies (ZOiS)"
         },
         "https://idp.zu.de/idp/shibboleth": {
             "de": "Zeppelin Universität",
