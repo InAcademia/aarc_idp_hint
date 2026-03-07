@@ -1589,6 +1589,10 @@
         "de": "Bucerius Law School gGmbH",
         "en": "Bucerius Law School gGmbH"
     },
+    "https://sso.leibniz-iom.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Oberflächenmodifizierung e.V.",
+        "en": "Leibniz-Institut für Oberflächenmodifizierung e.V."
+    },
     "https://sso.mwk.bwl.de/auth/realms/MWK-DFN": {
         "de": "Ministerium für Wissenschaft, Forschung und Kunst BW (MWK)",
         "en": "Ministry of Science, Reseach and Arts BW (MWK)"

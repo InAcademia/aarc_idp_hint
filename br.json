@@ -115,6 +115,10 @@
         "en": "FAPEU - Fundacao de Amparo a Pesquisa e Extensao Universitaria",
         "pt-br": "FAPEU - Fundacao de Amparo a Pesquisa e Extensao Universitaria"
     },
+    "https://cafe.fmabc.br/idp/shibboleth": {
+        "en": "FMABC - Centro Universitario FMABC",
+        "pt-br": "FMABC - Centro Universitario FMABC"
+    },
     "https://cafe.fmc-campos.com.br/idp/shibboleth": {
         "en": "FMC - Faculdade de Medicina de Campos",
         "pt-br": "FMC - Faculdade de Medicina de Campos"
@@ -1063,7 +1067,7 @@
         "en": "ENAP - Escola Nacional de Administracao Publica",
         "pt-br": "ENAP - Escola Nacional de Administracao Publica"
     },
-    "https://redecafe.gigacandanga.net.br/idp/shibboleth": {
+    "https://redecafe2.gigacandanga.net.br/idp/shibboleth": {
         "en": "GIGA - Associacao GigaCandanga",
         "pt-br": "GIGA - Associacao GigaCandanga"
     },
