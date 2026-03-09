@@ -343,6 +343,10 @@
         "en": "CORILA",
         "it": "CORILA"
     },
+    "https://idp.cta-observatory.org/idp/shibboleth": {
+        "en": "CTAO ERIC",
+        "it": "CTAO ERIC"
+    },
     "https://idp.dir.garr.it/idp/shibboleth": {
         "en": "GARR",
         "it": "GARR"

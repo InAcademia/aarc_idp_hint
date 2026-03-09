@@ -452,6 +452,9 @@
     "https://idp.lnmiit.ac.in/idp/shibboleth": {
         "en": "The LNM Institute of Information Technology"
     },
+    "https://idp.lnmu.ac.in/idp/shibboleth": {
+        "en": "Lalit Narayan Mithila University"
+    },
     "https://idp.mahindrauniversity.edu.in/idp/shibboleth": {
         "en": "Mahindra University"
     },
