@@ -1319,6 +1319,9 @@
     "https://sso.uah.edu/idp/shibboleth": {
         "en": "University of Alabama in Huntsville"
     },
+    "https://sso.ucar.edu/idp": {
+        "en": "UCAR"
+    },
     "https://sso.uchc.edu/idp": {
         "en": "UConn Health"
     },

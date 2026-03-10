@@ -872,6 +872,9 @@
     "https://idp.mu-ucsf.org/idp/shibboleth": {
         "en": "Infectious Diseases Research Collaboration (IDRC)"
     },
+    "https://idp.must.ac.ug/idp/shibboleth": {
+        "en": "Mbarara University of Science and Technology (MUST)"
+    },
     "https://idp.ndu.ac.ug/idp/shibboleth": {
         "en": "Ndejje University IdP"
     },

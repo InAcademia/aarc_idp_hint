@@ -156,6 +156,10 @@
         "de": "Empa",
         "en": "Empa"
     },
+    "https://aai.hcuge.ch/idp/shibboleth": {
+        "en": "HUG - Hôpitaux Universitaires de Genève",
+        "fr": "HUG - Hôpitaux Universitaires de Genève"
+    },
     "https://aai.idiap.ch/idp/shibboleth": {
         "en": "Idiap Research Institute"
     },

@@ -2714,6 +2714,10 @@
             "de": "Empa",
             "en": "Empa"
         },
+        "https://aai.hcuge.ch/idp/shibboleth": {
+            "en": "HUG - Hôpitaux Universitaires de Genève",
+            "fr": "HUG - Hôpitaux Universitaires de Genève"
+        },
         "https://aai.idiap.ch/idp/shibboleth": {
             "en": "Idiap Research Institute"
         },
@@ -18880,6 +18884,9 @@
         "https://idp.mu-ucsf.org/idp/shibboleth": {
             "en": "Infectious Diseases Research Collaboration (IDRC)"
         },
+        "https://idp.must.ac.ug/idp/shibboleth": {
+            "en": "Mbarara University of Science and Technology (MUST)"
+        },
         "https://idp.ndu.ac.ug/idp/shibboleth": {
             "en": "Ndejje University IdP"
         },
@@ -21967,6 +21974,9 @@
         },
         "https://sso.uah.edu/idp/shibboleth": {
             "en": "University of Alabama in Huntsville"
+        },
+        "https://sso.ucar.edu/idp": {
+            "en": "UCAR"
         },
         "https://sso.uchc.edu/idp": {
             "en": "UConn Health"
