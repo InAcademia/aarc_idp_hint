@@ -38,6 +38,9 @@
     "http://login.dsu.edu/adfs/services/trust": {
         "en": "Dakota State University"
     },
+    "http://login.goshen.edu/exk10q6y0p34MacYl698": {
+        "en": "Goshen College"
+    },
     "http://login.mayo.edu/adfs/services/trust": {
         "en": "Mayo Clinic"
     },
@@ -70,6 +73,9 @@
     },
     "https://account.vcccd.edu": {
         "en": "Ventura County Comm College District"
+    },
+    "https://adfs.jsums.edu/adfs/ls/idpinitiatedsignon": {
+        "en": "Jackson State University"
     },
     "https://agsso.agnet.tamu.edu/idp/shibboleth": {
         "en": "Texas A&M AgriLife Identity Provider"
@@ -1207,6 +1213,9 @@
     },
     "https://sso.kenyon.edu/idp/shibboleth": {
         "en": "Kenyon College"
+    },
+    "https://sso.laccd.edu/idp": {
+        "en": "Los Angeles Community College District"
     },
     "https://sso.lsuhsc.edu/idp": {
         "en": "Louisiana State University Health Sciences Center - New Orleans"

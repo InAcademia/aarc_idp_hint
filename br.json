@@ -487,10 +487,6 @@
         "en": "UFS - Universidade Federal de Sergipe",
         "pt-br": "UFS - Universidade Federal de Sergipe"
     },
-    "https://facape-vp-cafe.facape.br/idp/shibboleth": {
-        "en": "FACAPE - Faculdade de Petrolina",
-        "pt-br": "FACAPE - Faculdade de Petrolina"
-    },
     "https://federacao-1.hcpa.edu.br/idp/shibboleth": {
         "en": "HCPA - Hospital de Clinicas de Porto Alegre",
         "pt-br": "HCPA - Hospital de Clinicas de Porto Alegre"
@@ -646,6 +642,10 @@
     "https://idp.esd.gov.br/idp/shibboleth": {
         "en": "ESD - Escola Superior de Defesa",
         "pt-br": "ESD - Escola Superior de Defesa"
+    },
+    "https://idp.facape.br/idp/shibboleth": {
+        "en": "FACAPE - Faculdade de Petrolina",
+        "pt-br": "FACAPE - Faculdade de Petrolina"
     },
     "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
         "en": "SOBERANA - Faculdade de Saude de Petrolina",
@@ -1155,6 +1155,10 @@
         "en": "UFMA - Universidade Federal do Maranhao",
         "pt-br": "UFMA - Universidade Federal do Maranhao"
     },
+    "https://shibboleth.ufms.br/idp/shibboleth": {
+        "en": "UFMS - Universidade Federal de Mato Grosso do Sul",
+        "pt-br": "UFMS - Universidade Federal de Mato Grosso do Sul"
+    },
     "https://shibboleth.ufopa.edu.br/idp/shibboleth": {
         "en": "UFOPA - Universidade Federal do Oeste do Para",
         "pt-br": "UFOPA - Universidade Federal do Oeste do Para"
@@ -1230,10 +1234,6 @@
     "https://shibboleth4.uem.br/idp/shibboleth": {
         "en": "UEM - Universidade Estadual de Maringa",
         "pt-br": "UEM - Universidade Estadual de Maringa"
-    },
-    "https://shibboleth4.ufms.br/idp/shibboleth": {
-        "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
-        "pt-br": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul"
     },
     "https://shibboleth4.utfpr.edu.br/idp/shibboleth": {
         "en": "UTFPR - Universidade Tecnologica Federal do Parana",

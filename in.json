@@ -248,6 +248,9 @@
     "https://idp.iiitb.ac.in/idp/shibboleth": {
         "en": "International Institute of Information Technology Bangalore"
     },
+    "https://idp.iiitbhopal.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Information Technology (IIIT) Bhopal"
+    },
     "https://idp.iiitd.edu.in/idp/shibboleth": {
         "en": "Indraprastha Institute of Information Technology Delhi (IIIT-Delhi)"
     },
@@ -613,6 +616,9 @@
     },
     "https://idp.pmulibrary.org/idp/shibboleth": {
         "en": "Periyar Maniammai Institute of Science and Technology"
+    },
+    "https://idp.ppup.ac.in/idp/shibboleth": {
+        "en": "Patliputra University, Patna"
     },
     "https://idp.presiuniv.ac.in/idp/shibboleth": {
         "en": "Presidency University"

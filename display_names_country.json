@@ -1380,10 +1380,6 @@
             "en": "UFS - Universidade Federal de Sergipe",
             "pt-br": "UFS - Universidade Federal de Sergipe"
         },
-        "https://facape-vp-cafe.facape.br/idp/shibboleth": {
-            "en": "FACAPE - Faculdade de Petrolina",
-            "pt-br": "FACAPE - Faculdade de Petrolina"
-        },
         "https://federacao-1.hcpa.edu.br/idp/shibboleth": {
             "en": "HCPA - Hospital de Clinicas de Porto Alegre",
             "pt-br": "HCPA - Hospital de Clinicas de Porto Alegre"
@@ -1539,6 +1535,10 @@
         "https://idp.esd.gov.br/idp/shibboleth": {
             "en": "ESD - Escola Superior de Defesa",
             "pt-br": "ESD - Escola Superior de Defesa"
+        },
+        "https://idp.facape.br/idp/shibboleth": {
+            "en": "FACAPE - Faculdade de Petrolina",
+            "pt-br": "FACAPE - Faculdade de Petrolina"
         },
         "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
             "en": "SOBERANA - Faculdade de Saude de Petrolina",
@@ -2048,6 +2048,10 @@
             "en": "UFMA - Universidade Federal do Maranhao",
             "pt-br": "UFMA - Universidade Federal do Maranhao"
         },
+        "https://shibboleth.ufms.br/idp/shibboleth": {
+            "en": "UFMS - Universidade Federal de Mato Grosso do Sul",
+            "pt-br": "UFMS - Universidade Federal de Mato Grosso do Sul"
+        },
         "https://shibboleth.ufopa.edu.br/idp/shibboleth": {
             "en": "UFOPA - Universidade Federal do Oeste do Para",
             "pt-br": "UFOPA - Universidade Federal do Oeste do Para"
@@ -2123,10 +2127,6 @@
         "https://shibboleth4.uem.br/idp/shibboleth": {
             "en": "UEM - Universidade Estadual de Maringa",
             "pt-br": "UEM - Universidade Estadual de Maringa"
-        },
-        "https://shibboleth4.ufms.br/idp/shibboleth": {
-            "en": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul",
-            "pt-br": "UFMS - Fundacao Universidade Federal de Mato Grosso do Sul"
         },
         "https://shibboleth4.utfpr.edu.br/idp/shibboleth": {
             "en": "UTFPR - Universidade Tecnologica Federal do Parana",
@@ -8004,6 +8004,14 @@
             "en": "Dania Academy"
         }
     },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
+        }
+    },
     "ec": {
         "https://login.armada.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Armada del Ecuador - armada",
@@ -11762,6 +11770,9 @@
         "https://idp.iiitb.ac.in/idp/shibboleth": {
             "en": "International Institute of Information Technology Bangalore"
         },
+        "https://idp.iiitbhopal.ac.in/idp/shibboleth": {
+            "en": "Indian Institute of Information Technology (IIIT) Bhopal"
+        },
         "https://idp.iiitd.edu.in/idp/shibboleth": {
             "en": "Indraprastha Institute of Information Technology Delhi (IIIT-Delhi)"
         },
@@ -12127,6 +12138,9 @@
         },
         "https://idp.pmulibrary.org/idp/shibboleth": {
             "en": "Periyar Maniammai Institute of Science and Technology"
+        },
+        "https://idp.ppup.ac.in/idp/shibboleth": {
+            "en": "Patliputra University, Patna"
         },
         "https://idp.presiuniv.ac.in/idp/shibboleth": {
             "en": "Presidency University"
@@ -20694,6 +20708,9 @@
         "http://login.dsu.edu/adfs/services/trust": {
             "en": "Dakota State University"
         },
+        "http://login.goshen.edu/exk10q6y0p34MacYl698": {
+            "en": "Goshen College"
+        },
         "http://login.mayo.edu/adfs/services/trust": {
             "en": "Mayo Clinic"
         },
@@ -20726,6 +20743,9 @@
         },
         "https://account.vcccd.edu": {
             "en": "Ventura County Comm College District"
+        },
+        "https://adfs.jsums.edu/adfs/ls/idpinitiatedsignon": {
+            "en": "Jackson State University"
         },
         "https://agsso.agnet.tamu.edu/idp/shibboleth": {
             "en": "Texas A&M AgriLife Identity Provider"
@@ -21863,6 +21883,9 @@
         },
         "https://sso.kenyon.edu/idp/shibboleth": {
             "en": "Kenyon College"
+        },
+        "https://sso.laccd.edu/idp": {
+            "en": "Los Angeles Community College District"
         },
         "https://sso.lsuhsc.edu/idp": {
             "en": "Louisiana State University Health Sciences Center - New Orleans"
