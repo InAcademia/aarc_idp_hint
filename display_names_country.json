@@ -5020,6 +5020,10 @@
             "en": "Zhongyuan University of Technology",
             "zh": "中原工学院(Zhongyuan University of Technology)"
         },
+        "https://idp.zuwe.edu.cn/idp/shibboleth": {
+            "en": "Zhejiang University of WaterResources and Electric Power",
+            "zh": "浙江水利水电学院(Zhejiang University of WaterResources and Electric Power)"
+        },
         "https://idp.zwu.edu.cn/idp/shibboleth": {
             "en": "Zhejiang Wanli University",
             "zh": "浙江万里学院(Zhejiang Wanli University)"
@@ -10620,6 +10624,12 @@
         "https://idp.aims.edu.gh/idp/shibboleth": {
             "en": "African Institute for Mathematical Sciences"
         },
+        "https://idp.atu.edu.gh/idp/shibboleth": {
+            "en": "Accra Technical University, Accra"
+        },
+        "https://idp.central.edu.gh/idp/shibboleth": {
+            "en": "Central University"
+        },
         "https://idp.csuc.edu.gh/idp/shibboleth": {
             "en": "Christian Service University College"
         },
@@ -10628,6 +10638,9 @@
         },
         "https://idp.gcuc.edu.gh/idp/shibboleth": {
             "en": "Garden City University College"
+        },
+        "https://idp.gimpa.edu.gh/idp/shibboleth": {
+            "en": "Ghana Institute of Management and Public Administration"
         },
         "https://idp.kstu.edu.gh/idp/shibboleth": {
             "en": "Kumasi Technical University"
@@ -10647,6 +10660,9 @@
         "https://idp.uew.edu.gh/idp/shibboleth": {
             "en": "University of Education,Winneba"
         },
+        "https://idp.upsa.edu.gh/idp/shibboleth": {
+            "en": "University of Professional Studies, Accra"
+        },
         "https://idp2.umat.edu.gh/idp/shibboleth": {
             "en": "University of Mines and Technology"
         },
@@ -10658,9 +10674,6 @@
         },
         "https://shibo.uhas.edu.gh/idp/shibboleth": {
             "en": "University of Health and Allied Sciences"
-        },
-        "https://sso-ann.atu.edu.gh/idp/shibboleth": {
-            "en": "Accra Technical University"
         },
         "https://wsidp.garnet.edu.gh/idp/shibboleth": {
             "en": "GARNET IAM Workshop"
@@ -12758,10 +12771,6 @@
         "https://idp.cnr.it/idp/shibboleth": {
             "en": "National Research Council (CNR)",
             "it": "Consiglio Nazionale delle Ricerche (CNR)"
-        },
-        "https://idp.corila.eu/idp/shibboleth": {
-            "en": "CORILA",
-            "it": "CORILA"
         },
         "https://idp.cta-observatory.org/idp/shibboleth": {
             "en": "CTAO ERIC",
