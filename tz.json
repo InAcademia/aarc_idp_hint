@@ -14,8 +14,14 @@
     "https://idp.ipa.ac.tz/idp/shibboleth": {
         "en": "THE INSTITUTE OF PUBLIC ADMINISTRATION (IPA)"
     },
+    "https://idp.kcmcu.ac.tz/idp/shibboleth": {
+        "en": "Kilimanjaro Christian Medical Centre University (KCMCU)"
+    },
     "https://idp.ku.ac.tz/idp/shibboleth": {
         "en": "Kairuki University (KU)"
+    },
+    "https://idp.moi.ac.tz/idp/shibboleth": {
+        "en": "Muhimbili Orthopaedic Institute (MOI)"
     },
     "https://idp.muhas.ac.tz/idp/shibboleth": {
         "en": "Muhimbili University of Health and Allied Sciences(MUHAS)"

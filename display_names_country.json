@@ -11576,6 +11576,9 @@
         "https://idp.aiimsbathinda.edu.in/idp/shibboleth": {
             "en": "All India Institute of Medical Sciences, Bathinda"
         },
+        "https://idp.aiimsbhopal.edu.in/idp/shibboleth": {
+            "en": "All India Institute of Medical Sciences Bhopal"
+        },
         "https://idp.aiimsbilaspur.edu.in/idp/shibboleth": {
             "en": "All India Institute of Medical Sciences, Bilaspur"
         },
@@ -11656,6 +11659,9 @@
         },
         "https://idp.braou.ac.in/idp/shibboleth": {
             "en": "Dr. B.R. Ambedkar Open University"
+        },
+        "https://idp.buat.edu.in/idp/shibboleth": {
+            "en": "Banda University of Agriculture and Technology, Banda"
         },
         "https://idp.bvmengineering.ac.in/idp/shibboleth": {
             "en": "Birla Vishvakarma Mahavidyalaya (BVM) Engineering College"
@@ -11924,6 +11930,9 @@
         "https://idp.jnu.ac.in/idp/shibboleth": {
             "en": "Jawaharlal Nehru University"
         },
+        "https://idp.jpv.ac.in/idp/shibboleth": {
+            "en": "Jai Prakash University"
+        },
         "https://idp.jssuni.edu.in/idp/shibboleth": {
             "en": "JSS Academy of Higher Education and Research"
         },
@@ -12170,6 +12179,9 @@
         "https://idp.rcb.ac.in/idp/shibboleth": {
             "en": "Regional Centre for Biotechnology"
         },
+        "https://idp.rcub.ac.in/idp/shibboleth": {
+            "en": "Rani Channamma University"
+        },
         "https://idp.rgnau.ac.in/idp/shibboleth": {
             "en": "The Rajiv Gandhi National Aviation University - Amethi District, Uttar Pradesh, India"
         },
@@ -12283,6 +12295,9 @@
         },
         "https://idp.tkmce.ac.in/idp/shibboleth": {
             "en": "TKM College of Engineering"
+        },
+        "https://idp.tmbuniv.ac.in/idp/shibboleth": {
+            "en": "Tilka Manjhi Bhagalpur University"
         },
         "https://idp.tmu.ac.in/idp/shibboleth": {
             "en": "Teerthanker Mahaveer University"
@@ -17998,8 +18013,14 @@
         "https://idp.ipa.ac.tz/idp/shibboleth": {
             "en": "THE INSTITUTE OF PUBLIC ADMINISTRATION (IPA)"
         },
+        "https://idp.kcmcu.ac.tz/idp/shibboleth": {
+            "en": "Kilimanjaro Christian Medical Centre University (KCMCU)"
+        },
         "https://idp.ku.ac.tz/idp/shibboleth": {
             "en": "Kairuki University (KU)"
+        },
+        "https://idp.moi.ac.tz/idp/shibboleth": {
+            "en": "Muhimbili Orthopaedic Institute (MOI)"
         },
         "https://idp.muhas.ac.tz/idp/shibboleth": {
             "en": "Muhimbili University of Health and Allied Sciences(MUHAS)"
@@ -21118,9 +21139,6 @@
         },
         "https://idp.jefferson.edu/idp/shibboleth": {
             "en": "Thomas Jefferson University"
-        },
-        "https://idp.kutztown.edu/idp/shibboleth": {
-            "en": "Kutztown University"
         },
         "https://idp.login.iu.edu/idp/shibboleth": {
             "en": "Indiana University"
