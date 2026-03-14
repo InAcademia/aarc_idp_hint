@@ -1376,10 +1376,6 @@
             "en": "UFOP - Universidade Federal de Ouro Preto",
             "pt-br": "UFOP - Universidade Federal de Ouro Preto"
         },
-        "https://dourado2023.ufs.br/idp/shibboleth": {
-            "en": "UFS - Universidade Federal de Sergipe",
-            "pt-br": "UFS - Universidade Federal de Sergipe"
-        },
         "https://federacao-1.hcpa.edu.br/idp/shibboleth": {
             "en": "HCPA - Hospital de Clinicas de Porto Alegre",
             "pt-br": "HCPA - Hospital de Clinicas de Porto Alegre"
@@ -1711,6 +1707,10 @@
         "https://idp.ufrr.br/idp/shibboleth": {
             "en": "UFRR - Universidade Federal de Roraima",
             "pt-br": "UFRR - Universidade Federal de Roraima"
+        },
+        "https://idp.ufs.br/idp/shibboleth": {
+            "en": "UFS - Universidade Federal de Sergipe",
+            "pt-br": "UFS - Universidade Federal de Sergipe"
         },
         "https://idp.ufsj.edu.br/idp/shibboleth": {
             "en": "UFSJ - Universidade Federal de Sao Joao del Rei",
