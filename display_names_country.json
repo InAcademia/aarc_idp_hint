@@ -1536,10 +1536,6 @@
             "en": "FACAPE - Faculdade de Petrolina",
             "pt-br": "FACAPE - Faculdade de Petrolina"
         },
-        "https://idp.faculdadesoberana.com.br/idp/shibboleth": {
-            "en": "SOBERANA - Faculdade de Saude de Petrolina",
-            "pt-br": "SOBERANA - Faculdade de Saude de Petrolina"
-        },
         "https://idp.fapeal.br/idp/shibboleth": {
             "en": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas",
             "pt-br": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas"
