@@ -2,12 +2,6 @@
     "https://idp-01.federation.ke/simplesaml/saml2/idp/metadata.php": {
         "en": "Kenya Education Network (KENET)"
     },
-    "https://idp-k3.federation.ke/simplesaml/saml2/idp/metadata.php": {
-        "en": "KENET Staff Identity Provider"
-    },
-    "https://idp-k4.federation.ke/idp/shibboleth": {
-        "en": "Kenya Education Network"
-    },
     "https://idp.dkut.ac.ke/saml2/sso": {
         "en": "Dedan Kimathi University of Technology"
     },

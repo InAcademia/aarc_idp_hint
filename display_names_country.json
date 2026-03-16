@@ -1336,10 +1336,6 @@
             "en": "UPF - Fundacao Universidade de Passo Fundo",
             "pt-br": "UPF - Fundacao Universidade de Passo Fundo"
         },
-        "https://cafernp.fesfsus.ba.gov.br/idp/shibboleth": {
-            "en": "FESFSUS - Fundacao Estatal Saude da Familia",
-            "pt-br": "FESFSUS - Fundacao Estatal Saude da Familia"
-        },
         "https://cafernp.imip.org.br/idp/shibboleth": {
             "en": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira",
             "pt-br": "IMIP - Instituto de Medicina Integral Prof. Fernando Figueira"
@@ -13723,12 +13719,6 @@
         "https://idp-01.federation.ke/simplesaml/saml2/idp/metadata.php": {
             "en": "Kenya Education Network (KENET)"
         },
-        "https://idp-k3.federation.ke/simplesaml/saml2/idp/metadata.php": {
-            "en": "KENET Staff Identity Provider"
-        },
-        "https://idp-k4.federation.ke/idp/shibboleth": {
-            "en": "Kenya Education Network"
-        },
         "https://idp.dkut.ac.ke/saml2/sso": {
             "en": "Dedan Kimathi University of Technology"
         },
@@ -15878,6 +15868,10 @@
             "en": "Institute of Nuclear Physics Polish Academy of Sciences",
             "pl": "Instytut Fizyki Jądrowej Polskiej Akademii Nauk"
         },
+        "https://idp.nencki.edu.pl/idp/shibboleth": {
+            "en": "Nencki Institute of Experimental Biology PAS",
+            "pl": "Instytut Biologii Doświadczalnej PAN im. Marcelego Nenckiego"
+        },
         "https://idp.pollub.pl/shibboleth": {
             "en": "Lublin University of Technology",
             "pl": "Politechnika Lubelska"
@@ -16100,10 +16094,6 @@
         "https://sso.man.poznan.pl/idp/shibboleth": {
             "en": "PSNC - Poznan Supercomputing and Networking Center",
             "pl": "PCSS - Poznańskie Centrum Superkomputerowo-Sieciowe"
-        },
-        "https://sso.nencki.edu.pl/idp/shibboleth": {
-            "en": "Nencki Institute of Experimental Biology PAS",
-            "pl": "Instytut Biologii Doświadczalnej PAN im. Marcelego Nenckiego"
         },
         "https://sso.umk.pl/idp/shibboleth": {
             "en": "Nicolaus Copernicus University in Torun",
@@ -18791,6 +18781,9 @@
         },
         "https://idp-stmarkskammengo.renu.ac.ug/idp/shibboleth": {
             "en": "St Mark's SS Kammengo"
+        },
+        "https://idp-stmaryscollegekisubi.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "St Marys College Kisubi IDP"
         },
         "https://idp-stmaryscollegelacor.renu.ac.ug/idp/shibboleth": {
             "en": "St Mary's College Lacor"

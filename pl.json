@@ -127,6 +127,10 @@
         "en": "Institute of Nuclear Physics Polish Academy of Sciences",
         "pl": "Instytut Fizyki Jądrowej Polskiej Akademii Nauk"
     },
+    "https://idp.nencki.edu.pl/idp/shibboleth": {
+        "en": "Nencki Institute of Experimental Biology PAS",
+        "pl": "Instytut Biologii Doświadczalnej PAN im. Marcelego Nenckiego"
+    },
     "https://idp.pollub.pl/shibboleth": {
         "en": "Lublin University of Technology",
         "pl": "Politechnika Lubelska"
@@ -349,10 +353,6 @@
     "https://sso.man.poznan.pl/idp/shibboleth": {
         "en": "PSNC - Poznan Supercomputing and Networking Center",
         "pl": "PCSS - Poznańskie Centrum Superkomputerowo-Sieciowe"
-    },
-    "https://sso.nencki.edu.pl/idp/shibboleth": {
-        "en": "Nencki Institute of Experimental Biology PAS",
-        "pl": "Instytut Biologii Doświadczalnej PAN im. Marcelego Nenckiego"
     },
     "https://sso.umk.pl/idp/shibboleth": {
         "en": "Nicolaus Copernicus University in Torun",
