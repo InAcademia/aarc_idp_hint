@@ -295,6 +295,10 @@
         "de": "Paris Lodron Universität Salzburg",
         "en": "Paris Lodron University of Salzburg"
     },
+    "https://sso.stella-musikhochschule.ac.at/idp/shibboleth": {
+        "de": "Stella Vorarlberg Privathochschule für Musik",
+        "en": "Stella Vorarlberg Private University College for Music"
+    },
     "https://sso.suttneruni.at/idp/shibboleth": {
         "de": "Bertha von Suttner Privatuniversität",
         "en": "Bertha von Suttner Private University"

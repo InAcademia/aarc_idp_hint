@@ -41,6 +41,9 @@
     "https://idp.cc.swin.edu.au/idp/shibboleth": {
         "en": "Swinburne University of Technology"
     },
+    "https://idp.ccia.org.au/idp/shibboleth": {
+        "en": "Children's Cancer Institute"
+    },
     "https://idp.cmri.org.au/idp/shibboleth": {
         "en": "Children’s Medical Research Institute"
     },

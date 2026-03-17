@@ -485,6 +485,9 @@
     "https://idp.mcet.in/idp/shibboleth": {
         "en": "Dr.Mahalingam College of Engineering and Technology"
     },
+    "https://idp.mgkvp.ac.in/idp/shibboleth": {
+        "en": "Mahatma Gandhi Kashi Vidyapith University"
+    },
     "https://idp.mgu.ac.in/idp/shibboleth": {
         "en": "Mahatma Gandhi University, Kerala"
     },

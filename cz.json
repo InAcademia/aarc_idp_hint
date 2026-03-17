@@ -111,6 +111,10 @@
         "cs": "Vysoká škola ekonomická v Praze",
         "en": "Prague University of Economics and Business"
     },
+    "https://idm.kntb.cz/idp/shibboleth": {
+        "cs": "Krajská nemocnice T. Bati, a. s.",
+        "en": "Tomas Bata Regional Hospital"
+    },
     "https://idp-cro.slu.cz/idp/shibboleth": {
         "cs": "Slezská univerzita v Opavě",
         "en": "Silesian University in Opava"

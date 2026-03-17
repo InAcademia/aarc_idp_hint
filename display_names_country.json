@@ -330,6 +330,10 @@
             "de": "Paris Lodron Universität Salzburg",
             "en": "Paris Lodron University of Salzburg"
         },
+        "https://sso.stella-musikhochschule.ac.at/idp/shibboleth": {
+            "de": "Stella Vorarlberg Privathochschule für Musik",
+            "en": "Stella Vorarlberg Private University College for Music"
+        },
         "https://sso.suttneruni.at/idp/shibboleth": {
             "de": "Bertha von Suttner Privatuniversität",
             "en": "Bertha von Suttner Private University"
@@ -401,6 +405,9 @@
         },
         "https://idp.cc.swin.edu.au/idp/shibboleth": {
             "en": "Swinburne University of Technology"
+        },
+        "https://idp.ccia.org.au/idp/shibboleth": {
+            "en": "Children's Cancer Institute"
         },
         "https://idp.cmri.org.au/idp/shibboleth": {
             "en": "Children’s Medical Research Institute"
@@ -5277,6 +5284,10 @@
         "https://id.vse.cz/idp/shibboleth": {
             "cs": "Vysoká škola ekonomická v Praze",
             "en": "Prague University of Economics and Business"
+        },
+        "https://idm.kntb.cz/idp/shibboleth": {
+            "cs": "Krajská nemocnice T. Bati, a. s.",
+            "en": "Tomas Bata Regional Hospital"
         },
         "https://idp-cro.slu.cz/idp/shibboleth": {
             "cs": "Slezská univerzita v Opavě",
@@ -10668,7 +10679,7 @@
             "en": "University of Health and Allied Sciences"
         },
         "https://wsidp.garnet.edu.gh/idp/shibboleth": {
-            "en": "GARNET IAM Workshop"
+            "en": "GARNET IAM Workshop Identity Provider"
         }
     },
     "gr": {
@@ -12011,6 +12022,9 @@
         },
         "https://idp.mcet.in/idp/shibboleth": {
             "en": "Dr.Mahalingam College of Engineering and Technology"
+        },
+        "https://idp.mgkvp.ac.in/idp/shibboleth": {
+            "en": "Mahatma Gandhi Kashi Vidyapith University"
         },
         "https://idp.mgu.ac.in/idp/shibboleth": {
             "en": "Mahatma Gandhi University, Kerala"
@@ -15250,7 +15264,7 @@
             "nl": "NWO"
         },
         "https://sts.windows.net/850f9344-e078-467e-9c5e-84d82f208ac7/": {
-            "en": "University of Applied Sciences Leiden",
+            "en": "Leiden University of Applied Sciences",
             "nl": "Hogeschool Leiden"
         },
         "https://sts.windows.net/87c50b58-2ef2-423d-a4db-1fa7c84efcfa/": {
