@@ -38,6 +38,10 @@
         "en": "Babes-Bolyai University",
         "ro": "Universitatea Babe??-Bolyai"
     },
+    "https://idp.unatc.ro/simplesaml/": {
+        "en": "UNATC - National University of Theatre and Film \"I.L. Caragiale\", Bucharest",
+        "ro": "UNATC - Universitatea Nationala de Arta Teatrala si Cinematografica \"I.L. Caragiale\" din Bucuresti"
+    },
     "https://idp.unibuc.ro/idp/shibboleth": {
         "en": "University of Bucharest",
         "ro": "Universitatea din București"

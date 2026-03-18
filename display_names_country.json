@@ -734,6 +734,9 @@
         "https://secure.etnic.be/nidp/saml2/metadata": {
             "en": "FWB"
         },
+        "https://sso.hogent.be/idp": {
+            "en": "Hogent"
+        },
         "https://sso.irc.ugent.be/auth/realms/irc": {
             "en": "VIB-UGent IRC"
         },
@@ -6831,7 +6834,7 @@
             "en": "Leibniz Supercomputing Centre (LRZ)"
         },
         "https://idp.med.uni-rostock.de/idp/shibboleth": {
-            "de": "Universitaetsmedizin Rostock",
+            "de": "Universitätsmedizin Rostock",
             "en": "Rostock University Medical Center"
         },
         "https://idp.medizin.uni-leipzig.de/idp/shibboleth": {
@@ -6955,7 +6958,7 @@
         },
         "https://idp.tiho-hannover.de/idp/shibboleth": {
             "de": "Stiftung Tieraerztliche Hochschule Hannover",
-            "en": "University of Veterinary Medicine Hannover"
+            "en": "University of Veterinary Medicine Hanover"
         },
         "https://idp.tu-clausthal.de/idp/shibboleth": {
             "de": "Technische Universität Clausthal",
@@ -11588,6 +11591,9 @@
         "https://idp.aiktclibrary.org/idp/shibboleth": {
             "en": "Anjuman-I-Islams Kalsekar Technical Campus"
         },
+        "https://idp.aknu.edu.in/idp/shibboleth": {
+            "en": "Adikavi Nannaya University"
+        },
         "https://idp.aktu.ac.in/idp/shibboleth": {
             "en": "Dr. A. P. J. Abdul Kalam Technical University, Lucknow"
         },
@@ -14164,8 +14170,8 @@
             "ro": "AMTAP-MD"
         },
         "https://edugain.usm.md": {
-            "en": "GIDP-USM",
-            "ro": "GIDP-USM"
+            "en": "Moldova State University",
+            "ro": "Universitatea de Stat din Moldova"
         },
         "https://gidp.federations.renam.md": {
             "en": "GIDP-RENAM",
@@ -16599,6 +16605,10 @@
         "https://idp.ubbcluj.ro/smp/saml2/idp/metadata.php": {
             "en": "Babes-Bolyai University",
             "ro": "Universitatea Babe??-Bolyai"
+        },
+        "https://idp.unatc.ro/simplesaml/": {
+            "en": "UNATC - National University of Theatre and Film \"I.L. Caragiale\", Bucharest",
+            "ro": "UNATC - Universitatea Nationala de Arta Teatrala si Cinematografica \"I.L. Caragiale\" din Bucuresti"
         },
         "https://idp.unibuc.ro/idp/shibboleth": {
             "en": "University of Bucharest",
@@ -21569,6 +21579,9 @@
         "https://secure.stevenson.edu/idp/shibboleth": {
             "en": "Stevenson University"
         },
+        "https://shb-adfs.teex.tamus.edu/adfs/services/trust": {
+            "en": "Texas A&M Engineering Extension Service"
+        },
         "https://shfed.augusta.edu/idp/shibboleth": {
             "en": "Augusta University"
         },
@@ -22096,9 +22109,6 @@
         },
         "https://ssosw.losrios.edu/idp/shibboleth": {
             "en": "Los Rios Single Sign On"
-        },
-        "https://teex.tamu.edu/idp": {
-            "en": "Texas A&M Engineering Extension Service"
         },
         "https://ucanridp.ucanr.edu/idp/shibboleth": {
             "en": "University of California, Agriculture and Natural Resources"

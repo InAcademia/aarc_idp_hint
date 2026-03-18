@@ -866,6 +866,9 @@
     "https://secure.stevenson.edu/idp/shibboleth": {
         "en": "Stevenson University"
     },
+    "https://shb-adfs.teex.tamus.edu/adfs/services/trust": {
+        "en": "Texas A&M Engineering Extension Service"
+    },
     "https://shfed.augusta.edu/idp/shibboleth": {
         "en": "Augusta University"
     },
@@ -1393,9 +1396,6 @@
     },
     "https://ssosw.losrios.edu/idp/shibboleth": {
         "en": "Los Rios Single Sign On"
-    },
-    "https://teex.tamu.edu/idp": {
-        "en": "Texas A&M Engineering Extension Service"
     },
     "https://ucanridp.ucanr.edu/idp/shibboleth": {
         "en": "University of California, Agriculture and Natural Resources"

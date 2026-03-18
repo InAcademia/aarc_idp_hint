@@ -161,6 +161,9 @@
     "https://secure.etnic.be/nidp/saml2/metadata": {
         "en": "FWB"
     },
+    "https://sso.hogent.be/idp": {
+        "en": "Hogent"
+    },
     "https://sso.irc.ugent.be/auth/realms/irc": {
         "en": "VIB-UGent IRC"
     },
