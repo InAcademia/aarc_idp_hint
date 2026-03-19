@@ -1042,6 +1042,10 @@
             "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
             "pt-br": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia"
         },
+        "https://cafe.idor.org/idp/shibboleth": {
+            "en": "IDOR - Instituto D'Or",
+            "pt-br": "IDOR - Instituto D'Or"
+        },
         "https://cafe.idp.edu.br/idp/shibboleth": {
             "en": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia",
             "pt-br": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia"
@@ -5403,6 +5407,10 @@
         "https://idp.ig.cas.cz/idp/shibboleth": {
             "cs": "Geofyzikální ústav AV ČR, v.v.i.",
             "en": "Institute of Geophysics of the CAS, v.v.i."
+        },
+        "https://idp.ih.cas.cz/idp/shibboleth": {
+            "cs": "Hydrologický ústav AV ČR, v. v. i.",
+            "en": "Institute of Hydrology of the Czech Academy of Sciences"
         },
         "https://idp.iic.cas.cz/idp/shibboleth": {
             "cs": "Ústav anorganické chemie AV ČR",
@@ -10461,14 +10469,6 @@
             "en": "INSA Toulouse",
             "fr": "INSA Toulouse"
         },
-        "https://sso-ciation-metz.centralesupelec.fr/idp/shibboleth": {
-            "en": "CentraleSupelec (2)",
-            "fr": "CentraleSupelec (2)"
-        },
-        "https://sso-ciation-rennes.centralesupelec.fr/idp/shibboleth": {
-            "en": "CentraleSupelec (3)",
-            "fr": "CentraleSupelec (3)"
-        },
         "https://sso-ciation-saclay.centralesupelec.fr/idp/shibboleth": {
             "en": "CentraleSupelec (1)",
             "fr": "CentraleSupelec (1)"
@@ -15306,8 +15306,8 @@
             "nl": "Rijn IJssel"
         },
         "https://sts.windows.net/95b42833-48dc-4164-aa86-cba6390366e2/": {
-            "en": "Hoornbeeck College, Van Lodenstein College en SORG",
-            "nl": "Hoornbeeck College, Van Lodenstein College en SORG"
+            "en": "RBO scholen",
+            "nl": "RBO scholen"
         },
         "https://sts.windows.net/9860fd9f-826f-475e-8862-6f2568a34e83/": {
             "en": "Driestar educatief",
@@ -20751,14 +20751,14 @@
         "http://login.dsu.edu/adfs/services/trust": {
             "en": "Dakota State University"
         },
-        "http://login.goshen.edu/exk10q6y0p34MacYl698": {
-            "en": "Goshen College"
-        },
         "http://login.mayo.edu/adfs/services/trust": {
             "en": "Mayo Clinic"
         },
         "http://login.tfs.tamu.edu/adfs/services/trust": {
             "en": "Texas A&M Forest Service - IdP"
+        },
+        "http://shb-adfs.teex.tamus.edu/adfs/services/trust": {
+            "en": "Texas A&M Engineering Extension Service"
         },
         "http://sso.oit.edu/idp": {
             "en": "Oregon Institute of Technology"
@@ -21390,6 +21390,9 @@
         "https://idpp.calstatela.edu/idp": {
             "en": "California State University, Los Angeles"
         },
+        "https://incommon-auth.goshen.edu/proxyidp/proxy.xml": {
+            "en": "Goshen College"
+        },
         "https://incommon.coloradomesa.edu": {
             "en": "Colorado Mesa University"
         },
@@ -21578,9 +21581,6 @@
         },
         "https://secure.stevenson.edu/idp/shibboleth": {
             "en": "Stevenson University"
-        },
-        "https://shb-adfs.teex.tamus.edu/adfs/services/trust": {
-            "en": "Texas A&M Engineering Extension Service"
         },
         "https://shfed.augusta.edu/idp/shibboleth": {
             "en": "Augusta University"

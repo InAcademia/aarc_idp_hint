@@ -1127,14 +1127,6 @@
         "en": "INSA Toulouse",
         "fr": "INSA Toulouse"
     },
-    "https://sso-ciation-metz.centralesupelec.fr/idp/shibboleth": {
-        "en": "CentraleSupelec (2)",
-        "fr": "CentraleSupelec (2)"
-    },
-    "https://sso-ciation-rennes.centralesupelec.fr/idp/shibboleth": {
-        "en": "CentraleSupelec (3)",
-        "fr": "CentraleSupelec (3)"
-    },
     "https://sso-ciation-saclay.centralesupelec.fr/idp/shibboleth": {
         "en": "CentraleSupelec (1)",
         "fr": "CentraleSupelec (1)"

@@ -38,14 +38,14 @@
     "http://login.dsu.edu/adfs/services/trust": {
         "en": "Dakota State University"
     },
-    "http://login.goshen.edu/exk10q6y0p34MacYl698": {
-        "en": "Goshen College"
-    },
     "http://login.mayo.edu/adfs/services/trust": {
         "en": "Mayo Clinic"
     },
     "http://login.tfs.tamu.edu/adfs/services/trust": {
         "en": "Texas A&M Forest Service - IdP"
+    },
+    "http://shb-adfs.teex.tamus.edu/adfs/services/trust": {
+        "en": "Texas A&M Engineering Extension Service"
     },
     "http://sso.oit.edu/idp": {
         "en": "Oregon Institute of Technology"
@@ -677,6 +677,9 @@
     "https://idpp.calstatela.edu/idp": {
         "en": "California State University, Los Angeles"
     },
+    "https://incommon-auth.goshen.edu/proxyidp/proxy.xml": {
+        "en": "Goshen College"
+    },
     "https://incommon.coloradomesa.edu": {
         "en": "Colorado Mesa University"
     },
@@ -865,9 +868,6 @@
     },
     "https://secure.stevenson.edu/idp/shibboleth": {
         "en": "Stevenson University"
-    },
-    "https://shb-adfs.teex.tamus.edu/adfs/services/trust": {
-        "en": "Texas A&M Engineering Extension Service"
     },
     "https://shfed.augusta.edu/idp/shibboleth": {
         "en": "Augusta University"

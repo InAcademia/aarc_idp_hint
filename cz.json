@@ -227,6 +227,10 @@
         "cs": "Geofyzikální ústav AV ČR, v.v.i.",
         "en": "Institute of Geophysics of the CAS, v.v.i."
     },
+    "https://idp.ih.cas.cz/idp/shibboleth": {
+        "cs": "Hydrologický ústav AV ČR, v. v. i.",
+        "en": "Institute of Hydrology of the Czech Academy of Sciences"
+    },
     "https://idp.iic.cas.cz/idp/shibboleth": {
         "cs": "Ústav anorganické chemie AV ČR",
         "en": "Institute of Inorganic chemistry of the Czech Academy of Sciences"

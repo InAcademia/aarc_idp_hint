@@ -139,6 +139,10 @@
         "en": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia",
         "pt-br": "IBICT - Inst. Brasileiro de Info. em Ciencia e Tecnologia"
     },
+    "https://cafe.idor.org/idp/shibboleth": {
+        "en": "IDOR - Instituto D'Or",
+        "pt-br": "IDOR - Instituto D'Or"
+    },
     "https://cafe.idp.edu.br/idp/shibboleth": {
         "en": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia",
         "pt-br": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia"
