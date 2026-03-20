@@ -859,6 +859,10 @@
         "en": "UNIR - Fundacao Universidade Federal de Rondonia",
         "pt-br": "UNIR - Fundacao Universidade Federal de Rondonia"
     },
+    "https://idp.unirn.edu.br/idp/shibboleth": {
+        "en": "UNIRN - Centro Universitario do Rio Grande do Norte",
+        "pt-br": "UNIRN - Centro Universitario do Rio Grande do Norte"
+    },
     "https://idp.unirv.edu.br/idp/shibboleth": {
         "en": "UNIRV - Universidade de Rio Verde",
         "pt-br": "UNIRV - Universidade de Rio Verde"
@@ -882,6 +886,10 @@
     "https://idp.unitins.br/idp/shibboleth": {
         "en": "UNITINS - Universidade Estadual do Tocantins",
         "pt-br": "UNITINS - Universidade Estadual do Tocantins"
+    },
+    "https://idp.uniube.br/idp/shibboleth": {
+        "en": "UNIUBE - Universidade de Uberaba",
+        "pt-br": "UNIUBE - Universidade de Uberaba"
     },
     "https://idp.univasf.edu.br/idp/shibboleth": {
         "en": "UNIVASF - Universidade Federal do Vale do Sao Francisco",
@@ -959,13 +967,9 @@
         "en": "UNIFRAN - Universidade de Franca",
         "pt-br": "UNIFRAN - Universidade de Franca"
     },
-    "https://idpcafe.uniube.br/idp/shibboleth": {
-        "en": "UNIUBE - Universidade de Uberaba",
-        "pt-br": "UNIUBE - Universidade de Uberaba"
-    },
     "https://idpcafe.upe.br/idp/shibboleth": {
-        "en": "UPE - Universidade de Pernambuco",
-        "pt-br": "UPE - Universidade de Pernambuco"
+        "en": "UPE - Universidade de Pernambuco - v4.2.1",
+        "pt-br": "UPE - Universidade de Pernambuco - v4.2.1"
     },
     "https://idpcafe.usp.br/idp/shibboleth": {
         "en": "USP - Universidade de Sao Paulo",
