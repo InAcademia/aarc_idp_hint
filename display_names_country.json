@@ -1546,10 +1546,6 @@
             "en": "FACAPE - Faculdade de Petrolina",
             "pt-br": "FACAPE - Faculdade de Petrolina"
         },
-        "https://idp.fapeal.br/idp/shibboleth": {
-            "en": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas",
-            "pt-br": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas"
-        },
         "https://idp.fapepi.pi.gov.br/idp/shibboleth": {
             "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui",
             "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui"
@@ -11775,7 +11771,7 @@
             "en": "Gulbarga University"
         },
         "https://idp.gujaratvidyapith.org/idp/shibboleth": {
-            "en": "https://idp.gujaratvidyapith.org/"
+            "en": "Gujarat Vidyapith"
         },
         "https://idp.hbtu.ac.in/idp/shibboleth": {
             "en": "Harcourt Butler Technical University"
