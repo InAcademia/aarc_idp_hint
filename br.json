@@ -643,6 +643,10 @@
         "en": "FACAPE - Faculdade de Petrolina",
         "pt-br": "FACAPE - Faculdade de Petrolina"
     },
+    "https://idp.fapeal.br/idp/shibboleth": {
+        "en": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas",
+        "pt-br": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas"
+    },
     "https://idp.fapepi.pi.gov.br/idp/shibboleth": {
         "en": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui",
         "pt-br": "FAPEPI - Fundacao de Amparo a Pesquisa do Piaui"
@@ -930,6 +934,10 @@
     "https://idp60.furb.br/idp/shibboleth": {
         "en": "FURB - Fundacao Universidade Regional de Blumenau",
         "pt-br": "FURB - Fundacao Universidade Regional de Blumenau"
+    },
+    "https://idpcafe.finep.gov.br/idp/shibboleth": {
+        "en": "FINEP - Financiadora de Estudos e Projetos",
+        "pt-br": "FINEP - Financiadora de Estudos e Projetos"
     },
     "https://idpcafe.ifsertao-pe.edu.br/idp/shibboleth": {
         "en": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano",

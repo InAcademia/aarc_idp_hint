@@ -787,6 +787,10 @@
         "en": "Université de Lyon 3 - Jean Moulin",
         "fr": "Université de Lyon 3 - Jean Moulin"
     },
+    "https://idp.univ-mayotte.fr/idp/shibboleth": {
+        "en": "University of Mayotte",
+        "fr": "Université de Mayotte"
+    },
     "https://idp.univ-orleans.fr/idp/shibboleth": {
         "en": "University of Orleans",
         "fr": "Université d'Orléans"
