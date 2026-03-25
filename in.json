@@ -20,6 +20,9 @@
     "https://eresource.nirmauni.ac.in/idp/shibboleth": {
         "en": "Nirma University"
     },
+    "https://eresources.kufos.ac.in/idp/shibboleth": {
+        "en": "KUFOS Kochi"
+    },
     "https://eresources.puchd.ac.in/idp/shibboleth": {
         "en": "Panjab University"
     },
@@ -230,7 +233,7 @@
     "https://idp.gsmozecoe.org/idp/shibboleth": {
         "en": "Genba Sopanrao Moze College Of Engineering ,Balewadi, Pune"
     },
-    "https://idp.guglibrary.net/idp/shibboleth": {
+    "https://idp.gug.ac.in/idp/shibboleth": {
         "en": "Gulbarga University"
     },
     "https://idp.gujaratvidyapith.org/idp/shibboleth": {
@@ -523,6 +526,9 @@
     },
     "https://idp.ncl.res.in/idp/shibboleth": {
         "en": "CSIR - National Chemical Laboratory (NCL)"
+    },
+    "https://idp.ndvsu.org/idp/shibboleth": {
+        "en": "Nanaji Deshmukh Veterinary Science University"
     },
     "https://idp.nec.edu.in/idp/shibboleth": {
         "en": "National Engineering College"

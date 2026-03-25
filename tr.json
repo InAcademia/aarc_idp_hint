@@ -363,6 +363,10 @@
         "en": "Hitit University",
         "tr": "Hitit Üniversitesi"
     },
+    "https://kimlik.igdir.edu.tr/idp/shibboleth": {
+        "en": "Igdir University",
+        "tr": "Iğdır Üniversitesi"
+    },
     "https://kimlik.ihu.edu.tr/idp/shibboleth": {
         "en": "Ibn Haldun University",
         "tr": "İbn Haldun Üniversitesi"

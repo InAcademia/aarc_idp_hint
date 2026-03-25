@@ -935,6 +935,10 @@
         "en": "HEC Paris V5",
         "fr": "HEC Paris V5"
     },
+    "https://idp5r.imtbs-tsp.eu/idp/shibboleth": {
+        "en": "Institut Mines Telecom Business School et Telecom SudParis (v5)",
+        "fr": "Institut Mines Telecom Business School et Telecom SudParis (v5)"
+    },
     "https://idpprod.ciep.fr/idp/shibboleth": {
         "en": "CIEP / France Education International",
         "fr": "CIEP / France Education International"

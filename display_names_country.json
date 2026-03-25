@@ -10281,6 +10281,10 @@
             "en": "HEC Paris V5",
             "fr": "HEC Paris V5"
         },
+        "https://idp5r.imtbs-tsp.eu/idp/shibboleth": {
+            "en": "Institut Mines Telecom Business School et Telecom SudParis (v5)",
+            "fr": "Institut Mines Telecom Business School et Telecom SudParis (v5)"
+        },
         "https://idpprod.ciep.fr/idp/shibboleth": {
             "en": "CIEP / France Education International",
             "fr": "CIEP / France Education International"
@@ -11569,6 +11573,9 @@
         "https://eresource.nirmauni.ac.in/idp/shibboleth": {
             "en": "Nirma University"
         },
+        "https://eresources.kufos.ac.in/idp/shibboleth": {
+            "en": "KUFOS Kochi"
+        },
         "https://eresources.puchd.ac.in/idp/shibboleth": {
             "en": "Panjab University"
         },
@@ -11779,7 +11786,7 @@
         "https://idp.gsmozecoe.org/idp/shibboleth": {
             "en": "Genba Sopanrao Moze College Of Engineering ,Balewadi, Pune"
         },
-        "https://idp.guglibrary.net/idp/shibboleth": {
+        "https://idp.gug.ac.in/idp/shibboleth": {
             "en": "Gulbarga University"
         },
         "https://idp.gujaratvidyapith.org/idp/shibboleth": {
@@ -12072,6 +12079,9 @@
         },
         "https://idp.ncl.res.in/idp/shibboleth": {
             "en": "CSIR - National Chemical Laboratory (NCL)"
+        },
+        "https://idp.ndvsu.org/idp/shibboleth": {
+            "en": "Nanaji Deshmukh Veterinary Science University"
         },
         "https://idp.nec.edu.in/idp/shibboleth": {
             "en": "National Engineering College"
@@ -13763,12 +13773,6 @@
             "en": "Strathmore University"
         }
     },
-    "kg": {
-        "https://idp.kif.kg/simplesaml/saml2/idp/metadata.php": {
-            "en": "KIF-IDP",
-            "ky": "KIF-IDP"
-        }
-    },
     "kr": {
         "https://auth.ibs.re.kr/idp/simplesamlphp": {
             "en": "Institute for Basic Science"
@@ -15108,6 +15112,10 @@
         "https://sts.windows.net/2259cb87-9540-474f-9e96-2f4bde46bb52/": {
             "en": "Summa",
             "nl": "Summa"
+        },
+        "https://sts.windows.net/2514d39f-c244-4e6a-85e8-45cb0b1e7501/": {
+            "en": "Maritime Research Institute Netherlands",
+            "nl": "Maritime Research Institute Netherlands"
         },
         "https://sts.windows.net/25443702-039b-4485-b8ae-3054dde1ed25/": {
             "en": "Zone.College",
@@ -17701,6 +17709,10 @@
         "https://kimlik.hitit.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Hitit University",
             "tr": "Hitit Üniversitesi"
+        },
+        "https://kimlik.igdir.edu.tr/idp/shibboleth": {
+            "en": "Igdir University",
+            "tr": "Iğdır Üniversitesi"
         },
         "https://kimlik.ihu.edu.tr/idp/shibboleth": {
             "en": "Ibn Haldun University",
