@@ -396,7 +396,7 @@
         "en": "Elon University"
     },
     "https://idp.fdu.edu/idp/shibboleth": {
-        "en": "Fairleigh Dickinson University"
+        "en": "Fairleigh Dickinson University - FDU"
     },
     "https://idp.fnal.gov/idp/shibboleth": {
         "en": "Fermi National Accelerator Laboratory"
@@ -1068,7 +1068,7 @@
         "en": "Colorado State University System"
     },
     "https://shibidp.fdu.edu/idp/shibboleth": {
-        "en": "Fairleigh_Dickinson_University"
+        "en": "Fairleigh Dickinson University"
     },
     "https://shibidp.ku.edu/idp/shibboleth": {
         "en": "University of Kansas"

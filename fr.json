@@ -527,6 +527,10 @@
         "en": "ESC PAU Business School",
         "fr": "ESC PAU Business School"
     },
+    "https://idp.eskn.fr/idp/shibboleth": {
+        "en": "Eskemm Numerique",
+        "fr": "Eskemm Numérique"
+    },
     "https://idp.esme.fr/idp/shibboleth": {
         "en": "ESME - ENGINEERING SCHOOL OF ENERGY AND DIGITAL TECHNOLOGIES",
         "fr": "ESME - L' École spéciale de mécanique et d'électricité"

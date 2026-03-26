@@ -19,6 +19,10 @@
         "en": "Universite Libre de Bruxelles (ULB)",
         "fr": "Universite Libre de Bruxelles (ULB)"
     },
+    "https://auth.unamur.be/realms/unamur-federation": {
+        "en": "University of Namur (Auth)",
+        "fr": "Universite de Namur (Auth)"
+    },
     "https://bertrix.usaintlouis.be/idp/shibboleth": {
         "en": "Universite Saint-Louis - Bruxelles",
         "fr": "Universite Saint-Louis - Bruxelles"
