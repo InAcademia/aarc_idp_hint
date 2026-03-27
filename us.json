@@ -284,9 +284,6 @@
     "https://identity.gettysburg.edu/idp/shibboleth": {
         "en": "Gettysburg College SSO"
     },
-    "https://identity.hmc.edu/idp": {
-        "en": "Harvey Mudd College (RapidIdentity)"
-    },
     "https://identity.research.gov/sso": {
         "en": "NSF (National Science Foundation ) Researcher Login"
     },

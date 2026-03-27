@@ -123,10 +123,6 @@
         "en": "FMC - Faculdade de Medicina de Campos",
         "pt-br": "FMC - Faculdade de Medicina de Campos"
     },
-    "https://cafe.fucape.br/idp/shibboleth": {
-        "en": "FUCAPE - Fundacao Instituto Capixaba de Pesquisa em Cont. Econ. e Financas",
-        "pt-br": "FUCAPE - Fundacao Instituto Capixaba de Pesquisa em Cont. Econ. e Financas"
-    },
     "https://cafe.fumec.br/idp/shibboleth": {
         "en": "FUMEC - Fundacao Mineira de Educacao e Cultura",
         "pt-br": "FUMEC - Fundacao Mineira de Educacao e Cultura"
@@ -747,10 +743,6 @@
         "en": "PAQTCPB - Fundacao Parque Tecnologico da Paraiba",
         "pt-br": "PAQTCPB - Fundacao Parque Tecnologico da Paraiba"
     },
-    "https://idp.puc-campinas.edu.br/idp/shibboleth": {
-        "en": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas",
-        "pt-br": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas"
-    },
     "https://idp.rnp.br/idp/shibboleth": {
         "en": "RNP - Rede Nacional de Ensino e Pesquisa",
         "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
@@ -1127,10 +1119,6 @@
         "en": "IFPE - Instituto Federal de Pernambuco",
         "pt-br": "IFPE - Instituto Federal de Pernambuco"
     },
-    "https://shibboleth.ifrn.edu.br/idp/shibboleth": {
-        "en": "IFRN - Instituto Federal do Rio Grande do Norte",
-        "pt-br": "IFRN - Instituto Federal do Rio Grande do Norte"
-    },
     "https://shibboleth.ifsc.edu.br/idp/shibboleth": {
         "en": "IFSC - Instituto Federal de Santa Catarina",
         "pt-br": "IFSC - Instituto Federal de Santa Catarina"
@@ -1150,6 +1138,10 @@
     "https://shibboleth.on.br/idp/shibboleth": {
         "en": "ON - Observatorio Nacional",
         "pt-br": "ON - Observatorio Nacional"
+    },
+    "https://shibboleth.santacasa.pa.gov.br/idp/shibboleth": {
+        "en": "FSCMPA - Fundacao Santa Casa de Misericordia do Para",
+        "pt-br": "FSCMPA - Fundacao Santa Casa de Misericordia do Para"
     },
     "https://shibboleth.ufcg.edu.br/idp/shibboleth": {
         "en": "UFCG - Universidade Federal de Campina Grande",
