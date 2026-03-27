@@ -251,10 +251,6 @@
         "en": "University of Groningen",
         "nl": "Rijksuniversiteit Groningen"
     },
-    "https://simplesaml.spinozacentre.nl/simplesaml/saml2/idp/metadata.php": {
-        "en": "Spinoza Centre for Neuroimaging (KNAW)",
-        "nl": "Spinoza Centrum voor Neuroimaging (KNAW)"
-    },
     "https://sso.egi.eu/edugainidp/shibboleth": {
         "en": "EGI Foundation",
         "nl": "Stichting EGI"
