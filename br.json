@@ -1119,6 +1119,10 @@
         "en": "IFPE - Instituto Federal de Pernambuco",
         "pt-br": "IFPE - Instituto Federal de Pernambuco"
     },
+    "https://shibboleth.ifrn.edu.br/idp/shibboleth": {
+        "en": "IFRN - Instituto Federal do Rio Grande do Norte",
+        "pt-br": "IFRN - Instituto Federal do Rio Grande do Norte"
+    },
     "https://shibboleth.ifsc.edu.br/idp/shibboleth": {
         "en": "IFSC - Instituto Federal de Santa Catarina",
         "pt-br": "IFSC - Instituto Federal de Santa Catarina"

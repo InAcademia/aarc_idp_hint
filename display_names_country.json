@@ -2026,6 +2026,10 @@
             "en": "IFPE - Instituto Federal de Pernambuco",
             "pt-br": "IFPE - Instituto Federal de Pernambuco"
         },
+        "https://shibboleth.ifrn.edu.br/idp/shibboleth": {
+            "en": "IFRN - Instituto Federal do Rio Grande do Norte",
+            "pt-br": "IFRN - Instituto Federal do Rio Grande do Norte"
+        },
         "https://shibboleth.ifsc.edu.br/idp/shibboleth": {
             "en": "IFSC - Instituto Federal de Santa Catarina",
             "pt-br": "IFSC - Instituto Federal de Santa Catarina"
@@ -14973,6 +14977,10 @@
             "en": "University of Curaçao",
             "nl": "University of Curaçao"
         },
+        "https://auth.spinozacentre.nl": {
+            "en": "Spinoza Centre for Neuroimaging (KNAW)",
+            "nl": "Spinoza Centrum voor Neuroimaging (KNAW)"
+        },
         "https://conext.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
             "en": "Radboud University (USEZ-account)",
             "nl": "Radboud Universiteit (USEZ-account)"
@@ -15042,8 +15050,8 @@
             "nl": "Rijksuniversiteit Groningen"
         },
         "https://simplesaml.spinozacentre.nl/simplesaml/saml2/idp/metadata.php": {
-            "en": "Spinoza Centre for Neuroimaging (KNAW)",
-            "nl": "Spinoza Centrum voor Neuroimaging (KNAW)"
+            "en": "Spinoza Centre for Neuroimaging (KNAW) [Old]",
+            "nl": "Spinoza Centrum voor Neuroimaging (KNAW) [Oud]"
         },
         "https://sso.egi.eu/edugainidp/shibboleth": {
             "en": "EGI Foundation",
@@ -18182,6 +18190,9 @@
         "https://idp-bugambi.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Bugambi Secondary School"
         },
+        "https://idp-bukalasaagriccollege.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Bukalasa Agricultural College"
+        },
         "https://idp-bukandulamixedss.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Bukandula Mixed Secondary School"
         },
@@ -18278,8 +18289,14 @@
         "https://idp-gchs.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Gulu College of health sciences"
         },
+        "https://idp-godmarkhighschool.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Godmark High School"
+        },
         "https://idp-gokoseedss.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Gokoseeds Secondary School"
+        },
+        "https://idp-gombess.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Gombe Secondary School"
         },
         "https://idp-guluarmyss.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Gulu army ss"
@@ -18292,6 +18309,12 @@
         },
         "https://idp-hispuganda.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Health Information Systems Program"
+        },
+        "https://idp-hopechristianhigh.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Hope Christian High"
+        },
+        "https://idp-icrw.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "International Center for Research on Women"
         },
         "https://idp-igangahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Iganga High"
@@ -18307,6 +18330,9 @@
         },
         "https://idp-ishakaadventist.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Ishaka Adventist School"
+        },
+        "https://idp-jhpiego.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Jhpiego"
         },
         "https://idp-jinjacollege.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Jinja College"
@@ -18382,6 +18408,9 @@
         },
         "https://idp-kcb.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "King's College Budo"
+        },
+        "https://idp-kcu.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "King Ceasor University"
         },
         "https://idp-kibogaparents.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Kiboga parents secondary school"
@@ -18487,6 +18516,9 @@
         },
         "https://idp-lolics.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Light of Life"
+        },
+        "https://idp-lubirihighbuloba.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Lubiri High School Buloba"
         },
         "https://idp-lukoleseed.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Lukole Seed Secondary School"
@@ -18644,8 +18676,14 @@
         "https://idp-namulongecou.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Namulonge C.O.U ss"
         },
+        "https://idp-naro.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "National Agricultural Research Organisation (NARO)"
+        },
         "https://idp-nawanyingiss.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Nawanyingi Seed Secondary School"
+        },
+        "https://idp-nda.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "National Drug Authority (NDA)"
         },
         "https://idp-ndagwesss.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Ndagwe Secondary School"
@@ -18697,6 +18735,12 @@
         },
         "https://idp-ogorseed.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Ogor Seed SS"
+        },
+        "https://idp-okapelhighschool.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Okapel High School"
+        },
+        "https://idp-oldkampalass.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Old Kampala Secondary Scool"
         },
         "https://idp-ombaci.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "St Josephs College Ombaci"
@@ -18787,6 +18831,12 @@
         },
         "https://idp-springingstars.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Springing Stars Nursery and Junior School"
+        },
+        "https://idp-stagnesgirls.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "St. Agnes Girl's School"
+        },
+        "https://idp-standrewkaggwass.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "St Andrew Kaggwa SS"
         },
         "https://idp-standrews.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "ST.ANDREW'S ACADEMY"
@@ -18911,6 +18961,9 @@
         "https://idp-ugandamartyrsvocss.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Uganda Martyrs Vocational Secondary School"
         },
+        "https://idp-uhpab.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Uganda Health Profession Assessment Board"
+        },
         "https://idp-uiahms.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Uganda Institute of Allied Health and Management Sciences (UIAHMS)"
         },
@@ -18949,6 +19002,9 @@
         },
         "https://idp-wellstar.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "WellStar Bright SS Mukono"
+        },
+        "https://idp-windle.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Windle International Organization"
         },
         "https://idp.cavendish.ac.ug/idp/shibboleth": {
             "en": "Cavendish University"

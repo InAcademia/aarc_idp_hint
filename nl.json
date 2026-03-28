@@ -187,6 +187,10 @@
         "en": "University of Curaçao",
         "nl": "University of Curaçao"
     },
+    "https://auth.spinozacentre.nl": {
+        "en": "Spinoza Centre for Neuroimaging (KNAW)",
+        "nl": "Spinoza Centrum voor Neuroimaging (KNAW)"
+    },
     "https://conext.authenticatie.ru.nl/simplesaml/saml2/idp/metadata.php": {
         "en": "Radboud University (USEZ-account)",
         "nl": "Radboud Universiteit (USEZ-account)"
@@ -256,8 +260,8 @@
         "nl": "Rijksuniversiteit Groningen"
     },
     "https://simplesaml.spinozacentre.nl/simplesaml/saml2/idp/metadata.php": {
-        "en": "Spinoza Centre for Neuroimaging (KNAW)",
-        "nl": "Spinoza Centrum voor Neuroimaging (KNAW)"
+        "en": "Spinoza Centre for Neuroimaging (KNAW) [Old]",
+        "nl": "Spinoza Centrum voor Neuroimaging (KNAW) [Oud]"
     },
     "https://sso.egi.eu/edugainidp/shibboleth": {
         "en": "EGI Foundation",
