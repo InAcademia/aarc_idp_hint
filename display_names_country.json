@@ -5656,6 +5656,10 @@
             "cs": "Masarykova univerzita",
             "en": "Masaryk University"
         },
+        "https://idp3.caritas-vos.cz/idp/shibboleth": {
+            "cs": "Caritas VOŠ sociální",
+            "en": "Caritas College Olomouc"
+        },
         "https://idptoo.osu.cz/simplesaml/saml2/idp/metadata.php": {
             "cs": "Ostravská univerzita",
             "en": "University of Ostrava"
@@ -8206,10 +8210,6 @@
         "https://login.spellman.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Unidad Educativa Salesiana Cardenal Spellman - spellman",
             "es": "Unidad Educativa Salesiana Cardenal Spellman - spellman"
-        },
-        "https://login.sudamericano.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Superior Tecnológico Sudamericano - sudamericano",
-            "es": "Instituto Superior Tecnológico Sudamericano - sudamericano"
         },
         "https://login.tecnologicoitca.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Tecnológico Superior José Chiriboga Grijalva - tecnologicoitca",
