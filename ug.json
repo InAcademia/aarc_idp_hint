@@ -908,6 +908,9 @@
     "https://idp-windle.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "Windle International Organization"
     },
+    "https://idp.bsu.ac.ug/idp/shibboleth": {
+        "en": "Bishop Stuart University"
+    },
     "https://idp.cavendish.ac.ug/idp/shibboleth": {
         "en": "Cavendish University"
     },
