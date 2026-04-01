@@ -123,6 +123,10 @@
         "en": "FMC - Faculdade de Medicina de Campos",
         "pt-br": "FMC - Faculdade de Medicina de Campos"
     },
+    "https://cafe.fucape.br/idp/shibboleth": {
+        "en": "FUCAPE - Fundacao Instituto Capixaba de Pesquisa em Cont. Econ. e Financas",
+        "pt-br": "FUCAPE - Fundacao Instituto Capixaba de Pesquisa em Cont. Econ. e Financas"
+    },
     "https://cafe.fumec.br/idp/shibboleth": {
         "en": "FUMEC - Fundacao Mineira de Educacao e Cultura",
         "pt-br": "FUMEC - Fundacao Mineira de Educacao e Cultura"
@@ -226,6 +230,10 @@
     "https://cafe.mamiraua.org.br/idp/shibboleth": {
         "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
         "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
+    },
+    "https://cafe.on.br/idp/shibboleth": {
+        "en": "ON - Observatorio Nacional",
+        "pt-br": "ON - Observatorio Nacional"
     },
     "https://cafe.prefeitura.sp.gov.br/idp/shibboleth": {
         "en": "SMS - Secretaria Municipal da Saude - SP",
@@ -1138,10 +1146,6 @@
     "https://shibboleth.ines.gov.br/idp/shibboleth": {
         "en": "INES - Instituto Nacional de Educacao de Surdos",
         "pt-br": "INES - Instituto Nacional de Educacao de Surdos"
-    },
-    "https://shibboleth.on.br/idp/shibboleth": {
-        "en": "ON - Observatorio Nacional",
-        "pt-br": "ON - Observatorio Nacional"
     },
     "https://shibboleth.santacasa.pa.gov.br/idp/shibboleth": {
         "en": "FSCMPA - Fundacao Santa Casa de Misericordia do Para",

@@ -617,6 +617,9 @@
     "https://idp.nsut.ac.in/idp/shibboleth": {
         "en": "Netaji Subhas University of Technology"
     },
+    "https://idp.nujs.edu/idp/shibboleth": {
+        "en": "The West Bengal National University of Juridical Sciences"
+    },
     "https://idp.nuv.ac.in/idp/shibboleth": {
         "en": "Navrachana University"
     },
