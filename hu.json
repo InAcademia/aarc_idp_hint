@@ -263,6 +263,10 @@
         "en": "University of Dunaújváros",
         "hu": "Dunaújvárosi Egyetem"
     },
+    "https://idp2.oszk.hu/saml/saml2/idp/metadata.php": {
+        "en": "National Széchényi Library - teszt",
+        "hu": "Országos Széchényi Könyvtár - teszt"
+    },
     "https://krtk.hun-ren.hu/simplesaml": {
         "en": "HUN-REN Centre for Economic and Regional Studies",
         "hu": "HUN-REN Közgazdaság- és Regionális Tudományi Kutatóközpont"
