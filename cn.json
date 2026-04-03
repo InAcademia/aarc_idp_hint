@@ -31,6 +31,10 @@
         "en": "Shanghai University of International Business and Economics",
         "zh": "上海对外经贸大学(Shanghai University of International Business and Economics)"
     },
+    "https://idp-carsi.zzu.edu.cn/idp/shibboleth": {
+        "en": "Zhengzhou University",
+        "zh": "郑州大学(Zhengzhou University)"
+    },
     "https://idp-cas.sues.edu.cn/idp/shibboleth": {
         "en": "Shanghai University of Engineering Science",
         "zh": "上海工程技术大学(Shanghai University of Engineering Science)"
@@ -1850,10 +1854,6 @@
     "https://idp.utibet.edu.cn/idp/shibboleth": {
         "en": "Xizang University",
         "zh": "西藏大学(Xizang University)"
-    },
-    "https://idp.v.zzu.edu.cn/idp/shibboleth": {
-        "en": "Zhengzhou University",
-        "zh": "郑州大学(Zhengzhou University)"
     },
     "https://idp.westlake.edu.cn/idp/shibboleth": {
         "en": "Westlake University",

@@ -217,7 +217,7 @@
     },
     "https://idp.szie.hu/idp/shibboleth": {
         "en": "Hungarian University of Agriculture and Life Sciences",
-        "hu": "Magyar Agrár- és Élettudományi Egyetem"
+        "hu": "Magyar Agrár és Élettudományi Egyetem"
     },
     "https://idp.tkbf.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Dharma Gate Buddhist College",

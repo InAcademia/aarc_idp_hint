@@ -1814,6 +1814,10 @@
             "en": "USCS - Universidade Municipal de Sao Caetano do Sul",
             "pt-br": "USCS - Universidade Municipal de Sao Caetano do Sul"
         },
+        "https://idp.venturus.org.br/idp/shibboleth": {
+            "en": "VENTURUS - Venturus Centro de Inovacao Tecnologica",
+            "pt-br": "VENTURUS - Venturus Centro de Inovacao Tecnologica"
+        },
         "https://idp02.ifc.edu.br/idp/shibboleth": {
             "en": "IFC - Instituto Federal Catarinense",
             "pt-br": "IFC - Instituto Federal Catarinense"
@@ -1941,6 +1945,10 @@
         "https://pandora.unifei.edu.br/idp/shibboleth": {
             "en": "UNIFEI - Universidade Federal de Itajuba",
             "pt-br": "UNIFEI - Universidade Federal de Itajuba"
+        },
+        "https://pct-guama-idp-cafe.fundacaoguama.org.br/idp/shibboleth": {
+            "en": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama",
+            "pt-br": "PCT-GUAMA - Fundacao Parque de Ciencia e Tecnologia Guama"
         },
         "https://planck.cdtn.br/idp/shibboleth": {
             "en": "CDTN - Centro de Desenvolvimento da Tecnologia Nuclear",
@@ -2161,10 +2169,6 @@
         "https://sistema-rnp.rdc.puc-rio.br/idp/shibboleth": {
             "en": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro",
             "pt-br": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro"
-        },
-        "https://slm00-shibboleth.slmandic.edu.br/idp/shibboleth": {
-            "en": "SLM - Sao Leopoldo Mandic",
-            "pt-br": "SLM - Sao Leopoldo Mandic"
         },
         "https://srv-ems-cafe.emescam.br/idp/shibboleth": {
             "en": "EMESCAM - Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria",
@@ -2889,6 +2893,10 @@
         "https://idp-carsi.suibe.edu.cn/idp/shibboleth": {
             "en": "Shanghai University of International Business and Economics",
             "zh": "上海对外经贸大学(Shanghai University of International Business and Economics)"
+        },
+        "https://idp-carsi.zzu.edu.cn/idp/shibboleth": {
+            "en": "Zhengzhou University",
+            "zh": "郑州大学(Zhengzhou University)"
         },
         "https://idp-cas.sues.edu.cn/idp/shibboleth": {
             "en": "Shanghai University of Engineering Science",
@@ -4709,10 +4717,6 @@
         "https://idp.utibet.edu.cn/idp/shibboleth": {
             "en": "Xizang University",
             "zh": "西藏大学(Xizang University)"
-        },
-        "https://idp.v.zzu.edu.cn/idp/shibboleth": {
-            "en": "Zhengzhou University",
-            "zh": "郑州大学(Zhengzhou University)"
         },
         "https://idp.westlake.edu.cn/idp/shibboleth": {
             "en": "Westlake University",
@@ -11337,7 +11341,7 @@
         },
         "https://idp.szie.hu/idp/shibboleth": {
             "en": "Hungarian University of Agriculture and Life Sciences",
-            "hu": "Magyar Agrár- és Élettudományi Egyetem"
+            "hu": "Magyar Agrár és Élettudományi Egyetem"
         },
         "https://idp.tkbf.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Dharma Gate Buddhist College",
@@ -22075,6 +22079,9 @@
         },
         "https://sso.nccu.edu/idp": {
             "en": "North Carolina Central University"
+        },
+        "https://sso.ncsu.edu/idp": {
+            "en": "zDEVELOPMENT North Carolina State University"
         },
         "https://sso.nhsc.edu/idp": {
             "en": "Nueta Hidatsa Sahnish College"
