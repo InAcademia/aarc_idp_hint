@@ -12018,6 +12018,9 @@
         "https://idp.kkhsou.ac.in/idp/shibboleth": {
             "en": "Krishna Kanta Handiqui State Open University"
         },
+        "https://idp.kmclu.ac.in/idp/shibboleth": {
+            "en": "Khwaja Moinuddin Chishti Language University"
+        },
         "https://idp.kohacloud.in/idp/shibboleth": {
             "en": "Visva Bharati"
         },
@@ -12086,6 +12089,9 @@
         },
         "https://idp.msuniv.ac.in/idp/shibboleth": {
             "en": "Manonmaniam Sundaranar University"
+        },
+        "https://idp.mungeruniversity.ac.in/idp/shibboleth": {
+            "en": "Munger University"
         },
         "https://idp.muoc.ac.in/idp/shibboleth": {
             "en": "Majuli University of Culture"
@@ -12407,6 +12413,9 @@
         },
         "https://idp.vinayakamission.com/idp/shibboleth": {
             "en": "Vinayaka Mission's Research - DU"
+        },
+        "https://idp.vksu.ac.in/idp/shibboleth": {
+            "en": "Veer Kunwar Singh University"
         },
         "https://idp.vmkvec.ac.in/idp/shibboleth": {
             "en": "Vinayaka Mission's Kirupananda Variyar Engineering College"
@@ -13315,6 +13324,10 @@
             "en": "Hiroshima University",
             "ja": "広島大学"
         },
+        "https://idp.hue.ac.jp/idp/shibboleth": {
+            "en": "Hiroshima University of Economics",
+            "ja": "広島経済大学"
+        },
         "https://idp.ide.go.jp/idp/shibboleth": {
             "en": "IDE-JETRO",
             "ja": "アジア経済研究所"
@@ -13790,12 +13803,6 @@
         },
         "https://rafiki.strathmore.edu/simplesaml/saml2/idp/metadata.php": {
             "en": "Strathmore University"
-        }
-    },
-    "kg": {
-        "https://idp.kif.kg/simplesaml/saml2/idp/metadata.php": {
-            "en": "KIF-IDP",
-            "ky": "KIF-IDP"
         }
     },
     "kr": {
