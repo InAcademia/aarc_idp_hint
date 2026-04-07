@@ -9421,10 +9421,6 @@
             "en": "Corporate CROUS Creteil-Personnels V3",
             "fr": "CROUS Créteil-Personnels V3"
         },
-        "https://auth.crous-lyon.fr/idp/shibboleth": {
-            "en": "CROUS Lyon-Personnels",
-            "fr": "CROUS Lyon-Personnels"
-        },
         "https://auth.crous-nice.fr/idp/shibboleth": {
             "en": "CROUS Nice-Personnels V3",
             "fr": "CROUS Nice-Personnels V3"
@@ -12321,6 +12317,9 @@
         "https://idp.sssihl.edu.in/idp/shibboleth": {
             "en": "Sri Sathya Sai Institute of Higher Learning, Anantapur."
         },
+        "https://idp.sssu.ac.in/idp/shibboleth": {
+            "en": "Shree Somnath Sanskrit University"
+        },
         "https://idp.ssus.ac.in/idp/shibboleth": {
             "en": "Sree Sankaracharya University of Sanskrit"
         },
@@ -15080,10 +15079,6 @@
         "https://signon.rug.nl/nidp/saml2/metadata": {
             "en": "University of Groningen",
             "nl": "Rijksuniversiteit Groningen"
-        },
-        "https://simplesaml.spinozacentre.nl/simplesaml/saml2/idp/metadata.php": {
-            "en": "Spinoza Centre for Neuroimaging (KNAW) [Old]",
-            "nl": "Spinoza Centrum voor Neuroimaging (KNAW) [Oud]"
         },
         "https://sso.egi.eu/edugainidp/shibboleth": {
             "en": "EGI Foundation",
@@ -17921,6 +17916,10 @@
         "https://yetkim.akdeniz.edu.tr/idp/shibboleth": {
             "en": "Akdeniz University",
             "tr": "Akdeniz Üniversitesi"
+        },
+        "https://yetkim.antalya.edu.tr/idp/shibboleth": {
+            "en": "Antalya Bilim University",
+            "tr": "Antalya Bilim Üniversitesi"
         },
         "https://yetkim.artuklu.edu.tr/idp/shibboleth": {
             "en": "Mardin Artuklu University",
