@@ -295,6 +295,9 @@
     "https://sso.arcticcollege.com/idp": {
         "en": "Nunavut Arctic College"
     },
+    "https://sso.burmanu.ca/idp": {
+        "en": "Burman University"
+    },
     "https://sso.capilanou.ca/idp": {
         "en": "Capilano University"
     },

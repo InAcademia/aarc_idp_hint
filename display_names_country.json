@@ -2528,6 +2528,9 @@
         "https://sso.arcticcollege.com/idp": {
             "en": "Nunavut Arctic College"
         },
+        "https://sso.burmanu.ca/idp": {
+            "en": "Burman University"
+        },
         "https://sso.capilanou.ca/idp": {
             "en": "Capilano University"
         },
@@ -9690,8 +9693,8 @@
             "fr": "Université de Guyane"
         },
         "https://idp-v4.univ-montp3.fr/idp/shibboleth": {
-            "en": "university of Montpellier 3",
-            "fr": "Université Paul-Valéry Montpellier 3"
+            "en": "university of Montpellier Paul-Valéry",
+            "fr": "Université de Montpellier Paul-Valéry"
         },
         "https://idp.assas-universite.fr/idp/shibboleth": {
             "en": "Université Paris-Panthéon-Assas",
@@ -18329,6 +18332,9 @@
         "https://idp-gombess.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Gombe Secondary School"
         },
+        "https://idp-greenhillacademy.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Green Hill Academy"
+        },
         "https://idp-guluarmyss.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Gulu army ss"
         },
@@ -18442,6 +18448,9 @@
         },
         "https://idp-kcu.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "King Ceasor University"
+        },
+        "https://idp-kibaaless.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "Kibaale Secondary School"
         },
         "https://idp-kibogaparents.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Kiboga parents secondary school"

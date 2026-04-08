@@ -200,6 +200,9 @@
     "https://idp-gombess.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "Gombe Secondary School"
     },
+    "https://idp-greenhillacademy.renu.ac.ug/Saml2IDP/proxy.xml": {
+        "en": "Green Hill Academy"
+    },
     "https://idp-guluarmyss.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "Gulu army ss"
     },
@@ -313,6 +316,9 @@
     },
     "https://idp-kcu.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "King Ceasor University"
+    },
+    "https://idp-kibaaless.renu.ac.ug/Saml2IDP/proxy.xml": {
+        "en": "Kibaale Secondary School"
     },
     "https://idp-kibogaparents.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "Kiboga parents secondary school"
