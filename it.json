@@ -339,6 +339,10 @@
         "en": "National Research Council (CNR)",
         "it": "Consiglio Nazionale delle Ricerche (CNR)"
     },
+    "https://idp.corila.eu/idp/shibboleth": {
+        "en": "CORILA",
+        "it": "CORILA"
+    },
     "https://idp.cta-observatory.org/idp/shibboleth": {
         "en": "CTAO ERIC",
         "it": "CTAO ERIC"

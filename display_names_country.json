@@ -3773,6 +3773,10 @@
             "en": "Henan University of Animal Husbandry and Economy",
             "zh": "河南牧业经济学院(Henan University of Animal Husbandry and Economy)"
         },
+        "https://idp.hnucm.edu.cn/idp/shibboleth": {
+            "en": "Hunan University of Chinese Medicine",
+            "zh": "湖南中医药大学(Hunan University of Chinese Medicine)"
+        },
         "https://idp.hnust.edu.cn/idp/shibboleth": {
             "en": "Hunan University of Science and Technology",
             "zh": "湖南科技大学(Hunan University of Science and Technology)"
@@ -12847,6 +12851,10 @@
             "en": "National Research Council (CNR)",
             "it": "Consiglio Nazionale delle Ricerche (CNR)"
         },
+        "https://idp.corila.eu/idp/shibboleth": {
+            "en": "CORILA",
+            "it": "CORILA"
+        },
         "https://idp.cta-observatory.org/idp/shibboleth": {
             "en": "CTAO ERIC",
             "it": "CTAO ERIC"
@@ -13541,6 +13549,10 @@
         "https://kidp.ishikawa-nct.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Ishikawa College",
             "ja": "石川工業高等専門学校"
+        },
+        "https://kidp.kagoshima-ct.ac.jp/idp/shibboleth": {
+            "en": "National Institute of Technology,Kagoshima College",
+            "ja": "鹿児島工業高等専門学校"
         },
         "https://kidp.kct.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Kitakyushu College",
