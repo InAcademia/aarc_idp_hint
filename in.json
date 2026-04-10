@@ -50,6 +50,9 @@
     "https://idp.aiimsbilaspur.edu.in/idp/shibboleth": {
         "en": "All India Institute of Medical Sciences, Bilaspur"
     },
+    "https://idp.aiish.ac.in/idp/shibboleth": {
+        "en": "All India Institute Of Speech and Hearing"
+    },
     "https://idp.aiktclibrary.org/idp/shibboleth": {
         "en": "Anjuman-I-Islams Kalsekar Technical Campus"
     },

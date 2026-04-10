@@ -31,10 +31,6 @@
         "en": "UFFS - Universidade Federal da Fronteira Sul",
         "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
     },
-    "https://cafe-gateway.ifce.edu.br/idp/shibboleth": {
-        "en": "IFCE - Instituto Federal do Ceara",
-        "pt-br": "IFCE - Instituto Federal do Ceara"
-    },
     "https://cafe-idp.ifma.edu.br/idp/shibboleth": {
         "en": "IFMA - Instituto Federal do Maranhao",
         "pt-br": "IFMA - Instituto Federal do Maranhao"
@@ -274,10 +270,6 @@
     "https://cafe.uemg.br/idp/shibboleth": {
         "en": "UEMG - Universidade do Estado de Minas Gerais",
         "pt-br": "UEMG - Universidade do Estado de Minas Gerais"
-    },
-    "https://cafe.uenf.br/idp/shibboleth": {
-        "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
-        "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
     },
     "https://cafe.uenp.edu.br/idp/shibboleth": {
         "en": "UENP - Universidade Estadual do Norte do Parana",
@@ -703,6 +695,10 @@
         "en": "IFS - Instituto Federal de Sergipe",
         "pt-br": "IFS - Instituto Federal de Sergipe"
     },
+    "https://idp.ifsertaope.edu.br/idp/shibboleth": {
+        "en": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano",
+        "pt-br": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano"
+    },
     "https://idp.ifsuldeminas.edu.br/idp/shibboleth": {
         "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
         "pt-br": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais"
@@ -774,6 +770,10 @@
     "https://idp.uems.br/idp/shibboleth": {
         "en": "UEMS - Universidade Estadual de Mato Grosso do Sul",
         "pt-br": "UEMS - Universidade Estadual de Mato Grosso do Sul"
+    },
+    "https://idp.uenf.br/idp/shibboleth": {
+        "en": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro",
+        "pt-br": "UENF - Universidade Estadual do Norte Fluminense Darcy Ribeiro"
     },
     "https://idp.uerj.br/idp/shibboleth": {
         "en": "UERJ - Universidade do Estado do Rio de Janeiro",
@@ -942,10 +942,6 @@
     "https://idpcafe.finep.gov.br/idp/shibboleth": {
         "en": "FINEP - Financiadora de Estudos e Projetos",
         "pt-br": "FINEP - Financiadora de Estudos e Projetos"
-    },
-    "https://idpcafe.ifsertao-pe.edu.br/idp/shibboleth": {
-        "en": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano",
-        "pt-br": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano"
     },
     "https://idpcafe.ifsudestemg.edu.br/idp/shibboleth": {
         "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
@@ -1123,6 +1119,10 @@
         "en": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano",
         "pt-br": "IFBAIANO - Instituto Federal de Educacao, Ciencia e Tecnologia Baiano"
     },
+    "https://shibboleth.ifce.edu.br/idp/shibboleth": {
+        "en": "IFCE - Instituto Federal do Ceara",
+        "pt-br": "IFCE - Instituto Federal do Ceara"
+    },
     "https://shibboleth.iffarroupilha.edu.br/idp/shibboleth": {
         "en": "IFFAR - Instituto Federal Farroupilha",
         "pt-br": "IFFAR - Instituto Federal Farroupilha"
@@ -1262,6 +1262,10 @@
     "https://sistema-rnp.rdc.puc-rio.br/idp/shibboleth": {
         "en": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro",
         "pt-br": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro"
+    },
+    "https://slm00-shibboleth.slmandic.edu.br/idp/shibboleth": {
+        "en": "SLM - Sao Leopoldo Mandic",
+        "pt-br": "SLM - Sao Leopoldo Mandic"
     },
     "https://srv-ems-cafe.emescam.br/idp/shibboleth": {
         "en": "EMESCAM - Escola Superior de Ciencias da Santa Casa de Misericordia de Vitoria",
