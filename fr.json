@@ -51,10 +51,6 @@
         "en": "Ecole Nationale Supérieure de Chimie Paris",
         "fr": "Ecole Nationale Supérieure de Chimie Paris"
     },
-    "https://auth.cnous.fr/idp/shibboleth": {
-        "en": "CNOUS - Personnel",
-        "fr": "CNOUS - Personnel"
-    },
     "https://auth.crous-caen.fr/idp/shibboleth": {
         "en": "CROUS Caen-Personnels V3",
         "fr": "CROUS Caen-Personnels V3"
@@ -88,8 +84,8 @@
         "fr": "Sorbonne Université"
     },
     "https://auth.nuonet.fr": {
-        "en": "CNOUS - LesCrous",
-        "fr": "CNOUS - LesCrous"
+        "en": "Cnous - LesCrous",
+        "fr": "Cnous - LesCrous"
     },
     "https://auth.sso.vet-alfort.fr/saml/metadata": {
         "en": "National Veterinary School of Alfort - EnvA",

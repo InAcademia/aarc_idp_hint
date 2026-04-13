@@ -9031,6 +9031,10 @@
             "en": "University of Cantabria",
             "es": "Universidad de Cantabria"
         },
+        "https://www.rediris.es/sir/unieidp": {
+            "en": "UNIE Universidad",
+            "es": "UNIE Universidad"
+        },
         "https://www.rediris.es/sir/unileonidp": {
             "en": "Universidad de León",
             "es": "Universidad de León"
@@ -9420,10 +9424,6 @@
             "en": "Ecole Nationale Supérieure de Chimie Paris",
             "fr": "Ecole Nationale Supérieure de Chimie Paris"
         },
-        "https://auth.cnous.fr/idp/shibboleth": {
-            "en": "CNOUS - Personnel",
-            "fr": "CNOUS - Personnel"
-        },
         "https://auth.crous-caen.fr/idp/shibboleth": {
             "en": "CROUS Caen-Personnels V3",
             "fr": "CROUS Caen-Personnels V3"
@@ -9457,8 +9457,8 @@
             "fr": "Sorbonne Université"
         },
         "https://auth.nuonet.fr": {
-            "en": "CNOUS - LesCrous",
-            "fr": "CNOUS - LesCrous"
+            "en": "Cnous - LesCrous",
+            "fr": "Cnous - LesCrous"
         },
         "https://auth.sso.vet-alfort.fr/saml/metadata": {
             "en": "National Veterinary School of Alfort - EnvA",
@@ -17523,10 +17523,6 @@
             "en": "Kirikkale University",
             "tr": "Kırıkkale Üniversitesi"
         },
-        "https://idp.kmu.edu.tr/idp/shibboleth": {
-            "en": "Karamanoglu Mehmetbey University",
-            "tr": "Karamanoğlu Mehmetbey Üniversitesi"
-        },
         "https://idp.ksbu.edu.tr/idp/shibboleth": {
             "en": "Kütahya Health Sciences University",
             "tr": "Kütahya Sağlık Bilimleri Üniversitesi"
@@ -18162,7 +18158,7 @@
         "https://idp-afru.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "African Renewal University"
         },
-        "https://idp-ahakiinstitute.renu.ac.ug/idp/shibboleth": {
+        "https://idp-ahakiinstitute.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Afya Na Haki (Ahaki)"
         },
         "https://idp-allsaintsociba.renu.ac.ug/Saml2IDP/proxy.xml": {
