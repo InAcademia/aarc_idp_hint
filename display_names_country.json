@@ -9452,6 +9452,10 @@
             "en": "CROUS Strasbourg V3",
             "fr": "CROUS Strasbourg V3"
         },
+        "https://auth.glesr.fr/realms/cnl": {
+            "en": "CNL",
+            "fr": "CNL"
+        },
         "https://auth.id.sorbonne-universite.fr/saml/metadata": {
             "en": "Sorbonne University",
             "fr": "Sorbonne Université"
@@ -10199,10 +10203,6 @@
         "https://idp.uphf.fr/idp/shibboleth": {
             "en": "Université Polytechnique Hauts-de-France",
             "fr": "Université Polytechnique Hauts-de-France"
-        },
-        "https://idp.upmc.fr/idp/shibboleth": {
-            "en": "Université de Paris 6 - Pierre et Marie Curie",
-            "fr": "Université de Paris 6 - Pierre et Marie Curie"
         },
         "https://idp.versailles.archi.fr/idp/shibboleth": {
             "en": "ENSAV - Ecole Nationale Supérieure d'Architecture de Versailles",
