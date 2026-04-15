@@ -74,6 +74,9 @@
     "https://idp.ametuniv.ac.in/idp/shibboleth": {
         "en": "AMET University"
     },
+    "https://idp.angrau.ac.in/idp/shibboleth": {
+        "en": "Acharya N. G. Ranga Agricultural University"
+    },
     "https://idp.anits.edu.in/idp/shibboleth": {
         "en": "Anil Neerukonda Institute of Technology and Sciences"
     },

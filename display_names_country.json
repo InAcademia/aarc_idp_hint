@@ -3289,6 +3289,10 @@
             "en": "Changchun University of Technology",
             "zh": "长春工业大学(Changchun University of Technology)"
         },
+        "https://idp.cczu.edu.cn/idp/shibboleth": {
+            "en": "Changzhou University",
+            "zh": "常州大学(Changzhou University)"
+        },
         "https://idp.cdnu.edu.cn/idp/shibboleth": {
             "en": "Chengdu Normal University",
             "zh": "成都师范学院(Chengdu Normal University)"
@@ -11654,6 +11658,9 @@
         "https://idp.ametuniv.ac.in/idp/shibboleth": {
             "en": "AMET University"
         },
+        "https://idp.angrau.ac.in/idp/shibboleth": {
+            "en": "Acharya N. G. Ranga Agricultural University"
+        },
         "https://idp.anits.edu.in/idp/shibboleth": {
             "en": "Anil Neerukonda Institute of Technology and Sciences"
         },
@@ -14772,6 +14779,10 @@
         }
     },
     "net": {
+        "https://aaaa.cstcloud.cn/saml/idp": {
+            "en": "SDG AAI",
+            "zh": "SDG统一认证系统"
+        },
         "https://aai.goscloud.net/saml/idp": {
             "en": "GOSC AAI",
             "zh": "GOSC AAI"
