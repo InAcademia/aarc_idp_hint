@@ -23,6 +23,9 @@
     "https://idp.canterbury.ac.nz/idp/shibboleth": {
         "en": "University of Canterbury"
     },
+    "https://idp.earthsciences.nz/idp/shibboleth": {
+        "en": "Earth Sciences New Zealand"
+    },
     "https://idp.lincoln.ac.nz/idp/shibboleth": {
         "en": "Lincoln University"
     },

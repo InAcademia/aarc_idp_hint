@@ -11442,6 +11442,10 @@
             "en": "University of Tokaj",
             "hu": "Tokaj-Hegyalja Egyetem"
         },
+        "https://sstf.idp.eduid.hu/simplesaml/saml2/idp/metadata.php": {
+            "en": "SSTF - Sola Scriptura Teológiai Főiskola",
+            "hu": "SSTF - Sola Scriptura Teológiai Főiskola"
+        },
         "https://vho.eduid.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "eduID.hu Virtual Home (VHO)",
             "hu": "eduID.hu Virtual Home (VHO)"
@@ -12957,6 +12961,10 @@
         "https://idp.museogalileo.it/idp/shibboleth": {
             "en": "Museo Galileo - Istituto e Museo di Storia della Scienza",
             "it": "Museo Galileo - Istituto e Museo di Storia della Scienza"
+        },
+        "https://idp.ogs.it/idp/shibboleth": {
+            "en": "National Institute of Oceanography and Applied Geophysics - OGS",
+            "it": "Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS"
         },
         "https://idp.sissa.it/idp/shibboleth": {
             "en": "SISSA",
@@ -15660,6 +15668,9 @@
         },
         "https://idp.canterbury.ac.nz/idp/shibboleth": {
             "en": "University of Canterbury"
+        },
+        "https://idp.earthsciences.nz/idp/shibboleth": {
+            "en": "Earth Sciences New Zealand"
         },
         "https://idp.lincoln.ac.nz/idp/shibboleth": {
             "en": "Lincoln University"

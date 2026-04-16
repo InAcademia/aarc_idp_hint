@@ -428,6 +428,10 @@
         "en": "Museo Galileo - Istituto e Museo di Storia della Scienza",
         "it": "Museo Galileo - Istituto e Museo di Storia della Scienza"
     },
+    "https://idp.ogs.it/idp/shibboleth": {
+        "en": "National Institute of Oceanography and Applied Geophysics - OGS",
+        "it": "Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS"
+    },
     "https://idp.sissa.it/idp/shibboleth": {
         "en": "SISSA",
         "it": "SISSA"
