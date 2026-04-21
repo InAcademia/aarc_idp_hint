@@ -41,9 +41,6 @@
     "https://idp.upsa.edu.gh/idp/shibboleth": {
         "en": "University of Professional Studies, Accra"
     },
-    "https://idp2.umat.edu.gh/idp/shibboleth": {
-        "en": "University of Mines and Technology"
-    },
     "https://shib.ug.edu.gh/idp/shibboleth": {
         "en": "University of Ghana"
     },

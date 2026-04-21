@@ -10708,9 +10708,6 @@
         "https://idp.upsa.edu.gh/idp/shibboleth": {
             "en": "University of Professional Studies, Accra"
         },
-        "https://idp2.umat.edu.gh/idp/shibboleth": {
-            "en": "University of Mines and Technology"
-        },
         "https://shib.ug.edu.gh/idp/shibboleth": {
             "en": "University of Ghana"
         },
@@ -13586,6 +13583,10 @@
         "https://kidp.kct.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Kitakyushu College",
             "ja": "北九州工業高等専門学校"
+        },
+        "https://kidp.kisarazu.ac.jp/idp/shibboleth": {
+            "en": "National Institute of Technology,Kisarazu College",
+            "ja": "木更津工業高等専門学校"
         },
         "https://kidp.kochi-ct.ac.jp/idp/shibboleth": {
             "en": "National Institute of Technology,Kochi College",
@@ -18140,6 +18141,9 @@
         },
         "https://idp.ku.ac.tz/idp/shibboleth": {
             "en": "Kairuki University (KU)"
+        },
+        "https://idp.mnma.ac.tz/idp/shibboleth": {
+            "en": "Mwalimu Nyerere Memorial Academy (MNMA)"
         },
         "https://idp.moi.ac.tz/idp/shibboleth": {
             "en": "Muhimbili Orthopaedic Institute (MOI)"

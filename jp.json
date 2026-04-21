@@ -386,6 +386,10 @@
         "en": "National Institute of Technology,Kitakyushu College",
         "ja": "北九州工業高等専門学校"
     },
+    "https://kidp.kisarazu.ac.jp/idp/shibboleth": {
+        "en": "National Institute of Technology,Kisarazu College",
+        "ja": "木更津工業高等専門学校"
+    },
     "https://kidp.kochi-ct.ac.jp/idp/shibboleth": {
         "en": "National Institute of Technology,Kochi College",
         "ja": "高知工業高等専門学校"
