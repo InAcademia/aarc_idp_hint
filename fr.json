@@ -203,10 +203,6 @@
         "en": "Université de Technologie de Belfort-Montbéliard",
         "fr": "Université de Technologie de Belfort-Montbéliard"
     },
-    "https://federation2.univ-perp.fr/idp/shibboleth": {
-        "en": "Université de Perpignan Via Domitia",
-        "fr": "Université de Perpignan Via Domitia"
-    },
     "https://federation3.univ-brest.fr/idp/shibboleth": {
         "en": "Université de Bretagne Occidentale - UBO/IDP3",
         "fr": "Université de Bretagne Occidentale - UBO/IDP3"
@@ -1042,10 +1038,6 @@
     "https://shibboleth.csi.uvsq.fr/idp/shibboleth": {
         "en": "Université de Versailles St. Quentin en Yvelines",
         "fr": "Université de Versailles St. Quentin en Yvelines"
-    },
-    "https://shibboleth.ens2m.fr/idp/shibboleth": {
-        "en": "SUPMICROTECH (ENSMM) - Besançon",
-        "fr": "SUPMICROTECH (ENSMM) - Besançon"
     },
     "https://shibboleth.ensicaen.fr/idp/shibboleth": {
         "en": "oldENSICAEN",

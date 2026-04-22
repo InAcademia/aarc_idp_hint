@@ -557,6 +557,9 @@
     "https://idp.nid.edu/idp/shibboleth": {
         "en": "National Institute of Design"
     },
+    "https://idp.nidh.ac.in/idp/shibboleth": {
+        "en": "National Institute of Design Haryana"
+    },
     "https://idp.nift.ac.in/idp/shibboleth": {
         "en": "National Institute Of Fashion Technology"
     },

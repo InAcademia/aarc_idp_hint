@@ -106,9 +106,6 @@
     "https://idp.helha.be/idp/shibboleth": {
         "en": "HELHa"
     },
-    "https://idp.hogent.be/idp": {
-        "en": "Hogent"
-    },
     "https://idp.kikirpa.be/idp/shibboleth": {
         "en": "Royal Institute for Cultural Heritage",
         "fr": "Institut Royal du Patrimoine Artistique"

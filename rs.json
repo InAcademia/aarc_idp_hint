@@ -39,6 +39,10 @@
         "en": "State university of Novi Pazar",
         "sr": "Drzavni univerzitet u Novom Pazaru"
     },
+    "https://idp.sanu.ac.rs/idp/shibboleth": {
+        "en": "Serbian Academy of Sciences and Arts",
+        "sr": "Srpska akademija nauka i umetnosti"
+    },
     "https://idp.sf.bg.ac.rs/idp/shibboleth": {
         "en": "The University of Belgrade - Faculty of Transport and Traffic Engineering",
         "sr": "Saobraćajni fakultet Univerziteta u Beogradu"

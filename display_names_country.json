@@ -679,9 +679,6 @@
         "https://idp.helha.be/idp/shibboleth": {
             "en": "HELHa"
         },
-        "https://idp.hogent.be/idp": {
-            "en": "Hogent"
-        },
         "https://idp.kikirpa.be/idp/shibboleth": {
             "en": "Royal Institute for Cultural Heritage",
             "fr": "Institut Royal du Patrimoine Artistique"
@@ -9580,10 +9577,6 @@
             "en": "Université de Technologie de Belfort-Montbéliard",
             "fr": "Université de Technologie de Belfort-Montbéliard"
         },
-        "https://federation2.univ-perp.fr/idp/shibboleth": {
-            "en": "Université de Perpignan Via Domitia",
-            "fr": "Université de Perpignan Via Domitia"
-        },
         "https://federation3.univ-brest.fr/idp/shibboleth": {
             "en": "Université de Bretagne Occidentale - UBO/IDP3",
             "fr": "Université de Bretagne Occidentale - UBO/IDP3"
@@ -10419,10 +10412,6 @@
         "https://shibboleth.csi.uvsq.fr/idp/shibboleth": {
             "en": "Université de Versailles St. Quentin en Yvelines",
             "fr": "Université de Versailles St. Quentin en Yvelines"
-        },
-        "https://shibboleth.ens2m.fr/idp/shibboleth": {
-            "en": "SUPMICROTECH (ENSMM) - Besançon",
-            "fr": "SUPMICROTECH (ENSMM) - Besançon"
         },
         "https://shibboleth.ensicaen.fr/idp/shibboleth": {
             "en": "oldENSICAEN",
@@ -12141,6 +12130,9 @@
         },
         "https://idp.nid.edu/idp/shibboleth": {
             "en": "National Institute of Design"
+        },
+        "https://idp.nidh.ac.in/idp/shibboleth": {
+            "en": "National Institute of Design Haryana"
         },
         "https://idp.nift.ac.in/idp/shibboleth": {
             "en": "National Institute Of Fashion Technology"
@@ -16799,6 +16791,10 @@
         "https://idp.np.ac.rs/idp/shibboleth": {
             "en": "State university of Novi Pazar",
             "sr": "Drzavni univerzitet u Novom Pazaru"
+        },
+        "https://idp.sanu.ac.rs/idp/shibboleth": {
+            "en": "Serbian Academy of Sciences and Arts",
+            "sr": "Srpska akademija nauka i umetnosti"
         },
         "https://idp.sf.bg.ac.rs/idp/shibboleth": {
             "en": "The University of Belgrade - Faculty of Transport and Traffic Engineering",
