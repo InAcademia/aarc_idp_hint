@@ -959,10 +959,6 @@
             "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
             "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
         },
-        "https://cafe-idp.unisantos.br/idp/shibboleth": {
-            "en": "UNISANTOS - Universidade Catolica de Santos",
-            "pt-br": "UNISANTOS - Universidade Catolica de Santos"
-        },
         "https://cafe-school.cesar.org.br/idp/shibboleth": {
             "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
             "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
@@ -1435,6 +1431,10 @@
             "en": "HMV - Associacao Hospitalar Moinhos de Vento",
             "pt-br": "HMV - Associacao Hospitalar Moinhos de Vento"
         },
+        "https://idp-cafe.ifg.edu.br/idp/shibboleth": {
+            "en": "IFG - Instituto Federal de Goias",
+            "pt-br": "IFG - Instituto Federal de Goias"
+        },
         "https://idp-cafe.ifgoiano.edu.br/idp/shibboleth": {
             "en": "IFGOIANO - Instituto Federal Goiano",
             "pt-br": "IFGOIANO - Instituto Federal Goiano"
@@ -1582,10 +1582,6 @@
         "https://idp.ifac.edu.br/idp/shibboleth": {
             "en": "IFAC - Instituto Federal do Acre",
             "pt-br": "IFAC - Instituto Federal do Acre"
-        },
-        "https://idp.ifg.edu.br/idp/shibboleth": {
-            "en": "IFG - Instituto Federal de Educacao Ciencia e Tecnologia de Goias",
-            "pt-br": "IFG - Instituto Federal de Educacao Ciencia e Tecnologia de Goias"
         },
         "https://idp.ifmg.edu.br/idp/shibboleth": {
             "en": "IFMG - Instituto Federal de Minas Gerais",
@@ -1782,6 +1778,10 @@
         "https://idp.unisanta.br/idp/shibboleth": {
             "en": "UNISANTA - Instituto Superior de Educacao Santa Cecilia",
             "pt-br": "UNISANTA - Instituto Superior de Educacao Santa Cecilia"
+        },
+        "https://idp.unisantos.br/idp/shibboleth": {
+            "en": "UNISANTOS - Universidade Catolica de Santos",
+            "pt-br": "UNISANTOS - Universidade Catolica de Santos"
         },
         "https://idp.unisinos.br/idp/shibboleth": {
             "en": "UNISINOS - Universidade do Vale do Rio dos Sinos",
@@ -2843,6 +2843,10 @@
         "https://idp.utalca.cl/simplesaml/saml2/idp/metadata.php": {
             "en": "Universidad de Talca",
             "es": "Universidad de Talca"
+        },
+        "https://idp2.beic.cl/simplesaml/module.php/saml/idp/metadata": {
+            "en": "BEIC - ANID (PRUEBAS)",
+            "es": "BEIC - ANID (PRUEBAS)"
         },
         "https://idp2.reuna.cl/saml2/idp/metadata.php": {
             "en": "Funcionarios REUNA",
@@ -4429,10 +4433,6 @@
         "https://idp.sicnu.edu.cn/idp/shibboleth": {
             "en": "Sichuan Normal University",
             "zh": "四川师范大学(Sichuan Normal University)"
-        },
-        "https://idp.sii.edu.cn/idp/shibboleth": {
-            "en": "ShanghaiInnovation Institute",
-            "zh": "上海创智学院(ShanghaiInnovation Institute)"
         },
         "https://idp.sisu.edu.cn/idp/shibboleth": {
             "en": "Sichuan International Studies University",
@@ -7246,7 +7246,7 @@
         },
         "https://login.fernuni-hagen.de/idp/shibboleth": {
             "de": "FernUniversität in Hagen",
-            "en": "University in Hagen"
+            "en": "FernUniversität in Hagen"
         },
         "https://login.fh-aachen.de/idp/shibboleth": {
             "de": "Fachhochschule Aachen",
@@ -13106,10 +13106,6 @@
         "https://idp01.areasciencepark.it/idp/shibboleth": {
             "en": "Area Science Park",
             "it": "Area Science Park"
-        },
-        "https://idp02.ogs.it/idp/shibboleth": {
-            "en": "National Institute of Oceanography and Applied Geophysics - OGS",
-            "it": "Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS"
         },
         "https://idpuniba.uniba.it/simplesaml/saml2/idp/metadata.php": {
             "en": "University of Bari Aldo Moro",

@@ -11,6 +11,10 @@
         "en": "Universidad de Talca",
         "es": "Universidad de Talca"
     },
+    "https://idp2.beic.cl/simplesaml/module.php/saml/idp/metadata": {
+        "en": "BEIC - ANID (PRUEBAS)",
+        "es": "BEIC - ANID (PRUEBAS)"
+    },
     "https://idp2.reuna.cl/saml2/idp/metadata.php": {
         "en": "Funcionarios REUNA",
         "es": "Funcionarios REUNA"

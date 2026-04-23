@@ -581,10 +581,6 @@
         "en": "Area Science Park",
         "it": "Area Science Park"
     },
-    "https://idp02.ogs.it/idp/shibboleth": {
-        "en": "National Institute of Oceanography and Applied Geophysics - OGS",
-        "it": "Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS"
-    },
     "https://idpuniba.uniba.it/simplesaml/saml2/idp/metadata.php": {
         "en": "University of Bari Aldo Moro",
         "it": "Università degli Studi di Bari Aldo Moro"
