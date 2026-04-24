@@ -59,10 +59,6 @@
         "en": "Lithuanian Sports University",
         "lt": "Lietuvos sporto universitetas"
     },
-    "https://marko.sso.litnet.lt/auth/saml2/idp/metadata.php": {
-        "en": "Marijampole College",
-        "lt": "Marijampolės kolegija"
-    },
     "https://sso.ftmc.lt/auth/saml2/idp/metadata.php": {
         "en": "State research institute Center for Physical Sciences and Technology",
         "lt": "Valstybinis mokslinių tyrimų institutas Fizinių ir technologijos mokslų centras"

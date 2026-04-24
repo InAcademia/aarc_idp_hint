@@ -4434,6 +4434,10 @@
             "en": "Sichuan Normal University",
             "zh": "四川师范大学(Sichuan Normal University)"
         },
+        "https://idp.sii.edu.cn/idp/shibboleth": {
+            "en": "Shanghai Innovation Institute",
+            "zh": "上海创智学院(Shanghai Innovation Institute)"
+        },
         "https://idp.sisu.edu.cn/idp/shibboleth": {
             "en": "Sichuan International Studies University",
             "zh": "四川外国语大学(Sichuan International Studies University)"
@@ -6595,7 +6599,7 @@
             "en": "University of Applied Sciences Stralsund"
         },
         "https://idp.hof-university.de/idp/shibboleth": {
-            "de": "Hochschule für Angewandte Wissenschaften Hof",
+            "de": "Hochschule für angewandte Wissenschaften Hof",
             "en": "University of Applied Sciences Hof"
         },
         "https://idp.hrz.tu-darmstadt.de/idp/shibboleth": {
@@ -9756,10 +9760,6 @@
         "https://idp.crous-bordeaux.fr/idp/shibboleth": {
             "en": "CROUS Bordeaux",
             "fr": "CROUS Bordeaux"
-        },
-        "https://idp.crous-grenoble.fr/idp/shibboleth": {
-            "en": "CROUS Grenoble - Personnels",
-            "fr": "CROUS Grenoble - Personnels"
         },
         "https://idp.crous-lille.fr/idp/shibboleth": {
             "en": "CROUS Lille",
@@ -14090,10 +14090,6 @@
         "https://lsu.sso.litnet.lt/auth/saml2/idp/metadata.php": {
             "en": "Lithuanian Sports University",
             "lt": "Lietuvos sporto universitetas"
-        },
-        "https://marko.sso.litnet.lt/auth/saml2/idp/metadata.php": {
-            "en": "Marijampole College",
-            "lt": "Marijampolės kolegija"
         },
         "https://sso.ftmc.lt/auth/saml2/idp/metadata.php": {
             "en": "State research institute Center for Physical Sciences and Technology",
@@ -20881,7 +20877,7 @@
             "en": "University of Durham"
         },
         "urn:mace:ac.uk:sdss.ac.uk:provider:identity:shibboleth-i.sgul.ac.uk": {
-            "en": "St George's, University of London"
+            "en": "City St George's, University of London, Tooting campus"
         },
         "urn:mace:ac.uk:sdss.ac.uk:provider:identity:uhi.ac.uk": {
             "en": "University of the Highlands and Islands",

@@ -383,10 +383,6 @@
         "en": "CROUS Bordeaux",
         "fr": "CROUS Bordeaux"
     },
-    "https://idp.crous-grenoble.fr/idp/shibboleth": {
-        "en": "CROUS Grenoble - Personnels",
-        "fr": "CROUS Grenoble - Personnels"
-    },
     "https://idp.crous-lille.fr/idp/shibboleth": {
         "en": "CROUS Lille",
         "fr": "CROUS Lille"
