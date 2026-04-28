@@ -38,6 +38,9 @@
     "https://idp.uew.edu.gh/idp/shibboleth": {
         "en": "University of Education,Winneba"
     },
+    "https://idp.umat.edu.gh/idp/shibboleth": {
+        "en": "UMaT Identity Provider"
+    },
     "https://idp.upsa.edu.gh/idp/shibboleth": {
         "en": "University of Professional Studies, Accra"
     },
