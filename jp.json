@@ -238,6 +238,10 @@
         "en": "St. Luke's International University",
         "ja": "聖路加国際大学"
     },
+    "https://idp.matsue-ct.ac.jp/idp/shibboleth": {
+        "en": "National Institute of Technology,Matsue College",
+        "ja": "松江工業高等専門学校"
+    },
     "https://idp.morioka-u.ac.jp/idp/shibboleth": {
         "en": "Morioka University",
         "ja": "盛岡大学"
