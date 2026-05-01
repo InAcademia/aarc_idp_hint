@@ -1587,6 +1587,10 @@
             "en": "IFAC - Instituto Federal do Acre",
             "pt-br": "IFAC - Instituto Federal do Acre"
         },
+        "https://idp.ifes.edu.br/idp/shibboleth": {
+            "en": "IFES - Instituto Federal do Espirito Santo",
+            "pt-br": "IFES - Instituto Federal do Espirito Santo"
+        },
         "https://idp.ifmg.edu.br/idp/shibboleth": {
             "en": "IFMG - Instituto Federal de Minas Gerais",
             "pt-br": "IFMG - Instituto Federal de Minas Gerais"
@@ -1974,6 +1978,10 @@
         "https://rcafe02s.inmetro.gov.br/idp/shibboleth": {
             "en": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia",
             "pt-br": "INMETRO - Instituto Nacional de Metrologia Qualidade e Tecnologia"
+        },
+        "https://rcafe03s.inmetro.gov.br/idp/shibboleth": {
+            "en": "INMETRO-RS - Instituto Nacional de Metrologia Qualidade e Tecnologia",
+            "pt-br": "INMETRO-RS - Instituto Nacional de Metrologia Qualidade e Tecnologia"
         },
         "https://redecafe.enap.gov.br/idp/shibboleth": {
             "en": "ENAP - Escola Nacional de Administracao Publica",
@@ -8060,6 +8068,14 @@
         "https://wayfeadania.itcn.dk/simplesaml/saml2/idp/metadata.php": {
             "da": "Erhvervsakademi Dania",
             "en": "Dania Academy"
+        }
+    },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
         }
     },
     "ec": {
