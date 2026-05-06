@@ -335,6 +335,10 @@
         "en": "university of Montpellier Paul-Valéry",
         "fr": "Université de Montpellier Paul-Valéry"
     },
+    "https://idp-viacesi.renater.fr/idp/shibboleth": {
+        "en": "CESI",
+        "fr": "CESI"
+    },
     "https://idp.assas-universite.fr/idp/shibboleth": {
         "en": "Université Paris-Panthéon-Assas",
         "fr": "Université Paris-Panthéon-Assas"

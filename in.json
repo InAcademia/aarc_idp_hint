@@ -464,6 +464,9 @@
     "https://idp.kongu.edu/idp/shibboleth": {
         "en": "Kongu Engineering College"
     },
+    "https://idp.kuhs.ac.in/idp/shibboleth": {
+        "en": "Kerala University of Health Sciences (KUHS)"
+    },
     "https://idp.kuk.ac.in/idp/shibboleth": {
         "en": "Kurukshetra University"
     },
@@ -658,6 +661,9 @@
     },
     "https://idp.pmulibrary.org/idp/shibboleth": {
         "en": "Periyar Maniammai Institute of Science and Technology"
+    },
+    "https://idp.poornima.edu.in/idp/shibboleth": {
+        "en": "Poornima UniversityPoornima University"
     },
     "https://idp.ppup.ac.in/idp/shibboleth": {
         "en": "Patliputra University, Patna"
