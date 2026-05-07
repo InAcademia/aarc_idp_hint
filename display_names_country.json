@@ -5861,8 +5861,8 @@
             "en": "Huss' Library Ricany"
         },
         "https://knihovnabbb.cz/idp/shibboleth": {
-            "cs": "Library of Bedřich Beneš Buchlovan Uherské Hradiště",
-            "en": "Knihovna Bedřicha Beneše Buchlovana Uherské Hradiště"
+            "cs": "Knihovna Bedřicha Beneše Buchlovana Uherské Hradiště",
+            "en": "Library of Bedřich Beneš Buchlovan Uherské Hradiště"
         },
         "https://knihovnaberoun.cz/idp/shibboleth": {
             "cs": "Městská knihovna Beroun",
@@ -13664,6 +13664,10 @@
         "https://ldap.fukuyama-u.ac.jp/idp/shibboleth": {
             "en": "Fukuyama University",
             "ja": "福山大学"
+        },
+        "https://lib.nmct.ntt-east.co.jp/idp/shibboleth": {
+            "en": "NTT Medical Center Tokyo Library",
+            "ja": "NTT東日本関東病院図書館"
         },
         "https://mfa-idp.shiga-med.ac.jp/idp/shibboleth": {
             "en": "Shiga University of Medical Science",
