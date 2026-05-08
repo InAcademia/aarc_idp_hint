@@ -728,6 +728,9 @@
     "https://idp.sharda.ac.in/idp/shibboleth": {
         "en": "Sharda University"
     },
+    "https://idp.sibsagaruniversity.ac.in/idp/shibboleth": {
+        "en": "Sibsagar University"
+    },
     "https://idp.sjec.ac.in/idp/shibboleth": {
         "en": "St Joseph Engineering College, Mangalore"
     },

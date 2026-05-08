@@ -391,10 +391,6 @@
         "en": "UNIVILLE - Fundacao Educacional da Regiao de Joinville",
         "pt-br": "UNIVILLE - Fundacao Educacional da Regiao de Joinville"
     },
-    "https://cafe02.ifes.edu.br/idp/shibboleth": {
-        "en": "IFES - Instituto Federal do Espirito Santo",
-        "pt-br": "IFES - Instituto Federal do Espirito Santo"
-    },
     "https://cafe2.unesp.br/idp/shibboleth": {
         "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
         "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
@@ -1000,8 +996,8 @@
         "pt-br": "UEMASUL - Universidade Estadual da Regiao Tocantina do Maranhao"
     },
     "https://idpv-cafe.redesecti.ba.gov.br/idp/shibboleth": {
-        "en": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia",
-        "pt-br": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia"
+        "en": "SECTI - Secretaria de ciencia tecnologia e inovacao",
+        "pt-br": "SECTI - Secretaria de ciencia tecnologia e inovacao"
     },
     "https://idpv3.lna.br/idp/shibboleth": {
         "en": "LNA - Laboratorio Nacional de Astrofisica",

@@ -1299,10 +1299,6 @@
             "en": "UNIVILLE - Fundacao Educacional da Regiao de Joinville",
             "pt-br": "UNIVILLE - Fundacao Educacional da Regiao de Joinville"
         },
-        "https://cafe02.ifes.edu.br/idp/shibboleth": {
-            "en": "IFES - Instituto Federal do Espirito Santo",
-            "pt-br": "IFES - Instituto Federal do Espirito Santo"
-        },
         "https://cafe2.unesp.br/idp/shibboleth": {
             "en": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho",
             "pt-br": "UNESP - Universidade Estadual Paulista Julio de Mesquita Filho"
@@ -1908,8 +1904,8 @@
             "pt-br": "UEMASUL - Universidade Estadual da Regiao Tocantina do Maranhao"
         },
         "https://idpv-cafe.redesecti.ba.gov.br/idp/shibboleth": {
-            "en": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia",
-            "pt-br": "SECTI-BA - Secretaria de Ciencia, Tecnologia e Inovacao do Estado da Bahia"
+            "en": "SECTI - Secretaria de ciencia tecnologia e inovacao",
+            "pt-br": "SECTI - Secretaria de ciencia tecnologia e inovacao"
         },
         "https://idpv3.lna.br/idp/shibboleth": {
             "en": "LNA - Laboratorio Nacional de Astrofisica",
@@ -12325,6 +12321,9 @@
         "https://idp.sharda.ac.in/idp/shibboleth": {
             "en": "Sharda University"
         },
+        "https://idp.sibsagaruniversity.ac.in/idp/shibboleth": {
+            "en": "Sibsagar University"
+        },
         "https://idp.sjec.ac.in/idp/shibboleth": {
             "en": "St Joseph Engineering College, Mangalore"
         },
@@ -13560,6 +13559,10 @@
         "https://idp01.gn.hirosaki-u.ac.jp/idp/shibboleth": {
             "en": "Hirosaki University",
             "ja": "弘前大学"
+        },
+        "https://idp01.iuk.ac.jp/idp/shibboleth": {
+            "en": "The International University of Kagoshima",
+            "ja": "鹿児島国際大学"
         },
         "https://idp02.u-toyama.ac.jp/idp/shibboleth": {
             "en": "University of Toyama",
