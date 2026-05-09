@@ -1,7 +1,4 @@
 {
-    "http://adfs.nic.edu/adfs/services/trust": {
-        "en": "North Idaho College"
-    },
     "http://adfs.nku.edu/adfs/services/trust": {
         "en": "Northern Kentucky University"
     },
