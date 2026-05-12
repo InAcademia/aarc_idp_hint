@@ -146,6 +146,10 @@
         "en": "VIB",
         "nl": "VIB"
     },
+    "https://km3netdbweb.in2p3.fr": {
+        "en": "KM3NeT AISBL",
+        "fr": "KM3NeT AISBL"
+    },
     "https://login.henallux.be/realms/henallux": {
         "en": "Henallux"
     },

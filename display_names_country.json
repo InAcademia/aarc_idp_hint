@@ -723,6 +723,10 @@
             "en": "VIB",
             "nl": "VIB"
         },
+        "https://km3netdbweb.in2p3.fr": {
+            "en": "KM3NeT AISBL",
+            "fr": "KM3NeT AISBL"
+        },
         "https://login.henallux.be/realms/henallux": {
             "en": "Henallux"
         },
@@ -3253,10 +3257,6 @@
         "https://idp.cafuc.edu.cn/idp/shibboleth": {
             "en": "Civil Aviation Flight University Of China",
             "zh": "中国民用航空飞行学院(Civil Aviation Flight University Of China)"
-        },
-        "https://idp.caii.edu.cn/idp/shibboleth": {
-            "en": "Changchun Automobile Industry Institute",
-            "zh": "长春汽车工业高等专科学校(Changchun Automobile Industry Institute)"
         },
         "https://idp.cauc.edu.cn/idp/shibboleth": {
             "en": "Civil Aviation University of China",
@@ -8453,10 +8453,6 @@
             "en": "Tartu Healthcare College",
             "et": "Tartu Tervishoiu Kõrgkool"
         },
-        "https://ssp.eava.ee/saml2/idp/metadata.php": {
-            "en": "Estonian Aviation Academy",
-            "et": "Eesti Lennuakadeemia"
-        },
         "https://sts.windows.net/85a5c3b9-b2bd-4bbc-ad62-7a0e4d77e87f/": {
             "en": "EMKTS Microsoft ENTRA",
             "et": "EMKTS Microsoft ENTRA"
@@ -11724,7 +11720,7 @@
             "en": "Babasaheb Bhimrao Ambedkar Bihar University"
         },
         "https://idp.braou.ac.in/idp/shibboleth": {
-            "en": "Dr. B.R. Ambedkar Open University"
+            "en": "Dr.B.R. Ambedkar Open University"
         },
         "https://idp.buat.edu.in/idp/shibboleth": {
             "en": "Banda University of Agriculture and Technology, Banda"
