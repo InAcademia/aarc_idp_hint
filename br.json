@@ -503,6 +503,10 @@
         "en": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo",
         "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo"
     },
+    "https://ido.uninta.edu.br/idp/shibboleth": {
+        "en": "UNINTA - Centro Universitario INTA",
+        "pt-br": "UNINTA - Centro Universitario INTA"
+    },
     "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
         "en": "IFAP - Instituto Federal do Amapa",
         "pt-br": "IFAP - Instituto Federal do Amapa"

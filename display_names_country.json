@@ -1415,6 +1415,10 @@
             "en": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo",
             "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo"
         },
+        "https://ido.uninta.edu.br/idp/shibboleth": {
+            "en": "UNINTA - Centro Universitario INTA",
+            "pt-br": "UNINTA - Centro Universitario INTA"
+        },
         "https://idp-atualizado.ifap.edu.br/idp/shibboleth": {
             "en": "IFAP - Instituto Federal do Amapa",
             "pt-br": "IFAP - Instituto Federal do Amapa"
@@ -3313,6 +3317,10 @@
         "https://idp.cdut.edu.cn/idp/shibboleth": {
             "en": "ChengDu University of Technology",
             "zh": "成都理工大学(ChengDu University of Technology)"
+        },
+        "https://idp.cfau.edu.cn/idp/shibboleth": {
+            "en": "China Foreign Affairs University",
+            "zh": "外交学院(China Foreign Affairs University)"
         },
         "https://idp.chd.edu.cn/idp/shibboleth": {
             "en": "Chang'an University",
