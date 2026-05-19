@@ -755,6 +755,10 @@
         "de": "Kunstakademie Düsseldorf",
         "en": "Art Academy of Duesseldorf"
     },
+    "https://idp.leibniz-gwzo.de/idp": {
+        "de": "Leibniz-Institut für Geschichte und Kultur des östlichen Europa (GWZO)",
+        "en": "Leibniz Institute for the History and Culture of Eastern Europe (GWZO)"
+    },
     "https://idp.leibniz-hbi.de/idp/shibboleth": {
         "de": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)",
         "en": "Leibniz-Institut for Media Research, Hans-Bredow-Institut (HBI)"

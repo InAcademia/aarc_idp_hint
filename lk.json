@@ -2,9 +2,6 @@
     "https://iam.vpa.ac.lk/idp/shibboleth": {
         "en": "University of the Visual and Performing Arts"
     },
-    "https://idp.accmt.ac.lk/idp/shibboleth": {
-        "en": "Arthur C Clarke Institute for Modern Technologies"
-    },
     "https://idp.cmb.ac.lk/idp/shibboleth": {
         "en": "University of Colombo, Sri Lanka"
     },

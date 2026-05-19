@@ -1136,6 +1136,10 @@
             "en": "ON - Observatorio Nacional",
             "pt-br": "ON - Observatorio Nacional"
         },
+        "https://cafe.pensedireito.com.br/idp/shibboleth": {
+            "en": "FBD - Escola Baiana de Direito e Gestao",
+            "pt-br": "FBD - Escola Baiana de Direito e Gestao"
+        },
         "https://cafe.prefeitura.sp.gov.br/idp/shibboleth": {
             "en": "SMS - Secretaria Municipal da Saude - SP",
             "pt-br": "SMS - Secretaria Municipal da Saude - SP"
@@ -1905,8 +1909,8 @@
             "pt-br": "UEMASUL - Universidade Estadual da Regiao Tocantina do Maranhao"
         },
         "https://idpv-cafe.redesecti.ba.gov.br/idp/shibboleth": {
-            "en": "SECTI - Secretaria de ciencia tecnologia e inovacao",
-            "pt-br": "SECTI - Secretaria de ciencia tecnologia e inovacao"
+            "en": "SECTI-BA - Secretaria de ciencia tecnologia e inovacao do estado da Bahia",
+            "pt-br": "SECTI-BA - Secretaria de ciencia tecnologia e inovacao do estado da Bahia"
         },
         "https://idpv3.lna.br/idp/shibboleth": {
             "en": "LNA - Laboratorio Nacional de Astrofisica",
@@ -6867,6 +6871,10 @@
             "de": "Kunstakademie Düsseldorf",
             "en": "Art Academy of Duesseldorf"
         },
+        "https://idp.leibniz-gwzo.de/idp": {
+            "de": "Leibniz-Institut für Geschichte und Kultur des östlichen Europa (GWZO)",
+            "en": "Leibniz Institute for the History and Culture of Eastern Europe (GWZO)"
+        },
         "https://idp.leibniz-hbi.de/idp/shibboleth": {
             "de": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)",
             "en": "Leibniz-Institut for Media Research, Hans-Bredow-Institut (HBI)"
@@ -9865,10 +9873,6 @@
         "https://idp.ensam.eu/idp/shibboleth": {
             "en": "Ecole Nationale Supérieure d'Arts et Métiers - MFA",
             "fr": "Ecole Nationale Supérieure d'Arts et Métiers - MFA"
-        },
-        "https://idp.ensci.com/idp/shibboleth": {
-            "en": "ENSCI",
-            "fr": "ENSCI"
         },
         "https://idp.enscm.fr/idp/shibboleth": {
             "en": "ENSCM - Ecole Nationale Supérieure de Chimie de Montpellier",
@@ -13973,9 +13977,6 @@
         "https://iam.vpa.ac.lk/idp/shibboleth": {
             "en": "University of the Visual and Performing Arts"
         },
-        "https://idp.accmt.ac.lk/idp/shibboleth": {
-            "en": "Arthur C Clarke Institute for Modern Technologies"
-        },
         "https://idp.cmb.ac.lk/idp/shibboleth": {
             "en": "University of Colombo, Sri Lanka"
         },
@@ -16686,6 +16687,98 @@
         "https://wayf.up.pt/idp/shibboleth": {
             "en": "University of Porto",
             "pt": "Universidade do Porto"
+        }
+    },
+    "ro": {
+        "https://aai.e-uvt.ro/sso/module.php/saml/idp/metadata": {
+            "en": "West University of Timisoara",
+            "ro": "Universitatea de Vest din Timisoara"
+        },
+        "https://accounts.ulbsibiu.ro/myaccount-provider/saml2/idp/metadata.php": {
+            "en": "Lucian Blaga University of Sibiu IdP",
+            "ro": "Universitatea Lucian Blaga din Sibiu IdP"
+        },
+        "https://anelisplus.utcluj.ro/simplesaml/saml2/idp/metadata.php": {
+            "en": "Technical University of Cluj-Napoca",
+            "ro": "Universitatea Tehnica din Cluj-Napoca"
+        },
+        "https://auth.unitbv.ro/simplesaml/saml2/idp/metadata.php": {
+            "en": "Transilvania University of Brasov",
+            "ro": "Universitatea Transilvania din Brasov"
+        },
+        "https://bridge.login.upb.ro/saml2/idp/metadata.php": {
+            "en": "University \"Politehnica\" of Bucharest",
+            "ro": "Universitatea \"Politehnica\" din București"
+        },
+        "https://eduid.umfiasi.ro/idp/shibboleth": {
+            "en": "University of Medicine and Pharmacy \"Grigore T. Popa\" from Iași",
+            "ro": "Universitatea de Medicină și Farmacie \"Grigore T. Popa\" din Iași"
+        },
+        "https://idp.roedu.net/idp/shibboleth": {
+            "en": "Agency ARNIEC RoEduNet IdP",
+            "ro": "IdP Agenția ARNIEC RoEduNet"
+        },
+        "https://idp.uaic.ro/idp/shibboleth": {
+            "en": "University \"Alexandru Ioan Cuza\" from Iasi",
+            "ro": "Universitatea \"Alexandru Ioan Cuza\" din Iasi"
+        },
+        "https://idp.ub.ro/idp/shibboleth": {
+            "en": "UBC Identity Provider"
+        },
+        "https://idp.ubbcluj.ro/smp/saml2/idp/metadata.php": {
+            "en": "Babes-Bolyai University",
+            "ro": "Universitatea Babe??-Bolyai"
+        },
+        "https://idp.ucv.ro/simplesaml/saml2/idp/metadata.php": {
+            "en": "University of Craiova",
+            "ro": "Universitatea din Craiova"
+        },
+        "https://idp.unatc.ro/simplesaml/": {
+            "en": "UNATC - National University of Theatre and Film \"I.L. Caragiale\", Bucharest",
+            "ro": "UNATC - Universitatea Nationala de Arta Teatrala si Cinematografica \"I.L. Caragiale\" din Bucuresti"
+        },
+        "https://idp.unibuc.ro/idp/shibboleth": {
+            "en": "University of Bucharest",
+            "ro": "Universitatea din București"
+        },
+        "https://idp.univ-ovidius.ro/idp/shibboleth": {
+            "en": "Ovidius University of Constanta",
+            "ro": "Universitatea Ovidius Constanta"
+        },
+        "https://idp.uoradea.ro/idp/shibboleth": {
+            "en": "University of Oradea",
+            "ro": "Universitatea din Oradea"
+        },
+        "https://idp.upet.ro/idp/shibboleth": {
+            "en": "University of Petrosani - Shibboleth IdP",
+            "ro": "Universitatea din Petroșani - Shibboleth IdP"
+        },
+        "https://idp.upg-ploiesti.ro/simplesaml/saml2/idp/metadata.php": {
+            "en": "Petroleum Gas University of Ploiesti",
+            "ro": "Universitatea Petrol-Gaze din Ploiesti"
+        },
+        "https://idp.usamvcluj.ro/idp/shibboleth": {
+            "en": "USAMV Cluj-Napoca"
+        },
+        "https://idp.usv.ro/simplesaml/saml2/idp/metadata.php": {
+            "en": "Stefan cel Mare University of Suceava",
+            "ro": "Universitatea Stefan cel Mare din Suceava"
+        },
+        "https://idp.utcb.ro/idp/shibboleth": {
+            "en": "Technical University of Civil Engineering Bucharest IdP",
+            "ro": "IdP al Universitatii Tehnice de Constructii Bucuresti"
+        },
+        "https://idp2.upt.ro/idp/shibboleth": {
+            "en": "Politehnica University Timisoara",
+            "ro": "Universitatea Politehnica Timisoara"
+        },
+        "https://splp.snspa.ro/smplp/saml2/idp/metadata.php": {
+            "en": "National School of Political Science and Public Administration",
+            "ro": "Scoala Nationala de Studii Politice si Administrative"
+        },
+        "https://sso.tuiasi.ro/auth/realms/TUIASI": {
+            "en": "Gheorghe Asachi Technical University of Iaşi - TUIASI",
+            "ro": "Universitatea Tehnică „Gheorghe Asachi” din Iaşi - TUIASI"
         }
     },
     "rs": {

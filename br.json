@@ -227,6 +227,10 @@
         "en": "ON - Observatorio Nacional",
         "pt-br": "ON - Observatorio Nacional"
     },
+    "https://cafe.pensedireito.com.br/idp/shibboleth": {
+        "en": "FBD - Escola Baiana de Direito e Gestao",
+        "pt-br": "FBD - Escola Baiana de Direito e Gestao"
+    },
     "https://cafe.prefeitura.sp.gov.br/idp/shibboleth": {
         "en": "SMS - Secretaria Municipal da Saude - SP",
         "pt-br": "SMS - Secretaria Municipal da Saude - SP"
@@ -996,8 +1000,8 @@
         "pt-br": "UEMASUL - Universidade Estadual da Regiao Tocantina do Maranhao"
     },
     "https://idpv-cafe.redesecti.ba.gov.br/idp/shibboleth": {
-        "en": "SECTI - Secretaria de ciencia tecnologia e inovacao",
-        "pt-br": "SECTI - Secretaria de ciencia tecnologia e inovacao"
+        "en": "SECTI-BA - Secretaria de ciencia tecnologia e inovacao do estado da Bahia",
+        "pt-br": "SECTI-BA - Secretaria de ciencia tecnologia e inovacao do estado da Bahia"
     },
     "https://idpv3.lna.br/idp/shibboleth": {
         "en": "LNA - Laboratorio Nacional de Astrofisica",
