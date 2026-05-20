@@ -1420,6 +1420,10 @@
             "en": "IFAP - Instituto Federal do Amapa",
             "pt-br": "IFAP - Instituto Federal do Amapa"
         },
+        "https://idp-cafe.cemaden.gov.br/idp/shibboleth": {
+            "en": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais",
+            "pt-br": "CEMADEN - Centro Nac Monit e Alertas de Desastres Naturais"
+        },
         "https://idp-cafe.cp2.g12.br/idp/shibboleth": {
             "en": "CP2 - Colegio Pedro II",
             "pt-br": "CP2 - Colegio Pedro II"
@@ -1515,6 +1519,10 @@
         "https://idp-v421.ifsp.edu.br/idp/shibboleth": {
             "en": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo",
             "pt-br": "IFSP - Instituto Federal de Educ. Ciencia e Tec. de Sao Paulo"
+        },
+        "https://idp.bahiana.edu.br/idp/shibboleth": {
+            "en": "EBMSP - Escola Bahiana de Medicina e Saude Publica",
+            "pt-br": "EBMSP - Escola Bahiana de Medicina e Saude Publica"
         },
         "https://idp.capes.gov.br/idp/shibboleth": {
             "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior",
@@ -1927,10 +1935,6 @@
         "https://ipameri.cti.gov.br/idp/shibboleth": {
             "en": "CTI - Centro de Tecnologia da Informacao Renato Archer",
             "pt-br": "CTI - Centro de Tecnologia da Informacao Renato Archer"
-        },
-        "https://itacare.bahiana.edu.br/idp/shibboleth": {
-            "en": "EBMSP - Escola Bahiana de Medicina e Saude Publica",
-            "pt-br": "EBMSP - Escola Bahiana de Medicina e Saude Publica"
         },
         "https://login-cafe.ifrr.edu.br/idp/shibboleth": {
             "en": "IFRR - Instituto Federal de Roraima",
@@ -6382,6 +6386,10 @@
         "https://idp.eh-darmstadt.de/idp/shibboleth": {
             "de": "Evangelische Hochschule Darmstadt",
             "en": "Evangelische Hochschule Darmstadt"
+        },
+        "https://idp.eh-hessen.de/idp/shibboleth": {
+            "de": "Evangelische Hochschule Hessen",
+            "en": "Evangelische Hochschule Hessen"
         },
         "https://idp.esmt.org/idp/shibboleth": {
             "de": "ESMT Berlin",
@@ -19181,6 +19189,9 @@
         },
         "https://login.rhsp.org/idp/shibboleth": {
             "en": "Rakai Health Sciences Program"
+        },
+        "https://rif.iucea.org/idp/shibboleth": {
+            "en": "Inter-University Council for East Africa - IUCEA"
         },
         "https://rif.mubs.ac.ug/idp/shibboleth": {
             "en": "Makerere University Business School"
