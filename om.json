@@ -8,9 +8,6 @@
     "http://adfs.ftik.edu.om/adfs/services/trust": {
         "en": "vocational college of marine science (Al khaboura)"
     },
-    "http://adfs.ibrivtc.edu.om/adfs/services/trust": {
-        "en": "Ibri Vocational College"
-    },
     "http://adfs.imco.edu.om/adfs/services/trust": {
         "en": "International Maritime College Oman (IMCO)"
     },
@@ -29,9 +26,6 @@
     "http://adfs.otc.edu.om/adfs/services/trust": {
         "en": "Oman Tourism College"
     },
-    "http://adfs.sahamvtc.edu.om/adfs/services/trust": {
-        "en": "Saham Vocational College"
-    },
     "http://adfs.sct.edu.om/adfs/services/trust": {
         "en": "University of Technology and Applied Sciences - Salalah"
     },
@@ -43,9 +37,6 @@
     },
     "http://adfs.squ.edu.om/adfs/services/trust": {
         "en": "Sultan Qaboos University"
-    },
-    "http://adfs.svc.edu.om/adfs/services/trust": {
-        "en": "Salalah Vocational College"
     },
     "http://lync.mec.edu.om/adfs/services/trust": {
         "en": "Middle East College"
@@ -71,14 +62,8 @@
     "https://idp.omren.om/idp": {
         "en": "Oman Research and Education Network (Shibboleth)"
     },
-    "https://idp.sarh.om/idp": {
-        "en": "Sarh"
-    },
     "https://idp.squ.edu.om/idp": {
         "en": "Sultan Qaboos University (shibboleth)"
-    },
-    "https://idp.suc.edu.om/idp": {
-        "en": "Sur University College (shibb)"
     },
     "https://idp.unizwa.edu.om/idp": {
         "en": "University of Nizwa(shibboleth)"
@@ -103,9 +88,6 @@
     },
     "https://idpomren.majancollege.edu.om/idp": {
         "en": "Majan University College(shibboleth)"
-    },
-    "https://idpomren.moheri.edu.om/idp": {
-        "en": "Research and Education Center (Shibboleth)"
     },
     "https://idpomren.mtc.edu.om/idp": {
         "en": "Military Technological College (shibboleth)"
