@@ -47,6 +47,10 @@
         "en": "The University of Belgrade - Faculty of Transport and Traffic Engineering",
         "sr": "Saobraćajni fakultet Univerziteta u Beogradu"
     },
+    "https://idp.vin.bg.ac.rs/idp/shibboleth": {
+        "en": "Vinca Institute of nuclear sciences",
+        "sr": "Institut za nuklearne nauke Vinca"
+    },
     "https://iguest.amres.ac.rs/idp/shibboleth": {
         "en": "AMRES Guest",
         "sr": "AMRES Guest"

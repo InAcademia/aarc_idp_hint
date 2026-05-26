@@ -29,9 +29,6 @@
     "http://adfs.sct.edu.om/adfs/services/trust": {
         "en": "University of Technology and Applied Sciences - Salalah"
     },
-    "http://adfs.seebvc.edu.om/adfs/services/trust": {
-        "en": "Seeb Vocational College"
-    },
     "http://adfs.shinasvc.edu.om/adfs/services/trust": {
         "en": "Shinas Vocational College"
     },
