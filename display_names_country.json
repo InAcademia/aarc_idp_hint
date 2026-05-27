@@ -6391,10 +6391,6 @@
             "de": "Evangelische Hochschule Berlin",
             "en": "Evangelische Hochschule Berlin"
         },
-        "https://idp.eh-darmstadt.de/idp/shibboleth": {
-            "de": "Evangelische Hochschule Darmstadt",
-            "en": "Evangelische Hochschule Darmstadt"
-        },
         "https://idp.eh-hessen.de/idp/shibboleth": {
             "de": "Evangelische Hochschule Hessen",
             "en": "Evangelische Hochschule Hessen"
@@ -21184,7 +21180,7 @@
             "en": "University of Wisconsin - Parkside"
         },
         "https://id.uwplatt.edu/idp": {
-            "en": "University of Wisconsin-Platteville - New"
+            "en": "University of Wisconsin-Platteville"
         },
         "https://id.uwsp.edu/idp": {
             "en": "University of Wisconsin - Stevens Point - 1"
@@ -21869,9 +21865,6 @@
         },
         "https://shib1.coastal.edu/idp/shibboleth": {
             "en": "Coastal Carolina University"
-        },
-        "https://shib1.uwplatt.edu/idp/shibboleth": {
-            "en": "University of Wisconsin-Platteville"
         },
         "https://shib2.swmed.edu/idp/shibboleth": {
             "en": "The University of Texas Southwestern Medical Center"
