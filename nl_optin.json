@@ -71,10 +71,6 @@
         "en": "Amphia Hospital",
         "nl": "Amphia Ziekenhuis"
     },
-    "http://fs.dezb.nl/adfs/services/trust": {
-        "en": "ZB Bibliotheek van Zeeland",
-        "nl": "ZB Bibliotheek van Zeeland"
-    },
     "http://fs.kennisnet.org/adfs/services/trust": {
         "en": "Stichting Kennisnet",
         "nl": "Stichting Kennisnet"
