@@ -759,6 +759,10 @@
         "en": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas",
         "pt-br": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas"
     },
+    "https://idp.rdc.puc-rio.br/idp/shibboleth": {
+        "en": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro",
+        "pt-br": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro"
+    },
     "https://idp.rnp.br/idp/shibboleth": {
         "en": "RNP - Rede Nacional de Ensino e Pesquisa",
         "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
@@ -1279,10 +1283,6 @@
         "en": "UNIVALI - Universidade do Vale do Itajai",
         "pt-br": "UNIVALI - Universidade do Vale do Itajai"
     },
-    "https://sistema-rnp.rdc.puc-rio.br/idp/shibboleth": {
-        "en": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro",
-        "pt-br": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro"
-    },
     "https://slm00-shibboleth.slmandic.edu.br/idp/shibboleth": {
         "en": "SLM - Sao Leopoldo Mandic",
         "pt-br": "SLM - Sao Leopoldo Mandic"
@@ -1320,8 +1320,8 @@
         "pt-br": "AEB - Agencia Espacial Brasileira"
     },
     "https://svr-cafe.unaerp.br/idp/shibboleth": {
-        "en": "UNAERP - Associacao de Ensino de Ribeirao Preto",
-        "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto"
+        "en": "UNAERP - Associacao de Ensino de Ribeirao Preto - v5.1.4",
+        "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto - v5.1.4"
     },
     "https://svrcafe01.reabilitar.org.br/idp/shibboleth": {
         "en": "NMDER - Nova Maternidade Dona Evangelina Rosa",

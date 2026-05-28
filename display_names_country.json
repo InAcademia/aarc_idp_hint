@@ -1668,6 +1668,10 @@
             "en": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas",
             "pt-br": "PUCCAMPINAS - Pontificia Universidade Catolica de Campinas"
         },
+        "https://idp.rdc.puc-rio.br/idp/shibboleth": {
+            "en": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro",
+            "pt-br": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro"
+        },
         "https://idp.rnp.br/idp/shibboleth": {
             "en": "RNP - Rede Nacional de Ensino e Pesquisa",
             "pt-br": "RNP - Rede Nacional de Ensino e Pesquisa"
@@ -2188,10 +2192,6 @@
             "en": "UNIVALI - Universidade do Vale do Itajai",
             "pt-br": "UNIVALI - Universidade do Vale do Itajai"
         },
-        "https://sistema-rnp.rdc.puc-rio.br/idp/shibboleth": {
-            "en": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro",
-            "pt-br": "PUC-RIO - Pontificia Universidade Catolica do Rio de Janeiro"
-        },
         "https://slm00-shibboleth.slmandic.edu.br/idp/shibboleth": {
             "en": "SLM - Sao Leopoldo Mandic",
             "pt-br": "SLM - Sao Leopoldo Mandic"
@@ -2229,8 +2229,8 @@
             "pt-br": "AEB - Agencia Espacial Brasileira"
         },
         "https://svr-cafe.unaerp.br/idp/shibboleth": {
-            "en": "UNAERP - Associacao de Ensino de Ribeirao Preto",
-            "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto"
+            "en": "UNAERP - Associacao de Ensino de Ribeirao Preto - v5.1.4",
+            "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto - v5.1.4"
         },
         "https://svrcafe01.reabilitar.org.br/idp/shibboleth": {
             "en": "NMDER - Nova Maternidade Dona Evangelina Rosa",
@@ -6231,6 +6231,10 @@
             "de": "Ferdinand-Braun-Institut, Leibniz-Institut für Höchstfrequenztechnik",
             "en": "Ferdinand-Braun-Institute, Leibniz-Institut fuer Hoechstfrequenztechnik"
         },
+        "https://fd.gsi.de/wl.xml": {
+            "de": "GSI Helmholtzzentrum für Schwerionenforschung GmbH",
+            "en": "GSI Helmholtzzentrum für Schwerionenforschung GmbH"
+        },
         "https://hotaai.fbn-dummerstorf.de/idp/shibboleth": {
             "de": "Forschungsinstitut für Nutztierbiologie (FBN)",
             "en": "Research Institute for farm animal biology (FBN)"
@@ -6500,8 +6504,8 @@
             "en": "German Institute for Global and Area Studies (GIGA)"
         },
         "https://idp.gsi.de": {
-            "de": "GSI Helmholtzzentrum für Schwerionenforschung GmbH",
-            "en": "GSI Helmholtzzentrum für Schwerionenforschung GmbH"
+            "de": "(Abgekündigt) GSI Helmholtzzentrum für Schwerionenforschung GmbH",
+            "en": "(Deprecated) GSI Helmholtzzentrum für Schwerionenforschung GmbH"
         },
         "https://idp.h-brs.de/nidp/saml2/metadata": {
             "de": "Hochschule Bonn-Rhein-Sieg IDM",
@@ -6900,7 +6904,7 @@
             "en": "Leibniz Institute of Virology (LIV)"
         },
         "https://idp.li-hamburg.de/idp/shibboleth": {
-            "en": "HLB Hamburg (Landesinstitut für Lehrerbildung und Schulentwicklung)"
+            "en": "Landesinstitut für Qualifizierung und Qualitätsentwicklung in Schulen Hamburg"
         },
         "https://idp.lifbi.de/idp/shibboleth": {
             "de": "Leibniz Institut für Bildungsverläufe - LIfBi",
@@ -21313,9 +21317,6 @@
         },
         "https://idp.elon.edu/idp/shibboleth": {
             "en": "Elon University"
-        },
-        "https://idp.fdu.edu/idp/shibboleth": {
-            "en": "Fairleigh Dickinson University - FDU"
         },
         "https://idp.fnal.gov/idp/shibboleth": {
             "en": "Fermi National Accelerator Laboratory"

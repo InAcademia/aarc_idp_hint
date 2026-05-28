@@ -386,9 +386,6 @@
     "https://idp.elon.edu/idp/shibboleth": {
         "en": "Elon University"
     },
-    "https://idp.fdu.edu/idp/shibboleth": {
-        "en": "Fairleigh Dickinson University - FDU"
-    },
     "https://idp.fnal.gov/idp/shibboleth": {
         "en": "Fermi National Accelerator Laboratory"
     },
