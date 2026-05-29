@@ -6904,7 +6904,7 @@
             "en": "Leibniz Institute of Virology (LIV)"
         },
         "https://idp.li-hamburg.de/idp/shibboleth": {
-            "en": "Landesinstitut für Qualifizierung und Qualitätsentwicklung in Schulen Hamburg"
+            "en": "LI-Bibliothek Hamburg (Landesinstitut für Qualifizierung und Qualitätsentwicklung in Schulen)"
         },
         "https://idp.lifbi.de/idp/shibboleth": {
             "de": "Leibniz Institut für Bildungsverläufe - LIfBi",
@@ -10293,6 +10293,10 @@
         "https://idp2.universcience.fr/idp/shibboleth": {
             "en": "Universcience-EPPDCSI",
             "fr": "Universcience-EPPDCSI"
+        },
+        "https://idp3.agroparistech.fr/idp/shibboleth": {
+            "en": "IDP3 AGroParisTech",
+            "fr": "IDP3 AGroParisTech"
         },
         "https://idp3.cyceron.fr/idp/shibboleth": {
             "en": "Cyceron",
@@ -14989,8 +14993,8 @@
             "nl": "Amphia Ziekenhuis"
         },
         "http://fs.dezb.nl/adfs/services/trust": {
-            "en": "ZB Bibliotheek van Zeeland",
-            "nl": "ZB Bibliotheek van Zeeland"
+            "en": "ZB Bibliotheek van Zeeland (Old)",
+            "nl": "ZB Bibliotheek van Zeeland (Oud)"
         },
         "http://fs.kennisnet.org/adfs/services/trust": {
             "en": "Stichting Kennisnet",
@@ -15327,6 +15331,10 @@
         "https://sts.windows.net/585a623c-e147-4855-9f56-673aa54daaf1/": {
             "en": "SOMA College",
             "nl": "SOMA College"
+        },
+        "https://sts.windows.net/5ad33a5f-5870-4e0e-baf4-27a1e200dde4/": {
+            "en": "ZB Bibliotheek van Zeeland",
+            "nl": "ZB Bibliotheek van Zeeland"
         },
         "https://sts.windows.net/5d73e7b7-b3e1-4d00-b303-056140b2a3b4/": {
             "en": "HAN University of Applied Sciences",
@@ -22671,6 +22679,9 @@
         "https://proxy.safire.ac.za/birk.php/sso.sats.edu.za/": {
             "af": "Suid-Afrikaanse Teologiese Seminarium",
             "en": "South African Theological Seminary"
+        },
+        "https://proxy.safire.ac.za/birk.php/sts.windows.net/3c963a63-8e14-4cce-9e79-0c38fb5b36d7/": {
+            "en": "South African National Library and Information Consortium (SANLiC)"
         },
         "https://proxy.safire.ac.za/birk.php/sts.windows.net/3df74539-9453-4d03-bb9d-b9102cb9ce9c/": {
             "en": "Tshwane University of Technology"
