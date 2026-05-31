@@ -15886,6 +15886,9 @@
         },
         "https://idp2.pern.edu.pk/idp/shibboleth": {
             "en": "PERN IdP Pakistan"
+        },
+        "https://idp6.hec.gov.pk/idp/shibboleth": {
+            "en": "HEC6"
         }
     },
     "pl": {
