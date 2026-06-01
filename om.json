@@ -2,12 +2,6 @@
     "http://adfs.asu.edu.om/adfs/services/trust": {
         "en": "A’Sharqiyah University"
     },
-    "http://adfs.brm-vtc.edu.om/adfs/services/trust": {
-        "en": "Al Buraimi Vocational College"
-    },
-    "http://adfs.ftik.edu.om/adfs/services/trust": {
-        "en": "vocational college of marine science (Al khaboura)"
-    },
     "http://adfs.imco.edu.om/adfs/services/trust": {
         "en": "International Maritime College Oman (IMCO)"
     },
@@ -28,9 +22,6 @@
     },
     "http://adfs.sct.edu.om/adfs/services/trust": {
         "en": "University of Technology and Applied Sciences - Salalah"
-    },
-    "http://adfs.shinasvc.edu.om/adfs/services/trust": {
-        "en": "Shinas Vocational College"
     },
     "http://adfs.squ.edu.om/adfs/services/trust": {
         "en": "Sultan Qaboos University"

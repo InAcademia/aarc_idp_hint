@@ -1740,10 +1740,6 @@
             "en": "UFS - Universidade Federal de Sergipe",
             "pt-br": "UFS - Universidade Federal de Sergipe"
         },
-        "https://idp.ufsj.edu.br/idp/shibboleth": {
-            "en": "UFSJ - Universidade Federal de Sao Joao del Rei",
-            "pt-br": "UFSJ - Universidade Federal de Sao Joao del Rei"
-        },
         "https://idp.uftm.edu.br/idp/shibboleth": {
             "en": "UFTM - Universidade Federal do Triangulo Mineiro",
             "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
@@ -15760,12 +15756,6 @@
         "http://adfs.asu.edu.om/adfs/services/trust": {
             "en": "A’Sharqiyah University"
         },
-        "http://adfs.brm-vtc.edu.om/adfs/services/trust": {
-            "en": "Al Buraimi Vocational College"
-        },
-        "http://adfs.ftik.edu.om/adfs/services/trust": {
-            "en": "vocational college of marine science (Al khaboura)"
-        },
         "http://adfs.imco.edu.om/adfs/services/trust": {
             "en": "International Maritime College Oman (IMCO)"
         },
@@ -15786,9 +15776,6 @@
         },
         "http://adfs.sct.edu.om/adfs/services/trust": {
             "en": "University of Technology and Applied Sciences - Salalah"
-        },
-        "http://adfs.shinasvc.edu.om/adfs/services/trust": {
-            "en": "Shinas Vocational College"
         },
         "http://adfs.squ.edu.om/adfs/services/trust": {
             "en": "Sultan Qaboos University"
