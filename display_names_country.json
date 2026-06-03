@@ -1740,6 +1740,10 @@
             "en": "UFS - Universidade Federal de Sergipe",
             "pt-br": "UFS - Universidade Federal de Sergipe"
         },
+        "https://idp.ufsj.edu.br/idp/shibboleth": {
+            "en": "UFSJ - Universidade Federal de Sao Joao del Rei",
+            "pt-br": "UFSJ - Universidade Federal de Sao Joao del Rei"
+        },
         "https://idp.uftm.edu.br/idp/shibboleth": {
             "en": "UFTM - Universidade Federal do Triangulo Mineiro",
             "pt-br": "UFTM - Universidade Federal do Triangulo Mineiro"
@@ -1747,6 +1751,10 @@
         "https://idp.ufv.br/idp/shibboleth": {
             "en": "UFV - Universidade Federal de Vicosa",
             "pt-br": "UFV - Universidade Federal de Vicosa"
+        },
+        "https://idp.unaerp.br/idp/shibboleth": {
+            "en": "UNAERP - Associacao de Ensino de Ribeirao Preto",
+            "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto"
         },
         "https://idp.unesc.net/idp/shibboleth": {
             "en": "UNESC - Universidade do Extremo Sul Catarinense",
@@ -2223,10 +2231,6 @@
         "https://svlapshibboleth.aeb.gov.br/idp/shibboleth": {
             "en": "AEB - Agencia Espacial Brasileira",
             "pt-br": "AEB - Agencia Espacial Brasileira"
-        },
-        "https://svr-cafe.unaerp.br/idp/shibboleth": {
-            "en": "UNAERP - Associacao de Ensino de Ribeirao Preto - v5.1.4",
-            "pt-br": "UNAERP - Associacao de Ensino de Ribeirao Preto - v5.1.4"
         },
         "https://svrcafe01.reabilitar.org.br/idp/shibboleth": {
             "en": "NMDER - Nova Maternidade Dona Evangelina Rosa",
@@ -9793,10 +9797,6 @@
         "https://idp.crous-lille.fr/idp/shibboleth": {
             "en": "CROUS Lille",
             "fr": "CROUS Lille"
-        },
-        "https://idp.crous-nantes.fr/idp/shibboleth": {
-            "en": "CROUS de Nantes",
-            "fr": "CROUS de Nantes"
         },
         "https://idp.crous-normandie.fr/idp/shibboleth": {
             "en": "CROUS Normandie - Personnels v3",
