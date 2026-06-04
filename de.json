@@ -371,10 +371,6 @@
         "de": "German Institute for Global and Area Studies (GIGA)",
         "en": "German Institute for Global and Area Studies (GIGA)"
     },
-    "https://idp.gsi.de": {
-        "de": "(Abgekündigt) GSI Helmholtzzentrum für Schwerionenforschung GmbH",
-        "en": "(Deprecated) GSI Helmholtzzentrum für Schwerionenforschung GmbH"
-    },
     "https://idp.h-brs.de/nidp/saml2/metadata": {
         "de": "Hochschule Bonn-Rhein-Sieg IDM",
         "en": "Bonn-Rhein-Sieg University of Applied Sciences IDM"
