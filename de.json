@@ -327,6 +327,10 @@
         "de": "Fritz-Haber-Institut",
         "en": "Fritz-Haber-Institut"
     },
+    "https://idp.fhvd-sh.de/idp/shibboleth": {
+        "de": "Fachhochschule für Verwaltung und Dienstleistung",
+        "en": "FHVD - University of Applied Sciences"
+    },
     "https://idp.fhws.de/idp/shibboleth": {
         "de": "Technische Hochschule Würzburg-Schweinfurt",
         "en": "Technische Hochschule Würzburg-Schweinfurt"

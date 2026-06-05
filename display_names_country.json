@@ -3895,10 +3895,6 @@
             "en": "Inner Mongolia Normal University",
             "zh": "内蒙古师范大学(Inner Mongolia Normal University)"
         },
-        "https://idp.imu.edu.cn/idp/shibboleth": {
-            "en": "Inner Mongolia University",
-            "zh": "内蒙古大学(Inner Mongolia University)"
-        },
         "https://idp.imust.edu.cn/idp/shibboleth": {
             "en": "Inner Mongolia University of science and technology",
             "zh": "内蒙古科技大学(Inner Mongolia University of science and technology)"
@@ -6450,6 +6446,10 @@
         "https://idp.fhi-berlin.mpg.de/idp/shibboleth": {
             "de": "Fritz-Haber-Institut",
             "en": "Fritz-Haber-Institut"
+        },
+        "https://idp.fhvd-sh.de/idp/shibboleth": {
+            "de": "Fachhochschule für Verwaltung und Dienstleistung",
+            "en": "FHVD - University of Applied Sciences"
         },
         "https://idp.fhws.de/idp/shibboleth": {
             "de": "Technische Hochschule Würzburg-Schweinfurt",
@@ -9797,10 +9797,6 @@
         "https://idp.crous-orleans-tours.fr/idp/shibboleth": {
             "en": "CROUS Orléans-Tours - Personnels",
             "fr": "CROUS Orléans-Tours - Personnels"
-        },
-        "https://idp.crous-paris.fr/idp/shibboleth": {
-            "en": "CROUS Paris",
-            "fr": "CROUS Paris"
         },
         "https://idp.crous-reims.fr/idp/shibboleth": {
             "en": "CROUS REIMS - IDP v5",

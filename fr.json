@@ -399,10 +399,6 @@
         "en": "CROUS Orléans-Tours - Personnels",
         "fr": "CROUS Orléans-Tours - Personnels"
     },
-    "https://idp.crous-paris.fr/idp/shibboleth": {
-        "en": "CROUS Paris",
-        "fr": "CROUS Paris"
-    },
     "https://idp.crous-reims.fr/idp/shibboleth": {
         "en": "CROUS REIMS - IDP v5",
         "fr": "CROUS REIMS - IDP v5"
