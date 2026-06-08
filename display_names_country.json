@@ -10242,10 +10242,6 @@
             "en": "CROUS Montpellier",
             "fr": "CROUS Montpellier"
         },
-        "https://idp2.crous-toulouse.fr/idp/shibboleth": {
-            "en": "CROUS Toulouse - Personnels spare",
-            "fr": "CROUS Toulouse - Personnels secours"
-        },
         "https://idp2.emse.fr/idp/shibboleth": {
             "en": "Mines Saint-Étienne - EMSE - IMT",
             "fr": "Mines Saint-Étienne - EMSE - IMT"
