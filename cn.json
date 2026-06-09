@@ -863,6 +863,10 @@
         "en": "Henan University",
         "zh": "河南大学(Henan University)"
     },
+    "https://idp.hfit.edu.cn/idp/shibboleth": {
+        "en": "Hefei Institute of Technology",
+        "zh": "合肥理工学院(Hefei Institute of Technology)"
+    },
     "https://idp.hfut.edu.cn/idp/shibboleth": {
         "en": "Hefei University of Technology",
         "zh": "合肥工业大学(Hefei University of Technology)"
@@ -1226,6 +1230,10 @@
     "https://idp.neau.edu.cn/idp/shibboleth": {
         "en": "Northeast Agricultural University",
         "zh": "东北农业大学(Northeast Agricultural University)"
+    },
+    "https://idp.neepu.edu.cn/idp/shibboleth": {
+        "en": "Northeast Electric Power University",
+        "zh": "东北电力大学(Northeast Electric Power University)"
     },
     "https://idp.nepu.edu.cn/idp/shibboleth": {
         "en": "Northeast Petroleum University",
