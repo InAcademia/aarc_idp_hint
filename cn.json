@@ -1007,6 +1007,14 @@
         "en": "Inner Mongolia Normal University",
         "zh": "内蒙古师范大学(Inner Mongolia Normal University)"
     },
+    "https://idp.imu.edu.cn/idp/shibboleth": {
+        "en": "Inner Mongolia University",
+        "zh": "内蒙古大学(Inner Mongolia University)"
+    },
+    "https://idp.imufe.edu.cn/idp/shibboleth": {
+        "en": "Inner Mongolia University of Finance and Economics",
+        "zh": "内蒙古财经大学(Inner Mongolia University of Finance and Economics)"
+    },
     "https://idp.imust.edu.cn/idp/shibboleth": {
         "en": "Inner Mongolia University of science and technology",
         "zh": "内蒙古科技大学(Inner Mongolia University of science and technology)"

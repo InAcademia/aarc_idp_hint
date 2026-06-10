@@ -3895,6 +3895,14 @@
             "en": "Inner Mongolia Normal University",
             "zh": "内蒙古师范大学(Inner Mongolia Normal University)"
         },
+        "https://idp.imu.edu.cn/idp/shibboleth": {
+            "en": "Inner Mongolia University",
+            "zh": "内蒙古大学(Inner Mongolia University)"
+        },
+        "https://idp.imufe.edu.cn/idp/shibboleth": {
+            "en": "Inner Mongolia University of Finance and Economics",
+            "zh": "内蒙古财经大学(Inner Mongolia University of Finance and Economics)"
+        },
         "https://idp.imust.edu.cn/idp/shibboleth": {
             "en": "Inner Mongolia University of science and technology",
             "zh": "内蒙古科技大学(Inner Mongolia University of science and technology)"
@@ -14100,6 +14108,10 @@
             "en": "Vilnius University of Applied Sciences",
             "lt": "Vilniaus kolegija"
         },
+        "https://ilk.sso.litnet.lt/auth/saml2/idp/metadata.php": {
+            "en": "St. Ignatius of Loyola College",
+            "lt": "Vilniaus kolegija"
+        },
         "https://ism.sso.litnet.lt/auth/saml2/idp/metadata.php": {
             "en": "ISM University of Management and Economics",
             "lt": "ISM Vadybos ir ekonomikos universitetas"
@@ -22159,7 +22171,7 @@
             "en": "North Carolina Central University"
         },
         "https://sso.ncsu.edu/idp": {
-            "en": "zDEVELOPMENT North Carolina State University"
+            "en": "North Carolina State University - New IdP"
         },
         "https://sso.nhsc.edu/idp": {
             "en": "Nueta Hidatsa Sahnish College"
