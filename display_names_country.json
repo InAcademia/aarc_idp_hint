@@ -1800,10 +1800,6 @@
             "en": "UNIS - Centro Universitario do Sul de Minas",
             "pt-br": "UNIS - Centro Universitario do Sul de Minas"
         },
-        "https://idp.unisanta.br/idp/shibboleth": {
-            "en": "UNISANTA - Instituto Superior de Educacao Santa Cecilia",
-            "pt-br": "UNISANTA - Instituto Superior de Educacao Santa Cecilia"
-        },
         "https://idp.unisantos.br/idp/shibboleth": {
             "en": "UNISANTOS - Universidade Catolica de Santos",
             "pt-br": "UNISANTOS - Universidade Catolica de Santos"
@@ -1817,8 +1813,8 @@
             "pt-br": "UNISUAM - Centro Universitario Augusto Motta"
         },
         "https://idp.unitins.br/idp/shibboleth": {
-            "en": "UNITINS - Universidade Estadual do Tocantins",
-            "pt-br": "UNITINS - Universidade Estadual do Tocantins"
+            "en": "UNITINS - Universidade Estadual do Tocantins - v5.1.4",
+            "pt-br": "UNITINS - Universidade Estadual do Tocantins - v5.1.4"
         },
         "https://idp.uniube.br/idp/shibboleth": {
             "en": "UNIUBE - Universidade de Uberaba",
@@ -9987,8 +9983,8 @@
             "fr": "IPSA - Ecole d'ingénieurs aéronautique et spatiale"
         },
         "https://idp.isae.fr/idp/shibboleth": {
-            "en": "ISAE-SUPAERO  - Institut Supérieur de l’Aéronautique et  et de l'Espace",
-            "fr": "ISAE-SUPAERO  - Institut Supérieur de l’Aéronautique et  et de l'Espace"
+            "en": "ISAE-SUPAERO  - Institut Supérieur de l’Aéronautique et de l'Espace",
+            "fr": "ISAE-SUPAERO  - Institut Supérieur de l’Aéronautique et de l'Espace"
         },
         "https://idp.isara.fr/idp/shibboleth": {
             "en": "ISARA",
