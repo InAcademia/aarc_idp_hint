@@ -923,9 +923,6 @@
     "https://shib.wichita.edu/idp/shibboleth": {
         "en": "Wichita State University"
     },
-    "https://shib.wit.edu/idp/shibboleth": {
-        "en": "Wentworth Institute of Technology"
-    },
     "https://shib.wsc.edu/idp/shibboleth": {
         "en": "Wayne State College"
     },
@@ -1264,6 +1261,9 @@
     },
     "https://sso.pdx.edu/idp/shibboleth": {
         "en": "Portland State University"
+    },
+    "https://sso.pnnl.gov/idp": {
+        "en": "PNNL"
     },
     "https://sso.redlands.edu/idp": {
         "en": "University of Redlands"

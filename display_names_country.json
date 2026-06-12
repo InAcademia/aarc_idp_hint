@@ -932,6 +932,10 @@
             "en": "UFPE - Universidade Federal de Pernambuco",
             "pt-br": "UFPE - Universidade Federal de Pernambuco"
         },
+        "https://barista2.pucsp.br/idp/shibboleth": {
+            "en": "PUCSP - Pontificia Universidade Catolica de Sao Paulo",
+            "pt-br": "PUCSP - Pontificia Universidade Catolica de Sao Paulo"
+        },
         "https://cafe-01.uffs.edu.br/idp/shibboleth": {
             "en": "UFFS - Universidade Federal da Fronteira Sul",
             "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
@@ -15584,6 +15588,10 @@
             "en": "ArtEZ University of the Arts",
             "nl": "ArtEZ University of the Arts"
         },
+        "https://sts.windows.net/c38a20c7-169c-434f-b89f-45025169197e/": {
+            "en": "Universities of the Netherlands",
+            "nl": "Universiteiten van Nederland"
+        },
         "https://sts.windows.net/c66b6765-b794-4a2b-84ed-845b341c086a/": {
             "en": "Fontys University of Applied Sciences",
             "nl": "Fontys Hogeschool"
@@ -21845,9 +21853,6 @@
         "https://shib.wichita.edu/idp/shibboleth": {
             "en": "Wichita State University"
         },
-        "https://shib.wit.edu/idp/shibboleth": {
-            "en": "Wentworth Institute of Technology"
-        },
         "https://shib.wsc.edu/idp/shibboleth": {
             "en": "Wayne State College"
         },
@@ -22186,6 +22191,9 @@
         },
         "https://sso.pdx.edu/idp/shibboleth": {
             "en": "Portland State University"
+        },
+        "https://sso.pnnl.gov/idp": {
+            "en": "PNNL"
         },
         "https://sso.redlands.edu/idp": {
             "en": "University of Redlands"
