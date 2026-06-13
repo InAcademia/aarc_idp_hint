@@ -1084,6 +1084,10 @@
             "en": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul",
             "pt-br": "IFRS - Instituto Federal de Educacao Ciencia e Tecnologia do Rio Grande do Sul"
         },
+        "https://cafe.iftm.edu.br/idp/shibboleth": {
+            "en": "IFTM - Instituto Federal do Triangulo Mineiro",
+            "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
+        },
         "https://cafe.ifto.edu.br/idp/shibboleth": {
             "en": "IFTO - Instituto Federal do Tocantins",
             "pt-br": "IFTO - Instituto Federal do Tocantins"
@@ -1620,10 +1624,6 @@
             "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
             "pt-br": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais"
         },
-        "https://idp.iftm.edu.br/idp/shibboleth": {
-            "en": "IFTM - Instituto Federal do Triangulo Mineiro",
-            "pt-br": "IFTM - Instituto Federal do Triangulo Mineiro"
-        },
         "https://idp.incor.usp.br/idp/shibboleth": {
             "en": "INCOR USP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo",
             "pt-br": "INCOR USP - Instituto do Coracao da Faculdade de Medicina da Universidade de Sao Paulo"
@@ -1803,6 +1803,10 @@
         "https://idp.unis.edu.br/idp/shibboleth": {
             "en": "UNIS - Centro Universitario do Sul de Minas",
             "pt-br": "UNIS - Centro Universitario do Sul de Minas"
+        },
+        "https://idp.unisanta.br/idp/shibboleth": {
+            "en": "UNISANTA - Instituto Superior de Educacao Santa Cecilia",
+            "pt-br": "UNISANTA - Instituto Superior de Educacao Santa Cecilia"
         },
         "https://idp.unisantos.br/idp/shibboleth": {
             "en": "UNISANTOS - Universidade Catolica de Santos",
