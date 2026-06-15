@@ -55,10 +55,6 @@
         "en": "CROUS Caen-Personnels V3",
         "fr": "CROUS Caen-Personnels V3"
     },
-    "https://auth.crous-clermont.fr/idp/shibboleth": {
-        "en": "CROUS Clermont Auvergne V3",
-        "fr": "CROUS Clermont Auvergne V3"
-    },
     "https://auth.crous-creteil.fr/idp/shibboleth": {
         "en": "Corporate CROUS Creteil-Personnels V3",
         "fr": "CROUS Créteil-Personnels V3"
@@ -122,10 +118,6 @@
     "https://authentification.prive.ineris.fr/nidp/saml2/metadata": {
         "en": "INERIS - Institut National de l'Environnement Industriel et des Risques",
         "fr": "INERIS - Institut National de l'Environnement Industriel et des Risques"
-    },
-    "https://baragwin.brest-bs.com/idp/shibboleth": {
-        "en": "Brest Business School",
-        "fr": "Brest Business School"
     },
     "https://cas.ac-martinique.fr/idp/shibboleth": {
         "en": "Rectorat de la Martinique",
@@ -275,6 +267,10 @@
         "en": "L'Institut Agro Rennes-Angers",
         "fr": "L'Institut Agro Rennes-Angers"
     },
+    "https://idp-cesi.renater.fr/idp/shibboleth": {
+        "en": "CESI - Collaborators",
+        "fr": "CESI - Collaborateurs"
+    },
     "https://idp-connect.renater.fr/idp/shibboleth": {
         "en": "Identitas : RENATER Connect",
         "fr": "Identitas : RENATER Connect"
@@ -336,8 +332,8 @@
         "fr": "Université de Montpellier Paul-Valéry"
     },
     "https://idp-viacesi.renater.fr/idp/shibboleth": {
-        "en": "CESI",
-        "fr": "CESI"
+        "en": "CESI - Administratives",
+        "fr": "CESI - Administratifs"
     },
     "https://idp.assas-universite.fr/idp/shibboleth": {
         "en": "Université Paris-Panthéon-Assas",
@@ -716,8 +712,8 @@
         "fr": "CY Cergy Paris Université"
     },
     "https://idp.u-paris2.fr/idp/shibboleth": {
-        "en": "Université de Paris 2 - Panthéon Assas",
-        "fr": "Université de Paris 2 - Panthéon Assas"
+        "en": "Université de Paris 2 - Panthéon Assas (old system)",
+        "fr": "Université de Paris 2 - Panthéon Assas (ancien système)"
     },
     "https://idp.u-picardie.fr/idp/shibboleth": {
         "en": "Université de Picardie Jules Verne",

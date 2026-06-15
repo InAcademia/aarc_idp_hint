@@ -1412,10 +1412,6 @@
             "en": "CEUB - Centro Universitario de Brasilia",
             "pt-br": "CEUB - Centro Universitario de Brasilia"
         },
-        "https://hc-idpcafe.hc.ufpr.br/idp/shibboleth": {
-            "en": "CHC-UFPR - Complexo Hospital de Clinicas",
-            "pt-br": "CHC-UFPR - Complexo Hospital de Clinicas"
-        },
         "https://hibonite.fapesp.br/idp/shibboleth": {
             "en": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo",
             "pt-br": "FAPESP - Fundacao de Amparo a Pesquisa de Sao Paulo"
@@ -6139,6 +6135,10 @@
             "de": "Evangelische Hochschule Dresden",
             "en": "Evangelische Hochschule Dresden"
         },
+        "https://aai-idp.molit.eu/idp/shibboleth": {
+            "de": "MOLIT Institut",
+            "en": "MOLIT Institute"
+        },
         "https://aai-mdc1.mdc-berlin.de/idp/shibboleth": {
             "de": "Max-Delbrück-Centrum für molekulare Medizin",
             "en": "Max Delbrück Center for Molecular Medicine"
@@ -9470,10 +9470,6 @@
             "en": "CROUS Caen-Personnels V3",
             "fr": "CROUS Caen-Personnels V3"
         },
-        "https://auth.crous-clermont.fr/idp/shibboleth": {
-            "en": "CROUS Clermont Auvergne V3",
-            "fr": "CROUS Clermont Auvergne V3"
-        },
         "https://auth.crous-creteil.fr/idp/shibboleth": {
             "en": "Corporate CROUS Creteil-Personnels V3",
             "fr": "CROUS Créteil-Personnels V3"
@@ -9537,10 +9533,6 @@
         "https://authentification.prive.ineris.fr/nidp/saml2/metadata": {
             "en": "INERIS - Institut National de l'Environnement Industriel et des Risques",
             "fr": "INERIS - Institut National de l'Environnement Industriel et des Risques"
-        },
-        "https://baragwin.brest-bs.com/idp/shibboleth": {
-            "en": "Brest Business School",
-            "fr": "Brest Business School"
         },
         "https://cas.ac-martinique.fr/idp/shibboleth": {
             "en": "Rectorat de la Martinique",
@@ -9690,6 +9682,10 @@
             "en": "L'Institut Agro Rennes-Angers",
             "fr": "L'Institut Agro Rennes-Angers"
         },
+        "https://idp-cesi.renater.fr/idp/shibboleth": {
+            "en": "CESI - Collaborators",
+            "fr": "CESI - Collaborateurs"
+        },
         "https://idp-connect.renater.fr/idp/shibboleth": {
             "en": "Identitas : RENATER Connect",
             "fr": "Identitas : RENATER Connect"
@@ -9751,8 +9747,8 @@
             "fr": "Université de Montpellier Paul-Valéry"
         },
         "https://idp-viacesi.renater.fr/idp/shibboleth": {
-            "en": "CESI",
-            "fr": "CESI"
+            "en": "CESI - Administratives",
+            "fr": "CESI - Administratifs"
         },
         "https://idp.assas-universite.fr/idp/shibboleth": {
             "en": "Université Paris-Panthéon-Assas",
@@ -10131,8 +10127,8 @@
             "fr": "CY Cergy Paris Université"
         },
         "https://idp.u-paris2.fr/idp/shibboleth": {
-            "en": "Université de Paris 2 - Panthéon Assas",
-            "fr": "Université de Paris 2 - Panthéon Assas"
+            "en": "Université de Paris 2 - Panthéon Assas (old system)",
+            "fr": "Université de Paris 2 - Panthéon Assas (ancien système)"
         },
         "https://idp.u-picardie.fr/idp/shibboleth": {
             "en": "Université de Picardie Jules Verne",
@@ -13691,6 +13687,10 @@
         "https://mfa-idp.shiga-med.ac.jp/idp/shibboleth": {
             "en": "Shiga University of Medical Science",
             "ja": "滋賀医科大学"
+        },
+        "https://naganouniv.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Nagano University",
+            "ja": "長野大学"
         },
         "https://nifsacjp.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "National Institute for Fusion Science (extic)",
@@ -22225,6 +22225,9 @@
         },
         "https://sso.skc.edu/idp": {
             "en": "Salish Kootenai College"
+        },
+        "https://sso.slu.edu/idp": {
+            "en": "Saint Louis University"
         },
         "https://sso.southwestern.edu/idp": {
             "en": "Southwestern University"
