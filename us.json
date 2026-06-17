@@ -1301,6 +1301,9 @@
     "https://sso.stkate.edu/idp": {
         "en": "St. Catherine University Single Sign-On"
     },
+    "https://sso.tamuk.edu/idp": {
+        "en": "Texas A&M University Kingsville"
+    },
     "https://sso.tarleton.edu/idp/shibboleth": {
         "en": "Tarleton State University"
     },

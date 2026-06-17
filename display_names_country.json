@@ -8825,6 +8825,10 @@
             "en": "Instituto Valenciano de Investigaciones Economicas",
             "es": "Instituto Valenciano de Investigaciones Económicas"
         },
+        "https://www.rediris.es/sir/lightbridgesidp": {
+            "en": "Light Bridges",
+            "es": "Light Bridges"
+        },
         "https://www.rediris.es/sir/lscidp": {
             "en": "Consorcio para el Equipamiento y Explotación del Laboratorio Subterráneo de Canfranc",
             "es": "Consorcio para el Equipamiento y Explotación del Laboratorio Subterráneo de Canfranc"
@@ -11664,6 +11668,9 @@
         "https://idp.aktu.ac.in/idp/shibboleth": {
             "en": "Dr. A. P. J. Abdul Kalam Technical University, Lucknow"
         },
+        "https://idp.akubihar.ac.in/idp/shibboleth": {
+            "en": "Aryabhatta Knowledge University"
+        },
         "https://idp.alagappauniversity.ac.in/idp/shibboleth": {
             "en": "Alagappa University, Tamil Nadu"
         },
@@ -11730,6 +11737,9 @@
         "https://idp.bmu.edu.in/idp/shibboleth": {
             "en": "BML Munjal University"
         },
+        "https://idp.bnmu.ac.in/idp/shibboleth": {
+            "en": "Bhupendra Narayan Mandal University"
+        },
         "https://idp.bpsmvedp.ac.in/idp/shibboleth": {
             "en": "Bhagat Phool Singh Mahila Vishwavidyalaya"
         },
@@ -11762,6 +11772,9 @@
         },
         "https://idp.cottonuniversity.ac.in/idp/shibboleth": {
             "en": "cotton university"
+        },
+        "https://idp.csauk.ac.in/idp/shibboleth": {
+            "en": "Chandra Shekhar Azad University Of Agriculture And Technology"
         },
         "https://idp.cssscal.org/idp/shibboleth": {
             "en": "The Centre for Studies in Social Sciences"
@@ -12225,6 +12238,9 @@
         "https://idp.nitttrchd.ac.in/idp/shibboleth": {
             "en": "NITTTR Chandigarh"
         },
+        "https://idp.nitttrkol.ac.in/idp/shibboleth": {
+            "en": "National Institute of Technical Teachers' Training and Research, Kolkata"
+        },
         "https://idp.nluo.ac.in/idp/shibboleth": {
             "en": "National Law University Odisha"
         },
@@ -12284,6 +12300,9 @@
         },
         "https://idp.psgtech.ac.in/idp/shibboleth": {
             "en": "PSG College Of Technology"
+        },
+        "https://idp.ranchiuniversity.ac.in/idp/shibboleth": {
+            "en": "Ranchi University"
         },
         "https://idp.rcb.ac.in/idp/shibboleth": {
             "en": "Regional Centre for Biotechnology"
@@ -12383,6 +12402,9 @@
         },
         "https://idp.ssus.ac.in/idp/shibboleth": {
             "en": "Sree Sankaracharya University of Sanskrit"
+        },
+        "https://idp.suniv.ac.in/idp/shibboleth": {
+            "en": "Sambalpur University"
         },
         "https://idp.svnit.ac.in/idp/shibboleth": {
             "en": "Sardar Vallabhbhai National Institute of Technology"
@@ -22234,6 +22256,9 @@
         },
         "https://sso.stkate.edu/idp": {
             "en": "St. Catherine University Single Sign-On"
+        },
+        "https://sso.tamuk.edu/idp": {
+            "en": "Texas A&M University Kingsville"
         },
         "https://sso.tarleton.edu/idp/shibboleth": {
             "en": "Tarleton State University"
