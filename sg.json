@@ -34,8 +34,5 @@
     },
     "https://tp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
         "en": "TP - Temasek Polytechnic"
-    },
-    "https://vho.sgaf.singaren.net.sg/idp/shibboleth": {
-        "en": "SGAF Virtual Home"
     }
 }

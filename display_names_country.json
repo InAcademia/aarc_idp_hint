@@ -17222,9 +17222,6 @@
         },
         "https://tp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "TP - Temasek Polytechnic"
-        },
-        "https://vho.sgaf.singaren.net.sg/idp/shibboleth": {
-            "en": "SGAF Virtual Home"
         }
     },
     "si": {
@@ -17886,6 +17883,10 @@
         "https://kimlik.karatay.edu.tr/idp/shibboleth": {
             "en": "KTO Karatay University",
             "tr": "KTO Karatay Üniversitesi"
+        },
+        "https://kimlik.karatekin.edu.tr/idp/shibboleth": {
+            "en": "Cankiri Karatekin University",
+            "tr": "Çankırı Karatekin Üniversitesi"
         },
         "https://kimlik.kilis.edu.tr/idp/shibboleth": {
             "en": "Kilis 7 Aralik University",
