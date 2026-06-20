@@ -679,6 +679,10 @@
         "en": "FPS - Faculdade Pernambucana de Saude",
         "pt-br": "FPS - Faculdade Pernambucana de Saude"
     },
+    "https://idp.hubrasil.gov.br/idp/shibboleth": {
+        "en": "HUBRASIL - Hospitais Universitarios Brasil",
+        "pt-br": "HUBRASIL - Hospitais Universitarios Brasil"
+    },
     "https://idp.ierr.edu.br/idp/shibboleth": {
         "en": "IERR - Instituto de Educacao de Roraima",
         "pt-br": "IERR - Instituto de Educacao de Roraima"

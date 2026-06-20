@@ -521,6 +521,9 @@
     "https://idp-mukisafoundation.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "Mukisa Foundation"
     },
+    "https://idp-multitech.renu.ac.ug/Saml2IDP/proxy.xml": {
+        "en": "Multitech"
+    },
     "https://idp-mumsahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "Mumsa high school mityana"
     },

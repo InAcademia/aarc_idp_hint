@@ -267,6 +267,10 @@
         "en": "L'Institut Agro Rennes-Angers",
         "fr": "L'Institut Agro Rennes-Angers"
     },
+    "https://idp-bordeaux-archi.renater.fr/idp/shibboleth": {
+        "en": "École nationale supérieure d'architecture et de paysage de Bordeaux",
+        "fr": "École nationale supérieure d'architecture et de paysage de Bordeaux"
+    },
     "https://idp-cesi.renater.fr/idp/shibboleth": {
         "en": "CESI - Collaborators",
         "fr": "CESI - Collaborateurs"
