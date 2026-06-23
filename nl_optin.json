@@ -3,10 +3,6 @@
         "en": "DIFFER",
         "nl": "DIFFER"
     },
-    "http://adfs.aeres.nl/adfs/services/trust": {
-        "en": "Aeres",
-        "nl": "Aeres"
-    },
     "http://adfs.amolf.nl/adfs/services/trust": {
         "en": "AMOLF / ARCNL",
         "nl": "AMOLF / ARCNL"
@@ -270,6 +266,10 @@
     "https://sts.windows.net/01ef09a2-c608-4fc7-af66-836e50ddde2c/": {
         "en": "Koninklijke Bibliotheek",
         "nl": "Koninklijke Bibliotheek"
+    },
+    "https://sts.windows.net/0400e694-d084-40e6-a0fd-37489af0e11b/": {
+        "en": "Aeres (New)",
+        "nl": "Aeres (Nieuw)"
     },
     "https://sts.windows.net/084578d9-400d-4a5a-a7c7-e76ca47af400/": {
         "en": "Radboud University",
