@@ -7033,6 +7033,9 @@
             "de": "Karlsruher Institut für Technologie (KIT)",
             "en": "Karlsruhe Institute of Technology (KIT)"
         },
+        "https://idp.studentenwerk-leipzig.de/idp/shibboleth": {
+            "en": "Studentenwerk Leipzig"
+        },
         "https://idp.th-brandenburg.de/idp/shibboleth": {
             "de": "Technische Hochschule Brandenburg",
             "en": "Brandenburg University of Applied Sciences"
@@ -8097,6 +8100,14 @@
         "https://wayfeadania.itcn.dk/simplesaml/saml2/idp/metadata.php": {
             "da": "Erhvervsakademi Dania",
             "en": "Dania Academy"
+        }
+    },
+    "dz": {
+        "https://idp.grid.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science GRID IDP"
+        },
+        "https://med-idp.arn.dz/idp/shibboleth": {
+            "en": "DZ e-Science MEDECINE IDP"
         }
     },
     "ec": {
@@ -10561,10 +10572,6 @@
         "https://sts.windows.net/517085ff-c1f1-4b90-8a7f-ed8816109cfe/": {
             "en": "Grenoble Ecole de Management ( GEM )",
             "fr": "Grenoble Ecole de Management ( GEM )"
-        },
-        "https://sts.windows.net/538dc00c-d9ba-4814-ab23-584b8a2baac7/": {
-            "en": "Burgundy School Of Business",
-            "fr": "Burgundy School Of Business"
         },
         "https://sts.windows.net/64b29456-0126-4baf-a07f-ec7eee1b1604/": {
             "en": "PURPAN's Engineering School",
@@ -15218,6 +15225,10 @@
             "en": "Koninklijke Bibliotheek",
             "nl": "Koninklijke Bibliotheek"
         },
+        "https://sts.windows.net/0400e694-d084-40e6-a0fd-37489af0e11b/": {
+            "en": "Aeres (New)",
+            "nl": "Aeres (Nieuw)"
+        },
         "https://sts.windows.net/084578d9-400d-4a5a-a7c7-e76ca47af400/": {
             "en": "Radboud University",
             "nl": "Radboud Universiteit"
@@ -19173,6 +19184,12 @@
         },
         "https://rif.mubs.ac.ug/idp/shibboleth": {
             "en": "Makerere University Business School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "RENU SSO IDP"
+        },
+        "https://sso.devops.renu.ac.ug/Saml2IDP/proxy.xml": {
+            "en": "RENU SSO IDP"
         }
     },
     "uk": {
@@ -22294,6 +22311,9 @@
         },
         "https://sso.yc.edu/idp": {
             "en": "Yavapai College"
+        },
+        "https://sso2.wvu.edu/bridge": {
+            "en": "Upcoming West Virginia University"
         },
         "https://ssofed.naz.edu/idp": {
             "en": "Nazareth College of Rochester"

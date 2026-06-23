@@ -982,5 +982,11 @@
     },
     "https://rif.mubs.ac.ug/idp/shibboleth": {
         "en": "Makerere University Business School"
+    },
+    "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml": {
+        "en": "RENU SSO IDP"
+    },
+    "https://sso.devops.renu.ac.ug/Saml2IDP/proxy.xml": {
+        "en": "RENU SSO IDP"
     }
 }

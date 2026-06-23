@@ -897,6 +897,9 @@
         "de": "Karlsruher Institut für Technologie (KIT)",
         "en": "Karlsruhe Institute of Technology (KIT)"
     },
+    "https://idp.studentenwerk-leipzig.de/idp/shibboleth": {
+        "en": "Studentenwerk Leipzig"
+    },
     "https://idp.th-brandenburg.de/idp/shibboleth": {
         "de": "Technische Hochschule Brandenburg",
         "en": "Brandenburg University of Applied Sciences"
