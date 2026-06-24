@@ -245,5 +245,9 @@
     "https://login2.usi.ch/idp/shibboleth": {
         "en": "Università della Svizzera italiana",
         "it": "Università della Svizzera italiana"
+    },
+    "https://pzbs.authproxy.swisscovery.network/saml-idp": {
+        "de": "PZ.BS via SLSKey",
+        "en": "PZ.BS via SLSKey"
     }
 }

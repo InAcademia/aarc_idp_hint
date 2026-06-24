@@ -547,10 +547,6 @@
         "en": "SESAPI - Secretaria de Estado da Saude do Piaui",
         "pt-br": "SESAPI - Secretaria de Estado da Saude do Piaui"
     },
-    "https://idp-cafe.uea.edu.br/idp/shibboleth": {
-        "en": "UEA - Universidade do Estado do Amazonas",
-        "pt-br": "UEA - Universidade do Estado do Amazonas"
-    },
     "https://idp-cafe.ufcspa.edu.br/idp/shibboleth": {
         "en": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre",
         "pt-br": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre"
@@ -1326,6 +1322,10 @@
     "https://svrcafe01.reabilitar.org.br/idp/shibboleth": {
         "en": "NMDER - Nova Maternidade Dona Evangelina Rosa",
         "pt-br": "NMDER - Nova Maternidade Dona Evangelina Rosa"
+    },
+    "https://uea-idp.uea.edu.br/idp/shibboleth": {
+        "en": "UEA - Universidade do Estado do Amazonas",
+        "pt-br": "UEA - Universidade do Estado do Amazonas"
     },
     "https://vm-cafe.feesc.org.br/idp/shibboleth": {
         "en": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina",

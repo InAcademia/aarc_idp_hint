@@ -530,6 +530,9 @@
     "https://idp.mkuniversity.org/idp/shibboleth": {
         "en": "Madurai Kamaraj University"
     },
+    "https://idp.mlritm.ac.in/idp/shibboleth": {
+        "en": "MLR Institute of Technology and Management"
+    },
     "https://idp.mnnit.ac.in/idp/shibboleth": {
         "en": "Motilal Nehru National Institute of Technology, Allahabad"
     },

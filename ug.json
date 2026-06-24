@@ -173,9 +173,6 @@
     "https://idp-education.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "Ministry of Education and Sports"
     },
-    "https://idp-entebbess.renu.ac.ug/Saml2IDP/proxy.xml": {
-        "en": "Entebbe Secondary School"
-    },
     "https://idp-fatimaaloigirls.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "Fatima Aloi Comprehensive Girls SS"
     },
@@ -988,5 +985,8 @@
     },
     "https://sso.devops.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "RENU SSO IDP"
+    },
+    "https://sso.devops.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZW50ZWJiZXNz": {
+        "en": "Entebbe Secondary School"
     }
 }

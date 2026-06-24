@@ -1456,10 +1456,6 @@
             "en": "SESAPI - Secretaria de Estado da Saude do Piaui",
             "pt-br": "SESAPI - Secretaria de Estado da Saude do Piaui"
         },
-        "https://idp-cafe.uea.edu.br/idp/shibboleth": {
-            "en": "UEA - Universidade do Estado do Amazonas",
-            "pt-br": "UEA - Universidade do Estado do Amazonas"
-        },
         "https://idp-cafe.ufcspa.edu.br/idp/shibboleth": {
             "en": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre",
             "pt-br": "UFCSPA - Univ. Fed. de Ciencias da Saude de Porto Alegre"
@@ -2236,6 +2232,10 @@
             "en": "NMDER - Nova Maternidade Dona Evangelina Rosa",
             "pt-br": "NMDER - Nova Maternidade Dona Evangelina Rosa"
         },
+        "https://uea-idp.uea.edu.br/idp/shibboleth": {
+            "en": "UEA - Universidade do Estado do Amazonas",
+            "pt-br": "UEA - Universidade do Estado do Amazonas"
+        },
         "https://vm-cafe.feesc.org.br/idp/shibboleth": {
             "en": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina",
             "pt-br": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina"
@@ -2850,6 +2850,10 @@
         "https://login2.usi.ch/idp/shibboleth": {
             "en": "Università della Svizzera italiana",
             "it": "Università della Svizzera italiana"
+        },
+        "https://pzbs.authproxy.swisscovery.network/saml-idp": {
+            "de": "PZ.BS via SLSKey",
+            "en": "PZ.BS via SLSKey"
         }
     },
     "cl": {
@@ -11259,6 +11263,10 @@
             "en": "Research Centre for Astronomy and Earth Sciences",
             "hu": "Csillagászati és Földtudományi Kutatóközpont"
         },
+        "https://idp.dkf.hu/simplesaml": {
+            "en": "Digitális Kormányzati Fejlesztés és Projektmenedzsment Kft 2025 (DKF)",
+            "hu": "Digitális Kormányzati Fejlesztés és Projektmenedzsment Kft 2025 (DKF)"
+        },
         "https://idp.drhe.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Debrecen Reformed Theological University",
             "hu": "Debreceni Református Hittudományi Egyetem"
@@ -12142,6 +12150,9 @@
         },
         "https://idp.mkuniversity.org/idp/shibboleth": {
             "en": "Madurai Kamaraj University"
+        },
+        "https://idp.mlritm.ac.in/idp/shibboleth": {
+            "en": "MLR Institute of Technology and Management"
         },
         "https://idp.mnnit.ac.in/idp/shibboleth": {
             "en": "Motilal Nehru National Institute of Technology, Allahabad"
@@ -14949,10 +14960,6 @@
             "en": "DIFFER",
             "nl": "DIFFER"
         },
-        "http://adfs.aeres.nl/adfs/services/trust": {
-            "en": "Aeres",
-            "nl": "Aeres"
-        },
         "http://adfs.amolf.nl/adfs/services/trust": {
             "en": "AMOLF / ARCNL",
             "nl": "AMOLF / ARCNL"
@@ -15226,8 +15233,8 @@
             "nl": "Koninklijke Bibliotheek"
         },
         "https://sts.windows.net/0400e694-d084-40e6-a0fd-37489af0e11b/": {
-            "en": "Aeres (New)",
-            "nl": "Aeres (Nieuw)"
+            "en": "Aeres",
+            "nl": "Aeres"
         },
         "https://sts.windows.net/084578d9-400d-4a5a-a7c7-e76ca47af400/": {
             "en": "Radboud University",
@@ -18375,9 +18382,6 @@
         "https://idp-education.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Ministry of Education and Sports"
         },
-        "https://idp-entebbess.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Entebbe Secondary School"
-        },
         "https://idp-fatimaaloigirls.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Fatima Aloi Comprehensive Girls SS"
         },
@@ -19190,6 +19194,9 @@
         },
         "https://sso.devops.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "RENU SSO IDP"
+        },
+        "https://sso.devops.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZW50ZWJiZXNz": {
+            "en": "Entebbe Secondary School"
         }
     },
     "uk": {
@@ -22596,9 +22603,6 @@
         },
         "urn:mace:incommon:utah.edu": {
             "en": "University of Utah"
-        },
-        "urn:mace:incommon:uww.edu": {
-            "en": "University of Wisconsin - Whitewater"
         },
         "urn:mace:incommon:virginia.edu": {
             "en": "University of Virginia"
