@@ -518,9 +518,6 @@
     "https://idp-mukisafoundation.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "Mukisa Foundation"
     },
-    "https://idp-multitech.renu.ac.ug/Saml2IDP/proxy.xml": {
-        "en": "Multitech"
-    },
     "https://idp-mumsahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "Mumsa high school mityana"
     },
@@ -982,6 +979,9 @@
     },
     "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "RENU SSO IDP"
+    },
+    "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXVsdGl0ZWNo": {
+        "en": "Multitech"
     },
     "https://sso.devops.renu.ac.ug/Saml2IDP/proxy.xml": {
         "en": "RENU SSO IDP"

@@ -22,10 +22,6 @@
     "al": {
         "https://idp.rash.al/simplesaml/saml2/idp/metadata.php": {
             "en": "Albanian Academic Network - RASH"
-        },
-        "https://idp.unitir.edu.al": {
-            "en": "University of Tirana",
-            "sq": "Universiteti i Tiranës"
         }
     },
     "am": {
@@ -9773,6 +9769,10 @@
             "en": "Université Paris-Panthéon-Assas",
             "fr": "Université Paris-Panthéon-Assas"
         },
+        "https://idp.aup.edu/idp/shibboleth": {
+            "en": "The American University of Paris",
+            "fr": "L'Université Américaine de Paris"
+        },
         "https://idp.beauxartsnantes.fr/idp/shibboleth": {
             "en": "Ecole des beaux-arts de Nantes Saint-Nazaire",
             "fr": "Ecole des beaux-arts de Nantes Saint-Nazaire"
@@ -9780,6 +9780,10 @@
         "https://idp.bnu.fr/idp/shibboleth": {
             "en": "Bibliothèque Nationale Universitaire - Strasbourg",
             "fr": "Bibliothèque Nationale et Universitaire - Strasbourg"
+        },
+        "https://idp.bsb-education.com/idp/shibboleth": {
+            "en": "Burgundy School Of Business",
+            "fr": "Burgundy School Of Business"
         },
         "https://idp.centralelille.fr/idp/shibboleth": {
             "en": "Centrale Lille",
@@ -10058,8 +10062,8 @@
             "fr": "Oniris – VetAgroBio Nantes - ECOLE NATIONALE"
         },
         "https://idp.paris-lavillette.archi.fr/idp/shibboleth": {
-            "en": "Ecole Nationale Supérieure d'Architecture de Paris - La Villette",
-            "fr": "Ecole Nationale Supérieure d'Architecture de Paris - La Villette"
+            "en": "Ensa Paris-La Villette - Staff",
+            "fr": "Ensa Paris-La Villette - Personnels"
         },
         "https://idp.paris-malaquais.archi.fr/idp/shibboleth": {
             "en": "Ecole Nationale Supérieure d'Architecture de Paris - Malaquais",
@@ -18727,9 +18731,6 @@
         "https://idp-mukisafoundation.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Mukisa Foundation"
         },
-        "https://idp-multitech.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Multitech"
-        },
         "https://idp-mumsahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Mumsa high school mityana"
         },
@@ -19191,6 +19192,9 @@
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "RENU SSO IDP"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXVsdGl0ZWNo": {
+            "en": "Multitech"
         },
         "https://sso.devops.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "RENU SSO IDP"
