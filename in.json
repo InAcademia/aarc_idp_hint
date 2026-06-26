@@ -161,6 +161,9 @@
     "https://idp.cit.edu.in/idp/shibboleth": {
         "en": "Coimbatore Institute of Technology"
     },
+    "https://idp.clujammu.ac.in/idp/shibboleth": {
+        "en": "Cluster University of Jammu"
+    },
     "https://idp.cmr.edu.in/idp/shibboleth": {
         "en": "CMR University"
     },
