@@ -1180,10 +1180,6 @@
             "en": "UCSAL - Universidade Catolica do Salvador",
             "pt-br": "UCSAL - Universidade Catolica do Salvador"
         },
-        "https://cafe.uemg.br/idp/shibboleth": {
-            "en": "UEMG - Universidade do Estado de Minas Gerais",
-            "pt-br": "UEMG - Universidade do Estado de Minas Gerais"
-        },
         "https://cafe.uenp.edu.br/idp/shibboleth": {
             "en": "UENP - Universidade Estadual do Norte do Parana",
             "pt-br": "UENP - Universidade Estadual do Norte do Parana"
@@ -5402,8 +5398,8 @@
             "en": "Astronomical Institute of the Czech Academy of Sciences"
         },
         "https://idp.bbmri-eric.eu/idp/shibboleth": {
-            "cs": "BBMRI ERIC",
-            "en": "BBMRI ERIC"
+            "cs": "BBMRI-ERIC",
+            "en": "BBMRI-ERIC"
         },
         "https://idp.bc.cas.cz/idp/shibboleth": {
             "cs": "Biologické centrum AV ČR, AV ČR",
