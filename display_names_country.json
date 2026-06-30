@@ -5398,8 +5398,8 @@
             "en": "Astronomical Institute of the Czech Academy of Sciences"
         },
         "https://idp.bbmri-eric.eu/idp/shibboleth": {
-            "cs": "BBMRI-ERIC",
-            "en": "BBMRI-ERIC"
+            "cs": "BBMRI ERIC",
+            "en": "BBMRI ERIC"
         },
         "https://idp.bc.cas.cz/idp/shibboleth": {
             "cs": "Biologické centrum AV ČR, AV ČR",
@@ -13892,6 +13892,10 @@
             "en": "Tokyo Women's Medical University",
             "ja": "東京女子医科大学"
         },
+        "https://upki-idp.chiba-u.jp/idp/shibboleth": {
+            "en": "Chiba University",
+            "ja": "千葉大学"
+        },
         "https://upki-idp.rikkyo.ac.jp/idp/shibboleth": {
             "en": "Rikkyo University",
             "ja": "立教大学"
@@ -18234,9 +18238,6 @@
         "https://idp-allsaintsociba.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "All Saints SS Ociba"
         },
-        "https://idp-amuguss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Amugu Secondary School"
-        },
         "https://idp-apalass.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Apala SS"
         },
@@ -18284,9 +18285,6 @@
         },
         "https://idp-bishopgirls.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Bishop Girls Secondary School"
-        },
-        "https://idp-bishoprobertss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bishop Robert SS"
         },
         "https://idp-bishopss.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Bishop SS"
@@ -18390,9 +18388,6 @@
         "https://idp-education.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Ministry of Education and Sports"
         },
-        "https://idp-fatimaaloigirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Fatima Aloi Comprehensive Girls SS"
-        },
         "https://idp-francisayume.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Francis Ayume Memorial School Koboko"
         },
@@ -18486,9 +18481,6 @@
         "https://idp-kakoss.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Kako SS"
         },
-        "https://idp-kambuga.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kambuga Secondary School"
-        },
         "https://idp-kamerukaseed.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Kameruka Seed SS"
         },
@@ -18552,17 +18544,11 @@
         "https://idp-kiiramotors.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Kiira Motors Corporation"
         },
-        "https://idp-kikomekoss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kikomeko Secondary School"
-        },
         "https://idp-kingsolomonss.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "King Solomon's College"
         },
         "https://idp-kinyogogaseed.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Kinyogoga Seed SS"
-        },
-        "https://idp-kisaana.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kisaana Secondary School"
         },
         "https://idp-kisowerass.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Kisowera Secondary School"
@@ -18593,9 +18579,6 @@
         },
         "https://idp-kobwinseed.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Kobwin Seed Secondary School"
-        },
-        "https://idp-kojjass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kojja Secondary School"
         },
         "https://idp-kongungahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Kongunga High"
@@ -18837,9 +18820,6 @@
         "https://idp-ntungamoghs.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Ntungamo Girls High School"
         },
-        "https://idp-nyahukass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nyahuka Secondary School"
-        },
         "https://idp-nyakabangass.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "Nyakabango Secondary School"
         },
@@ -19014,17 +18994,11 @@
         "https://idp-stmarkskammengo.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "St Mark's SS Kammengo"
         },
-        "https://idp-stmaryscollegekisubi.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Marys College Kisubi"
-        },
         "https://idp-stmaryscollegelacor.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "St Mary's College Lacor"
         },
         "https://idp-stmarysrushoroza.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "St. Mary's Rushoroza Secondary School"
-        },
-        "https://idp-stmarysssnkozi.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Marys SS Nkozi"
         },
         "https://idp-stmathiaskalembass.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "St. Mathias Kalemba Secondary School"
@@ -19197,14 +19171,14 @@
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "RENU SSO IDP"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZW50ZWJiZXNz": {
+            "en": "Entebbe Secondary School"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXVsdGl0ZWNo": {
             "en": "Multitech"
         },
         "https://sso.devops.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "RENU SSO IDP"
-        },
-        "https://sso.devops.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZW50ZWJiZXNz": {
-            "en": "Entebbe Secondary School"
         }
     },
     "uk": {
@@ -19675,9 +19649,6 @@
         "https://idp.eastdurham.ac.uk/openathens": {
             "en": "East Durham College"
         },
-        "https://idp.eastleigh.ac.uk": {
-            "en": "Eastleigh College (South Hampshire College Group)"
-        },
         "https://idp.eastridingcollege.ac.uk/shibboleth": {
             "en": "East Riding College"
         },
@@ -19701,9 +19672,6 @@
         },
         "https://idp.exe-coll.ac.uk/idp/shibboleth": {
             "en": "Exeter College"
-        },
-        "https://idp.fareham.ac.uk/shibboleth": {
-            "en": "Fareham College (South Hampshire College Group)"
         },
         "https://idp.farn-ct.ac.uk/idp/shibboleth": {
             "en": "Farnborough College of Technology"
@@ -20221,9 +20189,6 @@
         },
         "https://idp.solihullsfc.ac.uk/shibboleth": {
             "en": "Sixth Form College, Solihull"
-        },
-        "https://idp.southampton-city.ac.uk/idp/shibboleth": {
-            "en": "Southampton City College (South Hampshire College Group)"
         },
         "https://idp.southdevon.ac.uk/shibboleth": {
             "en": "South Devon College"

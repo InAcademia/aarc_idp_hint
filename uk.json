@@ -466,9 +466,6 @@
     "https://idp.eastdurham.ac.uk/openathens": {
         "en": "East Durham College"
     },
-    "https://idp.eastleigh.ac.uk": {
-        "en": "Eastleigh College (South Hampshire College Group)"
-    },
     "https://idp.eastridingcollege.ac.uk/shibboleth": {
         "en": "East Riding College"
     },
@@ -492,9 +489,6 @@
     },
     "https://idp.exe-coll.ac.uk/idp/shibboleth": {
         "en": "Exeter College"
-    },
-    "https://idp.fareham.ac.uk/shibboleth": {
-        "en": "Fareham College (South Hampshire College Group)"
     },
     "https://idp.farn-ct.ac.uk/idp/shibboleth": {
         "en": "Farnborough College of Technology"
@@ -1012,9 +1006,6 @@
     },
     "https://idp.solihullsfc.ac.uk/shibboleth": {
         "en": "Sixth Form College, Solihull"
-    },
-    "https://idp.southampton-city.ac.uk/idp/shibboleth": {
-        "en": "Southampton City College (South Hampshire College Group)"
     },
     "https://idp.southdevon.ac.uk/shibboleth": {
         "en": "South Devon College"

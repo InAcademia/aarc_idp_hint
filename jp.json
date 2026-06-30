@@ -614,6 +614,10 @@
         "en": "Tokyo Women's Medical University",
         "ja": "東京女子医科大学"
     },
+    "https://upki-idp.chiba-u.jp/idp/shibboleth": {
+        "en": "Chiba University",
+        "ja": "千葉大学"
+    },
     "https://upki-idp.rikkyo.ac.jp/idp/shibboleth": {
         "en": "Rikkyo University",
         "ja": "立教大学"
