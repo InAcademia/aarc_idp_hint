@@ -965,6 +965,9 @@
     "https://idp.sccb.ac.uk/idp/shibboleth": {
         "en": "South and City College Birmingham and Bournville College"
     },
+    "https://idp.scot.nhs.uk/openathens": {
+        "en": "NES Knowledge Services Group - NHS Scotland"
+    },
     "https://idp.sgscol.ac.uk/idp/shibboleth": {
         "en": "South Gloucestershire and Stroud College"
     },
@@ -1093,6 +1096,9 @@
     },
     "https://idp.turing.ac.uk/entity": {
         "en": "The Alan Turing Institute"
+    },
+    "https://idp.tynecoast.ac.uk/entity": {
+        "en": "Tyne Coast College"
     },
     "https://idp.ucb.ac.uk/shibboleth": {
         "en": "University College Birmingham"
@@ -1267,9 +1273,6 @@
     },
     "https://idpv3.btc.ac.uk/idp/shibboleth": {
         "en": "Bridgwater & Taunton College"
-    },
-    "https://idpv3.stc.ac.uk/idp/shibboleth": {
-        "en": "Tyne Coast College"
     },
     "https://indiid.net/idp/shibboleth": {
         "en": "Indiid"

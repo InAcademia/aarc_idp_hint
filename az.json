@@ -1,4 +1,8 @@
 {
+    "https://idp.aztu.edu.az/simplesaml/module.php/saml/idp/metadata": {
+        "az": "Azərbaycan Texniki Universiteti Giriş Portalı",
+        "en": "Azerbaijan Technical University Identity Provider"
+    },
     "https://idp1.azsciencenet.az/simplesaml": {
         "az": "AzScienceNet",
         "en": "AzScienceNet"

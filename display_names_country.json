@@ -487,6 +487,10 @@
         }
     },
     "az": {
+        "https://idp.aztu.edu.az/simplesaml/module.php/saml/idp/metadata": {
+            "az": "Azərbaycan Texniki Universiteti Giriş Portalı",
+            "en": "Azerbaijan Technical University Identity Provider"
+        },
         "https://idp1.azsciencenet.az/simplesaml": {
             "az": "AzScienceNet",
             "en": "AzScienceNet"
@@ -9502,10 +9506,6 @@
             "en": "CROUS Rennes V3",
             "fr": "CROUS Rennes V3"
         },
-        "https://auth.crous-strasbourg.fr/idp/shibboleth": {
-            "en": "CROUS Strasbourg V3",
-            "fr": "CROUS Strasbourg V3"
-        },
         "https://auth.glesr.fr/realms/cnl": {
             "en": "CNL",
             "fr": "CNL"
@@ -9703,8 +9703,8 @@
             "fr": "École nationale supérieure d'architecture et de paysage de Bordeaux"
         },
         "https://idp-cesi.renater.fr/idp/shibboleth": {
-            "en": "CESI - Collaborators",
-            "fr": "CESI - Collaborateurs"
+            "en": "CESI - Administrative Satff",
+            "fr": "CESI - Administratif"
         },
         "https://idp-connect.renater.fr/idp/shibboleth": {
             "en": "Identitas : RENATER Connect",
@@ -9767,8 +9767,8 @@
             "fr": "Université de Montpellier Paul-Valéry"
         },
         "https://idp-viacesi.renater.fr/idp/shibboleth": {
-            "en": "CESI - Administratives",
-            "fr": "CESI - Administratifs"
+            "en": "CESI - Academic",
+            "fr": "CESI - Pédagogique"
         },
         "https://idp.assas-universite.fr/idp/shibboleth": {
             "en": "Université Paris-Panthéon-Assas",
@@ -10369,10 +10369,6 @@
         "https://idpulco.univ-littoral.fr/idp/shibboleth": {
             "en": "Universite du Littoral Cote d'Opale (new)",
             "fr": "Université du Littoral Côte d'Opale (nouveau)"
-        },
-        "https://idpv3.crous-versailles.fr/idp/shibboleth": {
-            "en": "CROUS Versailles V3",
-            "fr": "CROUS Versailles V3"
         },
         "https://idpv3.ecole-paysage.fr/idp/shibboleth": {
             "en": "Ecole Nationale Supérieure de Paysage Versailles-Marseille",
@@ -20148,6 +20144,9 @@
         "https://idp.sccb.ac.uk/idp/shibboleth": {
             "en": "South and City College Birmingham and Bournville College"
         },
+        "https://idp.scot.nhs.uk/openathens": {
+            "en": "NES Knowledge Services Group - NHS Scotland"
+        },
         "https://idp.sgscol.ac.uk/idp/shibboleth": {
             "en": "South Gloucestershire and Stroud College"
         },
@@ -20276,6 +20275,9 @@
         },
         "https://idp.turing.ac.uk/entity": {
             "en": "The Alan Turing Institute"
+        },
+        "https://idp.tynecoast.ac.uk/entity": {
+            "en": "Tyne Coast College"
         },
         "https://idp.ucb.ac.uk/shibboleth": {
             "en": "University College Birmingham"
@@ -20450,9 +20452,6 @@
         },
         "https://idpv3.btc.ac.uk/idp/shibboleth": {
             "en": "Bridgwater & Taunton College"
-        },
-        "https://idpv3.stc.ac.uk/idp/shibboleth": {
-            "en": "Tyne Coast College"
         },
         "https://indiid.net/idp/shibboleth": {
             "en": "Indiid"
