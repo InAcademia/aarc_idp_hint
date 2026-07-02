@@ -1596,6 +1596,10 @@
             "en": "IFAC - Instituto Federal do Acre",
             "pt-br": "IFAC - Instituto Federal do Acre"
         },
+        "https://idp.ifc.edu.br/idp/shibboleth": {
+            "en": "IFC - Instituto Federal Catarinense",
+            "pt-br": "IFC - Instituto Federal Catarinense"
+        },
         "https://idp.ifes.edu.br/idp/shibboleth": {
             "en": "IFES - Instituto Federal do Espirito Santo",
             "pt-br": "IFES - Instituto Federal do Espirito Santo"
@@ -1843,10 +1847,6 @@
         "https://idp.venturus.org.br/idp/shibboleth": {
             "en": "VENTURUS - Venturus Centro de Inovacao Tecnologica",
             "pt-br": "VENTURUS - Venturus Centro de Inovacao Tecnologica"
-        },
-        "https://idp02.ifc.edu.br/idp/shibboleth": {
-            "en": "IFC - Instituto Federal Catarinense",
-            "pt-br": "IFC - Instituto Federal Catarinense"
         },
         "https://idp1.uepb.edu.br/idp/shibboleth": {
             "en": "UEPB - Universidade Estadual da Paraiba",
@@ -12075,6 +12075,9 @@
         "https://idp.kau.in/idp/shibboleth": {
             "en": "Kerala Agricultural University"
         },
+        "https://idp.kaushalyaskilluniversity.ac.in/idp/shibboleth": {
+            "en": "Kaushalya The Skill University"
+        },
         "https://idp.kbvsasun.ac.in/idp/shibboleth": {
             "en": "Kumar Bhaskar Varma Sanskrit And Ancient Studies University"
         },
@@ -22142,7 +22145,7 @@
             "en": "North Carolina Central University"
         },
         "https://sso.ncsu.edu/idp": {
-            "en": "North Carolina State University - New IdP"
+            "en": "North Carolina State University"
         },
         "https://sso.nhsc.edu/idp": {
             "en": "Nueta Hidatsa Sahnish College"
@@ -22463,7 +22466,7 @@
             "en": "Northern Arizona University"
         },
         "urn:mace:incommon:ncsu.edu": {
-            "en": "North Carolina State University"
+            "en": "North Carolina State University - Legacy IdP"
         },
         "urn:mace:incommon:nih.gov": {
             "en": "National Institutes of Health (NIH)"

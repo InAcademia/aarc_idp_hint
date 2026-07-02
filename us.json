@@ -1230,7 +1230,7 @@
         "en": "North Carolina Central University"
     },
     "https://sso.ncsu.edu/idp": {
-        "en": "North Carolina State University - New IdP"
+        "en": "North Carolina State University"
     },
     "https://sso.nhsc.edu/idp": {
         "en": "Nueta Hidatsa Sahnish College"
@@ -1551,7 +1551,7 @@
         "en": "Northern Arizona University"
     },
     "urn:mace:incommon:ncsu.edu": {
-        "en": "North Carolina State University"
+        "en": "North Carolina State University - Legacy IdP"
     },
     "urn:mace:incommon:nih.gov": {
         "en": "National Institutes of Health (NIH)"

@@ -449,6 +449,9 @@
     "https://idp.kau.in/idp/shibboleth": {
         "en": "Kerala Agricultural University"
     },
+    "https://idp.kaushalyaskilluniversity.ac.in/idp/shibboleth": {
+        "en": "Kaushalya The Skill University"
+    },
     "https://idp.kbvsasun.ac.in/idp/shibboleth": {
         "en": "Kumar Bhaskar Varma Sanskrit And Ancient Studies University"
     },
