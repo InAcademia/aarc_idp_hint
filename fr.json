@@ -63,10 +63,6 @@
         "en": "CROUS Nice-Personnels V3",
         "fr": "CROUS Nice-Personnels V3"
     },
-    "https://auth.crous-poitiers.fr/idp/shibboleth": {
-        "en": "CROUS Poitiers-Personnels V3",
-        "fr": "CROUS Poitiers-Personnels V3"
-    },
     "https://auth.crous-rennes.fr/idp/shibboleth": {
         "en": "CROUS Rennes V3",
         "fr": "CROUS Rennes V3"

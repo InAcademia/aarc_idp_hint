@@ -2380,8 +2380,8 @@
             "en": "Mount Allison University"
         },
         "https://idp.alliancecan.ca/idp/shibboleth": {
-            "en": "Digital Research Alliance of Canada - Staff",
-            "fr": "Alliance de recherche numérique du Canada - Personnel"
+            "en": "Digital Research Alliance of Canada",
+            "fr": "Alliance de recherche numérique du Canada"
         },
         "https://idp.bc.net/idp/shibboleth": {
             "en": "BCNET"
@@ -9497,10 +9497,6 @@
         "https://auth.crous-nice.fr/idp/shibboleth": {
             "en": "CROUS Nice-Personnels V3",
             "fr": "CROUS Nice-Personnels V3"
-        },
-        "https://auth.crous-poitiers.fr/idp/shibboleth": {
-            "en": "CROUS Poitiers-Personnels V3",
-            "fr": "CROUS Poitiers-Personnels V3"
         },
         "https://auth.crous-rennes.fr/idp/shibboleth": {
             "en": "CROUS Rennes V3",
