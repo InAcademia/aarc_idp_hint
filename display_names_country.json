@@ -16736,98 +16736,6 @@
             "pt": "Universidade do Porto"
         }
     },
-    "ro": {
-        "https://aai.e-uvt.ro/sso/module.php/saml/idp/metadata": {
-            "en": "West University of Timisoara",
-            "ro": "Universitatea de Vest din Timisoara"
-        },
-        "https://accounts.ulbsibiu.ro/myaccount-provider/saml2/idp/metadata.php": {
-            "en": "Lucian Blaga University of Sibiu IdP",
-            "ro": "Universitatea Lucian Blaga din Sibiu IdP"
-        },
-        "https://anelisplus.utcluj.ro/simplesaml/saml2/idp/metadata.php": {
-            "en": "Technical University of Cluj-Napoca",
-            "ro": "Universitatea Tehnica din Cluj-Napoca"
-        },
-        "https://auth.unitbv.ro/simplesaml/saml2/idp/metadata.php": {
-            "en": "Transilvania University of Brasov",
-            "ro": "Universitatea Transilvania din Brasov"
-        },
-        "https://bridge.login.upb.ro/saml2/idp/metadata.php": {
-            "en": "University \"Politehnica\" of Bucharest",
-            "ro": "Universitatea \"Politehnica\" din București"
-        },
-        "https://eduid.umfiasi.ro/idp/shibboleth": {
-            "en": "University of Medicine and Pharmacy \"Grigore T. Popa\" from Iași",
-            "ro": "Universitatea de Medicină și Farmacie \"Grigore T. Popa\" din Iași"
-        },
-        "https://idp.roedu.net/idp/shibboleth": {
-            "en": "Agency ARNIEC RoEduNet IdP",
-            "ro": "IdP Agenția ARNIEC RoEduNet"
-        },
-        "https://idp.uaic.ro/idp/shibboleth": {
-            "en": "University \"Alexandru Ioan Cuza\" from Iasi",
-            "ro": "Universitatea \"Alexandru Ioan Cuza\" din Iasi"
-        },
-        "https://idp.ub.ro/idp/shibboleth": {
-            "en": "UBC Identity Provider"
-        },
-        "https://idp.ubbcluj.ro/smp/saml2/idp/metadata.php": {
-            "en": "Babes-Bolyai University",
-            "ro": "Universitatea Babe??-Bolyai"
-        },
-        "https://idp.ucv.ro/simplesaml/saml2/idp/metadata.php": {
-            "en": "University of Craiova",
-            "ro": "Universitatea din Craiova"
-        },
-        "https://idp.unatc.ro/simplesaml/": {
-            "en": "UNATC - National University of Theatre and Film \"I.L. Caragiale\", Bucharest",
-            "ro": "UNATC - Universitatea Nationala de Arta Teatrala si Cinematografica \"I.L. Caragiale\" din Bucuresti"
-        },
-        "https://idp.unibuc.ro/idp/shibboleth": {
-            "en": "University of Bucharest",
-            "ro": "Universitatea din București"
-        },
-        "https://idp.univ-ovidius.ro/idp/shibboleth": {
-            "en": "Ovidius University of Constanta",
-            "ro": "Universitatea Ovidius Constanta"
-        },
-        "https://idp.uoradea.ro/idp/shibboleth": {
-            "en": "University of Oradea",
-            "ro": "Universitatea din Oradea"
-        },
-        "https://idp.upet.ro/idp/shibboleth": {
-            "en": "University of Petrosani - Shibboleth IdP",
-            "ro": "Universitatea din Petroșani - Shibboleth IdP"
-        },
-        "https://idp.upg-ploiesti.ro/simplesaml/saml2/idp/metadata.php": {
-            "en": "Petroleum Gas University of Ploiesti",
-            "ro": "Universitatea Petrol-Gaze din Ploiesti"
-        },
-        "https://idp.usamvcluj.ro/idp/shibboleth": {
-            "en": "USAMV Cluj-Napoca"
-        },
-        "https://idp.usv.ro/simplesaml/saml2/idp/metadata.php": {
-            "en": "Stefan cel Mare University of Suceava",
-            "ro": "Universitatea Stefan cel Mare din Suceava"
-        },
-        "https://idp.utcb.ro/idp/shibboleth": {
-            "en": "Technical University of Civil Engineering Bucharest IdP",
-            "ro": "IdP al Universitatii Tehnice de Constructii Bucuresti"
-        },
-        "https://idp2.upt.ro/idp/shibboleth": {
-            "en": "Politehnica University Timisoara",
-            "ro": "Universitatea Politehnica Timisoara"
-        },
-        "https://splp.snspa.ro/smplp/saml2/idp/metadata.php": {
-            "en": "National School of Political Science and Public Administration",
-            "ro": "Scoala Nationala de Studii Politice si Administrative"
-        },
-        "https://sso.tuiasi.ro/auth/realms/TUIASI": {
-            "en": "Gheorghe Asachi Technical University of Iaşi - TUIASI",
-            "ro": "Universitatea Tehnică „Gheorghe Asachi” din Iaşi - TUIASI"
-        }
-    },
     "rs": {
         "https://iaai.admin.amres.ac.rs/idp/shibboleth": {
             "en": "AMRES Admin",
@@ -18215,887 +18123,11 @@
         }
     },
     "ug": {
-        "https://idp-3rss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "3RS"
-        },
-        "https://idp-africanchildrenschoir.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Empower International Academy"
-        },
-        "https://idp-africhild.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "The AfriChild Centre"
-        },
-        "https://idp-afru.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "African Renewal University"
-        },
-        "https://idp-ahakiinstitute.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Afya Na Haki (Ahaki)"
-        },
-        "https://idp-allsaintsociba.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "All Saints SS Ociba"
-        },
-        "https://idp-apalass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Apala SS"
-        },
-        "https://idp-aromovoc.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Aromo vocational secondary school"
-        },
-        "https://idp-aru.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "African Rural University"
-        },
-        "https://idp-aruapublic.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Arua Public School"
-        },
-        "https://idp-aruass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Arua ss"
-        },
-        "https://idp-atiiraseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "ATIIRA SEED SECONDARY SCHOOL"
-        },
-        "https://idp-atyakseedss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Atyak Seed Secondary School"
-        },
         "https://idp-auth.sun.ac.ug/idp/shibboleth": {
             "en": "Soroti University"
         },
-        "https://idp-bagezzaseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bagezza seed sec sch"
-        },
-        "https://idp-bakyengavoc.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bakyenga Vocational School"
-        },
-        "https://idp-baylor-uganda.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Baylor Uganda"
-        },
-        "https://idp-bcsd.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bwaise Comprehensive Secondary School"
-        },
-        "https://idp-bethanylandinstitute.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bethany Land Institute (BLI)"
-        },
-        "https://idp-bihanga.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "BIHANGA COMMUNITY SS"
-        },
-        "https://idp-bihangass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bihanga Secondary School"
-        },
-        "https://idp-bishopgirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bishop Girls Secondary School"
-        },
-        "https://idp-bishopss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bishop SS"
-        },
-        "https://idp-bishopwilligers.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bishop Willigers SS"
-        },
-        "https://idp-blessedparents.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Blessed Parents Vocational SS"
-        },
-        "https://idp-blessedseedss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Blessed Seed Secondary School"
-        },
-        "https://idp-bnfc.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Busujja New Friends Circle"
-        },
-        "https://idp-bomboarmyss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bombo Army Secondary School"
-        },
-        "https://idp-bugambi.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bugambi Secondary School"
-        },
-        "https://idp-bukalasaagriccollege.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bukalasa Agricultural College"
-        },
-        "https://idp-bukandulamixedss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bukandula Mixed Secondary School"
-        },
-        "https://idp-bukhaluseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bukhalu Seed Secondary School"
-        },
-        "https://idp-bukoolicollege.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bukooli College"
-        },
-        "https://idp-bulindiss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bulindi Integrated Secondary School"
-        },
-        "https://idp-buluchekess.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bulucheke Secondary School"
-        },
-        "https://idp-bulunguliseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Bulunguli Seed SS"
-        },
-        "https://idp-busiass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Busia ss"
-        },
-        "https://idp-busuulwamemorial.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Busuulwa Memorial SS"
-        },
-        "https://idp-butare.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "BUTARE SS"
-        },
-        "https://idp-buwamboseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Buwambo Seed Secondary School"
-        },
-        "https://idp-bwongyeragirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "BWONGYERA GIRLS SECONDARY SCHOOL"
-        },
-        "https://idp-candlelighthigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Candle Light High School"
-        },
-        "https://idp-centenarycollege.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Centenary Community College"
-        },
-        "https://idp-chawente.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Chawente secondary school"
-        },
-        "https://idp-comboniburungira.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "COMBONI S.S BURUNGIRA"
-        },
-        "https://idp-comprehensivehigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Comprehensive high school mubende"
-        },
-        "https://idp-cornerstoneschoolsafrica.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Cornerstone schools (Ekitangala and Leadership academy)"
-        },
-        "https://idp-cureinternational.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Cure International Organization"
-        },
-        "https://idp-cyberschooltech.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Cyber School Technology Solutions (CSTS)"
-        },
-        "https://idp-dakabelass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Dakabela Comprehensive Secondary School"
-        },
-        "https://idp-drflorermemorial.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Dr. Florer Memorial College Kaliro"
-        },
-        "https://idp-duhaga.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Duhaga School"
-        },
-        "https://idp-dzaipiss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Dzaipi Secondary School"
-        },
-        "https://idp-ebenezerschools.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ebenezer Schools"
-        },
-        "https://idp-ediofegirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ediofe Girls"
-        },
-        "https://idp-education.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ministry of Education and Sports"
-        },
-        "https://idp-francisayume.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Francis Ayume Memorial School Koboko"
-        },
-        "https://idp-fredhutch.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Hutchinson Central Research Institute - Uganda."
-        },
-        "https://idp-gayazahs.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Gayaza HS"
-        },
-        "https://idp-gchs.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Gulu College of health sciences"
-        },
-        "https://idp-godmarkhighschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Godmark High School"
-        },
-        "https://idp-gokoseedss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Gokoseeds Secondary School"
-        },
-        "https://idp-gombess.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Gombe Secondary School"
-        },
-        "https://idp-greenhillacademy.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Green Hill Academy"
-        },
-        "https://idp-guluarmyss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Gulu army ss"
-        },
-        "https://idp-guluhigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Gulu High School"
-        },
-        "https://idp-healingwayafrica.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Healing Way Africa"
-        },
-        "https://idp-hispuganda.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Health Information Systems Program"
-        },
-        "https://idp-hopechristianhigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Hope Christian High"
-        },
-        "https://idp-icrw.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "International Center for Research on Women"
-        },
-        "https://idp-igangahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Iganga High"
-        },
-        "https://idp-igangass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Iganga SS"
-        },
-        "https://idp-iguka.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Ignatius University (IGUKA)"
-        },
-        "https://idp-ikweragirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ikwera girls SS"
-        },
-        "https://idp-ishakaadventist.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ishaka Adventist School"
-        },
-        "https://idp-jhpiego.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Jhpiego"
-        },
-        "https://idp-jinjacollege.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Jinja College"
-        },
-        "https://idp-jinjass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Jinja SS"
-        },
-        "https://idp-joginsa.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Joseph Girls' School Nsambya"
-        },
-        "https://idp-kabaalesanjesss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kabaale Sanje SSS"
-        },
-        "https://idp-kabaless.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kabale SS"
-        },
-        "https://idp-kabezi.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "KABEZI SECONDARY SCHOOL"
-        },
-        "https://idp-kabulubuluss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kabulubulu Secondary School"
-        },
-        "https://idp-kaggulwess.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kaggulwe Secondary School"
-        },
-        "https://idp-kagungaseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kagunga Seed SS"
-        },
-        "https://idp-kagwaraseedss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kagwara Seed Secondary School"
-        },
-        "https://idp-kakoss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kako SS"
-        },
-        "https://idp-kamerukaseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kameruka Seed SS"
-        },
-        "https://idp-kamuligirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kamuli Girls Secondary School"
-        },
-        "https://idp-kanoniss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kanoni Secondary School"
-        },
-        "https://idp-kansangaseedsecschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kansanga Seed Secondary School"
-        },
-        "https://idp-kapeekass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kapeeka Secondary School"
-        },
-        "https://idp-kapekeseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kapeke Seed SS"
-        },
-        "https://idp-karunguseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "KARUNGU SEED SS"
-        },
-        "https://idp-kasanavoc.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kasana Vocational School"
-        },
-        "https://idp-kasawoss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kasawo Secondary School"
-        },
-        "https://idp-kasenyi.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kasenyi ss"
-        },
-        "https://idp-kasesesecondaryschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kasese  Secondary School"
-        },
-        "https://idp-kazops.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kazo Primary school"
-        },
-        "https://idp-kcb.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "King's College Budo"
-        },
-        "https://idp-kcu.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "King Ceasor University"
-        },
-        "https://idp-kibaaless.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kibaale Secondary School"
-        },
-        "https://idp-kibogaparents.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kiboga parents secondary school"
-        },
-        "https://idp-kibuliss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kibuli SS"
-        },
-        "https://idp-kidokoss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kidoko  Secondary School"
-        },
-        "https://idp-kigezihigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kigezi High School"
-        },
-        "https://idp-kiiracollegebutiki.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kiira college Butiki"
-        },
-        "https://idp-kiiramotors.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kiira Motors Corporation"
-        },
-        "https://idp-kingsolomonss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "King Solomon's College"
-        },
-        "https://idp-kinyogogaseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kinyogoga Seed SS"
-        },
-        "https://idp-kisowerass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kisowera Secondary School"
-        },
-        "https://idp-kisubischools.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kisubi Schools"
-        },
-        "https://idp-kitabiseminary.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kitabi seminary Bushenyi"
-        },
-        "https://idp-kitantehillschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kitante Hill School"
-        },
-        "https://idp-kitebiss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kitebi SS"
-        },
-        "https://idp-kiyangavoc.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "KIYANGA VOCATIONAL SECONDARY SCHOOL"
-        },
-        "https://idp-kiyuni.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kiyuni ss"
-        },
-        "https://idp-kiyuya.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kiyuya Seed Secondary School"
-        },
-        "https://idp-kizibahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kiziba High School"
-        },
-        "https://idp-kobwinseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kobwin Seed Secondary School"
-        },
-        "https://idp-kongungahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kongunga High"
-        },
-        "https://idp-koross.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Koro senior secondary school"
-        },
-        "https://idp-kworus.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kworus Secondary School"
-        },
-        "https://idp-kyambogocollege.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kyambogo College"
-        },
-        "https://idp-kyarusoziss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kyarusosi Secondary School"
-        },
-        "https://idp-kyeizoobagirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kyeizoba Girls Secondary School"
-        },
-        "https://idp-kyetumesnm.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kyetume School of nursing and Midwifery"
-        },
-        "https://idp-kyoteracentralss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Kyotera Central"
-        },
-        "https://idp-lakealbertsda.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Lake Albert SDA SS"
-        },
-        "https://idp-langocollege.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Lango College"
-        },
-        "https://idp-leforiseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Lefori Seed SS"
-        },
-        "https://idp-liratowncollege.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Lira Town College"
-        },
-        "https://idp-lokopiohilltech.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Lokopio Hills Technical Institute"
-        },
-        "https://idp-lolics.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Light of Life"
-        },
-        "https://idp-lubirihighbuloba.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Lubiri High School Buloba"
-        },
-        "https://idp-lukoleseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Lukole Seed Secondary School"
-        },
-        "https://idp-luzirasecondaryschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Luzira Secondary School"
-        },
-        "https://idp-lyantondekasambya.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Lyantonde SS Kasambya"
-        },
-        "https://idp-mackaymemorial.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Mackay Memorial College Nateete"
-        },
-        "https://idp-mahangoseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mahango Seed SS"
-        },
-        "https://idp-makererecollege.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Makerere College School (MACOS)"
-        },
-        "https://idp-mambaseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mamba Seed secondary school"
-        },
-        "https://idp-mamita.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mamita technical and business management institute"
-        },
-        "https://idp-manjasihs.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Manjasi High School"
-        },
-        "https://idp-mariamhigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mariam High School"
-        },
-        "https://idp-maryhillug.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Maryhill High School"
-        },
-        "https://idp-masakasec.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Masaka Secondary School"
-        },
-        "https://idp-masindiss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Masindi Secondary School"
-        },
-        "https://idp-mbalecos.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mbale school of clinical officers"
-        },
-        "https://idp-mbalehighschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mbale High School"
-        },
-        "https://idp-mbaleschoolofhygiene.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "School of Hygiene, Mbale"
-        },
-        "https://idp-mbaless.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mbale Secondary School"
-        },
-        "https://idp-mbararahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mbarara High"
-        },
-        "https://idp-mbiriiziseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mbiriizi Seed Secondary School"
-        },
-        "https://idp-mbti.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mengo Technical and Business Institute"
-        },
-        "https://idp-mengoss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mengo SS"
-        },
-        "https://idp-merrylandhighschools.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Merryland High School Kigungu Campus"
-        },
-        "https://idp-mihs.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mildmay Institute of Health Sciences"
-        },
-        "https://idp-miu.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Metropolitan International University"
-        },
-        "https://idp-motherwell.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Motherwell Junior School"
-        },
-        "https://idp-moyostarhigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Moyo Star High School"
-        },
-        "https://idp-mpangass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mpanga Secondary School"
-        },
-        "https://idp-mpumuddess.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mpumudde Secondary School"
-        },
-        "https://idp-mpungwess.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mpungwe Secondary School"
-        },
-        "https://idp-mstjuniorschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "MST Junior School"
-        },
-        "https://idp-mukisafoundation.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mukisa Foundation"
-        },
-        "https://idp-mumsahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mumsa high school mityana"
-        },
-        "https://idp-muni.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Muni University"
-        },
-        "https://idp-munigirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Muni girls"
-        },
-        "https://idp-musiitwaseedss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Musiitwa Seed S.S"
-        },
-        "https://idp-musph.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Makerere University School of Public Health"
-        },
-        "https://idp-muzzahs.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Muzza High School"
-        },
-        "https://idp-mwengurass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mwengura Secondary School"
-        },
-        "https://idp-mwiri.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Busoga College Mwiri"
-        },
-        "https://idp-naalya-schools.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Naalya Secondary School Lugazi"
-        },
-        "https://idp-nabisunsagirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nabisunsa Girls School"
-        },
-        "https://idp-nabumalihs.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nabumali High school"
-        },
-        "https://idp-nakanyonyiss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nakanyonyi Secondary School"
-        },
-        "https://idp-nakasekeptc.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nakaseke Community Polytechnic"
-        },
-        "https://idp-nakaseketi.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nakaseke Technical Institute"
-        },
-        "https://idp-nakawavtc.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nakawa Vocational Training College"
-        },
-        "https://idp-nalinyagirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nalinya Girls Secondary School"
-        },
-        "https://idp-nalinyaireness.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nalinya Irene Secondary School"
-        },
-        "https://idp-namagabisss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Namagabi Secondary School"
-        },
-        "https://idp-namakwass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Namakwa Secondary School"
-        },
-        "https://idp-namugangass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Namuganga Secondary School"
-        },
-        "https://idp-namulongecou.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Namulonge C.O.U ss"
-        },
-        "https://idp-naro.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "National Agricultural Research Organisation (NARO)"
-        },
-        "https://idp-nawanyingiss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nawanyingi Seed Secondary School"
-        },
-        "https://idp-nda.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "National Drug Authority (NDA)"
-        },
-        "https://idp-ndagwesss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ndagwe Secondary School"
-        },
-        "https://idp-ndeebass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ndeeba Secondary School"
-        },
-        "https://idp-ndejjesss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ndejje SS"
-        },
-        "https://idp-ndejjevoc.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ndejje Vocational Secondary School"
-        },
-        "https://idp-ngaboacademy.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ngabo Academy"
-        },
-        "https://idp-ngoragirlsss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ngora Girls Secondary School"
-        },
-        "https://idp-ngorahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "NGORA HIGH SCHOOL"
-        },
-        "https://idp-nicabilonino.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "National Instructors' College - Abilonino"
-        },
-        "https://idp-niu.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nexus International University"
-        },
-        "https://idp-ntungamoghs.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ntungamo Girls High School"
-        },
-        "https://idp-nyakabangass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nyakabango Secondary School"
-        },
-        "https://idp-nyakaglobal.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nyaka AIDS Orphans Project"
-        },
-        "https://idp-nyamirembe.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "NYAMIREMBE SECONDARY SCHOOL"
-        },
-        "https://idp-nyangahya.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Nyangahya Community Ss"
-        },
-        "https://idp-ocociagirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "OCOCIA GIRLS SECONDARY SCHOOL"
-        },
-        "https://idp-ogorseed.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ogor Seed SS"
-        },
-        "https://idp-okapelhighschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Okapel High School"
-        },
-        "https://idp-oldkampalass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Old Kampala Secondary Scool"
-        },
-        "https://idp-ombaci.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Josephs College Ombaci"
-        },
-        "https://idp-otuboiss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Otuboi Comprehensive SS"
-        },
-        "https://idp-otukess.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Otuke Secondary School"
-        },
-        "https://idp-ourladygayaza.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Our Lady Gayaza of Good Counsel School"
-        },
-        "https://idp-ourladyofafricaschools.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Our Lady of Africa Namilyango"
-        },
-        "https://idp-palisass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Palisa Secondary School"
-        },
-        "https://idp-paramedicalinstitute.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Paramedical Institute"
-        },
-        "https://idp-pilkingtonmuguluka.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Pilkongton college Muguluka"
-        },
-        "https://idp-plustwohighschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Plus Two High School"
-        },
-        "https://idp-pmmgirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "PMM Girls"
-        },
-        "https://idp-primacy.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Primacy Academy"
-        },
-        "https://idp-rae.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Research and Education Agency"
-        },
-        "https://idp-rhspregion.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Regional Rakai Health Services Program"
-        },
-        "https://idp-righttoplay.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Right to Play"
-        },
-        "https://idp-rubonass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Rubona SS"
-        },
-        "https://idp-ruforum.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Regional Universities Forum for Capacity Building in Agriculture"
-        },
-        "https://idp-rugandocollege.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Rugando College"
-        },
-        "https://idp-ruhindass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ruhinda Secondary School"
-        },
-        "https://idp-rush.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ruyonza School"
-        },
-        "https://idp-rwebikomass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Rwebikoma Secondary School"
-        },
         "https://idp-rwebikomass.renu.ac.ug/idp/shibboleth": {
             "en": "Rwemikoma Secondary School"
-        },
-        "https://idp-rweikiniro.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "RWEIKINIRO SECONDARY SCHOOL"
-        },
-        "https://idp-rwohoss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Rwoho Secondary School"
-        },
-        "https://idp-sangass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "SANGA SS"
-        },
-        "https://idp-seetacoll.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Seeta College"
-        },
-        "https://idp-seetahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Seeta High"
-        },
-        "https://idp-sehico.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Seeta Hill College Mukono (SEHICO)"
-        },
-        "https://idp-sesemegirlsss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Seseme Girls SS"
-        },
-        "https://idp-sonams.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Mukono Diocese School of Nursing and Midwifery"
-        },
-        "https://idp-springingstars.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Springing Stars Nursery and Junior School"
-        },
-        "https://idp-stagnesgirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Agnes Girl's School"
-        },
-        "https://idp-standrewkaggwass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Andrew Kaggwa SS"
-        },
-        "https://idp-standrews.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "ST.ANDREW'S ACADEMY"
-        },
-        "https://idp-stanthonykyazanga.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Anthony SS Kyazanga"
-        },
-        "https://idp-stcharlesbukerere.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Charles Lwanga Bukerere"
-        },
-        "https://idp-stdenisggaba.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Denis Secondary School Ggaba"
-        },
-        "https://idp-stdeniskijaguzo.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Denis Kijaguzo Secondary School"
-        },
-        "https://idp-stgonzagakagoma.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Saint Gonzaga Secondary school Kagoma"
-        },
-        "https://idp-sthenryskitovu.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Henrys College Kitovu"
-        },
-        "https://idp-stjohnslyantonde.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St John's Comprehensive Secondary School"
-        },
-        "https://idp-stjoseph-naggalama.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Joseph's Girls Naggalama"
-        },
-        "https://idp-stjosephlayibi.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Joseph Layibi"
-        },
-        "https://idp-stjosephskanaawa.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "ST.JOSEPH'S KANAAWA"
-        },
-        "https://idp-stjosephskasambya.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St.Josephs SS Kasambya"
-        },
-        "https://idp-stkagwabhs.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Kaggwa High School Bushenyi"
-        },
-        "https://idp-stkalaolimulajje.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Kizito Kalooli Mulajje Secondary School"
-        },
-        "https://idp-stleocoll.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Leo College"
-        },
-        "https://idp-stmarknaminya.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Mark Secondary school Naminya"
-        },
-        "https://idp-stmarknursing.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Mark Nursing School Ibanda"
-        },
-        "https://idp-stmarkskammengo.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Mark's SS Kammengo"
-        },
-        "https://idp-stmaryscollegelacor.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Mary's College Lacor"
-        },
-        "https://idp-stmarysrushoroza.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Mary's Rushoroza Secondary School"
-        },
-        "https://idp-stmathiaskalembass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Mathias Kalemba Secondary School"
-        },
-        "https://idp-stmatiamulumba.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Matia mulumba ss Mirembe Maria"
-        },
-        "https://idp-stmichaelhighschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Micheal High School - Ssonde"
-        },
-        "https://idp-stmugaggass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Mugagga Secondary School"
-        },
-        "https://idp-stpaulkazindiro.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Paul Kazindiro"
-        },
-        "https://idp-stpaulocheross.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Paul's College Ochero"
-        },
-        "https://idp-stpeterandpaul.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Peter and Paul Seminary"
-        },
-        "https://idp-stpetersbusubuzi.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St. Peter's ss busubuzi"
-        },
-        "https://idp-stphillipsnawaikoke.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St Phillips Nawaikoke College"
-        },
-        "https://idp-stthomasgirls.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "St.Thomas Girls SS"
-        },
-        "https://idp-sweswe-btvet.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "SWESWE-BTVET"
-        },
-        "https://idp-tasouganda.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "TASO"
-        },
-        "https://idp-teamuniversity.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Team University"
-        },
-        "https://idp-tmcg.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "TMCG"
-        },
-        "https://idp-tororogirlsschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Tororo girls schools"
-        },
-        "https://idp-ttamumoslim.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Ttamu Moslim secondary school"
-        },
-        "https://idp-uci.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Uganda Cancer Institue"
-        },
-        "https://idp-ugandamartyrkayungass.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Uganda Martyrs Kayunga Secondary School"
-        },
-        "https://idp-ugandamartyrsvocss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Uganda Martyrs Vocational Secondary School"
-        },
-        "https://idp-uhpab.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Uganda Health Profession Assessment Board"
-        },
-        "https://idp-uiahms.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Uganda Institute of Allied Health and Management Sciences (UIAHMS)"
-        },
-        "https://idp-ums.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Uganda Martyrs Seminary Namugongo"
-        },
-        "https://idp-unche.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Uganda National Council for Higher Education"
-        },
-        "https://idp-uneb.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Uganda National Examinations Board"
-        },
-        "https://idp-upu.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Uganda Pentecostal University"
-        },
-        "https://idp-utamu.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "UTAMU"
-        },
-        "https://idp-utcelgon.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Uganda Technical College Elgon"
-        },
-        "https://idp-uvcf.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Uganda Vice Chancellors Forum"
-        },
-        "https://idp-victoriahigh.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Victoria High School Iganga"
-        },
-        "https://idp-walimu.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "World Alliance for Lung and Intensive Care Medicine in Uganda (WALIMU)"
-        },
-        "https://idp-wampeewontakkeschool.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Wampeewo Ntake Secondary School"
-        },
-        "https://idp-wanyangegirlsss.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Wanyange Girls Secondary School"
-        },
-        "https://idp-wellstar.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "WellStar Bright SS Mukono"
-        },
-        "https://idp-windle.renu.ac.ug/Saml2IDP/proxy.xml": {
-            "en": "Windle International Organization"
         },
         "https://idp.bsu.ac.ug/idp/shibboleth": {
             "en": "Bishop Stuart University"
@@ -19166,11 +18198,941 @@
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "RENU SSO IDP"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtM3Jzcw==": {
+            "en": "3RS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtY29tYm9uaWJ1cnVuZ2lyYQ==": {
+            "en": "COMBONI S.S BURUNGIRA"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtY29tcHJlaGVuc2l2ZWhpZ2g=": {
+            "en": "Comprehensive high school mubende"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtY29ybmVyc3RvbmVzY2hvb2xzYWZyaWNh": {
+            "en": "Cornerstone schools (Ekitangala and Leadership academy)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtY2FuZGxlbGlnaHRoaWdo": {
+            "en": "Candle Light High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtY2VudGVuYXJ5Y29sbGVnZQ==": {
+            "en": "Centenary Community College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtY2hhd2VudGU=": {
+            "en": "Chawente secondary school"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtY3VyZWludGVybmF0aW9uYWw=": {
+            "en": "Cure International Organization"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtY3liZXJzY2hvb2x0ZWNo": {
+            "en": "Cyber School Technology Solutions (CSTS)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYW11Z3Vzcw==": {
+            "en": "Amugu Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYWZyaWNhbmNoaWxkcmVuc2Nob2ly": {
+            "en": "Empower International Academy"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYWZyaWNoaWxk": {
+            "en": "African Child Trust"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYWZydQ==": {
+            "en": "African Renewal University"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYWhha2lpbnN0aXR1dGU=": {
+            "en": "Afya Na Haki (Ahaki)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYWxsc2FpbnRzb2NpYmE=": {
+            "en": "All Saints SS Ociba"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYXBhbGFzcw==": {
+            "en": "Apala SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYXJ1": {
+            "en": "African Rural University"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYXJ1YXB1YmxpYw==": {
+            "en": "Arua Public School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYXJ1YXNz": {
+            "en": "Arua SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYXJvbW92b2M=": {
+            "en": "Aromo vocational secondary school"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYXR5YWtzZWVkc3M=": {
+            "en": "Atyak Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYXRpaXJhc2VlZA==": {
+            "en": "ATIIRA SEED SECONDARY SCHOOL"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYm5mYw==": {
+            "en": "Busujja New Friends Circle"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYm9tYm9hcm15c3M=": {
+            "en": "Bombo Army Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmF5bG9yLXVnYW5kYQ==": {
+            "en": "Baylor Uganda"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmFnZXp6YXNlZWQ=": {
+            "en": "Bagezza seed sec sch"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmFreWVuZ2F2b2M=": {
+            "en": "Bakyenga Vocational School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmNzZA==": {
+            "en": "Bwaise Comprehensive Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmV0aGFueWxhbmRpbnN0aXR1dGU=": {
+            "en": "Bethany Land Institute (BLI)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmloYW5nYQ==": {
+            "en": "Bihanga Community SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmloYW5nYXNz": {
+            "en": "Bihanga Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmlzaG9wZ2lybHM=": {
+            "en": "Bishop Girls Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmlzaG9wc3M=": {
+            "en": "Bishop SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmlzaG9wcm9iZXJ0c3M=": {
+            "en": "Bishop Robert SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmlzaG9wd2lsbGlnZXJz": {
+            "en": "Bishop Willigers SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmxlc3NlZHBhcmVudHM=": {
+            "en": "Blessed Parents Vocational SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmxlc3NlZHNlZWRzcw==": {
+            "en": "Blessed Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnV0YXJl": {
+            "en": "BUTARE SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnV3YW1ib3NlZWQ=": {
+            "en": "Buwambo Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnVnYW1iaQ==": {
+            "en": "Bugambi Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnVrYW5kdWxhbWl4ZWRzcw==": {
+            "en": "Bukandula Mixed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnVrYWxhc2FhZ3JpY2NvbGxlZ2U=": {
+            "en": "Bukalasa Agricultural College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnVraGFsdXNlZWQ=": {
+            "en": "Bukhalu Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnVrb29saWNvbGxlZ2U=": {
+            "en": "Bukooli College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnVsaW5kaXNz": {
+            "en": "Bulindi Integrated Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnVsdW5ndWxpc2VlZA==": {
+            "en": "Bulunguli Seed SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnVsdWNoZWtlc3M=": {
+            "en": "Bulucheke Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnVzaWFzcw==": {
+            "en": "Busia ss"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYnVzdXVsd2FtZW1vcmlhbA==": {
+            "en": "Busuulwa Memorial SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYndvbmd5ZXJhZ2lybHM=": {
+            "en": "BWONGYERA GIRLS SECONDARY SCHOOL"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZ29kbWFya2hpZ2hzY2hvb2w=": {
+            "en": "Godmark High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZ29rb3NlZWRzcw==": {
+            "en": "Gokoseeds Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZ29tYmVzcw==": {
+            "en": "Gombe Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZ2F5YXphaHM=": {
+            "en": "Gayaza HS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZ2Nocw==": {
+            "en": "Gulu College of Health Sciences"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZ3JlZW5oaWxsYWNhZGVteQ==": {
+            "en": "Green Hill Academy"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZ3VsdWFybXlzcw==": {
+            "en": "Gulu army ss"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZ3VsdWhpZ2g=": {
+            "en": "Gulu High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZGFrYWJlbGFzcw==": {
+            "en": "Dakabela Comprehensive Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZHJmbG9yZXJtZW1vcmlhbA==": {
+            "en": "Dr. Florer Memorial College Kaliro"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZHVoYWdh": {
+            "en": "Duhaga School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZHphaXBpc3M=": {
+            "en": "Dzaipi Secondary School"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZW50ZWJiZXNz": {
             "en": "Entebbe Secondary School"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZWJlbmV6ZXJzY2hvb2xz": {
+            "en": "Ebenezer Schools"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZWR1Y2F0aW9u": {
+            "en": "Ministry of Education and Sports"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZWRpb2ZlZ2lybHM=": {
+            "en": "Ediofe Girls"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZmF0aW1hYWxvaWdpcmxz": {
+            "en": "Fatima Aloi Comprehensive Girls SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZnJhbmNpc2F5dW1l": {
+            "en": "Francis Ayume Memorial School Koboko"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZnJlZGh1dGNo": {
+            "en": "Hutchinson Central Research Institute - Uganda."
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtZnRp": {
+            "en": "Fisheries Training Institute"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta29id2luc2VlZA==": {
+            "en": "Kobwin Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta29qamFzcw==": {
+            "en": "Kojja Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta29uZ3VuZ2FoaWdo": {
+            "en": "Kongunga High"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta29yb3Nz": {
+            "en": "Koro senior secondary school"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2F6b3Bz": {
+            "en": "Kazo Primary school"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FiYWFsZXNhbmplc3Nz": {
+            "en": "Kabaale Sanje SSS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FiYWxlc3M=": {
+            "en": "Kabale SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FiZXpp": {
+            "en": "KABEZI SECONDARY SCHOOL"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FidWx1YnVsdXNz": {
+            "en": "Kabulubulu Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FnZ3Vsd2Vzcw==": {
+            "en": "Kaggulwe Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2Fnd2FyYXNlZWRzcw==": {
+            "en": "Kagwara Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FndW5nYXNlZWQ=": {
+            "en": "Kagunga Seed SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2Frb3Nz": {
+            "en": "Kako SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FtYnVnYQ==": {
+            "en": "Kambuga Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FtZXJ1a2FzZWVk": {
+            "en": "Kameruka Seed SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FtdWxpZ2lybHM=": {
+            "en": "Kamuli Girls Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2Fub25pc3M=": {
+            "en": "Kanoni Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2Fuc2FuZ2FzZWVkc2Vjc2Nob29s": {
+            "en": "Kansanga Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FwZWVrYXNz": {
+            "en": "Kapeeka Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FwZWtlc2VlZA==": {
+            "en": "Kapeke Seed SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FydW5ndXNlZWQ=": {
+            "en": "KARUNGU SEED SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FzYW5hdm9j": {
+            "en": "Kasana Vocational School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FzYXdvc3M=": {
+            "en": "Kasawo Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FzZW55aQ==": {
+            "en": "Kasenyi ss"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FzZXNlc2Vjb25kYXJ5c2Nob29s": {
+            "en": "Kasese Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2N1": {
+            "en": "King Ceasor University"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2Ni": {
+            "en": "King's College Budo"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l0YW50ZWhpbGxzY2hvb2w=": {
+            "en": "Kitante Hill School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l0YWJpc2VtaW5hcnk=": {
+            "en": "Kitabi seminary Bushenyi"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l0ZWJpc3M=": {
+            "en": "Kitebi SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l5YW5nYXZvYw==": {
+            "en": "KIYANGA VOCATIONAL SECONDARY SCHOOL"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l5dW5p": {
+            "en": "Kiyuni ss"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l5dXlh": {
+            "en": "Kiyuya Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l6aWJhaGlnaA==": {
+            "en": "Kiziba High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2liYWFsZXNz": {
+            "en": "Kibaale Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lib2dhcGFyZW50cw==": {
+            "en": "Kiboga parents secondary school"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lidWxpc3M=": {
+            "en": "Kibuli SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lkb2tvc3M=": {
+            "en": "Kidoko Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lnZXppaGlnaA==": {
+            "en": "Kigezi High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lpcmFjb2xsZWdlYnV0aWtp": {
+            "en": "Kiira college Butiki"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lpcmFtb3RvcnM=": {
+            "en": "Kiira Motors Corporation"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lrb21la29zcw==": {
+            "en": "Kikomeko Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2luZ3NvbG9tb25zcw==": {
+            "en": "King Solomon's College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lueW9nb2dhc2VlZA==": {
+            "en": "Kinyogoga Seed SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lzYWFuYQ==": {
+            "en": "Kisaana Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lzb3dlcmFzcw==": {
+            "en": "Kisowera Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lzdWJpc2Nob29scw==": {
+            "en": "Kisubi Schools"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta3dvcnVz": {
+            "en": "Kworus Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta3lhbWJvZ29jb2xsZWdl": {
+            "en": "Kyambogo College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta3lhcnVzb3ppc3M=": {
+            "en": "Kyarusosi Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta3llaXpvb2JhZ2lybHM=": {
+            "en": "Kyeizoba Girls Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta3lldHVtZXNubQ==": {
+            "en": "Kyetume School of nursing and Midwifery"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta3lvdGVyYWNlbnRyYWxzcw==": {
+            "en": "Kyotera Central"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaG9wZWNocmlzdGlhbmhpZ2g=": {
+            "en": "Hope Christian High"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaGVhbGluZ3dheWFmcmljYQ==": {
+            "en": "Healing Way Africa"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaGlzcHVnYW5kYQ==": {
+            "en": "Health Information Systems Program"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaWNydw==": {
+            "en": "International Center for Research on Women"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaWd1a2E=": {
+            "en": "St. Ignatius University (IGUKA)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaWdhbmdhaGlnaA==": {
+            "en": "Iganga High"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaWdhbmdhc3M=": {
+            "en": "Iganga SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaWt3ZXJhZ2lybHM=": {
+            "en": "Ikwera girls SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaXNoYWthYWR2ZW50aXN0": {
+            "en": "Ishaka Adventist School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtam9naW5zYQ==": {
+            "en": "St Joseph Girls' School Nsambya"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtamhwaWVnbw==": {
+            "en": "Jhpiego"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtamluamFjb2xsZWdl": {
+            "en": "Jinja College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtamluamFzcw==": {
+            "en": "Jinja SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb21iYWNp": {
+            "en": "St Josephs College Ombaci"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb2NvY2lhZ2lybHM=": {
+            "en": "OCOCIA GIRLS SECONDARY SCHOOL"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb2dvcnNlZWQ=": {
+            "en": "Ogor Seed SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb2thcGVsaGlnaHNjaG9vbA==": {
+            "en": "Okapel High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb2xka2FtcGFsYXNz": {
+            "en": "Old Kampala Secondary Scool"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb3R1Ym9pc3M=": {
+            "en": "Otuboi Comprehensive SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb3R1a2Vzcw==": {
+            "en": "Otuke Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb3VybGFkeW9mYWZyaWNhc2Nob29scw==": {
+            "en": "Our Lady of Africa Namilyango"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb3VybGFkeWdheWF6YQ==": {
+            "en": "Our Lady Gayaza of Good Counsel School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbG9rb3Bpb2hpbGx0ZWNo": {
+            "en": "Lokopio Hills Technical Institute"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbG9saWNz": {
+            "en": "Light of Life"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbGFrZWFsYmVydHNkYQ==": {
+            "en": "Lake Albert SDA SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbGFuZ29jb2xsZWdl": {
+            "en": "Lango College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbGVmb3Jpc2VlZA==": {
+            "en": "Lefori Seed SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbGl2aW5nc3RvbmU=": {
+            "en": "Livingstone University"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbGlyYXRvd25jb2xsZWdl": {
+            "en": "Lira Town College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbHV6aXJhc2Vjb25kYXJ5c2Nob29s": {
+            "en": "Luzira Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbHViaXJpaGlnaGJ1bG9iYQ==": {
+            "en": "Lubiri High School Buloba"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbHVrb2xlc2VlZA==": {
+            "en": "Lukole Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbHlhbnRvbmRla2FzYW1ieWE=": {
+            "en": "Lyantonde SS Kasambya"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbW90aGVyd2VsbA==": {
+            "en": "Motherwell Junior School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbW95b3N0YXJoaWdo": {
+            "en": "Moyo Star High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWFja2F5bWVtb3JpYWw=": {
+            "en": "St Mackay Memorial College Nateete"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWFoYW5nb3NlZWQ=": {
+            "en": "Mahango Seed SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWFrZXJlcmVjb2xsZWdl": {
+            "en": "Makerere College School (MACOS)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWFtYmFzZWVk": {
+            "en": "Mamba Seed secondary school"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWFtaXRh": {
+            "en": "Mamita technical and business management institute"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWFuamFzaWhz": {
+            "en": "Manjasi High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWFyaWFtaGlnaA==": {
+            "en": "Mariam High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWFyeWhpbGx1Zw==": {
+            "en": "Maryhill High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWFzYWthc2Vj": {
+            "en": "Masaka Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWFzaW5kaXNz": {
+            "en": "Masindi Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWJ0aQ==": {
+            "en": "Mengo Technical and Business Institute"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWJhbGVjb3M=": {
+            "en": "Mbale school of clinical officers"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWJhbGVoaWdoc2Nob29s": {
+            "en": "Mbale High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWJhbGVzY2hvb2xvZmh5Z2llbmU=": {
+            "en": "School of Hygiene, Mbale"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWJhbGVzcw==": {
+            "en": "Mbale Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWJhcmFyYWhpZ2g=": {
+            "en": "Mbarara High"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWJpcmlpemlzZWVk": {
+            "en": "Mbiriizi Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWVuZ29zcw==": {
+            "en": "Mengo SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWVycnlsYW5kaGlnaHNjaG9vbHM=": {
+            "en": "Merryland High School Kigungu Campus"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWl0eWFuYXNz": {
+            "en": "Mityana Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWl1": {
+            "en": "Metropolitan International University"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbWlocw==": {
+            "en": "Mildmay Institute of Health Sciences"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXB1bXVkZGVzcw==": {
+            "en": "Mpumudde Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXB1bmd3ZXNz": {
+            "en": "Mpungwe Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXBhbmdhc3M=": {
+            "en": "Mpanga Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXN0anVuaW9yc2Nob29s": {
+            "en": "MST Junior School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXV6emFocw==": {
+            "en": "Muzza High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXVraXNhZm91bmRhdGlvbg==": {
+            "en": "Mukisa Foundation"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXVsdGl0ZWNo": {
             "en": "Multitech"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXVtc2FoaWdo": {
+            "en": "Mumsa high school mityana"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXVuaQ==": {
+            "en": "Muni University"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXVuaWdpcmxz": {
+            "en": "Muni girls"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXVzaWl0d2FzZWVkc3M=": {
+            "en": "Musiitwa Seed S.S"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXVzcGg=": {
+            "en": "Makerere University School of Public Health"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXdlbmd1cmFzcw==": {
+            "en": "Mwengura Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbXdpcmk=": {
+            "en": "Busoga College Mwiri"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmF3YW55aW5naXNz": {
+            "en": "Nawanyingi Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFhbHlhLXNjaG9vbHM=": {
+            "en": "Naalya Secondary School Lugazi"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFiaXN1bnNhZ2lybHM=": {
+            "en": "Nabisunsa Girls School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFidW1hbGlocw==": {
+            "en": "Nabumali High school"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFrYW55b255aXNz": {
+            "en": "Nakanyonyi Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFrYXNla2V0aQ==": {
+            "en": "Nakaseke Technical Institute"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFrYXNla2VwdGM=": {
+            "en": "Nakaseke Community Polytechnic"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFrYXdhdnRj": {
+            "en": "Nakawa Vocational Training College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFsaW55YWdpcmxz": {
+            "en": "Nalinya Girls Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFsaW55YWlyZW5lc3M=": {
+            "en": "Nalinya Irene Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFtYWdhYmlzc3M=": {
+            "en": "Namagabi Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFtYWt3YXNz": {
+            "en": "Namakwa Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFtdWdhbmdhc3M=": {
+            "en": "Namuganga Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFtdWxvbmdlY291": {
+            "en": "Namulonge C.O.U ss"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFybw==": {
+            "en": "National Agricultural Research Organisation (NARO)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmRh": {
+            "en": "National Drug Authority (NDA)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmRhZ3dlc3Nz": {
+            "en": "Ndagwe Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmRlZWJhc3M=": {
+            "en": "Ndeeba Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmRlamplc3Nz": {
+            "en": "Ndejje SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmRlampldm9j": {
+            "en": "Ndejje Vocational Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmdhYm9hY2FkZW15": {
+            "en": "Ngabo Academy"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmdvcmFnaXJsc3Nz": {
+            "en": "Ngora Girls Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmdvcmFoaWdo": {
+            "en": "NGORA HIGH SCHOOL"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbml1": {
+            "en": "Nexus International University"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmljYWJpbG9uaW5v": {
+            "en": "National Instructors' College - Abilonino"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbnR1bmdhbW9naHM=": {
+            "en": "Ntungamo Girls High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbnlha2FiYW5nYXNz": {
+            "en": "Nyakabango Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbnlha2FnbG9iYWw=": {
+            "en": "Nyaka AIDS Orphans Project"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbnlhaHVrYXNz": {
+            "en": "Nyahuka Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbnlhbWlyZW1iZQ==": {
+            "en": "NYAMIREMBE SECONDARY SCHOOL"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbnlhbmdhaHlh": {
+            "en": "Nyangahya Community Ss"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc29uYW1z": {
+            "en": "Mukono Diocese School of Nursing and Midwifery"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc2FuZ2Fzcw==": {
+            "en": "Sanga SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc2VldGFjb2xs": {
+            "en": "Seeta College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc2VldGFoaWdo": {
+            "en": "Seeta High"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc2VoaWNv": {
+            "en": "Seeta Hill College Mukono (SEHICO)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc2VzZW1lZ2lybHNzcw==": {
+            "en": "Seseme Girls SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3ByaW5naW5nc3RhcnM=": {
+            "en": "Springing Stars Nursery and Junior School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3R0aG9tYXNnaXJscw==": {
+            "en": "St.Thomas Girls SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RhZ25lc2dpcmxz": {
+            "en": "St. Agnes Girl's School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RhbG95c2l1c255YXBlYQ==": {
+            "en": "St Aloysius College Nyapea"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RhbmRyZXdrYWdnd2Fzcw==": {
+            "en": "St Andrew Kaggwa SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RhbmRyZXdz": {
+            "en": "ST. ANDREW'S ACADEMY"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RhbnRob255a3lhemFuZ2E=": {
+            "en": "St. Anthony SS Kyazanga"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RjaGFybGVzYnVrZXJlcmU=": {
+            "en": "St Charles Lwanga Bukerere"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RkZW5pc2dnYWJh": {
+            "en": "St. Denis Secondary School Ggaba"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RkZW5pc2tpamFndXpv": {
+            "en": "St Denis Kijaguzo Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3Rnb256YWdha2Fnb21h": {
+            "en": "Saint Gonzaga Secondary school Kagoma"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RoZW5yeXNraXRvdnU=": {
+            "en": "St Henrys College Kitovu"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3Rqb2huc2x5YW50b25kZQ==": {
+            "en": "St John's Comprehensive Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3Rqb3NlcGgtbmFnZ2FsYW1h": {
+            "en": "St. Joseph's Girls Naggalama"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3Rqb3NlcGhsYXlpYmk=": {
+            "en": "St Joseph Layibi"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3Rqb3NlcGhza2FzYW1ieWE=": {
+            "en": "St.Josephs SS Kasambya"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RrYWd3YWJocw==": {
+            "en": "St. Kaggwa High School Bushenyi"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RrYWxhb2xpbXVsYWpqZQ==": {
+            "en": "St. Kizito Kalooli Mulajje Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RsZW9jb2xs": {
+            "en": "St Leo College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtYXJ5c2NvbGxlZ2VraXN1Ymk=": {
+            "en": "St Marys College Kisubi"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtYXJ5c2NvbGxlZ2VsYWNvcg==": {
+            "en": "St Mary's College Lacor"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtYXJ5c3J1c2hvcm96YQ==": {
+            "en": "St. Mary's Rushoroza Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtYXJ5c3Nzbmtvemk=": {
+            "en": "St Marys SS Nkozi"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtYXJrbmFtaW55YQ==": {
+            "en": "St Mark Secondary school Naminya"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtYXJrbnVyc2luZw==": {
+            "en": "St Mark Nursing School Ibanda"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtYXJrc2thbW1lbmdv": {
+            "en": "St Mark's SS Kammengo"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtYXRoaWFza2FsZW1iYXNz": {
+            "en": "St. Mathias Kalemba Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtYXRpYW11bHVtYmE=": {
+            "en": "St. Matia mulumba ss Mirembe Maria"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtYmFhZ2FzZW1pbmFyeQ==": {
+            "en": "St. Mbaaga Major Seminary"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtaWNoYWVsaGlnaHNjaG9vbA==": {
+            "en": "St. Micheal High School - Ssonde"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RtdWdhZ2dhc3M=": {
+            "en": "St. Mugagga Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RwYXVsa2F6aW5kaXJv": {
+            "en": "St Paul Kazindiro"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RwYXVsb2NoZXJvc3M=": {
+            "en": "St. Paul's College Ochero"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RwZXRlcmFuZHBhdWw=": {
+            "en": "St Peter and Paul Seminary"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RwZXRlcnNidXN1YnV6aQ==": {
+            "en": "St. Peter's ss busubuzi"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RwaGlsbGlwc25hd2Fpa29rZQ==": {
+            "en": "St Phillips Nawaikoke College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3VucmlzZXNz": {
+            "en": "Sunrise Secondary School Nebbi"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3dlc3dlLWJ0dmV0": {
+            "en": "SWESWE-BTVET"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcG1tZ2lybHM=": {
+            "en": "PMM Girls"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcGFsaXNhc3M=": {
+            "en": "Palisa Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcGFyYW1lZGljYWxpbnN0aXR1dGU=": {
+            "en": "Paramedical Institute"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcGlsa2luZ3Rvbm11Z3VsdWth": {
+            "en": "Pilkongton college Muguluka"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcGx1c3R3b2hpZ2hzY2hvb2w=": {
+            "en": "Plus Two High School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcHJpbWFjeQ==": {
+            "en": "Primacy Academy"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcmF5c29mZ3JhY2U=": {
+            "en": "Rays of Grace Junior School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcmFl": {
+            "en": "Research and Education Agency"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcmhzcHJlZ2lvbg==": {
+            "en": "Regional Rakai Health Services Program"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcmlnaHR0b3BsYXk=": {
+            "en": "Right to Play"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcnVib25hc3M=": {
+            "en": "Rubona SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcnVmb3J1bQ==": {
+            "en": "Regional Universities Forum for Capacity Building in Agriculture"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcnVnYW5kb2NvbGxlZ2U=": {
+            "en": "Rugando College"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcnVoaW5kYXNz": {
+            "en": "Ruhinda Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcnVzaA==": {
+            "en": "Ruyonza School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcnVzaG9yb3phaG9zcGl0YWw=": {
+            "en": "Rushoroza Hospital"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcndlYmlrb21hc3M=": {
+            "en": "Rwebikoma Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcndlaWtpbmlybw==": {
+            "en": "RWEIKINIRO SECONDARY SCHOOL"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcndvaG9zcw==": {
+            "en": "Rwoho Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtd2FsaW11": {
+            "en": "World Alliance for Lung and Intensive Care Medicine in Uganda (WALIMU)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtd2FtcGVld29udGFra2VzY2hvb2w=": {
+            "en": "Wampeewo Ntake Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtd2FueWFuZ2VnaXJsc3Nz": {
+            "en": "Wanyange Girls Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtd2VsbHN0YXI=": {
+            "en": "WellStar Bright SS Mukono"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtd2luZGxl": {
+            "en": "Windle International Organization"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdG1jZw==": {
+            "en": "TMCG"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdG9yb3JvZ2lybHNzY2hvb2w=": {
+            "en": "Tororo girls schools"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdGFzb3VnYW5kYQ==": {
+            "en": "TASO"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdGVhbXVuaXZlcnNpdHk=": {
+            "en": "Team University"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdHRhbXVtb3NsaW0=": {
+            "en": "Ttamu Moslim secondary school"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdW1z": {
+            "en": "Uganda Martyrs Seminary Namugongo"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdW5jaGU=": {
+            "en": "Uganda National Council for Higher Education"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdW5lYg==": {
+            "en": "Uganda National Examinations Board"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdW5pdGU=": {
+            "en": "Uganda National Institute for Teacher Education (UNITE)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdWNp": {
+            "en": "Uganda Cancer Institue"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdWdhbmRhbWFydHlya2F5dW5nYXNz": {
+            "en": "Uganda Martyrs Kayunga Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdWdhbmRhbWFydHlyc3ZvY3Nz": {
+            "en": "Uganda Martyrs Vocational Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdWhwYWI=": {
+            "en": "Uganda Health Profession Assessment Board"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdWlhaG1z": {
+            "en": "Uganda Institute of Allied Health and Management Sciences (UIAHMS)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdXB1": {
+            "en": "Uganda Pentecostal University"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdXRhbXU=": {
+            "en": "UTAMU"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdXRjZWxnb24=": {
+            "en": "Uganda Technical College Elgon"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdXZjZg==": {
+            "en": "Uganda Vice Chancellors Forum"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtdmljdG9yaWFoaWdo": {
+            "en": "Victoria High School Iganga"
         },
         "https://sso.devops.renu.ac.ug/Saml2IDP/proxy.xml": {
             "en": "RENU SSO IDP"
