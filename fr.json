@@ -847,10 +847,6 @@
         "en": "CROUS Limoges V3",
         "fr": "CROUS Limoges V3"
     },
-    "https://idp2.crous-montpellier.fr/idp/shibboleth": {
-        "en": "CROUS Montpellier",
-        "fr": "CROUS Montpellier"
-    },
     "https://idp2.emse.fr/idp/shibboleth": {
         "en": "Mines Saint-Étienne - EMSE - IMT",
         "fr": "Mines Saint-Étienne - EMSE - IMT"
