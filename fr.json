@@ -59,10 +59,6 @@
         "en": "Corporate CROUS Creteil-Personnels V3",
         "fr": "CROUS Créteil-Personnels V3"
     },
-    "https://auth.crous-nice.fr/idp/shibboleth": {
-        "en": "CROUS Nice-Personnels V3",
-        "fr": "CROUS Nice-Personnels V3"
-    },
     "https://auth.crous-rennes.fr/idp/shibboleth": {
         "en": "CROUS Rennes V3",
         "fr": "CROUS Rennes V3"

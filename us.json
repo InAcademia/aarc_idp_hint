@@ -1161,7 +1161,7 @@
         "en": "Florida Atlantic University"
     },
     "https://sso.fgcu.edu/idp": {
-        "en": "Florida Gulf Coast University (Cirrus Bridge)"
+        "en": "Florida Gulf Coast University (SSO)"
     },
     "https://sso.floridapoly.edu/idp": {
         "en": "Florida Polytechnic University"
@@ -1379,7 +1379,7 @@
     "https://sso.yc.edu/idp": {
         "en": "Yavapai College"
     },
-    "https://sso2.wvu.edu/bridge": {
+    "https://sso2.wvu.edu": {
         "en": "Upcoming West Virginia University"
     },
     "https://ssofed.naz.edu/idp": {

@@ -968,10 +968,6 @@
             "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
             "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
         },
-        "https://cafe.apps.uern.br/idp/shibboleth": {
-            "en": "UERN - Universidade do Estado do Rio Grande do Norte",
-            "pt-br": "UERN - Universidade do Estado do Rio Grande do Norte"
-        },
         "https://cafe.cbpf.br/idp/shibboleth": {
             "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
             "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
@@ -1699,6 +1695,10 @@
         "https://idp.uerj.br/idp/shibboleth": {
             "en": "UERJ - Universidade do Estado do Rio de Janeiro",
             "pt-br": "UERJ - Universidade do Estado do Rio de Janeiro"
+        },
+        "https://idp.uern.br/idp/shibboleth": {
+            "en": "UERN - Universidade do Estado do Rio Grande do Norte",
+            "pt-br": "UERN - Universidade do Estado do Rio Grande do Norte"
         },
         "https://idp.uesc.br/idp/shibboleth": {
             "en": "UESC - Universidade Estadual de Santa Cruz",
@@ -4770,10 +4770,6 @@
         "https://idp.usx.edu.cn/idp/shibboleth": {
             "en": "Shaoxing University",
             "zh": "绍兴文理学院(Shaoxing University)"
-        },
-        "https://idp.utibet.edu.cn/idp/shibboleth": {
-            "en": "Xizang University",
-            "zh": "西藏大学(Xizang University)"
         },
         "https://idp.westlake.edu.cn/idp/shibboleth": {
             "en": "Westlake University",
@@ -9490,10 +9486,6 @@
             "en": "Corporate CROUS Creteil-Personnels V3",
             "fr": "CROUS Créteil-Personnels V3"
         },
-        "https://auth.crous-nice.fr/idp/shibboleth": {
-            "en": "CROUS Nice-Personnels V3",
-            "fr": "CROUS Nice-Personnels V3"
-        },
         "https://auth.crous-rennes.fr/idp/shibboleth": {
             "en": "CROUS Rennes V3",
             "fr": "CROUS Rennes V3"
@@ -11895,6 +11887,9 @@
         "https://idp.igntu.ac.in/idp/shibboleth": {
             "en": "Indira Gandhi National Tribal University"
         },
+        "https://idp.iiita.ac.in/idp/shibboleth": {
+            "en": "Indian Institute of Information Technology, Allahabad"
+        },
         "https://idp.iiitb.ac.in/idp/shibboleth": {
             "en": "International Institute of Information Technology Bangalore"
         },
@@ -12119,6 +12114,9 @@
         },
         "https://idp.lnmu.ac.in/idp/shibboleth": {
             "en": "Lalit Narayan Mithila University"
+        },
+        "https://idp.magadhuniversity.ac.in/idp/shibboleth": {
+            "en": "Magadh University"
         },
         "https://idp.mahindrauniversity.edu.in/idp/shibboleth": {
             "en": "Mahindra University"
@@ -19023,6 +19021,9 @@
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3Rqb3NlcGhsYXlpYmk=": {
             "en": "St Joseph Layibi"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3Rqb3NlcGhza2FuYWF3YQ==": {
+            "en": "St. Joseph's Kanaawa"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3Rqb3NlcGhza2FzYW1ieWE=": {
             "en": "St.Josephs SS Kasambya"
         },
@@ -22121,7 +22122,7 @@
             "en": "Florida Atlantic University"
         },
         "https://sso.fgcu.edu/idp": {
-            "en": "Florida Gulf Coast University (Cirrus Bridge)"
+            "en": "Florida Gulf Coast University (SSO)"
         },
         "https://sso.floridapoly.edu/idp": {
             "en": "Florida Polytechnic University"
@@ -22339,7 +22340,7 @@
         "https://sso.yc.edu/idp": {
             "en": "Yavapai College"
         },
-        "https://sso2.wvu.edu/bridge": {
+        "https://sso2.wvu.edu": {
             "en": "Upcoming West Virginia University"
         },
         "https://ssofed.naz.edu/idp": {

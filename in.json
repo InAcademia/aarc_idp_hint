@@ -281,6 +281,9 @@
     "https://idp.igntu.ac.in/idp/shibboleth": {
         "en": "Indira Gandhi National Tribal University"
     },
+    "https://idp.iiita.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Information Technology, Allahabad"
+    },
     "https://idp.iiitb.ac.in/idp/shibboleth": {
         "en": "International Institute of Information Technology Bangalore"
     },
@@ -505,6 +508,9 @@
     },
     "https://idp.lnmu.ac.in/idp/shibboleth": {
         "en": "Lalit Narayan Mithila University"
+    },
+    "https://idp.magadhuniversity.ac.in/idp/shibboleth": {
+        "en": "Magadh University"
     },
     "https://idp.mahindrauniversity.edu.in/idp/shibboleth": {
         "en": "Mahindra University"
