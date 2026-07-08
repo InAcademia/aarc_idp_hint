@@ -1780,6 +1780,10 @@
             "en": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
             "pt-br": "UNIJUI - Universidade Regional do Noroeste do Estado do Rio Grande do Sul"
         },
+        "https://idp.unimar.br/idp/shibboleth": {
+            "en": "UNIMAR - Universidade de Marilia",
+            "pt-br": "UNIMAR - Universidade de Marilia"
+        },
         "https://idp.uninta.edu.br/idp/shibboleth": {
             "en": "UNINTA - Centro Universitario INTA",
             "pt-br": "UNINTA - Centro Universitario INTA"
