@@ -12,7 +12,7 @@
     "https://idp.llu.lv/idp/shibboleth": {
         "en": "Latvia University of Agriculture"
     },
-    "https://idp.rtu.lv": {
+    "https://idp.rtu.lvHSi": {
         "en": "Riga Technical University (Office 365)"
     },
     "https://liepu-idp.lanet.lv": {
@@ -26,9 +26,6 @@
     },
     "https://lma-idp.lanet.lv": {
         "en": "Art Academy of Latvia"
-    },
-    "https://lmuza-idp.lanet.lv": {
-        "en": "Latvian Academy of Music"
     },
     "https://lnna-idp.lanet.lv": {
         "en": "National Defence Academy of Latvia"

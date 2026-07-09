@@ -9,7 +9,7 @@
         "en": "PPD"
     },
     "http://adfs.sdstate.edu/adfs/services/trust": {
-        "en": "South Dakota State University-New"
+        "en": "South Dakota State University"
     },
     "http://adfs.sso.passhe.edu/adfs/services/trust": {
         "en": "PA State System of Higher Education"
@@ -1379,7 +1379,7 @@
     "https://sso.yc.edu/idp": {
         "en": "Yavapai College"
     },
-    "https://sso2.wvu.edu": {
+    "https://sso2.wvu.edu/idp": {
         "en": "Upcoming West Virginia University"
     },
     "https://ssofed.naz.edu/idp": {
