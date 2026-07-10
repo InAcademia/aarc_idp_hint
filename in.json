@@ -158,6 +158,9 @@
     "https://idp.caluniv.ac.in/idp/shibboleth": {
         "en": "University of Calcutta"
     },
+    "https://idp.ccrum.res.in/idp/shibboleth": {
+        "en": "Central Council for Research in Unani Medicine"
+    },
     "https://idp.cept.ac.in/idp/shibboleth": {
         "en": "CEPT University"
     },
@@ -635,6 +638,9 @@
     "https://idp.nitmz.ac.in/idp/shibboleth": {
         "en": "National Institute of Technology - Mizoram"
     },
+    "https://idp.nitpy.ac.in/idp/shibboleth": {
+        "en": "National Institute of Technology Puducherry"
+    },
     "https://idp.nitrkl.ac.in/idp/shibboleth": {
         "en": "National Institute of Technology, Rourkela"
     },
@@ -712,6 +718,9 @@
     },
     "https://idp.psgtech.ac.in/idp/shibboleth": {
         "en": "PSG College Of Technology"
+    },
+    "https://idp.punjabiuniversity.ac.in/idp/shibboleth": {
+        "en": "Punjabi University, Patiala"
     },
     "https://idp.ranchiuniversity.ac.in/idp/shibboleth": {
         "en": "Ranchi University"

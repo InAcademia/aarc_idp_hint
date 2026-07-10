@@ -3223,6 +3223,10 @@
             "en": "Beijing Sport  University",
             "zh": "北京体育大学(Beijing Sport  University)"
         },
+        "https://idp.btbu.edu.cn/idp/shibboleth": {
+            "en": "Beijing Technology and Business University",
+            "zh": "北京工商大学(Beijing Technology and Business University)"
+        },
         "https://idp.btmc.edu.cn/idp/shibboleth": {
             "en": "Baotou Medical College",
             "zh": "包头医学院(Baotou Medical College)"
@@ -3662,6 +3666,10 @@
         "https://idp.gxufe.edu.cn/idp/shibboleth": {
             "en": "Guangxi University of Finance  and Economics",
             "zh": "广西财经学院(Guangxi University of Finance  and Economics)"
+        },
+        "https://idp.gzarts.edu.cn/idp/shibboleth": {
+            "en": "Guangzhou Academy of Fine Arts",
+            "zh": "广州美术学院(Guangzhou Academy of Fine Arts)"
         },
         "https://idp.gznu.edu.cn/idp/shibboleth": {
             "en": "Guizhou Normal University",
@@ -6961,6 +6969,10 @@
             "de": "Staatliche Hochschule für Musik und Darstellende Kunst Mannheim",
             "en": "University of Music and Performing Arts Mannheim"
         },
+        "https://idp.mul-ct.de/idp/shibboleth": {
+            "de": "Medizinische Universität Lausitz - Carl Thiem - IdP",
+            "en": "Medizinische Universität Lausitz - Carl Thiem - IdP"
+        },
         "https://idp.nordakademie.de/idp/shibboleth": {
             "de": "NORDAKADEMIE Elmshorn",
             "en": "NORDAKADEMIE Elmshorn"
@@ -9486,10 +9498,6 @@
             "en": "CROUS Caen-Personnels V3",
             "fr": "CROUS Caen-Personnels V3"
         },
-        "https://auth.crous-creteil.fr/idp/shibboleth": {
-            "en": "Corporate CROUS Creteil-Personnels V3",
-            "fr": "CROUS Créteil-Personnels V3"
-        },
         "https://auth.crous-rennes.fr/idp/shibboleth": {
             "en": "CROUS Rennes V3",
             "fr": "CROUS Rennes V3"
@@ -11768,6 +11776,9 @@
         "https://idp.caluniv.ac.in/idp/shibboleth": {
             "en": "University of Calcutta"
         },
+        "https://idp.ccrum.res.in/idp/shibboleth": {
+            "en": "Central Council for Research in Unani Medicine"
+        },
         "https://idp.cept.ac.in/idp/shibboleth": {
             "en": "CEPT University"
         },
@@ -12245,6 +12256,9 @@
         "https://idp.nitmz.ac.in/idp/shibboleth": {
             "en": "National Institute of Technology - Mizoram"
         },
+        "https://idp.nitpy.ac.in/idp/shibboleth": {
+            "en": "National Institute of Technology Puducherry"
+        },
         "https://idp.nitrkl.ac.in/idp/shibboleth": {
             "en": "National Institute of Technology, Rourkela"
         },
@@ -12322,6 +12336,9 @@
         },
         "https://idp.psgtech.ac.in/idp/shibboleth": {
             "en": "PSG College Of Technology"
+        },
+        "https://idp.punjabiuniversity.ac.in/idp/shibboleth": {
+            "en": "Punjabi University, Patiala"
         },
         "https://idp.ranchiuniversity.ac.in/idp/shibboleth": {
             "en": "Ranchi University"
@@ -21302,6 +21319,9 @@
         },
         "https://idp.cirrusidentity.com/idp": {
             "en": "Cirrus Identity, Inc."
+        },
+        "https://idp.citadel.edu/idp/shibboleth": {
+            "en": "The Citadel"
         },
         "https://idp.cloud.unizin.org/idp/shibboleth": {
             "en": "Unizin"

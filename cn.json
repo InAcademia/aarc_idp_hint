@@ -327,6 +327,10 @@
         "en": "Beijing Sport  University",
         "zh": "北京体育大学(Beijing Sport  University)"
     },
+    "https://idp.btbu.edu.cn/idp/shibboleth": {
+        "en": "Beijing Technology and Business University",
+        "zh": "北京工商大学(Beijing Technology and Business University)"
+    },
     "https://idp.btmc.edu.cn/idp/shibboleth": {
         "en": "Baotou Medical College",
         "zh": "包头医学院(Baotou Medical College)"
@@ -766,6 +770,10 @@
     "https://idp.gxufe.edu.cn/idp/shibboleth": {
         "en": "Guangxi University of Finance  and Economics",
         "zh": "广西财经学院(Guangxi University of Finance  and Economics)"
+    },
+    "https://idp.gzarts.edu.cn/idp/shibboleth": {
+        "en": "Guangzhou Academy of Fine Arts",
+        "zh": "广州美术学院(Guangzhou Academy of Fine Arts)"
     },
     "https://idp.gznu.edu.cn/idp/shibboleth": {
         "en": "Guizhou Normal University",

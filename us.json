@@ -341,6 +341,9 @@
     "https://idp.cirrusidentity.com/idp": {
         "en": "Cirrus Identity, Inc."
     },
+    "https://idp.citadel.edu/idp/shibboleth": {
+        "en": "The Citadel"
+    },
     "https://idp.cloud.unizin.org/idp/shibboleth": {
         "en": "Unizin"
     },

@@ -55,10 +55,6 @@
         "en": "CROUS Caen-Personnels V3",
         "fr": "CROUS Caen-Personnels V3"
     },
-    "https://auth.crous-creteil.fr/idp/shibboleth": {
-        "en": "Corporate CROUS Creteil-Personnels V3",
-        "fr": "CROUS Créteil-Personnels V3"
-    },
     "https://auth.crous-rennes.fr/idp/shibboleth": {
         "en": "CROUS Rennes V3",
         "fr": "CROUS Rennes V3"
