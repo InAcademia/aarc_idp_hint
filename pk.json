@@ -2,9 +2,6 @@
     "https://idp.bbsul.edu.pk/idp/shibboleth": {
         "en": "Benazir Bhutto Shaheed University Lyari"
     },
-    "https://idp.cpsp.edu.pk/idp/shibboleth": {
-        "en": "College of Physicians and Surgeons Pakistan"
-    },
     "https://idp.hec.gov.pk/idp/shibboleth": {
         "en": "HEC Pakistan"
     },
@@ -17,13 +14,13 @@
     "https://idp.pern.edu.pk/idp/shibboleth": {
         "en": "Pakistan Education & Research Network"
     },
-    "https://idp.uos.edu.pk/idp/shibboleth": {
-        "en": "University of Sargodha Pakistan"
-    },
     "https://idp2.pern.edu.pk/idp/shibboleth": {
         "en": "PERN IdP Pakistan"
     },
     "https://idp6.hec.gov.pk/idp/shibboleth": {
         "en": "HEC6"
+    },
+    "https://idp7.hec.gov.pk/idp/shibboleth": {
+        "en": "HEC7 Pakistan"
     }
 }
