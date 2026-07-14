@@ -563,6 +563,9 @@
     "https://idp.tamusa.edu/idp/shibboleth": {
         "en": "Texas A&M University - San Antonio"
     },
+    "https://idp.tamut.edu/idp/shibboleth": {
+        "en": "Texas A&M University - Texarkana"
+    },
     "https://idp.tcu.edu/idp": {
         "en": "Texas Christian University"
     },

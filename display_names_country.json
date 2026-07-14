@@ -2236,6 +2236,10 @@
             "en": "UEA - Universidade do Estado do Amazonas",
             "pt-br": "UEA - Universidade do Estado do Amazonas"
         },
+        "https://vlp-idp-rnp.escola.mpu.mp.br/idp/shibboleth": {
+            "en": "ESMPU - Escola Superior do Ministerio Publico da Uniao",
+            "pt-br": "ESMPU - Escola Superior do Ministerio Publico da Uniao"
+        },
         "https://vm-cafe.feesc.org.br/idp/shibboleth": {
             "en": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina",
             "pt-br": "FEESC - Fundacao de Ensino e Engenharia de Santa Catarina"
@@ -11797,6 +11801,9 @@
         "https://idp.csauk.ac.in/idp/shibboleth": {
             "en": "Chandra Shekhar Azad University Of Agriculture And Technology"
         },
+        "https://idp.csr.res.in/idp/shibboleth": {
+            "en": "UGC-DAE Consortium For Scientific Research"
+        },
         "https://idp.cssscal.org/idp/shibboleth": {
             "en": "The Centre for Studies in Social Sciences"
         },
@@ -12483,6 +12490,9 @@
         },
         "https://idp.tumkuruniversity.ac.in/idp/shibboleth": {
             "en": "Tumkur University"
+        },
+        "https://idp.uasd.edu/idp/shibboleth": {
+            "en": "University of Agricultural Sciences, Dharwad"
         },
         "https://idp.uem.edu.in/idp/shibboleth": {
             "en": "University of Engineering and Management, Kolkata (UEM)"
@@ -21538,6 +21548,9 @@
         },
         "https://idp.tamusa.edu/idp/shibboleth": {
             "en": "Texas A&M University - San Antonio"
+        },
+        "https://idp.tamut.edu/idp/shibboleth": {
+            "en": "Texas A&M University - Texarkana"
         },
         "https://idp.tcu.edu/idp": {
             "en": "Texas Christian University"
