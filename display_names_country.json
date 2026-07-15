@@ -8853,6 +8853,10 @@
             "en": "Instituto Valenciano de Investigaciones Economicas",
             "es": "Instituto Valenciano de Investigaciones Económicas"
         },
+        "https://www.rediris.es/sir/juntaexidp": {
+            "en": "JUNTA DE EXTREMADURA - JUNTAEX",
+            "es": "JUNTA DE EXTREMADURA - JUNTAEX"
+        },
         "https://www.rediris.es/sir/lightbridgesidp": {
             "en": "Light Bridges",
             "es": "Light Bridges"
@@ -11954,6 +11958,9 @@
         "https://idp.iimbg.ac.in/idp/shibboleth": {
             "en": "Indian Institute Of Management–Bodh Gaya (IIM–Bodh Gaya)"
         },
+        "https://idp.iimg.ac.in/idp/shibboleth": {
+            "en": "Indian Institute of Management Guwahati"
+        },
         "https://idp.iimsirmaur.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Management Sirmaur"
         },
@@ -12106,6 +12113,9 @@
         },
         "https://idp.kkhsou.ac.in/idp/shibboleth": {
             "en": "Krishna Kanta Handiqui State Open University"
+        },
+        "https://idp.klyuniv.ac.in/idp/shibboleth": {
+            "en": "University of Kalyani"
         },
         "https://idp.kmclu.ac.in/idp/shibboleth": {
             "en": "Khwaja Moinuddin Chishti Language University"
@@ -12765,8 +12775,8 @@
             "it": "IRCCS Burlo Garofolo - Trieste"
         },
         "https://idp-candiolo.idpcloud.garr.it/metadata": {
-            "en": "IRCCS Istituto di Candiolo",
-            "it": "IRCCS Istituto di Candiolo"
+            "en": "IRCCS INOC - Istituto Nazionale Oncologico Candiolo",
+            "it": "IRCCS INOC - Istituto Nazionale Oncologico Candiolo"
         },
         "https://idp-ccmonz.irccs.garr.it/idp/shibboleth": {
             "en": "IRCCS Centro Cardiologico Monzino - Milano",

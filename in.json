@@ -332,6 +332,9 @@
     "https://idp.iimbg.ac.in/idp/shibboleth": {
         "en": "Indian Institute Of Management–Bodh Gaya (IIM–Bodh Gaya)"
     },
+    "https://idp.iimg.ac.in/idp/shibboleth": {
+        "en": "Indian Institute of Management Guwahati"
+    },
     "https://idp.iimsirmaur.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Management Sirmaur"
     },
@@ -484,6 +487,9 @@
     },
     "https://idp.kkhsou.ac.in/idp/shibboleth": {
         "en": "Krishna Kanta Handiqui State Open University"
+    },
+    "https://idp.klyuniv.ac.in/idp/shibboleth": {
+        "en": "University of Kalyani"
     },
     "https://idp.kmclu.ac.in/idp/shibboleth": {
         "en": "Khwaja Moinuddin Chishti Language University"
