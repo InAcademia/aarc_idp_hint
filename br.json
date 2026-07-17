@@ -923,6 +923,10 @@
         "en": "UNIVASF - Universidade Federal do Vale do Sao Francisco",
         "pt-br": "UNIVASF - Universidade Federal do Vale do Sao Francisco"
     },
+    "https://idp.univesp.br/idp/shibboleth": {
+        "en": "UNIVESP - Universidade Virtual do Estado de Sao Paulo",
+        "pt-br": "UNIVESP - Universidade Virtual do Estado de Sao Paulo"
+    },
     "https://idp.unochapeco.edu.br/idp/shibboleth": {
         "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
         "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"

@@ -575,6 +575,9 @@
     "https://idp.msuniv.ac.in/idp/shibboleth": {
         "en": "Manonmaniam Sundaranar University"
     },
+    "https://idp.mtu.ac.in/idp/shibboleth": {
+        "en": "Manipur Technical University"
+    },
     "https://idp.mungeruniversity.ac.in/idp/shibboleth": {
         "en": "Munger University"
     },

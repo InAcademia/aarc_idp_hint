@@ -1832,6 +1832,10 @@
             "en": "UNIVASF - Universidade Federal do Vale do Sao Francisco",
             "pt-br": "UNIVASF - Universidade Federal do Vale do Sao Francisco"
         },
+        "https://idp.univesp.br/idp/shibboleth": {
+            "en": "UNIVESP - Universidade Virtual do Estado de Sao Paulo",
+            "pt-br": "UNIVESP - Universidade Virtual do Estado de Sao Paulo"
+        },
         "https://idp.unochapeco.edu.br/idp/shibboleth": {
             "en": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco",
             "pt-br": "UNOCHAPECO - Universidade Comunitaria da Regiao de Chapeco"
@@ -10282,10 +10286,6 @@
             "en": "CROUS Aix-Marseille",
             "fr": "CROUS Aix-Marseille"
         },
-        "https://idp2.crous-limoges.fr/idp/shibboleth": {
-            "en": "CROUS Limoges V3",
-            "fr": "CROUS Limoges V3"
-        },
         "https://idp2.emse.fr/idp/shibboleth": {
             "en": "Mines Saint-Étienne - EMSE - IMT",
             "fr": "Mines Saint-Étienne - EMSE - IMT"
@@ -12196,6 +12196,9 @@
         },
         "https://idp.msuniv.ac.in/idp/shibboleth": {
             "en": "Manonmaniam Sundaranar University"
+        },
+        "https://idp.mtu.ac.in/idp/shibboleth": {
+            "en": "Manipur Technical University"
         },
         "https://idp.mungeruniversity.ac.in/idp/shibboleth": {
             "en": "Munger University"
