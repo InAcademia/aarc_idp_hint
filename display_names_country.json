@@ -14301,7 +14301,7 @@
         "https://idp.llu.lv/idp/shibboleth": {
             "en": "Latvia University of Agriculture"
         },
-        "https://idp.rtu.lvHSi": {
+        "https://idp.rtu.lv": {
             "en": "Riga Technical University (Office 365)"
         },
         "https://liepu-idp.lanet.lv": {
@@ -18221,6 +18221,50 @@
             "tr": "Koç Üniversitesi"
         }
     },
+    "tz": {
+        "https://idp.aru.ac.tz/idp/shibboleth": {
+            "en": "ARDHI UNIVERSITY (ARU)"
+        },
+        "https://idp.cbe.ac.tz/idp/shibboleth": {
+            "en": "College of Business Education - (CBE)"
+        },
+        "https://idp.eastc.ac.tz/idp/shibboleth": {
+            "en": "Eastern Africa Statistical Training Centre (EASTC)"
+        },
+        "https://idp.iae.ac.tz/idp/shibboleth": {
+            "en": "The Institute of Adult Education (IAE)"
+        },
+        "https://idp.ipa.ac.tz/idp/shibboleth": {
+            "en": "THE INSTITUTE OF PUBLIC ADMINISTRATION (IPA)"
+        },
+        "https://idp.kcmcu.ac.tz/idp/shibboleth": {
+            "en": "Kilimanjaro Christian Medical Centre University (KCMCU)"
+        },
+        "https://idp.ku.ac.tz/idp/shibboleth": {
+            "en": "Kairuki University (KU)"
+        },
+        "https://idp.mnma.ac.tz/idp/shibboleth": {
+            "en": "Mwalimu Nyerere Memorial Academy (MNMA)"
+        },
+        "https://idp.moi.ac.tz/idp/shibboleth": {
+            "en": "Muhimbili Orthopaedic Institute (MOI)"
+        },
+        "https://idp.muhas.ac.tz/idp/shibboleth": {
+            "en": "Muhimbili University of Health and Allied Sciences(MUHAS)"
+        },
+        "https://idp.nit.ac.tz/idp/shibboleth": {
+            "en": "National Institute of Transport (NIT)"
+        },
+        "https://idp.nm-aist.ac.tz/idp/shibboleth": {
+            "en": "The Nelson Mandela African Institution of Science and Technology (NM-AIST)"
+        },
+        "https://idp.saut.ac.tz/idp/shibboleth": {
+            "en": "The St. Augustine University of Tanzania (SAUT)"
+        },
+        "https://ldap-edugain.ternet.or.tz/idp/shibboleth": {
+            "en": "Tanzania Education and Research Network  (TERNET)"
+        }
+    },
     "ua": {
         "https://idp.chnu.edu.ua/simplesaml/saml2/idp/metadata.php": {
             "en": "Yuriy Fedkovych Chernivtsi National University"
@@ -19701,7 +19745,7 @@
             "en": "Derby College"
         },
         "https://idp.dghe.ac.uk/idp/shibboleth": {
-            "en": "David Game College: DGHE"
+            "en": "David Game College: UCDG / DGHE"
         },
         "https://idp.dudleycol.ac.uk/openathens": {
             "en": "Dudley College"
