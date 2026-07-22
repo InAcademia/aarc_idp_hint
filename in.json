@@ -53,6 +53,9 @@
     "https://idp.aiimsguwahati.ac.in/idp/shibboleth": {
         "en": "All India Institute of Medical Sciences, Guwahati"
     },
+    "https://idp.aiimsraipur.edu.in/idp/shibboleth": {
+        "en": "All India Institute of Medical Sciences, Raipur"
+    },
     "https://idp.aiish.ac.in/idp/shibboleth": {
         "en": "All India Institute Of Speech and Hearing"
     },
@@ -157,6 +160,9 @@
     },
     "https://idp.caluniv.ac.in/idp/shibboleth": {
         "en": "University of Calcutta"
+    },
+    "https://idp.ccras.org.in/idp/shibboleth": {
+        "en": "Council for Research in Ayurvedic Sciences (CCRAS)"
     },
     "https://idp.ccrum.res.in/idp/shibboleth": {
         "en": "Central Council for Research in Unani Medicine"

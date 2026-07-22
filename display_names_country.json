@@ -3219,6 +3219,10 @@
             "en": "BEIJING JIAOTONG UNIVERSITY",
             "zh": "北京交通大学(BEIJING JIAOTONG UNIVERSITY)"
         },
+        "https://idp.blcu.edu.cn/idp/shibboleth": {
+            "en": "Beijing Language and Culture University",
+            "zh": "北京语言大学(Beijing Language and Culture University)"
+        },
         "https://idp.bsu.edu.cn/idp/shibboleth": {
             "en": "Beijing Sport  University",
             "zh": "北京体育大学(Beijing Sport  University)"
@@ -9830,10 +9834,6 @@
             "en": "CROUS Lille",
             "fr": "CROUS Lille"
         },
-        "https://idp.crous-normandie.fr/idp/shibboleth": {
-            "en": "CROUS Normandie - Personnels v3",
-            "fr": "CROUS Normandie - Personnels v3"
-        },
         "https://idp.crous-orleans-tours.fr/idp/shibboleth": {
             "en": "CROUS Orléans-Tours - Personnels",
             "fr": "CROUS Orléans-Tours - Personnels"
@@ -10311,8 +10311,8 @@
             "fr": "Cyceron"
         },
         "https://idp3.marnelavallee.archi.fr/idp/shibboleth": {
-            "en": "Ecole Nationale Supérieure d'Architecture de Paris-est",
-            "fr": "Ecole Nationale Supérieure d'Architecture de Paris-est"
+            "en": "Ecole Nationale Supérieure d'Architecture de Paris-est Marne La Vallée",
+            "fr": "Ecole Nationale Supérieure d'Architecture de Paris-est Marne La Vallée"
         },
         "https://idp3.univ-lorraine.fr/idp/shibboleth": {
             "en": "Université de Lorraine",
@@ -11671,6 +11671,9 @@
         "https://idp.aiimsguwahati.ac.in/idp/shibboleth": {
             "en": "All India Institute of Medical Sciences, Guwahati"
         },
+        "https://idp.aiimsraipur.edu.in/idp/shibboleth": {
+            "en": "All India Institute of Medical Sciences, Raipur"
+        },
         "https://idp.aiish.ac.in/idp/shibboleth": {
             "en": "All India Institute Of Speech and Hearing"
         },
@@ -11775,6 +11778,9 @@
         },
         "https://idp.caluniv.ac.in/idp/shibboleth": {
             "en": "University of Calcutta"
+        },
+        "https://idp.ccras.org.in/idp/shibboleth": {
+            "en": "Council for Research in Ayurvedic Sciences (CCRAS)"
         },
         "https://idp.ccrum.res.in/idp/shibboleth": {
             "en": "Central Council for Research in Unani Medicine"
@@ -18269,6 +18275,10 @@
         "https://idp.chnu.edu.ua/simplesaml/saml2/idp/metadata.php": {
             "en": "Yuriy Fedkovych Chernivtsi National University"
         },
+        "https://idp.khpi.edu.ua/saml-idp": {
+            "en": "NTU «Kharkiv Polytechnic Institute»",
+            "uk": "НТУ «Харківський політехнічний інститут»"
+        },
         "https://idp.kubg.edu.ua/simplesaml/saml2/idp/metadata.php": {
             "en": "https://idp.kubg.edu.ua/simplesaml/saml2/idp/metadata.php"
         },
@@ -18311,6 +18321,9 @@
         },
         "https://idp.lirauni.ac.ug/idp/shibboleth": {
             "en": "Lira University"
+        },
+        "https://idp.lubagahospital.org/idp/shibboleth": {
+            "en": "Lubaga Hospital"
         },
         "https://idp.mak.ac.ug/idp/shibboleth": {
             "en": "Makerere University"

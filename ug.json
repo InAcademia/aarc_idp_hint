@@ -29,6 +29,9 @@
     "https://idp.lirauni.ac.ug/idp/shibboleth": {
         "en": "Lira University"
     },
+    "https://idp.lubagahospital.org/idp/shibboleth": {
+        "en": "Lubaga Hospital"
+    },
     "https://idp.mak.ac.ug/idp/shibboleth": {
         "en": "Makerere University"
     },

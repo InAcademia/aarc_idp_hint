@@ -2,6 +2,10 @@
     "https://idp.chnu.edu.ua/simplesaml/saml2/idp/metadata.php": {
         "en": "Yuriy Fedkovych Chernivtsi National University"
     },
+    "https://idp.khpi.edu.ua/saml-idp": {
+        "en": "NTU «Kharkiv Polytechnic Institute»",
+        "uk": "НТУ «Харківський політехнічний інститут»"
+    },
     "https://idp.kubg.edu.ua/simplesaml/saml2/idp/metadata.php": {
         "en": "https://idp.kubg.edu.ua/simplesaml/saml2/idp/metadata.php"
     },
