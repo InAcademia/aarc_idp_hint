@@ -175,6 +175,10 @@
         "en": "IRCCS Azienda Ospedaliero-Universitaria di Bologna",
         "it": "IRCCS Azienda Ospedaliero-Universitaria di Bologna"
     },
+    "https://idp-idi.idpcloud.garr.it/metadata": {
+        "en": "IRCCS Istituto Dermopatico dell'Immacolata (IDI)",
+        "it": "IRCCS Istituto Dermopatico dell'Immacolata (IDI)"
+    },
     "https://idp-idm.unibg.it/idp/shibboleth": {
         "en": "University of Bergamo",
         "it": "Universita' degli studi di Bergamo"

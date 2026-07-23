@@ -635,10 +635,6 @@
         "en": "Institut Pasteur",
         "fr": "Institut Pasteur"
     },
-    "https://idp.polytechnique.fr/idp/shibboleth": {
-        "en": "Ecole Polytechnique - Palaiseau",
-        "fr": "Ecole Polytechnique - Palaiseau"
-    },
     "https://idp.psl.eu/idp/saml2/metadata": {
         "en": "PSL - Research University",
         "fr": "PSL - Université de Recherche Paris Sciences & Lettres"

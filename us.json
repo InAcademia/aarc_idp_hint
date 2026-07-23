@@ -197,9 +197,6 @@
     "https://fedidp.uh.edu/idp/shibboleth": {
         "en": "University of Houston"
     },
-    "https://ffunam.fairfield.edu:8443/nidp/saml2/metadata": {
-        "en": "Fairfield University IDM"
-    },
     "https://fido.flatironinstitute.org/idp": {
         "en": "Flatiron Institute FIDO"
     },
