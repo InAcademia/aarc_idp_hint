@@ -12400,6 +12400,9 @@
         "https://idp.sau.int/idp/shibboleth": {
             "en": "SAU Identity Service"
         },
+        "https://idp.saurashtrauniversity.ac.in/idp/shibboleth": {
+            "en": "Saurashtra University"
+        },
         "https://idp.sece.ac.in/idp/shibboleth": {
             "en": "Sri Eshwar College of Engineering"
         },
