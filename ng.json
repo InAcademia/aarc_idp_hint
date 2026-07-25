@@ -11,6 +11,12 @@
     "https://idp.covenantuniversity.edu.ng/idp/shibboleth": {
         "en": "Covenant University, Lagos"
     },
+    "https://idp.fuoye.edu.ng/idp/shibboleth": {
+        "en": "idp.fuoye.edu.ng"
+    },
+    "https://idp.kwarastatepolytechnic.edu.ng/idp/shibboleth": {
+        "en": "idp.kwarastatepolytechnic.edu.ng"
+    },
     "https://idp.ngren.edu.ng/idp/shibboleth": {
         "en": "Nigerian Research and Education Network"
     },
@@ -25,5 +31,11 @@
     },
     "https://idp.unilag.edu.ng/idp/shibboleth": {
         "en": "University of Lagos"
+    },
+    "https://idp.unilorin.edu.ng/idp/shibboleth": {
+        "en": "idp.unilorin.edu.ng"
+    },
+    "https://idp.unizik.edu.ng/idp/shibboleth": {
+        "en": "Nnamdi Azikiwe University"
     }
 }

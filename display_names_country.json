@@ -1164,10 +1164,6 @@
             "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
             "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
         },
-        "https://cafe.ucdb.br/idp/shibboleth": {
-            "en": "UCDB - Universidade Catolica Dom Bosco",
-            "pt-br": "UCDB - Universidade Catolica Dom Bosco"
-        },
         "https://cafe.ucs.br/idp/shibboleth": {
             "en": "UCS - Universidade de Caxias do Sul",
             "pt-br": "UCS - Universidade de Caxias do Sul"
@@ -1427,10 +1423,6 @@
         "https://idp-cafe.ghc.com.br/idp/shibboleth": {
             "en": "GHC - Grupo Hospitalar Conceicao",
             "pt-br": "GHC - Grupo Hospitalar Conceicao"
-        },
-        "https://idp-cafe.hmv.org.br/idp/shibboleth": {
-            "en": "HMV - Associacao Hospitalar Moinhos de Vento",
-            "pt-br": "HMV - Associacao Hospitalar Moinhos de Vento"
         },
         "https://idp-cafe.ifg.edu.br/idp/shibboleth": {
             "en": "IFG - Instituto Federal de Goias",
@@ -2095,6 +2087,10 @@
         "https://shibboleth.santacasa.pa.gov.br/idp/shibboleth": {
             "en": "FSCMPA - Fundacao Santa Casa de Misericordia do Para",
             "pt-br": "FSCMPA - Fundacao Santa Casa de Misericordia do Para"
+        },
+        "https://shibboleth.ucdb.br/idp/shibboleth": {
+            "en": "UCDB - Universidade Catolica Dom Bosco",
+            "pt-br": "UCDB - Universidade Catolica Dom Bosco"
         },
         "https://shibboleth.ufcg.edu.br/idp/shibboleth": {
             "en": "UFCG - Universidade Federal de Campina Grande",
@@ -12184,6 +12180,9 @@
         "https://idp.mlritm.ac.in/idp/shibboleth": {
             "en": "MLR Institute of Technology and Management"
         },
+        "https://idp.mmhapu.ac.in/idp/shibboleth": {
+            "en": "MAULANA MAZHARUL HAQUE ARABIC and PERSIAN UNIVERSITY"
+        },
         "https://idp.mnnit.ac.in/idp/shibboleth": {
             "en": "Motilal Nehru National Institute of Technology, Allahabad"
         },
@@ -14989,6 +14988,12 @@
         "https://idp.covenantuniversity.edu.ng/idp/shibboleth": {
             "en": "Covenant University, Lagos"
         },
+        "https://idp.fuoye.edu.ng/idp/shibboleth": {
+            "en": "idp.fuoye.edu.ng"
+        },
+        "https://idp.kwarastatepolytechnic.edu.ng/idp/shibboleth": {
+            "en": "idp.kwarastatepolytechnic.edu.ng"
+        },
         "https://idp.ngren.edu.ng/idp/shibboleth": {
             "en": "Nigerian Research and Education Network"
         },
@@ -15003,6 +15008,12 @@
         },
         "https://idp.unilag.edu.ng/idp/shibboleth": {
             "en": "University of Lagos"
+        },
+        "https://idp.unilorin.edu.ng/idp/shibboleth": {
+            "en": "idp.unilorin.edu.ng"
+        },
+        "https://idp.unizik.edu.ng/idp/shibboleth": {
+            "en": "Nnamdi Azikiwe University"
         }
     },
     "nl": {
@@ -16102,7 +16113,7 @@
             "en": "Nencki Institute of Experimental Biology PAS",
             "pl": "Instytut Biologii Doświadczalnej PAN im. Marcelego Nenckiego"
         },
-        "https://idp.pollub.pl/shibboleth": {
+        "https://idp.pollub.pl/idp/shibboleth": {
             "en": "Lublin University of Technology",
             "pl": "Politechnika Lubelska"
         },
@@ -21101,9 +21112,6 @@
         },
         "http://sso.oit.edu/idp": {
             "en": "Oregon Institute of Technology"
-        },
-        "http://sso.quinnipiac.edu/adfs/services/trust": {
-            "en": "Quinnipiac University"
         },
         "http://ssologin.cei.edu/adfs/services/trust": {
             "en": "College of Eastern Idaho"

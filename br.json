@@ -255,10 +255,6 @@
         "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
         "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
     },
-    "https://cafe.ucdb.br/idp/shibboleth": {
-        "en": "UCDB - Universidade Catolica Dom Bosco",
-        "pt-br": "UCDB - Universidade Catolica Dom Bosco"
-    },
     "https://cafe.ucs.br/idp/shibboleth": {
         "en": "UCS - Universidade de Caxias do Sul",
         "pt-br": "UCS - Universidade de Caxias do Sul"
@@ -518,10 +514,6 @@
     "https://idp-cafe.ghc.com.br/idp/shibboleth": {
         "en": "GHC - Grupo Hospitalar Conceicao",
         "pt-br": "GHC - Grupo Hospitalar Conceicao"
-    },
-    "https://idp-cafe.hmv.org.br/idp/shibboleth": {
-        "en": "HMV - Associacao Hospitalar Moinhos de Vento",
-        "pt-br": "HMV - Associacao Hospitalar Moinhos de Vento"
     },
     "https://idp-cafe.ifg.edu.br/idp/shibboleth": {
         "en": "IFG - Instituto Federal de Goias",
@@ -1186,6 +1178,10 @@
     "https://shibboleth.santacasa.pa.gov.br/idp/shibboleth": {
         "en": "FSCMPA - Fundacao Santa Casa de Misericordia do Para",
         "pt-br": "FSCMPA - Fundacao Santa Casa de Misericordia do Para"
+    },
+    "https://shibboleth.ucdb.br/idp/shibboleth": {
+        "en": "UCDB - Universidade Catolica Dom Bosco",
+        "pt-br": "UCDB - Universidade Catolica Dom Bosco"
     },
     "https://shibboleth.ufcg.edu.br/idp/shibboleth": {
         "en": "UFCG - Universidade Federal de Campina Grande",

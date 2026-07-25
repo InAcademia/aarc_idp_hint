@@ -47,9 +47,6 @@
     "http://sso.oit.edu/idp": {
         "en": "Oregon Institute of Technology"
     },
-    "http://sso.quinnipiac.edu/adfs/services/trust": {
-        "en": "Quinnipiac University"
-    },
     "http://ssologin.cei.edu/adfs/services/trust": {
         "en": "College of Eastern Idaho"
     },

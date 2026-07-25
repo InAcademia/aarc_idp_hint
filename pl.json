@@ -131,7 +131,7 @@
         "en": "Nencki Institute of Experimental Biology PAS",
         "pl": "Instytut Biologii Doświadczalnej PAN im. Marcelego Nenckiego"
     },
-    "https://idp.pollub.pl/shibboleth": {
+    "https://idp.pollub.pl/idp/shibboleth": {
         "en": "Lublin University of Technology",
         "pl": "Politechnika Lubelska"
     },
