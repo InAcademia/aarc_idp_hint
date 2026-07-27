@@ -4975,6 +4975,10 @@
             "en": "Xizang Minzu University",
             "zh": "西藏民族大学(Xizang Minzu University)"
         },
+        "https://idp.xzu.edu.cn/idp/shibboleth": {
+            "en": "Xizang University",
+            "zh": "西藏大学(Xizang University)"
+        },
         "https://idp.yangtzeu.edu.cn/idp/shibboleth": {
             "en": "Yangtze University",
             "zh": "长江大学(Yangtze University)"
@@ -14024,6 +14028,9 @@
         },
         "https://iam.stepi.re.kr/idp/simplesamlphp": {
             "en": "Science and Technology Policy Institute"
+        },
+        "https://idp.kafe.or.kr/idp/simplesamlphp": {
+            "en": "Korean Access Federation"
         },
         "https://idp.kigam.re.kr/idp/simplesamlphp": {
             "en": "Korea Institute of Geoscience and Mineral resources"
