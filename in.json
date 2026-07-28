@@ -230,6 +230,9 @@
     "https://idp.cutn.ac.in/idp/shibboleth": {
         "en": "Central University of Tamilnadu"
     },
+    "https://idp.davangereuniversity.ac.in/idp/shibboleth": {
+        "en": "Davangere University"
+    },
     "https://idp.dcpune.ac.in/idp/shibboleth": {
         "en": "Deccan college post-graduate and research institute"
     },
@@ -283,6 +286,9 @@
     },
     "https://idp.iare.ac.in/idp/shibboleth": {
         "en": "Institute of Aeronautical Engineering"
+    },
+    "https://idp.icar.org.in/idp/shibboleth": {
+        "en": "Indian Council of Agricultural Research"
     },
     "https://idp.idealinstitute.edu.in/idp/shibboleth": {
         "en": "Ideal Institute Of Management And Technology And School Of Law"

@@ -901,6 +901,10 @@
         "de": "Karlsruher Institut für Technologie (KIT)",
         "en": "Karlsruhe Institute of Technology (KIT)"
     },
+    "https://idp.spk-berlin.de/idp/shibboleth": {
+        "de": "Stiftung Preußischer Kulturbesitz",
+        "en": "Stiftung Preußischer Kulturbesitz"
+    },
     "https://idp.studentenwerk-leipzig.de/idp/shibboleth": {
         "de": "Studentenwerk Leipzig",
         "en": "Studentenwerk Leipzig"

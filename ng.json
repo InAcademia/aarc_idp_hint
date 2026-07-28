@@ -12,10 +12,13 @@
         "en": "Covenant University, Lagos"
     },
     "https://idp.fuoye.edu.ng/idp/shibboleth": {
-        "en": "idp.fuoye.edu.ng"
+        "en": "Federal University Oye-Ekiti"
+    },
+    "https://idp.futo.edu.ng/idp/shibboleth": {
+        "en": "Federal University of Technology Owerri"
     },
     "https://idp.kwarastatepolytechnic.edu.ng/idp/shibboleth": {
-        "en": "idp.kwarastatepolytechnic.edu.ng"
+        "en": "Kwara State Polytechnic, Ilorin"
     },
     "https://idp.ngren.edu.ng/idp/shibboleth": {
         "en": "Nigerian Research and Education Network"
@@ -29,13 +32,22 @@
     "https://idp.ui.edu.ng/idp/shibboleth": {
         "en": "University of Ibadan"
     },
+    "https://idp.uniabuja.edu.ng/idp/shibboleth": {
+        "en": "University of Abuja"
+    },
+    "https://idp.unical.edu.ng/idp/shibboleth": {
+        "en": "University of Calabar"
+    },
+    "https://idp.unijos.edu.ng/idp/shibboleth": {
+        "en": "University of Jos"
+    },
     "https://idp.unilag.edu.ng/idp/shibboleth": {
         "en": "University of Lagos"
     },
     "https://idp.unilorin.edu.ng/idp/shibboleth": {
-        "en": "idp.unilorin.edu.ng"
+        "en": "University of Ilorin"
     },
     "https://idp.unizik.edu.ng/idp/shibboleth": {
-        "en": "Nnamdi Azikiwe University"
+        "en": "Nnamdi Azikiwe University, Akwa"
     }
 }

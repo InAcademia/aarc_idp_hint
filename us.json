@@ -1265,6 +1265,9 @@
     "https://sso.pnnl.gov/idp": {
         "en": "PNNL"
     },
+    "https://sso.quinnipiac.edu/idp": {
+        "en": "Quinnipiac University"
+    },
     "https://sso.redlands.edu/idp": {
         "en": "University of Redlands"
     },

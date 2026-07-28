@@ -895,6 +895,10 @@
             "bg": "Военна академия Г. С. Раковски",
             "en": "Rakovski National Defence College"
         },
+        "https://sso.uacg.bg": {
+            "bg": "Университет по архитектура, строителство и геодезия",
+            "en": "University of Architecture, Civil Engineering and Geodesy"
+        },
         "https://sso.ue-varna.bg": {
             "bg": "Икономически университет - Варна",
             "en": "University of Economics - Varna"
@@ -7053,6 +7057,10 @@
             "de": "Karlsruher Institut für Technologie (KIT)",
             "en": "Karlsruhe Institute of Technology (KIT)"
         },
+        "https://idp.spk-berlin.de/idp/shibboleth": {
+            "de": "Stiftung Preußischer Kulturbesitz",
+            "en": "Stiftung Preußischer Kulturbesitz"
+        },
         "https://idp.studentenwerk-leipzig.de/idp/shibboleth": {
             "de": "Studentenwerk Leipzig",
             "en": "Studentenwerk Leipzig"
@@ -9838,10 +9846,6 @@
             "en": "CROUS Lille",
             "fr": "CROUS Lille"
         },
-        "https://idp.crous-orleans-tours.fr/idp/shibboleth": {
-            "en": "CROUS Orléans-Tours - Personnels",
-            "fr": "CROUS Orléans-Tours - Personnels"
-        },
         "https://idp.crous-reims.fr/idp/shibboleth": {
             "en": "CROUS REIMS - IDP v5",
             "fr": "CROUS REIMS - IDP v5"
@@ -11848,6 +11852,9 @@
         "https://idp.cutn.ac.in/idp/shibboleth": {
             "en": "Central University of Tamilnadu"
         },
+        "https://idp.davangereuniversity.ac.in/idp/shibboleth": {
+            "en": "Davangere University"
+        },
         "https://idp.dcpune.ac.in/idp/shibboleth": {
             "en": "Deccan college post-graduate and research institute"
         },
@@ -11901,6 +11908,9 @@
         },
         "https://idp.iare.ac.in/idp/shibboleth": {
             "en": "Institute of Aeronautical Engineering"
+        },
+        "https://idp.icar.org.in/idp/shibboleth": {
+            "en": "Indian Council of Agricultural Research"
         },
         "https://idp.idealinstitute.edu.in/idp/shibboleth": {
             "en": "Ideal Institute Of Management And Technology And School Of Law"
@@ -14996,10 +15006,13 @@
             "en": "Covenant University, Lagos"
         },
         "https://idp.fuoye.edu.ng/idp/shibboleth": {
-            "en": "idp.fuoye.edu.ng"
+            "en": "Federal University Oye-Ekiti"
+        },
+        "https://idp.futo.edu.ng/idp/shibboleth": {
+            "en": "Federal University of Technology Owerri"
         },
         "https://idp.kwarastatepolytechnic.edu.ng/idp/shibboleth": {
-            "en": "idp.kwarastatepolytechnic.edu.ng"
+            "en": "Kwara State Polytechnic, Ilorin"
         },
         "https://idp.ngren.edu.ng/idp/shibboleth": {
             "en": "Nigerian Research and Education Network"
@@ -15013,14 +15026,23 @@
         "https://idp.ui.edu.ng/idp/shibboleth": {
             "en": "University of Ibadan"
         },
+        "https://idp.uniabuja.edu.ng/idp/shibboleth": {
+            "en": "University of Abuja"
+        },
+        "https://idp.unical.edu.ng/idp/shibboleth": {
+            "en": "University of Calabar"
+        },
+        "https://idp.unijos.edu.ng/idp/shibboleth": {
+            "en": "University of Jos"
+        },
         "https://idp.unilag.edu.ng/idp/shibboleth": {
             "en": "University of Lagos"
         },
         "https://idp.unilorin.edu.ng/idp/shibboleth": {
-            "en": "idp.unilorin.edu.ng"
+            "en": "University of Ilorin"
         },
         "https://idp.unizik.edu.ng/idp/shibboleth": {
-            "en": "Nnamdi Azikiwe University"
+            "en": "Nnamdi Azikiwe University, Akwa"
         }
     },
     "nl": {
@@ -22337,6 +22359,9 @@
         },
         "https://sso.pnnl.gov/idp": {
             "en": "PNNL"
+        },
+        "https://sso.quinnipiac.edu/idp": {
+            "en": "Quinnipiac University"
         },
         "https://sso.redlands.edu/idp": {
             "en": "University of Redlands"
