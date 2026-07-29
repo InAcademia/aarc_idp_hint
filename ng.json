@@ -5,11 +5,17 @@
     "https://idp.abu.edu.ng/idp/shibboleth": {
         "en": "Ahmadu Bello University, Zaria"
     },
+    "https://idp.bsum.edu.ng/idp/shibboleth": {
+        "en": "Benue State University, Makurdi"
+    },
     "https://idp.buk.edu.ng/idp/shibboleth": {
         "en": "Bayero University, Kano"
     },
     "https://idp.covenantuniversity.edu.ng/idp/shibboleth": {
         "en": "Covenant University, Lagos"
+    },
+    "https://idp.fuask.edu.ng/idp/shibboleth": {
+        "en": "Federal University of Applied Sciences, Kachia"
     },
     "https://idp.fuoye.edu.ng/idp/shibboleth": {
         "en": "Federal University Oye-Ekiti"
@@ -17,17 +23,29 @@
     "https://idp.futo.edu.ng/idp/shibboleth": {
         "en": "Federal University of Technology Owerri"
     },
+    "https://idp.kanopoly.edu.ng/idp/shibboleth": {
+        "en": "Kano State Polytechnic, Kano"
+    },
+    "https://idp.kustwudil.edu.ng/idp/shibboleth": {
+        "en": "Aliko Dangote University of Science and Technology"
+    },
     "https://idp.kwarastatepolytechnic.edu.ng/idp/shibboleth": {
         "en": "Kwara State Polytechnic, Ilorin"
     },
     "https://idp.ngren.edu.ng/idp/shibboleth": {
         "en": "Nigerian Research and Education Network"
     },
+    "https://idp.nsuk.edu.ng/idp/shibboleth": {
+        "en": "Nasarawa State University, Keffi"
+    },
     "https://idp.nuc.edu.ng/idp/shibboleth": {
         "en": "National Universities Commission"
     },
     "https://idp.oauife.edu.ng/idp/shibboleth": {
         "en": "Obafemi Awolowo University, Ile Ife"
+    },
+    "https://idp.udusok.edu.ng/idp/shibboleth": {
+        "en": "Usmanu Danfodiyo University, Sokoto"
     },
     "https://idp.ui.edu.ng/idp/shibboleth": {
         "en": "University of Ibadan"
