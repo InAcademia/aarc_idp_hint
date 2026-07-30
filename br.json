@@ -519,6 +519,10 @@
         "en": "GHC - Grupo Hospitalar Conceicao",
         "pt-br": "GHC - Grupo Hospitalar Conceicao"
     },
+    "https://idp-cafe.hmv.org.br/idp/shibboleth": {
+        "en": "HMV - Associacao Hospitalar Moinhos de Vento",
+        "pt-br": "HMV - Associacao Hospitalar Moinhos de Vento"
+    },
     "https://idp-cafe.ifg.edu.br/idp/shibboleth": {
         "en": "IFG - Instituto Federal de Goias",
         "pt-br": "IFG - Instituto Federal de Goias"

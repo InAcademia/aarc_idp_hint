@@ -490,6 +490,10 @@
         "en": "University of Niigata Prefecture",
         "ja": "新潟県立大学"
     },
+    "https://rctohoku.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Japanese Red Cross Tohoku College of Nursing",
+        "ja": "日本赤十字東北看護大学"
+    },
     "https://scudna.ex-tic.com/auth/gakunin/saml2/assertions": {
         "en": "Sapporo City University",
         "ja": "札幌市立大学"

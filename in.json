@@ -752,6 +752,9 @@
     "https://idp.punjabiuniversity.ac.in/idp/shibboleth": {
         "en": "Punjabi University, Patiala"
     },
+    "https://idp.pup.ac.in/idp/shibboleth": {
+        "en": "Patna University"
+    },
     "https://idp.ranchiuniversity.ac.in/idp/shibboleth": {
         "en": "Ranchi University"
     },

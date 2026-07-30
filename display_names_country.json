@@ -1432,6 +1432,10 @@
             "en": "GHC - Grupo Hospitalar Conceicao",
             "pt-br": "GHC - Grupo Hospitalar Conceicao"
         },
+        "https://idp-cafe.hmv.org.br/idp/shibboleth": {
+            "en": "HMV - Associacao Hospitalar Moinhos de Vento",
+            "pt-br": "HMV - Associacao Hospitalar Moinhos de Vento"
+        },
         "https://idp-cafe.ifg.edu.br/idp/shibboleth": {
             "en": "IFG - Instituto Federal de Goias",
             "pt-br": "IFG - Instituto Federal de Goias"
@@ -12382,6 +12386,9 @@
         "https://idp.punjabiuniversity.ac.in/idp/shibboleth": {
             "en": "Punjabi University, Patiala"
         },
+        "https://idp.pup.ac.in/idp/shibboleth": {
+            "en": "Patna University"
+        },
         "https://idp.ranchiuniversity.ac.in/idp/shibboleth": {
             "en": "Ranchi University"
         },
@@ -13829,6 +13836,10 @@
             "en": "University of Niigata Prefecture",
             "ja": "新潟県立大学"
         },
+        "https://rctohoku.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Japanese Red Cross Tohoku College of Nursing",
+            "ja": "日本赤十字東北看護大学"
+        },
         "https://scudna.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "Sapporo City University",
             "ja": "札幌市立大学"
@@ -14279,10 +14290,6 @@
         "https://sso.vilniustech.lt/saml2/idp/metadata.php": {
             "en": "VilniusTech",
             "lt": "VilniusTech"
-        },
-        "https://sso.vu.lt/SSO/saml2/idp/metadata.php": {
-            "en": "Vilnius University",
-            "lt": "Vilniaus universitetas"
         },
         "https://sso.vu.lt/saml/saml2/idp/metadata.php": {
             "en": "Vilnius University",
@@ -15011,6 +15018,9 @@
         "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
             "en": "Eko-Konnect Research and Education Initiative"
         },
+        "https://idap.imap.edu.ng/idp/shibboleth": {
+            "en": "Isa Mustapha Agwai Polytechnic, Lafia"
+        },
         "https://idp.abu.edu.ng/idp/shibboleth": {
             "en": "Ahmadu Bello University, Zaria"
         },
@@ -15023,8 +15033,14 @@
         "https://idp.covenantuniversity.edu.ng/idp/shibboleth": {
             "en": "Covenant University, Lagos"
         },
+        "https://idp.fpno.edu.ng/idp/shibboleth": {
+            "en": "Federal Polytechnic Nekede, Owerri"
+        },
         "https://idp.fuask.edu.ng/idp/shibboleth": {
             "en": "Federal University of Applied Sciences, Kachia"
+        },
+        "https://idp.fulokoja/idp/shibboleth": {
+            "en": "Federal University Lokoja"
         },
         "https://idp.fuoye.edu.ng/idp/shibboleth": {
             "en": "Federal University Oye-Ekiti"
@@ -15053,6 +15069,12 @@
         "https://idp.oauife.edu.ng/idp/shibboleth": {
             "en": "Obafemi Awolowo University, Ile Ife"
         },
+        "https://idp.oouagoiwoye.edu.ng/idp/shibboleth": {
+            "en": "Olabisi Onabanjo University, Ago-Iwoye"
+        },
+        "https://idp.tsuniversity.edu.ng/idp/shibboleth": {
+            "en": "Taraba State University, Jalingo"
+        },
         "https://idp.udusok.edu.ng/idp/shibboleth": {
             "en": "Usmanu Danfodiyo University, Sokoto"
         },
@@ -15076,6 +15098,9 @@
         },
         "https://idp.unizik.edu.ng/idp/shibboleth": {
             "en": "Nnamdi Azikiwe University, Akwa"
+        },
+        "https://ldap.umyu.edu.ng/idp/shibboleth": {
+            "en": "Umaru Musa Yardua University,  Katsina"
         }
     },
     "nl": {
