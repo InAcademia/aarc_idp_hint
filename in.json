@@ -342,7 +342,7 @@
         "en": "Indian Institute of Management, Ahmedabad"
     },
     "https://idp.iimbg.ac.in/idp/shibboleth": {
-        "en": "Indian Institute Of Management–Bodh Gaya (IIM–Bodh Gaya)"
+        "en": "Indian Institute of Management Bodh Gaya (IIM Bodh Gaya)"
     },
     "https://idp.iimg.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Management Guwahati"
@@ -598,6 +598,9 @@
     },
     "https://idp.muoc.ac.in/idp/shibboleth": {
         "en": "Majuli University of Culture"
+    },
+    "https://idp.mzu.edu.in/idp/shibboleth": {
+        "en": "Mizoram University"
     },
     "https://idp.nagalanduniversity.ac.in/idp/shibboleth": {
         "en": "Nagaland University"
@@ -937,6 +940,9 @@
     },
     "https://idp.vcw.ac.in/idp/shibboleth": {
         "en": "Vellalar College For Women"
+    },
+    "https://idp.vecc.gov.in/idp/shibboleth": {
+        "en": "Variable Energy Cyclotron Centre"
     },
     "https://idp.velammalitech.edu.in/idp/shibboleth": {
         "en": "Velammal Institute of Technology"

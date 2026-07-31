@@ -32,6 +32,9 @@
     "https://idp.futo.edu.ng/idp/shibboleth": {
         "en": "Federal University of Technology Owerri"
     },
+    "https://idp.ibbu.edu.ng/idp/shibboleth": {
+        "en": "Ibrahim Badamasi Babangida University, Lapai"
+    },
     "https://idp.kanopoly.edu.ng/idp/shibboleth": {
         "en": "Kano State Polytechnic, Kano"
     },
@@ -41,8 +44,14 @@
     "https://idp.kwarastatepolytechnic.edu.ng/idp/shibboleth": {
         "en": "Kwara State Polytechnic, Ilorin"
     },
+    "https://idp.mouau.edu.ng/idp/shibboleth": {
+        "en": "Michael Okpara University of Agriculture Umudike"
+    },
     "https://idp.ngren.edu.ng/idp/shibboleth": {
         "en": "Nigerian Research and Education Network"
+    },
+    "https://idp.nou.edu.ng/idp/shibboleth": {
+        "en": "Natonal Open University, Abuja"
     },
     "https://idp.nsuk.edu.ng/idp/shibboleth": {
         "en": "Nasarawa State University, Keffi"
