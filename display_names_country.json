@@ -15115,7 +15115,7 @@
             "en": "Nnamdi Azikiwe University, Akwa"
         },
         "https://ldap.umyu.edu.ng/idp/shibboleth": {
-            "en": "Umaru Musa Yardua University,  Katsina"
+            "en": "Umaru Musa Yar'adua University,  Katsina"
         }
     },
     "nl": {
@@ -20474,9 +20474,6 @@
         },
         "https://idp.staffordcoll.ac.uk/shibboleth": {
             "en": "Stafford College (Shibboleth)"
-        },
-        "https://idp.statistics.gov.uk/openathens": {
-            "en": "Office for National Statistics"
         },
         "https://idp.stbrn.ac.uk/idp/shibboleth": {
             "en": "St Brendan's Sixth Form College"
