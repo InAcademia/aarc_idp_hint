@@ -29,6 +29,9 @@
     "https://idp.fuoye.edu.ng/idp/shibboleth": {
         "en": "Federal University Oye-Ekiti"
     },
+    "https://idp.futminna.edu.ng/idp/shibboleth": {
+        "en": "Federal University of Technology Minna"
+    },
     "https://idp.futo.edu.ng/idp/shibboleth": {
         "en": "Federal University of Technology Owerri"
     },
