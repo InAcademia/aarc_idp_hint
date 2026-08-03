@@ -468,7 +468,7 @@
         "en": "Kalinga University Raipur"
     },
     "https://idp.kannuruniversity.ac.in/idp/shibboleth": {
-        "en": "KANNUR UNIVERSITY"
+        "en": "Kannur University"
     },
     "https://idp.karunya.edu/idp/shibboleth": {
         "en": "Karunya Institute of Technology and Sciences (Deemed University)"
@@ -805,6 +805,9 @@
     },
     "https://idp.sece.ac.in/idp/shibboleth": {
         "en": "Sri Eshwar College of Engineering"
+    },
+    "https://idp.sggu.ac.in/idp/shibboleth": {
+        "en": "Shri Govind Guru University Godhra"
     },
     "https://idp.sgou.ac.in/idp/shibboleth": {
         "en": "Sreenarayanaguru Open University"
