@@ -235,6 +235,10 @@
         "de": "Campus Vienna Biocenter (GMI, IMBA, IMP, VBCF, CLIP)",
         "en": "Campus Vienna Biocenter (GMI, IMBA, IMP, VBCF, CLIP)"
     },
+    "https://sso.acomarket.ac.at/idp/shibboleth": {
+        "de": "ACOmarket",
+        "en": "ACOmarket"
+    },
     "https://sso.fh-salzburg.ac.at/idp/shibboleth": {
         "de": "FH Salzburg",
         "en": "Salzburg University of Applied Sciences"

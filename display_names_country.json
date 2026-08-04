@@ -274,6 +274,10 @@
             "de": "Campus Vienna Biocenter (GMI, IMBA, IMP, VBCF, CLIP)",
             "en": "Campus Vienna Biocenter (GMI, IMBA, IMP, VBCF, CLIP)"
         },
+        "https://sso.acomarket.ac.at/idp/shibboleth": {
+            "de": "ACOmarket",
+            "en": "ACOmarket"
+        },
         "https://sso.fh-salzburg.ac.at/idp/shibboleth": {
             "de": "FH Salzburg",
             "en": "Salzburg University of Applied Sciences"
@@ -1025,8 +1029,8 @@
             "pt-br": "FMC - Faculdade de Medicina de Campos"
         },
         "https://cafe.fucape.br/idp/shibboleth": {
-            "en": "FUCAPE - Fundacao Instituto Capixaba de Pesquisa em Cont. Econ. e Financas",
-            "pt-br": "FUCAPE - Fundacao Instituto Capixaba de Pesquisa em Cont. Econ. e Financas"
+            "en": "FUCAPE - Fucape Pesquisa e Ensino SA",
+            "pt-br": "FUCAPE - Fucape Pesquisa e Ensino SA"
         },
         "https://cafe.fumec.br/idp/shibboleth": {
             "en": "FUMEC - Fundacao Mineira de Educacao e Cultura",
@@ -7071,7 +7075,7 @@
         },
         "https://idp.spk-berlin.de/idp/shibboleth": {
             "de": "Stiftung Preußischer Kulturbesitz",
-            "en": "Stiftung Preußischer Kulturbesitz"
+            "en": "Prussian Cultural Heritage Foundation"
         },
         "https://idp.studentenwerk-leipzig.de/idp/shibboleth": {
             "de": "Studentenwerk Leipzig",
@@ -18398,6 +18402,10 @@
         }
     },
     "ua": {
+        "https://eosc-test.bitp.kyiv.ua/": {
+            "en": "Bogolyubov Institute for Theoretical Physics",
+            "uk": "Інститут теоретичної фізики ім. М.М. Боголюбова НАН України"
+        },
         "https://idp.chnu.edu.ua/simplesaml/saml2/idp/metadata.php": {
             "en": "Yuriy Fedkovych Chernivtsi National University"
         },

@@ -1,4 +1,8 @@
 {
+    "https://eosc-test.bitp.kyiv.ua/": {
+        "en": "Bogolyubov Institute for Theoretical Physics",
+        "uk": "Інститут теоретичної фізики ім. М.М. Боголюбова НАН України"
+    },
     "https://idp.chnu.edu.ua/simplesaml/saml2/idp/metadata.php": {
         "en": "Yuriy Fedkovych Chernivtsi National University"
     },
