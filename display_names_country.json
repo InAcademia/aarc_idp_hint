@@ -8332,10 +8332,6 @@
             "en": "Unidad Educativa Salesiana Cardenal Spellman - spellman",
             "es": "Unidad Educativa Salesiana Cardenal Spellman - spellman"
         },
-        "https://login.sudamericano.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Instituto Superior Tecnológico Sudamericano - sudamericano",
-            "es": "Instituto Superior Tecnológico Sudamericano - sudamericano"
-        },
         "https://login.tecnologicoitca.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Instituto Tecnológico Superior José Chiriboga Grijalva - tecnologicoitca",
             "es": "Instituto Tecnológico Superior José Chiriboga Grijalva - tecnologicoitca"
@@ -22152,9 +22148,6 @@
         },
         "https://shibboleth.its.msstate.edu/idp/shibboleth": {
             "en": "Mississippi State University"
-        },
-        "https://shibboleth.lib.uh.edu/idp/shibboleth": {
-            "en": "University of Houston Libraries"
         },
         "https://shibboleth.liberty.edu/idp/shibboleth": {
             "en": "Liberty University"
