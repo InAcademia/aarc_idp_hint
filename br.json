@@ -1059,10 +1059,6 @@
         "en": "UNIOESTE - Universidade Estadual do Oeste do Parana",
         "pt-br": "UNIOESTE - Universidade Estadual do Oeste do Parana"
     },
-    "https://onca.museu-goeldi.br/idp/shibboleth": {
-        "en": "MPEG - Museu Paraense Emilio Goeldi",
-        "pt-br": "MPEG - Museu Paraense Emilio Goeldi"
-    },
     "https://pandora.unifei.edu.br/idp/shibboleth": {
         "en": "UNIFEI - Universidade Federal de Itajuba",
         "pt-br": "UNIFEI - Universidade Federal de Itajuba"
@@ -1338,6 +1334,10 @@
     "https://svrcafe01.reabilitar.org.br/idp/shibboleth": {
         "en": "NMDER - Nova Maternidade Dona Evangelina Rosa",
         "pt-br": "NMDER - Nova Maternidade Dona Evangelina Rosa"
+    },
+    "https://tatu.museu-goeldi.br/idp/shibboleth": {
+        "en": "MPEG - Museu Paraense Emilio Goeldi",
+        "pt-br": "MPEG - Museu Paraense Emilio Goeldi"
     },
     "https://uea-idp.uea.edu.br/idp/shibboleth": {
         "en": "UEA - Universidade do Estado do Amazonas",

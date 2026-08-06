@@ -17,6 +17,9 @@
     "https://idp.covenantuniversity.edu.ng/idp/shibboleth": {
         "en": "Covenant University, Lagos"
     },
+    "https://idp.eksu.edu.ng/idp/shibboleth": {
+        "en": "Ekiti State University, Ado-Ekiti"
+    },
     "https://idp.fpno.edu.ng/idp/shibboleth": {
         "en": "Federal Polytechnic Nekede, Owerri"
     },
@@ -91,6 +94,9 @@
     },
     "https://idp.unilorin.edu.ng/idp/shibboleth": {
         "en": "University of Ilorin"
+    },
+    "https://idp.uniport.edu.ng/idp/shibboleth": {
+        "en": "University of Port Harcourt"
     },
     "https://idp.unizik.edu.ng/idp/shibboleth": {
         "en": "Nnamdi Azikiwe University, Akwa"

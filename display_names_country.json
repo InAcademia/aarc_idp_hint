@@ -1976,10 +1976,6 @@
             "en": "UNIOESTE - Universidade Estadual do Oeste do Parana",
             "pt-br": "UNIOESTE - Universidade Estadual do Oeste do Parana"
         },
-        "https://onca.museu-goeldi.br/idp/shibboleth": {
-            "en": "MPEG - Museu Paraense Emilio Goeldi",
-            "pt-br": "MPEG - Museu Paraense Emilio Goeldi"
-        },
         "https://pandora.unifei.edu.br/idp/shibboleth": {
             "en": "UNIFEI - Universidade Federal de Itajuba",
             "pt-br": "UNIFEI - Universidade Federal de Itajuba"
@@ -2255,6 +2251,10 @@
         "https://svrcafe01.reabilitar.org.br/idp/shibboleth": {
             "en": "NMDER - Nova Maternidade Dona Evangelina Rosa",
             "pt-br": "NMDER - Nova Maternidade Dona Evangelina Rosa"
+        },
+        "https://tatu.museu-goeldi.br/idp/shibboleth": {
+            "en": "MPEG - Museu Paraense Emilio Goeldi",
+            "pt-br": "MPEG - Museu Paraense Emilio Goeldi"
         },
         "https://uea-idp.uea.edu.br/idp/shibboleth": {
             "en": "UEA - Universidade do Estado do Amazonas",
@@ -11753,6 +11753,9 @@
         "https://idp.b-u.ac.in/idp/shibboleth": {
             "en": "Bharathiar University"
         },
+        "https://idp.baou.edu.in/idp/shibboleth": {
+            "en": "Dr. Babasaheb Ambedkar Open University"
+        },
         "https://idp.bdu.ac.in/idp/shibboleth": {
             "en": "Bharathidasan University"
         },
@@ -11827,6 +11830,9 @@
         },
         "https://idp.ctuap.ac.in/idp/shibboleth": {
             "en": "Central Tribal University of Andhra Pradesh (CTUAP)"
+        },
+        "https://idp.cugujarat.ac.in/idp/shibboleth": {
+            "en": "Children's Research University"
         },
         "https://idp.cuhimachal.ac.in/idp/shibboleth": {
             "en": "Central University of Himachal Pradesh"
@@ -15042,6 +15048,9 @@
         "https://idp.covenantuniversity.edu.ng/idp/shibboleth": {
             "en": "Covenant University, Lagos"
         },
+        "https://idp.eksu.edu.ng/idp/shibboleth": {
+            "en": "Ekiti State University, Ado-Ekiti"
+        },
         "https://idp.fpno.edu.ng/idp/shibboleth": {
             "en": "Federal Polytechnic Nekede, Owerri"
         },
@@ -15116,6 +15125,9 @@
         },
         "https://idp.unilorin.edu.ng/idp/shibboleth": {
             "en": "University of Ilorin"
+        },
+        "https://idp.uniport.edu.ng/idp/shibboleth": {
+            "en": "University of Port Harcourt"
         },
         "https://idp.unizik.edu.ng/idp/shibboleth": {
             "en": "Nnamdi Azikiwe University, Akwa"

@@ -119,6 +119,9 @@
     "https://idp.b-u.ac.in/idp/shibboleth": {
         "en": "Bharathiar University"
     },
+    "https://idp.baou.edu.in/idp/shibboleth": {
+        "en": "Dr. Babasaheb Ambedkar Open University"
+    },
     "https://idp.bdu.ac.in/idp/shibboleth": {
         "en": "Bharathidasan University"
     },
@@ -193,6 +196,9 @@
     },
     "https://idp.ctuap.ac.in/idp/shibboleth": {
         "en": "Central Tribal University of Andhra Pradesh (CTUAP)"
+    },
+    "https://idp.cugujarat.ac.in/idp/shibboleth": {
+        "en": "Children's Research University"
     },
     "https://idp.cuhimachal.ac.in/idp/shibboleth": {
         "en": "Central University of Himachal Pradesh"
