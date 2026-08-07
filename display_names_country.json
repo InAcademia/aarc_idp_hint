@@ -976,6 +976,10 @@
             "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
             "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
         },
+        "https://cafe.catolicasc.org.br/idp/shibboleth": {
+            "en": "CSC - Catolica de Santa Catarina",
+            "pt-br": "CSC - Catolica de Santa Catarina"
+        },
         "https://cafe.cbpf.br/idp/shibboleth": {
             "en": "CBPF - Centro Brasileiro de Pesquisas Fisicas",
             "pt-br": "CBPF - Centro Brasileiro de Pesquisas Fisicas"
@@ -7321,10 +7325,6 @@
             "de": "Berliner Hochschule für Technik (BHT)",
             "en": "Berliner Hochschule für Technik (BHT)"
         },
-        "https://login.conf.dfn.de/idp/shibboleth": {
-            "de": "DFNconf Login",
-            "en": "DFNconf Login"
-        },
         "https://login.crossasia.org/idp/shibboleth": {
             "de": "CrossAsia.org (VHO)",
             "en": "CrossAsia.org (VHO)"
@@ -7460,10 +7460,6 @@
         "https://maxweberstiftung.sso.academiccloud.de/idp": {
             "de": "Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland",
             "en": "Max Weber Foundation - German Humanities Institutes Abroad"
-        },
-        "https://meet-sso.conf.dfn.de/idp/shibboleth": {
-            "de": "DFNconf eduMEET SSO",
-            "en": "DFNconf eduMEET SSO"
         },
         "https://multipass.constructor.university/idp/shibboleth": {
             "de": "Constructor University Bremen",
@@ -10166,10 +10162,6 @@
             "en": "Bordeaux Montaigne University",
             "fr": "Université Bordeaux Montaigne"
         },
-        "https://idp.u-cergy.fr/idp/shibboleth": {
-            "en": "CY Cergy Paris Université",
-            "fr": "CY Cergy Paris Université"
-        },
         "https://idp.u-paris2.fr/idp/shibboleth": {
             "en": "Université de Paris 2 - Panthéon Assas (old system)",
             "fr": "Université de Paris 2 - Panthéon Assas (ancien système)"
@@ -12203,6 +12195,9 @@
         "https://idp.mgu.ac.in/idp/shibboleth": {
             "en": "Mahatma Gandhi University, Kerala"
         },
+        "https://idp.mjpru.ac.in/idp/shibboleth": {
+            "en": "Mahatma Jyotiba Phule Rohilkhand University"
+        },
         "https://idp.mkce.ac.in/idp/shibboleth": {
             "en": "M. Kumarasamy College of Engineering"
         },
@@ -12628,6 +12623,9 @@
         },
         "https://idpvesasc.ves.ac.in/idp/shibboleth": {
             "en": "Vivekanand Education Society"
+        },
+        "https://infed.gadvasu.info/idp/shibboleth": {
+            "en": "Guru Angad Dev Veterinary and Animal Sciences University"
         },
         "https://infed.rathinamcollege.ac.in/idp/shibboleth": {
             "en": "Rathinam College Of Arts And Science"
@@ -15030,9 +15028,6 @@
         }
     },
     "ng": {
-        "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
-            "en": "Eko-Konnect Research and Education Initiative"
-        },
         "https://idap.imap.edu.ng/idp/shibboleth": {
             "en": "Isa Mustapha Agwai Polytechnic, Lafia"
         },
@@ -17385,7 +17380,7 @@
         "https://idp.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "SingAREN"
         },
-        "https://ntu.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
+        "https://ntu-entra.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {
             "en": "NTU - Nanyang Technological University"
         },
         "https://nusaz.singaren.net.sg/simplesaml/saml2/idp/metadata.php": {

@@ -691,10 +691,6 @@
         "en": "Bordeaux Montaigne University",
         "fr": "Université Bordeaux Montaigne"
     },
-    "https://idp.u-cergy.fr/idp/shibboleth": {
-        "en": "CY Cergy Paris Université",
-        "fr": "CY Cergy Paris Université"
-    },
     "https://idp.u-paris2.fr/idp/shibboleth": {
         "en": "Université de Paris 2 - Panthéon Assas (old system)",
         "fr": "Université de Paris 2 - Panthéon Assas (ancien système)"

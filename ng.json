@@ -1,7 +1,4 @@
 {
-    "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
-        "en": "Eko-Konnect Research and Education Initiative"
-    },
     "https://idap.imap.edu.ng/idp/shibboleth": {
         "en": "Isa Mustapha Agwai Polytechnic, Lafia"
     },

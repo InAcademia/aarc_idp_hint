@@ -569,6 +569,9 @@
     "https://idp.mgu.ac.in/idp/shibboleth": {
         "en": "Mahatma Gandhi University, Kerala"
     },
+    "https://idp.mjpru.ac.in/idp/shibboleth": {
+        "en": "Mahatma Jyotiba Phule Rohilkhand University"
+    },
     "https://idp.mkce.ac.in/idp/shibboleth": {
         "en": "M. Kumarasamy College of Engineering"
     },
@@ -994,6 +997,9 @@
     },
     "https://idpvesasc.ves.ac.in/idp/shibboleth": {
         "en": "Vivekanand Education Society"
+    },
+    "https://infed.gadvasu.info/idp/shibboleth": {
+        "en": "Guru Angad Dev Veterinary and Animal Sciences University"
     },
     "https://infed.rathinamcollege.ac.in/idp/shibboleth": {
         "en": "Rathinam College Of Arts And Science"

@@ -1149,10 +1149,6 @@
         "de": "Berliner Hochschule für Technik (BHT)",
         "en": "Berliner Hochschule für Technik (BHT)"
     },
-    "https://login.conf.dfn.de/idp/shibboleth": {
-        "de": "DFNconf Login",
-        "en": "DFNconf Login"
-    },
     "https://login.crossasia.org/idp/shibboleth": {
         "de": "CrossAsia.org (VHO)",
         "en": "CrossAsia.org (VHO)"
@@ -1288,10 +1284,6 @@
     "https://maxweberstiftung.sso.academiccloud.de/idp": {
         "de": "Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland",
         "en": "Max Weber Foundation - German Humanities Institutes Abroad"
-    },
-    "https://meet-sso.conf.dfn.de/idp/shibboleth": {
-        "de": "DFNconf eduMEET SSO",
-        "en": "DFNconf eduMEET SSO"
     },
     "https://multipass.constructor.university/idp/shibboleth": {
         "de": "Constructor University Bremen",
