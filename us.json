@@ -30,7 +30,7 @@
         "en": "Carilion Clinic"
     },
     "http://ksufed.kennesaw.edu/adfs/services/trust": {
-        "en": "Kennesaw State University"
+        "en": "OLD - Kennesaw State University"
     },
     "http://login.dsu.edu/adfs/services/trust": {
         "en": "Dakota State University"
@@ -1189,6 +1189,9 @@
     },
     "https://sso.kean.edu/idp": {
         "en": "Kean University"
+    },
+    "https://sso.kennesaw.edu/idp": {
+        "en": "Kennesaw State University"
     },
     "https://sso.kenyon.edu/idp/shibboleth": {
         "en": "Kenyon College"

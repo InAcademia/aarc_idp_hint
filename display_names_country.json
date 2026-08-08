@@ -16781,10 +16781,6 @@
             "en": "IPV - Serviços da Presidência",
             "pt": "IPV - Serviços da Presidência"
         },
-        "https://idp.sec-geral.mec.pt/idp/shibboleth": {
-            "en": "Secretaria Geral da Educação e Ciência",
-            "pt": "Secretaria Geral da Educação e Ciência"
-        },
         "https://idp.ua.pt/idp/shibboleth": {
             "en": "University of Aveiro",
             "pt": "Universidade de Aveiro"
@@ -21212,7 +21208,7 @@
             "en": "Carilion Clinic"
         },
         "http://ksufed.kennesaw.edu/adfs/services/trust": {
-            "en": "Kennesaw State University"
+            "en": "OLD - Kennesaw State University"
         },
         "http://login.dsu.edu/adfs/services/trust": {
             "en": "Dakota State University"
@@ -22371,6 +22367,9 @@
         },
         "https://sso.kean.edu/idp": {
             "en": "Kean University"
+        },
+        "https://sso.kennesaw.edu/idp": {
+            "en": "Kennesaw State University"
         },
         "https://sso.kenyon.edu/idp/shibboleth": {
             "en": "Kenyon College"
