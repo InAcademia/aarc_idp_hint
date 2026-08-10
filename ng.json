@@ -23,6 +23,9 @@
     "https://idp.fuask.edu.ng/idp/shibboleth": {
         "en": "Federal University of Applied Sciences, Kachia"
     },
+    "https://idp.fulafia.edu.ng/idp/shibboleth": {
+        "en": "Federal University of Lokoja"
+    },
     "https://idp.fulokoja/idp/shibboleth": {
         "en": "Federal University Lokoja"
     },

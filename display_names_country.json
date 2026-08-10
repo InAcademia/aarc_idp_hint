@@ -12556,7 +12556,7 @@
             "en": "Goa University"
         },
         "https://idp.unipune.ac.in/idp/shibboleth": {
-            "en": "Savitribai Phule Pune University"
+            "en": "Savitribai Phule Pune University, Pune"
         },
         "https://idp.unishivaji.ac.in/idp/shibboleth": {
             "en": "Shivaji University"
@@ -15052,6 +15052,9 @@
         "https://idp.fuask.edu.ng/idp/shibboleth": {
             "en": "Federal University of Applied Sciences, Kachia"
         },
+        "https://idp.fulafia.edu.ng/idp/shibboleth": {
+            "en": "Federal University of Lokoja"
+        },
         "https://idp.fulokoja/idp/shibboleth": {
             "en": "Federal University Lokoja"
         },
@@ -15239,6 +15242,10 @@
         "http://idp.ihe.nl/adfs/services/trust": {
             "en": "IHE Delft Institute for Water Education",
             "nl": "IHE Delft Institute for Water Education"
+        },
+        "http://idp.un-ihe.org/adfs/services/trust": {
+            "en": "IHE Delft Institute for Water Education (New)",
+            "nl": "IHE Delft Institute for Water Education (Nieuw)"
         },
         "http://login.hva.nl/adfs/services/trust": {
             "en": "Amsterdam University of Applied Sciences",
@@ -20531,7 +20538,7 @@
             "en": "South West College"
         },
         "https://idp.tavistockandportman.ac.uk/idp/shibboleth": {
-            "en": "Tavistock and Portman NHS Foundation Trust"
+            "en": "Tavistock Education and Training (North London NHS Foundation Trust)"
         },
         "https://idp.thomroth.ac.uk/idp/shibboleth": {
             "en": "Thomas Rotherham College"
