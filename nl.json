@@ -107,10 +107,6 @@
         "en": "IHE Delft Institute for Water Education",
         "nl": "IHE Delft Institute for Water Education"
     },
-    "http://idp.un-ihe.org/adfs/services/trust": {
-        "en": "IHE Delft Institute for Water Education (New)",
-        "nl": "IHE Delft Institute for Water Education (Nieuw)"
-    },
     "http://login.hva.nl/adfs/services/trust": {
         "en": "Amsterdam University of Applied Sciences",
         "nl": "Hogeschool van Amsterdam"

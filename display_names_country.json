@@ -11781,6 +11781,9 @@
         "https://idp.buat.edu.in/idp/shibboleth": {
             "en": "Banda University of Agriculture and Technology, Banda"
         },
+        "https://idp.bujhansi.ac.in/idp/shibboleth": {
+            "en": "Bundelkhand University, Jhansi"
+        },
         "https://idp.bvmengineering.ac.in/idp/shibboleth": {
             "en": "Birla Vishvakarma Mahavidyalaya (BVM) Engineering College"
         },
@@ -15242,10 +15245,6 @@
         "http://idp.ihe.nl/adfs/services/trust": {
             "en": "IHE Delft Institute for Water Education",
             "nl": "IHE Delft Institute for Water Education"
-        },
-        "http://idp.un-ihe.org/adfs/services/trust": {
-            "en": "IHE Delft Institute for Water Education (New)",
-            "nl": "IHE Delft Institute for Water Education (Nieuw)"
         },
         "http://login.hva.nl/adfs/services/trust": {
             "en": "Amsterdam University of Applied Sciences",
