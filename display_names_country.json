@@ -9706,6 +9706,10 @@
             "en": "Université de Reims Champagne-Ardenne",
             "fr": "Université de Reims Champagne-Ardenne"
         },
+        "https://identite.versailles.archi.fr/Saml2/Metadata": {
+            "en": "ENSA Versailles",
+            "fr": "ENSA Versailles"
+        },
         "https://identites.ec-lyon.fr/idp/shibboleth": {
             "en": "Ecole Centrale de Lyon",
             "fr": "Ecole Centrale de Lyon"
@@ -15049,6 +15053,9 @@
         "https://idp.eksu.edu.ng/idp/shibboleth": {
             "en": "Ekiti State University, Ado-Ekiti"
         },
+        "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
+            "en": "Federal College of Education(Technical), AKOKA"
+        },
         "https://idp.fpno.edu.ng/idp/shibboleth": {
             "en": "Federal Polytechnic Nekede, Owerri"
         },
@@ -15114,6 +15121,9 @@
         },
         "https://idp.uniabuja.edu.ng/idp/shibboleth": {
             "en": "University of Abuja"
+        },
+        "https://idp.uniben.edu/idp/shibboleth": {
+            "en": "University of Benin"
         },
         "https://idp.unical.edu.ng/idp/shibboleth": {
             "en": "University of Calabar"
@@ -19695,9 +19705,6 @@
         },
         "https://idp.bishopb-college.ac.uk/shibboleth": {
             "en": "Bishop Burton College"
-        },
-        "https://idp.bishopg.ac.uk/shibboleth": {
-            "en": "Bishop Grosseteste University"
         },
         "https://idp.blackburn.ac.uk/entity": {
             "en": "Blackburn College"

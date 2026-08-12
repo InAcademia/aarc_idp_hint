@@ -17,6 +17,9 @@
     "https://idp.eksu.edu.ng/idp/shibboleth": {
         "en": "Ekiti State University, Ado-Ekiti"
     },
+    "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
+        "en": "Federal College of Education(Technical), AKOKA"
+    },
     "https://idp.fpno.edu.ng/idp/shibboleth": {
         "en": "Federal Polytechnic Nekede, Owerri"
     },
@@ -82,6 +85,9 @@
     },
     "https://idp.uniabuja.edu.ng/idp/shibboleth": {
         "en": "University of Abuja"
+    },
+    "https://idp.uniben.edu/idp/shibboleth": {
+        "en": "University of Benin"
     },
     "https://idp.unical.edu.ng/idp/shibboleth": {
         "en": "University of Calabar"

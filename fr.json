@@ -235,6 +235,10 @@
         "en": "Université de Reims Champagne-Ardenne",
         "fr": "Université de Reims Champagne-Ardenne"
     },
+    "https://identite.versailles.archi.fr/Saml2/Metadata": {
+        "en": "ENSA Versailles",
+        "fr": "ENSA Versailles"
+    },
     "https://identites.ec-lyon.fr/idp/shibboleth": {
         "en": "Ecole Centrale de Lyon",
         "fr": "Ecole Centrale de Lyon"
