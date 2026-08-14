@@ -9831,8 +9831,8 @@
             "fr": "IdP - Collège de France"
         },
         "https://idp.cpe.fr/idp/shibboleth": {
-            "en": "CPE Lyon",
-            "fr": "CPE Lyon"
+            "en": "Old - CPE Lyon",
+            "fr": "Ancien - CPE Lyon"
         },
         "https://idp.criann.fr/saml2/idp/metadata.php": {
             "en": "CRIANN",
@@ -11884,6 +11884,9 @@
         "https://idp.dmu.ac.in/idp/shibboleth": {
             "en": "Dhanamanjuri University(DMU)"
         },
+        "https://idp.dsmnru.ac.in/idp/shibboleth": {
+            "en": "Dr. Shakuntala Misra National Rehabilitation University, Lucknow"
+        },
         "https://idp.du.ac.in/idp/shibboleth": {
             "en": "University of Delhi"
         },
@@ -12483,6 +12486,9 @@
         },
         "https://idp.spmvv.ac.in/idp/shibboleth": {
             "en": "Sri Padmavati Mahila Visvavidyalayam"
+        },
+        "https://idp.spuvvn.edu/idp/shibboleth": {
+            "en": "Sardar Patel University"
         },
         "https://idp.srec.ac.in/idp/shibboleth": {
             "en": "Sri Ramakrishna Engineering College"
@@ -18789,6 +18795,9 @@
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FwZWtlc2VlZA==": {
             "en": "Kapeke Seed SS"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FyZXJhc2VlZHNz": {
+            "en": "Karera Seed Secondary School"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FydW5ndXNlZWQ=": {
             "en": "KARUNGU SEED SS"
         },
@@ -18818,6 +18827,9 @@
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l0ZWJpc3M=": {
             "en": "Kitebi SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l3YXd1c3M=": {
+            "en": "Kiwawu Secondary School"
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l5YW5nYXZvYw==": {
             "en": "KIYANGA VOCATIONAL SECONDARY SCHOOL"
@@ -19142,6 +19154,9 @@
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFtdWxvbmdlY291": {
             "en": "Namulonge C.O.U ss"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFuZGVyZXNz": {
+            "en": "Nandere Senior Secondary School"
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFybw==": {
             "en": "National Agricultural Research Organisation (NARO)"
@@ -19633,9 +19648,6 @@
         },
         "https://idp.arts.ac.uk/entity": {
             "en": "University of the Arts London"
-        },
-        "https://idp.atomwide.com/idp/shibboleth": {
-            "en": "AdEPT Education: USO"
         },
         "https://idp.aub.ac.uk/openathens": {
             "en": "Arts University Bournemouth"

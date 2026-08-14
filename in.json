@@ -254,6 +254,9 @@
     "https://idp.dmu.ac.in/idp/shibboleth": {
         "en": "Dhanamanjuri University(DMU)"
     },
+    "https://idp.dsmnru.ac.in/idp/shibboleth": {
+        "en": "Dr. Shakuntala Misra National Rehabilitation University, Lucknow"
+    },
     "https://idp.du.ac.in/idp/shibboleth": {
         "en": "University of Delhi"
     },
@@ -853,6 +856,9 @@
     },
     "https://idp.spmvv.ac.in/idp/shibboleth": {
         "en": "Sri Padmavati Mahila Visvavidyalayam"
+    },
+    "https://idp.spuvvn.edu/idp/shibboleth": {
+        "en": "Sardar Patel University"
     },
     "https://idp.srec.ac.in/idp/shibboleth": {
         "en": "Sri Ramakrishna Engineering College"

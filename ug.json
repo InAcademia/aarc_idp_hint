@@ -347,6 +347,9 @@
     "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FwZWtlc2VlZA==": {
         "en": "Kapeke Seed SS"
     },
+    "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FyZXJhc2VlZHNz": {
+        "en": "Karera Seed Secondary School"
+    },
     "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2FydW5ndXNlZWQ=": {
         "en": "KARUNGU SEED SS"
     },
@@ -376,6 +379,9 @@
     },
     "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l0ZWJpc3M=": {
         "en": "Kitebi SS"
+    },
+    "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l3YXd1c3M=": {
+        "en": "Kiwawu Secondary School"
     },
     "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2l5YW5nYXZvYw==": {
         "en": "KIYANGA VOCATIONAL SECONDARY SCHOOL"
@@ -700,6 +706,9 @@
     },
     "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFtdWxvbmdlY291": {
         "en": "Namulonge C.O.U ss"
+    },
+    "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFuZGVyZXNz": {
+        "en": "Nandere Senior Secondary School"
     },
     "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFybw==": {
         "en": "National Agricultural Research Organisation (NARO)"

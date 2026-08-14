@@ -360,8 +360,8 @@
         "fr": "IdP - Collège de France"
     },
     "https://idp.cpe.fr/idp/shibboleth": {
-        "en": "CPE Lyon",
-        "fr": "CPE Lyon"
+        "en": "Old - CPE Lyon",
+        "fr": "Ancien - CPE Lyon"
     },
     "https://idp.criann.fr/saml2/idp/metadata.php": {
         "en": "CRIANN",
