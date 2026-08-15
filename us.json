@@ -845,6 +845,9 @@
     "https://proxyidp.es.net/satosafrontend/proxy.xml": {
         "en": "ESnet"
     },
+    "https://rand.org/idp": {
+        "en": "RAND Corporation"
+    },
     "https://saml-idp.wou.edu": {
         "en": "Western Oregon University SSO"
     },

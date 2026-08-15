@@ -1028,10 +1028,6 @@
             "en": "FMABC - Centro Universitario FMABC",
             "pt-br": "FMABC - Centro Universitario FMABC"
         },
-        "https://cafe.fmc-campos.com.br/idp/shibboleth": {
-            "en": "FMC - Faculdade de Medicina de Campos",
-            "pt-br": "FMC - Faculdade de Medicina de Campos"
-        },
         "https://cafe.fucape.br/idp/shibboleth": {
             "en": "FUCAPE - Fucape Pesquisa e Ensino SA",
             "pt-br": "FUCAPE - Fucape Pesquisa e Ensino SA"
@@ -22047,6 +22043,9 @@
         },
         "https://proxyidp.es.net/satosafrontend/proxy.xml": {
             "en": "ESnet"
+        },
+        "https://rand.org/idp": {
+            "en": "RAND Corporation"
         },
         "https://saml-idp.wou.edu": {
             "en": "Western Oregon University SSO"
