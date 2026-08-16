@@ -27,10 +27,13 @@
         "en": "Federal University of Applied Sciences, Kachia"
     },
     "https://idp.fulafia.edu.ng/idp/shibboleth": {
-        "en": "Federal University of Lokoja"
+        "en": "Federal University of Lafia"
     },
     "https://idp.fulokoja/idp/shibboleth": {
         "en": "Federal University Lokoja"
+    },
+    "https://idp.funai.edu.ng/idp/shibboleth": {
+        "en": "Alex Ekwueme Federal University, Ndufu- Alike, Ikwo"
     },
     "https://idp.fuoye.edu.ng/idp/shibboleth": {
         "en": "Federal University Oye-Ekiti"
