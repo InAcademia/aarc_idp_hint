@@ -227,10 +227,6 @@
         "en": "Delft University of Technology",
         "nl": "Technische Universiteit Delft"
     },
-    "https://login.uaccess.leidenuniv.nl/nidp/saml2/metadata": {
-        "en": "Leiden University",
-        "nl": "Universiteit Leiden"
-    },
     "https://login.uu.nl/nidp/saml2/metadata": {
         "en": "Utrecht University",
         "nl": "Universiteit Utrecht"
