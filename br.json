@@ -131,10 +131,6 @@
         "en": "IDOR - Instituto D'Or",
         "pt-br": "IDOR - Instituto D'Or"
     },
-    "https://cafe.idp.edu.br/idp/shibboleth": {
-        "en": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia",
-        "pt-br": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia"
-    },
     "https://cafe.iec.gov.br/idp/shibboleth": {
         "en": "IEC - Instituto Evandro Chagas",
         "pt-br": "IEC - Instituto Evandro Chagas"
@@ -458,10 +454,6 @@
     "https://capes.fcmsantacasasp.edu.br/idp/shibboleth": {
         "en": "FCMSCSP - Faculdade de Ciencias Medicas da Santa Casa de Sao Paulo",
         "pt-br": "FCMSCSP - Faculdade de Ciencias Medicas da Santa Casa de Sao Paulo"
-    },
-    "https://capuccino.ifba.edu.br/idp/shibboleth": {
-        "en": "IFBA - Instituto Federal da Bahia",
-        "pt-br": "IFBA - Instituto Federal da Bahia"
     },
     "https://capuccino2.iff.edu.br/idp/shibboleth": {
         "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
@@ -1054,6 +1046,10 @@
     "https://login.ufrgs.br/idp/shibboleth": {
         "en": "UFRGS - Universidade Federal do Rio Grande do Sul",
         "pt-br": "UFRGS - Universidade Federal do Rio Grande do Sul"
+    },
+    "https://mocaccino.ifba.edu.br/idp/shibboleth": {
+        "en": "IFBA - Instituto Federal da Bahia",
+        "pt-br": "IFBA - Instituto Federal da Bahia"
     },
     "https://netsr-cafe03.unioeste.br/idp/shibboleth": {
         "en": "UNIOESTE - Universidade Estadual do Oeste do Parana",

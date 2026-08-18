@@ -359,6 +359,10 @@
         "en": "IdP - College de France",
         "fr": "IdP - Collège de France"
     },
+    "https://idp.cpe.fr": {
+        "en": "CPE Lyon",
+        "fr": "CPE Lyon"
+    },
     "https://idp.cpe.fr/idp/shibboleth": {
         "en": "Old - CPE Lyon",
         "fr": "Ancien - CPE Lyon"
