@@ -703,6 +703,10 @@
         "en": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano",
         "pt-br": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano"
     },
+    "https://idp.ifsudestemg.edu.br/idp/shibboleth": {
+        "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
+        "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
+    },
     "https://idp.ifsuldeminas.edu.br/idp/shibboleth": {
         "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
         "pt-br": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais"
@@ -970,10 +974,6 @@
     "https://idpcafe.finep.gov.br/idp/shibboleth": {
         "en": "FINEP - Financiadora de Estudos e Projetos",
         "pt-br": "FINEP - Financiadora de Estudos e Projetos"
-    },
-    "https://idpcafe.ifsudestemg.edu.br/idp/shibboleth": {
-        "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
-        "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
     },
     "https://idpcafe.uepa.br/idp/shibboleth": {
         "en": "UEPA - Universidade do Estado do Para",

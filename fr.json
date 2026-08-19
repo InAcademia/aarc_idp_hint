@@ -823,10 +823,6 @@
         "en": "BRGM",
         "fr": "BRGM - Bureau de Recherches Géologiques et Minières"
     },
-    "https://idp2.crous-aix-marseille.fr/idp/shibboleth": {
-        "en": "CROUS Aix-Marseille",
-        "fr": "CROUS Aix-Marseille"
-    },
     "https://idp2.emse.fr/idp/shibboleth": {
         "en": "Mines Saint-Étienne - EMSE - IMT",
         "fr": "Mines Saint-Étienne - EMSE - IMT"

@@ -14,6 +14,9 @@
     "https://proxy-idp.mypolycc.edu.my/Saml2IDP/proxy.xml": {
         "en": "Jabatan Pendidikan Politeknik dan Kolej Komuniti (eBook)"
     },
+    "https://sc-idp.umk.edu.my/idp/shibboleth": {
+        "en": "Universiti Malaysia Kelantan (SINIMO)"
+    },
     "https://shib-idp.uitm.edu.my/idp/shibboleth": {
         "en": "Universiti Teknologi MARA"
     },

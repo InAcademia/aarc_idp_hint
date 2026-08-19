@@ -1620,6 +1620,10 @@
             "en": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano",
             "pt-br": "IFSERTAOPE - Instituto Federal do Sertao Pernambucano"
         },
+        "https://idp.ifsudestemg.edu.br/idp/shibboleth": {
+            "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
+            "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
+        },
         "https://idp.ifsuldeminas.edu.br/idp/shibboleth": {
             "en": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais",
             "pt-br": "IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais"
@@ -1887,10 +1891,6 @@
         "https://idpcafe.finep.gov.br/idp/shibboleth": {
             "en": "FINEP - Financiadora de Estudos e Projetos",
             "pt-br": "FINEP - Financiadora de Estudos e Projetos"
-        },
-        "https://idpcafe.ifsudestemg.edu.br/idp/shibboleth": {
-            "en": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG",
-            "pt-br": "IFSUDESTEMG - Inst Fed de Educ Ciencia e Tec do Sudeste de MG"
         },
         "https://idpcafe.uepa.br/idp/shibboleth": {
             "en": "UEPA - Universidade do Estado do Para",
@@ -10286,10 +10286,6 @@
             "en": "BRGM",
             "fr": "BRGM - Bureau de Recherches Géologiques et Minières"
         },
-        "https://idp2.crous-aix-marseille.fr/idp/shibboleth": {
-            "en": "CROUS Aix-Marseille",
-            "fr": "CROUS Aix-Marseille"
-        },
         "https://idp2.emse.fr/idp/shibboleth": {
             "en": "Mines Saint-Étienne - EMSE - IMT",
             "fr": "Mines Saint-Étienne - EMSE - IMT"
@@ -14564,6 +14560,9 @@
         "https://proxy-idp.mypolycc.edu.my/Saml2IDP/proxy.xml": {
             "en": "Jabatan Pendidikan Politeknik dan Kolej Komuniti (eBook)"
         },
+        "https://sc-idp.umk.edu.my/idp/shibboleth": {
+            "en": "Universiti Malaysia Kelantan (SINIMO)"
+        },
         "https://shib-idp.uitm.edu.my/idp/shibboleth": {
             "en": "Universiti Teknologi MARA"
         },
@@ -15848,6 +15847,10 @@
         "https://sts.windows.net/c908cc46-554c-4131-8653-45522e68e291/": {
             "en": "ROC van Amsterdam - Flevoland en het VOvA",
             "nl": "ROC van Amsterdam - Flevoland en het VOvA"
+        },
+        "https://sts.windows.net/ca2a7f76-dbd7-4ec0-9108-6b3d524fb7c8/": {
+            "en": "Leiden University (Entra)",
+            "nl": "Universiteit Leiden (Entra)"
         },
         "https://sts.windows.net/cc7df247-60ce-4a0f-9d75-704cf60efc64/": {
             "en": "Eindhoven University of Technology",
