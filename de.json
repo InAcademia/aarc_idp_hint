@@ -865,6 +865,10 @@
         "de": "PH Weingarten",
         "en": "PH Weingarten"
     },
+    "https://idp.ptb.de": {
+        "de": "Physikalisch-Technische Bundesanstalt",
+        "en": "Physikalisch-Technische Bundesanstalt"
+    },
     "https://idp.reutlingen-university.de/idp/shibboleth": {
         "de": "Reutlingen University / Hochschule Reutlingen",
         "en": "Reutlingen University / Hochschule Reutlingen"
