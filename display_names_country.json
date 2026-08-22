@@ -1048,6 +1048,10 @@
             "en": "IDOR - Instituto D'Or",
             "pt-br": "IDOR - Instituto D'Or"
         },
+        "https://cafe.idp.edu.br/idp/shibboleth": {
+            "en": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia",
+            "pt-br": "IDP - Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasilia"
+        },
         "https://cafe.iec.gov.br/idp/shibboleth": {
             "en": "IEC - Instituto Evandro Chagas",
             "pt-br": "IEC - Instituto Evandro Chagas"
@@ -11667,6 +11671,9 @@
         "https://idp-registry.ligo-india.in/idp/shibboleth": {
             "en": "LIGO-India-registry Scientific Collaboration"
         },
+        "https://idp.abvhv.edu.in/idp/shibboleth": {
+            "en": "Atal Bihari Vajpayee Hindi Vishwavidyalaya, Bhopal"
+        },
         "https://idp.aiimsbathinda.edu.in/idp/shibboleth": {
             "en": "All India Institute of Medical Sciences, Bathinda"
         },
@@ -12158,6 +12165,9 @@
         },
         "https://idp.kunainital.ac.in/idp/shibboleth": {
             "en": "Kumaun University"
+        },
+        "https://idp.lbsnaa.gov.in/idp/shibboleth": {
+            "en": "Lal Bahadur Shastri National Academy Of Administration"
         },
         "https://idp.ligo-india.in/idp/shibboleth": {
             "en": "LIGO-India Scientific Collaboration"
@@ -15044,9 +15054,6 @@
         }
     },
     "ng": {
-        "https://idap.imap.edu.ng/idp/shibboleth": {
-            "en": "Isa Mustapha Agwai Polytechnic, Lafia"
-        },
         "https://idp.abu.edu.ng/idp/shibboleth": {
             "en": "Ahmadu Bello University, Zaria"
         },
@@ -15092,14 +15099,20 @@
         "https://idp.ibbu.edu.ng/idp/shibboleth": {
             "en": "Ibrahim Badamasi Babangida University, Lapai"
         },
+        "https://idp.imap.edu.ng/idp/shibboleth": {
+            "en": "Isa Mustapha Agwai Polytechnic, Lafia"
+        },
         "https://idp.kanopoly.edu.ng/idp/shibboleth": {
             "en": "Kano State Polytechnic, Kano"
         },
         "https://idp.kustwudil.edu.ng/idp/shibboleth": {
-            "en": "Aliko Dangote University of Science and Technology"
+            "en": "Aliko Dangote University of Science and Technology, Wudil"
         },
         "https://idp.kwarastatepolytechnic.edu.ng/idp/shibboleth": {
             "en": "Kwara State Polytechnic, Ilorin"
+        },
+        "https://idp.mau.edu.ng/idp/shibboleth": {
+            "en": "Modibbo Adama University, Yola"
         },
         "https://idp.mouau.edu.ng/idp/shibboleth": {
             "en": "Michael Okpara University of Agriculture Umudike"

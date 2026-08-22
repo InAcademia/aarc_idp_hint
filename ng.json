@@ -1,7 +1,4 @@
 {
-    "https://idap.imap.edu.ng/idp/shibboleth": {
-        "en": "Isa Mustapha Agwai Polytechnic, Lafia"
-    },
     "https://idp.abu.edu.ng/idp/shibboleth": {
         "en": "Ahmadu Bello University, Zaria"
     },
@@ -47,14 +44,20 @@
     "https://idp.ibbu.edu.ng/idp/shibboleth": {
         "en": "Ibrahim Badamasi Babangida University, Lapai"
     },
+    "https://idp.imap.edu.ng/idp/shibboleth": {
+        "en": "Isa Mustapha Agwai Polytechnic, Lafia"
+    },
     "https://idp.kanopoly.edu.ng/idp/shibboleth": {
         "en": "Kano State Polytechnic, Kano"
     },
     "https://idp.kustwudil.edu.ng/idp/shibboleth": {
-        "en": "Aliko Dangote University of Science and Technology"
+        "en": "Aliko Dangote University of Science and Technology, Wudil"
     },
     "https://idp.kwarastatepolytechnic.edu.ng/idp/shibboleth": {
         "en": "Kwara State Polytechnic, Ilorin"
+    },
+    "https://idp.mau.edu.ng/idp/shibboleth": {
+        "en": "Modibbo Adama University, Yola"
     },
     "https://idp.mouau.edu.ng/idp/shibboleth": {
         "en": "Michael Okpara University of Agriculture Umudike"
