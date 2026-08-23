@@ -89,6 +89,9 @@
     "https://idp.ui.edu.ng/idp/shibboleth": {
         "en": "University of Ibadan"
     },
+    "https://idp.umyu.edu.ng/idp/shibboleth": {
+        "en": "Umaru Musa Yar'adua University,  Katsina"
+    },
     "https://idp.uniabuja.edu.ng/idp/shibboleth": {
         "en": "University of Abuja"
     },
@@ -112,8 +115,5 @@
     },
     "https://idp.unizik.edu.ng/idp/shibboleth": {
         "en": "Nnamdi Azikiwe University, Akwa"
-    },
-    "https://ldap.umyu.edu.ng/idp/shibboleth": {
-        "en": "Umaru Musa Yar'adua University,  Katsina"
     }
 }
