@@ -501,9 +501,6 @@
         }
     },
     "bd": {
-        "https://auth0.uttara.ac.bd/realms/uucas": {
-            "en": "Uttara University"
-        },
         "https://idp.apacfilesender.asia/idp/shibboleth": {
             "en": "APAC Virtual Home"
         },
@@ -1319,10 +1316,6 @@
         "https://cafe2.unifesspa.edu.br/idp/shibboleth": {
             "en": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para",
             "pt-br": "UNIFESSPA - Universidade Federal do Sul e Sudeste do Para"
-        },
-        "https://cafe2.unoeste.br/idp/shibboleth": {
-            "en": "UNOESTE - Universidade do Oeste Paulista",
-            "pt-br": "UNOESTE - Universidade do Oeste Paulista"
         },
         "https://cafe2022.lncc.br/idp/shibboleth": {
             "en": "LNCC - Laboratorio Nacional de Computacao Cientifica",
@@ -3770,10 +3763,6 @@
         "https://idp.hebeu.edu.cn/idp/shibboleth": {
             "en": "Hebei University of Engineering",
             "zh": "河北工程大学(Hebei University of Engineering)"
-        },
-        "https://idp.hebic.edu.cn/idp/shibboleth": {
-            "en": "Hebei Institute Of Communications",
-            "zh": "河北传媒学院(Hebei Institute Of Communications)"
         },
         "https://idp.hebmu.edu.cn/idp/shibboleth": {
             "en": "Hebei Medical University",
@@ -15081,7 +15070,7 @@
         "https://idp.fulafia.edu.ng/idp/shibboleth": {
             "en": "Federal University of Lafia"
         },
-        "https://idp.fulokoja/idp/shibboleth": {
+        "https://idp.fulokoja.edu.ng/idp/shibboleth": {
             "en": "Federal University Lokoja"
         },
         "https://idp.funai.edu.ng/idp/shibboleth": {
