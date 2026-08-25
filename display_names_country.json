@@ -3764,6 +3764,10 @@
             "en": "Hebei University of Engineering",
             "zh": "河北工程大学(Hebei University of Engineering)"
         },
+        "https://idp.hebic.edu.cn/idp/shibboleth": {
+            "en": "Hebei Institute Of Communications",
+            "zh": "河北传媒学院(Hebei Institute Of Communications)"
+        },
         "https://idp.hebmu.edu.cn/idp/shibboleth": {
             "en": "Hebei Medical University",
             "zh": "河北医科大学(Hebei Medical University)"
@@ -8132,14 +8136,6 @@
             "en": "Dania Academy"
         }
     },
-    "dz": {
-        "https://idp.grid.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science GRID IDP"
-        },
-        "https://med-idp.arn.dz/idp/shibboleth": {
-            "en": "DZ e-Science MEDECINE IDP"
-        }
-    },
     "ec": {
         "https://login.armada.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Armada del Ecuador - armada",
@@ -9514,10 +9510,6 @@
         "https://auth.crous-caen.fr/idp/shibboleth": {
             "en": "CROUS Caen-Personnels V3",
             "fr": "CROUS Caen-Personnels V3"
-        },
-        "https://auth.crous-rennes.fr/idp/shibboleth": {
-            "en": "CROUS Rennes V3",
-            "fr": "CROUS Rennes V3"
         },
         "https://auth.glesr.fr/realms/cnl": {
             "en": "CNL",
@@ -12582,7 +12574,7 @@
             "en": "UP Pandit Deen Dayal Upadhyaya Veterinary University and  Gau-Anusandhan Sansthan, Mathura"
         },
         "https://idp.uvcelibrary.org/idp/shibboleth": {
-            "en": "University of Visvesvaraya College of Engineering"
+            "en": "University of Visvesvaraya College of Engineering, Bangalore"
         },
         "https://idp.vcw.ac.in/idp/shibboleth": {
             "en": "Vellalar College For Women"
@@ -14035,6 +14027,9 @@
         },
         "https://idp.icipe.org/simplesaml/saml2/idp/metadata.php": {
             "en": "icipe"
+        },
+        "https://idp.jkuat.ac.ke/idp/shibboleth": {
+            "en": "JKUAT"
         },
         "https://idp.ku.ac.ke/simplesaml/saml2/idp/metadata.php": {
             "en": "Kenyatta University"
@@ -17049,6 +17044,10 @@
             "en": "Faculty of organizational sciences",
             "sr": "Fakultet organizacionih nauka"
         },
+        "https://idp.grf.bg.ac.rs/idp/shibboleth": {
+            "en": "University of Belgrade - Faculty of Civil Engineering",
+            "sr": "Univerzitet u Beogradu - Građevinski fakultet"
+        },
         "https://idp.iup.ac.rs/idp/shibboleth": {
             "en": "The Institute of Comparative Law",
             "sr": "Institut za uporedno pravo"
@@ -18200,10 +18199,6 @@
         "https://kimlik.yalova.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Yalova University",
             "tr": "Yalova Üniversitesi"
-        },
-        "https://kimlik.yeditepe.edu.tr/idp/shibboleth": {
-            "en": "Yeditepe University",
-            "tr": "Yeditepe Üniversitesi"
         },
         "https://myacademicid.istanbul.edu.tr/idp/shibboleth": {
             "en": "Istanbul University",

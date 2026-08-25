@@ -8,6 +8,9 @@
     "https://idp.icipe.org/simplesaml/saml2/idp/metadata.php": {
         "en": "icipe"
     },
+    "https://idp.jkuat.ac.ke/idp/shibboleth": {
+        "en": "JKUAT"
+    },
     "https://idp.ku.ac.ke/simplesaml/saml2/idp/metadata.php": {
         "en": "Kenyatta University"
     },
