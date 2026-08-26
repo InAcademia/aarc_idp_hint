@@ -47,8 +47,8 @@
             "en": "University for Art and Design Linz"
         },
         "https://auth.fh-kufstein.ac.at/idp/shibboleth": {
-            "de": "FH Kufstein",
-            "en": "University of Applied Science Kufstein"
+            "de": "HOK | Hochschule Kufstein Tirol",
+            "en": "HOK | University of Applied Science Kufstein Tirol"
         },
         "https://auth.ph-noe.ac.at/idp/shibboleth": {
             "de": "Pädagogische Hochschule Niederösterreich",
@@ -2839,10 +2839,6 @@
         "https://idp.ffhs.ch/idp/shibboleth": {
             "de": "FFHS - Fernfachhochschule Schweiz",
             "en": "FFHS - Fernfachhochschule Schweiz"
-        },
-        "https://idp.graduateinstitute.ch/idp/shibboleth": {
-            "en": "Institut de hautes études internationales et du développement",
-            "fr": "Institut de hautes études internationales et du développement"
         },
         "https://idp.hslu.ch/idp/shibboleth": {
             "de": "HSLU - Hochschule Luzern",
@@ -8515,6 +8511,10 @@
             "en": "Tartu Healthcare College",
             "et": "Tartu Tervishoiu Kõrgkool"
         },
+        "https://ssp.eava.ee/saml2/idp/metadata.php": {
+            "en": "Estonian Aviation Academy",
+            "et": "Eesti Lennuakadeemia"
+        },
         "https://sts.windows.net/85a5c3b9-b2bd-4bbc-ad62-7a0e4d77e87f/": {
             "en": "EMKTS Microsoft ENTRA",
             "et": "EMKTS Microsoft ENTRA"
@@ -13813,6 +13813,10 @@
             "en": "KUMAMOTO GAKUEN UNIVERSITY",
             "ja": "熊本学園大学"
         },
+        "https://kyotophu.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Kyoto Pharmaceutical University",
+            "ja": "京都薬科大学"
+        },
         "https://ldap.fukuyama-u.ac.jp/idp/shibboleth": {
             "en": "Fukuyama University",
             "ja": "福山大学"
@@ -16921,98 +16925,6 @@
         "https://wayf.up.pt/idp/shibboleth": {
             "en": "University of Porto",
             "pt": "Universidade do Porto"
-        }
-    },
-    "ro": {
-        "https://aai.e-uvt.ro/sso/module.php/saml/idp/metadata": {
-            "en": "West University of Timisoara",
-            "ro": "Universitatea de Vest din Timisoara"
-        },
-        "https://accounts.ulbsibiu.ro/myaccount-provider/saml2/idp/metadata.php": {
-            "en": "Lucian Blaga University of Sibiu IdP",
-            "ro": "Universitatea Lucian Blaga din Sibiu IdP"
-        },
-        "https://anelisplus.utcluj.ro/simplesaml/saml2/idp/metadata.php": {
-            "en": "Technical University of Cluj-Napoca",
-            "ro": "Universitatea Tehnica din Cluj-Napoca"
-        },
-        "https://auth.unitbv.ro/simplesaml/saml2/idp/metadata.php": {
-            "en": "Transilvania University of Brasov",
-            "ro": "Universitatea Transilvania din Brasov"
-        },
-        "https://bridge.login.upb.ro/saml2/idp/metadata.php": {
-            "en": "University \"Politehnica\" of Bucharest",
-            "ro": "Universitatea \"Politehnica\" din București"
-        },
-        "https://eduid.umfiasi.ro/idp/shibboleth": {
-            "en": "University of Medicine and Pharmacy \"Grigore T. Popa\" from Iași",
-            "ro": "Universitatea de Medicină și Farmacie \"Grigore T. Popa\" din Iași"
-        },
-        "https://idp.roedu.net/idp/shibboleth": {
-            "en": "Agency ARNIEC RoEduNet IdP",
-            "ro": "IdP Agenția ARNIEC RoEduNet"
-        },
-        "https://idp.uaic.ro/idp/shibboleth": {
-            "en": "University \"Alexandru Ioan Cuza\" from Iasi",
-            "ro": "Universitatea \"Alexandru Ioan Cuza\" din Iasi"
-        },
-        "https://idp.ub.ro/idp/shibboleth": {
-            "en": "UBC Identity Provider"
-        },
-        "https://idp.ubbcluj.ro/smp/saml2/idp/metadata.php": {
-            "en": "Babes-Bolyai University",
-            "ro": "Universitatea Babe??-Bolyai"
-        },
-        "https://idp.ucv.ro/simplesaml/saml2/idp/metadata.php": {
-            "en": "University of Craiova",
-            "ro": "Universitatea din Craiova"
-        },
-        "https://idp.unatc.ro/simplesaml/": {
-            "en": "UNATC - National University of Theatre and Film \"I.L. Caragiale\", Bucharest",
-            "ro": "UNATC - Universitatea Nationala de Arta Teatrala si Cinematografica \"I.L. Caragiale\" din Bucuresti"
-        },
-        "https://idp.unibuc.ro/idp/shibboleth": {
-            "en": "University of Bucharest",
-            "ro": "Universitatea din București"
-        },
-        "https://idp.univ-ovidius.ro/idp/shibboleth": {
-            "en": "Ovidius University of Constanta",
-            "ro": "Universitatea Ovidius Constanta"
-        },
-        "https://idp.uoradea.ro/idp/shibboleth": {
-            "en": "University of Oradea",
-            "ro": "Universitatea din Oradea"
-        },
-        "https://idp.upet.ro/idp/shibboleth": {
-            "en": "University of Petrosani - Shibboleth IdP",
-            "ro": "Universitatea din Petroșani - Shibboleth IdP"
-        },
-        "https://idp.upg-ploiesti.ro/simplesaml/saml2/idp/metadata.php": {
-            "en": "Petroleum Gas University of Ploiesti",
-            "ro": "Universitatea Petrol-Gaze din Ploiesti"
-        },
-        "https://idp.usamvcluj.ro/idp/shibboleth": {
-            "en": "USAMV Cluj-Napoca"
-        },
-        "https://idp.usv.ro/simplesaml/saml2/idp/metadata.php": {
-            "en": "Stefan cel Mare University of Suceava",
-            "ro": "Universitatea Stefan cel Mare din Suceava"
-        },
-        "https://idp.utcb.ro/idp/shibboleth": {
-            "en": "Technical University of Civil Engineering Bucharest IdP",
-            "ro": "IdP al Universitatii Tehnice de Constructii Bucuresti"
-        },
-        "https://idp2.upt.ro/idp/shibboleth": {
-            "en": "Politehnica University Timisoara",
-            "ro": "Universitatea Politehnica Timisoara"
-        },
-        "https://splp.snspa.ro/smplp/saml2/idp/metadata.php": {
-            "en": "National School of Political Science and Public Administration",
-            "ro": "Scoala Nationala de Studii Politice si Administrative"
-        },
-        "https://sso.tuiasi.ro/auth/realms/TUIASI": {
-            "en": "Gheorghe Asachi Technical University of Iaşi - TUIASI",
-            "ro": "Universitatea Tehnică „Gheorghe Asachi” din Iaşi - TUIASI"
         }
     },
     "rs": {
@@ -23194,8 +23106,8 @@
             "en": "Wits University"
         },
         "https://proxy.safire.ac.za/birk.php/idp.wsu.ac.za/simplesaml/saml2/idp/metadata.php": {
-            "af": "Walter Sisulu Universiteit",
-            "en": "Walter Sisulu University"
+            "en": "Walter Sisulu University",
+            "xh": "iYunivesithi Walter Sisulu"
         },
         "https://proxy.safire.ac.za/birk.php/login.ru.ac.za/idp/shibboleth": {
             "en": "Rhodes University",
