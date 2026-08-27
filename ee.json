@@ -35,10 +35,6 @@
         "en": "Tartu Healthcare College",
         "et": "Tartu Tervishoiu Kõrgkool"
     },
-    "https://ssp.eava.ee/saml2/idp/metadata.php": {
-        "en": "Estonian Aviation Academy",
-        "et": "Eesti Lennuakadeemia"
-    },
     "https://sts.windows.net/85a5c3b9-b2bd-4bbc-ad62-7a0e4d77e87f/": {
         "en": "EMKTS Microsoft ENTRA",
         "et": "EMKTS Microsoft ENTRA"

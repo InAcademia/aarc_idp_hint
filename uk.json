@@ -155,6 +155,9 @@
     "https://idp.acs-schools.com/openathens": {
         "en": "ACS Schools"
     },
+    "https://idp.ad-education.ac.uk/entity": {
+        "en": "AD Education UK/SAE UK/ICMP"
+    },
     "https://idp.altoncollege.ac.uk/idp/shibboleth": {
         "en": "Alton College"
     },
