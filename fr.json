@@ -403,6 +403,10 @@
         "en": "Institut Curie - Research center",
         "fr": "Institut Curie - Centre de recherche"
     },
+    "https://idp.cyu.fr/idp/shibboleth": {
+        "en": "CY Cergy Paris University",
+        "fr": "CY Cergy Paris Université"
+    },
     "https://idp.ec-nantes.fr/idp/shibboleth": {
         "en": "Centrale Nantes",
         "fr": "Centrale Nantes"

@@ -319,10 +319,6 @@
         "en": "Dokuz Eylul University",
         "tr": "Dokuz Eylül Üniversitesi"
     },
-    "https://kimlik.dicle.edu.tr/idp/shibboleth": {
-        "en": "Dicle University",
-        "tr": "Dicle Üniversitesi"
-    },
     "https://kimlik.duzce.edu.tr/simplesaml/saml2/idp/metadata.php": {
         "en": "Duzce University",
         "tr": "Düzce Üniversitesi"

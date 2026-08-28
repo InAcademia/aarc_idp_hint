@@ -78,6 +78,10 @@
             "de": "Akademie der bildenden Künste Wien",
             "en": "Academy of Fine Arts Vienna"
         },
+        "https://idp.apps.aithyra.at/idp/shibboleth": {
+            "de": "AITHYRA",
+            "en": "AITHYRA"
+        },
         "https://idp.boku.ac.at/idp/shibboleth": {
             "de": "Universität für Bodenkultur Wien",
             "en": "University of Natural Resources and Life Sciences, Vienna"
@@ -1428,10 +1432,6 @@
         "https://idp-cafe.ifg.edu.br/idp/shibboleth": {
             "en": "IFG - Instituto Federal de Goias",
             "pt-br": "IFG - Instituto Federal de Goias"
-        },
-        "https://idp-cafe.ifgoiano.edu.br/idp/shibboleth": {
-            "en": "IFGOIANO - Instituto Federal Goiano",
-            "pt-br": "IFGOIANO - Instituto Federal Goiano"
         },
         "https://idp-cafe.ird.gov.br/idp/shibboleth": {
             "en": "IRD - Instituto de Radioprotecao e Dosimetria",
@@ -9851,6 +9851,10 @@
             "en": "Institut Curie - Research center",
             "fr": "Institut Curie - Centre de recherche"
         },
+        "https://idp.cyu.fr/idp/shibboleth": {
+            "en": "CY Cergy Paris University",
+            "fr": "CY Cergy Paris Université"
+        },
         "https://idp.ec-nantes.fr/idp/shibboleth": {
             "en": "Centrale Nantes",
             "fr": "Centrale Nantes"
@@ -18012,10 +18016,6 @@
         "https://kimlik.deu.edu.tr/idp/shibboleth": {
             "en": "Dokuz Eylul University",
             "tr": "Dokuz Eylül Üniversitesi"
-        },
-        "https://kimlik.dicle.edu.tr/idp/shibboleth": {
-            "en": "Dicle University",
-            "tr": "Dicle Üniversitesi"
         },
         "https://kimlik.duzce.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Duzce University",
