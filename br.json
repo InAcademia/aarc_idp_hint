@@ -623,6 +623,10 @@
         "en": "FACAPE - Faculdade de Petrolina",
         "pt-br": "FACAPE - Faculdade de Petrolina"
     },
+    "https://idp.fae.br/idp/shibboleth": {
+        "en": "UNIFAE - Centro Universitario das Faculdades Associadas de Ensino",
+        "pt-br": "UNIFAE - Centro Universitario das Faculdades Associadas de Ensino"
+    },
     "https://idp.fapeal.br/idp/shibboleth": {
         "en": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas",
         "pt-br": "FAPEAL - Fundacao de Amparo a Pesquisa de Alagoas"
