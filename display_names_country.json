@@ -388,6 +388,9 @@
         "https://aaf.unsw.edu.au/idp/shibboleth": {
             "en": "The University of New South Wales (UNSW)"
         },
+        "https://aaf.victorchang.edu.au/idp/shibboleth": {
+            "en": "Victor Chang Cardiac Research Institute"
+        },
         "https://aaf1-idp.its.utas.edu.au/idp/shibboleth": {
             "en": "University of Tasmania"
         },
@@ -4939,6 +4942,10 @@
         "https://idp.xjtu.edu.cn/idp/shibboleth": {
             "en": "Xi'an Jiaotong University",
             "zh": "西安交通大学(Xi'an Jiaotong University)"
+        },
+        "https://idp.xjut.edu.cn/idp/shibboleth": {
+            "en": "Xingjiang  University of Technology",
+            "zh": "新疆工业学院(Xingjiang  University of Technology)"
         },
         "https://idp.xjzfu.edu.cn/idp/shibboleth": {
             "en": "Xinjiang University of Political Science and Law",
@@ -9859,10 +9866,6 @@
             "en": "CROUS Toulouse - Personnels",
             "fr": "CROUS Toulouse - Personnels"
         },
-        "https://idp.curie.fr/idp/saml2/metadata": {
-            "en": "Institut Curie - Research center",
-            "fr": "Institut Curie - Centre de recherche"
-        },
         "https://idp.cyu.fr/idp/shibboleth": {
             "en": "CY Cergy Paris University",
             "fr": "CY Cergy Paris Université"
@@ -11821,6 +11824,9 @@
         },
         "https://idp.ctuap.ac.in/idp/shibboleth": {
             "en": "Central Tribal University of Andhra Pradesh (CTUAP)"
+        },
+        "https://idp.cuap.ac.in/idp/shibboleth": {
+            "en": "Central University of Andhra Pradesh, Anantapur"
         },
         "https://idp.cugujarat.ac.in/idp/shibboleth": {
             "en": "Children's Research University"

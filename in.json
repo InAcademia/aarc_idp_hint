@@ -203,6 +203,9 @@
     "https://idp.ctuap.ac.in/idp/shibboleth": {
         "en": "Central Tribal University of Andhra Pradesh (CTUAP)"
     },
+    "https://idp.cuap.ac.in/idp/shibboleth": {
+        "en": "Central University of Andhra Pradesh, Anantapur"
+    },
     "https://idp.cugujarat.ac.in/idp/shibboleth": {
         "en": "Children's Research University"
     },

@@ -11,6 +11,9 @@
     "https://aaf.unsw.edu.au/idp/shibboleth": {
         "en": "The University of New South Wales (UNSW)"
     },
+    "https://aaf.victorchang.edu.au/idp/shibboleth": {
+        "en": "Victor Chang Cardiac Research Institute"
+    },
     "https://aaf1-idp.its.utas.edu.au/idp/shibboleth": {
         "en": "University of Tasmania"
     },
