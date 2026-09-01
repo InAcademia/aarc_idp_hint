@@ -13715,6 +13715,10 @@
             "en": "University of Hyogo",
             "ja": "兵庫県立大学"
         },
+        "https://idp.wakayama-u.ac.jp/idp/shibboleth": {
+            "en": "Wakayama University",
+            "ja": "和歌山大学"
+        },
         "https://idp.ygu.ac.jp/idp/shibboleth": {
             "en": "Yamanashi Gakuin University",
             "ja": "山梨学院大学"
@@ -14533,28 +14537,6 @@
         },
         "https://idp.unima.ac.mw/idp/shibboleth": {
             "en": "University Of Malawi"
-        }
-    },
-    "mx": {
-        "https://idp.fenix.org.mx/idp/": {
-            "en": "FENIX",
-            "es": "FENIX"
-        },
-        "https://idp.ucol.mx/saml20/": {
-            "en": "University of Colima",
-            "es": "Universidad de Colima"
-        },
-        "https://idp.udg.mx": {
-            "en": "Universidad de Guadalajara",
-            "es": "Universidad de Guadalajara"
-        },
-        "https://idp.unam.mx": {
-            "en": "UNAM",
-            "es": "UNAM"
-        },
-        "https://wayf.fenix.org.mx/wayf/": {
-            "en": "Federacion Nacional de Identidades Mexicanas (FENIX)",
-            "es": "Federacion Nacional de Identidades Mexicanas (FENIX)"
         }
     },
     "my": {
@@ -18034,6 +18016,10 @@
         "https://kimlik.deu.edu.tr/idp/shibboleth": {
             "en": "Dokuz Eylul University",
             "tr": "Dokuz Eylül Üniversitesi"
+        },
+        "https://kimlik.dicle.edu.tr/idp/shibboleth": {
+            "en": "Dicle University",
+            "tr": "Dicle Üniversitesi"
         },
         "https://kimlik.duzce.edu.tr/simplesaml/saml2/idp/metadata.php": {
             "en": "Duzce University",

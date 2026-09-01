@@ -338,6 +338,10 @@
         "en": "University of Hyogo",
         "ja": "兵庫県立大学"
     },
+    "https://idp.wakayama-u.ac.jp/idp/shibboleth": {
+        "en": "Wakayama University",
+        "ja": "和歌山大学"
+    },
     "https://idp.ygu.ac.jp/idp/shibboleth": {
         "en": "Yamanashi Gakuin University",
         "ja": "山梨学院大学"
