@@ -6520,8 +6520,8 @@
             "en": "Fraunhofer-Gesellschaft (Fallback)"
         },
         "https://idp.fv-berlin.de/idp/shibboleth": {
-            "de": "Forschungsverbund Berlin e.V.",
-            "en": "Forschungsverbund Berlin e.V."
+            "de": "Forschungsverbund Berlin e.V. (FVB)",
+            "en": "Forschungsverbund Berlin e.V. (FVB)"
         },
         "https://idp.fzi.de/idp/shibboleth": {
             "de": "FZI Forschungszentrum Informatik",
@@ -6588,7 +6588,7 @@
             "en": "Universität Frankfurt"
         },
         "https://idp.hehrz.de/idp/shibboleth": {
-            "de": "IDP HeHRZ Darmstadt",
+            "de": "HeHRZ Darmstadt",
             "en": "HeHRZ Darmstadt"
         },
         "https://idp.heilbronn.dhbw.de/idp/shibboleth": {
@@ -8920,6 +8920,10 @@
         "https://www.rediris.es/sir/sacylidp": {
             "en": "Sanidad de Castilla y Leon",
             "es": "Sanidad de Castilla y León"
+        },
+        "https://www.rediris.es/sir/sandetelidp": {
+            "en": "SANDETEL",
+            "es": "SANDETEL"
         },
         "https://www.rediris.es/sir/sergasidp": {
             "en": "Servizo Galego de Saúde",
@@ -15035,6 +15039,9 @@
         }
     },
     "ng": {
+        "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
+            "en": "Eko-Konnect Research and Education Initiative"
+        },
         "https://idp.abu.edu.ng/idp/shibboleth": {
             "en": "Ahmadu Bello University, Zaria"
         },
@@ -16973,8 +16980,8 @@
             "ro": "Universitatea din București"
         },
         "https://idp.univ-ovidius.ro/idp/shibboleth": {
-            "en": "Ovidius University of Constanta",
-            "ro": "Universitatea Ovidius Constanta"
+            "en": "Universitatea Ovidius din Constanta",
+            "ro": "Universitatea Ovidius din Constanta"
         },
         "https://idp.uoradea.ro/idp/shibboleth": {
             "en": "University of Oradea",

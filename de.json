@@ -352,8 +352,8 @@
         "en": "Fraunhofer-Gesellschaft (Fallback)"
     },
     "https://idp.fv-berlin.de/idp/shibboleth": {
-        "de": "Forschungsverbund Berlin e.V.",
-        "en": "Forschungsverbund Berlin e.V."
+        "de": "Forschungsverbund Berlin e.V. (FVB)",
+        "en": "Forschungsverbund Berlin e.V. (FVB)"
     },
     "https://idp.fzi.de/idp/shibboleth": {
         "de": "FZI Forschungszentrum Informatik",
@@ -420,7 +420,7 @@
         "en": "Universität Frankfurt"
     },
     "https://idp.hehrz.de/idp/shibboleth": {
-        "de": "IDP HeHRZ Darmstadt",
+        "de": "HeHRZ Darmstadt",
         "en": "HeHRZ Darmstadt"
     },
     "https://idp.heilbronn.dhbw.de/idp/shibboleth": {
