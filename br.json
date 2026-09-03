@@ -55,6 +55,10 @@
         "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
         "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
     },
+    "https://cafe-rpilot2.unoeste.br/idp/shibboleth": {
+        "en": "UNOESTE - Universidade do Oeste Paulista",
+        "pt-br": "UNOESTE - Universidade do Oeste Paulista"
+    },
     "https://cafe-school.cesar.org.br/idp/shibboleth": {
         "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
         "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"

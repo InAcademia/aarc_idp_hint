@@ -976,6 +976,10 @@
             "en": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
             "pt-br": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro"
         },
+        "https://cafe-rpilot2.unoeste.br/idp/shibboleth": {
+            "en": "UNOESTE - Universidade do Oeste Paulista",
+            "pt-br": "UNOESTE - Universidade do Oeste Paulista"
+        },
         "https://cafe-school.cesar.org.br/idp/shibboleth": {
             "en": "CESAR - Centro de Estudos e Sistemas Avancados do Recife",
             "pt-br": "CESAR - Centro de Estudos e Sistemas Avancados do Recife"
@@ -3594,6 +3598,10 @@
         "https://idp.fzu.edu.cn/idp/shibboleth": {
             "en": "Fuzhou University",
             "zh": "福州大学(Fuzhou University)"
+        },
+        "https://idp.gbu.edu.cn/idp/shibboleth": {
+            "en": "Great Bay University",
+            "zh": "大湾区大学(Great Bay University)"
         },
         "https://idp.gdmu.edu.cn/idp/shibboleth": {
             "en": "Guangdong Medical University",
@@ -11667,6 +11675,9 @@
         "https://idp-registry.ligo-india.in/idp/shibboleth": {
             "en": "LIGO-India-registry Scientific Collaboration"
         },
+        "https://idp.aau.in/idp/shibboleth": {
+            "en": "Anand Agricultural University"
+        },
         "https://idp.abvhv.edu.in/idp/shibboleth": {
             "en": "Atal Bihari Vajpayee Hindi Vishwavidyalaya, Bhopal"
         },
@@ -12656,6 +12667,9 @@
         },
         "https://iris.nitk.ac.in/saml/v2": {
             "en": "National Institute of Technology Karnataka, Surathkal"
+        },
+        "https://journals.cmfri.org.in/idp/shibboleth": {
+            "en": "ICAR-Central Marine Fisheries Research Institute, Ernakulam, Cochin"
         },
         "https://ldp.iiests.ac.in/idp/shibboleth": {
             "en": "Indian Institute of Engineering Science and Technology, Shibpur"
@@ -19204,6 +19218,9 @@
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbHVrb2xlc2VlZA==": {
             "en": "Lukole Seed Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbHVuZ3VsdXNlZWRzcw==": {
+            "en": "Lungulu Seed SS"
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbHdhbmdh": {
             "en": "St. Charles Lwanga College Koboko"

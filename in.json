@@ -41,6 +41,9 @@
     "https://idp-registry.ligo-india.in/idp/shibboleth": {
         "en": "LIGO-India-registry Scientific Collaboration"
     },
+    "https://idp.aau.in/idp/shibboleth": {
+        "en": "Anand Agricultural University"
+    },
     "https://idp.abvhv.edu.in/idp/shibboleth": {
         "en": "Atal Bihari Vajpayee Hindi Vishwavidyalaya, Bhopal"
     },
@@ -1030,6 +1033,9 @@
     },
     "https://iris.nitk.ac.in/saml/v2": {
         "en": "National Institute of Technology Karnataka, Surathkal"
+    },
+    "https://journals.cmfri.org.in/idp/shibboleth": {
+        "en": "ICAR-Central Marine Fisheries Research Institute, Ernakulam, Cochin"
     },
     "https://ldp.iiests.ac.in/idp/shibboleth": {
         "en": "Indian Institute of Engineering Science and Technology, Shibpur"
