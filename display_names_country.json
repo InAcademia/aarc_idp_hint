@@ -1440,6 +1440,10 @@
             "en": "IFG - Instituto Federal de Goias",
             "pt-br": "IFG - Instituto Federal de Goias"
         },
+        "https://idp-cafe.ifgoiano.edu.br/idp/shibboleth": {
+            "en": "IFGOIANO - Instituto Federal Goiano",
+            "pt-br": "IFGOIANO - Instituto Federal Goiano"
+        },
         "https://idp-cafe.ird.gov.br/idp/shibboleth": {
             "en": "IRD - Instituto de Radioprotecao e Dosimetria",
             "pt-br": "IRD - Instituto de Radioprotecao e Dosimetria"
@@ -3018,6 +3022,10 @@
         "https://idp-lib.huh.edu.cn/idp/shibboleth": {
             "en": "He University",
             "zh": "辽宁何氏医学院(He University)"
+        },
+        "https://idp-lib.imau.edu.cn/idp/shibboleth": {
+            "en": "Inner Mongolia Agricultural University",
+            "zh": "内蒙古农业大学(Inner Mongolia Agricultural University)"
         },
         "https://idp-lib.jlu.edu.cn/idp/shibboleth": {
             "en": "Jilin University",
@@ -15028,9 +15036,9 @@
             "en": "National Science Library, Chinese Academy of Sciences",
             "zh": "中国科学院文献情报中心"
         },
-        "https://idp.redclara.net/saml2/idp/metadata.php": {
-            "en": "RedCLARA - IdP",
-            "es": "RedCLARA - IdP"
+        "https://idp.redclara.net/idp": {
+            "en": "FIEL - RedCLARA",
+            "es": "FIEL - RedCLARA"
         },
         "https://idp.scholarin.cn/idp/shibboleth": {
             "en": "Scholarin ID",
@@ -15071,8 +15079,14 @@
         "https://idp.eksu.edu.ng/idp/shibboleth": {
             "en": "Ekiti State University, Ado-Ekiti"
         },
+        "https://idp.fceilawe.edu.ng/idp/shibboleth": {
+            "en": "Federal College of Education. Ilawe-Ekiti"
+        },
         "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
             "en": "Federal College of Education(Technical), AKOKA"
+        },
+        "https://idp.federalpolyoko.edu.ng/idp/shibboleth": {
+            "en": "Federal Polytechnic Oko"
         },
         "https://idp.fpno.edu.ng/idp/shibboleth": {
             "en": "Federal Polytechnic Nekede, Owerri"
@@ -15088,6 +15102,9 @@
         },
         "https://idp.funai.edu.ng/idp/shibboleth": {
             "en": "Alex Ekwueme Federal University, Ndufu- Alike, Ikwo"
+        },
+        "https://idp.fuotuoke.edu.ng/idp/shibboleth": {
+            "en": "Federal University Otuoke"
         },
         "https://idp.fuoye.edu.ng/idp/shibboleth": {
             "en": "Federal University Oye-Ekiti"
@@ -18616,6 +18633,9 @@
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYWxsc2FpbnRzb2NpYmE=": {
             "en": "All Saints SS Ociba"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYXBhY3NlZWQ=": {
+            "en": "Apac Seed Secondary School"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYXBhbGFzcw==": {
             "en": "Apala SS"
         },
@@ -18666,6 +18686,9 @@
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmV0aGFueWxhbmRpbnN0aXR1dGU=": {
             "en": "Bethany Land Institute (BLI)"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmV6emFhbC1oaWpqaXNz": {
+            "en": "Bezza Al-hijji SS"
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtYmlnYWRhc3Nz": {
             "en": "St. John Mary Muzeeyi's Bigada S.S."
@@ -19012,11 +19035,17 @@
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2liYWFsZXNz": {
             "en": "Kibaale Secondary School"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2liYXRzaWhpZ2hzY2hvb2w=": {
+            "en": "Kibatsi High School"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lib2dhcGFyZW50cw==": {
             "en": "Kiboga parents secondary school"
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lidWxpc3M=": {
             "en": "Kibuli SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2ljd2FtYmFzcw==": {
+            "en": "Kicwamba Secondary School"
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAta2lkb2tvc3M=": {
             "en": "Kidoko Secondary School"
@@ -19105,6 +19134,9 @@
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaWd1a2E=": {
             "en": "St. Ignatius University (IGUKA)"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaWd1bGlnaXJsc3Nz": {
+            "en": "Iguli Girls SS"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtaWdhbmdhaGlnaA==": {
             "en": "Iganga High"
         },
@@ -19150,6 +19182,9 @@
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb2NvY2lhZ2lybHM=": {
             "en": "OCOCIA GIRLS SECONDARY SCHOOL"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb2dlbmRhaGlnaHNz": {
+            "en": "Ogenda Girls' high School"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtb2dvcnNlZWQ=": {
             "en": "Ogor Seed SS"
         },
@@ -19188,6 +19223,9 @@
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbGFrZWFsYmVydHNkYQ==": {
             "en": "Lake Albert SDA SS"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbGFrd2FuYXNlZWRzcw==": {
+            "en": "Lakwana Seed Secondary School"
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbGFuZ29jb2xsZWdl": {
             "en": "Lango College"
@@ -19387,6 +19425,9 @@
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmF3YW55aW5naXNz": {
             "en": "Nawanyingi Seed Secondary School"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmF3YW5kYWxhc3M=": {
+            "en": "Nawandala SS"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtbmFhbHlhLXNjaG9vbHM=": {
             "en": "Naalya Secondary School Lugazi"
         },
@@ -19579,6 +19620,9 @@
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RkZW5pc2tpamFndXpv": {
             "en": "St Denis Kijaguzo Secondary School"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RmcmFuY2lzY2FnaXJsc3Nz": {
+            "en": "St Francisca Girls' SS Apac"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtc3RnZXJ0cnVkZXZvY2F0aW9uYWw=": {
             "en": "St. Gertrude's Girls' Vocational Secondary School"
         },
@@ -19702,8 +19746,14 @@
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcG1tZ2lybHM=": {
             "en": "PMM Girls"
         },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcG9wZXBhdWx2aXNzYW5ha2E=": {
+            "en": "Pope Paul VI SS Anaka"
+        },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcGF3b3JzZWVk": {
             "en": "PAWOR SEED SECONDARY SCHOOL"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcGFkaWJlc2VlZHNz": {
+            "en": "Padibe East Seed secondary School"
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcGFkcm9tYnVzZWVk": {
             "en": "Padrombu Seed Secondary School"
@@ -19722,6 +19772,9 @@
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcGFyYW1lZGljYWxpbnN0aXR1dGU=": {
             "en": "Paramedical Institute"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcGFyb2tldG9zcw==": {
+            "en": "Paroketo SS"
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtcGlsa2luZ3Rvbm11Z3VsdWth": {
             "en": "Pilkongton college Muguluka"
@@ -19794,6 +19847,9 @@
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtd2FtcGVld29udGFra2VzY2hvb2w=": {
             "en": "Wampeewo Ntake Secondary School"
+        },
+        "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtd2FudGVtdXNsaW1zcw==": {
+            "en": "Wante Muslim SS"
         },
         "https://rifsso.renu.ac.ug/Saml2IDP/proxy.xml/aHR0cHM6Ly9pZC5yZW51LmFjLnVnL3JlYWxtcy9pZHAtd2FueWFuZ2VnaXJsc3Nz": {
             "en": "Wanyange Girls Secondary School"

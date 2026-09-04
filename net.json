@@ -23,9 +23,9 @@
         "en": "National Science Library, Chinese Academy of Sciences",
         "zh": "中国科学院文献情报中心"
     },
-    "https://idp.redclara.net/saml2/idp/metadata.php": {
-        "en": "RedCLARA - IdP",
-        "es": "RedCLARA - IdP"
+    "https://idp.redclara.net/idp": {
+        "en": "FIEL - RedCLARA",
+        "es": "FIEL - RedCLARA"
     },
     "https://idp.scholarin.cn/idp/shibboleth": {
         "en": "Scholarin ID",

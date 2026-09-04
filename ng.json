@@ -17,8 +17,14 @@
     "https://idp.eksu.edu.ng/idp/shibboleth": {
         "en": "Ekiti State University, Ado-Ekiti"
     },
+    "https://idp.fceilawe.edu.ng/idp/shibboleth": {
+        "en": "Federal College of Education. Ilawe-Ekiti"
+    },
     "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
         "en": "Federal College of Education(Technical), AKOKA"
+    },
+    "https://idp.federalpolyoko.edu.ng/idp/shibboleth": {
+        "en": "Federal Polytechnic Oko"
     },
     "https://idp.fpno.edu.ng/idp/shibboleth": {
         "en": "Federal Polytechnic Nekede, Owerri"
@@ -34,6 +40,9 @@
     },
     "https://idp.funai.edu.ng/idp/shibboleth": {
         "en": "Alex Ekwueme Federal University, Ndufu- Alike, Ikwo"
+    },
+    "https://idp.fuotuoke.edu.ng/idp/shibboleth": {
+        "en": "Federal University Otuoke"
     },
     "https://idp.fuoye.edu.ng/idp/shibboleth": {
         "en": "Federal University Oye-Ekiti"
