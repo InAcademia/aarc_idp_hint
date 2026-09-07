@@ -7806,8 +7806,8 @@
             "en": "University Of Passau"
         },
         "https://sso.zib.de/idp/shibboleth": {
-            "de": "Zuse Instittute Berlin",
-            "en": "Zuse Instittute Berlin"
+            "de": "Zuse Institute Berlin",
+            "en": "Zuse Institute Berlin"
         },
         "https://ssoserver.hs-worms.de/idp/shibboleth": {
             "de": "Hochschule Worms",
@@ -9537,10 +9537,6 @@
         "https://auth.chimie-paristech.fr/idp/saml2/metadata": {
             "en": "Ecole Nationale Supérieure de Chimie Paris",
             "fr": "Ecole Nationale Supérieure de Chimie Paris"
-        },
-        "https://auth.crous-caen.fr/idp/shibboleth": {
-            "en": "CROUS Caen-Personnels V3",
-            "fr": "CROUS Caen-Personnels V3"
         },
         "https://auth.glesr.fr/realms/cnl": {
             "en": "CNL",
@@ -16640,8 +16636,8 @@
             "pt": "Egas Moniz, Cooperativa de Ensino Superior"
         },
         "https://idp.enautica.pt/idp/shibboleth": {
-            "en": "Escola Náutica Infante Dom Henrique",
-            "pt": "Escola Náutica Infante Dom Henrique"
+            "en": "Escola Superior Náutica Infante Dom Henrique",
+            "pt": "Escola Superior Náutica Infante Dom Henrique"
         },
         "https://idp.ensp.unl.pt/idp/shibboleth": {
             "en": "UNL - Escola Nacional de Saúde Pública",
@@ -17033,8 +17029,8 @@
             "ro": "Universitatea din București"
         },
         "https://idp.univ-ovidius.ro/idp/shibboleth": {
-            "en": "Universitatea Ovidius din Constanta",
-            "ro": "Universitatea Ovidius din Constanta"
+            "en": "Ovidius University of Constanța",
+            "ro": "Universitatea Ovidius din Constanța"
         },
         "https://idp.uoradea.ro/idp/shibboleth": {
             "en": "University of Oradea",

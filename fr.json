@@ -51,10 +51,6 @@
         "en": "Ecole Nationale Supérieure de Chimie Paris",
         "fr": "Ecole Nationale Supérieure de Chimie Paris"
     },
-    "https://auth.crous-caen.fr/idp/shibboleth": {
-        "en": "CROUS Caen-Personnels V3",
-        "fr": "CROUS Caen-Personnels V3"
-    },
     "https://auth.glesr.fr/realms/cnl": {
         "en": "CNL",
         "fr": "CNL"
