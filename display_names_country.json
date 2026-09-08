@@ -3251,6 +3251,10 @@
             "en": "Beijing Language and Culture University",
             "zh": "北京语言大学(Beijing Language and Culture University)"
         },
+        "https://idp.bnbu.edu.cn/idp/shibboleth": {
+            "en": "Beijing Normal-Hong Kong Baptist University",
+            "zh": "北师香港浸会大学(Beijing Normal-Hong Kong Baptist University)"
+        },
         "https://idp.bsu.edu.cn/idp/shibboleth": {
             "en": "Beijing Sport  University",
             "zh": "北京体育大学(Beijing Sport  University)"
@@ -8176,10 +8180,6 @@
             "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
             "es": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia"
         },
-        "https://login.ces.cedia.edu.ec/saml2/idp/metadata.php": {
-            "en": "Consejo de Educacion Superior - ces",
-            "es": "Consejo de Educacion Superior - ces"
-        },
         "https://login.comunidadsanjuanbosco.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Comunidad San Juan Bosco - comunidadsanjuanbosco",
             "es": "Comunidad San Juan Bosco - comunidadsanjuanbosco"
@@ -9881,6 +9881,10 @@
         "https://idp.crous-toulouse.fr/idp/shibboleth": {
             "en": "CROUS Toulouse - Personnels",
             "fr": "CROUS Toulouse - Personnels"
+        },
+        "https://idp.curie.fr/idp/saml2/metadata": {
+            "en": "Institut Curie - Research center",
+            "fr": "Institut Curie - Centre de recherche"
         },
         "https://idp.cyu.fr/idp/shibboleth": {
             "en": "CY Cergy Paris University",
@@ -20040,7 +20044,7 @@
             "en": "University of Exeter"
         },
         "https://eresources.city.ac.uk/oala/metadata": {
-            "en": "City, University of London"
+            "en": "City St George's, University of London"
         },
         "https://escg.ac.uk/idp": {
             "en": "East Sussex College Group"
