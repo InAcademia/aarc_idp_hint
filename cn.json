@@ -675,6 +675,10 @@
         "en": "Foshan University",
         "zh": "佛山大学(Foshan University)"
     },
+    "https://idp.fpnu.edu.cn/idp/shibboleth": {
+        "en": "Fujian Polytechnic Normal University",
+        "zh": "福建技术师范学院(Fujian Polytechnic Normal University)"
+    },
     "https://idp.fynu.edu.cn/idp/shibboleth": {
         "en": "Fuyang Normal University",
         "zh": "阜阳师范大学(Fuyang Normal University)"
@@ -1254,6 +1258,10 @@
     "https://idp.ndky.edu.cn/idp/shibboleth": {
         "en": "College of Science & Technology Ningbo University",
         "zh": "宁波大学科学技术学院(College of Science & Technology Ningbo University)"
+    },
+    "https://idp.ndnu.edu.cn/idp/shibboleth": {
+        "en": "Ningde Normal University",
+        "zh": "宁德师范学院(Ningde Normal University)"
     },
     "https://idp.neau.edu.cn/idp/shibboleth": {
         "en": "Northeast Agricultural University",
