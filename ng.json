@@ -77,6 +77,9 @@
     "https://idp.ngren.edu.ng/idp/shibboleth": {
         "en": "Nigerian Research and Education Network"
     },
+    "https://idp.nou.edu.ng/idp/shibboleth": {
+        "en": "National Open University, Abuja"
+    },
     "https://idp.nsuk.edu.ng/idp/shibboleth": {
         "en": "Nasarawa State University, Keffi"
     },

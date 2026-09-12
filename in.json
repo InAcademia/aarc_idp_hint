@@ -179,6 +179,9 @@
     "https://idp.ccrum.res.in/idp/shibboleth": {
         "en": "Central Council for Research in Unani Medicine"
     },
+    "https://idp.cens.res.in/idp/shibboleth": {
+        "en": "Centre for Nano and Soft Matter Sciences"
+    },
     "https://idp.cept.ac.in/idp/shibboleth": {
         "en": "CEPT University"
     },

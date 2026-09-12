@@ -339,8 +339,8 @@
             "en": "Paracelsus Medical University"
         },
         "https://sso.sbg.ac.at/idp/shibboleth": {
-            "de": "Paris Lodron Universität Salzburg",
-            "en": "Paris Lodron University of Salzburg"
+            "de": "Universität Salzburg",
+            "en": "University of Salzburg"
         },
         "https://sso.stella-musikhochschule.ac.at/idp/shibboleth": {
             "de": "Stella Vorarlberg Privathochschule für Musik",
@@ -11829,6 +11829,9 @@
         "https://idp.ccrum.res.in/idp/shibboleth": {
             "en": "Central Council for Research in Unani Medicine"
         },
+        "https://idp.cens.res.in/idp/shibboleth": {
+            "en": "Centre for Nano and Soft Matter Sciences"
+        },
         "https://idp.cept.ac.in/idp/shibboleth": {
             "en": "CEPT University"
         },
@@ -15169,6 +15172,9 @@
         "https://idp.ngren.edu.ng/idp/shibboleth": {
             "en": "Nigerian Research and Education Network"
         },
+        "https://idp.nou.edu.ng/idp/shibboleth": {
+            "en": "National Open University, Abuja"
+        },
         "https://idp.nsuk.edu.ng/idp/shibboleth": {
             "en": "Nasarawa State University, Keffi"
         },
@@ -16161,17 +16167,11 @@
         }
     },
     "pk": {
-        "https://idp.bbsul.edu.pk/idp/shibboleth": {
-            "en": "Benazir Bhutto Shaheed University Lyari"
-        },
         "https://idp.hec.gov.pk/idp/shibboleth": {
             "en": "HEC Pakistan"
         },
-        "https://idp.iub.edu.pk/idp/shibboleth": {
-            "en": "The Islamia University of Bahawalpur, Pakistan"
-        },
         "https://idp.neduet.edu.pk/idp/shibboleth": {
-            "en": "NED University of Engineering and Technology Pakistan"
+            "en": "NED University of Engineering and Technology"
         },
         "https://idp.pern.edu.pk/idp/shibboleth": {
             "en": "Pakistan Education & Research Network"
@@ -16789,8 +16789,8 @@
             "pt": "IPiaget"
         },
         "https://idp.ipleiria.pt/idp/shibboleth": {
-            "en": "Polytechnic Institute of Leiria",
-            "pt": "Instituto Politécnico de Leiria"
+            "en": "Universidade de Leiria e Oeste",
+            "pt": "Universidade de Leiria e Oeste"
         },
         "https://idp.ipluso.pt/idp/shibboleth": {
             "en": "Instituto Politécnico da Lusofonia",
@@ -17265,7 +17265,7 @@
     "se": {
         "http://adfs.hv.se/adfs/services/trust": {
             "en": "University West",
-            "sv": "https://logo.hv.se/logo-sv.jpg"
+            "sv": "Högskolan Väst"
         },
         "http://adfs.ju.se/adfs/services/trust": {
             "en": "Jönköping University",

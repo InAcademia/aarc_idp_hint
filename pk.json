@@ -1,15 +1,9 @@
 {
-    "https://idp.bbsul.edu.pk/idp/shibboleth": {
-        "en": "Benazir Bhutto Shaheed University Lyari"
-    },
     "https://idp.hec.gov.pk/idp/shibboleth": {
         "en": "HEC Pakistan"
     },
-    "https://idp.iub.edu.pk/idp/shibboleth": {
-        "en": "The Islamia University of Bahawalpur, Pakistan"
-    },
     "https://idp.neduet.edu.pk/idp/shibboleth": {
-        "en": "NED University of Engineering and Technology Pakistan"
+        "en": "NED University of Engineering and Technology"
     },
     "https://idp.pern.edu.pk/idp/shibboleth": {
         "en": "Pakistan Education & Research Network"

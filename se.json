@@ -1,7 +1,7 @@
 {
     "http://adfs.hv.se/adfs/services/trust": {
         "en": "University West",
-        "sv": "https://logo.hv.se/logo-sv.jpg"
+        "sv": "Högskolan Väst"
     },
     "http://adfs.ju.se/adfs/services/trust": {
         "en": "Jönköping University",
