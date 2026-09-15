@@ -111,6 +111,10 @@
         "en": "Université de Lyon - UDL",
         "fr": "Université de Lyon - UDL"
     },
+    "https://cas7.ehess.fr/cas/idp/metadata": {
+        "en": "EHESS",
+        "fr": "EHESS"
+    },
     "https://casv2.ac-martinique.fr/idp/shibboleth": {
         "en": "Rectorate of the Academy of Martinique",
         "fr": "Rectorat de l'académie de Martinique"

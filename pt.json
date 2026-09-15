@@ -96,20 +96,20 @@
         "pt": "ErasmusMais"
     },
     "https://idp.esac.pt/idp/shibboleth": {
-        "en": "IPC - Escola Superior Agraria de Coimbra",
-        "pt": "IPC - Escola Superior Agraria de Coimbra"
+        "en": "UPC - Escola Superior Agraria de Coimbra",
+        "pt": "UPC - Escola Superior Agraria de Coimbra"
     },
     "https://idp.esav.ipv.pt/idp/shibboleth": {
-        "en": "Escola Superior Agrária de Viseu",
-        "pt": "Escola Superior Agrária de Viseu"
+        "en": "Universidade Politécnica de Viseu - Escola Superior Agrária de Viseu",
+        "pt": "Universidade Politécnica de Viseu - Escola Superior Agrária de Viseu"
     },
     "https://idp.escolanaval.pt/idp/shibboleth": {
         "en": "Escola Naval - Marinha Portuguesa",
         "pt": "Escola Naval - Marinha Portuguesa"
     },
     "https://idp.esec.pt/idp/shibboleth": {
-        "en": "IPC - Escola Superior de Educação de Coimbra",
-        "pt": "IPC - Escola Superior de Educação de Coimbra"
+        "en": "UPC - Escola Superior de Educação de Coimbra",
+        "pt": "UPC - Escola Superior de Educação de Coimbra"
     },
     "https://idp.esel.pt/idp/shibboleth": {
         "en": "Lisbon Nursing High School",
@@ -120,32 +120,32 @@
         "pt": "Escola Superior de Enfermagem do Porto"
     },
     "https://idp.esev.ipv.pt/idp/shibboleth": {
-        "en": "Escola Superior de Educação de Viseu",
-        "pt": "Escola Superior de Educação de Viseu"
+        "en": "Universidade Politécnica de Viseu - Escola Superior de Educação de Viseu",
+        "pt": "Universidade Politécnica de Viseu - Escola Superior de Educação de Viseu"
     },
     "https://idp.eshte.pt/idp/shibboleth": {
         "en": "Escola Superior de Hotelaria e Turismo do Estoril",
         "pt": "Escola Superior de Hotelaria e Turismo do Estoril"
     },
     "https://idp.essv.ipv.pt/idp/shibboleth": {
-        "en": "Escola Superior de Saude de Viseu",
-        "pt": "Escola Superior de Saude de Viseu"
+        "en": "Universidade Politécnica de Viseu - Escola Superior de Saude de Viseu",
+        "pt": "Universidade Politécnica de Viseu - Escola Superior de Saude de Viseu"
     },
     "https://idp.estescoimbra.pt/idp/shibboleth": {
-        "en": "IPC - College of Health Technology",
-        "pt": "IPC - Escola Superior de Tecnologia de Saúde"
+        "en": "UPC - College of Health Technology",
+        "pt": "UPC - Escola Superior de Tecnologia de Saúde"
     },
     "https://idp.estgl.ipv.pt/idp/shibboleth": {
-        "en": "Escola Superior de Tecnologia e Gestão de Lamego",
-        "pt": "Escola Superior de Tecnologia e Gestão de Lamego"
+        "en": "Universidade Politécnica de Viseu - Escola Superior de Tecnologia e Gestão de Lamego",
+        "pt": "Universidade Politécnica de Viseu - Escola Superior de Tecnologia e Gestão de Lamego"
     },
     "https://idp.estgoh.ipc.pt/idp/shibboleth": {
-        "en": "IPC - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital",
-        "pt": "IPC - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital"
+        "en": "UPC - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital",
+        "pt": "UPC - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital"
     },
     "https://idp.estgv.ipv.pt/idp/shibboleth": {
-        "en": "Escola Superior de Tecnologia e Gestão de Viseu",
-        "pt": "Escola Superior de Tecnologia e Gestão de Viseu"
+        "en": "Universidade Politécnica de Viseu - Escola Superior de Tecnologia e Gestão de Viseu",
+        "pt": "Universidade Politécnica de Viseu - Escola Superior de Tecnologia e Gestão de Viseu"
     },
     "https://idp.exercito.pt/idp/shibboleth": {
         "en": "Academia Militar",
@@ -256,16 +256,16 @@
         "pt": "Instituto Politécnico de Viana do Castelo"
     },
     "https://idp.iscac.pt/idp/shibboleth": {
-        "en": "IPC - Instituto Superior de Contabilidade e Administração de Coimbra",
-        "pt": "IPC - Instituto Superior de Contabilidade e Administração de Coimbra"
+        "en": "UPC - Instituto Superior de Contabilidade e Administração de Coimbra",
+        "pt": "UPC - Instituto Superior de Contabilidade e Administração de Coimbra"
     },
     "https://idp.iscte-iul.pt/idp/shibboleth": {
         "en": "ISCTE - Instituto Universitario de Lisboa",
         "pt": "ISCTE - Instituto Universitario de Lisboa"
     },
     "https://idp.isec.pt/idp/shibboleth": {
-        "en": "IPC - Instituto Superior de Engenharia de Coimbra",
-        "pt": "IPC - Instituto Superior de Engenharia de Coimbra"
+        "en": "UPC - Instituto Superior de Engenharia de Coimbra",
+        "pt": "UPC - Instituto Superior de Engenharia de Coimbra"
     },
     "https://idp.iseclisboa.pt/idp/shibboleth": {
         "en": "ISEC Lisboa",
@@ -308,8 +308,8 @@
         "pt": "UNL - NOVA SBE"
     },
     "https://idp.pres.ipv.pt/idp/shibboleth": {
-        "en": "IPV - Serviços da Presidência",
-        "pt": "IPV - Serviços da Presidência"
+        "en": "Universidade Politécnica de Viseu - Serviços da Presidência",
+        "pt": "Universidade Politécnica de Viseu - Serviços da Presidência"
     },
     "https://idp.ua.pt/idp/shibboleth": {
         "en": "University of Aveiro",
@@ -376,8 +376,8 @@
         "pt": "Escola Superior de Enfermagem de Coimbra"
     },
     "https://idprov.ipc.pt/idp/shibboleth": {
-        "en": "IPC - Serviços da Presidência",
-        "pt": "IPC - Serviços da Presidência"
+        "en": "UPC - Serviços da Presidência",
+        "pt": "UPC - Serviços da Presidência"
     },
     "https://idprovider.uab.pt/idp/shibboleth": {
         "en": "Universidade Aberta",
