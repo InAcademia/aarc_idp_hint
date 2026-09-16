@@ -1,4 +1,7 @@
 {
+    "https://idp.bahria.edu.pk/idp/shibboleth": {
+        "en": "Bahria University Pakistan"
+    },
     "https://idp.hec.gov.pk/idp/shibboleth": {
         "en": "HEC Pakistan"
     },
@@ -10,11 +13,5 @@
     },
     "https://idp2.pern.edu.pk/idp/shibboleth": {
         "en": "PERN IdP Pakistan"
-    },
-    "https://idp6.hec.gov.pk/idp/shibboleth": {
-        "en": "HEC6"
-    },
-    "https://idp7.hec.gov.pk/idp/shibboleth": {
-        "en": "HEC7 Pakistan"
     }
 }

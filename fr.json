@@ -247,6 +247,10 @@
         "en": "INUC - Institut national universitaire Jean-François Champollion",
         "fr": "INUC - Institut national universitaire Jean-François Champollion"
     },
+    "https://idp-adm.paris-lavillette.archi.fr/idp/shibboleth": {
+        "en": "Ensa Paris-La Villette - Administrative Staff",
+        "fr": "Ensa Paris-La Villette - Administratifs"
+    },
     "https://idp-agrocampus-ouest.renater.fr/idp/shibboleth": {
         "en": "L'Institut Agro Rennes-Angers",
         "fr": "L'Institut Agro Rennes-Angers"
@@ -886,6 +890,10 @@
     "https://idp5.hec.fr/idp/shibboleth": {
         "en": "HEC Paris V5",
         "fr": "HEC Paris V5"
+    },
+    "https://idp5.paris-est.archi.fr/shibboleth": {
+        "en": "Ecole Nationale Supérieure d'Architecture de Paris-est",
+        "fr": "Ecole Nationale Supérieure d'Architecture de Paris-est"
     },
     "https://idp5r.imtbs-tsp.eu/idp/shibboleth": {
         "en": "Institut Mines Telecom Business School et Telecom SudParis (v5)",
