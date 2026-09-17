@@ -992,6 +992,9 @@
     "https://shibboleth.rush.edu/idp/shibboleth": {
         "en": "Rush University Medical Center"
     },
+    "https://shibboleth.salisbury.edu/idp/shibboleth": {
+        "en": "Salisbury University"
+    },
     "https://shibboleth.trincoll.edu/idp/shibboleth": {
         "en": "Trinity College, Hartford, Connecticut"
     },

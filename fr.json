@@ -551,6 +551,10 @@
         "en": "INSA Rennes",
         "fr": "INSA Rennes"
     },
+    "https://idp.insei.fr/idp/shibboleth": {
+        "en": "INSEI - INSTITUT NATIONAL SUPÉRIEUR DE FORMATION ET DE RECHERCHE POUR L'ÉDUCATION INCLUSIVE",
+        "fr": "INSEI - INSTITUT NATIONAL SUPÉRIEUR DE FORMATION ET DE RECHERCHE POUR L'ÉDUCATION INCLUSIVE"
+    },
     "https://idp.inserm-transfert.fr/idp/shibboleth": {
         "en": "INSERM-Transfert",
         "fr": "INSERM-Transfert"

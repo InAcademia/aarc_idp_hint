@@ -11,6 +11,9 @@
     "https://idp.pern.edu.pk/idp/shibboleth": {
         "en": "Pakistan Education & Research Network"
     },
+    "https://idp.uet.edu.pk/idp/shibboleth": {
+        "en": "University of Engineering and Technology (UET), Lahore Pakistan"
+    },
     "https://idp2.pern.edu.pk/idp/shibboleth": {
         "en": "PERN IdP Pakistan"
     }

@@ -90,6 +90,10 @@
         "en": "Nagoya Institute of Technology",
         "ja": "名古屋工業大学"
     },
+    "https://hamamed.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Hamamatsu University School of Medicine",
+        "ja": "浜松医科大学"
+    },
     "https://hoshi.ex-tic.com/auth/gakunin/saml2/assertions": {
         "en": "Hoshi University",
         "ja": "星薬科大学"

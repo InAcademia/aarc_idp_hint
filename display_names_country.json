@@ -10050,6 +10050,10 @@
             "en": "INSA Rennes",
             "fr": "INSA Rennes"
         },
+        "https://idp.insei.fr/idp/shibboleth": {
+            "en": "INSEI - INSTITUT NATIONAL SUPÉRIEUR DE FORMATION ET DE RECHERCHE POUR L'ÉDUCATION INCLUSIVE",
+            "fr": "INSEI - INSTITUT NATIONAL SUPÉRIEUR DE FORMATION ET DE RECHERCHE POUR L'ÉDUCATION INCLUSIVE"
+        },
         "https://idp.inserm-transfert.fr/idp/shibboleth": {
             "en": "INSERM-Transfert",
             "fr": "INSERM-Transfert"
@@ -13520,6 +13524,10 @@
             "en": "Nagoya Institute of Technology",
             "ja": "名古屋工業大学"
         },
+        "https://hamamed.ex-tic.com/auth/gakunin/saml2/assertions": {
+            "en": "Hamamatsu University School of Medicine",
+            "ja": "浜松医科大学"
+        },
         "https://hoshi.ex-tic.com/auth/gakunin/saml2/assertions": {
             "en": "Hoshi University",
             "ja": "星薬科大学"
@@ -16194,6 +16202,9 @@
         },
         "https://idp.pern.edu.pk/idp/shibboleth": {
             "en": "Pakistan Education & Research Network"
+        },
+        "https://idp.uet.edu.pk/idp/shibboleth": {
+            "en": "University of Engineering and Technology (UET), Lahore Pakistan"
         },
         "https://idp2.pern.edu.pk/idp/shibboleth": {
             "en": "PERN IdP Pakistan"
@@ -22687,6 +22698,9 @@
         },
         "https://shibboleth.rush.edu/idp/shibboleth": {
             "en": "Rush University Medical Center"
+        },
+        "https://shibboleth.salisbury.edu/idp/shibboleth": {
+            "en": "Salisbury University"
         },
         "https://shibboleth.trincoll.edu/idp/shibboleth": {
             "en": "Trinity College, Hartford, Connecticut"
