@@ -2,6 +2,9 @@
     "https://idp.bahria.edu.pk/idp/shibboleth": {
         "en": "Bahria University Pakistan"
     },
+    "https://idp.comsats.edu.pk/idp/shibboleth": {
+        "en": "COMSATS University Islamabad (CUI)"
+    },
     "https://idp.hec.gov.pk/idp/shibboleth": {
         "en": "HEC Pakistan"
     },

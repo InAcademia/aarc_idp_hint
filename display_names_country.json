@@ -3955,6 +3955,10 @@
             "en": "Hezhou University",
             "zh": "贺州学院(Hezhou University)"
         },
+        "https://idp.icafs.edu.cn/idp/shibboleth": {
+            "en": "Chinese Academy of Fiscal Sciences",
+            "zh": "中国财政科学研究院(Chinese Academy of Fiscal Sciences)"
+        },
         "https://idp.imnu.edu.cn/idp/shibboleth": {
             "en": "Inner Mongolia Normal University",
             "zh": "内蒙古师范大学(Inner Mongolia Normal University)"
@@ -12359,6 +12363,9 @@
         "https://idp.nith.ac.in/idp/shibboleth": {
             "en": "National Institute of Technology, Hamirpur"
         },
+        "https://idp.niti.gov.in/idp/shibboleth": {
+            "en": "NITI Aayog (National Institution for Transforming India)"
+        },
         "https://idp.nitj.ac.in/idp/shibboleth": {
             "en": "Dr B R Ambedkar National Institute of Technology Jalandhar"
         },
@@ -12518,6 +12525,9 @@
         "https://idp.sibsagaruniversity.ac.in/idp/shibboleth": {
             "en": "Sibsagar University"
         },
+        "https://idp.sikkimnlu.ac.in/idp/shibboleth": {
+            "en": "Sikkim National Law University"
+        },
         "https://idp.sjec.ac.in/idp/shibboleth": {
             "en": "St Joseph Engineering College, Mangalore"
         },
@@ -12568,6 +12578,9 @@
         },
         "https://idp.ssus.ac.in/idp/shibboleth": {
             "en": "Sree Sankaracharya University of Sanskrit"
+        },
+        "https://idp.suksn.edu.in/idp/shibboleth": {
+            "en": "Siddharth University"
         },
         "https://idp.suniv.ac.in/idp/shibboleth": {
             "en": "Sambalpur University"
@@ -15094,8 +15107,8 @@
             "zh": "中国科学院文献情报中心"
         },
         "https://idp.redclara.net/idp": {
-            "en": "FIEL - RedCLARA",
-            "es": "FIEL - RedCLARA"
+            "en": "FIEL - RedCLARA (IdP direct access)",
+            "es": "FIEL - RedCLARA (IdP acceso directo)"
         },
         "https://idp.scholarin.cn/idp/shibboleth": {
             "en": "Scholarin ID",
@@ -15123,6 +15136,9 @@
         },
         "https://idp.abu.edu.ng/idp/shibboleth": {
             "en": "Ahmadu Bello University, Zaria"
+        },
+        "https://idp.akum.edu.ng/idp/shibboleth": {
+            "en": "Abdulkadir Kure University, Minna"
         },
         "https://idp.bsum.edu.ng/idp/shibboleth": {
             "en": "Benue State University, Makurdi"
@@ -16193,6 +16209,9 @@
     "pk": {
         "https://idp.bahria.edu.pk/idp/shibboleth": {
             "en": "Bahria University Pakistan"
+        },
+        "https://idp.comsats.edu.pk/idp/shibboleth": {
+            "en": "COMSATS University Islamabad (CUI)"
         },
         "https://idp.hec.gov.pk/idp/shibboleth": {
             "en": "HEC Pakistan"

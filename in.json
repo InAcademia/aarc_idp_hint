@@ -689,6 +689,9 @@
     "https://idp.nith.ac.in/idp/shibboleth": {
         "en": "National Institute of Technology, Hamirpur"
     },
+    "https://idp.niti.gov.in/idp/shibboleth": {
+        "en": "NITI Aayog (National Institution for Transforming India)"
+    },
     "https://idp.nitj.ac.in/idp/shibboleth": {
         "en": "Dr B R Ambedkar National Institute of Technology Jalandhar"
     },
@@ -848,6 +851,9 @@
     "https://idp.sibsagaruniversity.ac.in/idp/shibboleth": {
         "en": "Sibsagar University"
     },
+    "https://idp.sikkimnlu.ac.in/idp/shibboleth": {
+        "en": "Sikkim National Law University"
+    },
     "https://idp.sjec.ac.in/idp/shibboleth": {
         "en": "St Joseph Engineering College, Mangalore"
     },
@@ -898,6 +904,9 @@
     },
     "https://idp.ssus.ac.in/idp/shibboleth": {
         "en": "Sree Sankaracharya University of Sanskrit"
+    },
+    "https://idp.suksn.edu.in/idp/shibboleth": {
+        "en": "Siddharth University"
     },
     "https://idp.suniv.ac.in/idp/shibboleth": {
         "en": "Sambalpur University"

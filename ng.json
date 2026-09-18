@@ -5,6 +5,9 @@
     "https://idp.abu.edu.ng/idp/shibboleth": {
         "en": "Ahmadu Bello University, Zaria"
     },
+    "https://idp.akum.edu.ng/idp/shibboleth": {
+        "en": "Abdulkadir Kure University, Minna"
+    },
     "https://idp.bsum.edu.ng/idp/shibboleth": {
         "en": "Benue State University, Makurdi"
     },

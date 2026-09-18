@@ -24,8 +24,8 @@
         "zh": "中国科学院文献情报中心"
     },
     "https://idp.redclara.net/idp": {
-        "en": "FIEL - RedCLARA",
-        "es": "FIEL - RedCLARA"
+        "en": "FIEL - RedCLARA (IdP direct access)",
+        "es": "FIEL - RedCLARA (IdP acceso directo)"
     },
     "https://idp.scholarin.cn/idp/shibboleth": {
         "en": "Scholarin ID",
