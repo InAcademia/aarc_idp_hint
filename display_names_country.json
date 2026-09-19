@@ -1384,10 +1384,6 @@
             "en": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul",
             "pt-br": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul"
         },
-        "https://catuai.ufop.br/idp/shibboleth": {
-            "en": "UFOP - Universidade Federal de Ouro Preto",
-            "pt-br": "UFOP - Universidade Federal de Ouro Preto"
-        },
         "https://federacao-1.hcpa.edu.br/idp/shibboleth": {
             "en": "HCPA - Hospital de Clinicas de Porto Alegre",
             "pt-br": "HCPA - Hospital de Clinicas de Porto Alegre"
@@ -2096,10 +2092,6 @@
             "en": "IMPA - Instituto de Matematica Pura e Aplicada",
             "pt-br": "IMPA - Instituto de Matematica Pura e Aplicada"
         },
-        "https://shibboleth.inca.gov.br/idp/shibboleth": {
-            "en": "INCA - Instituto Nacional de Cancer",
-            "pt-br": "INCA - Instituto Nacional de Cancer"
-        },
         "https://shibboleth.ines.gov.br/idp/shibboleth": {
             "en": "INES - Instituto Nacional de Educacao de Surdos",
             "pt-br": "INES - Instituto Nacional de Educacao de Surdos"
@@ -2123,6 +2115,10 @@
         "https://shibboleth.ufms.br/idp/shibboleth": {
             "en": "UFMS - Universidade Federal de Mato Grosso do Sul",
             "pt-br": "UFMS - Universidade Federal de Mato Grosso do Sul"
+        },
+        "https://shibboleth.ufop.edu.br/idp/shibboleth": {
+            "en": "UFOP - Universidade Federal de Ouro Preto",
+            "pt-br": "UFOP - Universidade Federal de Ouro Preto"
         },
         "https://shibboleth.ufopa.edu.br/idp/shibboleth": {
             "en": "UFOPA - Universidade Federal do Oeste do Para",
@@ -8195,6 +8191,10 @@
         "https://login.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia",
             "es": "Corporación Ecuatoriana para el Desarrollo de la investigación y la academia - cedia"
+        },
+        "https://login.ces.cedia.edu.ec/saml2/idp/metadata.php": {
+            "en": "Consejo de Educacion Superior - ces",
+            "es": "Consejo de Educacion Superior - ces"
         },
         "https://login.comunidadsanjuanbosco.cedia.edu.ec/saml2/idp/metadata.php": {
             "en": "Comunidad San Juan Bosco - comunidadsanjuanbosco",
@@ -14464,9 +14464,6 @@
         },
         "https://idp.llu.lv/idp/shibboleth": {
             "en": "Latvia University of Agriculture"
-        },
-        "https://idp.rtu.lv": {
-            "en": "Riga Technical University (Office 365)"
         },
         "https://liepu-idp.lanet.lv": {
             "en": "Liepaja University"
