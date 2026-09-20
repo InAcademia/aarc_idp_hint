@@ -14,6 +14,9 @@
     "https://idp.buk.edu.ng/idp/shibboleth": {
         "en": "Bayero University, Kano"
     },
+    "https://idp.coou.edu.ng/idp/shibboleth": {
+        "en": "Chukwuemeka Odumegwu Ojukwu University, Uli"
+    },
     "https://idp.covenantuniversity.edu.ng/idp/shibboleth": {
         "en": "Covenant University, Lagos"
     },
@@ -21,7 +24,7 @@
         "en": "Ekiti State University, Ado-Ekiti"
     },
     "https://idp.fceilawe.edu.ng/idp/shibboleth": {
-        "en": "Federal College of Education. Ilawe-Ekiti"
+        "en": "Federal College of Education, Ilawe-Ekiti"
     },
     "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
         "en": "Federal College of Education(Technical), AKOKA"

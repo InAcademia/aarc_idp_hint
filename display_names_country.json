@@ -1444,10 +1444,6 @@
             "en": "IRD - Instituto de Radioprotecao e Dosimetria",
             "pt-br": "IRD - Instituto de Radioprotecao e Dosimetria"
         },
-        "https://idp-cafe.mcti.gov.br/idp/shibboleth": {
-            "en": "MCTI - Ministerio da Ciencia, Tecnologia e Inovacao",
-            "pt-br": "MCTI - Ministerio da Ciencia, Tecnologia e Inovacao"
-        },
         "https://idp-cafe.saude.pi.gov.br/idp/shibboleth": {
             "en": "SESAPI - Secretaria de Estado da Saude do Piaui",
             "pt-br": "SESAPI - Secretaria de Estado da Saude do Piaui"
@@ -15143,6 +15139,9 @@
         "https://idp.buk.edu.ng/idp/shibboleth": {
             "en": "Bayero University, Kano"
         },
+        "https://idp.coou.edu.ng/idp/shibboleth": {
+            "en": "Chukwuemeka Odumegwu Ojukwu University, Uli"
+        },
         "https://idp.covenantuniversity.edu.ng/idp/shibboleth": {
             "en": "Covenant University, Lagos"
         },
@@ -15150,7 +15149,7 @@
             "en": "Ekiti State University, Ado-Ekiti"
         },
         "https://idp.fceilawe.edu.ng/idp/shibboleth": {
-            "en": "Federal College of Education. Ilawe-Ekiti"
+            "en": "Federal College of Education, Ilawe-Ekiti"
         },
         "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
             "en": "Federal College of Education(Technical), AKOKA"
