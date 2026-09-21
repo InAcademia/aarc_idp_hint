@@ -2095,6 +2095,10 @@
         "en": "Xinxiang University",
         "zh": "新乡学院(Xinxiang University)"
     },
+    "https://idp.xynu.edu.cn/idp/shibboleth": {
+        "en": "Xinyang Normal University",
+        "zh": "信阳师范大学(Xinyang Normal University)"
+    },
     "https://idp.xzit.edu.cn/idp/shibboleth": {
         "en": "Xuzhou University of Technology",
         "zh": "徐州工程学院(Xuzhou University of Technology)"
@@ -2277,7 +2281,7 @@
     },
     "https://idpcarsi.hfuu.edu.cn/idp/shibboleth": {
         "en": "Hefei University",
-        "zh": "合肥学院(Hefei University)"
+        "zh": "合肥大学(Hefei University)"
     },
     "https://idpcarsi.jmu.edu.cn/idp/shibboleth": {
         "en": "Jimei University",

@@ -1,5 +1,8 @@
 {
     "https://idp.ethernet.edu.et/idp/shibboleth": {
         "en": "Ethiopian Education and Research Network (EthERNet)"
+    },
+    "https://idp2.ethernet.edu.et/idp/shibboleth": {
+        "en": "Ethiopian Education and Research Network (EthERNet)-IdP2"
     }
 }
