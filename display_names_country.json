@@ -1376,10 +1376,6 @@
             "en": "FCMSCSP - Faculdade de Ciencias Medicas da Santa Casa de Sao Paulo",
             "pt-br": "FCMSCSP - Faculdade de Ciencias Medicas da Santa Casa de Sao Paulo"
         },
-        "https://capuccino2.iff.edu.br/idp/shibboleth": {
-            "en": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense",
-            "pt-br": "IFF - Instituto Federal de Educacao, Ciencia e Tecnologia Fluminense"
-        },
         "https://cardio.net.br/idp/shibboleth": {
             "en": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul",
             "pt-br": "ICFUC - Instituto de Cardiologia do Rio Grande do Sul"
@@ -1603,6 +1599,10 @@
         "https://idp.ifes.edu.br/idp/shibboleth": {
             "en": "IFES - Instituto Federal do Espirito Santo",
             "pt-br": "IFES - Instituto Federal do Espirito Santo"
+        },
+        "https://idp.iff.edu.br/idp/shibboleth": {
+            "en": "IFF - Instituto Federal Fluminense",
+            "pt-br": "IFF - Instituto Federal Fluminense"
         },
         "https://idp.ifmg.edu.br/idp/shibboleth": {
             "en": "IFMG - Instituto Federal de Minas Gerais",
@@ -2087,6 +2087,10 @@
         "https://shibboleth.impa.br/idp/shibboleth": {
             "en": "IMPA - Instituto de Matematica Pura e Aplicada",
             "pt-br": "IMPA - Instituto de Matematica Pura e Aplicada"
+        },
+        "https://shibboleth.inca.gov.br/idp/shibboleth": {
+            "en": "INCA - Instituto Nacional de Cancer",
+            "pt-br": "INCA - Instituto Nacional de Cancer"
         },
         "https://shibboleth.ines.gov.br/idp/shibboleth": {
             "en": "INES - Instituto Nacional de Educacao de Surdos",
@@ -7756,10 +7760,6 @@
         "https://sso.dshs-koeln.de/idp/shibboleth": {
             "de": "Deutsche Sporthochschule Köln",
             "en": "German Sport University Cologne"
-        },
-        "https://sso.fraunhofer.de/auth/realms/DFN-AAI": {
-            "de": "Fraunhofer-Gesellschaft",
-            "en": "Fraunhofer-Gesellschaft"
         },
         "https://sso.h-da.de/idp/shibboleth": {
             "de": "Hochschule Darmstadt, University of Applied Sciences",

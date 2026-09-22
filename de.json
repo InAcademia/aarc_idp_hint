@@ -1557,10 +1557,6 @@
         "de": "Deutsche Sporthochschule Köln",
         "en": "German Sport University Cologne"
     },
-    "https://sso.fraunhofer.de/auth/realms/DFN-AAI": {
-        "de": "Fraunhofer-Gesellschaft",
-        "en": "Fraunhofer-Gesellschaft"
-    },
     "https://sso.h-da.de/idp/shibboleth": {
         "de": "Hochschule Darmstadt, University of Applied Sciences",
         "en": "Hochschule Darmstadt, University of Applied Sciences"
