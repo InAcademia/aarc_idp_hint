@@ -1334,6 +1334,9 @@
     "https://sso.uchc.edu/idp": {
         "en": "UConn Health"
     },
+    "https://sso.uconn.edu/idp": {
+        "en": "University of Connecticut - Bridge"
+    },
     "https://sso.udmercy.edu/idp": {
         "en": "University of Detroit Mercy"
     },

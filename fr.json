@@ -175,10 +175,6 @@
         "en": "Université de Technologie de Belfort-Montbéliard",
         "fr": "Université de Technologie de Belfort-Montbéliard"
     },
-    "https://federation3.univ-brest.fr/idp/shibboleth": {
-        "en": "Université de Bretagne Occidentale - UBO/IDP3",
-        "fr": "Université de Bretagne Occidentale - UBO/IDP3"
-    },
     "https://hub.phm.education.gouv.fr/idp": {
         "en": "Education Nationale - academies accesses",
         "fr": "Education Nationale - accès académies"

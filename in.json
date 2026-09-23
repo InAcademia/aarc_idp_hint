@@ -128,6 +128,9 @@
     "https://idp.baou.edu.in/idp/shibboleth": {
         "en": "Dr. Babasaheb Ambedkar Open University"
     },
+    "https://idp.bausabour.ac.in/idp/shibboleth": {
+        "en": "Bihar Agricultural University"
+    },
     "https://idp.bdu.ac.in/idp/shibboleth": {
         "en": "Bharathidasan University"
     },
@@ -179,11 +182,17 @@
     "https://idp.ccrum.res.in/idp/shibboleth": {
         "en": "Central Council for Research in Unani Medicine"
     },
+    "https://idp.cecri.res.in/idp/shibboleth": {
+        "en": "CSIR-Central Electrochemical Research Institute, Karaikudi"
+    },
     "https://idp.cens.res.in/idp/shibboleth": {
         "en": "Centre for Nano and Soft Matter Sciences"
     },
     "https://idp.cept.ac.in/idp/shibboleth": {
         "en": "CEPT University"
+    },
+    "https://idp.cift.res.in/idp/shibboleth": {
+        "en": "ICAR- Central Institute of Fisheries Technology (CIFT)"
     },
     "https://idp.cit.edu.in/idp/shibboleth": {
         "en": "Coimbatore Institute of Technology"
@@ -301,6 +310,9 @@
     },
     "https://idp.gujaratvidyapith.org/idp/shibboleth": {
         "en": "Gujarat Vidyapith"
+    },
+    "https://idp.gurugramuniversity.ac.in/idp/shibboleth": {
+        "en": "Gurugram University"
     },
     "https://idp.hbtu.ac.in/idp/shibboleth": {
         "en": "Harcourt Butler Technical University"
@@ -583,6 +595,9 @@
     },
     "https://idp.mgcub.ac.in/idp/shibboleth": {
         "en": "Mahatma Gandhi Central University"
+    },
+    "https://idp.mgifri.org.in/idp/shibboleth": {
+        "en": "Indian Council of Agricultural Research (ICAR)"
     },
     "https://idp.mgkvp.ac.in/idp/shibboleth": {
         "en": "Mahatma Gandhi Kashi Vidyapith University"

@@ -29,6 +29,9 @@
     "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
         "en": "Federal College of Education(Technical), AKOKA"
     },
+    "https://idp.federalpolyilaro.edu.ng/idp/shibboleth": {
+        "en": "Federal Polytechnic, Ilaro"
+    },
     "https://idp.federalpolyoko.edu.ng/idp/shibboleth": {
         "en": "Federal Polytechnic Oko"
     },
@@ -133,5 +136,8 @@
     },
     "https://idp.unizik.edu.ng/idp/shibboleth": {
         "en": "Nnamdi Azikiwe University, Akwa"
+    },
+    "https://idp.zamsut.edu.ng/idp/shibboleth": {
+        "en": "Zamfara State University, Talata Mafara"
     }
 }

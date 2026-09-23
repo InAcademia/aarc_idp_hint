@@ -9681,10 +9681,6 @@
             "en": "Université de Technologie de Belfort-Montbéliard",
             "fr": "Université de Technologie de Belfort-Montbéliard"
         },
-        "https://federation3.univ-brest.fr/idp/shibboleth": {
-            "en": "Université de Bretagne Occidentale - UBO/IDP3",
-            "fr": "Université de Bretagne Occidentale - UBO/IDP3"
-        },
         "https://hub.phm.education.gouv.fr/idp": {
             "en": "Education Nationale - academies accesses",
             "fr": "Education Nationale - accès académies"
@@ -11805,6 +11801,9 @@
         "https://idp.baou.edu.in/idp/shibboleth": {
             "en": "Dr. Babasaheb Ambedkar Open University"
         },
+        "https://idp.bausabour.ac.in/idp/shibboleth": {
+            "en": "Bihar Agricultural University"
+        },
         "https://idp.bdu.ac.in/idp/shibboleth": {
             "en": "Bharathidasan University"
         },
@@ -11856,11 +11855,17 @@
         "https://idp.ccrum.res.in/idp/shibboleth": {
             "en": "Central Council for Research in Unani Medicine"
         },
+        "https://idp.cecri.res.in/idp/shibboleth": {
+            "en": "CSIR-Central Electrochemical Research Institute, Karaikudi"
+        },
         "https://idp.cens.res.in/idp/shibboleth": {
             "en": "Centre for Nano and Soft Matter Sciences"
         },
         "https://idp.cept.ac.in/idp/shibboleth": {
             "en": "CEPT University"
+        },
+        "https://idp.cift.res.in/idp/shibboleth": {
+            "en": "ICAR- Central Institute of Fisheries Technology (CIFT)"
         },
         "https://idp.cit.edu.in/idp/shibboleth": {
             "en": "Coimbatore Institute of Technology"
@@ -11978,6 +11983,9 @@
         },
         "https://idp.gujaratvidyapith.org/idp/shibboleth": {
             "en": "Gujarat Vidyapith"
+        },
+        "https://idp.gurugramuniversity.ac.in/idp/shibboleth": {
+            "en": "Gurugram University"
         },
         "https://idp.hbtu.ac.in/idp/shibboleth": {
             "en": "Harcourt Butler Technical University"
@@ -12260,6 +12268,9 @@
         },
         "https://idp.mgcub.ac.in/idp/shibboleth": {
             "en": "Mahatma Gandhi Central University"
+        },
+        "https://idp.mgifri.org.in/idp/shibboleth": {
+            "en": "Indian Council of Agricultural Research (ICAR)"
         },
         "https://idp.mgkvp.ac.in/idp/shibboleth": {
             "en": "Mahatma Gandhi Kashi Vidyapith University"
@@ -15161,6 +15172,9 @@
         "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
             "en": "Federal College of Education(Technical), AKOKA"
         },
+        "https://idp.federalpolyilaro.edu.ng/idp/shibboleth": {
+            "en": "Federal Polytechnic, Ilaro"
+        },
         "https://idp.federalpolyoko.edu.ng/idp/shibboleth": {
             "en": "Federal Polytechnic Oko"
         },
@@ -15265,6 +15279,9 @@
         },
         "https://idp.unizik.edu.ng/idp/shibboleth": {
             "en": "Nnamdi Azikiwe University, Akwa"
+        },
+        "https://idp.zamsut.edu.ng/idp/shibboleth": {
+            "en": "Zamfara State University, Talata Mafara"
         }
     },
     "nl": {
@@ -23062,6 +23079,9 @@
         },
         "https://sso.uchc.edu/idp": {
             "en": "UConn Health"
+        },
+        "https://sso.uconn.edu/idp": {
+            "en": "University of Connecticut - Bridge"
         },
         "https://sso.udmercy.edu/idp": {
             "en": "University of Detroit Mercy"
