@@ -12086,6 +12086,9 @@
         "https://idp.iitdh.ac.in/idp/shibboleth": {
             "en": "Indian Institute Of Technology Dharwad"
         },
+        "https://idp.iite.ac.in/idp/shibboleth": {
+            "en": "Indian Institute of Teacher Education"
+        },
         "https://idp.iitgn.ac.in/idp/shibboleth": {
             "en": "Indian Institute Of Technology Gandhinagar"
         },
@@ -15772,6 +15775,10 @@
         "https://sts.windows.net/7a5561df-6599-4898-8a20-cce41db3b44f/": {
             "en": "Tilburg University",
             "nl": "Tilburg University"
+        },
+        "https://sts.windows.net/811db867-6d52-4306-82f0-6cb37dd3e8fe/": {
+            "en": "DCTerra (New)",
+            "nl": "DCTerra (Nieuw)"
         },
         "https://sts.windows.net/8171367b-3418-48da-a7bb-9dc1d300c5e8/": {
             "en": "SaNS Expertisecentrum",
