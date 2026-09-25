@@ -7,10 +7,6 @@
         "da": "Erhvervsakademi Aarhus",
         "en": "Business Academy Aarhus"
     },
-    "http://adfs.easv.dk/adfs/services/trust": {
-        "da": "Erhvervsakademi SydVest",
-        "en": "Business Academy SouthWest (EASV)"
-    },
     "http://adfs.glasir.fo/adfs/services/trust": {
         "da": "Glasir",
         "en": "Glasir Tórshavn College"
@@ -154,7 +150,7 @@
         "is": "Landbúnaðarháskóli Íslands"
     },
     "https://idp.s-e-a.dk": {
-        "da": "Syddansk Erhvervsakademi",
+        "da": "Syddansk Erhvervsakademi (SEA)",
         "en": "SEA — Business Academy"
     },
     "https://idp.umit.dk": {

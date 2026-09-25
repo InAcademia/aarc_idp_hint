@@ -7903,10 +7903,6 @@
             "da": "Erhvervsakademi Aarhus",
             "en": "Business Academy Aarhus"
         },
-        "http://adfs.easv.dk/adfs/services/trust": {
-            "da": "Erhvervsakademi SydVest",
-            "en": "Business Academy SouthWest (EASV)"
-        },
         "http://adfs.glasir.fo/adfs/services/trust": {
             "da": "Glasir",
             "en": "Glasir Tórshavn College"
@@ -8050,7 +8046,7 @@
             "is": "Landbúnaðarháskóli Íslands"
         },
         "https://idp.s-e-a.dk": {
-            "da": "Syddansk Erhvervsakademi",
+            "da": "Syddansk Erhvervsakademi (SEA)",
             "en": "SEA — Business Academy"
         },
         "https://idp.umit.dk": {
@@ -10492,6 +10488,10 @@
         "https://shib3.mines-ales.fr/idp/shibboleth": {
             "en": "IMT Mines Alès",
             "fr": "IMT Mines Alès"
+        },
+        "https://shibb.estaca.fr/idp/shibboleth": {
+            "en": "ESTACA",
+            "fr": "ESTACA"
         },
         "https://shibb01.ensait.fr/idp/shibboleth": {
             "en": "ENSAIT - Roubaix",
@@ -15187,6 +15187,9 @@
         "https://idp.fuask.edu.ng/idp/shibboleth": {
             "en": "Federal University of Applied Sciences, Kachia"
         },
+        "https://idp.fugashua.edu.ng/idp/shibboleth": {
+            "en": "Federal University Gashua"
+        },
         "https://idp.fulafia.edu.ng/idp/shibboleth": {
             "en": "Federal University of Lafia"
         },
@@ -15246,6 +15249,9 @@
         },
         "https://idp.oouagoiwoye.edu.ng/idp/shibboleth": {
             "en": "Olabisi Onabanjo University, Ago-Iwoye"
+        },
+        "https://idp.paau.edu.ng/idp/shibboleth": {
+            "en": "Prince Abubakar Audu University, Anyigba"
         },
         "https://idp.tsuniversity.edu.ng/idp/shibboleth": {
             "en": "Taraba State University, Jalingo"
@@ -17472,6 +17478,10 @@
         "https://idp01.gih.se/idp/shibboleth": {
             "en": "The Swedish School of Sport and Health Sciences",
             "sv": "Gymnastik- och idrottshögskolan"
+        },
+        "https://idp03.kkh.se/idp/shibboleth": {
+            "en": "Royal Institute of Art -MFA",
+            "sv": "Kungl. Konsthögskolan - MFA"
         },
         "https://idp3.hig.se/idp/shibboleth": {
             "en": "University of Gävle",

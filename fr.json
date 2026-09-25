@@ -987,6 +987,10 @@
         "en": "IMT Mines Alès",
         "fr": "IMT Mines Alès"
     },
+    "https://shibb.estaca.fr/idp/shibboleth": {
+        "en": "ESTACA",
+        "fr": "ESTACA"
+    },
     "https://shibb01.ensait.fr/idp/shibboleth": {
         "en": "ENSAIT - Roubaix",
         "fr": "ENSAIT - Roubaix"
