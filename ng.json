@@ -29,6 +29,9 @@
     "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
         "en": "Federal College of Education(Technical), AKOKA"
     },
+    "https://idp.federalpolyekowe.edu.ng/idp/shibboleth": {
+        "en": "FEDERAL POLYTECHNIC EKOWE"
+    },
     "https://idp.federalpolyilaro.edu.ng/idp/shibboleth": {
         "en": "Federal Polytechnic, Ilaro"
     },

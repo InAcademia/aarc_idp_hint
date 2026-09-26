@@ -7757,10 +7757,6 @@
             "de": "Bundesinstitut für Arzneimittel und Medizinprodukte",
             "en": "Federal Institute for Drugs and Medical Devices"
         },
-        "https://sso.dshs-koeln.de/idp/shibboleth": {
-            "de": "Deutsche Sporthochschule Köln",
-            "en": "German Sport University Cologne"
-        },
         "https://sso.h-da.de/idp/shibboleth": {
             "de": "Hochschule Darmstadt, University of Applied Sciences",
             "en": "Hochschule Darmstadt, University of Applied Sciences"
@@ -15175,6 +15171,9 @@
         "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
             "en": "Federal College of Education(Technical), AKOKA"
         },
+        "https://idp.federalpolyekowe.edu.ng/idp/shibboleth": {
+            "en": "FEDERAL POLYTECHNIC EKOWE"
+        },
         "https://idp.federalpolyilaro.edu.ng/idp/shibboleth": {
             "en": "Federal Polytechnic, Ilaro"
         },
@@ -15307,8 +15306,8 @@
             "nl": "Cibap vakschool voor vormgeving"
         },
         "http://adfs.dcterra.nl/adfs/services/trust": {
-            "en": "DCTerra",
-            "nl": "DCTerra"
+            "en": "DCTerra (Old)",
+            "nl": "DCTerra (Oud)"
         },
         "http://adfs.fryske-akademy.nl/adfs/services/trust": {
             "en": "Fryske Akademy (KNAW)",
@@ -15783,8 +15782,8 @@
             "nl": "Tilburg University"
         },
         "https://sts.windows.net/811db867-6d52-4306-82f0-6cb37dd3e8fe/": {
-            "en": "DCTerra (New)",
-            "nl": "DCTerra (Nieuw)"
+            "en": "DCTerra",
+            "nl": "DCTerra"
         },
         "https://sts.windows.net/8171367b-3418-48da-a7bb-9dc1d300c5e8/": {
             "en": "SaNS Expertisecentrum",

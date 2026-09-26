@@ -12,8 +12,8 @@
         "nl": "Cibap vakschool voor vormgeving"
     },
     "http://adfs.dcterra.nl/adfs/services/trust": {
-        "en": "DCTerra",
-        "nl": "DCTerra"
+        "en": "DCTerra (Old)",
+        "nl": "DCTerra (Oud)"
     },
     "http://adfs.fryske-akademy.nl/adfs/services/trust": {
         "en": "Fryske Akademy (KNAW)",
@@ -488,8 +488,8 @@
         "nl": "Tilburg University"
     },
     "https://sts.windows.net/811db867-6d52-4306-82f0-6cb37dd3e8fe/": {
-        "en": "DCTerra (New)",
-        "nl": "DCTerra (Nieuw)"
+        "en": "DCTerra",
+        "nl": "DCTerra"
     },
     "https://sts.windows.net/8171367b-3418-48da-a7bb-9dc1d300c5e8/": {
         "en": "SaNS Expertisecentrum",
