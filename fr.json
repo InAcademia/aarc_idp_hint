@@ -1075,6 +1075,10 @@
         "en": "Université de Technologie de Troyes - UTT",
         "fr": "Université de Technologie de Troyes - UTT"
     },
+    "https://shibboleth5.utt.fr/idp/shibboleth": {
+        "en": "Université de Technologie de Troyes - v5",
+        "fr": "Université de Technologie de Troyes - v5"
+    },
     "https://shibbov3.ephe.fr/idp/shibboleth": {
         "en": "EPHE - Ecole Pratique des Hautes Etudes",
         "fr": "EPHE - Ecole Pratique des Hautes Etudes"

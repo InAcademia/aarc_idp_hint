@@ -255,6 +255,10 @@
         "en": "SBC - Sociedade Brasileira de Computacao",
         "pt-br": "SBC - Sociedade Brasileira de Computacao"
     },
+    "https://cafe.sbpcnet.org.br/idp/shibboleth": {
+        "en": "SBPC - Sociedade Brasileira para o Progresso da Ciencia",
+        "pt-br": "SBPC - Sociedade Brasileira para o Progresso da Ciencia"
+    },
     "https://cafe.sede.embrapa.br/idp/shibboleth": {
         "en": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria",
         "pt-br": "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuaria"
