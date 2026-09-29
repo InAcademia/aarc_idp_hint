@@ -8862,8 +8862,8 @@
             "es": "Instituto IMDEA Materiales"
         },
         "https://www.rediris.es/sir/imdeanetworkidp": {
-            "en": "IMDEA Network",
-            "es": "IMDEA Network"
+            "en": "Instituto IMDEA Networks",
+            "es": "Instituto IMDEA Networks"
         },
         "https://www.rediris.es/sir/iniaidp": {
             "en": "Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria",
@@ -9868,10 +9868,6 @@
         "https://idp.cpe.fr": {
             "en": "CPE Lyon",
             "fr": "CPE Lyon"
-        },
-        "https://idp.cpe.fr/idp/shibboleth": {
-            "en": "Old - CPE Lyon",
-            "fr": "Ancien - CPE Lyon"
         },
         "https://idp.criann.fr/saml2/idp/metadata.php": {
             "en": "CRIANN",
