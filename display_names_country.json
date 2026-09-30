@@ -1148,6 +1148,10 @@
             "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
             "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
         },
+        "https://cafe.mcti.gov.br/idp/shibboleth": {
+            "en": "MCTI - Ministerio da Ciencia, Tecnologia e Inovacao",
+            "pt-br": "MCTI - Ministerio da Ciencia, Tecnologia e Inovacao"
+        },
         "https://cafe.on.br/idp/shibboleth": {
             "en": "ON - Observatorio Nacional",
             "pt-br": "ON - Observatorio Nacional"
@@ -15157,6 +15161,9 @@
         "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
             "en": "Eko-Konnect Research and Education Initiative"
         },
+        "https://idp.aaau.edu.ng/idp/shibboleth": {
+            "en": "African Aviation and Aerospace University Abuja"
+        },
         "https://idp.abu.edu.ng/idp/shibboleth": {
             "en": "Ahmadu Bello University, Zaria"
         },
@@ -15193,8 +15200,14 @@
         "https://idp.federalpolyoko.edu.ng/idp/shibboleth": {
             "en": "Federal Polytechnic Oko"
         },
+        "https://idp.fepo.edu.ng/idp/shibboleth": {
+            "en": "Federal Polytechnic Orogun"
+        },
         "https://idp.fpno.edu.ng/idp/shibboleth": {
             "en": "Federal Polytechnic Nekede, Owerri"
+        },
+        "https://idp.fptb.edu.ng/idp/shibboleth": {
+            "en": "The Federal Polytechnic, Bauchi"
         },
         "https://idp.fuask.edu.ng/idp/shibboleth": {
             "en": "Federal University of Applied Sciences, Kachia"
@@ -15295,6 +15308,9 @@
         "https://idp.unilag.edu.ng/idp/shibboleth": {
             "en": "University of Lagos"
         },
+        "https://idp.unilesa.edu.ng/idp/shibboleth": {
+            "en": "University of Ilesa"
+        },
         "https://idp.unilorin.edu.ng/idp/shibboleth": {
             "en": "University of Ilorin"
         },
@@ -15366,8 +15382,8 @@
             "nl": "Centraal Planbureau"
         },
         "http://federatie.lumc.nl/adfs/services/trust": {
-            "en": "Leids Universitair Medisch Centrum",
-            "nl": "Leids Universitair Medisch Centrum"
+            "en": "Leids Universitair Medisch Centrum (Old)",
+            "nl": "Leids Universitair Medisch Centrum (Oud)"
         },
         "http://federation.graafschapcollege.nl/adfs/services/trust": {
             "en": "Graafschap College",
@@ -15992,6 +16008,10 @@
         "https://sts.windows.net/c38a20c7-169c-434f-b89f-45025169197e/": {
             "en": "Universities of the Netherlands",
             "nl": "Universiteiten van Nederland"
+        },
+        "https://sts.windows.net/c4048c4f-dd54-4cbd-8049-5457aacd2fb8/": {
+            "en": "Leids Universitair Medisch Centrum",
+            "nl": "Leids Universitair Medisch Centrum"
         },
         "https://sts.windows.net/c66b6765-b794-4a2b-84ed-845b341c086a/": {
             "en": "Fontys University of Applied Sciences",

@@ -56,8 +56,8 @@
         "nl": "Centraal Planbureau"
     },
     "http://federatie.lumc.nl/adfs/services/trust": {
-        "en": "Leids Universitair Medisch Centrum",
-        "nl": "Leids Universitair Medisch Centrum"
+        "en": "Leids Universitair Medisch Centrum (Old)",
+        "nl": "Leids Universitair Medisch Centrum (Oud)"
     },
     "http://federation.graafschapcollege.nl/adfs/services/trust": {
         "en": "Graafschap College",
@@ -682,6 +682,10 @@
     "https://sts.windows.net/c38a20c7-169c-434f-b89f-45025169197e/": {
         "en": "Universities of the Netherlands",
         "nl": "Universiteiten van Nederland"
+    },
+    "https://sts.windows.net/c4048c4f-dd54-4cbd-8049-5457aacd2fb8/": {
+        "en": "Leids Universitair Medisch Centrum",
+        "nl": "Leids Universitair Medisch Centrum"
     },
     "https://sts.windows.net/c66b6765-b794-4a2b-84ed-845b341c086a/": {
         "en": "Fontys University of Applied Sciences",

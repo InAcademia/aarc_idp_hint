@@ -2,6 +2,9 @@
     "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
         "en": "Eko-Konnect Research and Education Initiative"
     },
+    "https://idp.aaau.edu.ng/idp/shibboleth": {
+        "en": "African Aviation and Aerospace University Abuja"
+    },
     "https://idp.abu.edu.ng/idp/shibboleth": {
         "en": "Ahmadu Bello University, Zaria"
     },
@@ -38,8 +41,14 @@
     "https://idp.federalpolyoko.edu.ng/idp/shibboleth": {
         "en": "Federal Polytechnic Oko"
     },
+    "https://idp.fepo.edu.ng/idp/shibboleth": {
+        "en": "Federal Polytechnic Orogun"
+    },
     "https://idp.fpno.edu.ng/idp/shibboleth": {
         "en": "Federal Polytechnic Nekede, Owerri"
+    },
+    "https://idp.fptb.edu.ng/idp/shibboleth": {
+        "en": "The Federal Polytechnic, Bauchi"
     },
     "https://idp.fuask.edu.ng/idp/shibboleth": {
         "en": "Federal University of Applied Sciences, Kachia"
@@ -139,6 +148,9 @@
     },
     "https://idp.unilag.edu.ng/idp/shibboleth": {
         "en": "University of Lagos"
+    },
+    "https://idp.unilesa.edu.ng/idp/shibboleth": {
+        "en": "University of Ilesa"
     },
     "https://idp.unilorin.edu.ng/idp/shibboleth": {
         "en": "University of Ilorin"

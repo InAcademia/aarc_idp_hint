@@ -227,6 +227,10 @@
         "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
         "pt-br": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua"
     },
+    "https://cafe.mcti.gov.br/idp/shibboleth": {
+        "en": "MCTI - Ministerio da Ciencia, Tecnologia e Inovacao",
+        "pt-br": "MCTI - Ministerio da Ciencia, Tecnologia e Inovacao"
+    },
     "https://cafe.on.br/idp/shibboleth": {
         "en": "ON - Observatorio Nacional",
         "pt-br": "ON - Observatorio Nacional"
