@@ -749,9 +749,6 @@
     "https://idp.midchesh.ac.uk/idp/shibboleth": {
         "en": "Mid Cheshire College"
     },
-    "https://idp.mimas.ac.uk/idp/shibboleth": {
-        "en": "Jisc: Digital Resources (Mimas IdP)"
-    },
     "https://idp.mkcollege.ac.uk/openathens": {
         "en": "Milton Keynes College"
     },
@@ -1388,9 +1385,6 @@
     "https://scgidp.shrewsbury.ac.uk/idp/shibboleth": {
         "en": "Shrewsbury Colleges Group"
     },
-    "https://school.c2kni.net/shibboleth": {
-        "en": "C2k (Western Education Library Board)"
-    },
     "https://sfx.ac.uk/idp": {
         "en": "Saint Francis Xavier Catholic Sixth Form College, London"
     },
@@ -1631,6 +1625,9 @@
     "https://shibidp.uclan.ac.uk/idp/shibboleth": {
         "en": "University of Lancashire"
     },
+    "https://shibidp.walsallcollege.ac.uk/idp/shibboleth": {
+        "en": "Walsall College"
+    },
     "https://shibidp.wnc.ac.uk/idp/shibboleth": {
         "en": "West Nottinghamshire College"
     },
@@ -1683,9 +1680,6 @@
     },
     "https://wakshib1.wakefield.ac.uk/shibboleth": {
         "en": "Heart of Yorkshire Education Group Ltd"
-    },
-    "https://walsallcollege.ac.uk/idp": {
-        "en": "Walsall College"
     },
     "https://wccidp.west-cheshire.ac.uk/shibboleth": {
         "en": "West Cheshire College (WCC)"

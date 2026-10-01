@@ -3,7 +3,7 @@
         "en": "Eko-Konnect Research and Education Initiative"
     },
     "https://idp.aaau.edu.ng/idp/shibboleth": {
-        "en": "African Aviation and Aerospace University Abuja"
+        "en": "African Aviation and Aerospace University, Abuja"
     },
     "https://idp.abu.edu.ng/idp/shibboleth": {
         "en": "Ahmadu Bello University, Zaria"
@@ -17,6 +17,9 @@
     "https://idp.buk.edu.ng/idp/shibboleth": {
         "en": "Bayero University, Kano"
     },
+    "https://idp.castg.edu.ng/idp/shibboleth": {
+        "en": "Yobe State College of Agriculture Science and Technology, Gujba"
+    },
     "https://idp.coou.edu.ng/idp/shibboleth": {
         "en": "Chukwuemeka Odumegwu Ojukwu University, Uli"
     },
@@ -26,11 +29,14 @@
     "https://idp.eksu.edu.ng/idp/shibboleth": {
         "en": "Ekiti State University, Ado-Ekiti"
     },
+    "https://idp.fceehamufu.edu.ng/idp/shibboleth": {
+        "en": "Federal College of Education, Eha Amufu"
+    },
     "https://idp.fceilawe.edu.ng/idp/shibboleth": {
         "en": "Federal College of Education, Ilawe-Ekiti"
     },
     "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
-        "en": "Federal College of Education(Technical), AKOKA"
+        "en": "Federal College of Education(Technical), Akoka"
     },
     "https://idp.federalpolyekowe.edu.ng/idp/shibboleth": {
         "en": "Federal Polytechnic Ekowe"
@@ -121,6 +127,9 @@
     },
     "https://idp.paau.edu.ng/idp/shibboleth": {
         "en": "Prince Abubakar Audu University, Anyigba"
+    },
+    "https://idp.tasued.edu.ng/idp/shibboleth": {
+        "en": "Tai Solarin Federal University of Education, Ijagun"
     },
     "https://idp.tsuniversity.edu.ng/idp/shibboleth": {
         "en": "Taraba State University, Jalingo"
