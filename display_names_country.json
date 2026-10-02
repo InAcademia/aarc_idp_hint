@@ -15162,7 +15162,7 @@
         }
     },
     "ng": {
-        "https://ekokonnect.eduid.ng/saml2/idp/metadata.php": {
+        "https://ekokonnect.hosted.eduid.ng/saml2/idp/metadata.php": {
             "en": "Eko-Konnect Research and Education Initiative"
         },
         "https://idp.aaau.edu.ng/idp/shibboleth": {
@@ -16889,8 +16889,8 @@
             "pt": "INL- International Iberian Nanotechnology Laboratory"
         },
         "https://idp.ipb.pt/idp/shibboleth": {
-            "en": "Instituto Politécnico de Bragança",
-            "pt": "Instituto Politécnico de Bragança"
+            "en": "Universidade Politécnica de Bragança",
+            "pt": "Universidade Politécnica de Bragança"
         },
         "https://idp.ipbeja.pt/idp/shibboleth": {
             "en": "Polytechnic Institute of Beja",
