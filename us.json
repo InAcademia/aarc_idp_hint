@@ -29,9 +29,6 @@
     "http://fs.carilionclinic.org/adfs/services/trust": {
         "en": "Carilion Clinic"
     },
-    "http://ksufed.kennesaw.edu/adfs/services/trust": {
-        "en": "OLD - Kennesaw State University"
-    },
     "http://login.dsu.edu/adfs/services/trust": {
         "en": "Dakota State University"
     },
