@@ -19,5 +19,8 @@
     },
     "https://idp2.pern.edu.pk/idp/shibboleth": {
         "en": "PERN IdP Pakistan"
+    },
+    "https://sso.nust.edu.pk/idp/shibboleth": {
+        "en": "National University of Science & Technology (NUST)"
     }
 }

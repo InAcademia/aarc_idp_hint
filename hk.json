@@ -14,6 +14,9 @@
     "https://idp.cuhk.edu.hk/idp/shibboleth": {
         "en": "The Chinese University of Hong Kong"
     },
+    "https://idp.hksyu.edu/idp/shibboleth": {
+        "en": "Hong Kong Shue Yan University"
+    },
     "https://idp.polyu.edu.hk/idp/shibboleth": {
         "en": "The Hong Kong Polytechnic University"
     },

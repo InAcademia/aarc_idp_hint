@@ -577,6 +577,9 @@
         "https://idp.uiu.ac.bd/idp/shibboleth": {
             "en": "United International University"
         },
+        "https://idp.ulab.edu.bd/idp/shibboleth": {
+            "en": "University of Liberal Arts Bangladesh"
+        },
         "https://idp.wub.edu.bd/idp/shibboleth": {
             "en": "World University of Bangladesh"
         },
@@ -7147,7 +7150,7 @@
         },
         "https://idp.tu-dresden.de/idp/shibboleth": {
             "de": "Technische Universität Dresden",
-            "en": "Technische Universität Dresden"
+            "en": "TUD Dresden University of Technology"
         },
         "https://idp.tu-ilmenau.de/idp/shibboleth": {
             "de": "Technische Universität Ilmenau",
@@ -11195,6 +11198,9 @@
         },
         "https://idp.cuhk.edu.hk/idp/shibboleth": {
             "en": "The Chinese University of Hong Kong"
+        },
+        "https://idp.hksyu.edu/idp/shibboleth": {
+            "en": "Hong Kong Shue Yan University"
         },
         "https://idp.polyu.edu.hk/idp/shibboleth": {
             "en": "The Hong Kong Polytechnic University"
@@ -16308,6 +16314,9 @@
         },
         "https://idp2.pern.edu.pk/idp/shibboleth": {
             "en": "PERN IdP Pakistan"
+        },
+        "https://sso.nust.edu.pk/idp/shibboleth": {
+            "en": "National University of Science & Technology (NUST)"
         }
     },
     "pl": {

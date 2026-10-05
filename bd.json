@@ -68,6 +68,9 @@
     "https://idp.uiu.ac.bd/idp/shibboleth": {
         "en": "United International University"
     },
+    "https://idp.ulab.edu.bd/idp/shibboleth": {
+        "en": "University of Liberal Arts Bangladesh"
+    },
     "https://idp.wub.edu.bd/idp/shibboleth": {
         "en": "World University of Bangladesh"
     },
