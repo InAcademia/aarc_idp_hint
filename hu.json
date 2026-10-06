@@ -119,6 +119,10 @@
         "en": "Eötvös Loránd University Budapest",
         "hu": "Eötvös Loránd Tudományegyetem"
     },
+    "https://idp.fszek.hu/simplesaml/saml2/idp/metadata.php": {
+        "en": "Metropolitan Szabó Ervin Library",
+        "hu": "Fővárosi Szabó Ervin Könyvtár"
+    },
     "https://idp.gde.hu/simplesaml/saml2/idp/metadata.php": {
         "en": "Dennis Gabor University",
         "hu": "Gábor Dénes Egyetem"

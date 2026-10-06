@@ -11357,6 +11357,10 @@
             "en": "Eötvös Loránd University Budapest",
             "hu": "Eötvös Loránd Tudományegyetem"
         },
+        "https://idp.fszek.hu/simplesaml/saml2/idp/metadata.php": {
+            "en": "Metropolitan Szabó Ervin Library",
+            "hu": "Fővárosi Szabó Ervin Könyvtár"
+        },
         "https://idp.gde.hu/simplesaml/saml2/idp/metadata.php": {
             "en": "Dennis Gabor University",
             "hu": "Gábor Dénes Egyetem"
@@ -12250,6 +12254,9 @@
         },
         "https://idp.kunainital.ac.in/idp/shibboleth": {
             "en": "Kumaun University"
+        },
+        "https://idp.kvasu.ac.in/idp/shibboleth": {
+            "en": "KERALA VETERINARY AND ANIMAL SCIENCES UNIVERSITY"
         },
         "https://idp.lbsnaa.gov.in/idp/shibboleth": {
             "en": "Lal Bahadur Shastri National Academy Of Administration"
@@ -15879,6 +15886,10 @@
         "https://sts.windows.net/91eab56a-a91b-4c88-a4fb-eba5c3b4ebfd/": {
             "en": "Rijn IJssel",
             "nl": "Rijn IJssel"
+        },
+        "https://sts.windows.net/93c5c589-7854-4f36-be51-698be705f137/": {
+            "en": "NRG PALLAS (New)",
+            "nl": "NRG PALLAS (Nieuw)"
         },
         "https://sts.windows.net/95b42833-48dc-4164-aa86-cba6390366e2/": {
             "en": "RBO scholen",
