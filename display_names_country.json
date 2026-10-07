@@ -15487,10 +15487,6 @@
             "en": "Erasmus MC",
             "nl": "Erasmus MC"
         },
-        "http://logon.nrg.eu/adfs/services/trust": {
-            "en": "NRG PALLAS",
-            "nl": "NRG PALLAS"
-        },
         "http://sts.amsterdamumc.nl/adfs/services/trust": {
             "en": "Amsterdam UMC",
             "nl": "Amsterdam UMC"
@@ -15888,8 +15884,8 @@
             "nl": "Rijn IJssel"
         },
         "https://sts.windows.net/93c5c589-7854-4f36-be51-698be705f137/": {
-            "en": "NRG PALLAS (New)",
-            "nl": "NRG PALLAS (Nieuw)"
+            "en": "NRG PALLAS",
+            "nl": "NRG PALLAS"
         },
         "https://sts.windows.net/95b42833-48dc-4164-aa86-cba6390366e2/": {
             "en": "RBO scholen",
