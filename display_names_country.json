@@ -7500,6 +7500,10 @@
             "de": "Hochschule Mittweida",
             "en": "Hochschule Mittweida"
         },
+        "https://logon.skd.museum/idp/shibboleth": {
+            "de": "Staatliche Kunstsammlungen Dresden",
+            "en": "Staatliche Kunstsammlungen Dresden"
+        },
         "https://maxweberstiftung.sso.academiccloud.de/idp": {
             "de": "Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland",
             "en": "Max Weber Foundation - German Humanities Institutes Abroad"
@@ -17534,10 +17538,6 @@
         "https://idp.ths.se/idp/shibboleth": {
             "en": "University College Stockholm",
             "sv": "Enskilda Högskolan Stockholm"
-        },
-        "https://idp.uniarts.se/idp/shibboleth": {
-            "en": "Stockholm University of the Arts - uniarts",
-            "sv": "Stockholms konstnärliga högskola - uniarts"
         },
         "https://idp01.gih.se/idp/shibboleth": {
             "en": "The Swedish School of Sport and Health Sciences",
