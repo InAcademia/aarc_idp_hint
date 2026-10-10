@@ -1304,6 +1304,9 @@
     "https://sso.stkate.edu/idp": {
         "en": "St. Catherine University Single Sign-On"
     },
+    "https://sso.tamuct.edu/idp": {
+        "en": "Texas A&M University - Central Texas"
+    },
     "https://sso.tamuk.edu/idp": {
         "en": "Texas A&M University Kingsville"
     },

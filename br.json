@@ -571,6 +571,10 @@
         "en": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas",
         "pt-br": "UNCISAL - Universidade Estadual de Ciencias da Saude de Alagoas"
     },
+    "https://idp-rnp.butantan.gov.br/idp/shibboleth": {
+        "en": "IB - Instituto Butantan",
+        "pt-br": "IB - Instituto Butantan"
+    },
     "https://idp-shib-urca.urca.br/idp/shibboleth": {
         "en": "URCA - Universidade Regional do Cariri",
         "pt-br": "URCA - Universidade Regional do Cariri"

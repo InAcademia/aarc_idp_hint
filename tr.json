@@ -35,6 +35,10 @@
         "en": "Adana Alparslan Türkeş Science and Technology University",
         "tr": "Adana Alparslan Türkeş Bilim veTeknoloji Üniversitesi"
     },
+    "https://idp.aybu.edu.tr/idp/shibboleth": {
+        "en": "Ankara Yıldırım Beyazıt University",
+        "tr": "Ankara Yıldırım Beyazıt Üniversitesi"
+    },
     "https://idp.baskent.edu.tr/idp/shibboleth": {
         "en": "Baskent University",
         "tr": "Başkent Üniversitesi"

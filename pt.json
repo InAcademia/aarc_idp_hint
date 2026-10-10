@@ -248,8 +248,8 @@
         "pt": "Instituto Politécnico de Setúbal"
     },
     "https://idp.ipt.pt/idp/shibboleth": {
-        "en": "Instituto Politécnico de Tomar",
-        "pt": "Instituto Politécnico de Tomar"
+        "en": "Universidade Politécnica de Tomar",
+        "pt": "Universidade Politécnica de Tomar"
     },
     "https://idp.ipvc.pt/idp/shibboleth": {
         "en": "Instituto Politécnico de Viana do Castelo",
@@ -291,10 +291,6 @@
         "en": "Laboratório de Instrumentação e Física Experimental de Partículas",
         "pt": "Laboratório de Instrumentação e Física Experimental de Partículas"
     },
-    "https://idp.lis.ulusiada.pt/idp/shibboleth": {
-        "en": "Universidade Lusíada",
-        "pt": "Universidade Lusíada"
-    },
     "https://idp.lnec.pt/idp/shibboleth": {
         "en": "Laboratório Nacional de Engenharia Civil",
         "pt": "Laboratório Nacional de Engenharia Civil"
@@ -334,6 +330,10 @@
     "https://idp.ufp.pt/idp/shibboleth": {
         "en": "University Fernando Pessoa",
         "pt": "Universidade Fernando Pessoa"
+    },
+    "https://idp.ulusiada.pt/idp/shibboleth": {
+        "en": "Universidade Lusíada",
+        "pt": "Universidade Lusíada"
     },
     "https://idp.ulusofona.pt/idp/shibboleth": {
         "en": "Universidade Lusófona",
