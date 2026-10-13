@@ -14565,32 +14565,6 @@
             "en": "Ventspils University College"
         }
     },
-    "ma": {
-        "https://fid.usms.ac.ma/idp/shibboleth": {
-            "ar": "جامعة السلطان مولاي سليمان",
-            "en": "USMS"
-        },
-        "https://idp-server.enim.ac.ma/idp/shibboleth": {
-            "ar": "المدرسة الوطنية للصناعات المعدنية",
-            "en": "ENIM"
-        },
-        "https://idp.cnrst.ma/idp/shibboleth": {
-            "ar": "المركز الوطني للبحث العلمي والتقني",
-            "en": "CNRST"
-        },
-        "https://idp.marwan.ma/idp/shibboleth": {
-            "ar": "مروان",
-            "en": "MARWAN"
-        },
-        "https://idp.uit.ac.ma/idp/shibboleth": {
-            "ar": "جامعة ابن طفيل",
-            "en": "UIT"
-        },
-        "https://idp.um5.ac.ma/idp/shibboleth": {
-            "ar": "جامعة محمد الخامس",
-            "en": "UM5"
-        }
-    },
     "md": {
         "https://amtapidp.renam.md": {
             "en": "AMTAP-MD",
@@ -15466,6 +15440,10 @@
         "http://idp.ihe.nl/adfs/services/trust": {
             "en": "IHE Delft Institute for Water Education",
             "nl": "IHE Delft Institute for Water Education"
+        },
+        "http://idp.un-ihe.org/adfs/services/trust": {
+            "en": "IHE Delft Institute for Water Education (New)",
+            "nl": "IHE Delft Institute for Water Education (Nieuw)"
         },
         "http://login.hva.nl/adfs/services/trust": {
             "en": "Amsterdam University of Applied Sciences",
@@ -16895,10 +16873,6 @@
         "https://idp.ibet.pt/idp/shibboleth": {
             "en": "Instituto da Biologia Experimental e Tecnológica",
             "pt": "Instituto da Biologia Experimental e Tecnológica"
-        },
-        "https://idp.igc.gulbenkian.pt/idp/shibboleth": {
-            "en": "Fundação Calouste Gulbenkian",
-            "pt": "Fundação Calouste Gulbenkian"
         },
         "https://idp.ihmt.unl.pt/idp/shibboleth": {
             "en": "UNL - Instituto de Higiene e Medicina Tropical",
@@ -18668,6 +18642,9 @@
         }
     },
     "ug": {
+        "https://buidp.busitema.ac.ug/idp/shibboleth": {
+            "en": "Busitema University"
+        },
         "https://idp-auth.sun.ac.ug/idp/shibboleth": {
             "en": "Soroti University"
         },

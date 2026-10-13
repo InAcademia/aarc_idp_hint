@@ -1,4 +1,7 @@
 {
+    "https://buidp.busitema.ac.ug/idp/shibboleth": {
+        "en": "Busitema University"
+    },
     "https://idp-auth.sun.ac.ug/idp/shibboleth": {
         "en": "Soroti University"
     },
