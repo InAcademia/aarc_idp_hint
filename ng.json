@@ -38,6 +38,9 @@
     "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
         "en": "Federal College of Education(Technical), Akoka"
     },
+    "https://idp.fctcoezuba.edu.ng/idp/shibboleth": {
+        "en": "FCT College of Education, Zuba"
+    },
     "https://idp.federalpolyekowe.edu.ng/idp/shibboleth": {
         "en": "Federal Polytechnic Ekowe"
     },

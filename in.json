@@ -812,6 +812,9 @@
     "https://idp.pup.ac.in/idp/shibboleth": {
         "en": "Patna University"
     },
+    "https://idp.purneau.ac.in/idp/shibboleth": {
+        "en": "Purnea University"
+    },
     "https://idp.ranchiuniversity.ac.in/idp/shibboleth": {
         "en": "Ranchi University"
     },
@@ -997,6 +1000,9 @@
     },
     "https://idp.uprtou.ac.in/idp/shibboleth": {
         "en": "Uttar Pradesh Rajarshi Tandon Open University"
+    },
+    "https://idp.upums.ac.in/idp/shibboleth": {
+        "en": "Uttar Pradesh University of Medical Sciences"
     },
     "https://idp.upvetuniv.edu.in/idp/shibboleth": {
         "en": "UP Pandit Deen Dayal Upadhyaya Veterinary University and  Gau-Anusandhan Sansthan, Mathura"

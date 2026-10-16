@@ -240,9 +240,6 @@
     "https://prdshib.macewan.ca/idp/shibboleth": {
         "en": "MacEwan University"
     },
-    "https://saul.inrs.ca/cas/idp": {
-        "en": "Institut national de la recherche scientifique (INRS - Universite du Quebec)"
-    },
     "https://shib-idp.humber.ca/idp/shibboleth": {
         "en": "Humber College"
     },

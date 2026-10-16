@@ -955,6 +955,10 @@
             "en": "UFFS - Universidade Federal da Fronteira Sul",
             "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
         },
+        "https://cafe-dev.mackenzie.br/idp/shibboleth": {
+            "en": "MACKENZIE - Instituto Presbiteriano Mackenzie",
+            "pt-br": "MACKENZIE - Instituto Presbiteriano Mackenzie"
+        },
         "https://cafe-idp.ifma.edu.br/idp/shibboleth": {
             "en": "IFMA - Instituto Federal do Maranhao",
             "pt-br": "IFMA - Instituto Federal do Maranhao"
@@ -1142,10 +1146,6 @@
         "https://cafe.itvds.org/idp/shibboleth": {
             "en": "ITV - Instituto Tecnologico Vale",
             "pt-br": "ITV - Instituto Tecnologico Vale"
-        },
-        "https://cafe.mackenzie.br/idp/shibboleth": {
-            "en": "MACKENZIE - Instituto Presbiteriano Mackenzie",
-            "pt-br": "MACKENZIE - Instituto Presbiteriano Mackenzie"
         },
         "https://cafe.mamiraua.org.br/idp/shibboleth": {
             "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
@@ -2047,10 +2047,6 @@
             "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
             "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
         },
-        "https://shibboleth.abc.org.br/idp/shibboleth": {
-            "en": "ABC - Academia Brasileira de Ciencias",
-            "pt-br": "ABC - Academia Brasileira de Ciencias"
-        },
         "https://shibboleth.cetem.gov.br/idp/shibboleth": {
             "en": "CETEM - Centro de Tecnologia Mineral",
             "pt-br": "CETEM - Centro de Tecnologia Mineral"
@@ -2541,9 +2537,6 @@
         },
         "https://prdshib.macewan.ca/idp/shibboleth": {
             "en": "MacEwan University"
-        },
-        "https://saul.inrs.ca/cas/idp": {
-            "en": "Institut national de la recherche scientifique (INRS - Universite du Quebec)"
         },
         "https://shib-idp.humber.ca/idp/shibboleth": {
             "en": "Humber College"
@@ -12515,6 +12508,9 @@
         "https://idp.pup.ac.in/idp/shibboleth": {
             "en": "Patna University"
         },
+        "https://idp.purneau.ac.in/idp/shibboleth": {
+            "en": "Purnea University"
+        },
         "https://idp.ranchiuniversity.ac.in/idp/shibboleth": {
             "en": "Ranchi University"
         },
@@ -12700,6 +12696,9 @@
         },
         "https://idp.uprtou.ac.in/idp/shibboleth": {
             "en": "Uttar Pradesh Rajarshi Tandon Open University"
+        },
+        "https://idp.upums.ac.in/idp/shibboleth": {
+            "en": "Uttar Pradesh University of Medical Sciences"
         },
         "https://idp.upvetuniv.edu.in/idp/shibboleth": {
             "en": "UP Pandit Deen Dayal Upadhyaya Veterinary University and  Gau-Anusandhan Sansthan, Mathura"
@@ -15196,6 +15195,9 @@
         "https://idp.fcetakoka.edu.ng/idp/shibboleth": {
             "en": "Federal College of Education(Technical), Akoka"
         },
+        "https://idp.fctcoezuba.edu.ng/idp/shibboleth": {
+            "en": "FCT College of Education, Zuba"
+        },
         "https://idp.federalpolyekowe.edu.ng/idp/shibboleth": {
             "en": "Federal Polytechnic Ekowe"
         },
@@ -17141,7 +17143,7 @@
             "ro": "Universitatea \"Alexandru Ioan Cuza\" din Iasi"
         },
         "https://idp.ub.ro/idp/shibboleth": {
-            "en": "UBC Identity Provider"
+            "en": "Vasile Alecsandri University of Bacau"
         },
         "https://idp.ubbcluj.ro/smp/saml2/idp/metadata.php": {
             "en": "Babes-Bolyai University",
@@ -17251,6 +17253,9 @@
         "https://idp.sf.bg.ac.rs/idp/shibboleth": {
             "en": "The University of Belgrade - Faculty of Transport and Traffic Engineering",
             "sr": "Saobraćajni fakultet Univerziteta u Beogradu"
+        },
+        "https://idp.unibl.org/idp/shibboleth": {
+            "en": "https://idp.unibl.org/idp/shibboleth"
         },
         "https://idp.vin.bg.ac.rs/idp/shibboleth": {
             "en": "Vinca Institute of nuclear sciences",
