@@ -1,4 +1,8 @@
 {
+    "https://accounts.google.com/o/saml2?idpid=C016r78b9": {
+        "en": "Pontificia Universidad Católica de Valparaíso",
+        "es": "Pontificia Universidad Católica de Valparaíso"
+    },
     "https://id.reuna.cl/simplesaml/module.php/saml/idp/metadata": {
         "en": "ID REUNA",
         "es": "ID REUNA"
