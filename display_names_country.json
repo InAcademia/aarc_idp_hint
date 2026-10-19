@@ -6711,6 +6711,10 @@
             "de": "Hochschule für Musik, Theater und Medien Hannover",
             "en": "Hanover University of Music, Drama and Media"
         },
+        "https://idp.hochschule-bc.de/idp/shibboleth": {
+            "de": "Hochschule Biberach",
+            "en": "Hochschule Biberach"
+        },
         "https://idp.hochschule-stralsund.de/idp/shibboleth": {
             "de": "Hochschule Stralsund - University of Applied Sciences",
             "en": "University of Applied Sciences Stralsund"
