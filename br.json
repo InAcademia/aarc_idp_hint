@@ -31,10 +31,6 @@
         "en": "UFFS - Universidade Federal da Fronteira Sul",
         "pt-br": "UFFS - Universidade Federal da Fronteira Sul"
     },
-    "https://cafe-dev.mackenzie.br/idp/shibboleth": {
-        "en": "MACKENZIE - Instituto Presbiteriano Mackenzie",
-        "pt-br": "MACKENZIE - Instituto Presbiteriano Mackenzie"
-    },
     "https://cafe-idp.ifma.edu.br/idp/shibboleth": {
         "en": "IFMA - Instituto Federal do Maranhao",
         "pt-br": "IFMA - Instituto Federal do Maranhao"
@@ -222,6 +218,10 @@
     "https://cafe.itvds.org/idp/shibboleth": {
         "en": "ITV - Instituto Tecnologico Vale",
         "pt-br": "ITV - Instituto Tecnologico Vale"
+    },
+    "https://cafe.mackenzie.br/idp/shibboleth": {
+        "en": "MACKENZIE - Instituto Presbiteriano Mackenzie",
+        "pt-br": "MACKENZIE - Instituto Presbiteriano Mackenzie"
     },
     "https://cafe.mamiraua.org.br/idp/shibboleth": {
         "en": "IDSM - Instituto de Desenvolvimento Sutentavel Mamiraua",
