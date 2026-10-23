@@ -151,10 +151,6 @@
         "en": "Ecole Normale Supérieure - PSL",
         "fr": "Ecole Normale Supérieure - PSL"
     },
-    "https://federation.ined.fr/idp/shibboleth": {
-        "en": "INED - Institut National d'Etudes Démographiques",
-        "fr": "INED - Institut National d'Etudes Démographiques"
-    },
     "https://federation.sciences-po.fr/idp/shibboleth": {
         "en": "Sciences Po Paris",
         "fr": "Sciences Po Paris"

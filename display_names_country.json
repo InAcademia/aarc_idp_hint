@@ -9677,10 +9677,6 @@
             "en": "Ecole Normale Supérieure - PSL",
             "fr": "Ecole Normale Supérieure - PSL"
         },
-        "https://federation.ined.fr/idp/shibboleth": {
-            "en": "INED - Institut National d'Etudes Démographiques",
-            "fr": "INED - Institut National d'Etudes Démographiques"
-        },
         "https://federation.sciences-po.fr/idp/shibboleth": {
             "en": "Sciences Po Paris",
             "fr": "Sciences Po Paris"
@@ -12263,6 +12259,9 @@
         },
         "https://idp.kunainital.ac.in/idp/shibboleth": {
             "en": "Kumaun University"
+        },
+        "https://idp.kuvempu.ac.in/idp/shibboleth": {
+            "en": "Kuvempu University"
         },
         "https://idp.kvasu.ac.in/idp/shibboleth": {
             "en": "KERALA VETERINARY AND ANIMAL SCIENCES UNIVERSITY"
@@ -15954,6 +15953,10 @@
         "https://sts.windows.net/aabe793f-b39c-440c-8e1a-0dcfb6215609/": {
             "en": "Codarts University of the Arts",
             "nl": "Codarts Hogeschool voor de Kunsten"
+        },
+        "https://sts.windows.net/ab4d3626-c1c5-4a75-ab85-427f1a644a7d/": {
+            "en": "SIDN",
+            "nl": "SIDN"
         },
         "https://sts.windows.net/ac4b0eb0-811e-4ab0-acca-8a87079290dc/": {
             "en": "Netherlands Institute for Neuroscience (KNAW)",
