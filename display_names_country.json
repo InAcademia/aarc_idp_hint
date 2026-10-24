@@ -17891,14 +17891,6 @@
             "en": "Université Catholique de l'Afrique de l'Ouest - Unité Universitaire au Togo"
         }
     },
-    "th": {
-        "https://idp.thairen.net.th/idp/shibboleth": {
-            "en": "ThaiREN IDP at idp.thairen.net.th"
-        },
-        "https://idp.thaisarn.net.th/idp/shibboleth": {
-            "en": "Thai Social/Scientific Academic and Research Network"
-        }
-    },
     "tr": {
         "https://edugain.dpu.edu.tr/idp/shibboleth": {
             "en": "Kutahya Dumlupinar University",
