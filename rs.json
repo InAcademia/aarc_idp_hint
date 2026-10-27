@@ -66,10 +66,6 @@
         "en": "Faculty of Mechanical and Civil Engineering in Kraljevo",
         "sr": "Fakultet za mašinstvo i građevinarstvo u Kraljevu"
     },
-    "https://login.iamres.amres.ac.rs/simplesaml/saml2/idp/metadata.php": {
-        "en": "iAMRES Web Single Sign-on Portal",
-        "sr": "iAMRES Portal za jedinstvenu prijavu na sistem"
-    },
     "https://login.uns.ac.rs/idp/metadata": {
         "en": "University of Novi Sad",
         "sr": "Univerzitert u Novom Sadu"

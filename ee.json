@@ -48,7 +48,7 @@
         "et": "TTK University of Applied Sciences"
     },
     "https://taatleja.eenet.ee/sso/saml2/idp/metadata.php": {
-        "en": "EENet",
+        "en": "https://taatleja.eenet.ee/sso/saml2/idp/metadata.php",
         "et": "EENet"
     }
 }

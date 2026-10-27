@@ -5,9 +5,6 @@
     "http://adfs.philau.edu/adfs/services/trust": {
         "en": "Philadelphia University"
     },
-    "http://adfs.ppd.com/adfs/services/trust": {
-        "en": "PPD"
-    },
     "http://adfs.sdstate.edu/adfs/services/trust": {
         "en": "South Dakota State University"
     },
@@ -1153,6 +1150,9 @@
     },
     "https://sso.famu.edu/idp": {
         "en": "Florida A&M University (SSO)"
+    },
+    "https://sso.fandm.edu/idp": {
+        "en": "Franklin and Marshall College - Okta IDP"
     },
     "https://sso.fau.edu/idp/shibboleth": {
         "en": "Florida Atlantic University"

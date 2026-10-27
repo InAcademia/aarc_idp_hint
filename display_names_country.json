@@ -8595,7 +8595,7 @@
             "et": "TTK University of Applied Sciences"
         },
         "https://taatleja.eenet.ee/sso/saml2/idp/metadata.php": {
-            "en": "EENet",
+            "en": "https://taatleja.eenet.ee/sso/saml2/idp/metadata.php",
             "et": "EENet"
         }
     },
@@ -9722,8 +9722,8 @@
             "fr": "Université Catholique de Lyon"
         },
         "https://idauthproxy.insa-lyon.fr/Saml2IDP/metadata": {
-            "en": "INSA Lyon (SATOSA)",
-            "fr": "INSA Lyon (SATOSA)"
+            "en": "INSA Lyon",
+            "fr": "INSA Lyon"
         },
         "https://ident-shib.ensc-rennes.fr/idp/shibboleth": {
             "en": "Ecole Nationale Supérieure de Chimie de Rennes",
@@ -10462,8 +10462,8 @@
             "fr": "ESSEC BUSINESS SCHOOL"
         },
         "https://login.insa-lyon.fr/idp/shibboleth": {
-            "en": "INSA Lyon",
-            "fr": "INSA Lyon"
+            "en": "INSA Lyon (Obsolete)",
+            "fr": "INSA Lyon (Obsolete)"
         },
         "https://multipass.imt-nord-europe.fr/idp/shibboleth": {
             "en": "IMT Nord Europe",
@@ -13223,10 +13223,6 @@
             "en": "Humanitas University",
             "it": "Humanitas University"
         },
-        "https://idp.ictp.it/simplesaml/saml2/idp/metadata.php": {
-            "en": "The Abdus Salam International Centre for Theoretical Physics (ICTP)",
-            "it": "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
-        },
         "https://idp.iit.it/idp/shibboleth": {
             "en": "IIT - Istituto Italiano di Tecnologia",
             "it": "IIT - Istituto Italiano di Tecnologia"
@@ -14235,9 +14231,6 @@
         "https://iam.nnfc.re.kr/idp/simplesamlphp": {
             "en": "National NanoFab Center"
         },
-        "https://iam.stepi.re.kr/idp/simplesamlphp": {
-            "en": "Science and Technology Policy Institute"
-        },
         "https://idp.kafe.or.kr/idp/simplesamlphp": {
             "en": "Korean Access Federation"
         },
@@ -14573,6 +14566,32 @@
         },
         "https://vea-idp.lanet.lv": {
             "en": "Ventspils University College"
+        }
+    },
+    "ma": {
+        "https://fid.usms.ac.ma/idp/shibboleth": {
+            "ar": "جامعة السلطان مولاي سليمان",
+            "en": "USMS"
+        },
+        "https://idp-server.enim.ac.ma/idp/shibboleth": {
+            "ar": "المدرسة الوطنية للصناعات المعدنية",
+            "en": "ENIM"
+        },
+        "https://idp.cnrst.ma/idp/shibboleth": {
+            "ar": "المركز الوطني للبحث العلمي والتقني",
+            "en": "CNRST"
+        },
+        "https://idp.marwan.ma/idp/shibboleth": {
+            "ar": "مروان",
+            "en": "MARWAN"
+        },
+        "https://idp.uit.ac.ma/idp/shibboleth": {
+            "ar": "جامعة ابن طفيل",
+            "en": "UIT"
+        },
+        "https://idp.um5.ac.ma/idp/shibboleth": {
+            "ar": "جامعة محمد الخامس",
+            "en": "UM5"
         }
     },
     "md": {
@@ -17279,10 +17298,6 @@
         "https://ldap2.mfkv.kg.ac.rs/idp/shibboleth": {
             "en": "Faculty of Mechanical and Civil Engineering in Kraljevo",
             "sr": "Fakultet za mašinstvo i građevinarstvo u Kraljevu"
-        },
-        "https://login.iamres.amres.ac.rs/simplesaml/saml2/idp/metadata.php": {
-            "en": "iAMRES Web Single Sign-on Portal",
-            "sr": "iAMRES Portal za jedinstvenu prijavu na sistem"
         },
         "https://login.uns.ac.rs/idp/metadata": {
             "en": "University of Novi Sad",
@@ -21827,9 +21842,6 @@
         "http://adfs.philau.edu/adfs/services/trust": {
             "en": "Philadelphia University"
         },
-        "http://adfs.ppd.com/adfs/services/trust": {
-            "en": "PPD"
-        },
         "http://adfs.sdstate.edu/adfs/services/trust": {
             "en": "South Dakota State University"
         },
@@ -22975,6 +22987,9 @@
         },
         "https://sso.famu.edu/idp": {
             "en": "Florida A&M University (SSO)"
+        },
+        "https://sso.fandm.edu/idp": {
+            "en": "Franklin and Marshall College - Okta IDP"
         },
         "https://sso.fau.edu/idp/shibboleth": {
             "en": "Florida Atlantic University"

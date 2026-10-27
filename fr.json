@@ -192,8 +192,8 @@
         "fr": "Université Catholique de Lyon"
     },
     "https://idauthproxy.insa-lyon.fr/Saml2IDP/metadata": {
-        "en": "INSA Lyon (SATOSA)",
-        "fr": "INSA Lyon (SATOSA)"
+        "en": "INSA Lyon",
+        "fr": "INSA Lyon"
     },
     "https://ident-shib.ensc-rennes.fr/idp/shibboleth": {
         "en": "Ecole Nationale Supérieure de Chimie de Rennes",
@@ -932,8 +932,8 @@
         "fr": "ESSEC BUSINESS SCHOOL"
     },
     "https://login.insa-lyon.fr/idp/shibboleth": {
-        "en": "INSA Lyon",
-        "fr": "INSA Lyon"
+        "en": "INSA Lyon (Obsolete)",
+        "fr": "INSA Lyon (Obsolete)"
     },
     "https://multipass.imt-nord-europe.fr/idp/shibboleth": {
         "en": "IMT Nord Europe",
