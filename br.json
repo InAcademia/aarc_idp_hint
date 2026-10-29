@@ -511,6 +511,10 @@
         "en": "CP2 - Colegio Pedro II",
         "pt-br": "CP2 - Colegio Pedro II"
     },
+    "https://idp-cafe.fab.mil.br/idp/shibboleth": {
+        "en": "UNIFA - Universidade da Forca Aerea",
+        "pt-br": "UNIFA - Universidade da Forca Aerea"
+    },
     "https://idp-cafe.ghc.com.br/idp/shibboleth": {
         "en": "GHC - Grupo Hospitalar Conceicao",
         "pt-br": "GHC - Grupo Hospitalar Conceicao"
@@ -554,10 +558,6 @@
     "https://idp-cafe.uneb.br/idp/shibboleth": {
         "en": "UNEB - Universidade do Estado da Bahia",
         "pt-br": "UNEB - Universidade do Estado da Bahia"
-    },
-    "https://idp-cafe.unifa.aer.mil.br/idp/shibboleth": {
-        "en": "UNIFA - Universidade da Forca Aerea",
-        "pt-br": "UNIFA - Universidade da Forca Aerea"
     },
     "https://idp-cafe.unifal-mg.edu.br/idp/shibboleth": {
         "en": "UNIFAL-MG - Universidade Federal de Alfenas",
@@ -1126,6 +1126,10 @@
     "https://shib.unila.edu.br/idp/shibboleth": {
         "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
         "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
+    },
+    "https://shibboleth.abc.org.br/idp/shibboleth": {
+        "en": "ABC - Academia Brasileira de Ciencias",
+        "pt-br": "ABC - Academia Brasileira de Ciencias"
     },
     "https://shibboleth.cetem.gov.br/idp/shibboleth": {
         "en": "CETEM - Centro de Tecnologia Mineral",

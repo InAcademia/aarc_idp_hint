@@ -4,8 +4,7 @@
         "et": "Estonian Business School"
     },
     "https://auth.ut.ee/idp/saml2/idp/metadata.php": {
-        "en": "University of Tartu",
-        "et": "Tartu Ülikool"
+        "en": "https://auth.ut.ee/idp/saml2/idp/metadata.php"
     },
     "https://id.artun.ee/simplesaml/saml2/idp/metadata.php": {
         "en": "Estonian Academy of Arts",

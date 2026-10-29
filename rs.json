@@ -52,7 +52,8 @@
         "sr": "Saobraćajni fakultet Univerziteta u Beogradu"
     },
     "https://idp.unibl.org/idp/shibboleth": {
-        "en": "https://idp.unibl.org/idp/shibboleth"
+        "en": "University of Banja Luka",
+        "sr": "Univerzitet u Banjoj Luci"
     },
     "https://idp.vin.bg.ac.rs/idp/shibboleth": {
         "en": "Vinca Institute of nuclear sciences",

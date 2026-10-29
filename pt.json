@@ -299,6 +299,10 @@
         "en": "UNL - NOVA SBE",
         "pt": "UNL - NOVA SBE"
     },
+    "https://idp.pbs.up.pt/idp/shibboleth": {
+        "en": "Porto Business School",
+        "pt": "Porto Business School"
+    },
     "https://idp.pres.ipv.pt/idp/shibboleth": {
         "en": "Universidade Politécnica de Viseu - Serviços da Presidência",
         "pt": "Universidade Politécnica de Viseu - Serviços da Presidência"

@@ -1435,6 +1435,10 @@
             "en": "CP2 - Colegio Pedro II",
             "pt-br": "CP2 - Colegio Pedro II"
         },
+        "https://idp-cafe.fab.mil.br/idp/shibboleth": {
+            "en": "UNIFA - Universidade da Forca Aerea",
+            "pt-br": "UNIFA - Universidade da Forca Aerea"
+        },
         "https://idp-cafe.ghc.com.br/idp/shibboleth": {
             "en": "GHC - Grupo Hospitalar Conceicao",
             "pt-br": "GHC - Grupo Hospitalar Conceicao"
@@ -1478,10 +1482,6 @@
         "https://idp-cafe.uneb.br/idp/shibboleth": {
             "en": "UNEB - Universidade do Estado da Bahia",
             "pt-br": "UNEB - Universidade do Estado da Bahia"
-        },
-        "https://idp-cafe.unifa.aer.mil.br/idp/shibboleth": {
-            "en": "UNIFA - Universidade da Forca Aerea",
-            "pt-br": "UNIFA - Universidade da Forca Aerea"
         },
         "https://idp-cafe.unifal-mg.edu.br/idp/shibboleth": {
             "en": "UNIFAL-MG - Universidade Federal de Alfenas",
@@ -2050,6 +2050,10 @@
         "https://shib.unila.edu.br/idp/shibboleth": {
             "en": "UNILA - Universidade Federal da Integracao Latino-Americana",
             "pt-br": "UNILA - Universidade Federal da Integracao Latino-Americana"
+        },
+        "https://shibboleth.abc.org.br/idp/shibboleth": {
+            "en": "ABC - Academia Brasileira de Ciencias",
+            "pt-br": "ABC - Academia Brasileira de Ciencias"
         },
         "https://shibboleth.cetem.gov.br/idp/shibboleth": {
             "en": "CETEM - Centro de Tecnologia Mineral",
@@ -8555,8 +8559,7 @@
             "et": "Estonian Business School"
         },
         "https://auth.ut.ee/idp/saml2/idp/metadata.php": {
-            "en": "University of Tartu",
-            "et": "Tartu Ülikool"
+            "en": "https://auth.ut.ee/idp/saml2/idp/metadata.php"
         },
         "https://id.artun.ee/simplesaml/saml2/idp/metadata.php": {
             "en": "Estonian Academy of Arts",
@@ -8615,6 +8618,10 @@
         "https://www.rediris.es/sir/atlanticomedioidp": {
             "en": "Universidad del Atlantico Medio",
             "es": "Universidad del Atlántico Medio"
+        },
+        "https://www.rediris.es/sir/bamidp": {
+            "en": "“Begoñako Andra Mari” College of Education",
+            "eu": "Escuela Universitaria de Magisterio \"Begoñako Andra Mari\""
         },
         "https://www.rediris.es/sir/bcblidp": {
             "en": "Basque Center on Cognition, Brain and Language",
@@ -17022,6 +17029,10 @@
             "en": "UNL - NOVA SBE",
             "pt": "UNL - NOVA SBE"
         },
+        "https://idp.pbs.up.pt/idp/shibboleth": {
+            "en": "Porto Business School",
+            "pt": "Porto Business School"
+        },
         "https://idp.pres.ipv.pt/idp/shibboleth": {
             "en": "Universidade Politécnica de Viseu - Serviços da Presidência",
             "pt": "Universidade Politécnica de Viseu - Serviços da Presidência"
@@ -17289,7 +17300,8 @@
             "sr": "Saobraćajni fakultet Univerziteta u Beogradu"
         },
         "https://idp.unibl.org/idp/shibboleth": {
-            "en": "https://idp.unibl.org/idp/shibboleth"
+            "en": "University of Banja Luka",
+            "sr": "Univerzitet u Banjoj Luci"
         },
         "https://idp.vin.bg.ac.rs/idp/shibboleth": {
             "en": "Vinca Institute of nuclear sciences",
