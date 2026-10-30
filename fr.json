@@ -43,6 +43,10 @@
         "en": "L'Institut Agro Dijon",
         "fr": "L'Institut Agro Dijon"
     },
+    "https://auth.argus.univ-tlse2.fr/saml/metadata/idp": {
+        "en": "University of Toulouse Jean Jaurès -Argus",
+        "fr": "Université Toulouse Jean Jaurès -Argus"
+    },
     "https://auth.centrale-marseille.fr/idp/shibboleth": {
         "en": "Centrale Méditerranée",
         "fr": "Centrale Méditerranée"
@@ -50,6 +54,10 @@
     "https://auth.chimie-paristech.fr/idp/saml2/metadata": {
         "en": "Ecole Nationale Supérieure de Chimie Paris",
         "fr": "Ecole Nationale Supérieure de Chimie Paris"
+    },
+    "https://auth.fun-edu.fr/realms/FUN-Company": {
+        "en": "FUN - France Université Numérique",
+        "fr": "FUN - France Université Numérique"
     },
     "https://auth.glesr.fr/realms/cnl": {
         "en": "CNL",

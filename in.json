@@ -134,6 +134,9 @@
     "https://idp.bdu.ac.in/idp/shibboleth": {
         "en": "Bharathidasan University"
     },
+    "https://idp.bgsbu.ac.in/idp/shibboleth": {
+        "en": "Baba Ghulam Shah Badshah University"
+    },
     "https://idp.bgu.ac.in/idp/shibboleth": {
         "en": "Birla Global University (BGU), Bhubaneswar"
     },
@@ -214,6 +217,9 @@
     },
     "https://idp.cssscal.org/idp/shibboleth": {
         "en": "The Centre for Studies in Social Sciences"
+    },
+    "https://idp.ctcri.org/idp/shibboleth": {
+        "en": "Central Tuber Crops Research Institute"
     },
     "https://idp.ctuap.ac.in/idp/shibboleth": {
         "en": "Central Tribal University of Andhra Pradesh (CTUAP)"
@@ -679,6 +685,9 @@
     },
     "https://idp.nidh.ac.in/idp/shibboleth": {
         "en": "National Institute of Design Haryana"
+    },
+    "https://idp.nif.org.in/idp/shibboleth": {
+        "en": "National Innovation Foundation - India"
     },
     "https://idp.nift.ac.in/idp/shibboleth": {
         "en": "National Institute Of Fashion Technology"
