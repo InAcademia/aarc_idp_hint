@@ -22,10 +22,6 @@
     "al": {
         "https://idp.rash.al/simplesaml/saml2/idp/metadata.php": {
             "en": "Albanian Academic Network - RASH"
-        },
-        "https://idp.unitir.edu.al/simplesaml/module.php/saml/idp/metadata.php": {
-            "en": "University of Tirana",
-            "sq": "Universiteti i Tiranës"
         }
     },
     "am": {
@@ -7046,6 +7042,10 @@
             "de": "Max-Planck-Institut für Softwaresysteme",
             "en": "Max Planck Institute for Software Systems"
         },
+        "https://idp.mpie.de/idp/shibboleth": {
+            "de": "Max-Planck-Institut für Nachhaltige Materialien GmbH",
+            "en": "Max Planck Institute for Sustainable Materials GmbH"
+        },
         "https://idp.mpp.mpg.de/": {
             "en": "Max Planck Institute for Physics"
         },
@@ -8596,6 +8596,9 @@
         "https://taat.eamt.ee/taat/saml2/idp/metadata.php": {
             "en": "Estonian Academy of Music and Theatre",
             "et": "Eesti Muusika- ja Teatriakadeemia"
+        },
+        "https://taat.hep.kbfi.ee/saml2/idp/metadata.php": {
+            "en": "https://taat.hep.kbfi.ee/saml2/idp/metadata.php"
         },
         "https://taat2.tktk.ee/simplesamlphp/saml2/idp/metadata.php": {
             "en": "Tallinna Tehnikakõrgkool",
@@ -10395,10 +10398,6 @@
         "https://idp3.cyceron.fr/idp/shibboleth": {
             "en": "Cyceron",
             "fr": "Cyceron"
-        },
-        "https://idp3.marnelavallee.archi.fr/idp/shibboleth": {
-            "en": "Ecole Nationale Supérieure d'Architecture de Paris-est Marne La Vallée",
-            "fr": "Ecole Nationale Supérieure d'Architecture de Paris-est Marne La Vallée"
         },
         "https://idp3.univ-lorraine.fr/idp/shibboleth": {
             "en": "Université de Lorraine",
