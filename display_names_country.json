@@ -1431,10 +1431,6 @@
             "en": "CP2 - Colegio Pedro II",
             "pt-br": "CP2 - Colegio Pedro II"
         },
-        "https://idp-cafe.fab.mil.br/idp/shibboleth": {
-            "en": "UNIFA - Universidade da Forca Aerea",
-            "pt-br": "UNIFA - Universidade da Forca Aerea"
-        },
         "https://idp-cafe.ghc.com.br/idp/shibboleth": {
             "en": "GHC - Grupo Hospitalar Conceicao",
             "pt-br": "GHC - Grupo Hospitalar Conceicao"
@@ -1478,6 +1474,10 @@
         "https://idp-cafe.uneb.br/idp/shibboleth": {
             "en": "UNEB - Universidade do Estado da Bahia",
             "pt-br": "UNEB - Universidade do Estado da Bahia"
+        },
+        "https://idp-cafe.unifa.fab.mil.br/idp/shibboleth": {
+            "en": "UNIFA - Universidade da Forca Aerea",
+            "pt-br": "UNIFA - Universidade da Forca Aerea"
         },
         "https://idp-cafe.unifal-mg.edu.br/idp/shibboleth": {
             "en": "UNIFAL-MG - Universidade Federal de Alfenas",
@@ -3450,6 +3450,10 @@
         "https://idp.cque.edu.cn/idp/shibboleth": {
             "en": "Chongqing University of Education",
             "zh": "重庆第二师范学院(Chongqing University of Education)"
+        },
+        "https://idp.cqust.edu.cn/idp/shibboleth": {
+            "en": "Chongqing University of Science and Technology",
+            "zh": "重庆科技大学(Chongqing University of Science and Technology)"
         },
         "https://idp.cqut.edu.cn/idp/shibboleth": {
             "en": "Chongqing University of Technology",
@@ -14639,6 +14643,13 @@
             "ro": "Universitatea de Stat din Comrat"
         }
     },
+    "me": {
+        "https://idp.ucg.ac.me/idp/shibboleth": {
+            "cnr": "Univerzitet Crne Gore - Zaposleni",
+            "en": "https://idp.ucg.ac.me/idp/shibboleth",
+            "sr": "Univerzitet Crne Gore - Zaposleni"
+        }
+    },
     "mk": {
         "https://idp-proxy.ugd.edu.mk": {
             "en": "https://idp-proxy.ugd.edu.mk"
@@ -16333,7 +16344,7 @@
             "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
         },
         "https://idpomren.su.edu.om/idp": {
-            "en": "Sohar University (shibboleth)"
+            "en": "Sohar University IDP (OMREN Federation)"
         }
     },
     "org": {
