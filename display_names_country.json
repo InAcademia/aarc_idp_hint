@@ -8563,7 +8563,8 @@
             "et": "Estonian Business School"
         },
         "https://auth.ut.ee/idp/saml2/idp/metadata.php": {
-            "en": "https://auth.ut.ee/idp/saml2/idp/metadata.php"
+            "en": "University of Tartu",
+            "et": "Tartu Ülikool"
         },
         "https://id.artun.ee/simplesaml/saml2/idp/metadata.php": {
             "en": "Estonian Academy of Arts",
@@ -14237,9 +14238,6 @@
     "kr": {
         "https://auth.ibs.re.kr/idp/simplesamlphp": {
             "en": "Institute for Basic Science"
-        },
-        "https://iam.kfe.re.kr/idp/simplesamlphp": {
-            "en": "Korea Institute of Fusion Energy"
         },
         "https://iam.kiom.re.kr/idp/simplesamlphp": {
             "en": "Korea Institute of Oriental Medicine"

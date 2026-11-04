@@ -2,9 +2,6 @@
     "https://auth.ibs.re.kr/idp/simplesamlphp": {
         "en": "Institute for Basic Science"
     },
-    "https://iam.kfe.re.kr/idp/simplesamlphp": {
-        "en": "Korea Institute of Fusion Energy"
-    },
     "https://iam.kiom.re.kr/idp/simplesamlphp": {
         "en": "Korea Institute of Oriental Medicine"
     },
