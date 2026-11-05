@@ -8162,6 +8162,10 @@
             "da": "Kræftens Bekæmpelse",
             "en": "Danish Cancer Society"
         },
+        "https://sts.windows.net/a3927f91-cda1-4696-af89-8c9f1ceffa91/": {
+            "da": "Københavns Universitet [EntraID]",
+            "en": "Københavns Universitet [EntraID]"
+        },
         "https://sts.windows.net/d6338997-214a-4f92-ba75-0397f10a84cc/": {
             "da": "Professionshøjskolen UCN",
             "en": "UCN"
@@ -9695,6 +9699,10 @@
         "https://egide.polytechnique.fr/idp/shibboleth": {
             "en": "X - Ecole Polytechnique",
             "fr": "X - Ecole Polytechnique"
+        },
+        "https://ensai-dsi-458.ensai.fr/idp/shibboleth": {
+            "en": "ENSAI - Nouveau - Ecole Nationale de la Statistique et de l'Analyse de l'Information",
+            "fr": "ENSAI - Nouveau - Ecole Nationale de la Statistique et de l'Analyse de l'Information"
         },
         "https://federation.ac-strasbourg.fr/idp/shibboleth": {
             "en": "Rectorat de Strasbourg",
@@ -14666,41 +14674,6 @@
     "mt": {
         "https://accounts.um.edu.mt/saml/saml2/idp": {
             "en": "University of Malta"
-        }
-    },
-    "mw": {
-        "https://idp-mca.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
-            "en": "Malawi College of Accountancy - MCA"
-        },
-        "https://idp-mzuzutech.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
-            "en": "Mzuzu Technical College"
-        },
-        "https://idp-sjifh.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
-            "en": "St John Institute For Health"
-        },
-        "https://idp-unilia.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
-            "en": "University of Livingstonia - UNILIA"
-        },
-        "https://idp.luanar.ac.mw/idp/shibboleth": {
-            "en": "Lilongwe University of Agriculture and Natural Resources - LUANAR"
-        },
-        "https://idp.maren.ac.mw/idp/shibboleth": {
-            "en": "Malawi Research and Education Network - MAREN"
-        },
-        "https://idp.mubas.ac.mw/idp/shibboleth": {
-            "en": "Malawi University of Business and Applied Sciences (MUBAS)"
-        },
-        "https://idp.must.ac.mw/idp/shibboleth": {
-            "en": "Malawi University of Science and Technology (MUST)"
-        },
-        "https://idp.mzuni.ac.mw/idp/shibboleth": {
-            "en": "Mzuzu University (MZUNI)"
-        },
-        "https://idp.saveproject.mw/idp/shibboleth": {
-            "en": "Ministry of Education"
-        },
-        "https://idp.unima.ac.mw/idp/shibboleth": {
-            "en": "University Of Malawi"
         }
     },
     "mx": {

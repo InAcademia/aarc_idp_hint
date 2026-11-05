@@ -147,6 +147,10 @@
         "en": "X - Ecole Polytechnique",
         "fr": "X - Ecole Polytechnique"
     },
+    "https://ensai-dsi-458.ensai.fr/idp/shibboleth": {
+        "en": "ENSAI - Nouveau - Ecole Nationale de la Statistique et de l'Analyse de l'Information",
+        "fr": "ENSAI - Nouveau - Ecole Nationale de la Statistique et de l'Analyse de l'Information"
+    },
     "https://federation.ac-strasbourg.fr/idp/shibboleth": {
         "en": "Rectorat de Strasbourg",
         "fr": "Rectorat de Strasbourg"
