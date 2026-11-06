@@ -903,6 +903,10 @@
         "en": "CIEP / France Education International",
         "fr": "CIEP / France Education International"
     },
+    "https://idpprodv5.ciep.fr/idp/shibboleth": {
+        "en": "France Education International (V5)",
+        "fr": "France Education International (V5)"
+    },
     "https://idpr4.imtbs-tsp.eu/idp/shibboleth": {
         "en": "Institut Mines Telecom Business School and Telecom SudParis (v4)",
         "fr": "Institut Mines Telecom Business School et Telecom SudParis (v4)"

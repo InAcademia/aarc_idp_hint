@@ -98,6 +98,10 @@
         "en": "Hoshi University",
         "ja": "星薬科大学"
     },
+    "https://hunet.ex-tic.com/auth/gakunin/saml2/assertions": {
+        "en": "Hiroshima City University(Extic)",
+        "ja": "広島市立大学(Extic)"
+    },
     "https://iaidp.ia.waseda.jp/idp/shibboleth": {
         "en": "Waseda University",
         "ja": "早稲田大学"
@@ -477,6 +481,10 @@
     "https://naganouniv.ex-tic.com/auth/gakunin/saml2/assertions": {
         "en": "Nagano University",
         "ja": "長野大学"
+    },
+    "https://naraidp.cc.nara-wu.ac.jp/idp/shibboleth": {
+        "en": "Nara Women's University",
+        "ja": "奈良女子大学"
     },
     "https://nifsacjp.ex-tic.com/auth/gakunin/saml2/assertions": {
         "en": "National Institute for Fusion Science (extic)",

@@ -848,6 +848,9 @@
     "https://idp.ritrjpm.edu.in/idp/shibboleth": {
         "en": "RAMCO INSTITUTE OF TECHNOLOGY"
     },
+    "https://idp.rpcau.ac.in/idp/shibboleth": {
+        "en": "Dr. Rajendra Prasad Central Agricultural University"
+    },
     "https://idp.rtuassam.ac.in/idp/shibboleth": {
         "en": "Rabindranath Tagore University"
     },
@@ -985,6 +988,9 @@
     },
     "https://idp.tumkuruniversity.ac.in/idp/shibboleth": {
         "en": "Tumkur University"
+    },
+    "https://idp.uasbangalore.edu.in/idp/shibboleth": {
+        "en": "University of Agricultural Sciences, Bangalore"
     },
     "https://idp.uasd.edu/idp/shibboleth": {
         "en": "University of Agricultural Sciences, Dharwad"
