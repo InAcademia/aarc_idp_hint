@@ -512,6 +512,9 @@
     "https://idp.kalingauniversity.ac.in/idp/shibboleth": {
         "en": "Kalinga University Raipur"
     },
+    "https://idp.kamdhenuuni.edu.in/idp/shibboleth": {
+        "en": "Kamdhenu University"
+    },
     "https://idp.kannuruniversity.ac.in/idp/shibboleth": {
         "en": "Kannur University"
     },
@@ -664,6 +667,9 @@
     },
     "https://idp.nagalanduniversity.ac.in/idp/shibboleth": {
         "en": "Nagaland University"
+    },
+    "https://idp.nbrc.ac.in/idp/shibboleth": {
+        "en": "National Brain Research Centre"
     },
     "https://idp.ncl.res.in/idp/shibboleth": {
         "en": "CSIR - National Chemical Laboratory (NCL)"
