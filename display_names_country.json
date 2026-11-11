@@ -504,6 +504,9 @@
         }
     },
     "bd": {
+        "https://idp.aiub.edu/idp/shibboleth": {
+            "en": "American International University Bangladesh"
+        },
         "https://idp.apacfilesender.asia/idp/shibboleth": {
             "en": "APAC Virtual Home"
         },
@@ -525,8 +528,14 @@
         "https://idp.buet.ac.bd/idp/shibboleth": {
             "en": "Bangladesh University of Engineering and Technology"
         },
+        "https://idp.cou.ac.bd/idp/shibboleth": {
+            "en": "Comilla University"
+        },
         "https://idp.cu.ac.bd/idp/shibboleth": {
             "en": "University of Chittagong (CU)"
+        },
+        "https://idp.cvasu.ac.bd/idp/shibboleth": {
+            "en": "Chattogram Veterinary and Animal Sciences University"
         },
         "https://idp.diu.edu.bd/idp/shibboleth": {
             "en": "Daffodil International University"
@@ -554,6 +563,9 @@
         },
         "https://idp.mist.ac.bd/idp/shibboleth": {
             "en": "Military Institute of Science and Technology"
+        },
+        "https://idp.nstu.edu.bd/idp/shibboleth": {
+            "en": "Noakhali Science and Technology University"
         },
         "https://idp.nu.ac.bd/idp/shibboleth": {
             "en": "National University Bangladesh"
@@ -8579,8 +8591,7 @@
             "et": "TalTech"
         },
         "https://memm.hep.kbfi.ee/saml2/idp/metadata.php": {
-            "en": "KBFI",
-            "et": "KBFI"
+            "en": "https://memm.hep.kbfi.ee/saml2/idp/metadata.php"
         },
         "https://passwd.tlu.ee/taatauth/saml2/idp/metadata.php": {
             "en": "Tallinn University",
@@ -9597,8 +9608,8 @@
             "fr": "L'Institut Agro Dijon"
         },
         "https://auth.argus.univ-tlse2.fr/saml/metadata/idp": {
-            "en": "University of Toulouse Jean Jaurès -Argus",
-            "fr": "Université Toulouse Jean Jaurès -Argus"
+            "en": "University of Toulouse Jean Jaurès",
+            "fr": "Université Toulouse Jean Jaurès"
         },
         "https://auth.centrale-marseille.fr/idp/shibboleth": {
             "en": "Centrale Méditerranée",
@@ -10517,8 +10528,8 @@
             "fr": "CAMPUS CONDORCET"
         },
         "https://ruhnu.univ-tlse2.fr/idp/shibboleth": {
-            "en": "University of Toulouse Jean Jaurès",
-            "fr": "Université Toulouse Jean Jaurès"
+            "en": "University of Toulouse Jean Jaurès - Old Ruhnu",
+            "fr": "Université Toulouse Jean Jaurès - Ancien Ruhnu"
         },
         "https://sac.ecam.fr/idp/shibboleth": {
             "en": "Ecam LaSalle",
@@ -11734,7 +11745,7 @@
     },
     "il": {
         "https://iif-ng.iucc.ac.il/sp/saml2/idp/metadata.php": {
-            "en": "Inter University Computation Center(IUCCng)"
+            "en": "Inter-University Computing & Innovation Center(IUCCng)"
         }
     },
     "in": {
@@ -16248,98 +16259,6 @@
         },
         "https://virtualhome.tuakiri.ac.nz/idp/shibboleth": {
             "en": "Tuakiri Virtual Home"
-        }
-    },
-    "om": {
-        "http://adfs.asu.edu.om/adfs/services/trust": {
-            "en": "A’Sharqiyah University"
-        },
-        "http://adfs.imco.edu.om/adfs/services/trust": {
-            "en": "International Maritime College Oman (IMCO)"
-        },
-        "http://adfs.mcbs.edu.om/adfs/services/trust": {
-            "en": "Modern College of Business & Science"
-        },
-        "http://adfs.muscatuniversity.edu.om/adfs/services/trust": {
-            "en": "MUSCAT UNIVERSITY"
-        },
-        "http://adfs.ndc.edu.om/adfs/services/trust": {
-            "en": "National Defense College"
-        },
-        "http://adfs.nu.edu.om/adfs/services/trust": {
-            "en": "National University of Science and Technology"
-        },
-        "http://adfs.otc.edu.om/adfs/services/trust": {
-            "en": "Oman Tourism College"
-        },
-        "http://adfs.sct.edu.om/adfs/services/trust": {
-            "en": "University of Technology and Applied Sciences - Salalah"
-        },
-        "http://adfs.squ.edu.om/adfs/services/trust": {
-            "en": "Sultan Qaboos University"
-        },
-        "http://lync.mec.edu.om/adfs/services/trust": {
-            "en": "Middle East College"
-        },
-        "https://accounts.google.com/o/saml2?idpid=C02afc2g7": {
-            "en": "University of Technology and Applied Sciences"
-        },
-        "https://idp.act.edu.om/idp": {
-            "en": "University of Technology and Applied Sciences - Al Musanna (shibboleth)"
-        },
-        "https://idp.css.edu.om/idp": {
-            "en": "College of Shari'a Sciences (shibb)"
-        },
-        "https://idp.du.edu.om/idp": {
-            "en": "Dhofar University (shibboleth_IDP)"
-        },
-        "https://idp.majlisoman.om/idp": {
-            "en": "Majlis Oman"
-        },
-        "https://idp.met.gov.om/idp": {
-            "en": "Directorate General Of Meteorology"
-        },
-        "https://idp.omren.om/idp": {
-            "en": "Oman Research and Education Network (Shibboleth)"
-        },
-        "https://idp.squ.edu.om/idp": {
-            "en": "Sultan Qaboos University (shibboleth)"
-        },
-        "https://idp.unizwa.edu.om/idp": {
-            "en": "University of Nizwa(shibboleth)"
-        },
-        "https://idp.uob.edu.om/idp": {
-            "en": "University of Buraimi (shibboleth)"
-        },
-        "https://idp01.buc.edu.om/idp/shibboleth": {
-            "en": "Al Buraimi University College (shibboleth)"
-        },
-        "https://idp02.ibrict.edu.om/idp": {
-            "en": "University of Technology and Applied Science - Ibri (Shibboleth)"
-        },
-        "https://idpomren.asds.edu.om/idp": {
-            "en": "Academy of Strategic and Defence Studies (shibboleth)"
-        },
-        "https://idpomren.hct.edu.om/idp": {
-            "en": "University of Technology and Applied Sciences - Muscat (shibboleth)"
-        },
-        "https://idpomren.ict.edu.om/idp": {
-            "en": "University of technology and applied science, ibra (shibboleth)"
-        },
-        "https://idpomren.majancollege.edu.om/idp": {
-            "en": "Majan University College(shibboleth)"
-        },
-        "https://idpomren.mtc.edu.om/idp": {
-            "en": "Military Technological College (shibboleth)"
-        },
-        "https://idpomren.muscatcollege.edu.om/idp": {
-            "en": "Muscat College (shibboleth)"
-        },
-        "https://idpomren.nct.edu.om/idp": {
-            "en": "University of Technology and Applied Sciences - Nizwa (shibboleth)"
-        },
-        "https://idpomren.su.edu.om/idp": {
-            "en": "Sohar University IDP (OMREN Federation)"
         }
     },
     "org": {

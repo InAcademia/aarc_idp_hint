@@ -1,4 +1,7 @@
 {
+    "https://idp.aiub.edu/idp/shibboleth": {
+        "en": "American International University Bangladesh"
+    },
     "https://idp.apacfilesender.asia/idp/shibboleth": {
         "en": "APAC Virtual Home"
     },
@@ -20,8 +23,14 @@
     "https://idp.buet.ac.bd/idp/shibboleth": {
         "en": "Bangladesh University of Engineering and Technology"
     },
+    "https://idp.cou.ac.bd/idp/shibboleth": {
+        "en": "Comilla University"
+    },
     "https://idp.cu.ac.bd/idp/shibboleth": {
         "en": "University of Chittagong (CU)"
+    },
+    "https://idp.cvasu.ac.bd/idp/shibboleth": {
+        "en": "Chattogram Veterinary and Animal Sciences University"
     },
     "https://idp.diu.edu.bd/idp/shibboleth": {
         "en": "Daffodil International University"
@@ -49,6 +58,9 @@
     },
     "https://idp.mist.ac.bd/idp/shibboleth": {
         "en": "Military Institute of Science and Technology"
+    },
+    "https://idp.nstu.edu.bd/idp/shibboleth": {
+        "en": "Noakhali Science and Technology University"
     },
     "https://idp.nu.ac.bd/idp/shibboleth": {
         "en": "National University Bangladesh"

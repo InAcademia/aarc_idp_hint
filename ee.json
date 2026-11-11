@@ -16,8 +16,7 @@
         "et": "TalTech"
     },
     "https://memm.hep.kbfi.ee/saml2/idp/metadata.php": {
-        "en": "KBFI",
-        "et": "KBFI"
+        "en": "https://memm.hep.kbfi.ee/saml2/idp/metadata.php"
     },
     "https://passwd.tlu.ee/taatauth/saml2/idp/metadata.php": {
         "en": "Tallinn University",
