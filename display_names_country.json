@@ -1811,6 +1811,10 @@
             "en": "UNIFESP - Universidade Federal de Sao Paulo",
             "pt-br": "UNIFESP - Universidade Federal de Sao Paulo"
         },
+        "https://idp.unifimes.edu.br/idp/shibboleth": {
+            "en": "UNIFIMES - Centro Universitario de Mineiros",
+            "pt-br": "UNIFIMES - Centro Universitario de Mineiros"
+        },
         "https://idp.unijorge.edu.br/idp/shibboleth": {
             "en": "UNIJORGE - Centro Universitario Jorge Amado",
             "pt-br": "UNIJORGE - Centro Universitario Jorge Amado"
@@ -2131,6 +2135,10 @@
             "en": "UCDB - Universidade Catolica Dom Bosco",
             "pt-br": "UCDB - Universidade Catolica Dom Bosco"
         },
+        "https://shibboleth.ueg.br/idp/shibboleth": {
+            "en": "UEG - Universidade Estadual de Goias",
+            "pt-br": "UEG - Universidade Estadual de Goias"
+        },
         "https://shibboleth.ufcg.edu.br/idp/shibboleth": {
             "en": "UFCG - Universidade Federal de Campina Grande",
             "pt-br": "UFCG - Universidade Federal de Campina Grande"
@@ -2214,10 +2222,6 @@
         "https://shibboleth4.cnpem.br/idp/shibboleth": {
             "en": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais",
             "pt-br": "CNPEM - Centro Nacional de Pesquisa em Energia e Materiais"
-        },
-        "https://shibboleth4.ueg.br/idp/shibboleth": {
-            "en": "UEG - Universidade Estadual de Goias",
-            "pt-br": "UEG - Universidade Estadual de Goias"
         },
         "https://shibboleth4.uem.br/idp/shibboleth": {
             "en": "UEM - Universidade Estadual de Maringa",
@@ -2917,6 +2921,10 @@
             "en": "ID REUNA",
             "es": "ID REUNA"
         },
+        "https://idp.reuna.cl/simplesaml/saml2/idp/metadata.php": {
+            "en": "Funcionarios REUNA",
+            "es": "Funcionarios REUNA"
+        },
         "https://idp.utalca.cl/simplesaml/saml2/idp/metadata.php": {
             "en": "Universidad de Talca",
             "es": "Universidad de Talca"
@@ -2924,10 +2932,6 @@
         "https://idp2.beic.cl/simplesaml/module.php/saml/idp/metadata": {
             "en": "BEIC - ANID",
             "es": "BEIC - ANID"
-        },
-        "https://idp2.reuna.cl/saml2/idp/metadata.php": {
-            "en": "Funcionarios REUNA",
-            "es": "Funcionarios REUNA"
         },
         "https://idp3.redclara.net/idp/shibboleth": {
             "en": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas",
@@ -8962,6 +8966,10 @@
         "https://www.rediris.es/sir/juntaexidp": {
             "en": "JUNTA DE EXTREMADURA - JUNTAEX",
             "es": "JUNTA DE EXTREMADURA - JUNTAEX"
+        },
+        "https://www.rediris.es/sir/knowdleidp": {
+            "en": "KNOWDLE FOUNDATION & RESEARCH INSTITUTE",
+            "es": "KNOWDLEQAI"
         },
         "https://www.rediris.es/sir/lightbridgesidp": {
             "en": "Light Bridges",

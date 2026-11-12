@@ -11,6 +11,10 @@
         "en": "ID REUNA",
         "es": "ID REUNA"
     },
+    "https://idp.reuna.cl/simplesaml/saml2/idp/metadata.php": {
+        "en": "Funcionarios REUNA",
+        "es": "Funcionarios REUNA"
+    },
     "https://idp.utalca.cl/simplesaml/saml2/idp/metadata.php": {
         "en": "Universidad de Talca",
         "es": "Universidad de Talca"
@@ -18,10 +22,6 @@
     "https://idp2.beic.cl/simplesaml/module.php/saml/idp/metadata": {
         "en": "BEIC - ANID",
         "es": "BEIC - ANID"
-    },
-    "https://idp2.reuna.cl/saml2/idp/metadata.php": {
-        "en": "Funcionarios REUNA",
-        "es": "Funcionarios REUNA"
     },
     "https://idp3.redclara.net/idp/shibboleth": {
         "en": "RedCLARA - Cooperacion Latino Americana de Redes Avanzadas",
