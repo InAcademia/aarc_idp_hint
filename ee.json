@@ -42,9 +42,6 @@
         "en": "Estonian Academy of Music and Theatre",
         "et": "Eesti Muusika- ja Teatriakadeemia"
     },
-    "https://taat.hep.kbfi.ee/saml2/idp/metadata.php": {
-        "en": "https://taat.hep.kbfi.ee/saml2/idp/metadata.php"
-    },
     "https://taat2.tktk.ee/simplesamlphp/saml2/idp/metadata.php": {
         "en": "Tallinna Tehnikakõrgkool",
         "et": "TTK University of Applied Sciences"

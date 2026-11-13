@@ -22,6 +22,10 @@
     "al": {
         "https://idp.rash.al/simplesaml/saml2/idp/metadata.php": {
             "en": "Albanian Academic Network - RASH"
+        },
+        "https://idp.unitir.edu.al/simplesaml/module.php/saml/idp/metadata.php": {
+            "en": "University of Tirana",
+            "sq": "Universiteti i Tiranës"
         }
     },
     "am": {
@@ -1018,6 +1022,10 @@
         "https://cafe.cnpq.br/idp/shibboleth": {
             "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
             "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
+        },
+        "https://cafe.cogna.com.br/idp/shibboleth": {
+            "en": "COGNA - Cogna Educacao",
+            "pt-br": "COGNA - Cogna Educacao"
         },
         "https://cafe.cpqd.com.br/idp/shibboleth": {
             "en": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes",
@@ -7015,6 +7023,10 @@
             "de": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)",
             "en": "Leibniz-Institut for Media Research, Hans-Bredow-Institut (HBI)"
         },
+        "https://idp.leibniz-irs.de/idp/shibboleth": {
+            "de": "Leibniz-Institut für Raumbezogene Sozialforschung (IRS) e.V",
+            "en": "Leibniz Institute for Research on Society and Space (IRS) e.V."
+        },
         "https://idp.leibniz-kis.de/idp/shibboleth": {
             "de": "Institut für Sonnenphysik (KIS)",
             "en": "Institute of Solar Physics (KIS)"
@@ -8620,9 +8632,6 @@
         "https://taat.eamt.ee/taat/saml2/idp/metadata.php": {
             "en": "Estonian Academy of Music and Theatre",
             "et": "Eesti Muusika- ja Teatriakadeemia"
-        },
-        "https://taat.hep.kbfi.ee/saml2/idp/metadata.php": {
-            "en": "https://taat.hep.kbfi.ee/saml2/idp/metadata.php"
         },
         "https://taat2.tktk.ee/simplesamlphp/saml2/idp/metadata.php": {
             "en": "Tallinna Tehnikakõrgkool",

@@ -87,6 +87,10 @@
         "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
         "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
     },
+    "https://cafe.cogna.com.br/idp/shibboleth": {
+        "en": "COGNA - Cogna Educacao",
+        "pt-br": "COGNA - Cogna Educacao"
+    },
     "https://cafe.cpqd.com.br/idp/shibboleth": {
         "en": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes",
         "pt-br": "CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicacoes"

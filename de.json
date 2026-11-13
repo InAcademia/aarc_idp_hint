@@ -767,6 +767,10 @@
         "de": "Leibniz-Institut für Medienforschung, Hans-Bredow-Institut (HBI)",
         "en": "Leibniz-Institut for Media Research, Hans-Bredow-Institut (HBI)"
     },
+    "https://idp.leibniz-irs.de/idp/shibboleth": {
+        "de": "Leibniz-Institut für Raumbezogene Sozialforschung (IRS) e.V",
+        "en": "Leibniz Institute for Research on Society and Space (IRS) e.V."
+    },
     "https://idp.leibniz-kis.de/idp/shibboleth": {
         "de": "Institut für Sonnenphysik (KIS)",
         "en": "Institute of Solar Physics (KIS)"
