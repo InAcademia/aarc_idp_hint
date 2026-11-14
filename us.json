@@ -815,6 +815,9 @@
     "https://myqlidp.otis.edu": {
         "en": "Otis College QuickLaunch"
     },
+    "https://ncshare-idp-01.ncshare.org/incommon-idp": {
+        "en": "NCShare"
+    },
     "https://netid.uwosh.edu/idp/shibboleth": {
         "en": "University of Wisconsin Oshkosh"
     },

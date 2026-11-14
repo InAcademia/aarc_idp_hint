@@ -303,10 +303,6 @@
         "en": "Porto Business School",
         "pt": "Porto Business School"
     },
-    "https://idp.pres.ipv.pt/idp/shibboleth": {
-        "en": "Universidade Politécnica de Viseu - Serviços da Presidência",
-        "pt": "Universidade Politécnica de Viseu - Serviços da Presidência"
-    },
     "https://idp.ua.pt/idp/shibboleth": {
         "en": "University of Aveiro",
         "pt": "Universidade de Aveiro"
@@ -346,6 +342,10 @@
     "https://idp.uminho.pt/idp/shibboleth": {
         "en": "University of Minho",
         "pt": "Universidade do Minho"
+    },
+    "https://idp.univiseu.pt/idp/shibboleth": {
+        "en": "Universidade Politécnica de Viseu",
+        "pt": "Universidade Politécnica de Viseu"
     },
     "https://idp.unl.pt/idp/shibboleth": {
         "en": "UNL - Reitoria",
