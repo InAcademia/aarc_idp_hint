@@ -1956,8 +1956,8 @@
             "pt-br": "UNIFRAN - Universidade de Franca"
         },
         "https://idpcafe.upe.br/idp/shibboleth": {
-            "en": "UPE - Universidade de Pernambuco - v4.2.1",
-            "pt-br": "UPE - Universidade de Pernambuco - v4.2.1"
+            "en": "UPE - Universidade de Pernambuco",
+            "pt-br": "UPE - Universidade de Pernambuco"
         },
         "https://idpcafe.usp.br/idp/shibboleth": {
             "en": "USP - Universidade de Sao Paulo",
@@ -7041,6 +7041,10 @@
         "https://idp.lifbi.de/idp/shibboleth": {
             "de": "Leibniz Institut für Bildungsverläufe - LIfBi",
             "en": "Leibniz Institut for Educational Trajectories  - LIfBi"
+        },
+        "https://idp.lit.eu/idp/shibboleth": {
+            "de": "Leibniz-Institut für Immuntherapie (LIT)",
+            "en": "Leibniz Institute for Immunotherapy (LIT)"
         },
         "https://idp.lrz.de/idp/shibboleth": {
             "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
@@ -13302,6 +13306,10 @@
         "https://idp.fbk.eu/idp/shibboleth": {
             "en": "Fondazione Bruno Kessler",
             "it": "Fondazione Bruno Kessler"
+        },
+        "https://idp.gchumanrights.org/idp/shibboleth": {
+            "en": "Global Campus of Human Rights",
+            "it": "Global Campus of Human Rights"
         },
         "https://idp.hunimed.eu/idp/shibboleth": {
             "en": "Humanitas University",

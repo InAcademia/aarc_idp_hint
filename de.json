@@ -786,6 +786,10 @@
         "de": "Leibniz Institut für Bildungsverläufe - LIfBi",
         "en": "Leibniz Institut for Educational Trajectories  - LIfBi"
     },
+    "https://idp.lit.eu/idp/shibboleth": {
+        "de": "Leibniz-Institut für Immuntherapie (LIT)",
+        "en": "Leibniz Institute for Immunotherapy (LIT)"
+    },
     "https://idp.lrz.de/idp/shibboleth": {
         "de": "Leibniz-Rechenzentrum (LRZ) / Bayerische Akademie der Wissenschaften (BAdW)",
         "en": "Leibniz Supercomputing Centre (LRZ)"
