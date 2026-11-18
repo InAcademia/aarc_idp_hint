@@ -1335,6 +1335,10 @@
             "en": "UNIPAMPA - Universidade Federal do Pampa",
             "pt-br": "UNIPAMPA - Universidade Federal do Pampa"
         },
+        "https://cafe.uniplaclages.edu.br/idp/shibboleth": {
+            "en": "UNIPLAC - Universidade do Planalto Catarinense",
+            "pt-br": "UNIPLAC - Universidade do Planalto Catarinense"
+        },
         "https://cafe.unitau.br/idp/shibboleth": {
             "en": "UNITAU - Universidade de Taubate",
             "pt-br": "UNITAU - Universidade de Taubate"
@@ -14734,6 +14738,38 @@
     "mt": {
         "https://accounts.um.edu.mt/saml/saml2/idp": {
             "en": "University of Malta"
+        }
+    },
+    "mw": {
+        "https://idp-mca.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+            "en": "Malawi College of Accountancy - MCA"
+        },
+        "https://idp-mzuzutech.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+            "en": "Mzuzu Technical College"
+        },
+        "https://idp-sjifh.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+            "en": "St John Institute For Health"
+        },
+        "https://idp-unilia.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
+            "en": "University of Livingstonia - UNILIA"
+        },
+        "https://idp.maren.ac.mw/idp/shibboleth": {
+            "en": "Malawi Research and Education Network - MAREN"
+        },
+        "https://idp.mubas.ac.mw/idp/shibboleth": {
+            "en": "Malawi University of Business and Applied Sciences (MUBAS)"
+        },
+        "https://idp.must.ac.mw/idp/shibboleth": {
+            "en": "Malawi University of Science and Technology (MUST)"
+        },
+        "https://idp.mzuni.ac.mw/idp/shibboleth": {
+            "en": "Mzuzu University (MZUNI)"
+        },
+        "https://idp.saveproject.mw/idp/shibboleth": {
+            "en": "Ministry of Education"
+        },
+        "https://idp.unima.ac.mw/idp/shibboleth": {
+            "en": "University Of Malawi"
         }
     },
     "mx": {
