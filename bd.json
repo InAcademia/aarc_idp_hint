@@ -38,6 +38,9 @@
     "https://idp.green.ac.bd/idp/shibboleth": {
         "en": "Green University of Bangladesh"
     },
+    "https://idp.hstu.ac.bd/idp/shibboleth": {
+        "en": "Hajee Mohammad Danesh Science and Technology University"
+    },
     "https://idp.iiuc.ac.bd/idp/shibboleth": {
         "en": "International Islamic University Chittagong"
     },
@@ -64,6 +67,9 @@
     },
     "https://idp.nu.ac.bd/idp/shibboleth": {
         "en": "National University Bangladesh"
+    },
+    "https://idp.rmstu.ac.bd/idp/shibboleth": {
+        "en": "Rangamati Science and Technology University"
     },
     "https://idp.ru.ac.bd/idp/shibboleth": {
         "en": "University of Rajshahi"

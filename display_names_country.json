@@ -547,6 +547,9 @@
         "https://idp.green.ac.bd/idp/shibboleth": {
             "en": "Green University of Bangladesh"
         },
+        "https://idp.hstu.ac.bd/idp/shibboleth": {
+            "en": "Hajee Mohammad Danesh Science and Technology University"
+        },
         "https://idp.iiuc.ac.bd/idp/shibboleth": {
             "en": "International Islamic University Chittagong"
         },
@@ -573,6 +576,9 @@
         },
         "https://idp.nu.ac.bd/idp/shibboleth": {
             "en": "National University Bangladesh"
+        },
+        "https://idp.rmstu.ac.bd/idp/shibboleth": {
+            "en": "Rangamati Science and Technology University"
         },
         "https://idp.ru.ac.bd/idp/shibboleth": {
             "en": "University of Rajshahi"
@@ -6519,6 +6525,9 @@
             "de": "DZNE Deutsches Zentrum fur Neurodegenerative Erkrankungen",
             "en": "DZNE Deutsches Zentrum fur Neurodegenerative Erkrankungen"
         },
+        "https://idp.e-b-z.de/idp/shibboleth": {
+            "en": "EBZ-idp.e-b-z.de"
+        },
         "https://idp.eah-jena.de/idp/shibboleth": {
             "de": "Ernst-Abbe-Hochschule Jena",
             "en": "Ernst-Abbe-Hochschule Jena"
@@ -12107,6 +12116,9 @@
         "https://idp.icar.org.in/idp/shibboleth": {
             "en": "Indian Council of Agricultural Research"
         },
+        "https://idp.icardfr.in/idp/shibboleth": {
+            "en": "ICAR-Directorate of Floricultural Research (ICAR-DFR)"
+        },
         "https://idp.idealinstitute.edu.in/idp/shibboleth": {
             "en": "Ideal Institute Of Management And Technology And School Of Law"
         },
@@ -13932,6 +13944,10 @@
         "https://idp.tohtech.ac.jp/idp/shibboleth": {
             "en": "Tohoku Institute of Technology",
             "ja": "東北工業大学"
+        },
+        "https://idp.tottori-u.ac.jp/idp/shibboleth": {
+            "en": "Tottori University",
+            "ja": "鳥取大学"
         },
         "https://idp.toyaku.ac.jp/idp/shibboleth": {
             "en": "Tokyo University of Pharmacy and Life Sciences",
@@ -22563,9 +22579,6 @@
         },
         "https://login.ithaca.edu/idp/shibboleth": {
             "en": "Ithaca College"
-        },
-        "https://login.lemoyne.edu": {
-            "en": "LeMoyne College"
         },
         "https://login.ligo.org/idp/shibboleth": {
             "en": "LIGO Scientific Collaboration"

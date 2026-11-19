@@ -713,9 +713,6 @@
     "https://login.ithaca.edu/idp/shibboleth": {
         "en": "Ithaca College"
     },
-    "https://login.lemoyne.edu": {
-        "en": "LeMoyne College"
-    },
     "https://login.ligo.org/idp/shibboleth": {
         "en": "LIGO Scientific Collaboration"
     },

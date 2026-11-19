@@ -332,6 +332,9 @@
     "https://idp.icar.org.in/idp/shibboleth": {
         "en": "Indian Council of Agricultural Research"
     },
+    "https://idp.icardfr.in/idp/shibboleth": {
+        "en": "ICAR-Directorate of Floricultural Research (ICAR-DFR)"
+    },
     "https://idp.idealinstitute.edu.in/idp/shibboleth": {
         "en": "Ideal Institute Of Management And Technology And School Of Law"
     },
