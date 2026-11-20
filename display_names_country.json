@@ -11610,10 +11610,6 @@
             "en": "SZTAKI staff",
             "hu": "SZTAKI Munkatársak"
         },
-        "https://login.bme.hu/idp/shibboleth": {
-            "en": "Budapest University of Technology and Economics",
-            "hu": "Budapesti Műszaki és Gazdaságtudományi Egyetem"
-        },
         "https://papi.kfki.hu/idp/shibboleth": {
             "en": "Wigner Research Centre for Physics",
             "hu": "Wigner Fizikai Kutatóközpont"
@@ -13331,6 +13327,10 @@
             "en": "Humanitas University",
             "it": "Humanitas University"
         },
+        "https://idp.ictp.it/simplesaml/saml2/idp/metadata.php": {
+            "en": "The Abdus Salam International Centre for Theoretical Physics (ICTP)",
+            "it": "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+        },
         "https://idp.iit.it/idp/shibboleth": {
             "en": "IIT - Istituto Italiano di Tecnologia",
             "it": "IIT - Istituto Italiano di Tecnologia"
@@ -14626,12 +14626,6 @@
         }
     },
     "lv": {
-        "https://du-idp.lanet.lv": {
-            "en": "Daugavpils University"
-        },
-        "https://id.lndb.lv": {
-            "en": "LNB"
-        },
         "https://idp.laife.lv/saml-idp": {
             "en": "LAIFE (Latvian academic identity federation)",
             "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
@@ -14641,9 +14635,6 @@
         },
         "https://liepu-idp.lanet.lv": {
             "en": "Liepaja University"
-        },
-        "https://lka-idp.lanet.lv": {
-            "en": "Latvian Academy of Culture"
         },
         "https://lkk-idp.lanet.lv": {
             "en": "Latvian College of Culture at the Latvian Academy of Culture"
@@ -14677,9 +14668,6 @@
         },
         "https://skmms-idp.lanet.lv": {
             "en": "Riga Red Cross Medical College"
-        },
-        "https://va-idp.lanet.lv": {
-            "en": "Vidzeme University of Applied Sciences"
         },
         "https://vea-idp.lanet.lv": {
             "en": "Ventspils University College"
@@ -14768,6 +14756,9 @@
         },
         "https://idp-unilia.maren.ac.mw/simplesaml/saml2/idp/metadata.php": {
             "en": "University of Livingstonia - UNILIA"
+        },
+        "https://idp.kuhes.ac.mw/idp/shibboleth": {
+            "en": "Kamuzu University of Health Sciences - KUHES"
         },
         "https://idp.maren.ac.mw/idp/shibboleth": {
             "en": "Malawi Research and Education Network - MAREN"
@@ -16239,8 +16230,8 @@
             "nl": "Thomas More Hogeschool"
         },
         "https://sts.windows.net/e8e5eb49-74bd-45b9-905a-1193cb5a9913/": {
-            "en": "Landstede Groep (Landstede MBO, mbo Menso Alting, CSE Topsportacademie, StartCollege)",
-            "nl": "Landstede Groep (Landstede MBO, mbo Menso Alting, CSE Topsportacademie, StartCollege)"
+            "en": "Onderwijsgroep Landstede (Landstede MBO, mbo Menso Alting, CSE Topsportacademie, StartCollege)",
+            "nl": "Onderwijsgroep Landstede (Landstede MBO, mbo Menso Alting, CSE Topsportacademie, StartCollege)"
         },
         "https://sts.windows.net/ea39d597-c395-4a33-b8bc-2c01f8e147e5/": {
             "en": "Centerdata",

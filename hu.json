@@ -283,10 +283,6 @@
         "en": "SZTAKI staff",
         "hu": "SZTAKI Munkatársak"
     },
-    "https://login.bme.hu/idp/shibboleth": {
-        "en": "Budapest University of Technology and Economics",
-        "hu": "Budapesti Műszaki és Gazdaságtudományi Egyetem"
-    },
     "https://papi.kfki.hu/idp/shibboleth": {
         "en": "Wigner Research Centre for Physics",
         "hu": "Wigner Fizikai Kutatóközpont"

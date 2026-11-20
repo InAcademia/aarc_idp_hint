@@ -1,10 +1,4 @@
 {
-    "https://du-idp.lanet.lv": {
-        "en": "Daugavpils University"
-    },
-    "https://id.lndb.lv": {
-        "en": "LNB"
-    },
     "https://idp.laife.lv/saml-idp": {
         "en": "LAIFE (Latvian academic identity federation)",
         "lv": "LAIFE (Latvijas akadēmiskās identitātes federācija)"
@@ -14,9 +8,6 @@
     },
     "https://liepu-idp.lanet.lv": {
         "en": "Liepaja University"
-    },
-    "https://lka-idp.lanet.lv": {
-        "en": "Latvian Academy of Culture"
     },
     "https://lkk-idp.lanet.lv": {
         "en": "Latvian College of Culture at the Latvian Academy of Culture"
@@ -50,9 +41,6 @@
     },
     "https://skmms-idp.lanet.lv": {
         "en": "Riga Red Cross Medical College"
-    },
-    "https://va-idp.lanet.lv": {
-        "en": "Vidzeme University of Applied Sciences"
     },
     "https://vea-idp.lanet.lv": {
         "en": "Ventspils University College"
