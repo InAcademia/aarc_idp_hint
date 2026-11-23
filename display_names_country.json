@@ -8616,8 +8616,7 @@
             "et": "Eesti Kunstiakadeemia"
         },
         "https://idp.taltech.ee/simplesaml/module.php/saml/idp/metadata": {
-            "en": "TalTech",
-            "et": "TalTech"
+            "en": "https://idp.taltech.ee/simplesaml/module.php/saml/idp/metadata"
         },
         "https://memm.hep.kbfi.ee/saml2/idp/metadata.php": {
             "en": "https://memm.hep.kbfi.ee/saml2/idp/metadata.php"
