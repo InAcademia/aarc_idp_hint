@@ -606,9 +606,6 @@
         }
     },
     "be": {
-        "http://adfs.africamuseum.be/adfs/services/trust": {
-            "en": "Africamuseum IdP"
-        },
         "http://adfs.ilvo.be/adfs/services/trust": {
             "en": "Instituut voor Landbouw-, Visserij- en Voedingsonderzoek"
         },
@@ -768,6 +765,9 @@
         },
         "https://secure.etnic.be/nidp/saml2/metadata": {
             "en": "FWB"
+        },
+        "https://shibbo24.africamuseum.be/idp/shibboleth": {
+            "en": "Africamuseum IdP"
         },
         "https://sso.hogent.be/idp": {
             "en": "Hogent"
@@ -10449,8 +10449,8 @@
             "fr": "Universcience-EPPDCSI"
         },
         "https://idp3.agroparistech.fr/idp/shibboleth": {
-            "en": "IDP3 AGroParisTech",
-            "fr": "IDP3 AGroParisTech"
+            "en": "AgroParisTech",
+            "fr": "AgroParisTech"
         },
         "https://idp3.cyceron.fr/idp/shibboleth": {
             "en": "Cyceron",
