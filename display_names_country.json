@@ -1553,6 +1553,10 @@
             "en": "EBMSP - Escola Bahiana de Medicina e Saude Publica",
             "pt-br": "EBMSP - Escola Bahiana de Medicina e Saude Publica"
         },
+        "https://idp.capes.gov.br/idp/shibboleth": {
+            "en": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior",
+            "pt-br": "CAPES - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior"
+        },
         "https://idp.cefetmg.br/idp/shibboleth": {
             "en": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais",
             "pt-br": "CEFET-MG - Centro Federal de Educacao Tecnologica de Minas Gerais"
@@ -6337,6 +6341,10 @@
             "de": "THGA Bochum",
             "en": "THGA Bochum"
         },
+        "https://chip.is.mpg.de/idp/shibboleth": {
+            "de": "Max-Planck-Institut für Intelligente Systeme",
+            "en": "Max-Planck-Institute for Intelligent Systems"
+        },
         "https://crux.hrz.tu-freiberg.de/shibboleth": {
             "de": "TU Bergakademie Freiberg",
             "en": "TU Bergakademie Freiberg"
@@ -8622,8 +8630,7 @@
             "en": "https://memm.hep.kbfi.ee/saml2/idp/metadata.php"
         },
         "https://passwd.tlu.ee/taatauth/saml2/idp/metadata.php": {
-            "en": "Tallinn University",
-            "et": "Tallinna Ülikool"
+            "en": "https://passwd.tlu.ee/taatauth/saml2/idp/metadata.php"
         },
         "https://simplesaml.eek.ee/saml2/idp/metadata.php": {
             "en": "Estonian Entrepreneurship University Of Applied Sciences",
@@ -13747,6 +13754,10 @@
         "https://idp.cais.niigata-u.ac.jp/idp/shibboleth": {
             "en": "Niigata University",
             "ja": "新潟大学"
+        },
+        "https://idp.cc.ehime-u.ac.jp/idp/shibboleth": {
+            "en": "Ehime University",
+            "ja": "愛媛大学"
         },
         "https://idp.cc.iwate-u.ac.jp/idp/shibboleth": {
             "en": "Iwate University",
@@ -21958,9 +21969,6 @@
         "https://auth.manhattan.edu/idp/shibboleth": {
             "en": "Manhattan College"
         },
-        "https://auth.owens.edu": {
-            "en": "Owens Community College"
-        },
         "https://auth.unk.edu/idp/shibboleth": {
             "en": "University of Nebraska At Kearney"
         },
@@ -22502,7 +22510,7 @@
             "en": "William Paterson University"
         },
         "https://idp.wvu.edu/idp/shibboleth": {
-            "en": "West Virginia University"
+            "en": "Legacy West Virginia University"
         },
         "https://idp01.broadinstitute.org/idp/shibboleth": {
             "en": "Broad Institute of MIT and Harvard"
@@ -23246,7 +23254,7 @@
             "en": "Yavapai College"
         },
         "https://sso2.wvu.edu/idp": {
-            "en": "Upcoming West Virginia University"
+            "en": "West Virginia University"
         },
         "https://ssofed.naz.edu/idp": {
             "en": "Nazareth College of Rochester"

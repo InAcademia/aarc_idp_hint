@@ -101,9 +101,6 @@
     "https://auth.manhattan.edu/idp/shibboleth": {
         "en": "Manhattan College"
     },
-    "https://auth.owens.edu": {
-        "en": "Owens Community College"
-    },
     "https://auth.unk.edu/idp/shibboleth": {
         "en": "University of Nebraska At Kearney"
     },
@@ -645,7 +642,7 @@
         "en": "William Paterson University"
     },
     "https://idp.wvu.edu/idp/shibboleth": {
-        "en": "West Virginia University"
+        "en": "Legacy West Virginia University"
     },
     "https://idp01.broadinstitute.org/idp/shibboleth": {
         "en": "Broad Institute of MIT and Harvard"
@@ -1389,7 +1386,7 @@
         "en": "Yavapai College"
     },
     "https://sso2.wvu.edu/idp": {
-        "en": "Upcoming West Virginia University"
+        "en": "West Virginia University"
     },
     "https://ssofed.naz.edu/idp": {
         "en": "Nazareth College of Rochester"

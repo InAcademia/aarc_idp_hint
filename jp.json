@@ -134,6 +134,10 @@
         "en": "Niigata University",
         "ja": "新潟大学"
     },
+    "https://idp.cc.ehime-u.ac.jp/idp/shibboleth": {
+        "en": "Ehime University",
+        "ja": "愛媛大学"
+    },
     "https://idp.cc.iwate-u.ac.jp/idp/shibboleth": {
         "en": "Iwate University",
         "ja": "岩手大学"

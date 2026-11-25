@@ -18,8 +18,7 @@
         "en": "https://memm.hep.kbfi.ee/saml2/idp/metadata.php"
     },
     "https://passwd.tlu.ee/taatauth/saml2/idp/metadata.php": {
-        "en": "Tallinn University",
-        "et": "Tallinna Ülikool"
+        "en": "https://passwd.tlu.ee/taatauth/saml2/idp/metadata.php"
     },
     "https://simplesaml.eek.ee/saml2/idp/metadata.php": {
         "en": "Estonian Entrepreneurship University Of Applied Sciences",
