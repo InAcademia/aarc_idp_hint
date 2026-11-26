@@ -329,6 +329,9 @@
     "https://idp.iare.ac.in/idp/shibboleth": {
         "en": "Institute of Aeronautical Engineering"
     },
+    "https://idp.icar-iigr.org.in/idp/shibboleth": {
+        "en": "ICAR - Indian Institute of Groundnut Research"
+    },
     "https://idp.icar.org.in/idp/shibboleth": {
         "en": "Indian Council of Agricultural Research"
     },
@@ -563,6 +566,9 @@
     "https://idp.kongu.edu/idp/shibboleth": {
         "en": "Kongu Engineering College"
     },
+    "https://idp.kud.ac.in/idp/shibboleth": {
+        "en": "Karnatak University, Dharwad"
+    },
     "https://idp.kuhs.ac.in/idp/shibboleth": {
         "en": "Kerala University of Health Sciences (KUHS)"
     },
@@ -712,6 +718,9 @@
     },
     "https://idp.niperrbl.ac.in/idp/shibboleth": {
         "en": "National Institute of Pharmaceutical Education and Research-Raebareli"
+    },
+    "https://idp.nipgr.ac.in/idp/shibboleth": {
+        "en": "National Institute of Plant Genome research"
     },
     "https://idp.nita.ac.in/idp/shibboleth": {
         "en": "National Institute of Technology Agartala"
@@ -886,6 +895,9 @@
     },
     "https://idp.sece.ac.in/idp/shibboleth": {
         "en": "Sri Eshwar College of Engineering"
+    },
+    "https://idp.seedicar.org.in/idp/shibboleth": {
+        "en": "ICAR-National Institute of Seed Science and Technology"
     },
     "https://idp.sggu.ac.in/idp/shibboleth": {
         "en": "Shri Govind Guru University Godhra"

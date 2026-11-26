@@ -1025,6 +1025,10 @@
             "en": "CESUPA - Centro Universitario do Estado do Para",
             "pt-br": "CESUPA - Centro Universitario do Estado do Para"
         },
+        "https://cafe.cetiqt.senai.br/idp/shibboleth": {
+            "en": "SENAI CETIQT - Centro de Tecnologia da Industria Quimica e Textil",
+            "pt-br": "SENAI CETIQT - Centro de Tecnologia da Industria Quimica e Textil"
+        },
         "https://cafe.cnpq.br/idp/shibboleth": {
             "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
             "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"
@@ -9051,6 +9055,10 @@
             "en": "SANDETEL",
             "es": "SANDETEL"
         },
+        "https://www.rediris.es/sir/sapacidp": {
+            "en": "SAPaC: Sociedad de Arqueometría Aplicada al Patrimonio Cultural",
+            "es": "SAPaC: Sociedad de Arqueometría Aplicada al Patrimonio Cultural"
+        },
         "https://www.rediris.es/sir/sergasidp": {
             "en": "Servizo Galego de Saúde",
             "es": "Servizo Galego de Saúde"
@@ -11649,6 +11657,11 @@
             "hu": "eduID.hu Virtual Home (VHO)"
         }
     },
+    "id": {
+        "https://idp.uii.ac.id/idp/shibboleth": {
+            "en": "IDP Universitas Islam Indonesia"
+        }
+    },
     "ie": {
         "http://adfs.edenireland.ie/adfs/services/trust": {
             "en": "Environmental Protection Agency"
@@ -11755,9 +11768,6 @@
         "https://idp.ul.ie/idp/shibboleth": {
             "en": "University of Limerick",
             "ga": "Ollscoil Luimnigh"
-        },
-        "https://idp.wit.ie/idp/shibboleth": {
-            "en": "South East Technological University (@wit.ie logins)"
         },
         "https://idp2.dcu.ie/idp/profile/Metadata/SAML": {
             "en": "Dublin City University"
@@ -12115,6 +12125,9 @@
         "https://idp.iare.ac.in/idp/shibboleth": {
             "en": "Institute of Aeronautical Engineering"
         },
+        "https://idp.icar-iigr.org.in/idp/shibboleth": {
+            "en": "ICAR - Indian Institute of Groundnut Research"
+        },
         "https://idp.icar.org.in/idp/shibboleth": {
             "en": "Indian Council of Agricultural Research"
         },
@@ -12349,6 +12362,9 @@
         "https://idp.kongu.edu/idp/shibboleth": {
             "en": "Kongu Engineering College"
         },
+        "https://idp.kud.ac.in/idp/shibboleth": {
+            "en": "Karnatak University, Dharwad"
+        },
         "https://idp.kuhs.ac.in/idp/shibboleth": {
             "en": "Kerala University of Health Sciences (KUHS)"
         },
@@ -12498,6 +12514,9 @@
         },
         "https://idp.niperrbl.ac.in/idp/shibboleth": {
             "en": "National Institute of Pharmaceutical Education and Research-Raebareli"
+        },
+        "https://idp.nipgr.ac.in/idp/shibboleth": {
+            "en": "National Institute of Plant Genome research"
         },
         "https://idp.nita.ac.in/idp/shibboleth": {
             "en": "National Institute of Technology Agartala"
@@ -12672,6 +12691,9 @@
         },
         "https://idp.sece.ac.in/idp/shibboleth": {
             "en": "Sri Eshwar College of Engineering"
+        },
+        "https://idp.seedicar.org.in/idp/shibboleth": {
+            "en": "ICAR-National Institute of Seed Science and Technology"
         },
         "https://idp.sggu.ac.in/idp/shibboleth": {
             "en": "Shri Govind Guru University Godhra"
@@ -16347,6 +16369,9 @@
     "pk": {
         "https://idp.bahria.edu.pk/idp/shibboleth": {
             "en": "Bahria University Pakistan"
+        },
+        "https://idp.bbsul.edu.pk/idp/shibboleth": {
+            "en": "Benazir Bhutto Shaheed University Lyari, Karachi Pakistan"
         },
         "https://idp.comsats.edu.pk/idp/shibboleth": {
             "en": "COMSATS University Islamabad (CUI)"

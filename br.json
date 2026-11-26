@@ -83,6 +83,10 @@
         "en": "CESUPA - Centro Universitario do Estado do Para",
         "pt-br": "CESUPA - Centro Universitario do Estado do Para"
     },
+    "https://cafe.cetiqt.senai.br/idp/shibboleth": {
+        "en": "SENAI CETIQT - Centro de Tecnologia da Industria Quimica e Textil",
+        "pt-br": "SENAI CETIQT - Centro de Tecnologia da Industria Quimica e Textil"
+    },
     "https://cafe.cnpq.br/idp/shibboleth": {
         "en": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico",
         "pt-br": "CNPQ - Conselho Nacional de Desenvolvimento Cientifico e Tecnologico"

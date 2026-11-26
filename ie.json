@@ -105,9 +105,6 @@
         "en": "University of Limerick",
         "ga": "Ollscoil Luimnigh"
     },
-    "https://idp.wit.ie/idp/shibboleth": {
-        "en": "South East Technological University (@wit.ie logins)"
-    },
     "https://idp2.dcu.ie/idp/profile/Metadata/SAML": {
         "en": "Dublin City University"
     },
