@@ -813,6 +813,10 @@
         "de": "Staatliche Hochschule für Musik Trossingen",
         "en": "Trossingen University of Music"
     },
+    "https://idp.mhb-fontane.de/idp/shibboleth": {
+        "de": "Medizinische Hochschule Brandenburg (MHB)",
+        "en": "Brandenburg Medical School (MHB)"
+    },
     "https://idp.mpi-bremen.de/idp/shibboleth": {
         "de": "Max-Planck-Institut für Marine Mikrobiologie",
         "en": "Max Planck Institute for Marine  Microbiology"

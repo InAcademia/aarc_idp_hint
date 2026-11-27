@@ -1569,6 +1569,10 @@
             "en": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada",
             "pt-br": "CEITEC - Centro Nacional de Tecnologia Eletronica Avancada"
         },
+        "https://idp.ceuma.br/idp/shibboleth": {
+            "en": "CEUMA - Universidade CEUMA",
+            "pt-br": "CEUMA - Universidade CEUMA"
+        },
         "https://idp.cnen.gov.br/idp/shibboleth": {
             "en": "CNEN - Comissao Nacional de Energia Nuclear",
             "pt-br": "CNEN - Comissao Nacional de Energia Nuclear"
@@ -7082,6 +7086,10 @@
         "https://idp.mh-trossingen.de/idp/shibboleth": {
             "de": "Staatliche Hochschule für Musik Trossingen",
             "en": "Trossingen University of Music"
+        },
+        "https://idp.mhb-fontane.de/idp/shibboleth": {
+            "de": "Medizinische Hochschule Brandenburg (MHB)",
+            "en": "Brandenburg Medical School (MHB)"
         },
         "https://idp.mpi-bremen.de/idp/shibboleth": {
             "de": "Max-Planck-Institut für Marine Mikrobiologie",
